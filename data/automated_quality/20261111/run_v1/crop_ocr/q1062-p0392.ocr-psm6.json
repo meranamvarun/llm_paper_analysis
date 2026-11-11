@@ -1,0 +1,632 @@
+{
+  "pdf_page": 392,
+  "crop_top": 139.8813600000001,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.10 A,B,C, D, and E, while carrying away property obtained by theft committed in a house fired shots in the air with a view to scare away the inmates, from",
+      "bbox": [
+        42.0,
+        3.3,
+        535.5,
+        9.9
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "pursuing them. They are guilty of:",
+      "bbox": [
+        62.699999999999996,
+        12.6,
+        167.1,
+        19.2
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "ans x",
+      "bbox": [
+        43.199999999999996,
+        24.0,
+        86.7,
+        36.9
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "1. extortion",
+      "bbox": [
+        88.5,
+        34.199999999999996,
+        123.0,
+        38.99999999999999
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "vw.",
+      "bbox": [
+        72.6,
+        43.199999999999996,
+        93.0,
+        63.0
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "dacoity",
+      "bbox": [
+        95.7,
+        55.199999999999996,
+        117.3,
+        61.8
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "x",
+      "bbox": [
+        73.2,
+        66.89999999999999,
+        86.7,
+        79.49999999999999
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "3. roit",
+      "bbox": [
+        88.2,
+        76.8,
+        105.9,
+        81.6
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "x,",
+      "bbox": [
+        73.2,
+        88.2,
+        93.0,
+        103.2
+      ]
+    },
+    {
+      "line_id": "l0009",
+      "text": "theft",
+      "bbox": [
+        95.39999999999999,
+        98.1,
+        110.1,
+        103.19999999999999
+      ]
+    }
+  ],
+  "text": "Q.10 A,B,C, D, and E, while carrying away property obtained by theft committed in a house fired shots in the air with a view to scare away the inmates, from\npursuing them. They are guilty of:\nans x\n1. extortion\nvw.\ndacoity\nx\n3. roit\nx,\ntheft",
+  "ocr_words": [
+    {
+      "text": "Q.10",
+      "x0": 42.0,
+      "top": 3.5999999999999996,
+      "x1": 56.1,
+      "bottom": 9.3,
+      "confidence": 91.420502,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A,B,C,",
+      "x0": 62.4,
+      "top": 3.5999999999999996,
+      "x1": 84.0,
+      "bottom": 9.6,
+      "confidence": 86.288498,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "D,",
+      "x0": 86.39999999999999,
+      "top": 3.5999999999999996,
+      "x1": 92.39999999999999,
+      "bottom": 9.6,
+      "confidence": 86.444321,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 94.5,
+      "top": 3.3,
+      "x1": 105.6,
+      "bottom": 8.399999999999999,
+      "confidence": 89.052803,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "E,",
+      "x0": 108.3,
+      "top": 3.5999999999999996,
+      "x1": 113.1,
+      "bottom": 9.6,
+      "confidence": 89.052803,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "while",
+      "x0": 115.19999999999999,
+      "top": 3.3,
+      "x1": 132.0,
+      "bottom": 8.399999999999999,
+      "confidence": 96.581177,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "carrying",
+      "x0": 134.1,
+      "top": 3.5999999999999996,
+      "x1": 159.0,
+      "bottom": 9.899999999999999,
+      "confidence": 96.429092,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "away",
+      "x0": 160.79999999999998,
+      "top": 4.8,
+      "x1": 176.99999999999997,
+      "bottom": 9.899999999999999,
+      "confidence": 96.36364,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "property",
+      "x0": 179.4,
+      "top": 3.9,
+      "x1": 206.1,
+      "bottom": 9.9,
+      "confidence": 96.610237,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "obtained",
+      "x0": 208.2,
+      "top": 3.3,
+      "x1": 235.5,
+      "bottom": 8.399999999999999,
+      "confidence": 96.707008,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "by",
+      "x0": 238.2,
+      "top": 3.3,
+      "x1": 245.1,
+      "bottom": 9.899999999999999,
+      "confidence": 96.665604,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "theft",
+      "x0": 247.2,
+      "top": 3.3,
+      "x1": 262.2,
+      "bottom": 8.399999999999999,
+      "confidence": 96.500252,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "committed",
+      "x0": 264.3,
+      "top": 3.3,
+      "x1": 297.90000000000003,
+      "bottom": 8.399999999999999,
+      "confidence": 95.545166,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 300.3,
+      "top": 3.5999999999999996,
+      "x1": 305.40000000000003,
+      "bottom": 8.399999999999999,
+      "confidence": 94.988907,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 307.8,
+      "top": 4.8,
+      "x1": 310.8,
+      "bottom": 8.399999999999999,
+      "confidence": 94.988907,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "house",
+      "x0": 313.5,
+      "top": 3.3,
+      "x1": 331.5,
+      "bottom": 8.399999999999999,
+      "confidence": 96.956139,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "fired",
+      "x0": 333.59999999999997,
+      "top": 3.3,
+      "x1": 347.7,
+      "bottom": 8.399999999999999,
+      "confidence": 96.99987,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "shots",
+      "x0": 350.09999999999997,
+      "top": 3.3,
+      "x1": 366.29999999999995,
+      "bottom": 8.399999999999999,
+      "confidence": 96.902161,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 368.7,
+      "top": 3.5999999999999996,
+      "x1": 373.8,
+      "bottom": 8.399999999999999,
+      "confidence": 95.859924,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 375.9,
+      "top": 3.3,
+      "x1": 385.79999999999995,
+      "bottom": 8.399999999999999,
+      "confidence": 96.967636,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "air",
+      "x0": 388.2,
+      "top": 3.5999999999999996,
+      "x1": 396.0,
+      "bottom": 8.399999999999999,
+      "confidence": 96.894905,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "with",
+      "x0": 397.8,
+      "top": 3.3,
+      "x1": 411.6,
+      "bottom": 8.399999999999999,
+      "confidence": 97.011658,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 413.7,
+      "top": 4.8,
+      "x1": 417.0,
+      "bottom": 8.399999999999999,
+      "confidence": 96.798904,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "view",
+      "x0": 419.09999999999997,
+      "top": 3.5999999999999996,
+      "x1": 433.49999999999994,
+      "bottom": 8.399999999999999,
+      "confidence": 96.474998,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 435.59999999999997,
+      "top": 3.9,
+      "x1": 441.9,
+      "bottom": 8.4,
+      "confidence": 96.787224,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "scare",
+      "x0": 444.0,
+      "top": 4.8,
+      "x1": 459.9,
+      "bottom": 8.399999999999999,
+      "confidence": 96.867798,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "away",
+      "x0": 462.0,
+      "top": 4.8,
+      "x1": 478.2,
+      "bottom": 9.899999999999999,
+      "confidence": 96.934662,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 480.0,
+      "top": 3.3,
+      "x1": 490.2,
+      "bottom": 8.399999999999999,
+      "confidence": 96.698692,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "inmates,",
+      "x0": 492.59999999999997,
+      "top": 3.5999999999999996,
+      "x1": 518.6999999999999,
+      "bottom": 9.6,
+      "confidence": 96.216698,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "from",
+      "x0": 520.8,
+      "top": 3.3,
+      "x1": 535.5,
+      "bottom": 8.399999999999999,
+      "confidence": 96.270935,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "pursuing",
+      "x0": 62.699999999999996,
+      "top": 12.9,
+      "x1": 89.39999999999999,
+      "bottom": 19.2,
+      "confidence": 96.374275,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "them.",
+      "x0": 91.2,
+      "top": 12.6,
+      "x1": 109.2,
+      "bottom": 17.7,
+      "confidence": 96.730476,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "They",
+      "x0": 111.3,
+      "top": 12.6,
+      "x1": 126.3,
+      "bottom": 19.2,
+      "confidence": 96.730476,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "are",
+      "x0": 128.4,
+      "top": 14.1,
+      "x1": 138.0,
+      "bottom": 17.7,
+      "confidence": 97.008667,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "guilty",
+      "x0": 140.1,
+      "top": 12.6,
+      "x1": 157.2,
+      "bottom": 19.2,
+      "confidence": 92.896927,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of:",
+      "x0": 159.29999999999998,
+      "top": 12.6,
+      "x1": 167.1,
+      "bottom": 17.7,
+      "confidence": 96.728249,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "ans",
+      "x0": 43.199999999999996,
+      "top": 25.5,
+      "x1": 54.599999999999994,
+      "bottom": 30.3,
+      "confidence": 71.114464,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "x",
+      "x0": 73.2,
+      "top": 24.0,
+      "x1": 86.7,
+      "bottom": 36.9,
+      "confidence": 81.084274,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "1.",
+      "x0": 88.5,
+      "top": 34.199999999999996,
+      "x1": 93.0,
+      "bottom": 38.99999999999999,
+      "confidence": 96.667366,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "extortion",
+      "x0": 95.7,
+      "top": 34.199999999999996,
+      "x1": 123.0,
+      "bottom": 38.99999999999999,
+      "confidence": 96.239029,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "vw.",
+      "x0": 72.6,
+      "top": 43.199999999999996,
+      "x1": 93.0,
+      "bottom": 63.0,
+      "confidence": 0.0,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "dacoity",
+      "x0": 95.7,
+      "top": 55.199999999999996,
+      "x1": 117.3,
+      "bottom": 61.8,
+      "confidence": 93.201973,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "x",
+      "x0": 73.2,
+      "top": 66.89999999999999,
+      "x1": 86.7,
+      "bottom": 79.49999999999999,
+      "confidence": 80.005165,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "3.",
+      "x0": 88.2,
+      "top": 76.8,
+      "x1": 93.0,
+      "bottom": 81.6,
+      "confidence": 93.113708,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "roit",
+      "x0": 95.7,
+      "top": 76.8,
+      "x1": 105.9,
+      "bottom": 81.6,
+      "confidence": 79.645363,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "x,",
+      "x0": 73.2,
+      "top": 88.2,
+      "x1": 93.0,
+      "bottom": 103.2,
+      "confidence": 63.59634,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "theft",
+      "x0": 95.39999999999999,
+      "top": 98.1,
+      "x1": 110.1,
+      "bottom": 103.19999999999999,
+      "confidence": 96.072639,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

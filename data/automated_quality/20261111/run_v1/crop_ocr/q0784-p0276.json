@@ -1,0 +1,415 @@
+{
+  "pdf_page": 276,
+  "crop_top": 226.702,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "57. In S. P. Gupta v. Union of India, it was held that the word ‘Consultation’ means:",
+      "bbox": [
+        72.6,
+        4.2,
+        478.2,
+        15.299999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "a) Discussion",
+      "bbox": [
+        79.5,
+        18.3,
+        149.4,
+        29.1
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "b) Ascertainment of opinion",
+      "bbox": [
+        79.2,
+        31.799999999999997,
+        219.59999999999997,
+        42.9
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "c) Concurrence",
+      "bbox": [
+        79.5,
+        45.9,
+        157.8,
+        56.699999999999996
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "d) Advice",
+      "bbox": [
+        79.5,
+        59.4,
+        131.1,
+        70.2
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "CORRECT ANSWER: OPTION B",
+      "bbox": [
+        75.6,
+        74.1,
+        285.29999999999995,
+        84.0
+      ]
+    }
+  ],
+  "text": "57. In S. P. Gupta v. Union of India, it was held that the word ‘Consultation’ means:\na) Discussion\nb) Ascertainment of opinion\nc) Concurrence\nd) Advice\nCORRECT ANSWER: OPTION B",
+  "ocr_words": [
+    {
+      "text": "57.",
+      "x0": 72.6,
+      "top": 4.5,
+      "x1": 86.1,
+      "bottom": 12.9,
+      "confidence": 96.531082,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "In",
+      "x0": 93.3,
+      "top": 4.5,
+      "x1": 103.2,
+      "bottom": 12.6,
+      "confidence": 81.973419,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "S.",
+      "x0": 106.8,
+      "top": 4.5,
+      "x1": 114.89999999999999,
+      "bottom": 12.6,
+      "confidence": 85.820297,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "P.",
+      "x0": 119.1,
+      "top": 4.5,
+      "x1": 127.8,
+      "bottom": 12.6,
+      "confidence": 92.697174,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Gupta",
+      "x0": 132.0,
+      "top": 4.5,
+      "x1": 160.8,
+      "bottom": 15.299999999999999,
+      "confidence": 93.277603,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "v.",
+      "x0": 164.1,
+      "top": 7.199999999999999,
+      "x1": 171.9,
+      "bottom": 12.599999999999998,
+      "confidence": 93.277603,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Union",
+      "x0": 175.79999999999998,
+      "top": 4.2,
+      "x1": 205.49999999999997,
+      "bottom": 12.600000000000001,
+      "confidence": 95.973679,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 208.79999999999998,
+      "top": 4.2,
+      "x1": 219.89999999999998,
+      "bottom": 12.600000000000001,
+      "confidence": 95.973679,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "India,",
+      "x0": 221.7,
+      "top": 4.2,
+      "x1": 248.39999999999998,
+      "bottom": 14.399999999999999,
+      "confidence": 96.908951,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "it",
+      "x0": 252.6,
+      "top": 4.2,
+      "x1": 258.6,
+      "bottom": 12.600000000000001,
+      "confidence": 96.866791,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "was",
+      "x0": 261.9,
+      "top": 7.199999999999999,
+      "x1": 280.2,
+      "bottom": 12.599999999999998,
+      "confidence": 96.99752,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "held",
+      "x0": 283.5,
+      "top": 4.2,
+      "x1": 303.9,
+      "bottom": 12.600000000000001,
+      "confidence": 96.526604,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "that",
+      "x0": 307.2,
+      "top": 4.2,
+      "x1": 324.9,
+      "bottom": 12.600000000000001,
+      "confidence": 96.43924,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 328.2,
+      "top": 4.2,
+      "x1": 342.59999999999997,
+      "bottom": 12.600000000000001,
+      "confidence": 96.81012,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "word",
+      "x0": 345.9,
+      "top": 4.2,
+      "x1": 370.5,
+      "bottom": 12.600000000000001,
+      "confidence": 96.141487,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "‘Consultation’",
+      "x0": 374.7,
+      "top": 4.2,
+      "x1": 441.29999999999995,
+      "bottom": 12.600000000000001,
+      "confidence": 96.035812,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "means:",
+      "x0": 445.8,
+      "top": 7.199999999999999,
+      "x1": 478.2,
+      "bottom": 12.599999999999998,
+      "confidence": 96.783661,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a)",
+      "x0": 79.5,
+      "top": 18.3,
+      "x1": 87.9,
+      "bottom": 29.1,
+      "confidence": 96.240013,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Discussion",
+      "x0": 97.2,
+      "top": 18.3,
+      "x1": 149.4,
+      "bottom": 26.700000000000003,
+      "confidence": 96.109512,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "b)",
+      "x0": 79.2,
+      "top": 31.799999999999997,
+      "x1": 88.2,
+      "bottom": 42.599999999999994,
+      "confidence": 92.281372,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Ascertainment",
+      "x0": 97.2,
+      "top": 31.799999999999997,
+      "x1": 166.8,
+      "bottom": 40.199999999999996,
+      "confidence": 91.503342,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 170.4,
+      "top": 31.799999999999997,
+      "x1": 181.5,
+      "bottom": 40.199999999999996,
+      "confidence": 96.589348,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "opinion",
+      "x0": 183.29999999999998,
+      "top": 31.799999999999997,
+      "x1": 219.59999999999997,
+      "bottom": 42.9,
+      "confidence": 96.119308,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "c)",
+      "x0": 79.5,
+      "top": 45.9,
+      "x1": 87.9,
+      "bottom": 56.699999999999996,
+      "confidence": 92.700706,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Concurrence",
+      "x0": 97.5,
+      "top": 46.199999999999996,
+      "x1": 157.8,
+      "bottom": 54.3,
+      "confidence": 96.358543,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "d)",
+      "x0": 79.5,
+      "top": 59.4,
+      "x1": 88.5,
+      "bottom": 70.2,
+      "confidence": 91.098854,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Advice",
+      "x0": 97.2,
+      "top": 59.4,
+      "x1": 131.1,
+      "bottom": 67.8,
+      "confidence": 96.486931,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "CORRECT",
+      "x0": 75.6,
+      "top": 74.1,
+      "x1": 144.3,
+      "bottom": 84.0,
+      "confidence": 96.368103,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "ANSWER:",
+      "x0": 148.79999999999998,
+      "top": 74.1,
+      "x1": 209.99999999999997,
+      "bottom": 84.0,
+      "confidence": 76.345551,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "OPTION",
+      "x0": 222.29999999999998,
+      "top": 74.39999999999999,
+      "x1": 272.4,
+      "bottom": 83.69999999999999,
+      "confidence": 93.225182,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "B",
+      "x0": 276.9,
+      "top": 74.39999999999999,
+      "x1": 285.29999999999995,
+      "bottom": 83.69999999999999,
+      "confidence": 91.328369,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

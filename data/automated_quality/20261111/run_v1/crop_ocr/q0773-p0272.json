@@ -1,0 +1,845 @@
+{
+  "pdf_page": 272,
+  "crop_top": 240.62199999999996,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "46. What is the meaning of a writ of “Certiorarified mandamus’?",
+      "bbox": [
+        72.3,
+        4.2,
+        386.7,
+        15.3
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "a) A writ of Mandamus, issued against an adjudicating body to quash a decision.",
+      "bbox": [
+        72.3,
+        17.7,
+        463.79999999999995,
+        28.799999999999997
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "b) A writ of Certiorari issued to an administrative body to quash its decision.",
+      "bbox": [
+        72.0,
+        31.799999999999997,
+        444.29999999999995,
+        42.9
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "c) A simultaneous writ to quash a decision and also to give a direction.",
+      "bbox": [
+        72.3,
+        45.3,
+        416.40000000000003,
+        56.4
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "d) A simultaneous writ to quash a direction and give a decision.",
+      "bbox": [
+        72.3,
+        59.4,
+        381.9,
+        70.5
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "CORRECT ANSWER : OPTION C",
+      "bbox": [
+        72.6,
+        81.89999999999999,
+        282.3,
+        91.8
+      ]
+    }
+  ],
+  "text": "46. What is the meaning of a writ of “Certiorarified mandamus’?\na) A writ of Mandamus, issued against an adjudicating body to quash a decision.\nb) A writ of Certiorari issued to an administrative body to quash its decision.\nc) A simultaneous writ to quash a decision and also to give a direction.\nd) A simultaneous writ to quash a direction and give a decision.\nCORRECT ANSWER : OPTION C",
+  "ocr_words": [
+    {
+      "text": "46.",
+      "x0": 72.3,
+      "top": 4.2,
+      "x1": 86.1,
+      "bottom": 12.899999999999999,
+      "confidence": 96.04409,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "What",
+      "x0": 90.3,
+      "top": 4.2,
+      "x1": 115.8,
+      "bottom": 12.600000000000001,
+      "confidence": 96.601112,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 119.69999999999999,
+      "top": 4.2,
+      "x1": 126.6,
+      "bottom": 12.600000000000001,
+      "confidence": 96.700905,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 130.2,
+      "top": 4.2,
+      "x1": 144.29999999999998,
+      "bottom": 12.600000000000001,
+      "confidence": 96.700905,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "meaning",
+      "x0": 148.2,
+      "top": 4.2,
+      "x1": 188.39999999999998,
+      "bottom": 15.3,
+      "confidence": 96.721878,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 192.29999999999998,
+      "top": 4.2,
+      "x1": 203.1,
+      "bottom": 12.600000000000001,
+      "confidence": 85.26429,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 205.2,
+      "top": 7.199999999999999,
+      "x1": 210.0,
+      "bottom": 12.599999999999998,
+      "confidence": 85.26429,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "writ",
+      "x0": 213.29999999999998,
+      "top": 4.2,
+      "x1": 232.2,
+      "bottom": 12.600000000000001,
+      "confidence": 95.875374,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 236.1,
+      "top": 4.2,
+      "x1": 247.2,
+      "bottom": 12.600000000000001,
+      "confidence": 89.313499,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "“Certiorarified",
+      "x0": 249.0,
+      "top": 4.2,
+      "x1": 321.9,
+      "bottom": 15.3,
+      "confidence": 89.313499,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "mandamus’?",
+      "x0": 324.9,
+      "top": 4.2,
+      "x1": 386.7,
+      "bottom": 12.899999999999999,
+      "confidence": 66.724609,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a)",
+      "x0": 72.3,
+      "top": 17.7,
+      "x1": 80.7,
+      "bottom": 28.5,
+      "confidence": 95.940849,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A",
+      "x0": 90.0,
+      "top": 18.0,
+      "x1": 98.4,
+      "bottom": 26.1,
+      "confidence": 41.520596,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "writ",
+      "x0": 101.7,
+      "top": 17.7,
+      "x1": 120.6,
+      "bottom": 26.1,
+      "confidence": 41.520596,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 124.5,
+      "top": 17.7,
+      "x1": 135.6,
+      "bottom": 26.1,
+      "confidence": 96.920525,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Mandamus,",
+      "x0": 137.1,
+      "top": 17.7,
+      "x1": 192.6,
+      "bottom": 27.9,
+      "confidence": 96.775673,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "issued",
+      "x0": 197.1,
+      "top": 17.7,
+      "x1": 226.2,
+      "bottom": 26.1,
+      "confidence": 96.457649,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "against",
+      "x0": 229.5,
+      "top": 17.7,
+      "x1": 263.1,
+      "bottom": 28.799999999999997,
+      "confidence": 96.158913,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "an",
+      "x0": 266.7,
+      "top": 20.7,
+      "x1": 277.5,
+      "bottom": 26.099999999999998,
+      "confidence": 96.505577,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "adjudicating",
+      "x0": 281.09999999999997,
+      "top": 17.7,
+      "x1": 339.59999999999997,
+      "bottom": 28.799999999999997,
+      "confidence": 96.241531,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "body",
+      "x0": 342.9,
+      "top": 17.7,
+      "x1": 366.9,
+      "bottom": 28.799999999999997,
+      "confidence": 96.76606,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 369.9,
+      "top": 19.2,
+      "x1": 378.9,
+      "bottom": 26.099999999999998,
+      "confidence": 96.839745,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "quash",
+      "x0": 382.8,
+      "top": 17.7,
+      "x1": 410.1,
+      "bottom": 28.799999999999997,
+      "confidence": 96.236931,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 413.7,
+      "top": 20.7,
+      "x1": 418.8,
+      "bottom": 26.099999999999998,
+      "confidence": 96.932823,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "decision.",
+      "x0": 422.09999999999997,
+      "top": 17.7,
+      "x1": 463.79999999999995,
+      "bottom": 26.1,
+      "confidence": 96.657761,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "b)",
+      "x0": 72.0,
+      "top": 31.799999999999997,
+      "x1": 81.3,
+      "bottom": 42.599999999999994,
+      "confidence": 93.081566,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "A",
+      "x0": 90.0,
+      "top": 32.1,
+      "x1": 98.4,
+      "bottom": 40.2,
+      "confidence": 87.227585,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "writ",
+      "x0": 101.7,
+      "top": 31.799999999999997,
+      "x1": 120.6,
+      "bottom": 40.199999999999996,
+      "confidence": 87.227585,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 124.5,
+      "top": 31.799999999999997,
+      "x1": 135.6,
+      "bottom": 40.199999999999996,
+      "confidence": 93.305717,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Certiorari",
+      "x0": 137.4,
+      "top": 31.799999999999997,
+      "x1": 183.6,
+      "bottom": 40.199999999999996,
+      "confidence": 92.44136,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "issued",
+      "x0": 187.2,
+      "top": 31.799999999999997,
+      "x1": 216.6,
+      "bottom": 40.199999999999996,
+      "confidence": 96.359726,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "to",
+      "x0": 219.9,
+      "top": 33.3,
+      "x1": 228.6,
+      "bottom": 40.199999999999996,
+      "confidence": 96.562622,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "an",
+      "x0": 232.5,
+      "top": 34.8,
+      "x1": 243.3,
+      "bottom": 40.199999999999996,
+      "confidence": 96.562622,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "administrative",
+      "x0": 246.6,
+      "top": 31.799999999999997,
+      "x1": 314.4,
+      "bottom": 40.199999999999996,
+      "confidence": 96.422028,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "body",
+      "x0": 318.0,
+      "top": 31.799999999999997,
+      "x1": 342.0,
+      "bottom": 42.9,
+      "confidence": 96.235191,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "to",
+      "x0": 345.0,
+      "top": 33.0,
+      "x1": 353.7,
+      "bottom": 40.2,
+      "confidence": 96.735512,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "quash",
+      "x0": 357.9,
+      "top": 31.799999999999997,
+      "x1": 385.2,
+      "bottom": 42.9,
+      "confidence": 96.919525,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "its",
+      "x0": 388.8,
+      "top": 31.799999999999997,
+      "x1": 399.3,
+      "bottom": 40.199999999999996,
+      "confidence": 96.974716,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "decision.",
+      "x0": 402.9,
+      "top": 31.799999999999997,
+      "x1": 444.29999999999995,
+      "bottom": 40.199999999999996,
+      "confidence": 96.858299,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "c)",
+      "x0": 72.3,
+      "top": 45.3,
+      "x1": 80.7,
+      "bottom": 56.099999999999994,
+      "confidence": 93.127769,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A",
+      "x0": 90.0,
+      "top": 45.6,
+      "x1": 98.4,
+      "bottom": 53.7,
+      "confidence": 73.141663,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "simultaneous",
+      "x0": 102.3,
+      "top": 45.3,
+      "x1": 164.7,
+      "bottom": 53.699999999999996,
+      "confidence": 73.141663,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "writ",
+      "x0": 168.0,
+      "top": 45.3,
+      "x1": 187.2,
+      "bottom": 53.699999999999996,
+      "confidence": 96.702507,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 190.5,
+      "top": 46.5,
+      "x1": 199.2,
+      "bottom": 53.7,
+      "confidence": 96.413651,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "quash",
+      "x0": 203.1,
+      "top": 45.3,
+      "x1": 230.4,
+      "bottom": 56.4,
+      "confidence": 96.218102,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 234.0,
+      "top": 48.3,
+      "x1": 238.8,
+      "bottom": 53.699999999999996,
+      "confidence": 96.79158,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "decision",
+      "x0": 242.39999999999998,
+      "top": 45.3,
+      "x1": 282.0,
+      "bottom": 53.699999999999996,
+      "confidence": 96.588524,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 285.3,
+      "top": 45.3,
+      "x1": 301.8,
+      "bottom": 53.699999999999996,
+      "confidence": 96.617821,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "also",
+      "x0": 305.4,
+      "top": 45.3,
+      "x1": 323.7,
+      "bottom": 53.699999999999996,
+      "confidence": 96.889778,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 327.59999999999997,
+      "top": 46.5,
+      "x1": 336.59999999999997,
+      "bottom": 53.7,
+      "confidence": 97.007469,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "give",
+      "x0": 340.5,
+      "top": 45.3,
+      "x1": 360.0,
+      "bottom": 56.4,
+      "confidence": 96.795441,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 363.9,
+      "top": 48.3,
+      "x1": 368.7,
+      "bottom": 53.699999999999996,
+      "confidence": 96.885101,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "direction.",
+      "x0": 372.3,
+      "top": 45.3,
+      "x1": 416.40000000000003,
+      "bottom": 53.699999999999996,
+      "confidence": 96.347282,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "d)",
+      "x0": 72.3,
+      "top": 59.4,
+      "x1": 81.6,
+      "bottom": 70.2,
+      "confidence": 93.079712,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A",
+      "x0": 90.0,
+      "top": 59.699999999999996,
+      "x1": 98.4,
+      "bottom": 67.8,
+      "confidence": 92.221832,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "simultaneous",
+      "x0": 102.3,
+      "top": 59.4,
+      "x1": 164.7,
+      "bottom": 67.8,
+      "confidence": 92.221832,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "writ",
+      "x0": 168.0,
+      "top": 59.4,
+      "x1": 187.2,
+      "bottom": 67.8,
+      "confidence": 96.769707,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 190.5,
+      "top": 60.599999999999994,
+      "x1": 199.2,
+      "bottom": 67.8,
+      "confidence": 96.00592,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "quash",
+      "x0": 203.1,
+      "top": 59.4,
+      "x1": 230.4,
+      "bottom": 70.5,
+      "confidence": 96.557961,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 234.0,
+      "top": 62.4,
+      "x1": 238.8,
+      "bottom": 67.8,
+      "confidence": 96.976891,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "direction",
+      "x0": 242.39999999999998,
+      "top": 59.4,
+      "x1": 284.4,
+      "bottom": 67.8,
+      "confidence": 96.765022,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 288.0,
+      "top": 59.4,
+      "x1": 304.8,
+      "bottom": 67.8,
+      "confidence": 96.735443,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "give",
+      "x0": 308.09999999999997,
+      "top": 59.4,
+      "x1": 327.9,
+      "bottom": 70.5,
+      "confidence": 96.69352,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 332.09999999999997,
+      "top": 62.4,
+      "x1": 336.9,
+      "bottom": 67.8,
+      "confidence": 96.161072,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "decision.",
+      "x0": 340.5,
+      "top": 59.4,
+      "x1": 381.9,
+      "bottom": 67.8,
+      "confidence": 96.205246,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "CORRECT",
+      "x0": 72.6,
+      "top": 81.89999999999999,
+      "x1": 141.3,
+      "bottom": 91.8,
+      "confidence": 96.374229,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "ANSWER",
+      "x0": 145.5,
+      "top": 81.89999999999999,
+      "x1": 206.7,
+      "bottom": 91.8,
+      "confidence": 88.458862,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 211.5,
+      "top": 84.89999999999999,
+      "x1": 213.6,
+      "bottom": 91.8,
+      "confidence": 88.458862,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "OPTION",
+      "x0": 219.0,
+      "top": 82.2,
+      "x1": 269.7,
+      "bottom": 91.5,
+      "confidence": 93.300873,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "C",
+      "x0": 274.2,
+      "top": 82.2,
+      "x1": 282.3,
+      "bottom": 91.5,
+      "confidence": 92.291908,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

@@ -1,0 +1,501 @@
+{
+  "pdf_page": 388,
+  "crop_top": 538.52136,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.41 Which school regards the judge made law as \"an unauthorized encroachment upon the powers of the legislators to make law\"?",
+      "bbox": [
+        42.0,
+        3.3,
+        458.4,
+        9.899999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "ans x",
+      "bbox": [
+        43.199999999999996,
+        15.0,
+        86.7,
+        27.6
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "1. Realist school",
+      "bbox": [
+        88.5,
+        24.9,
+        136.5,
+        30.0
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "x,",
+      "bbox": [
+        73.2,
+        36.3,
+        93.0,
+        51.599999999999994
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "Historical school",
+      "bbox": [
+        96.0,
+        46.5,
+        144.6,
+        51.6
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "x",
+      "bbox": [
+        73.2,
+        57.599999999999994,
+        86.7,
+        70.5
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "3. Sociological school",
+      "bbox": [
+        88.2,
+        67.8,
+        151.8,
+        74.39999999999999
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "vw.",
+      "bbox": [
+        72.6,
+        77.1,
+        93.0,
+        96.89999999999999
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "Analytical school",
+      "bbox": [
+        95.39999999999999,
+        89.1,
+        145.79999999999998,
+        95.69999999999999
+      ]
+    }
+  ],
+  "text": "Q.41 Which school regards the judge made law as \"an unauthorized encroachment upon the powers of the legislators to make law\"?\nans x\n1. Realist school\nx,\nHistorical school\nx\n3. Sociological school\nvw.\nAnalytical school",
+  "ocr_words": [
+    {
+      "text": "Q.41",
+      "x0": 42.0,
+      "top": 3.5999999999999996,
+      "x1": 56.1,
+      "bottom": 9.3,
+      "confidence": 91.544556,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Which",
+      "x0": 62.4,
+      "top": 3.3,
+      "x1": 81.9,
+      "bottom": 8.399999999999999,
+      "confidence": 95.606346,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "school",
+      "x0": 84.0,
+      "top": 3.3,
+      "x1": 103.5,
+      "bottom": 8.399999999999999,
+      "confidence": 95.606346,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "regards",
+      "x0": 105.89999999999999,
+      "top": 3.3,
+      "x1": 128.7,
+      "bottom": 9.899999999999999,
+      "confidence": 96.627045,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 130.79999999999998,
+      "top": 3.3,
+      "x1": 140.7,
+      "bottom": 8.7,
+      "confidence": 96.975922,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "judge",
+      "x0": 142.5,
+      "top": 3.3,
+      "x1": 159.9,
+      "bottom": 9.899999999999999,
+      "confidence": 96.488953,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "made",
+      "x0": 162.29999999999998,
+      "top": 3.3,
+      "x1": 179.1,
+      "bottom": 8.399999999999999,
+      "confidence": 96.488953,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "law",
+      "x0": 181.5,
+      "top": 3.3,
+      "x1": 192.0,
+      "bottom": 8.399999999999999,
+      "confidence": 96.787621,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "as",
+      "x0": 194.1,
+      "top": 4.8,
+      "x1": 200.4,
+      "bottom": 8.399999999999999,
+      "confidence": 96.684425,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "\"an",
+      "x0": 202.79999999999998,
+      "top": 3.3,
+      "x1": 212.99999999999997,
+      "bottom": 8.399999999999999,
+      "confidence": 95.208977,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "unauthorized",
+      "x0": 215.4,
+      "top": 3.3,
+      "x1": 256.2,
+      "bottom": 8.7,
+      "confidence": 96.472527,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "encroachment",
+      "x0": 258.59999999999997,
+      "top": 3.3,
+      "x1": 303.29999999999995,
+      "bottom": 8.7,
+      "confidence": 96.481461,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "upon",
+      "x0": 305.4,
+      "top": 4.8,
+      "x1": 320.7,
+      "bottom": 9.899999999999999,
+      "confidence": 96.642197,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 322.8,
+      "top": 3.3,
+      "x1": 333.0,
+      "bottom": 8.7,
+      "confidence": 96.495338,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "powers",
+      "x0": 335.4,
+      "top": 4.8,
+      "x1": 357.9,
+      "bottom": 9.899999999999999,
+      "confidence": 95.737679,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 360.0,
+      "top": 3.3,
+      "x1": 366.3,
+      "bottom": 8.399999999999999,
+      "confidence": 96.326279,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 367.8,
+      "top": 3.3,
+      "x1": 378.0,
+      "bottom": 8.399999999999999,
+      "confidence": 96.874992,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "legislators",
+      "x0": 380.4,
+      "top": 3.3,
+      "x1": 411.59999999999997,
+      "bottom": 9.899999999999999,
+      "confidence": 96.175072,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 413.4,
+      "top": 3.9,
+      "x1": 420.0,
+      "bottom": 8.4,
+      "confidence": 96.316734,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "make",
+      "x0": 422.4,
+      "top": 3.3,
+      "x1": 438.9,
+      "bottom": 8.399999999999999,
+      "confidence": 96.316734,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "law\"?",
+      "x0": 441.0,
+      "top": 3.3,
+      "x1": 458.4,
+      "bottom": 8.399999999999999,
+      "confidence": 96.530212,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "ans",
+      "x0": 43.199999999999996,
+      "top": 16.8,
+      "x1": 54.599999999999994,
+      "bottom": 21.6,
+      "confidence": 84.049576,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "x",
+      "x0": 73.2,
+      "top": 15.0,
+      "x1": 86.7,
+      "bottom": 27.6,
+      "confidence": 84.783966,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 88.5,
+      "top": 25.2,
+      "x1": 93.0,
+      "bottom": 30.0,
+      "confidence": 95.888489,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Realist",
+      "x0": 96.0,
+      "top": 24.9,
+      "x1": 115.2,
+      "bottom": 30.0,
+      "confidence": 96.139183,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "school",
+      "x0": 117.6,
+      "top": 24.9,
+      "x1": 136.5,
+      "bottom": 30.0,
+      "confidence": 96.139183,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "x,",
+      "x0": 73.2,
+      "top": 36.3,
+      "x1": 93.0,
+      "bottom": 51.599999999999994,
+      "confidence": 72.312546,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Historical",
+      "x0": 96.0,
+      "top": 46.5,
+      "x1": 123.3,
+      "bottom": 51.6,
+      "confidence": 96.686867,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "school",
+      "x0": 126.0,
+      "top": 46.5,
+      "x1": 144.6,
+      "bottom": 51.6,
+      "confidence": 96.611267,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "x",
+      "x0": 73.2,
+      "top": 57.599999999999994,
+      "x1": 86.7,
+      "bottom": 70.5,
+      "confidence": 85.059395,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "3.",
+      "x0": 88.2,
+      "top": 68.1,
+      "x1": 93.0,
+      "bottom": 72.89999999999999,
+      "confidence": 96.519791,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Sociological",
+      "x0": 95.39999999999999,
+      "top": 67.8,
+      "x1": 130.5,
+      "bottom": 74.39999999999999,
+      "confidence": 96.952957,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "school",
+      "x0": 132.9,
+      "top": 67.8,
+      "x1": 151.8,
+      "bottom": 72.89999999999999,
+      "confidence": 96.977348,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "vw.",
+      "x0": 72.6,
+      "top": 77.1,
+      "x1": 93.0,
+      "bottom": 96.89999999999999,
+      "confidence": 0.0,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Analytical",
+      "x0": 95.39999999999999,
+      "top": 89.1,
+      "x1": 124.49999999999999,
+      "bottom": 95.69999999999999,
+      "confidence": 96.778625,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "school",
+      "x0": 126.89999999999999,
+      "top": 89.1,
+      "x1": 145.79999999999998,
+      "bottom": 94.19999999999999,
+      "confidence": 95.825516,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

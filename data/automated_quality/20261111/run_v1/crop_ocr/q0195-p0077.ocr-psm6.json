@@ -1,0 +1,57 @@
+{
+  "pdf_page": 77,
+  "crop_top": 59.42439999999999,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "ees",
+      "bbox": [
+        60.0,
+        0.0,
+        87.0,
+        18.9
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "PG",
+      "bbox": [
+        532.1999999999999,
+        3.5999999999999996,
+        551.6999999999999,
+        13.5
+      ]
+    }
+  ],
+  "text": "ees\nPG",
+  "ocr_words": [
+    {
+      "text": "ees",
+      "x0": 60.0,
+      "top": 0.0,
+      "x1": 87.0,
+      "bottom": 18.9,
+      "confidence": 41.494144,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "PG",
+      "x0": 532.1999999999999,
+      "top": 3.5999999999999996,
+      "x1": 551.6999999999999,
+      "bottom": 13.5,
+      "confidence": 96.449684,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

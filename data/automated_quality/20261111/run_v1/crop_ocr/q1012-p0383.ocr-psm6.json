@@ -1,0 +1,293 @@
+{
+  "pdf_page": 383,
+  "crop_top": 37.16136000000006,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Ans na",
+      "bbox": [
+        43.199999999999996,
+        0.8999999999999999,
+        86.7,
+        16.2
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "1. A righteous claim",
+      "bbox": [
+        88.5,
+        12.299999999999999,
+        147.6,
+        18.9
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "vw.",
+      "bbox": [
+        72.3,
+        21.599999999999998,
+        93.0,
+        41.699999999999996
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "A legal claim",
+      "bbox": [
+        94.2,
+        32.4,
+        132.9,
+        41.699999999999996
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "x,",
+      "bbox": [
+        72.89999999999999,
+        45.0,
+        92.99999999999999,
+        60.3
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "A just claim",
+      "bbox": [
+        95.39999999999999,
+        54.9,
+        129.9,
+        61.49999999999999
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "Xx,",
+      "bbox": [
+        71.7,
+        65.1,
+        93.0,
+        84.3
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "A moral claim",
+      "bbox": [
+        95.39999999999999,
+        76.2,
+        136.5,
+        81.60000000000001
+      ]
+    }
+  ],
+  "text": "Ans na\n1. A righteous claim\nvw.\nA legal claim\nx,\nA just claim\nXx,\nA moral claim",
+  "ocr_words": [
+    {
+      "text": "Ans",
+      "x0": 43.199999999999996,
+      "top": 3.9,
+      "x1": 54.599999999999994,
+      "bottom": 9.0,
+      "confidence": 96.894516,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "na",
+      "x0": 71.7,
+      "top": 0.8999999999999999,
+      "x1": 86.7,
+      "bottom": 16.2,
+      "confidence": 46.544113,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1.",
+      "x0": 88.5,
+      "top": 12.6,
+      "x1": 93.0,
+      "bottom": 17.4,
+      "confidence": 93.294022,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "A",
+      "x0": 95.39999999999999,
+      "top": 12.6,
+      "x1": 99.6,
+      "bottom": 17.4,
+      "confidence": 85.807816,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "righteous",
+      "x0": 101.7,
+      "top": 12.299999999999999,
+      "x1": 129.9,
+      "bottom": 18.9,
+      "confidence": 85.807816,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "claim",
+      "x0": 132.29999999999998,
+      "top": 12.299999999999999,
+      "x1": 147.6,
+      "bottom": 17.7,
+      "confidence": 96.847122,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "vw.",
+      "x0": 72.3,
+      "top": 21.599999999999998,
+      "x1": 93.0,
+      "bottom": 41.699999999999996,
+      "confidence": 0.0,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "A",
+      "x0": 94.2,
+      "top": 32.4,
+      "x1": 97.5,
+      "bottom": 41.699999999999996,
+      "confidence": 95.560104,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "legal",
+      "x0": 101.7,
+      "top": 33.6,
+      "x1": 115.2,
+      "bottom": 40.2,
+      "confidence": 95.560104,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "claim",
+      "x0": 117.6,
+      "top": 33.6,
+      "x1": 132.9,
+      "bottom": 38.7,
+      "confidence": 96.221909,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "x,",
+      "x0": 72.89999999999999,
+      "top": 45.0,
+      "x1": 92.99999999999999,
+      "bottom": 60.3,
+      "confidence": 43.06509,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "A",
+      "x0": 95.39999999999999,
+      "top": 55.199999999999996,
+      "x1": 98.1,
+      "bottom": 59.99999999999999,
+      "confidence": 93.223083,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "just",
+      "x0": 101.1,
+      "top": 55.199999999999996,
+      "x1": 112.19999999999999,
+      "bottom": 61.49999999999999,
+      "confidence": 93.223083,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "claim",
+      "x0": 114.6,
+      "top": 54.9,
+      "x1": 129.9,
+      "bottom": 60.3,
+      "confidence": 96.852036,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Xx,",
+      "x0": 71.7,
+      "top": 65.1,
+      "x1": 93.0,
+      "bottom": 84.3,
+      "confidence": 63.490162,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "A",
+      "x0": 95.39999999999999,
+      "top": 76.5,
+      "x1": 99.6,
+      "bottom": 81.3,
+      "confidence": 80.3134,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "moral",
+      "x0": 101.7,
+      "top": 76.2,
+      "x1": 118.8,
+      "bottom": 81.60000000000001,
+      "confidence": 80.3134,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "claim",
+      "x0": 121.19999999999999,
+      "top": 76.2,
+      "x1": 136.5,
+      "bottom": 81.3,
+      "confidence": 96.767784,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

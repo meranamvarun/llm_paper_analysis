@@ -1,0 +1,53 @@
+{
+  "instructions": "Read images only; do not open extraction outputs before blind_observations.json has been saved and hashed. See research/OCR_AUDIT_PLAN.md.",
+  "sample": [
+    {
+      "pdf_page": 105,
+      "year_label": 2024,
+      "image_path": "C:\\Users\\malai\\varun_code\\llm_paper_analysis\\data\\ocr_audit\\20261110_luna_seed20261110\\page_0105.png",
+      "image_sha256": "e1e17191556e1ac95eb833a90dfa33c150fb763b31fd2ef6b0a4563718cc199f"
+    },
+    {
+      "pdf_page": 178,
+      "year_label": 2023,
+      "image_path": "C:\\Users\\malai\\varun_code\\llm_paper_analysis\\data\\ocr_audit\\20261110_luna_seed20261110\\page_0178.png",
+      "image_sha256": "b09340217d55b8f3451f738061b69d6c2513daf56a7375b42053e2b87025df5f"
+    },
+    {
+      "pdf_page": 305,
+      "year_label": 2019,
+      "image_path": "C:\\Users\\malai\\varun_code\\llm_paper_analysis\\data\\ocr_audit\\20261110_luna_seed20261110\\page_0305.png",
+      "image_sha256": "aea8161d1cdf4aa38d23f119ee8f508b473e060ea4b091356a39ce2a68fc7219"
+    },
+    {
+      "pdf_page": 449,
+      "year_label": 2018,
+      "image_path": "C:\\Users\\malai\\varun_code\\llm_paper_analysis\\data\\ocr_audit\\20261110_luna_seed20261110\\page_0449.png",
+      "image_sha256": "79b60a596438b0125e3a464193ab13960425cd24819368bb72e7a2d7a48aa421"
+    },
+    {
+      "pdf_page": 330,
+      "year_label": 2014,
+      "image_path": "C:\\Users\\malai\\varun_code\\llm_paper_analysis\\data\\ocr_audit\\20261110_luna_seed20261110\\page_0330.png",
+      "image_sha256": "fd5998848c509b1aa3b0c1b9c9035eca595894a6599bc99a1eae3c05afc4b508"
+    },
+    {
+      "pdf_page": 339,
+      "year_label": 2015,
+      "image_path": "C:\\Users\\malai\\varun_code\\llm_paper_analysis\\data\\ocr_audit\\20261110_luna_seed20261110\\page_0339.png",
+      "image_sha256": "a8bf3cb4bda3eff99198945377c4ca63c3c6fa3ca811d1f4ca3b4c81553fe83d"
+    },
+    {
+      "pdf_page": 405,
+      "year_label": 2017,
+      "image_path": "C:\\Users\\malai\\varun_code\\llm_paper_analysis\\data\\ocr_audit\\20261110_luna_seed20261110\\page_0405.png",
+      "image_sha256": "c87ea92addff9003e9ad14ca543c29c8467ff162c8262c36da06e1c5b5773a13"
+    },
+    {
+      "pdf_page": 414,
+      "year_label": 2017,
+      "image_path": "C:\\Users\\malai\\varun_code\\llm_paper_analysis\\data\\ocr_audit\\20261110_luna_seed20261110\\page_0414.png",
+      "image_sha256": "597c1c045b7fb67f4c3a0fda92cc2b18d2052acd1e8ecb87310ea250994ad7a3"
+    }
+  ]
+}

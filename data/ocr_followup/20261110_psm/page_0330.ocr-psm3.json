@@ -1,0 +1,56 @@
+{
+  "pdf_page": 330,
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "PG/2014 9 (P.T.0.)",
+      "bbox": [
+        81.11999999999999,
+        718.3199999999999,
+        549.36,
+        732.24
+      ]
+    }
+  ],
+  "text": "PG/2014 9 (P.T.0.)",
+  "ocr_words": [
+    {
+      "text": "9",
+      "x0": 313.44,
+      "top": 720.24,
+      "x1": 319.44,
+      "bottom": 729.36,
+      "confidence": 96.787926,
+      "ocr_block": "22",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "PG/2014",
+      "x0": 81.11999999999999,
+      "top": 718.3199999999999,
+      "x1": 129.12,
+      "bottom": 729.5999999999999,
+      "confidence": 90.803238,
+      "ocr_block": "22",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(P.T.0.)",
+      "x0": 509.28,
+      "top": 720.0,
+      "x1": 549.36,
+      "bottom": 732.24,
+      "confidence": 78.009163,
+      "ocr_block": "23",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

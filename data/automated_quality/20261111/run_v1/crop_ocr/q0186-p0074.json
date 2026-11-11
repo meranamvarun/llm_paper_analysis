@@ -1,0 +1,569 @@
+{
+  "pdf_page": 74,
+  "crop_top": 354.2095,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "67. Which of the following offences under the Indian Penal Code (IPC) has a strict liability",
+      "bbox": [
+        105.3,
+        2.4,
+        551.6999999999999,
+        15.0
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "connotation?",
+      "bbox": [
+        126.3,
+        18.0,
+        190.2,
+        26.1
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(A) Theft under Section 378 IPC",
+      "bbox": [
+        125.39999999999999,
+        35.699999999999996,
+        292.79999999999995,
+        45.599999999999994
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(B) Defamation under Section 499 IPC",
+      "bbox": [
+        125.39999999999999,
+        53.699999999999996,
+        324.9,
+        63.599999999999994
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(C) Bigamy under Section 494 IPC",
+      "bbox": [
+        125.39999999999999,
+        71.7,
+        304.2,
+        81.9
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "(D) Selling adulterated food or drink under Section 272 IPC",
+      "bbox": [
+        124.8,
+        89.7,
+        431.7,
+        99.9
+      ]
+    }
+  ],
+  "text": "67. Which of the following offences under the Indian Penal Code (IPC) has a strict liability\nconnotation?\n(A) Theft under Section 378 IPC\n(B) Defamation under Section 499 IPC\n(C) Bigamy under Section 494 IPC\n(D) Selling adulterated food or drink under Section 272 IPC",
+  "ocr_words": [
+    {
+      "text": "67.",
+      "x0": 105.3,
+      "top": 4.2,
+      "x1": 119.1,
+      "bottom": 12.0,
+      "confidence": 96.902908,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Which",
+      "x0": 126.3,
+      "top": 3.5999999999999996,
+      "x1": 158.1,
+      "bottom": 12.0,
+      "confidence": 96.683342,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 160.79999999999998,
+      "top": 3.5999999999999996,
+      "x1": 170.39999999999998,
+      "bottom": 12.0,
+      "confidence": 96.816658,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 172.2,
+      "top": 3.5999999999999996,
+      "x1": 187.79999999999998,
+      "bottom": 12.0,
+      "confidence": 96.921989,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 190.79999999999998,
+      "top": 3.5999999999999996,
+      "x1": 236.39999999999998,
+      "bottom": 13.799999999999999,
+      "confidence": 96.335182,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "offences",
+      "x0": 238.79999999999998,
+      "top": 3.5999999999999996,
+      "x1": 278.4,
+      "bottom": 12.0,
+      "confidence": 96.201408,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "under",
+      "x0": 281.4,
+      "top": 3.5999999999999996,
+      "x1": 310.79999999999995,
+      "bottom": 12.0,
+      "confidence": 96.201408,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 313.5,
+      "top": 3.5999999999999996,
+      "x1": 329.1,
+      "bottom": 12.0,
+      "confidence": 96.709976,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Indian",
+      "x0": 332.09999999999997,
+      "top": 3.5999999999999996,
+      "x1": 365.09999999999997,
+      "bottom": 12.0,
+      "confidence": 96.518517,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Penal",
+      "x0": 368.09999999999997,
+      "top": 3.5999999999999996,
+      "x1": 396.29999999999995,
+      "bottom": 12.0,
+      "confidence": 96.365395,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Code",
+      "x0": 399.3,
+      "top": 3.5999999999999996,
+      "x1": 423.6,
+      "bottom": 12.0,
+      "confidence": 95.810143,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(IPC)",
+      "x0": 426.9,
+      "top": 3.5999999999999996,
+      "x1": 452.4,
+      "bottom": 13.799999999999999,
+      "confidence": 95.099457,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "has",
+      "x0": 455.4,
+      "top": 3.5999999999999996,
+      "x1": 472.5,
+      "bottom": 12.0,
+      "confidence": 96.465981,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 473.7,
+      "top": 2.4,
+      "x1": 477.9,
+      "bottom": 15.0,
+      "confidence": 93.676369,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "strict",
+      "x0": 484.2,
+      "top": 3.9,
+      "x1": 510.0,
+      "bottom": 12.0,
+      "confidence": 93.676369,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "liability",
+      "x0": 512.6999999999999,
+      "top": 3.5999999999999996,
+      "x1": 551.6999999999999,
+      "bottom": 13.799999999999999,
+      "confidence": 96.691582,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "connotation?",
+      "x0": 126.3,
+      "top": 18.0,
+      "x1": 190.2,
+      "bottom": 26.1,
+      "confidence": 96.521271,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(A)",
+      "x0": 125.39999999999999,
+      "top": 35.699999999999996,
+      "x1": 139.2,
+      "bottom": 45.599999999999994,
+      "confidence": 96.656639,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Theft",
+      "x0": 148.2,
+      "top": 35.699999999999996,
+      "x1": 175.2,
+      "bottom": 44.099999999999994,
+      "confidence": 96.205269,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "under",
+      "x0": 178.79999999999998,
+      "top": 35.699999999999996,
+      "x1": 208.49999999999997,
+      "bottom": 44.099999999999994,
+      "confidence": 95.851128,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Section",
+      "x0": 212.4,
+      "top": 35.699999999999996,
+      "x1": 248.7,
+      "bottom": 44.099999999999994,
+      "confidence": 95.796516,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "378",
+      "x0": 252.6,
+      "top": 36.3,
+      "x1": 270.0,
+      "bottom": 44.099999999999994,
+      "confidence": 96.514175,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "IPC",
+      "x0": 273.9,
+      "top": 35.699999999999996,
+      "x1": 292.79999999999995,
+      "bottom": 44.099999999999994,
+      "confidence": 96.514175,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(B)",
+      "x0": 125.39999999999999,
+      "top": 53.699999999999996,
+      "x1": 139.2,
+      "bottom": 63.599999999999994,
+      "confidence": 92.042061,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Defamation",
+      "x0": 148.2,
+      "top": 53.699999999999996,
+      "x1": 207.29999999999998,
+      "bottom": 62.099999999999994,
+      "confidence": 96.220657,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "under",
+      "x0": 210.9,
+      "top": 53.699999999999996,
+      "x1": 240.6,
+      "bottom": 62.099999999999994,
+      "confidence": 96.351196,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Section",
+      "x0": 244.5,
+      "top": 53.699999999999996,
+      "x1": 281.1,
+      "bottom": 62.099999999999994,
+      "confidence": 96.731415,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "499",
+      "x0": 284.7,
+      "top": 54.3,
+      "x1": 302.09999999999997,
+      "bottom": 62.099999999999994,
+      "confidence": 96.845215,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "IPC",
+      "x0": 306.0,
+      "top": 53.699999999999996,
+      "x1": 324.9,
+      "bottom": 62.099999999999994,
+      "confidence": 95.440163,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(C)",
+      "x0": 125.39999999999999,
+      "top": 71.7,
+      "x1": 139.2,
+      "bottom": 81.60000000000001,
+      "confidence": 91.435432,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Bigamy",
+      "x0": 148.5,
+      "top": 72.0,
+      "x1": 186.9,
+      "bottom": 81.9,
+      "confidence": 91.920189,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "under",
+      "x0": 190.5,
+      "top": 71.7,
+      "x1": 220.2,
+      "bottom": 80.10000000000001,
+      "confidence": 95.509109,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Section",
+      "x0": 224.1,
+      "top": 71.7,
+      "x1": 260.4,
+      "bottom": 80.10000000000001,
+      "confidence": 96.306366,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "494",
+      "x0": 264.3,
+      "top": 72.3,
+      "x1": 281.7,
+      "bottom": 80.1,
+      "confidence": 96.278618,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "IPC",
+      "x0": 285.59999999999997,
+      "top": 71.7,
+      "x1": 304.2,
+      "bottom": 80.10000000000001,
+      "confidence": 96.256821,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "(D)",
+      "x0": 124.8,
+      "top": 89.7,
+      "x1": 139.2,
+      "bottom": 99.60000000000001,
+      "confidence": 91.82019,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Selling",
+      "x0": 148.79999999999998,
+      "top": 89.7,
+      "x1": 183.29999999999998,
+      "bottom": 99.9,
+      "confidence": 95.708801,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "adulterated",
+      "x0": 186.9,
+      "top": 89.7,
+      "x1": 245.7,
+      "bottom": 98.10000000000001,
+      "confidence": 95.994362,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "food",
+      "x0": 249.29999999999998,
+      "top": 89.7,
+      "x1": 270.0,
+      "bottom": 98.10000000000001,
+      "confidence": 96.72229,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "or",
+      "x0": 273.3,
+      "top": 92.7,
+      "x1": 283.2,
+      "bottom": 98.10000000000001,
+      "confidence": 96.385429,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "drink",
+      "x0": 287.09999999999997,
+      "top": 89.7,
+      "x1": 314.09999999999997,
+      "bottom": 98.10000000000001,
+      "confidence": 96.688644,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "under",
+      "x0": 317.7,
+      "top": 89.7,
+      "x1": 347.4,
+      "bottom": 98.10000000000001,
+      "confidence": 95.554298,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Section",
+      "x0": 351.3,
+      "top": 89.7,
+      "x1": 387.6,
+      "bottom": 98.10000000000001,
+      "confidence": 95.986473,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "272",
+      "x0": 391.5,
+      "top": 90.3,
+      "x1": 408.6,
+      "bottom": 98.1,
+      "confidence": 96.778389,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "IPC",
+      "x0": 412.8,
+      "top": 89.7,
+      "x1": 431.7,
+      "bottom": 98.10000000000001,
+      "confidence": 96.026321,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

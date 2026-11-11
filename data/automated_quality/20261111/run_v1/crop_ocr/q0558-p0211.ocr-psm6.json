@@ -1,0 +1,1094 @@
+{
+  "pdf_page": 211,
+  "crop_top": 599.4,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "73. Consider the given statements:",
+      "bbox": [
+        90.6,
+        3.3,
+        257.4,
+        13.2
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "(Il) Amalgamation is the merger of one or more companies with another company.",
+      "bbox": [
+        115.19999999999999,
+        15.899999999999999,
+        500.4,
+        26.1
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(II) Amalgamation may be the merger of two or more companies to form a new",
+      "bbox": [
+        112.2,
+        28.799999999999997,
+        513.6,
+        39.0
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "company.",
+      "bbox": [
+        129.6,
+        43.8,
+        174.89999999999998,
+        51.9
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(III) The amalgamating company integrates with amalgamated company and the former",
+      "bbox": [
+        109.2,
+        54.6,
+        513.9,
+        64.8
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "is dissolved without winding up.",
+      "bbox": [
+        130.2,
+        67.5,
+        277.79999999999995,
+        77.4
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "Choose the correct answer from the Code given below:",
+      "bbox": [
+        111.3,
+        85.2,
+        371.09999999999997,
+        95.1
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "(A) Only (I) and (Il) are true. (B) Only (II) and (Ill) are true.",
+      "bbox": [
+        111.0,
+        97.8,
+        437.99999999999994,
+        108.0
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "(C) Only (I) and (III) are true. (D) (I), (Il) and (Ill) are true.",
+      "bbox": [
+        110.39999999999999,
+        110.7,
+        428.99999999999994,
+        120.9
+      ]
+    },
+    {
+      "line_id": "l0009",
+      "text": "M 22",
+      "bbox": [
+        58.8,
+        135.29999999999998,
+        302.7,
+        142.2
+      ]
+    }
+  ],
+  "text": "73. Consider the given statements:\n(Il) Amalgamation is the merger of one or more companies with another company.\n(II) Amalgamation may be the merger of two or more companies to form a new\ncompany.\n(III) The amalgamating company integrates with amalgamated company and the former\nis dissolved without winding up.\nChoose the correct answer from the Code given below:\n(A) Only (I) and (Il) are true. (B) Only (II) and (Ill) are true.\n(C) Only (I) and (III) are true. (D) (I), (Il) and (Ill) are true.\nM 22",
+  "ocr_words": [
+    {
+      "text": "73.",
+      "x0": 90.6,
+      "top": 3.5999999999999996,
+      "x1": 104.1,
+      "bottom": 11.399999999999999,
+      "confidence": 96.478233,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Consider",
+      "x0": 111.3,
+      "top": 3.3,
+      "x1": 153.6,
+      "bottom": 11.399999999999999,
+      "confidence": 96.295975,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 156.9,
+      "top": 3.3,
+      "x1": 171.3,
+      "bottom": 11.399999999999999,
+      "confidence": 96.569664,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "given",
+      "x0": 174.9,
+      "top": 3.5999999999999996,
+      "x1": 199.5,
+      "bottom": 13.2,
+      "confidence": 96.47242,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "statements:",
+      "x0": 203.4,
+      "top": 3.9,
+      "x1": 257.4,
+      "bottom": 11.4,
+      "confidence": 96.633011,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(Il)",
+      "x0": 115.19999999999999,
+      "top": 15.899999999999999,
+      "x1": 123.89999999999999,
+      "bottom": 25.799999999999997,
+      "confidence": 45.421425,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Amalgamation",
+      "x0": 129.6,
+      "top": 15.899999999999999,
+      "x1": 197.1,
+      "bottom": 25.799999999999997,
+      "confidence": 96.10923,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "is",
+      "x0": 201.29999999999998,
+      "top": 16.2,
+      "x1": 208.2,
+      "bottom": 24.0,
+      "confidence": 96.900475,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 211.5,
+      "top": 15.899999999999999,
+      "x1": 225.9,
+      "bottom": 24.0,
+      "confidence": 96.617035,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "merger",
+      "x0": 230.1,
+      "top": 18.0,
+      "x1": 263.1,
+      "bottom": 25.8,
+      "confidence": 96.411148,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 266.4,
+      "top": 15.899999999999999,
+      "x1": 274.79999999999995,
+      "bottom": 24.0,
+      "confidence": 96.400284,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "one",
+      "x0": 278.4,
+      "top": 18.0,
+      "x1": 295.5,
+      "bottom": 24.0,
+      "confidence": 96.348206,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "or",
+      "x0": 299.09999999999997,
+      "top": 18.0,
+      "x1": 308.4,
+      "bottom": 24.0,
+      "confidence": 95.86969,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "more",
+      "x0": 312.0,
+      "top": 18.0,
+      "x1": 335.4,
+      "bottom": 24.0,
+      "confidence": 95.995369,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "companies",
+      "x0": 339.0,
+      "top": 16.2,
+      "x1": 390.3,
+      "bottom": 25.799999999999997,
+      "confidence": 96.389793,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "with",
+      "x0": 393.59999999999997,
+      "top": 15.899999999999999,
+      "x1": 411.9,
+      "bottom": 23.7,
+      "confidence": 96.806168,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "another",
+      "x0": 415.8,
+      "top": 15.899999999999999,
+      "x1": 451.8,
+      "bottom": 24.0,
+      "confidence": 96.313271,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "company.",
+      "x0": 455.09999999999997,
+      "top": 18.0,
+      "x1": 500.4,
+      "bottom": 26.1,
+      "confidence": 96.170357,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(II)",
+      "x0": 112.2,
+      "top": 28.799999999999997,
+      "x1": 123.9,
+      "bottom": 38.699999999999996,
+      "confidence": 77.617851,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Amalgamation",
+      "x0": 129.6,
+      "top": 28.799999999999997,
+      "x1": 198.6,
+      "bottom": 38.699999999999996,
+      "confidence": 96.139946,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "may",
+      "x0": 204.9,
+      "top": 30.9,
+      "x1": 224.4,
+      "bottom": 39.0,
+      "confidence": 96.274681,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "be",
+      "x0": 230.1,
+      "top": 28.799999999999997,
+      "x1": 241.2,
+      "bottom": 36.9,
+      "confidence": 96.794258,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 246.29999999999998,
+      "top": 28.799999999999997,
+      "x1": 261.0,
+      "bottom": 36.9,
+      "confidence": 96.637001,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "merger",
+      "x0": 266.7,
+      "top": 30.9,
+      "x1": 300.9,
+      "bottom": 38.699999999999996,
+      "confidence": 96.746429,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 305.7,
+      "top": 28.799999999999997,
+      "x1": 314.4,
+      "bottom": 36.9,
+      "confidence": 96.467171,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "two",
+      "x0": 319.5,
+      "top": 29.7,
+      "x1": 336.0,
+      "bottom": 36.9,
+      "confidence": 96.592308,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "or",
+      "x0": 341.4,
+      "top": 30.9,
+      "x1": 350.7,
+      "bottom": 36.9,
+      "confidence": 96.474487,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "more",
+      "x0": 356.09999999999997,
+      "top": 30.9,
+      "x1": 379.79999999999995,
+      "bottom": 36.9,
+      "confidence": 96.334229,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "companies",
+      "x0": 385.2,
+      "top": 29.099999999999998,
+      "x1": 437.7,
+      "bottom": 38.699999999999996,
+      "confidence": 96.371414,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 442.8,
+      "top": 29.4,
+      "x1": 451.5,
+      "bottom": 36.9,
+      "confidence": 96.20443,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "form",
+      "x0": 456.59999999999997,
+      "top": 28.799999999999997,
+      "x1": 477.9,
+      "bottom": 36.9,
+      "confidence": 95.515656,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 483.59999999999997,
+      "top": 30.9,
+      "x1": 488.7,
+      "bottom": 36.9,
+      "confidence": 95.515656,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "new",
+      "x0": 494.4,
+      "top": 30.9,
+      "x1": 513.6,
+      "bottom": 36.9,
+      "confidence": 96.708344,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "company.",
+      "x0": 129.6,
+      "top": 43.8,
+      "x1": 174.89999999999998,
+      "bottom": 51.9,
+      "confidence": 96.750969,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(III)",
+      "x0": 109.2,
+      "top": 54.6,
+      "x1": 123.9,
+      "bottom": 64.5,
+      "confidence": 45.174366,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 129.6,
+      "top": 54.6,
+      "x1": 147.29999999999998,
+      "bottom": 62.7,
+      "confidence": 95.693275,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "amalgamating",
+      "x0": 150.29999999999998,
+      "top": 54.6,
+      "x1": 216.29999999999998,
+      "bottom": 64.5,
+      "confidence": 95.439629,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "company",
+      "x0": 219.29999999999998,
+      "top": 56.699999999999996,
+      "x1": 261.9,
+      "bottom": 64.8,
+      "confidence": 95.920647,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "integrates",
+      "x0": 264.9,
+      "top": 54.9,
+      "x1": 310.5,
+      "bottom": 64.5,
+      "confidence": 96.506157,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "with",
+      "x0": 313.2,
+      "top": 54.6,
+      "x1": 331.2,
+      "bottom": 62.4,
+      "confidence": 96.263931,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "amalgamated",
+      "x0": 334.5,
+      "top": 54.6,
+      "x1": 398.1,
+      "bottom": 64.5,
+      "confidence": 88.67012,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "company",
+      "x0": 401.09999999999997,
+      "top": 56.699999999999996,
+      "x1": 443.99999999999994,
+      "bottom": 64.8,
+      "confidence": 96.735985,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 446.7,
+      "top": 54.6,
+      "x1": 463.5,
+      "bottom": 62.7,
+      "confidence": 96.755638,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 466.2,
+      "top": 54.6,
+      "x1": 480.59999999999997,
+      "bottom": 62.7,
+      "confidence": 96.562744,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "former",
+      "x0": 483.29999999999995,
+      "top": 54.6,
+      "x1": 513.9,
+      "bottom": 62.7,
+      "confidence": 96.271294,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 130.2,
+      "top": 67.8,
+      "x1": 136.79999999999998,
+      "bottom": 75.6,
+      "confidence": 96.997314,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "dissolved",
+      "x0": 140.4,
+      "top": 67.5,
+      "x1": 184.2,
+      "bottom": 75.6,
+      "confidence": 96.793739,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "without",
+      "x0": 187.79999999999998,
+      "top": 67.5,
+      "x1": 221.39999999999998,
+      "bottom": 75.6,
+      "confidence": 96.653816,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "winding",
+      "x0": 224.7,
+      "top": 67.5,
+      "x1": 260.4,
+      "bottom": 77.4,
+      "confidence": 96.478767,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "up.",
+      "x0": 264.59999999999997,
+      "top": 69.6,
+      "x1": 277.79999999999995,
+      "bottom": 77.39999999999999,
+      "confidence": 96.513397,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Choose",
+      "x0": 111.3,
+      "top": 85.2,
+      "x1": 147.3,
+      "bottom": 93.3,
+      "confidence": 96.09481,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 150.9,
+      "top": 85.2,
+      "x1": 165.3,
+      "bottom": 93.3,
+      "confidence": 96.749535,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "correct",
+      "x0": 168.9,
+      "top": 85.8,
+      "x1": 201.0,
+      "bottom": 93.3,
+      "confidence": 96.604637,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "answer",
+      "x0": 204.6,
+      "top": 87.3,
+      "x1": 238.79999999999998,
+      "bottom": 93.3,
+      "confidence": 96.488075,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "from",
+      "x0": 241.79999999999998,
+      "top": 85.2,
+      "x1": 262.5,
+      "bottom": 93.3,
+      "confidence": 95.889343,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 266.09999999999997,
+      "top": 85.2,
+      "x1": 280.79999999999995,
+      "bottom": 93.3,
+      "confidence": 95.889343,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Code",
+      "x0": 284.4,
+      "top": 85.2,
+      "x1": 309.29999999999995,
+      "bottom": 93.3,
+      "confidence": 96.516739,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "given",
+      "x0": 312.9,
+      "top": 85.5,
+      "x1": 337.5,
+      "bottom": 95.1,
+      "confidence": 95.790749,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "below:",
+      "x0": 341.7,
+      "top": 85.2,
+      "x1": 371.09999999999997,
+      "bottom": 93.3,
+      "confidence": 96.809807,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 111.0,
+      "top": 97.8,
+      "x1": 123.9,
+      "bottom": 107.7,
+      "confidence": 96.886009,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Only",
+      "x0": 129.9,
+      "top": 97.8,
+      "x1": 151.20000000000002,
+      "bottom": 108.0,
+      "confidence": 71.572594,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(I)",
+      "x0": 155.1,
+      "top": 97.8,
+      "x1": 163.79999999999998,
+      "bottom": 107.7,
+      "confidence": 67.506821,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 167.7,
+      "top": 97.8,
+      "x1": 184.79999999999998,
+      "bottom": 105.89999999999999,
+      "confidence": 96.119064,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(Il)",
+      "x0": 189.0,
+      "top": 97.8,
+      "x1": 200.7,
+      "bottom": 107.7,
+      "confidence": 87.553848,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "are",
+      "x0": 204.6,
+      "top": 99.89999999999999,
+      "x1": 219.29999999999998,
+      "bottom": 105.89999999999999,
+      "confidence": 96.480286,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "true.",
+      "x0": 222.9,
+      "top": 98.39999999999999,
+      "x1": 243.3,
+      "bottom": 105.89999999999999,
+      "confidence": 96.456932,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(B)",
+      "x0": 298.8,
+      "top": 97.8,
+      "x1": 311.7,
+      "bottom": 107.7,
+      "confidence": 92.950645,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Only",
+      "x0": 318.59999999999997,
+      "top": 97.8,
+      "x1": 339.9,
+      "bottom": 108.0,
+      "confidence": 87.647873,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(II)",
+      "x0": 343.8,
+      "top": 97.8,
+      "x1": 355.5,
+      "bottom": 107.7,
+      "confidence": 78.044296,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 359.7,
+      "top": 97.8,
+      "x1": 376.5,
+      "bottom": 105.89999999999999,
+      "confidence": 95.981071,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(Ill)",
+      "x0": 380.7,
+      "top": 97.8,
+      "x1": 395.4,
+      "bottom": 107.7,
+      "confidence": 75.671158,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "are",
+      "x0": 399.3,
+      "top": 99.89999999999999,
+      "x1": 414.0,
+      "bottom": 105.89999999999999,
+      "confidence": 96.965721,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "true.",
+      "x0": 417.59999999999997,
+      "top": 98.39999999999999,
+      "x1": 437.99999999999994,
+      "bottom": 105.89999999999999,
+      "confidence": 95.823837,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(C)",
+      "x0": 110.39999999999999,
+      "top": 110.7,
+      "x1": 123.89999999999999,
+      "bottom": 120.60000000000001,
+      "confidence": 90.972549,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Only",
+      "x0": 129.9,
+      "top": 110.7,
+      "x1": 151.20000000000002,
+      "bottom": 120.9,
+      "confidence": 95.927208,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(I)",
+      "x0": 155.1,
+      "top": 110.7,
+      "x1": 163.79999999999998,
+      "bottom": 120.60000000000001,
+      "confidence": 57.594688,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 167.7,
+      "top": 110.7,
+      "x1": 184.79999999999998,
+      "bottom": 118.8,
+      "confidence": 96.144516,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(III)",
+      "x0": 189.0,
+      "top": 110.7,
+      "x1": 203.7,
+      "bottom": 120.60000000000001,
+      "confidence": 81.784218,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "are",
+      "x0": 207.6,
+      "top": 112.8,
+      "x1": 222.29999999999998,
+      "bottom": 118.8,
+      "confidence": 96.104263,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "true.",
+      "x0": 225.9,
+      "top": 111.6,
+      "x1": 246.3,
+      "bottom": 118.8,
+      "confidence": 96.640701,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(D)",
+      "x0": 298.2,
+      "top": 110.7,
+      "x1": 311.7,
+      "bottom": 120.60000000000001,
+      "confidence": 93.093239,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(I),",
+      "x0": 318.9,
+      "top": 110.7,
+      "x1": 330.29999999999995,
+      "bottom": 120.60000000000001,
+      "confidence": 74.896927,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(Il)",
+      "x0": 334.8,
+      "top": 110.7,
+      "x1": 346.5,
+      "bottom": 120.60000000000001,
+      "confidence": 77.928421,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 350.7,
+      "top": 110.7,
+      "x1": 367.5,
+      "bottom": 118.8,
+      "confidence": 96.48822,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(Ill)",
+      "x0": 371.7,
+      "top": 110.7,
+      "x1": 386.4,
+      "bottom": 120.60000000000001,
+      "confidence": 81.866356,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "are",
+      "x0": 390.59999999999997,
+      "top": 112.8,
+      "x1": 405.29999999999995,
+      "bottom": 118.8,
+      "confidence": 96.906487,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "true.",
+      "x0": 408.59999999999997,
+      "top": 111.3,
+      "x1": 428.99999999999994,
+      "bottom": 118.8,
+      "confidence": 95.924187,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "M",
+      "x0": 58.8,
+      "top": 135.29999999999998,
+      "x1": 65.7,
+      "bottom": 142.2,
+      "confidence": 92.949181,
+      "ocr_block": "1",
+      "ocr_paragraph": "7",
+      "ocr_line": "1"
+    },
+    {
+      "text": "22",
+      "x0": 292.5,
+      "top": 135.29999999999998,
+      "x1": 302.7,
+      "bottom": 142.2,
+      "confidence": 96.892792,
+      "ocr_block": "1",
+      "ocr_paragraph": "7",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

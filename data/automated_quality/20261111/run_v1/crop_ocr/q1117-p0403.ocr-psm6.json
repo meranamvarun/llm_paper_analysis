@@ -1,0 +1,376 @@
+{
+  "pdf_page": 403,
+  "crop_top": 749.64,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Question Number : 15 Question Id : 461139385 Question Type : MCQ Option Shuffling : Yes Display Question Number : Yes",
+      "bbox": [
+        37.8,
+        1.7999999999999998,
+        548.9999999999999,
+        12.599999999999998
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Single Line Question Option : No Option Orientation : Vertical",
+      "bbox": [
+        37.8,
+        12.299999999999999,
+        293.1,
+        20.7
+      ]
+    }
+  ],
+  "text": "Question Number : 15 Question Id : 461139385 Question Type : MCQ Option Shuffling : Yes Display Question Number : Yes\nSingle Line Question Option : No Option Orientation : Vertical",
+  "ocr_words": [
+    {
+      "text": "Question",
+      "x0": 37.8,
+      "top": 3.0,
+      "x1": 72.9,
+      "bottom": 11.1,
+      "confidence": 95.346672,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Number",
+      "x0": 75.89999999999999,
+      "top": 3.0,
+      "x1": 109.19999999999999,
+      "bottom": 9.6,
+      "confidence": 92.726639,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 112.5,
+      "top": 4.8,
+      "x1": 113.7,
+      "bottom": 9.6,
+      "confidence": 91.171799,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "15",
+      "x0": 117.89999999999999,
+      "top": 3.0,
+      "x1": 125.69999999999999,
+      "bottom": 9.6,
+      "confidence": 93.030411,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Question",
+      "x0": 131.7,
+      "top": 3.0,
+      "x1": 166.79999999999998,
+      "bottom": 11.1,
+      "confidence": 95.292717,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Id",
+      "x0": 169.79999999999998,
+      "top": 3.0,
+      "x1": 178.2,
+      "bottom": 9.6,
+      "confidence": 91.060478,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 181.5,
+      "top": 4.8,
+      "x1": 182.7,
+      "bottom": 9.6,
+      "confidence": 86.329666,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "461139385",
+      "x0": 186.6,
+      "top": 3.0,
+      "x1": 228.0,
+      "bottom": 9.6,
+      "confidence": 96.460442,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Question",
+      "x0": 233.7,
+      "top": 3.0,
+      "x1": 268.8,
+      "bottom": 11.1,
+      "confidence": 96.460442,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Type",
+      "x0": 272.09999999999997,
+      "top": 3.0,
+      "x1": 291.59999999999997,
+      "bottom": 11.4,
+      "confidence": 88.831985,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 296.7,
+      "top": 4.8,
+      "x1": 297.0,
+      "bottom": 9.6,
+      "confidence": 58.703922,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "MCQ",
+      "x0": 300.0,
+      "top": 3.0,
+      "x1": 322.5,
+      "bottom": 11.1,
+      "confidence": 58.703922,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Option",
+      "x0": 328.2,
+      "top": 3.0,
+      "x1": 355.5,
+      "bottom": 11.4,
+      "confidence": 93.296684,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Shuffling",
+      "x0": 358.8,
+      "top": 3.0,
+      "x1": 395.1,
+      "bottom": 11.4,
+      "confidence": 91.66761,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 399.3,
+      "top": 4.8,
+      "x1": 399.90000000000003,
+      "bottom": 9.6,
+      "confidence": 86.505951,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Yes",
+      "x0": 403.2,
+      "top": 3.0,
+      "x1": 417.3,
+      "bottom": 9.6,
+      "confidence": 96.719887,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Display",
+      "x0": 422.7,
+      "top": 3.0,
+      "x1": 452.4,
+      "bottom": 11.4,
+      "confidence": 96.386139,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Question",
+      "x0": 455.7,
+      "top": 3.0,
+      "x1": 490.8,
+      "bottom": 11.1,
+      "confidence": 96.785416,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Number",
+      "x0": 493.79999999999995,
+      "top": 3.0,
+      "x1": 531.3,
+      "bottom": 9.6,
+      "confidence": 84.697601,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 528.0,
+      "top": 1.7999999999999998,
+      "x1": 531.6,
+      "bottom": 12.599999999999998,
+      "confidence": 84.697601,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Yes",
+      "x0": 535.1999999999999,
+      "top": 3.0,
+      "x1": 548.9999999999999,
+      "bottom": 9.6,
+      "confidence": 96.854736,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Single",
+      "x0": 37.8,
+      "top": 12.299999999999999,
+      "x1": 61.5,
+      "bottom": 20.7,
+      "confidence": 96.196739,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Line",
+      "x0": 64.5,
+      "top": 12.299999999999999,
+      "x1": 82.2,
+      "bottom": 18.9,
+      "confidence": 96.959068,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Question",
+      "x0": 85.5,
+      "top": 12.299999999999999,
+      "x1": 120.3,
+      "bottom": 20.4,
+      "confidence": 96.684029,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Option",
+      "x0": 123.89999999999999,
+      "top": 12.299999999999999,
+      "x1": 150.89999999999998,
+      "bottom": 20.7,
+      "confidence": 91.474609,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": ":",
+      "x0": 155.4,
+      "top": 14.1,
+      "x1": 156.0,
+      "bottom": 18.9,
+      "confidence": 91.373604,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "No",
+      "x0": 159.6,
+      "top": 12.299999999999999,
+      "x1": 170.4,
+      "bottom": 18.9,
+      "confidence": 95.741898,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Option",
+      "x0": 176.1,
+      "top": 12.299999999999999,
+      "x1": 203.4,
+      "bottom": 20.7,
+      "confidence": 96.288925,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Orientation",
+      "x0": 206.7,
+      "top": 12.299999999999999,
+      "x1": 252.6,
+      "bottom": 18.9,
+      "confidence": 92.899559,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": ":",
+      "x0": 256.5,
+      "top": 14.1,
+      "x1": 257.7,
+      "bottom": 18.9,
+      "confidence": 69.035088,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Vertical",
+      "x0": 261.3,
+      "top": 12.299999999999999,
+      "x1": 293.1,
+      "bottom": 18.9,
+      "confidence": 96.903229,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

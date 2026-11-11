@@ -1,0 +1,577 @@
+{
+  "pdf_page": 396,
+  "crop_top": 298.28136000000006,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.33 If International Law were only a kind of morality, the framers of State Papers Concerning Foreign Policy would throw all their strength on moral argument.",
+      "bbox": [
+        42.0,
+        3.5999999999999996,
+        542.6999999999999,
+        10.2
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Who made this observation?",
+      "bbox": [
+        62.4,
+        12.6,
+        151.79999999999998,
+        17.7
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "ans x,",
+      "bbox": [
+        43.199999999999996,
+        24.0,
+        93.0,
+        39.0
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "Fitzmaurice",
+      "bbox": [
+        96.0,
+        33.0,
+        130.2,
+        42.0
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "x,",
+      "bbox": [
+        73.2,
+        45.3,
+        93.0,
+        60.3
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "J.G. Starke",
+      "bbox": [
+        95.39999999999999,
+        55.199999999999996,
+        126.9,
+        60.3
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "Xx,",
+      "bbox": [
+        72.0,
+        65.39999999999999,
+        93.0,
+        84.89999999999999
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "John Austin",
+      "bbox": [
+        95.39999999999999,
+        76.8,
+        130.2,
+        81.89999999999999
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "vw.",
+      "bbox": [
+        72.6,
+        86.1,
+        93.0,
+        106.19999999999999
+      ]
+    },
+    {
+      "line_id": "l0009",
+      "text": "Frederick Pollock",
+      "bbox": [
+        96.0,
+        98.1,
+        147.0,
+        103.19999999999999
+      ]
+    }
+  ],
+  "text": "Q.33 If International Law were only a kind of morality, the framers of State Papers Concerning Foreign Policy would throw all their strength on moral argument.\nWho made this observation?\nans x,\nFitzmaurice\nx,\nJ.G. Starke\nXx,\nJohn Austin\nvw.\nFrederick Pollock",
+  "ocr_words": [
+    {
+      "text": "Q.33",
+      "x0": 42.0,
+      "top": 3.9,
+      "x1": 56.1,
+      "bottom": 9.6,
+      "confidence": 52.169182,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "If",
+      "x0": 63.0,
+      "top": 3.5999999999999996,
+      "x1": 66.9,
+      "bottom": 8.7,
+      "confidence": 49.10199,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "International",
+      "x0": 69.0,
+      "top": 3.5999999999999996,
+      "x1": 108.9,
+      "bottom": 8.7,
+      "confidence": 95.797783,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Law",
+      "x0": 111.6,
+      "top": 3.9,
+      "x1": 123.3,
+      "bottom": 8.7,
+      "confidence": 97.017822,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "were",
+      "x0": 125.39999999999999,
+      "top": 5.1,
+      "x1": 140.7,
+      "bottom": 8.7,
+      "confidence": 96.49086,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "only",
+      "x0": 142.79999999999998,
+      "top": 3.5999999999999996,
+      "x1": 155.99999999999997,
+      "bottom": 10.2,
+      "confidence": 96.548721,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 158.1,
+      "top": 5.1,
+      "x1": 161.1,
+      "bottom": 8.7,
+      "confidence": 96.590164,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "kind",
+      "x0": 163.5,
+      "top": 3.5999999999999996,
+      "x1": 176.4,
+      "bottom": 8.7,
+      "confidence": 96.590164,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 178.5,
+      "top": 3.5999999999999996,
+      "x1": 184.8,
+      "bottom": 8.7,
+      "confidence": 96.650833,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "morality,",
+      "x0": 186.9,
+      "top": 3.5999999999999996,
+      "x1": 214.5,
+      "bottom": 10.2,
+      "confidence": 96.650833,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 216.6,
+      "top": 3.5999999999999996,
+      "x1": 226.5,
+      "bottom": 8.7,
+      "confidence": 97.009438,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "framers",
+      "x0": 228.6,
+      "top": 3.5999999999999996,
+      "x1": 252.6,
+      "bottom": 8.7,
+      "confidence": 96.610229,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 254.7,
+      "top": 3.5999999999999996,
+      "x1": 261.0,
+      "bottom": 8.7,
+      "confidence": 96.99588,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "State",
+      "x0": 262.8,
+      "top": 3.9,
+      "x1": 278.7,
+      "bottom": 8.7,
+      "confidence": 96.793991,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Papers",
+      "x0": 281.09999999999997,
+      "top": 3.9,
+      "x1": 301.49999999999994,
+      "bottom": 10.2,
+      "confidence": 96.761124,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Concerning",
+      "x0": 303.9,
+      "top": 3.9,
+      "x1": 338.4,
+      "bottom": 10.2,
+      "confidence": 96.769203,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Foreign",
+      "x0": 340.8,
+      "top": 3.9,
+      "x1": 363.3,
+      "bottom": 10.2,
+      "confidence": 96.789009,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Policy",
+      "x0": 365.7,
+      "top": 3.5999999999999996,
+      "x1": 383.4,
+      "bottom": 10.2,
+      "confidence": 96.730782,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "would",
+      "x0": 385.5,
+      "top": 3.5999999999999996,
+      "x1": 404.4,
+      "bottom": 8.7,
+      "confidence": 96.728165,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "throw",
+      "x0": 406.8,
+      "top": 3.5999999999999996,
+      "x1": 425.40000000000003,
+      "bottom": 8.7,
+      "confidence": 96.400093,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "all",
+      "x0": 427.5,
+      "top": 3.5999999999999996,
+      "x1": 434.1,
+      "bottom": 8.7,
+      "confidence": 96.400093,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "their",
+      "x0": 436.5,
+      "top": 3.5999999999999996,
+      "x1": 451.2,
+      "bottom": 8.7,
+      "confidence": 96.740219,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "strength",
+      "x0": 453.0,
+      "top": 3.5999999999999996,
+      "x1": 478.8,
+      "bottom": 10.2,
+      "confidence": 96.28463,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "on",
+      "x0": 481.2,
+      "top": 5.1,
+      "x1": 488.4,
+      "bottom": 8.7,
+      "confidence": 96.28463,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "moral",
+      "x0": 491.09999999999997,
+      "top": 3.5999999999999996,
+      "x1": 508.49999999999994,
+      "bottom": 8.7,
+      "confidence": 96.556,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "argument.",
+      "x0": 510.9,
+      "top": 4.2,
+      "x1": 542.6999999999999,
+      "bottom": 10.2,
+      "confidence": 96.123077,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Who",
+      "x0": 62.4,
+      "top": 12.6,
+      "x1": 77.1,
+      "bottom": 17.7,
+      "confidence": 96.745842,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "made",
+      "x0": 79.2,
+      "top": 12.6,
+      "x1": 96.3,
+      "bottom": 17.7,
+      "confidence": 96.504089,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "this",
+      "x0": 98.39999999999999,
+      "top": 12.6,
+      "x1": 109.49999999999999,
+      "bottom": 17.7,
+      "confidence": 96.971191,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "observation?",
+      "x0": 111.6,
+      "top": 12.6,
+      "x1": 151.79999999999998,
+      "bottom": 17.7,
+      "confidence": 96.290092,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "ans",
+      "x0": 43.199999999999996,
+      "top": 25.5,
+      "x1": 54.599999999999994,
+      "bottom": 30.3,
+      "confidence": 71.114464,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "x,",
+      "x0": 73.2,
+      "top": 24.0,
+      "x1": 93.0,
+      "bottom": 39.0,
+      "confidence": 75.416718,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Fitzmaurice",
+      "x0": 96.0,
+      "top": 33.0,
+      "x1": 130.2,
+      "bottom": 42.0,
+      "confidence": 96.706268,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "x,",
+      "x0": 73.2,
+      "top": 45.3,
+      "x1": 93.0,
+      "bottom": 60.3,
+      "confidence": 59.620949,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "J.G.",
+      "x0": 95.39999999999999,
+      "top": 55.5,
+      "x1": 105.6,
+      "bottom": 60.3,
+      "confidence": 90.868202,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Starke",
+      "x0": 108.0,
+      "top": 55.199999999999996,
+      "x1": 126.9,
+      "bottom": 60.3,
+      "confidence": 96.900383,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Xx,",
+      "x0": 72.0,
+      "top": 65.39999999999999,
+      "x1": 93.0,
+      "bottom": 84.89999999999999,
+      "confidence": 63.758194,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "John",
+      "x0": 95.39999999999999,
+      "top": 76.8,
+      "x1": 108.89999999999999,
+      "bottom": 81.89999999999999,
+      "confidence": 96.904266,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Austin",
+      "x0": 111.3,
+      "top": 77.1,
+      "x1": 130.2,
+      "bottom": 81.89999999999999,
+      "confidence": 96.680084,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "vw.",
+      "x0": 72.6,
+      "top": 86.1,
+      "x1": 93.0,
+      "bottom": 106.19999999999999,
+      "confidence": 0.0,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Frederick",
+      "x0": 96.0,
+      "top": 98.1,
+      "x1": 123.3,
+      "bottom": 103.19999999999999,
+      "confidence": 96.653854,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Pollock",
+      "x0": 126.0,
+      "top": 98.1,
+      "x1": 147.0,
+      "bottom": 103.19999999999999,
+      "confidence": 96.897064,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

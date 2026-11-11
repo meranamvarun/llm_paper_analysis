@@ -1,0 +1,49 @@
+﻿{
+  "created_date": "2026-11-10",
+  "requested_model": "gpt-6-luna",
+  "runtime_snapshot": "unavailable",
+  "status": "ai_proposal_unreviewed",
+  "source_images": [
+    {"pdf_page": 107, "path": "data/corpus_review/20261110/page_0107.png", "sha256": "BE68DE68B37D94794E805ED1DECA4094B1B935EBB9412963A35FC1486BACB988"},
+    {"pdf_page": 133, "path": "data/corpus_review/20261110/page_0133.png", "sha256": "56CCA29BAB62A6B448131F314D3C4D8DEC20871EFD20C3E49DF9C405B6CA9D99"}
+  ],
+  "proposals": [
+    {
+      "pdf_page": 107,
+      "printed_page_number": "11",
+      "printed_question_number": "24",
+      "paper_year_visible": "not visible (header shows PG)",
+      "stem": "Myanmar claims that the reservation by Bangladesh to Article IX of the Genocide Convention not only precludes Bangladesh from bringing a case against Myanmar, but it also bars any “non-injured” State, such as The Gambia, from doing so. Is this claim maintainable?",
+      "parenthetical_text": "(Article IX - Disputes between the Contracting Parties relating to the interpretation, application or fulfilment of the present Convention, including those relating to the responsibility of a State for genocide or for any of the other acts enumerated in Article III, shall be submitted to the International Court of Justice at the request of any of the parties to the dispute.)",
+      "options": [
+        {"label": "A", "text": "Yes, because Bangladesh is the injured state and its reservation imposes a restriction on dispute itself precluding any state from raising it."},
+        {"label": "B", "text": "No, it does not affect the locus standi of The Gambia as being party to the Convention, it has its own right."},
+        {"label": "C", "text": "No, Gambia can only file the dispute before ICJ after Bangladesh consents to the same."},
+        {"label": "D", "text": "Option (A) subject to (C)."}
+      ],
+      "uncertainties": ["Question and all four options are visible. The image cuts off later passage text below Q25; that does not appear to truncate Q24."] ,
+      "status": "ai_proposal_unreviewed"
+    },
+    {
+      "pdf_page": 133,
+      "printed_page_number": "37",
+      "printed_question_number": "108",
+      "paper_year_visible": "not visible (header shows PG)",
+      "stem": "Consider the following statements.",
+      "statements": [
+        "I. The High Courts and Supreme Court while exercising powers under Articles 32, 226 or 136 of the Constitution of India, as the case may be, should not interfere with an order of the Settlement Commission except on the ground that the order contravenes provisions of the Act or has caused prejudice to the opposite party.",
+        "II. The High Courts and Supreme Court while exercising powers under Articles 32, 226 or 136 of the Constitution of India, as the case may be, may interfere with an order of the Settlement Commission on the grounds of fraud, bias or malice.",
+        "III. The Settlement Commission provided quick and easy remedy to the assessee allowing him to make full and true disclosure and therefore avoid the prosecution and appeals. Thus, the order of the Settlement Commission cannot be questioned by the Supreme Court or the High Court on any ground."
+      ],
+      "instruction": "Choose the correct answer from the Code given below.",
+      "options": [
+        {"label": "A", "text": "All are true."},
+        {"label": "B", "text": "Only III is true."},
+        {"label": "C", "text": "I and II are true"},
+        {"label": "D", "text": "II and III are true."}
+      ],
+      "uncertainties": ["Question and all statements and options are visible. Printed punctuation is not uniform: option C appears without a final period, preserved here."] ,
+      "status": "ai_proposal_unreviewed"
+    }
+  ]
+}

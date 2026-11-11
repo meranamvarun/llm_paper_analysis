@@ -1,0 +1,43 @@
+{
+  "status": "completed_unreviewed",
+  "settings": {
+    "source_hash": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b",
+    "versions": {
+      "pdfplumber": "0.11.10",
+      "pypdfium2": "5.12.1",
+      "pypdf": "6.14.2"
+    },
+    "dpi": 300,
+    "tesseract": "tesseract v5.4.0.20240606",
+    "parser_version": "0.1.0",
+    "ocr_language": "eng",
+    "ocr_psm": 3,
+    "force_ocr_ranges": [
+      [
+        293,
+        293
+      ],
+      [
+        310,
+        337
+      ],
+      [
+        339,
+        371
+      ],
+      [
+        401,
+        432
+      ]
+    ]
+  },
+  "config_sha256": "0494ef77e54799ec92c71efa32315985122a0b75ec45786ea2d37402ee1ae9e9",
+  "source_path": "C:\\Users\\malai\\varun_code\\llm_paper_analysis\\question_paper (1).pdf",
+  "code_sha256": {
+    "run.py": "4f80372ffbd07033cdb9e0dbf0505297971e79adb5d6ca7485546811d96a76e9",
+    "pipeline.py": "7b68ff5edffcac429934bca526b7093bf30f90f33403f32f7cdb86d68bf8cba6"
+  },
+  "python_version": "3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]",
+  "line_reconstruction": "geometry-v1; configured single-column bodies",
+  "ai_assistance": "Codex implementation; no model inference in extraction"
+}

@@ -1,0 +1,68 @@
+{
+  "pdf_page": 384,
+  "crop_top": 45.80146000000002,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "e\\",
+      "bbox": [
+        73.2,
+        0.0,
+        84.60000000000001,
+        6.3
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "4. Morality",
+      "bbox": [
+        87.89999999999999,
+        3.5999999999999996,
+        120.9,
+        10.2
+      ]
+    }
+  ],
+  "text": "e\\\n4. Morality",
+  "ocr_words": [
+    {
+      "text": "e\\",
+      "x0": 73.2,
+      "top": 0.0,
+      "x1": 84.60000000000001,
+      "bottom": 6.3,
+      "confidence": 3.825264,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "4.",
+      "x0": 87.89999999999999,
+      "top": 3.9,
+      "x1": 92.99999999999999,
+      "bottom": 8.7,
+      "confidence": 93.888504,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Morality",
+      "x0": 96.0,
+      "top": 3.5999999999999996,
+      "x1": 120.9,
+      "bottom": 10.2,
+      "confidence": 96.570038,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

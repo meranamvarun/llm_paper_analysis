@@ -1,0 +1,1094 @@
+{
+  "pdf_page": 412,
+  "crop_top": 521.16,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Question Number : 54 Question Id : 461139425 Question Type : MCQ Option Shuffling : Yes Display Question Number : Yes",
+      "bbox": [
+        37.8,
+        1.5,
+        548.9999999999999,
+        12.6
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Single Line Question Option : No Option Orientation : Vertical",
+      "bbox": [
+        37.8,
+        12.299999999999999,
+        293.1,
+        20.7
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "Correct : 1 Wrong: 0.25",
+      "bbox": [
+        37.8,
+        25.5,
+        137.7,
+        33.6
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "‘It is difficult to see what the pure theory of law can contribute to a system which it assumes to be law, but",
+      "bbox": [
+        38.1,
+        37.8,
+        549.5999999999999,
+        48.0
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "which it derives frorma basic norm which it cannot find’. This was cornmmented on Kelson’s theory of",
+      "bbox": [
+        37.5,
+        50.1,
+        519.9,
+        60.3
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "Grundnorm by:",
+      "bbox": [
+        37.199999999999996,
+        63.3,
+        110.7,
+        72.6
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "Options :",
+      "bbox": [
+        37.8,
+        79.5,
+        73.5,
+        87.6
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "1. * Friedman",
+      "bbox": [
+        38.699999999999996,
+        91.8,
+        109.5,
+        101.7
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "2. ¥ Stone",
+      "bbox": [
+        38.1,
+        109.5,
+        90.0,
+        119.39999999999999
+      ]
+    },
+    {
+      "line_id": "l0009",
+      "text": "3. * Austin",
+      "bbox": [
+        38.1,
+        127.8,
+        95.1,
+        137.4
+      ]
+    }
+  ],
+  "text": "Question Number : 54 Question Id : 461139425 Question Type : MCQ Option Shuffling : Yes Display Question Number : Yes\nSingle Line Question Option : No Option Orientation : Vertical\nCorrect : 1 Wrong: 0.25\n‘It is difficult to see what the pure theory of law can contribute to a system which it assumes to be law, but\nwhich it derives frorma basic norm which it cannot find’. This was cornmmented on Kelson’s theory of\nGrundnorm by:\nOptions :\n1. * Friedman\n2. ¥ Stone\n3. * Austin",
+  "ocr_words": [
+    {
+      "text": "Question",
+      "x0": 37.8,
+      "top": 2.6999999999999997,
+      "x1": 72.9,
+      "bottom": 10.799999999999999,
+      "confidence": 96.066742,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Number",
+      "x0": 75.89999999999999,
+      "top": 2.6999999999999997,
+      "x1": 109.19999999999999,
+      "bottom": 9.299999999999999,
+      "confidence": 93.169617,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 112.5,
+      "top": 4.5,
+      "x1": 113.7,
+      "bottom": 9.3,
+      "confidence": 93.029984,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "54",
+      "x0": 117.6,
+      "top": 2.6999999999999997,
+      "x1": 125.69999999999999,
+      "bottom": 9.299999999999999,
+      "confidence": 95.265869,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Question",
+      "x0": 131.7,
+      "top": 2.6999999999999997,
+      "x1": 166.79999999999998,
+      "bottom": 10.799999999999999,
+      "confidence": 96.223061,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Id",
+      "x0": 169.79999999999998,
+      "top": 2.6999999999999997,
+      "x1": 178.2,
+      "bottom": 9.299999999999999,
+      "confidence": 91.990227,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 181.5,
+      "top": 4.5,
+      "x1": 182.7,
+      "bottom": 9.3,
+      "confidence": 86.517876,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "461139425",
+      "x0": 186.6,
+      "top": 2.6999999999999997,
+      "x1": 228.0,
+      "bottom": 9.299999999999999,
+      "confidence": 96.66584,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Question",
+      "x0": 233.7,
+      "top": 2.6999999999999997,
+      "x1": 268.8,
+      "bottom": 10.799999999999999,
+      "confidence": 96.838356,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Type",
+      "x0": 272.09999999999997,
+      "top": 2.6999999999999997,
+      "x1": 291.59999999999997,
+      "bottom": 11.1,
+      "confidence": 92.159843,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 296.4,
+      "top": 4.5,
+      "x1": 296.7,
+      "bottom": 9.3,
+      "confidence": 92.786003,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "MCQ",
+      "x0": 300.0,
+      "top": 2.6999999999999997,
+      "x1": 322.5,
+      "bottom": 10.799999999999999,
+      "confidence": 92.179146,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Option",
+      "x0": 328.2,
+      "top": 2.6999999999999997,
+      "x1": 355.5,
+      "bottom": 11.1,
+      "confidence": 92.124237,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Shuffling",
+      "x0": 358.8,
+      "top": 2.6999999999999997,
+      "x1": 395.1,
+      "bottom": 11.1,
+      "confidence": 92.124237,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 398.7,
+      "top": 4.5,
+      "x1": 399.9,
+      "bottom": 9.3,
+      "confidence": 90.984421,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Yes",
+      "x0": 403.2,
+      "top": 2.6999999999999997,
+      "x1": 417.3,
+      "bottom": 9.299999999999999,
+      "confidence": 96.378609,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Display",
+      "x0": 422.7,
+      "top": 2.6999999999999997,
+      "x1": 452.4,
+      "bottom": 11.1,
+      "confidence": 95.995255,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Question",
+      "x0": 455.7,
+      "top": 2.6999999999999997,
+      "x1": 490.8,
+      "bottom": 10.799999999999999,
+      "confidence": 96.340271,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Number",
+      "x0": 493.79999999999995,
+      "top": 2.6999999999999997,
+      "x1": 531.3,
+      "bottom": 9.299999999999999,
+      "confidence": 90.494041,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 527.6999999999999,
+      "top": 1.5,
+      "x1": 531.5999999999999,
+      "bottom": 12.6,
+      "confidence": 90.494041,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Yes",
+      "x0": 535.1999999999999,
+      "top": 2.6999999999999997,
+      "x1": 548.9999999999999,
+      "bottom": 9.299999999999999,
+      "confidence": 96.696609,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Single",
+      "x0": 37.8,
+      "top": 12.299999999999999,
+      "x1": 61.5,
+      "bottom": 20.7,
+      "confidence": 96.213936,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Line",
+      "x0": 64.5,
+      "top": 12.299999999999999,
+      "x1": 82.2,
+      "bottom": 18.9,
+      "confidence": 96.786201,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Question",
+      "x0": 85.5,
+      "top": 12.299999999999999,
+      "x1": 120.3,
+      "bottom": 20.4,
+      "confidence": 96.564011,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Option",
+      "x0": 123.89999999999999,
+      "top": 12.299999999999999,
+      "x1": 150.89999999999998,
+      "bottom": 20.7,
+      "confidence": 93.161865,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": ":",
+      "x0": 154.79999999999998,
+      "top": 14.1,
+      "x1": 155.99999999999997,
+      "bottom": 18.9,
+      "confidence": 92.326813,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "No",
+      "x0": 159.6,
+      "top": 12.299999999999999,
+      "x1": 170.4,
+      "bottom": 18.9,
+      "confidence": 96.654221,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Option",
+      "x0": 176.1,
+      "top": 12.299999999999999,
+      "x1": 203.4,
+      "bottom": 20.7,
+      "confidence": 96.577629,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Orientation",
+      "x0": 206.7,
+      "top": 12.299999999999999,
+      "x1": 252.6,
+      "bottom": 18.9,
+      "confidence": 93.039215,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": ":",
+      "x0": 256.5,
+      "top": 14.1,
+      "x1": 257.7,
+      "bottom": 18.9,
+      "confidence": 92.498642,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Vertical",
+      "x0": 261.3,
+      "top": 12.299999999999999,
+      "x1": 293.1,
+      "bottom": 18.9,
+      "confidence": 96.902313,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Correct",
+      "x0": 37.8,
+      "top": 25.5,
+      "x1": 68.39999999999999,
+      "bottom": 32.1,
+      "confidence": 74.307777,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 72.0,
+      "top": 27.3,
+      "x1": 73.2,
+      "bottom": 32.1,
+      "confidence": 74.307777,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1",
+      "x0": 77.39999999999999,
+      "top": 25.5,
+      "x1": 80.39999999999999,
+      "bottom": 31.8,
+      "confidence": 92.219719,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Wrong:",
+      "x0": 86.1,
+      "top": 25.5,
+      "x1": 118.5,
+      "bottom": 33.6,
+      "confidence": 81.500076,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "0.25",
+      "x0": 122.39999999999999,
+      "top": 25.5,
+      "x1": 137.7,
+      "bottom": 32.1,
+      "confidence": 94.95826,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "‘It",
+      "x0": 38.1,
+      "top": 38.4,
+      "x1": 46.8,
+      "bottom": 45.9,
+      "confidence": 81.735794,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 50.1,
+      "top": 38.4,
+      "x1": 57.6,
+      "bottom": 45.9,
+      "confidence": 94.746994,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "difficult",
+      "x0": 60.9,
+      "top": 37.8,
+      "x1": 99.3,
+      "bottom": 45.9,
+      "confidence": 96.686531,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 102.89999999999999,
+      "top": 39.3,
+      "x1": 111.6,
+      "bottom": 45.9,
+      "confidence": 96.779221,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "see",
+      "x0": 114.89999999999999,
+      "top": 39.9,
+      "x1": 129.6,
+      "bottom": 45.9,
+      "confidence": 96.344765,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "what",
+      "x0": 132.9,
+      "top": 38.4,
+      "x1": 156.0,
+      "bottom": 45.9,
+      "confidence": 96.805573,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 159.6,
+      "top": 38.4,
+      "x1": 174.0,
+      "bottom": 45.9,
+      "confidence": 96.540878,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "pure",
+      "x0": 177.6,
+      "top": 39.9,
+      "x1": 199.2,
+      "bottom": 48.0,
+      "confidence": 95.934982,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "theory",
+      "x0": 202.79999999999998,
+      "top": 38.4,
+      "x1": 233.09999999999997,
+      "bottom": 48.0,
+      "confidence": 95.934982,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 236.39999999999998,
+      "top": 37.8,
+      "x1": 246.59999999999997,
+      "bottom": 45.9,
+      "confidence": 96.023529,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "law",
+      "x0": 249.6,
+      "top": 38.4,
+      "x1": 266.1,
+      "bottom": 45.9,
+      "confidence": 96.931633,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "can",
+      "x0": 268.8,
+      "top": 39.9,
+      "x1": 285.6,
+      "bottom": 45.9,
+      "confidence": 96.869453,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "contribute",
+      "x0": 288.9,
+      "top": 38.4,
+      "x1": 338.09999999999997,
+      "bottom": 45.9,
+      "confidence": 96.451309,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 341.7,
+      "top": 39.3,
+      "x1": 350.4,
+      "bottom": 45.9,
+      "confidence": 96.500465,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 353.7,
+      "top": 39.9,
+      "x1": 358.8,
+      "bottom": 45.9,
+      "confidence": 96.670555,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "system",
+      "x0": 362.4,
+      "top": 39.3,
+      "x1": 396.29999999999995,
+      "bottom": 48.0,
+      "confidence": 46.960598,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "which",
+      "x0": 399.0,
+      "top": 38.4,
+      "x1": 427.2,
+      "bottom": 45.9,
+      "confidence": 95.309875,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "it",
+      "x0": 430.8,
+      "top": 38.4,
+      "x1": 436.5,
+      "bottom": 45.9,
+      "confidence": 95.143898,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "assumes",
+      "x0": 440.09999999999997,
+      "top": 39.9,
+      "x1": 481.2,
+      "bottom": 45.9,
+      "confidence": 95.206184,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 484.79999999999995,
+      "top": 39.3,
+      "x1": 493.49999999999994,
+      "bottom": 45.9,
+      "confidence": 96.714638,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "be",
+      "x0": 496.79999999999995,
+      "top": 38.4,
+      "x1": 507.9,
+      "bottom": 45.9,
+      "confidence": 96.990356,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "law,",
+      "x0": 511.2,
+      "top": 38.4,
+      "x1": 529.5,
+      "bottom": 47.4,
+      "confidence": 96.672058,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "but",
+      "x0": 533.6999999999999,
+      "top": 38.4,
+      "x1": 549.5999999999999,
+      "bottom": 45.9,
+      "confidence": 96.854851,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "which",
+      "x0": 37.5,
+      "top": 50.699999999999996,
+      "x1": 65.4,
+      "bottom": 58.199999999999996,
+      "confidence": 95.908058,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "it",
+      "x0": 69.0,
+      "top": 50.699999999999996,
+      "x1": 74.7,
+      "bottom": 58.199999999999996,
+      "confidence": 96.770073,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "derives",
+      "x0": 78.3,
+      "top": 50.699999999999996,
+      "x1": 112.19999999999999,
+      "bottom": 58.199999999999996,
+      "confidence": 93.21521,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "frorma",
+      "x0": 116.39999999999999,
+      "top": 50.1,
+      "x1": 147.6,
+      "bottom": 58.2,
+      "confidence": 68.618149,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "basic",
+      "x0": 150.9,
+      "top": 50.699999999999996,
+      "x1": 175.5,
+      "bottom": 58.199999999999996,
+      "confidence": 96.216454,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "norm",
+      "x0": 179.1,
+      "top": 52.199999999999996,
+      "x1": 204.9,
+      "bottom": 58.199999999999996,
+      "confidence": 71.479546,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "which",
+      "x0": 207.9,
+      "top": 50.699999999999996,
+      "x1": 235.8,
+      "bottom": 58.199999999999996,
+      "confidence": 96.042908,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "it",
+      "x0": 239.39999999999998,
+      "top": 50.699999999999996,
+      "x1": 245.39999999999998,
+      "bottom": 58.199999999999996,
+      "confidence": 96.042908,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "cannot",
+      "x0": 248.7,
+      "top": 51.6,
+      "x1": 281.4,
+      "bottom": 58.2,
+      "confidence": 96.673355,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "find’.",
+      "x0": 285.3,
+      "top": 50.1,
+      "x1": 309.3,
+      "bottom": 58.2,
+      "confidence": 96.059929,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "This",
+      "x0": 313.5,
+      "top": 50.699999999999996,
+      "x1": 333.9,
+      "bottom": 58.199999999999996,
+      "confidence": 96.226051,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "was",
+      "x0": 337.2,
+      "top": 52.199999999999996,
+      "x1": 355.2,
+      "bottom": 58.199999999999996,
+      "confidence": 93.265526,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "cornmmented",
+      "x0": 358.8,
+      "top": 50.699999999999996,
+      "x1": 414.3,
+      "bottom": 58.199999999999996,
+      "confidence": 45.3218,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "on",
+      "x0": 417.9,
+      "top": 52.199999999999996,
+      "x1": 429.29999999999995,
+      "bottom": 58.199999999999996,
+      "confidence": 93.251076,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Kelson’s",
+      "x0": 432.9,
+      "top": 50.699999999999996,
+      "x1": 472.5,
+      "bottom": 58.199999999999996,
+      "confidence": 84.319527,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "theory",
+      "x0": 476.09999999999997,
+      "top": 50.699999999999996,
+      "x1": 506.4,
+      "bottom": 60.3,
+      "confidence": 96.718559,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 509.7,
+      "top": 50.1,
+      "x1": 519.9,
+      "bottom": 58.2,
+      "confidence": 95.897888,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Grundnorm",
+      "x0": 37.199999999999996,
+      "top": 63.3,
+      "x1": 94.19999999999999,
+      "bottom": 70.5,
+      "confidence": 91.603104,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "3"
+    },
+    {
+      "text": "by:",
+      "x0": 97.2,
+      "top": 63.3,
+      "x1": 110.7,
+      "bottom": 72.6,
+      "confidence": 96.699615,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Options",
+      "x0": 37.8,
+      "top": 79.5,
+      "x1": 68.69999999999999,
+      "bottom": 87.6,
+      "confidence": 91.682922,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 72.3,
+      "top": 81.3,
+      "x1": 73.5,
+      "bottom": 86.1,
+      "confidence": 91.682922,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1.",
+      "x0": 38.699999999999996,
+      "top": 94.2,
+      "x1": 45.3,
+      "bottom": 101.7,
+      "confidence": 89.535835,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "*",
+      "x0": 51.6,
+      "top": 91.8,
+      "x1": 58.2,
+      "bottom": 98.7,
+      "confidence": 57.816223,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Friedman",
+      "x0": 63.9,
+      "top": 94.2,
+      "x1": 109.5,
+      "bottom": 101.7,
+      "confidence": 96.55378,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2.",
+      "x0": 38.1,
+      "top": 111.89999999999999,
+      "x1": 45.3,
+      "bottom": 119.39999999999999,
+      "confidence": 83.444351,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "¥",
+      "x0": 53.1,
+      "top": 109.5,
+      "x1": 58.2,
+      "bottom": 117.9,
+      "confidence": 63.663731,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Stone",
+      "x0": 64.5,
+      "top": 111.89999999999999,
+      "x1": 90.0,
+      "bottom": 119.39999999999999,
+      "confidence": 96.35424,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "3.",
+      "x0": 38.1,
+      "top": 129.9,
+      "x1": 45.3,
+      "bottom": 137.4,
+      "confidence": 90.107544,
+      "ocr_block": "1",
+      "ocr_paragraph": "7",
+      "ocr_line": "1"
+    },
+    {
+      "text": "*",
+      "x0": 51.6,
+      "top": 127.8,
+      "x1": 58.2,
+      "bottom": 134.4,
+      "confidence": 63.769203,
+      "ocr_block": "1",
+      "ocr_paragraph": "7",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Austin",
+      "x0": 63.9,
+      "top": 129.9,
+      "x1": 95.1,
+      "bottom": 137.4,
+      "confidence": 95.035927,
+      "ocr_block": "1",
+      "ocr_paragraph": "7",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

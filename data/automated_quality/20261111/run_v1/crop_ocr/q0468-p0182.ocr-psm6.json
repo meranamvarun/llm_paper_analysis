@@ -1,0 +1,709 @@
+{
+  "pdf_page": 182,
+  "crop_top": 155.11900000000003,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "104. What is the test of prior use of trademark?",
+      "bbox": [
+        90.6,
+        3.5999999999999996,
+        333.0,
+        13.8
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "(A) open, continuous, extensive, uninterrupted use and promotion for a long",
+      "bbox": [
+        115.5,
+        20.7,
+        527.6999999999999,
+        30.9
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "time",
+      "bbox": [
+        136.2,
+        34.199999999999996,
+        158.7,
+        42.3
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(B) waives rights trademark and permits subsequent of the",
+      "bbox": [
+        115.5,
+        50.699999999999996,
+        527.7,
+        61.2
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "owner over use",
+      "bbox": [
+        136.2,
+        54.0,
+        491.09999999999997,
+        59.4
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "mark",
+      "bbox": [
+        136.5,
+        64.2,
+        162.9,
+        72.60000000000001
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "(C) reasonable parody, comment of registered trademark",
+      "bbox": [
+        115.5,
+        81.3,
+        414.59999999999997,
+        91.8
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "a",
+      "bbox": [
+        297.3,
+        84.6,
+        302.7,
+        90.0
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "(D) use of trademark in good faith mainly for a descriptive purpose",
+      "bbox": [
+        114.89999999999999,
+        98.7,
+        456.3,
+        108.9
+      ]
+    }
+  ],
+  "text": "104. What is the test of prior use of trademark?\n(A) open, continuous, extensive, uninterrupted use and promotion for a long\ntime\n(B) waives rights trademark and permits subsequent of the\nowner over use\nmark\n(C) reasonable parody, comment of registered trademark\na\n(D) use of trademark in good faith mainly for a descriptive purpose",
+  "ocr_words": [
+    {
+      "text": "104.",
+      "x0": 90.6,
+      "top": 4.2,
+      "x1": 110.1,
+      "bottom": 12.0,
+      "confidence": 95.643623,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "What",
+      "x0": 117.3,
+      "top": 3.5999999999999996,
+      "x1": 144.6,
+      "bottom": 12.0,
+      "confidence": 96.566887,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 148.2,
+      "top": 3.9,
+      "x1": 156.0,
+      "bottom": 12.0,
+      "confidence": 96.317642,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 159.6,
+      "top": 3.5999999999999996,
+      "x1": 175.5,
+      "bottom": 12.0,
+      "confidence": 96.317642,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "test",
+      "x0": 179.4,
+      "top": 4.8,
+      "x1": 198.0,
+      "bottom": 12.0,
+      "confidence": 96.051239,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 201.6,
+      "top": 3.5999999999999996,
+      "x1": 211.2,
+      "bottom": 12.0,
+      "confidence": 96.755234,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "prior",
+      "x0": 213.9,
+      "top": 3.9,
+      "x1": 238.5,
+      "bottom": 13.8,
+      "confidence": 96.661774,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "use",
+      "x0": 241.79999999999998,
+      "top": 6.6,
+      "x1": 258.59999999999997,
+      "bottom": 12.0,
+      "confidence": 96.777489,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 262.2,
+      "top": 3.5999999999999996,
+      "x1": 271.8,
+      "bottom": 12.0,
+      "confidence": 96.752945,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "trademark?",
+      "x0": 274.5,
+      "top": 3.5999999999999996,
+      "x1": 333.0,
+      "bottom": 12.0,
+      "confidence": 96.584984,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 115.5,
+      "top": 20.7,
+      "x1": 129.3,
+      "bottom": 30.9,
+      "confidence": 96.597168,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "open,",
+      "x0": 136.2,
+      "top": 23.7,
+      "x1": 162.89999999999998,
+      "bottom": 30.9,
+      "confidence": 95.503197,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "continuous,",
+      "x0": 168.9,
+      "top": 21.0,
+      "x1": 228.3,
+      "bottom": 30.299999999999997,
+      "confidence": 96.235123,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "extensive,",
+      "x0": 234.29999999999998,
+      "top": 21.0,
+      "x1": 285.59999999999997,
+      "bottom": 30.299999999999997,
+      "confidence": 96.46093,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "uninterrupted",
+      "x0": 291.59999999999997,
+      "top": 20.7,
+      "x1": 365.4,
+      "bottom": 30.9,
+      "confidence": 96.194275,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "use",
+      "x0": 370.8,
+      "top": 23.7,
+      "x1": 387.6,
+      "bottom": 29.099999999999998,
+      "confidence": 96.388412,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "and",
+      "x0": 393.3,
+      "top": 20.7,
+      "x1": 412.2,
+      "bottom": 29.1,
+      "confidence": 96.388412,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "promotion",
+      "x0": 417.59999999999997,
+      "top": 21.0,
+      "x1": 470.4,
+      "bottom": 30.9,
+      "confidence": 96.635231,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "for",
+      "x0": 475.79999999999995,
+      "top": 20.7,
+      "x1": 489.59999999999997,
+      "bottom": 29.1,
+      "confidence": 96.666206,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "a",
+      "x0": 495.29999999999995,
+      "top": 23.7,
+      "x1": 500.69999999999993,
+      "bottom": 29.099999999999998,
+      "confidence": 96.940125,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "long",
+      "x0": 506.09999999999997,
+      "top": 20.7,
+      "x1": 527.6999999999999,
+      "bottom": 30.9,
+      "confidence": 96.565788,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "time",
+      "x0": 136.2,
+      "top": 34.199999999999996,
+      "x1": 158.7,
+      "bottom": 42.3,
+      "confidence": 96.923073,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(B)",
+      "x0": 115.5,
+      "top": 51.0,
+      "x1": 129.3,
+      "bottom": 61.2,
+      "confidence": 93.229668,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "owner",
+      "x0": 136.2,
+      "top": 54.0,
+      "x1": 167.7,
+      "bottom": 59.4,
+      "confidence": 96.323448,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "waives",
+      "x0": 173.4,
+      "top": 51.3,
+      "x1": 208.2,
+      "bottom": 59.4,
+      "confidence": 96.565468,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "rights",
+      "x0": 213.9,
+      "top": 51.0,
+      "x1": 244.8,
+      "bottom": 61.2,
+      "confidence": 96.791496,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "over",
+      "x0": 250.5,
+      "top": 54.0,
+      "x1": 272.4,
+      "bottom": 59.4,
+      "confidence": 96.690269,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "trademark",
+      "x0": 277.8,
+      "top": 50.699999999999996,
+      "x1": 333.6,
+      "bottom": 59.39999999999999,
+      "confidence": 96.654892,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "and",
+      "x0": 339.3,
+      "top": 51.0,
+      "x1": 358.2,
+      "bottom": 59.4,
+      "confidence": 96.830284,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "permits",
+      "x0": 363.59999999999997,
+      "top": 51.3,
+      "x1": 403.49999999999994,
+      "bottom": 61.199999999999996,
+      "confidence": 95.803665,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "subsequent",
+      "x0": 409.5,
+      "top": 51.0,
+      "x1": 468.6,
+      "bottom": 61.2,
+      "confidence": 96.126099,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "use",
+      "x0": 474.29999999999995,
+      "top": 54.0,
+      "x1": 491.09999999999997,
+      "bottom": 59.4,
+      "confidence": 95.611275,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "of",
+      "x0": 496.79999999999995,
+      "top": 51.0,
+      "x1": 506.69999999999993,
+      "bottom": 59.4,
+      "confidence": 95.611275,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "the",
+      "x0": 511.2,
+      "top": 51.0,
+      "x1": 527.7,
+      "bottom": 59.4,
+      "confidence": 96.685844,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "mark",
+      "x0": 136.5,
+      "top": 64.2,
+      "x1": 162.9,
+      "bottom": 72.60000000000001,
+      "confidence": 96.023361,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "(C)",
+      "x0": 115.5,
+      "top": 81.6,
+      "x1": 129.3,
+      "bottom": 91.8,
+      "confidence": 92.488983,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "reasonable",
+      "x0": 136.2,
+      "top": 81.6,
+      "x1": 190.5,
+      "bottom": 90.0,
+      "confidence": 96.278374,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "parody,",
+      "x0": 194.4,
+      "top": 81.6,
+      "x1": 231.3,
+      "bottom": 91.8,
+      "confidence": 95.887543,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "comment",
+      "x0": 235.5,
+      "top": 82.5,
+      "x1": 281.4,
+      "bottom": 90.0,
+      "confidence": 96.490288,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "of",
+      "x0": 285.0,
+      "top": 81.6,
+      "x1": 294.6,
+      "bottom": 90.0,
+      "confidence": 96.658386,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "a",
+      "x0": 297.3,
+      "top": 84.6,
+      "x1": 302.7,
+      "bottom": 90.0,
+      "confidence": 95.692116,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "registered",
+      "x0": 306.3,
+      "top": 81.6,
+      "x1": 357.3,
+      "bottom": 91.8,
+      "confidence": 95.692116,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "trademark",
+      "x0": 360.59999999999997,
+      "top": 81.3,
+      "x1": 414.59999999999997,
+      "bottom": 90.0,
+      "confidence": 96.398582,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "(D)",
+      "x0": 114.89999999999999,
+      "top": 98.7,
+      "x1": 129.29999999999998,
+      "bottom": 108.9,
+      "confidence": 92.068062,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "use",
+      "x0": 136.2,
+      "top": 101.7,
+      "x1": 153.0,
+      "bottom": 107.10000000000001,
+      "confidence": 96.13578,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "of",
+      "x0": 156.6,
+      "top": 98.7,
+      "x1": 166.2,
+      "bottom": 107.10000000000001,
+      "confidence": 96.13578,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "trademark",
+      "x0": 168.6,
+      "top": 98.7,
+      "x1": 222.6,
+      "bottom": 107.10000000000001,
+      "confidence": 96.479828,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "in",
+      "x0": 226.2,
+      "top": 99.0,
+      "x1": 236.1,
+      "bottom": 106.8,
+      "confidence": 96.514809,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "good",
+      "x0": 239.7,
+      "top": 98.7,
+      "x1": 262.2,
+      "bottom": 108.9,
+      "confidence": 96.664925,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "faith",
+      "x0": 265.8,
+      "top": 98.7,
+      "x1": 289.5,
+      "bottom": 107.10000000000001,
+      "confidence": 96.860344,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "mainly",
+      "x0": 293.4,
+      "top": 98.7,
+      "x1": 328.2,
+      "bottom": 108.9,
+      "confidence": 96.36322,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "for",
+      "x0": 331.5,
+      "top": 98.7,
+      "x1": 345.3,
+      "bottom": 107.10000000000001,
+      "confidence": 96.446457,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "a",
+      "x0": 348.9,
+      "top": 101.7,
+      "x1": 354.29999999999995,
+      "bottom": 107.10000000000001,
+      "confidence": 95.38427,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "descriptive",
+      "x0": 358.2,
+      "top": 98.7,
+      "x1": 412.8,
+      "bottom": 108.9,
+      "confidence": 95.38427,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "purpose",
+      "x0": 416.7,
+      "top": 101.7,
+      "x1": 456.3,
+      "bottom": 108.9,
+      "confidence": 96.964417,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

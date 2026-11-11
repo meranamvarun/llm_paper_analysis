@@ -1,0 +1,560 @@
+{
+  "pdf_page": 64,
+  "crop_top": 169.71859999999992,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "3. The judgment clarified that importers can be liable for GST on services directly",
+      "bbox": [
+        131.4,
+        3.5999999999999996,
+        551.6999999999999,
+        13.8
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "availed by them",
+      "bbox": [
+        148.5,
+        17.7,
+        228.9,
+        27.9
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "Which of the statements given above are correct?",
+      "bbox": [
+        126.3,
+        34.8,
+        374.7,
+        45.0
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(A) 1 and 2 only (B) 1 and 3 only",
+      "bbox": [
+        125.39999999999999,
+        50.699999999999996,
+        396.9,
+        60.89999999999999
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(C) 2 and 3 only (D) 1, 2 and 3",
+      "bbox": [
+        125.39999999999999,
+        66.6,
+        384.3,
+        76.8
+      ]
+    }
+  ],
+  "text": "3. The judgment clarified that importers can be liable for GST on services directly\navailed by them\nWhich of the statements given above are correct?\n(A) 1 and 2 only (B) 1 and 3 only\n(C) 2 and 3 only (D) 1, 2 and 3",
+  "ocr_words": [
+    {
+      "text": "3.",
+      "x0": 131.4,
+      "top": 4.2,
+      "x1": 139.20000000000002,
+      "bottom": 12.0,
+      "confidence": 96.279091,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 148.2,
+      "top": 3.5999999999999996,
+      "x1": 167.1,
+      "bottom": 12.0,
+      "confidence": 95.582817,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "judgment",
+      "x0": 170.1,
+      "top": 3.5999999999999996,
+      "x1": 219.0,
+      "bottom": 13.799999999999999,
+      "confidence": 96.81144,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "clarified",
+      "x0": 222.6,
+      "top": 3.5999999999999996,
+      "x1": 264.0,
+      "bottom": 12.0,
+      "confidence": 96.423363,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "that",
+      "x0": 267.3,
+      "top": 3.5999999999999996,
+      "x1": 288.3,
+      "bottom": 12.0,
+      "confidence": 96.298248,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "importers",
+      "x0": 291.9,
+      "top": 3.9,
+      "x1": 341.09999999999997,
+      "bottom": 13.8,
+      "confidence": 95.895554,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "can",
+      "x0": 344.7,
+      "top": 6.6,
+      "x1": 362.09999999999997,
+      "bottom": 12.0,
+      "confidence": 96.97924,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "be",
+      "x0": 365.4,
+      "top": 3.5999999999999996,
+      "x1": 376.5,
+      "bottom": 12.0,
+      "confidence": 94.866707,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "liable",
+      "x0": 380.4,
+      "top": 3.5999999999999996,
+      "x1": 407.7,
+      "bottom": 12.0,
+      "confidence": 94.866707,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "for",
+      "x0": 411.59999999999997,
+      "top": 3.5999999999999996,
+      "x1": 425.09999999999997,
+      "bottom": 12.0,
+      "confidence": 96.938004,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "GST",
+      "x0": 429.0,
+      "top": 3.5999999999999996,
+      "x1": 451.2,
+      "bottom": 12.0,
+      "confidence": 96.572021,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "on",
+      "x0": 454.8,
+      "top": 6.6,
+      "x1": 466.5,
+      "bottom": 12.0,
+      "confidence": 96.094345,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "services",
+      "x0": 470.4,
+      "top": 3.9,
+      "x1": 509.7,
+      "bottom": 12.0,
+      "confidence": 96.094345,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "directly",
+      "x0": 513.9,
+      "top": 3.5999999999999996,
+      "x1": 551.6999999999999,
+      "bottom": 13.799999999999999,
+      "confidence": 96.453125,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "availed",
+      "x0": 148.5,
+      "top": 17.7,
+      "x1": 184.8,
+      "bottom": 26.1,
+      "confidence": 96.165581,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "by",
+      "x0": 188.1,
+      "top": 17.7,
+      "x1": 199.79999999999998,
+      "bottom": 27.9,
+      "confidence": 96.477486,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "them",
+      "x0": 203.1,
+      "top": 17.7,
+      "x1": 228.9,
+      "bottom": 26.1,
+      "confidence": 96.809349,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Which",
+      "x0": 126.3,
+      "top": 34.8,
+      "x1": 158.4,
+      "bottom": 43.199999999999996,
+      "confidence": 96.536606,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 162.0,
+      "top": 34.8,
+      "x1": 171.6,
+      "bottom": 43.199999999999996,
+      "confidence": 96.853485,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "the",
+      "x0": 174.0,
+      "top": 34.8,
+      "x1": 189.9,
+      "bottom": 43.199999999999996,
+      "confidence": 96.773071,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "statements",
+      "x0": 194.1,
+      "top": 35.699999999999996,
+      "x1": 249.6,
+      "bottom": 43.199999999999996,
+      "confidence": 96.346046,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "given",
+      "x0": 253.5,
+      "top": 35.1,
+      "x1": 280.2,
+      "bottom": 45.0,
+      "confidence": 95.965508,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "above",
+      "x0": 284.09999999999997,
+      "top": 34.8,
+      "x1": 312.29999999999995,
+      "bottom": 43.199999999999996,
+      "confidence": 96.804192,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "are",
+      "x0": 316.2,
+      "top": 37.8,
+      "x1": 331.8,
+      "bottom": 43.199999999999996,
+      "confidence": 96.670578,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "correct?",
+      "x0": 335.7,
+      "top": 35.1,
+      "x1": 374.7,
+      "bottom": 43.2,
+      "confidence": 96.569168,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(A)",
+      "x0": 125.39999999999999,
+      "top": 50.699999999999996,
+      "x1": 139.2,
+      "bottom": 60.599999999999994,
+      "confidence": 92.418777,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "1",
+      "x0": 149.1,
+      "top": 51.3,
+      "x1": 153.29999999999998,
+      "bottom": 58.8,
+      "confidence": 41.590767,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "and",
+      "x0": 157.5,
+      "top": 50.699999999999996,
+      "x1": 176.1,
+      "bottom": 59.099999999999994,
+      "confidence": 41.590767,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "2",
+      "x0": 179.7,
+      "top": 51.3,
+      "x1": 184.79999999999998,
+      "bottom": 58.8,
+      "confidence": 95.42981,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "only",
+      "x0": 188.7,
+      "top": 50.699999999999996,
+      "x1": 210.0,
+      "bottom": 60.89999999999999,
+      "confidence": 96.52829,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(B)",
+      "x0": 315.3,
+      "top": 50.699999999999996,
+      "x1": 329.40000000000003,
+      "bottom": 60.89999999999999,
+      "confidence": 91.931213,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "1",
+      "x0": 336.3,
+      "top": 51.3,
+      "x1": 340.2,
+      "bottom": 58.8,
+      "confidence": 94.569977,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "and",
+      "x0": 344.7,
+      "top": 50.699999999999996,
+      "x1": 363.3,
+      "bottom": 59.099999999999994,
+      "confidence": 95.912994,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "3",
+      "x0": 366.9,
+      "top": 51.3,
+      "x1": 372.0,
+      "bottom": 59.099999999999994,
+      "confidence": 92.137375,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "only",
+      "x0": 375.9,
+      "top": 50.699999999999996,
+      "x1": 396.9,
+      "bottom": 60.89999999999999,
+      "confidence": 95.939453,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(C)",
+      "x0": 125.39999999999999,
+      "top": 66.6,
+      "x1": 139.2,
+      "bottom": 76.5,
+      "confidence": 92.658165,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "2",
+      "x0": 148.5,
+      "top": 67.2,
+      "x1": 153.6,
+      "bottom": 74.7,
+      "confidence": 59.159515,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "and",
+      "x0": 157.5,
+      "top": 66.6,
+      "x1": 176.1,
+      "bottom": 75.0,
+      "confidence": 59.159515,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "3",
+      "x0": 180.0,
+      "top": 67.2,
+      "x1": 184.8,
+      "bottom": 75.0,
+      "confidence": 83.617203,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "only",
+      "x0": 188.7,
+      "top": 66.6,
+      "x1": 210.0,
+      "bottom": 76.8,
+      "confidence": 95.027252,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "(D)",
+      "x0": 314.7,
+      "top": 66.6,
+      "x1": 329.4,
+      "bottom": 76.8,
+      "confidence": 92.730392,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "1,",
+      "x0": 336.3,
+      "top": 67.2,
+      "x1": 343.5,
+      "bottom": 76.2,
+      "confidence": 76.884155,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "2",
+      "x0": 347.7,
+      "top": 67.2,
+      "x1": 352.8,
+      "bottom": 74.7,
+      "confidence": 76.884155,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "and",
+      "x0": 357.0,
+      "top": 66.6,
+      "x1": 375.3,
+      "bottom": 75.0,
+      "confidence": 89.592377,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "3",
+      "x0": 379.2,
+      "top": 67.2,
+      "x1": 384.3,
+      "bottom": 75.0,
+      "confidence": 89.592377,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

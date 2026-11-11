@@ -1,0 +1,428 @@
+{
+  "pdf_page": 299,
+  "crop_top": 504.42279999999994,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "33. If dispute arises regarding publication of work, will be the final authority",
+      "bbox": [
+        46.8,
+        3.5999999999999996,
+        550.1999999999999,
+        14.1
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "any ————————",
+      "bbox": [
+        87.0,
+        6.8999999999999995,
+        411.9,
+        14.099999999999998
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "to decide the same",
+      "bbox": [
+        74.7,
+        17.4,
+        168.0,
+        25.8
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(A) Copyright Board (B) Patent Board",
+      "bbox": [
+        75.3,
+        35.1,
+        397.8,
+        45.3
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(C) Appropriate government (D) None of the above",
+      "bbox": [
+        75.3,
+        52.8,
+        419.99999999999994,
+        63.0
+      ]
+    }
+  ],
+  "text": "33. If dispute arises regarding publication of work, will be the final authority\nany ————————\nto decide the same\n(A) Copyright Board (B) Patent Board\n(C) Appropriate government (D) None of the above",
+  "ocr_words": [
+    {
+      "text": "33.",
+      "x0": 46.8,
+      "top": 4.5,
+      "x1": 60.599999999999994,
+      "bottom": 12.3,
+      "confidence": 94.972412,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "If",
+      "x0": 75.0,
+      "top": 3.9,
+      "x1": 83.4,
+      "bottom": 12.0,
+      "confidence": 88.940338,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "any",
+      "x0": 87.0,
+      "top": 6.8999999999999995,
+      "x1": 105.3,
+      "bottom": 14.099999999999998,
+      "confidence": 92.120819,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "dispute",
+      "x0": 109.8,
+      "top": 3.9,
+      "x1": 146.7,
+      "bottom": 14.1,
+      "confidence": 96.72522,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "arises",
+      "x0": 151.5,
+      "top": 4.2,
+      "x1": 180.9,
+      "bottom": 12.3,
+      "confidence": 96.563774,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "regarding",
+      "x0": 185.4,
+      "top": 3.9,
+      "x1": 234.9,
+      "bottom": 14.1,
+      "confidence": 96.326286,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "publication",
+      "x0": 239.1,
+      "top": 3.9,
+      "x1": 295.8,
+      "bottom": 14.1,
+      "confidence": 96.519997,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 300.3,
+      "top": 3.9,
+      "x1": 309.90000000000003,
+      "bottom": 12.3,
+      "confidence": 96.662071,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "work,",
+      "x0": 313.5,
+      "top": 3.5999999999999996,
+      "x1": 340.8,
+      "bottom": 13.5,
+      "confidence": 93.262039,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "————————",
+      "x0": 345.9,
+      "top": 9.0,
+      "x1": 411.9,
+      "bottom": 9.6,
+      "confidence": 37.021557,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "will",
+      "x0": 416.09999999999997,
+      "top": 3.9,
+      "x1": 434.7,
+      "bottom": 12.3,
+      "confidence": 95.458435,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "be",
+      "x0": 438.9,
+      "top": 3.9,
+      "x1": 450.0,
+      "bottom": 12.3,
+      "confidence": 95.458435,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 454.5,
+      "top": 3.9,
+      "x1": 470.4,
+      "bottom": 12.3,
+      "confidence": 96.652367,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "final",
+      "x0": 474.9,
+      "top": 3.9,
+      "x1": 498.0,
+      "bottom": 12.3,
+      "confidence": 96.520988,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "authority",
+      "x0": 502.79999999999995,
+      "top": 3.9,
+      "x1": 550.1999999999999,
+      "bottom": 14.1,
+      "confidence": 96.499664,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 74.7,
+      "top": 18.3,
+      "x1": 84.0,
+      "bottom": 25.8,
+      "confidence": 96.945656,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "decide",
+      "x0": 88.2,
+      "top": 17.4,
+      "x1": 119.1,
+      "bottom": 25.799999999999997,
+      "confidence": 96.515823,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 122.69999999999999,
+      "top": 17.4,
+      "x1": 138.6,
+      "bottom": 25.799999999999997,
+      "confidence": 96.012962,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "same",
+      "x0": 142.5,
+      "top": 20.4,
+      "x1": 168.0,
+      "bottom": 25.799999999999997,
+      "confidence": 96.012962,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(A)",
+      "x0": 75.3,
+      "top": 35.1,
+      "x1": 89.1,
+      "bottom": 45.3,
+      "confidence": 88.039009,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Copyright",
+      "x0": 103.5,
+      "top": 35.1,
+      "x1": 153.6,
+      "bottom": 45.3,
+      "confidence": 88.039009,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Board",
+      "x0": 157.5,
+      "top": 35.1,
+      "x1": 187.5,
+      "bottom": 43.5,
+      "confidence": 96.861519,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(B)",
+      "x0": 302.09999999999997,
+      "top": 35.1,
+      "x1": 315.9,
+      "bottom": 45.0,
+      "confidence": 92.357765,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Patent",
+      "x0": 330.3,
+      "top": 35.1,
+      "x1": 363.90000000000003,
+      "bottom": 43.5,
+      "confidence": 96.009262,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Board",
+      "x0": 367.8,
+      "top": 35.1,
+      "x1": 397.8,
+      "bottom": 43.5,
+      "confidence": 96.14402,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(C)",
+      "x0": 75.3,
+      "top": 52.8,
+      "x1": 89.1,
+      "bottom": 63.0,
+      "confidence": 92.761955,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Appropriate",
+      "x0": 102.6,
+      "top": 52.8,
+      "x1": 164.1,
+      "bottom": 63.0,
+      "confidence": 95.876823,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "government",
+      "x0": 168.0,
+      "top": 53.699999999999996,
+      "x1": 228.0,
+      "bottom": 62.99999999999999,
+      "confidence": 96.216576,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(D)",
+      "x0": 302.09999999999997,
+      "top": 52.8,
+      "x1": 316.49999999999994,
+      "bottom": 62.699999999999996,
+      "confidence": 92.040993,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "None",
+      "x0": 330.3,
+      "top": 52.8,
+      "x1": 356.1,
+      "bottom": 61.199999999999996,
+      "confidence": 94.301102,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "of",
+      "x0": 360.0,
+      "top": 52.8,
+      "x1": 369.6,
+      "bottom": 61.199999999999996,
+      "confidence": 94.301102,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "the",
+      "x0": 372.0,
+      "top": 52.8,
+      "x1": 387.9,
+      "bottom": 61.199999999999996,
+      "confidence": 96.563957,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "above",
+      "x0": 392.09999999999997,
+      "top": 52.8,
+      "x1": 419.99999999999994,
+      "bottom": 61.199999999999996,
+      "confidence": 96.714561,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

@@ -1,0 +1,351 @@
+{
+  "pdf_page": 450,
+  "crop_top": 174.86,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "32. Which one of the following drafted the hypothetical Case of the Speluncean Explorers?",
+      "bbox": [
+        72.6,
+        3.9,
+        513.0,
+        14.7
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "A. Lon Fuller",
+      "bbox": [
+        108.3,
+        21.0,
+        182.4,
+        29.4
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "B. Rudolph Stammler",
+      "bbox": [
+        108.89999999999999,
+        37.8,
+        216.6,
+        48.3
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "C. John Rawls",
+      "bbox": [
+        108.6,
+        54.6,
+        179.1,
+        63.0
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "D. Clarence Morris",
+      "bbox": [
+        108.89999999999999,
+        71.39999999999999,
+        203.1,
+        79.8
+      ]
+    }
+  ],
+  "text": "32. Which one of the following drafted the hypothetical Case of the Speluncean Explorers?\nA. Lon Fuller\nB. Rudolph Stammler\nC. John Rawls\nD. Clarence Morris",
+  "ocr_words": [
+    {
+      "text": "32.",
+      "x0": 72.6,
+      "top": 4.5,
+      "x1": 86.39999999999999,
+      "bottom": 12.6,
+      "confidence": 96.057579,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Which",
+      "x0": 90.3,
+      "top": 4.2,
+      "x1": 120.3,
+      "bottom": 12.600000000000001,
+      "confidence": 96.451416,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "one",
+      "x0": 124.5,
+      "top": 6.6,
+      "x1": 141.9,
+      "bottom": 12.6,
+      "confidence": 95.233055,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 145.5,
+      "top": 3.9,
+      "x1": 155.4,
+      "bottom": 12.6,
+      "confidence": 95.233055,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 158.1,
+      "top": 4.2,
+      "x1": 173.4,
+      "bottom": 12.600000000000001,
+      "confidence": 96.825836,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 177.0,
+      "top": 3.9,
+      "x1": 221.4,
+      "bottom": 14.7,
+      "confidence": 96.500107,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "drafted",
+      "x0": 225.0,
+      "top": 3.9,
+      "x1": 259.8,
+      "bottom": 12.6,
+      "confidence": 96.955727,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 263.7,
+      "top": 4.2,
+      "x1": 279.0,
+      "bottom": 12.600000000000001,
+      "confidence": 96.935501,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "hypothetical",
+      "x0": 283.2,
+      "top": 4.2,
+      "x1": 342.29999999999995,
+      "bottom": 14.7,
+      "confidence": 96.623123,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Case",
+      "x0": 346.5,
+      "top": 4.5,
+      "x1": 368.1,
+      "bottom": 12.6,
+      "confidence": 96.81691,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 372.3,
+      "top": 3.9,
+      "x1": 381.90000000000003,
+      "bottom": 12.6,
+      "confidence": 96.420013,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 384.9,
+      "top": 4.2,
+      "x1": 400.2,
+      "bottom": 12.600000000000001,
+      "confidence": 93.253777,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Speluncean",
+      "x0": 404.09999999999997,
+      "top": 4.2,
+      "x1": 458.99999999999994,
+      "bottom": 14.7,
+      "confidence": 91.696259,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Explorers?",
+      "x0": 463.5,
+      "top": 4.2,
+      "x1": 513.0,
+      "bottom": 14.7,
+      "confidence": 96.500328,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A.",
+      "x0": 108.3,
+      "top": 21.599999999999998,
+      "x1": 117.89999999999999,
+      "bottom": 29.099999999999998,
+      "confidence": 94.298744,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Lon",
+      "x0": 126.89999999999999,
+      "top": 21.599999999999998,
+      "x1": 143.39999999999998,
+      "bottom": 29.4,
+      "confidence": 44.13467,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Fuller",
+      "x0": 155.4,
+      "top": 21.0,
+      "x1": 182.4,
+      "bottom": 29.4,
+      "confidence": 95.698586,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "B.",
+      "x0": 108.89999999999999,
+      "top": 38.4,
+      "x1": 116.69999999999999,
+      "bottom": 45.9,
+      "confidence": 92.630928,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Rudolph",
+      "x0": 126.89999999999999,
+      "top": 37.8,
+      "x1": 165.89999999999998,
+      "bottom": 48.3,
+      "confidence": 93.264694,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Stammler",
+      "x0": 170.1,
+      "top": 37.8,
+      "x1": 216.6,
+      "bottom": 46.199999999999996,
+      "confidence": 91.788536,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "C.",
+      "x0": 108.6,
+      "top": 54.9,
+      "x1": 116.39999999999999,
+      "bottom": 63.0,
+      "confidence": 90.529068,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "John",
+      "x0": 126.0,
+      "top": 54.6,
+      "x1": 147.9,
+      "bottom": 63.0,
+      "confidence": 96.81826,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Rawls",
+      "x0": 152.4,
+      "top": 54.6,
+      "x1": 179.1,
+      "bottom": 63.0,
+      "confidence": 92.561615,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "D.",
+      "x0": 108.89999999999999,
+      "top": 72.0,
+      "x1": 117.6,
+      "bottom": 79.5,
+      "confidence": 92.96978,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Clarence",
+      "x0": 126.6,
+      "top": 71.39999999999999,
+      "x1": 167.7,
+      "bottom": 79.8,
+      "confidence": 96.06295,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Morris",
+      "x0": 172.2,
+      "top": 71.7,
+      "x1": 203.1,
+      "bottom": 79.8,
+      "confidence": 96.246147,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

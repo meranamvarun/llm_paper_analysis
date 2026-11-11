@@ -1,0 +1,36 @@
+{
+  "pdf_page": 327,
+  "width": 595.2,
+  "height": 841.68,
+  "method": "tesseract_eng_psm3",
+  "text": "PG/2014",
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "PG/2014",
+      "bbox": [
+        45.6,
+        719.04,
+        94.32,
+        729.12
+      ]
+    }
+  ],
+  "native_words": [],
+  "issues": [
+    "ocr_requires_visual_review"
+  ],
+  "ocr_words": [
+    {
+      "text": "PG/2014",
+      "x0": 45.6,
+      "top": 719.04,
+      "x1": 94.32,
+      "bottom": 729.12,
+      "confidence": 89.970154,
+      "ocr_block": "22",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ]
+}

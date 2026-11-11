@@ -1,0 +1,526 @@
+{
+  "pdf_page": 465,
+  "crop_top": 301.97,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "47. The last trial by jury held in a criminal case in India was that of",
+      "bbox": [
+        72.3,
+        3.9,
+        392.40000000000003,
+        14.7
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "A. Rustom v. State of Gujarat",
+      "bbox": [
+        144.29999999999998,
+        25.8,
+        299.7,
+        36.6
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "B. | Ascentia Dawes Crown",
+      "bbox": [
+        144.9,
+        47.1,
+        292.2,
+        60.0
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "v.",
+      "bbox": [
+        250.79999999999998,
+        50.4,
+        258.29999999999995,
+        56.1
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "C. Lily v. State of Bombay",
+      "bbox": [
+        144.6,
+        69.3,
+        281.4,
+        80.1
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "D. K.M. Nanavati v. State of Maharashtra",
+      "bbox": [
+        144.9,
+        91.2,
+        364.79999999999995,
+        102.0
+      ]
+    }
+  ],
+  "text": "47. The last trial by jury held in a criminal case in India was that of\nA. Rustom v. State of Gujarat\nB. | Ascentia Dawes Crown\nv.\nC. Lily v. State of Bombay\nD. K.M. Nanavati v. State of Maharashtra",
+  "ocr_words": [
+    {
+      "text": "47.",
+      "x0": 72.3,
+      "top": 4.8,
+      "x1": 86.39999999999999,
+      "bottom": 12.3,
+      "confidence": 96.806038,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 90.0,
+      "top": 4.2,
+      "x1": 107.7,
+      "bottom": 12.600000000000001,
+      "confidence": 96.806038,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "last",
+      "x0": 111.89999999999999,
+      "top": 4.2,
+      "x1": 127.79999999999998,
+      "bottom": 12.600000000000001,
+      "confidence": 96.984322,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "trial",
+      "x0": 130.79999999999998,
+      "top": 4.2,
+      "x1": 149.39999999999998,
+      "bottom": 12.600000000000001,
+      "confidence": 96.987617,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "by",
+      "x0": 155.4,
+      "top": 4.2,
+      "x1": 163.5,
+      "bottom": 14.7,
+      "confidence": 96.347755,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "jury",
+      "x0": 167.1,
+      "top": 4.5,
+      "x1": 186.0,
+      "bottom": 14.7,
+      "confidence": 96.56881,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "held",
+      "x0": 189.9,
+      "top": 4.2,
+      "x1": 209.4,
+      "bottom": 12.600000000000001,
+      "confidence": 95.929192,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 213.6,
+      "top": 4.5,
+      "x1": 221.1,
+      "bottom": 12.3,
+      "confidence": 95.613434,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 225.29999999999998,
+      "top": 6.6,
+      "x1": 229.49999999999997,
+      "bottom": 12.6,
+      "confidence": 95.454597,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "criminal",
+      "x0": 233.7,
+      "top": 4.2,
+      "x1": 271.5,
+      "bottom": 12.600000000000001,
+      "confidence": 95.454597,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "case",
+      "x0": 275.4,
+      "top": 6.6,
+      "x1": 295.79999999999995,
+      "bottom": 12.6,
+      "confidence": 96.841766,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 300.0,
+      "top": 4.5,
+      "x1": 307.2,
+      "bottom": 12.3,
+      "confidence": 96.528259,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "India",
+      "x0": 312.0,
+      "top": 4.2,
+      "x1": 334.2,
+      "bottom": 12.600000000000001,
+      "confidence": 96.528259,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "was",
+      "x0": 338.09999999999997,
+      "top": 6.6,
+      "x1": 356.09999999999997,
+      "bottom": 12.6,
+      "confidence": 96.989426,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "that",
+      "x0": 359.7,
+      "top": 4.2,
+      "x1": 379.2,
+      "bottom": 12.600000000000001,
+      "confidence": 96.851051,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 382.8,
+      "top": 3.9,
+      "x1": 392.40000000000003,
+      "bottom": 12.6,
+      "confidence": 96.918465,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A.",
+      "x0": 144.29999999999998,
+      "top": 26.7,
+      "x1": 152.99999999999997,
+      "bottom": 34.2,
+      "confidence": 89.407944,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Rustom",
+      "x0": 171.6,
+      "top": 26.7,
+      "x1": 207.29999999999998,
+      "bottom": 34.5,
+      "confidence": 40.221436,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "v.",
+      "x0": 210.9,
+      "top": 28.5,
+      "x1": 218.4,
+      "bottom": 34.2,
+      "confidence": 89.775108,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "State",
+      "x0": 222.0,
+      "top": 26.4,
+      "x1": 246.9,
+      "bottom": 34.5,
+      "confidence": 96.326752,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 250.5,
+      "top": 25.8,
+      "x1": 261.0,
+      "bottom": 36.6,
+      "confidence": 96.497322,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Gujarat",
+      "x0": 263.09999999999997,
+      "top": 26.4,
+      "x1": 299.7,
+      "bottom": 36.599999999999994,
+      "confidence": 96.764168,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "B.",
+      "x0": 144.9,
+      "top": 48.6,
+      "x1": 152.70000000000002,
+      "bottom": 56.1,
+      "confidence": 91.441711,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "|",
+      "x0": 162.9,
+      "top": 47.1,
+      "x1": 168.6,
+      "bottom": 60.0,
+      "confidence": 53.993053,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Ascentia",
+      "x0": 170.7,
+      "top": 48.3,
+      "x1": 212.1,
+      "bottom": 56.4,
+      "confidence": 67.561348,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Dawes",
+      "x0": 215.7,
+      "top": 48.6,
+      "x1": 247.5,
+      "bottom": 56.4,
+      "confidence": 93.223595,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "v.",
+      "x0": 250.79999999999998,
+      "top": 50.4,
+      "x1": 258.29999999999995,
+      "bottom": 56.1,
+      "confidence": 92.832779,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Crown",
+      "x0": 262.5,
+      "top": 48.3,
+      "x1": 292.2,
+      "bottom": 56.4,
+      "confidence": 96.646919,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "C.",
+      "x0": 144.6,
+      "top": 69.89999999999999,
+      "x1": 152.7,
+      "bottom": 77.99999999999999,
+      "confidence": 77.319992,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Lily",
+      "x0": 171.6,
+      "top": 69.6,
+      "x1": 186.9,
+      "bottom": 80.1,
+      "confidence": 57.506374,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "v.",
+      "x0": 189.9,
+      "top": 72.0,
+      "x1": 197.4,
+      "bottom": 77.7,
+      "confidence": 91.586052,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "State",
+      "x0": 201.0,
+      "top": 69.89999999999999,
+      "x1": 225.9,
+      "bottom": 77.99999999999999,
+      "confidence": 96.525543,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "of",
+      "x0": 229.2,
+      "top": 69.3,
+      "x1": 239.7,
+      "bottom": 80.1,
+      "confidence": 96.226234,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Bombay",
+      "x0": 242.1,
+      "top": 69.6,
+      "x1": 281.4,
+      "bottom": 80.1,
+      "confidence": 96.707542,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "D.",
+      "x0": 144.9,
+      "top": 92.1,
+      "x1": 153.6,
+      "bottom": 99.6,
+      "confidence": 79.55838,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "K.M.",
+      "x0": 171.29999999999998,
+      "top": 92.1,
+      "x1": 193.49999999999997,
+      "bottom": 99.6,
+      "confidence": 65.951828,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Nanavati",
+      "x0": 197.4,
+      "top": 91.8,
+      "x1": 243.3,
+      "bottom": 99.89999999999999,
+      "confidence": 91.737869,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "v.",
+      "x0": 246.0,
+      "top": 93.89999999999999,
+      "x1": 254.1,
+      "bottom": 99.6,
+      "confidence": 91.737869,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "State",
+      "x0": 257.4,
+      "top": 91.8,
+      "x1": 283.5,
+      "bottom": 99.89999999999999,
+      "confidence": 96.080719,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "of",
+      "x0": 286.5,
+      "top": 91.2,
+      "x1": 297.3,
+      "bottom": 102.0,
+      "confidence": 96.881874,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Maharashtra",
+      "x0": 299.4,
+      "top": 91.5,
+      "x1": 364.79999999999995,
+      "bottom": 99.9,
+      "confidence": 96.287552,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

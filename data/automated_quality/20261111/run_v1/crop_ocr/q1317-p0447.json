@@ -1,0 +1,592 @@
+{
+  "pdf_page": 447,
+  "crop_top": 642.94,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "18. The famous Vom Bneruf was written by Savigny reaction to",
+      "bbox": [
+        77.39999999999999,
+        2.4,
+        432.6,
+        15.6
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "essay as a",
+      "bbox": [
+        155.1,
+        6.3,
+        376.2,
+        14.399999999999999
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "A. Thibaut’s proposal for a Code on the lines of the Napoleonic Code",
+      "bbox": [
+        108.3,
+        20.7,
+        452.7,
+        31.5
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "B. The King’s proposal for introducing British common law in Germany",
+      "bbox": [
+        108.89999999999999,
+        37.5,
+        455.1,
+        48.3
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "C. The Parliament’s proposal to introduce Roman law in Germany",
+      "bbox": [
+        108.6,
+        54.3,
+        432.0,
+        65.1
+      ]
+    }
+  ],
+  "text": "18. The famous Vom Bneruf was written by Savigny reaction to\nessay as a\nA. Thibaut’s proposal for a Code on the lines of the Napoleonic Code\nB. The King’s proposal for introducing British common law in Germany\nC. The Parliament’s proposal to introduce Roman law in Germany",
+  "ocr_words": [
+    {
+      "text": "18.",
+      "x0": 77.39999999999999,
+      "top": 4.2,
+      "x1": 90.89999999999999,
+      "bottom": 12.3,
+      "confidence": 96.486389,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 94.5,
+      "top": 3.9,
+      "x1": 112.2,
+      "bottom": 12.3,
+      "confidence": 95.381157,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "famous",
+      "x0": 115.5,
+      "top": 3.5999999999999996,
+      "x1": 151.2,
+      "bottom": 12.299999999999999,
+      "confidence": 96.156548,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "essay",
+      "x0": 155.1,
+      "top": 6.3,
+      "x1": 180.9,
+      "bottom": 14.399999999999999,
+      "confidence": 96.156548,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Vom",
+      "x0": 184.79999999999998,
+      "top": 4.5,
+      "x1": 205.49999999999997,
+      "bottom": 12.3,
+      "confidence": 92.877258,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Bneruf",
+      "x0": 209.4,
+      "top": 2.4,
+      "x1": 237.3,
+      "bottom": 15.6,
+      "confidence": 92.39547,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "was",
+      "x0": 244.5,
+      "top": 2.4,
+      "x1": 257.4,
+      "bottom": 15.6,
+      "confidence": 96.354324,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "written",
+      "x0": 266.09999999999997,
+      "top": 4.2,
+      "x1": 300.9,
+      "bottom": 12.3,
+      "confidence": 96.645432,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "by",
+      "x0": 305.09999999999997,
+      "top": 3.9,
+      "x1": 315.9,
+      "bottom": 14.4,
+      "confidence": 93.18364,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Savigny",
+      "x0": 319.2,
+      "top": 4.2,
+      "x1": 355.2,
+      "bottom": 14.399999999999999,
+      "confidence": 92.330505,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "as",
+      "x0": 358.8,
+      "top": 6.3,
+      "x1": 368.1,
+      "bottom": 12.3,
+      "confidence": 96.582382,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 372.0,
+      "top": 6.3,
+      "x1": 376.2,
+      "bottom": 12.3,
+      "confidence": 96.582382,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "reaction",
+      "x0": 380.7,
+      "top": 4.2,
+      "x1": 419.4,
+      "bottom": 12.3,
+      "confidence": 96.410202,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 423.0,
+      "top": 4.8,
+      "x1": 432.6,
+      "bottom": 12.3,
+      "confidence": 96.867203,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A.",
+      "x0": 108.3,
+      "top": 21.599999999999998,
+      "x1": 117.89999999999999,
+      "bottom": 29.099999999999998,
+      "confidence": 93.111267,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Thibaut’s",
+      "x0": 126.0,
+      "top": 20.7,
+      "x1": 171.9,
+      "bottom": 29.4,
+      "confidence": 91.788597,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "proposal",
+      "x0": 175.5,
+      "top": 21.0,
+      "x1": 217.8,
+      "bottom": 31.5,
+      "confidence": 96.697441,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "for",
+      "x0": 221.4,
+      "top": 20.7,
+      "x1": 235.5,
+      "bottom": 29.4,
+      "confidence": 96.626244,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "a",
+      "x0": 238.79999999999998,
+      "top": 23.4,
+      "x1": 243.6,
+      "bottom": 29.4,
+      "confidence": 95.559143,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Code",
+      "x0": 247.5,
+      "top": 21.0,
+      "x1": 271.8,
+      "bottom": 29.4,
+      "confidence": 96.464272,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "on",
+      "x0": 275.4,
+      "top": 23.4,
+      "x1": 287.4,
+      "bottom": 29.4,
+      "confidence": 96.632088,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 290.7,
+      "top": 21.0,
+      "x1": 306.9,
+      "bottom": 29.4,
+      "confidence": 96.872299,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "lines",
+      "x0": 310.8,
+      "top": 21.0,
+      "x1": 332.7,
+      "bottom": 29.4,
+      "confidence": 96.630753,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 336.3,
+      "top": 20.7,
+      "x1": 346.2,
+      "bottom": 29.4,
+      "confidence": 96.771675,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 349.2,
+      "top": 21.0,
+      "x1": 365.4,
+      "bottom": 29.4,
+      "confidence": 96.347542,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Napoleonic",
+      "x0": 369.3,
+      "top": 21.0,
+      "x1": 424.8,
+      "bottom": 31.5,
+      "confidence": 95.500153,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Code",
+      "x0": 428.09999999999997,
+      "top": 21.0,
+      "x1": 452.7,
+      "bottom": 29.4,
+      "confidence": 96.372017,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "B.",
+      "x0": 108.89999999999999,
+      "top": 38.4,
+      "x1": 116.69999999999999,
+      "bottom": 45.9,
+      "confidence": 91.004936,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "The",
+      "x0": 126.0,
+      "top": 37.8,
+      "x1": 143.7,
+      "bottom": 46.199999999999996,
+      "confidence": 96.781898,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "King’s",
+      "x0": 147.9,
+      "top": 37.5,
+      "x1": 175.20000000000002,
+      "bottom": 48.3,
+      "confidence": 96.499214,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "proposal",
+      "x0": 179.1,
+      "top": 37.8,
+      "x1": 219.89999999999998,
+      "bottom": 48.3,
+      "confidence": 96.525017,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "for",
+      "x0": 223.79999999999998,
+      "top": 37.5,
+      "x1": 237.6,
+      "bottom": 46.2,
+      "confidence": 96.009041,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "introducing",
+      "x0": 241.2,
+      "top": 37.8,
+      "x1": 296.09999999999997,
+      "bottom": 48.3,
+      "confidence": 96.154686,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "British",
+      "x0": 300.0,
+      "top": 37.8,
+      "x1": 329.7,
+      "bottom": 46.199999999999996,
+      "confidence": 96.909393,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "common",
+      "x0": 333.59999999999997,
+      "top": 40.199999999999996,
+      "x1": 375.29999999999995,
+      "bottom": 46.199999999999996,
+      "confidence": 96.742561,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "law",
+      "x0": 379.8,
+      "top": 37.8,
+      "x1": 395.7,
+      "bottom": 46.199999999999996,
+      "confidence": 96.510803,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "in",
+      "x0": 399.59999999999997,
+      "top": 38.1,
+      "x1": 406.79999999999995,
+      "bottom": 45.9,
+      "confidence": 96.157959,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Germany",
+      "x0": 411.0,
+      "top": 38.1,
+      "x1": 455.1,
+      "bottom": 48.3,
+      "confidence": 96.399063,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "C.",
+      "x0": 108.6,
+      "top": 54.9,
+      "x1": 116.39999999999999,
+      "bottom": 63.0,
+      "confidence": 92.459946,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "The",
+      "x0": 126.0,
+      "top": 54.6,
+      "x1": 143.7,
+      "bottom": 63.0,
+      "confidence": 92.25499,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Parliament’s",
+      "x0": 147.9,
+      "top": 54.3,
+      "x1": 207.3,
+      "bottom": 63.0,
+      "confidence": 92.25499,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "proposal",
+      "x0": 211.5,
+      "top": 54.6,
+      "x1": 252.3,
+      "bottom": 65.1,
+      "confidence": 96.38591,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "to",
+      "x0": 255.89999999999998,
+      "top": 55.5,
+      "x1": 265.79999999999995,
+      "bottom": 63.0,
+      "confidence": 96.841461,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "introduce",
+      "x0": 269.7,
+      "top": 54.6,
+      "x1": 315.59999999999997,
+      "bottom": 63.0,
+      "confidence": 96.65728,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Roman",
+      "x0": 319.8,
+      "top": 55.199999999999996,
+      "x1": 352.5,
+      "bottom": 62.99999999999999,
+      "confidence": 96.149345,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "law",
+      "x0": 357.0,
+      "top": 54.6,
+      "x1": 372.6,
+      "bottom": 63.0,
+      "confidence": 96.514496,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "in",
+      "x0": 376.5,
+      "top": 54.9,
+      "x1": 383.7,
+      "bottom": 62.699999999999996,
+      "confidence": 96.717178,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Germany",
+      "x0": 387.9,
+      "top": 54.9,
+      "x1": 432.0,
+      "bottom": 65.1,
+      "confidence": 96.509117,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

@@ -1,0 +1,417 @@
+{
+  "pdf_page": 435,
+  "crop_top": 643.9,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "14. Which of the following Commission(s) has/have a constitutional status, as of April,",
+      "bbox": [
+        90.89999999999999,
+        3.3,
+        538.8,
+        14.4
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "2017?",
+      "bbox": [
+        108.6,
+        18.599999999999998,
+        137.39999999999998,
+        27.0
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(t) National Commission for Scheduled Castes",
+      "bbox": [
+        126.3,
+        33.0,
+        351.3,
+        44.4
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(ti) National Commission for Backward Classes",
+      "bbox": [
+        123.3,
+        47.699999999999996,
+        351.9,
+        59.099999999999994
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(it) National Commission for Scheduled Tribes",
+      "bbox": [
+        120.6,
+        62.4,
+        349.5,
+        73.8
+      ]
+    }
+  ],
+  "text": "14. Which of the following Commission(s) has/have a constitutional status, as of April,\n2017?\n(t) National Commission for Scheduled Castes\n(ti) National Commission for Backward Classes\n(it) National Commission for Scheduled Tribes",
+  "ocr_words": [
+    {
+      "text": "14.",
+      "x0": 90.89999999999999,
+      "top": 4.5,
+      "x1": 104.39999999999999,
+      "bottom": 12.0,
+      "confidence": 93.812431,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Which",
+      "x0": 108.3,
+      "top": 3.9,
+      "x1": 138.3,
+      "bottom": 12.3,
+      "confidence": 93.812431,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 145.2,
+      "top": 3.5999999999999996,
+      "x1": 154.79999999999998,
+      "bottom": 12.299999999999999,
+      "confidence": 96.24334,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 160.5,
+      "top": 3.9,
+      "x1": 175.8,
+      "bottom": 12.3,
+      "confidence": 96.438309,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 182.1,
+      "top": 3.5999999999999996,
+      "x1": 226.79999999999998,
+      "bottom": 14.399999999999999,
+      "confidence": 93.279808,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Commission(s)",
+      "x0": 233.1,
+      "top": 3.5999999999999996,
+      "x1": 303.3,
+      "bottom": 14.1,
+      "confidence": 90.581444,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "has/have",
+      "x0": 310.5,
+      "top": 3.3,
+      "x1": 354.0,
+      "bottom": 13.8,
+      "confidence": 92.01767,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 360.59999999999997,
+      "top": 6.3,
+      "x1": 364.79999999999995,
+      "bottom": 12.3,
+      "confidence": 94.675644,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "constitutional",
+      "x0": 371.7,
+      "top": 3.9,
+      "x1": 438.0,
+      "bottom": 12.3,
+      "confidence": 96.706345,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "status,",
+      "x0": 444.59999999999997,
+      "top": 4.8,
+      "x1": 475.79999999999995,
+      "bottom": 13.8,
+      "confidence": 96.379677,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "as",
+      "x0": 482.7,
+      "top": 6.3,
+      "x1": 492.0,
+      "bottom": 12.3,
+      "confidence": 96.908585,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 498.59999999999997,
+      "top": 3.5999999999999996,
+      "x1": 508.2,
+      "bottom": 12.299999999999999,
+      "confidence": 96.726379,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "April,",
+      "x0": 513.9,
+      "top": 3.9,
+      "x1": 538.8,
+      "bottom": 14.4,
+      "confidence": 95.639832,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2017?",
+      "x0": 108.6,
+      "top": 18.599999999999998,
+      "x1": 137.39999999999998,
+      "bottom": 27.0,
+      "confidence": 96.054268,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(t)",
+      "x0": 126.3,
+      "top": 33.6,
+      "x1": 134.1,
+      "bottom": 44.4,
+      "confidence": 40.014,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "National",
+      "x0": 144.9,
+      "top": 33.3,
+      "x1": 184.5,
+      "bottom": 41.699999999999996,
+      "confidence": 90.927338,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Commission",
+      "x0": 188.7,
+      "top": 33.6,
+      "x1": 246.6,
+      "bottom": 41.7,
+      "confidence": 96.617126,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "for",
+      "x0": 250.5,
+      "top": 33.0,
+      "x1": 264.3,
+      "bottom": 41.7,
+      "confidence": 96.53479,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Scheduled",
+      "x0": 267.59999999999997,
+      "top": 33.3,
+      "x1": 316.79999999999995,
+      "bottom": 41.699999999999996,
+      "confidence": 96.53479,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Castes",
+      "x0": 320.7,
+      "top": 33.6,
+      "x1": 351.3,
+      "bottom": 41.7,
+      "confidence": 96.882416,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(ti)",
+      "x0": 123.3,
+      "top": 48.3,
+      "x1": 134.1,
+      "bottom": 59.099999999999994,
+      "confidence": 62.701946,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "National",
+      "x0": 144.9,
+      "top": 48.0,
+      "x1": 184.5,
+      "bottom": 56.4,
+      "confidence": 93.731079,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Commission",
+      "x0": 188.7,
+      "top": 48.3,
+      "x1": 246.6,
+      "bottom": 56.4,
+      "confidence": 96.729263,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "for",
+      "x0": 250.5,
+      "top": 47.699999999999996,
+      "x1": 264.3,
+      "bottom": 56.39999999999999,
+      "confidence": 96.573402,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Backward",
+      "x0": 268.2,
+      "top": 48.0,
+      "x1": 313.8,
+      "bottom": 56.4,
+      "confidence": 96.41452,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Classes",
+      "x0": 318.0,
+      "top": 48.0,
+      "x1": 351.9,
+      "bottom": 56.4,
+      "confidence": 96.719681,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(it)",
+      "x0": 120.6,
+      "top": 63.0,
+      "x1": 134.1,
+      "bottom": 73.8,
+      "confidence": 51.924355,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "National",
+      "x0": 144.9,
+      "top": 62.699999999999996,
+      "x1": 184.5,
+      "bottom": 71.1,
+      "confidence": 83.957428,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Commission",
+      "x0": 188.7,
+      "top": 63.0,
+      "x1": 246.6,
+      "bottom": 71.1,
+      "confidence": 96.674713,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "for",
+      "x0": 250.5,
+      "top": 62.4,
+      "x1": 264.3,
+      "bottom": 71.1,
+      "confidence": 96.674713,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Scheduled",
+      "x0": 267.59999999999997,
+      "top": 62.699999999999996,
+      "x1": 316.79999999999995,
+      "bottom": 71.1,
+      "confidence": 96.216278,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Tribes",
+      "x0": 320.4,
+      "top": 62.699999999999996,
+      "x1": 349.5,
+      "bottom": 71.1,
+      "confidence": 96.658554,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

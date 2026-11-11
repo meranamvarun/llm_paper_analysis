@@ -1,0 +1,383 @@
+{
+  "pdf_page": 256,
+  "crop_top": 69.9319999999999,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "113. In order to constitute a valid acceptance of an offer, it must be",
+      "bbox": [
+        73.5,
+        3.9,
+        393.6,
+        15.0
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "(A) Unqualified",
+      "bbox": [
+        100.5,
+        20.099999999999998,
+        180.3,
+        31.199999999999996
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(B) Conditional",
+      "bbox": [
+        100.5,
+        35.1,
+        179.1,
+        45.9
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(C) Absolute",
+      "bbox": [
+        100.5,
+        51.3,
+        165.6,
+        62.099999999999994
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(D) Both (A) and (C).",
+      "bbox": [
+        100.5,
+        67.2,
+        205.79999999999998,
+        78.0
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "CORRECT OPTION: D",
+      "bbox": [
+        72.3,
+        83.7,
+        197.7,
+        92.4
+      ]
+    }
+  ],
+  "text": "113. In order to constitute a valid acceptance of an offer, it must be\n(A) Unqualified\n(B) Conditional\n(C) Absolute\n(D) Both (A) and (C).\nCORRECT OPTION: D",
+  "ocr_words": [
+    {
+      "text": "113.",
+      "x0": 73.5,
+      "top": 3.9,
+      "x1": 90.3,
+      "bottom": 12.6,
+      "confidence": 96.407425,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "In",
+      "x0": 97.2,
+      "top": 4.2,
+      "x1": 106.5,
+      "bottom": 12.3,
+      "confidence": 96.450897,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "order",
+      "x0": 109.8,
+      "top": 3.9,
+      "x1": 135.6,
+      "bottom": 12.3,
+      "confidence": 96.53981,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 138.29999999999998,
+      "top": 5.3999999999999995,
+      "x1": 146.99999999999997,
+      "bottom": 12.299999999999999,
+      "confidence": 96.950974,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "constitute",
+      "x0": 150.6,
+      "top": 3.9,
+      "x1": 196.5,
+      "bottom": 12.3,
+      "confidence": 96.616951,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 200.1,
+      "top": 6.8999999999999995,
+      "x1": 205.2,
+      "bottom": 12.299999999999999,
+      "confidence": 96.920486,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "valid",
+      "x0": 207.9,
+      "top": 3.9,
+      "x1": 231.9,
+      "bottom": 12.3,
+      "confidence": 96.590172,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "acceptance",
+      "x0": 235.2,
+      "top": 5.1,
+      "x1": 287.7,
+      "bottom": 15.0,
+      "confidence": 96.081306,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 291.3,
+      "top": 3.9,
+      "x1": 302.40000000000003,
+      "bottom": 12.3,
+      "confidence": 96.081306,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "an",
+      "x0": 304.2,
+      "top": 6.8999999999999995,
+      "x1": 315.0,
+      "bottom": 12.299999999999999,
+      "confidence": 96.86306,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "offer,",
+      "x0": 318.59999999999997,
+      "top": 3.9,
+      "x1": 344.09999999999997,
+      "bottom": 14.1,
+      "confidence": 95.669144,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "it",
+      "x0": 347.7,
+      "top": 3.9,
+      "x1": 354.0,
+      "bottom": 12.3,
+      "confidence": 95.669144,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "must",
+      "x0": 356.4,
+      "top": 5.1,
+      "x1": 379.79999999999995,
+      "bottom": 12.299999999999999,
+      "confidence": 96.655945,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "be",
+      "x0": 382.5,
+      "top": 3.9,
+      "x1": 393.6,
+      "bottom": 12.3,
+      "confidence": 96.986519,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 100.5,
+      "top": 20.099999999999998,
+      "x1": 113.4,
+      "bottom": 30.9,
+      "confidence": 96.439621,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Unqualified",
+      "x0": 121.8,
+      "top": 20.099999999999998,
+      "x1": 180.3,
+      "bottom": 31.199999999999996,
+      "confidence": 91.393372,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(B)",
+      "x0": 100.5,
+      "top": 35.1,
+      "x1": 112.8,
+      "bottom": 45.9,
+      "confidence": 92.210342,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Conditional",
+      "x0": 122.1,
+      "top": 35.1,
+      "x1": 179.1,
+      "bottom": 43.5,
+      "confidence": 96.358322,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(C)",
+      "x0": 100.5,
+      "top": 51.3,
+      "x1": 112.8,
+      "bottom": 62.099999999999994,
+      "confidence": 89.846832,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Absolute",
+      "x0": 121.8,
+      "top": 51.3,
+      "x1": 165.6,
+      "bottom": 59.699999999999996,
+      "confidence": 96.082764,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(D)",
+      "x0": 100.5,
+      "top": 67.2,
+      "x1": 113.4,
+      "bottom": 78.0,
+      "confidence": 91.504593,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Both",
+      "x0": 121.8,
+      "top": 67.2,
+      "x1": 144.9,
+      "bottom": 75.60000000000001,
+      "confidence": 96.43309,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "(A)",
+      "x0": 148.5,
+      "top": 67.2,
+      "x1": 164.1,
+      "bottom": 78.0,
+      "confidence": 96.694862,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "and",
+      "x0": 168.0,
+      "top": 67.2,
+      "x1": 185.4,
+      "bottom": 75.60000000000001,
+      "confidence": 39.624405,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "(C).",
+      "x0": 188.1,
+      "top": 67.2,
+      "x1": 205.79999999999998,
+      "bottom": 78.0,
+      "confidence": 39.624405,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "CORRECT",
+      "x0": 72.3,
+      "top": 83.7,
+      "x1": 131.7,
+      "bottom": 92.4,
+      "confidence": 96.368172,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "OPTION:",
+      "x0": 135.29999999999998,
+      "top": 83.7,
+      "x1": 185.39999999999998,
+      "bottom": 92.4,
+      "confidence": 92.703072,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "D",
+      "x0": 189.6,
+      "top": 84.0,
+      "x1": 197.7,
+      "bottom": 92.1,
+      "confidence": 92.703072,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

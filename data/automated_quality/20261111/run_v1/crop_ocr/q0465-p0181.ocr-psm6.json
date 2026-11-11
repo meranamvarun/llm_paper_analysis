@@ -1,0 +1,473 @@
+{
+  "pdf_page": 181,
+  "crop_top": 535.7180000000001,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "101. The main complaint against the Defendant in the case excerpted above is that their",
+      "bbox": [
+        90.6,
+        3.5999999999999996,
+        527.6999999999999,
+        13.8
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "mark is “ ” to the Plaintiffs registered trademarks.",
+      "bbox": [
+        117.6,
+        16.5,
+        404.7,
+        27.0
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(A) reasonably close in expression (B) same as",
+      "bbox": [
+        115.5,
+        32.1,
+        367.2,
+        42.3
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(C) different from (D) deceptively similar",
+      "bbox": [
+        115.5,
+        47.4,
+        422.99999999999994,
+        57.599999999999994
+      ]
+    }
+  ],
+  "text": "101. The main complaint against the Defendant in the case excerpted above is that their\nmark is “ ” to the Plaintiffs registered trademarks.\n(A) reasonably close in expression (B) same as\n(C) different from (D) deceptively similar",
+  "ocr_words": [
+    {
+      "text": "101.",
+      "x0": 90.6,
+      "top": 4.2,
+      "x1": 110.1,
+      "bottom": 12.0,
+      "confidence": 96.253929,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 117.3,
+      "top": 3.5999999999999996,
+      "x1": 135.9,
+      "bottom": 12.0,
+      "confidence": 95.675209,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "main",
+      "x0": 139.2,
+      "top": 3.9,
+      "x1": 164.39999999999998,
+      "bottom": 12.0,
+      "confidence": 95.372704,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "complaint",
+      "x0": 167.1,
+      "top": 3.5999999999999996,
+      "x1": 216.6,
+      "bottom": 13.799999999999999,
+      "confidence": 95.372704,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "against",
+      "x0": 219.6,
+      "top": 3.9,
+      "x1": 256.2,
+      "bottom": 13.8,
+      "confidence": 96.304932,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 258.9,
+      "top": 3.5999999999999996,
+      "x1": 274.79999999999995,
+      "bottom": 12.0,
+      "confidence": 96.304932,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Defendant",
+      "x0": 277.5,
+      "top": 3.5999999999999996,
+      "x1": 330.0,
+      "bottom": 12.0,
+      "confidence": 96.187592,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 332.7,
+      "top": 3.9,
+      "x1": 342.3,
+      "bottom": 11.7,
+      "confidence": 96.511803,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 345.0,
+      "top": 3.5999999999999996,
+      "x1": 360.9,
+      "bottom": 12.0,
+      "confidence": 96.949768,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "case",
+      "x0": 363.9,
+      "top": 6.6,
+      "x1": 384.59999999999997,
+      "bottom": 12.0,
+      "confidence": 96.839172,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "excerpted",
+      "x0": 387.59999999999997,
+      "top": 3.5999999999999996,
+      "x1": 435.59999999999997,
+      "bottom": 13.799999999999999,
+      "confidence": 96.414642,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "above",
+      "x0": 438.59999999999997,
+      "top": 3.5999999999999996,
+      "x1": 466.49999999999994,
+      "bottom": 12.0,
+      "confidence": 96.565826,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 469.5,
+      "top": 3.9,
+      "x1": 477.3,
+      "bottom": 12.0,
+      "confidence": 96.564178,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "that",
+      "x0": 480.0,
+      "top": 3.5999999999999996,
+      "x1": 501.0,
+      "bottom": 12.0,
+      "confidence": 96.59375,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "their",
+      "x0": 503.4,
+      "top": 3.5999999999999996,
+      "x1": 527.6999999999999,
+      "bottom": 12.0,
+      "confidence": 96.483414,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "mark",
+      "x0": 117.6,
+      "top": 16.5,
+      "x1": 144.0,
+      "bottom": 25.2,
+      "confidence": 94.42572,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "is",
+      "x0": 147.6,
+      "top": 17.099999999999998,
+      "x1": 155.4,
+      "bottom": 25.199999999999996,
+      "confidence": 93.14653,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "“",
+      "x0": 159.29999999999998,
+      "top": 16.8,
+      "x1": 162.89999999999998,
+      "bottom": 19.5,
+      "confidence": 93.14653,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "”",
+      "x0": 196.2,
+      "top": 16.8,
+      "x1": 200.1,
+      "bottom": 19.5,
+      "confidence": 39.327248,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "to",
+      "x0": 203.7,
+      "top": 17.7,
+      "x1": 213.0,
+      "bottom": 25.2,
+      "confidence": 96.057999,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 216.6,
+      "top": 16.8,
+      "x1": 232.5,
+      "bottom": 25.200000000000003,
+      "confidence": 96.057999,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Plaintiffs",
+      "x0": 236.39999999999998,
+      "top": 16.8,
+      "x1": 285.0,
+      "bottom": 25.200000000000003,
+      "confidence": 79.946671,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "registered",
+      "x0": 288.59999999999997,
+      "top": 16.8,
+      "x1": 339.59999999999997,
+      "bottom": 27.0,
+      "confidence": 96.520279,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "trademarks.",
+      "x0": 343.2,
+      "top": 16.8,
+      "x1": 404.7,
+      "bottom": 25.200000000000003,
+      "confidence": 96.222145,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(A)",
+      "x0": 115.5,
+      "top": 32.1,
+      "x1": 129.3,
+      "bottom": 42.3,
+      "confidence": 96.418762,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "reasonably",
+      "x0": 136.2,
+      "top": 32.1,
+      "x1": 191.1,
+      "bottom": 42.3,
+      "confidence": 95.99411,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "close",
+      "x0": 194.7,
+      "top": 32.1,
+      "x1": 218.39999999999998,
+      "bottom": 40.5,
+      "confidence": 96.087852,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "in",
+      "x0": 222.0,
+      "top": 32.4,
+      "x1": 231.9,
+      "bottom": 40.199999999999996,
+      "confidence": 94.120537,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "expression",
+      "x0": 235.5,
+      "top": 32.4,
+      "x1": 288.9,
+      "bottom": 42.3,
+      "confidence": 89.852036,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(B)",
+      "x0": 306.3,
+      "top": 32.1,
+      "x1": 320.40000000000003,
+      "bottom": 42.3,
+      "confidence": 85.314651,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "same",
+      "x0": 327.59999999999997,
+      "top": 35.1,
+      "x1": 353.09999999999997,
+      "bottom": 40.5,
+      "confidence": 0.0,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "as",
+      "x0": 357.0,
+      "top": 35.1,
+      "x1": 367.2,
+      "bottom": 40.5,
+      "confidence": 0.0,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(C)",
+      "x0": 115.5,
+      "top": 47.4,
+      "x1": 129.3,
+      "bottom": 57.599999999999994,
+      "confidence": 93.124199,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "different",
+      "x0": 136.5,
+      "top": 47.4,
+      "x1": 179.7,
+      "bottom": 55.8,
+      "confidence": 96.155617,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "from",
+      "x0": 183.29999999999998,
+      "top": 47.4,
+      "x1": 206.39999999999998,
+      "bottom": 55.8,
+      "confidence": 96.784973,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(D)",
+      "x0": 305.7,
+      "top": 47.4,
+      "x1": 320.4,
+      "bottom": 57.599999999999994,
+      "confidence": 92.08316,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "deceptively",
+      "x0": 327.59999999999997,
+      "top": 47.4,
+      "x1": 383.7,
+      "bottom": 57.599999999999994,
+      "confidence": 95.810173,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "similar",
+      "x0": 387.59999999999997,
+      "top": 47.4,
+      "x1": 422.99999999999994,
+      "bottom": 55.8,
+      "confidence": 96.464386,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "pdf_page": 309,
+  "crop_top": 95.77279999999996,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "CONSORTIUM OF NATIONAL LAW UNIVERSITIES",
+      "bbox": [
+        150.6,
+        3.9,
+        446.1,
+        12.3
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "LLM. COMMON LAW ADMISSION TEST, 2019",
+      "bbox": [
+        163.5,
+        37.199999999999996,
+        432.90000000000003,
+        47.099999999999994
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "-",
+      "bbox": [
+        195.9,
+        42.3,
+        201.6,
+        42.9
+      ]
+    }
+  ],
+  "text": "CONSORTIUM OF NATIONAL LAW UNIVERSITIES\nLLM. COMMON LAW ADMISSION TEST, 2019\n-",
+  "ocr_words": [
+    {
+      "text": "CONSORTIUM",
+      "x0": 150.6,
+      "top": 3.9,
+      "x1": 234.89999999999998,
+      "bottom": 12.3,
+      "confidence": 96.652573,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "OF",
+      "x0": 238.79999999999998,
+      "top": 3.9,
+      "x1": 254.99999999999997,
+      "bottom": 12.3,
+      "confidence": 96.568199,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "NATIONAL",
+      "x0": 258.9,
+      "top": 3.9,
+      "x1": 323.09999999999997,
+      "bottom": 12.3,
+      "confidence": 96.069153,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "LAW",
+      "x0": 327.0,
+      "top": 3.9,
+      "x1": 354.0,
+      "bottom": 12.3,
+      "confidence": 96.688454,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "UNIVERSITIES",
+      "x0": 357.3,
+      "top": 3.9,
+      "x1": 446.1,
+      "bottom": 12.3,
+      "confidence": 96.14946,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "LLM.",
+      "x0": 163.5,
+      "top": 37.199999999999996,
+      "x1": 192.3,
+      "bottom": 45.599999999999994,
+      "confidence": 92.01709,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "-",
+      "x0": 195.9,
+      "top": 42.3,
+      "x1": 201.6,
+      "bottom": 42.9,
+      "confidence": 87.196838,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "COMMON",
+      "x0": 205.5,
+      "top": 37.199999999999996,
+      "x1": 262.2,
+      "bottom": 45.599999999999994,
+      "confidence": 95.749184,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "LAW",
+      "x0": 266.09999999999997,
+      "top": 37.199999999999996,
+      "x1": 293.09999999999997,
+      "bottom": 45.599999999999994,
+      "confidence": 96.899429,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "ADMISSION",
+      "x0": 295.5,
+      "top": 37.199999999999996,
+      "x1": 366.9,
+      "bottom": 45.599999999999994,
+      "confidence": 96.376755,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "TEST,",
+      "x0": 370.5,
+      "top": 37.199999999999996,
+      "x1": 404.4,
+      "bottom": 47.099999999999994,
+      "confidence": 95.387398,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "2019",
+      "x0": 408.3,
+      "top": 37.8,
+      "x1": 432.90000000000003,
+      "bottom": 45.599999999999994,
+      "confidence": 96.710556,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

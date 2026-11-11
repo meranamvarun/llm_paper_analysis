@@ -1,0 +1,887 @@
+{
+  "pdf_page": 150,
+  "crop_top": 373.708,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "12. The Constitution Bench in D.C. Wadhwa v. State of Bihar (1987) 1 SCC 378 held",
+      "bbox": [
+        96.89999999999999,
+        3.5999999999999996,
+        527.6999999999999,
+        13.799999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "that re-promulgation of an Ordinance was a ‘fraud on the Constitution’ because:",
+      "bbox": [
+        117.3,
+        18.599999999999998,
+        522.5999999999999,
+        28.799999999999997
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(A) Legislative power is vested in the legislatures by the Constitution of India",
+      "bbox": [
+        115.5,
+        36.0,
+        512.1,
+        46.2
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(B) It is a colourable exercise of power under the Constitution of India",
+      "bbox": [
+        115.5,
+        53.1,
+        472.2,
+        63.3
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(C) The role of the Executive is to implement law, not make it",
+      "bbox": [
+        115.5,
+        69.89999999999999,
+        439.8,
+        80.4
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "a",
+      "bbox": [
+        348.59999999999997,
+        73.2,
+        353.99999999999994,
+        78.60000000000001
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "(D) None of the above",
+      "bbox": [
+        114.89999999999999,
+        87.6,
+        226.2,
+        97.8
+      ]
+    }
+  ],
+  "text": "12. The Constitution Bench in D.C. Wadhwa v. State of Bihar (1987) 1 SCC 378 held\nthat re-promulgation of an Ordinance was a ‘fraud on the Constitution’ because:\n(A) Legislative power is vested in the legislatures by the Constitution of India\n(B) It is a colourable exercise of power under the Constitution of India\n(C) The role of the Executive is to implement law, not make it\na\n(D) None of the above",
+  "ocr_words": [
+    {
+      "text": "12.",
+      "x0": 96.89999999999999,
+      "top": 4.2,
+      "x1": 110.1,
+      "bottom": 12.0,
+      "confidence": 95.941429,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 117.3,
+      "top": 3.5999999999999996,
+      "x1": 136.2,
+      "bottom": 12.0,
+      "confidence": 95.860321,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Constitution",
+      "x0": 140.4,
+      "top": 3.5999999999999996,
+      "x1": 203.4,
+      "bottom": 12.0,
+      "confidence": 96.302498,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Bench",
+      "x0": 207.29999999999998,
+      "top": 3.5999999999999996,
+      "x1": 238.2,
+      "bottom": 12.0,
+      "confidence": 96.479492,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 241.79999999999998,
+      "top": 3.9,
+      "x1": 251.39999999999998,
+      "bottom": 11.7,
+      "confidence": 96.162857,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "D.C.",
+      "x0": 254.7,
+      "top": 3.5999999999999996,
+      "x1": 276.3,
+      "bottom": 12.0,
+      "confidence": 93.292679,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Wadhwa",
+      "x0": 281.7,
+      "top": 3.5999999999999996,
+      "x1": 325.2,
+      "bottom": 12.0,
+      "confidence": 93.212158,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "v.",
+      "x0": 329.09999999999997,
+      "top": 6.6,
+      "x1": 335.99999999999994,
+      "bottom": 12.0,
+      "confidence": 91.492615,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "State",
+      "x0": 340.8,
+      "top": 3.5999999999999996,
+      "x1": 366.3,
+      "bottom": 12.0,
+      "confidence": 96.095642,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 370.8,
+      "top": 3.5999999999999996,
+      "x1": 380.1,
+      "bottom": 13.799999999999999,
+      "confidence": 96.095642,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Bihar",
+      "x0": 381.9,
+      "top": 3.5999999999999996,
+      "x1": 411.29999999999995,
+      "bottom": 12.0,
+      "confidence": 95.319466,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(1987)",
+      "x0": 415.2,
+      "top": 3.5999999999999996,
+      "x1": 445.5,
+      "bottom": 13.5,
+      "confidence": 95.319466,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1",
+      "x0": 450.59999999999997,
+      "top": 4.2,
+      "x1": 454.79999999999995,
+      "bottom": 11.7,
+      "confidence": 95.745377,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "SCC",
+      "x0": 459.3,
+      "top": 3.5999999999999996,
+      "x1": 480.90000000000003,
+      "bottom": 12.0,
+      "confidence": 96.289879,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "378",
+      "x0": 485.09999999999997,
+      "top": 4.2,
+      "x1": 502.49999999999994,
+      "bottom": 12.0,
+      "confidence": 96.274498,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "held",
+      "x0": 506.09999999999997,
+      "top": 3.5999999999999996,
+      "x1": 527.6999999999999,
+      "bottom": 12.0,
+      "confidence": 96.477715,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "that",
+      "x0": 117.3,
+      "top": 18.599999999999998,
+      "x1": 138.3,
+      "bottom": 27.0,
+      "confidence": 90.689186,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "re-promulgation",
+      "x0": 141.6,
+      "top": 18.599999999999998,
+      "x1": 223.8,
+      "bottom": 28.799999999999997,
+      "confidence": 90.689186,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 227.4,
+      "top": 18.599999999999998,
+      "x1": 237.0,
+      "bottom": 27.0,
+      "confidence": 95.909599,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "an",
+      "x0": 240.0,
+      "top": 21.599999999999998,
+      "x1": 252.0,
+      "bottom": 26.999999999999996,
+      "confidence": 96.129189,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Ordinance",
+      "x0": 255.89999999999998,
+      "top": 18.599999999999998,
+      "x1": 308.09999999999997,
+      "bottom": 27.0,
+      "confidence": 96.010475,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "was",
+      "x0": 311.7,
+      "top": 21.599999999999998,
+      "x1": 330.9,
+      "bottom": 26.999999999999996,
+      "confidence": 96.37291,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "a",
+      "x0": 334.8,
+      "top": 21.599999999999998,
+      "x1": 340.2,
+      "bottom": 26.999999999999996,
+      "confidence": 95.68399,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "‘fraud",
+      "x0": 343.8,
+      "top": 18.599999999999998,
+      "x1": 373.2,
+      "bottom": 27.0,
+      "confidence": 95.957405,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "on",
+      "x0": 376.8,
+      "top": 21.599999999999998,
+      "x1": 388.5,
+      "bottom": 26.999999999999996,
+      "confidence": 96.094299,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 392.09999999999997,
+      "top": 18.599999999999998,
+      "x1": 407.99999999999994,
+      "bottom": 27.0,
+      "confidence": 96.88063,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Constitution’",
+      "x0": 411.9,
+      "top": 18.599999999999998,
+      "x1": 477.29999999999995,
+      "bottom": 27.0,
+      "confidence": 96.313454,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "because:",
+      "x0": 480.59999999999997,
+      "top": 18.599999999999998,
+      "x1": 522.5999999999999,
+      "bottom": 27.0,
+      "confidence": 96.609665,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(A)",
+      "x0": 115.5,
+      "top": 36.0,
+      "x1": 129.3,
+      "bottom": 46.2,
+      "confidence": 96.510017,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Legislative",
+      "x0": 136.2,
+      "top": 36.0,
+      "x1": 191.7,
+      "bottom": 46.2,
+      "confidence": 96.729462,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "power",
+      "x0": 195.29999999999998,
+      "top": 39.0,
+      "x1": 225.59999999999997,
+      "bottom": 46.2,
+      "confidence": 96.352768,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "is",
+      "x0": 229.2,
+      "top": 36.3,
+      "x1": 237.0,
+      "bottom": 44.4,
+      "confidence": 96.921738,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "vested",
+      "x0": 240.6,
+      "top": 36.0,
+      "x1": 273.0,
+      "bottom": 44.4,
+      "confidence": 96.332428,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "in",
+      "x0": 276.3,
+      "top": 36.3,
+      "x1": 286.2,
+      "bottom": 44.099999999999994,
+      "confidence": 95.466072,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "the",
+      "x0": 289.5,
+      "top": 36.0,
+      "x1": 305.4,
+      "bottom": 44.4,
+      "confidence": 95.466072,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "legislatures",
+      "x0": 309.3,
+      "top": 36.0,
+      "x1": 368.1,
+      "bottom": 46.2,
+      "confidence": 96.318336,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "by",
+      "x0": 371.7,
+      "top": 36.0,
+      "x1": 383.4,
+      "bottom": 46.2,
+      "confidence": 96.902161,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "the",
+      "x0": 386.7,
+      "top": 36.0,
+      "x1": 402.59999999999997,
+      "bottom": 44.4,
+      "confidence": 96.355644,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Constitution",
+      "x0": 407.09999999999997,
+      "top": 36.0,
+      "x1": 468.59999999999997,
+      "bottom": 44.4,
+      "confidence": 96.125496,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 472.5,
+      "top": 36.0,
+      "x1": 482.4,
+      "bottom": 46.2,
+      "confidence": 96.609726,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "India",
+      "x0": 484.5,
+      "top": 36.0,
+      "x1": 512.1,
+      "bottom": 44.4,
+      "confidence": 96.467964,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(B)",
+      "x0": 115.5,
+      "top": 53.1,
+      "x1": 129.3,
+      "bottom": 63.3,
+      "confidence": 92.720467,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "It",
+      "x0": 136.2,
+      "top": 53.4,
+      "x1": 144.6,
+      "bottom": 61.5,
+      "confidence": 95.770363,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "is",
+      "x0": 147.9,
+      "top": 53.4,
+      "x1": 156.0,
+      "bottom": 61.5,
+      "confidence": 95.770363,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "a",
+      "x0": 159.9,
+      "top": 56.1,
+      "x1": 165.3,
+      "bottom": 61.5,
+      "confidence": 93.000626,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "colourable",
+      "x0": 168.9,
+      "top": 53.1,
+      "x1": 220.2,
+      "bottom": 61.5,
+      "confidence": 93.000626,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "exercise",
+      "x0": 224.1,
+      "top": 53.4,
+      "x1": 264.0,
+      "bottom": 61.5,
+      "confidence": 95.79277,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "of",
+      "x0": 267.9,
+      "top": 53.1,
+      "x1": 277.5,
+      "bottom": 61.5,
+      "confidence": 96.584053,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "power",
+      "x0": 280.2,
+      "top": 56.1,
+      "x1": 310.2,
+      "bottom": 63.3,
+      "confidence": 95.849762,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "under",
+      "x0": 313.8,
+      "top": 53.1,
+      "x1": 343.5,
+      "bottom": 61.5,
+      "confidence": 95.849762,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "the",
+      "x0": 347.09999999999997,
+      "top": 53.1,
+      "x1": 362.99999999999994,
+      "bottom": 61.5,
+      "confidence": 95.926041,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Constitution",
+      "x0": 367.2,
+      "top": 53.1,
+      "x1": 429.0,
+      "bottom": 61.5,
+      "confidence": 93.12149,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "of",
+      "x0": 432.59999999999997,
+      "top": 53.1,
+      "x1": 442.79999999999995,
+      "bottom": 63.3,
+      "confidence": 96.164276,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "India",
+      "x0": 444.59999999999997,
+      "top": 53.1,
+      "x1": 472.2,
+      "bottom": 61.5,
+      "confidence": 96.214966,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(C)",
+      "x0": 115.5,
+      "top": 70.2,
+      "x1": 129.3,
+      "bottom": 80.4,
+      "confidence": 91.098251,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "The",
+      "x0": 136.2,
+      "top": 70.2,
+      "x1": 155.1,
+      "bottom": 78.60000000000001,
+      "confidence": 96.647247,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "role",
+      "x0": 158.7,
+      "top": 70.2,
+      "x1": 177.6,
+      "bottom": 78.60000000000001,
+      "confidence": 96.386009,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "of",
+      "x0": 181.2,
+      "top": 70.2,
+      "x1": 190.79999999999998,
+      "bottom": 78.60000000000001,
+      "confidence": 96.670181,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "the",
+      "x0": 193.5,
+      "top": 70.2,
+      "x1": 209.4,
+      "bottom": 78.60000000000001,
+      "confidence": 96.144836,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Executive",
+      "x0": 213.6,
+      "top": 70.5,
+      "x1": 262.5,
+      "bottom": 78.6,
+      "confidence": 96.416496,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "is",
+      "x0": 266.09999999999997,
+      "top": 70.5,
+      "x1": 274.2,
+      "bottom": 78.6,
+      "confidence": 96.707603,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "to",
+      "x0": 277.8,
+      "top": 71.39999999999999,
+      "x1": 287.1,
+      "bottom": 78.6,
+      "confidence": 96.509583,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "implement",
+      "x0": 290.7,
+      "top": 70.2,
+      "x1": 345.0,
+      "bottom": 80.4,
+      "confidence": 96.564423,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "a",
+      "x0": 348.59999999999997,
+      "top": 73.2,
+      "x1": 353.99999999999994,
+      "bottom": 78.60000000000001,
+      "confidence": 96.657814,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "law,",
+      "x0": 357.59999999999997,
+      "top": 70.2,
+      "x1": 377.7,
+      "bottom": 79.8,
+      "confidence": 96.69278,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "not",
+      "x0": 381.9,
+      "top": 71.39999999999999,
+      "x1": 398.09999999999997,
+      "bottom": 78.6,
+      "confidence": 95.902657,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "make",
+      "x0": 401.7,
+      "top": 69.89999999999999,
+      "x1": 428.7,
+      "bottom": 78.6,
+      "confidence": 95.902657,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "it",
+      "x0": 432.3,
+      "top": 70.5,
+      "x1": 439.8,
+      "bottom": 78.6,
+      "confidence": 96.045891,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "(D)",
+      "x0": 114.89999999999999,
+      "top": 87.6,
+      "x1": 129.29999999999998,
+      "bottom": 97.8,
+      "confidence": 92.504623,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "None",
+      "x0": 136.2,
+      "top": 87.89999999999999,
+      "x1": 162.29999999999998,
+      "bottom": 95.99999999999999,
+      "confidence": 96.777832,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "of",
+      "x0": 165.9,
+      "top": 87.6,
+      "x1": 175.5,
+      "bottom": 96.0,
+      "confidence": 96.75428,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "the",
+      "x0": 178.2,
+      "top": 87.6,
+      "x1": 194.1,
+      "bottom": 96.0,
+      "confidence": 96.047432,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "above",
+      "x0": 198.0,
+      "top": 87.6,
+      "x1": 226.2,
+      "bottom": 96.0,
+      "confidence": 96.047432,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

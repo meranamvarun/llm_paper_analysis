@@ -1,0 +1,996 @@
+{
+  "pdf_page": 372,
+  "crop_top": 100.04136000000005,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.1_ The total number of members in the Legislative Council of a State having such a Council shall not exceed:",
+      "bbox": [
+        43.8,
+        3.5999999999999996,
+        387.9,
+        10.2
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Ans a",
+      "bbox": [
+        43.199999999999996,
+        15.0,
+        86.7,
+        27.6
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "1. two-third of the total number of members in the Legislative Assembly of that State.",
+      "bbox": [
+        88.5,
+        24.9,
+        348.90000000000003,
+        31.5
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "x,",
+      "bbox": [
+        73.2,
+        36.3,
+        93.0,
+        51.3
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "the total number of members in the Legislative Assembly of that State.",
+      "bbox": [
+        95.39999999999999,
+        46.199999999999996,
+        310.5,
+        52.8
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "x,",
+      "bbox": [
+        73.2,
+        57.599999999999994,
+        93.0,
+        72.89999999999999
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "one-half of the total number of members in the Legislative Assembly of that State.",
+      "bbox": [
+        95.7,
+        67.5,
+        345.6,
+        74.1
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "of",
+      "bbox": [
+        75.6,
+        91.5,
+        80.39999999999999,
+        105.9
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "4. one-third of the total number of members in the Legislative Assembly of that State.",
+      "bbox": [
+        87.89999999999999,
+        98.1,
+        348.6,
+        104.69999999999999
+      ]
+    }
+  ],
+  "text": "Q.1_ The total number of members in the Legislative Council of a State having such a Council shall not exceed:\nAns a\n1. two-third of the total number of members in the Legislative Assembly of that State.\nx,\nthe total number of members in the Legislative Assembly of that State.\nx,\none-half of the total number of members in the Legislative Assembly of that State.\nof\n4. one-third of the total number of members in the Legislative Assembly of that State.",
+  "ocr_words": [
+    {
+      "text": "Q.1_",
+      "x0": 43.8,
+      "top": 3.9,
+      "x1": 54.3,
+      "bottom": 9.6,
+      "confidence": 53.0835,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 62.4,
+      "top": 3.5999999999999996,
+      "x1": 73.5,
+      "bottom": 9.0,
+      "confidence": 85.097,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "total",
+      "x0": 75.6,
+      "top": 3.5999999999999996,
+      "x1": 90.0,
+      "bottom": 8.7,
+      "confidence": 96.834396,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "number",
+      "x0": 92.39999999999999,
+      "top": 3.5999999999999996,
+      "x1": 116.69999999999999,
+      "bottom": 8.7,
+      "confidence": 96.572273,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 118.5,
+      "top": 3.5999999999999996,
+      "x1": 124.8,
+      "bottom": 8.7,
+      "confidence": 96.062325,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "members",
+      "x0": 126.89999999999999,
+      "top": 3.5999999999999996,
+      "x1": 155.7,
+      "bottom": 9.0,
+      "confidence": 96.833626,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 158.1,
+      "top": 3.9,
+      "x1": 163.2,
+      "bottom": 8.7,
+      "confidence": 96.717552,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 165.29999999999998,
+      "top": 3.5999999999999996,
+      "x1": 175.2,
+      "bottom": 9.0,
+      "confidence": 96.892319,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Legislative",
+      "x0": 177.9,
+      "top": 3.5999999999999996,
+      "x1": 209.7,
+      "bottom": 10.2,
+      "confidence": 96.694839,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Council",
+      "x0": 211.79999999999998,
+      "top": 3.5999999999999996,
+      "x1": 233.99999999999997,
+      "bottom": 8.7,
+      "confidence": 96.959465,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 236.39999999999998,
+      "top": 3.5999999999999996,
+      "x1": 242.7,
+      "bottom": 8.7,
+      "confidence": 96.985245,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 244.5,
+      "top": 5.1,
+      "x1": 247.5,
+      "bottom": 8.7,
+      "confidence": 96.188919,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "State",
+      "x0": 249.89999999999998,
+      "top": 3.9,
+      "x1": 265.5,
+      "bottom": 9.0,
+      "confidence": 96.188919,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "having",
+      "x0": 267.9,
+      "top": 3.5999999999999996,
+      "x1": 288.29999999999995,
+      "bottom": 10.2,
+      "confidence": 96.740143,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "such",
+      "x0": 290.09999999999997,
+      "top": 3.5999999999999996,
+      "x1": 303.9,
+      "bottom": 8.7,
+      "confidence": 96.966293,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 306.0,
+      "top": 5.1,
+      "x1": 309.3,
+      "bottom": 8.7,
+      "confidence": 96.906349,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Council",
+      "x0": 311.4,
+      "top": 3.5999999999999996,
+      "x1": 333.9,
+      "bottom": 9.0,
+      "confidence": 96.604927,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "shall",
+      "x0": 336.0,
+      "top": 3.5999999999999996,
+      "x1": 349.8,
+      "bottom": 8.7,
+      "confidence": 96.969688,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "not",
+      "x0": 352.5,
+      "top": 4.2,
+      "x1": 362.4,
+      "bottom": 8.7,
+      "confidence": 97.009094,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "exceed:",
+      "x0": 364.5,
+      "top": 3.5999999999999996,
+      "x1": 387.9,
+      "bottom": 9.0,
+      "confidence": 96.690926,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.199999999999996,
+      "top": 16.5,
+      "x1": 54.599999999999994,
+      "bottom": 21.3,
+      "confidence": 96.915558,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "a",
+      "x0": 73.2,
+      "top": 15.0,
+      "x1": 86.7,
+      "bottom": 27.6,
+      "confidence": 41.872986,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 88.5,
+      "top": 25.2,
+      "x1": 93.0,
+      "bottom": 30.0,
+      "confidence": 93.143875,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "two-third",
+      "x0": 95.39999999999999,
+      "top": 24.9,
+      "x1": 123.6,
+      "bottom": 30.0,
+      "confidence": 93.143875,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 126.0,
+      "top": 24.9,
+      "x1": 132.0,
+      "bottom": 30.0,
+      "confidence": 97.016777,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "the",
+      "x0": 133.79999999999998,
+      "top": 24.9,
+      "x1": 143.7,
+      "bottom": 30.0,
+      "confidence": 96.607407,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "total",
+      "x0": 145.79999999999998,
+      "top": 24.9,
+      "x1": 159.29999999999998,
+      "bottom": 30.0,
+      "confidence": 96.664459,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "number",
+      "x0": 162.29999999999998,
+      "top": 24.9,
+      "x1": 185.7,
+      "bottom": 30.0,
+      "confidence": 96.239784,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 187.79999999999998,
+      "top": 24.9,
+      "x1": 193.79999999999998,
+      "bottom": 30.0,
+      "confidence": 96.126373,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "members",
+      "x0": 195.9,
+      "top": 24.9,
+      "x1": 224.1,
+      "bottom": 30.0,
+      "confidence": 95.991127,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "in",
+      "x0": 226.5,
+      "top": 25.2,
+      "x1": 231.3,
+      "bottom": 30.0,
+      "confidence": 96.935562,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "the",
+      "x0": 233.7,
+      "top": 24.9,
+      "x1": 243.29999999999998,
+      "bottom": 30.0,
+      "confidence": 96.73629,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Legislative",
+      "x0": 246.0,
+      "top": 24.9,
+      "x1": 276.9,
+      "bottom": 31.5,
+      "confidence": 96.722954,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Assembly",
+      "x0": 279.0,
+      "top": 24.9,
+      "x1": 307.5,
+      "bottom": 31.5,
+      "confidence": 96.659088,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 309.9,
+      "top": 24.9,
+      "x1": 315.9,
+      "bottom": 30.0,
+      "confidence": 97.00528,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "that",
+      "x0": 317.7,
+      "top": 24.9,
+      "x1": 329.7,
+      "bottom": 30.0,
+      "confidence": 96.912636,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "State.",
+      "x0": 331.8,
+      "top": 25.2,
+      "x1": 348.90000000000003,
+      "bottom": 30.0,
+      "confidence": 96.915504,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "x,",
+      "x0": 73.2,
+      "top": 36.3,
+      "x1": 93.0,
+      "bottom": 51.3,
+      "confidence": 74.425827,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "the",
+      "x0": 95.39999999999999,
+      "top": 46.199999999999996,
+      "x1": 104.99999999999999,
+      "bottom": 51.3,
+      "confidence": 96.675751,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "total",
+      "x0": 107.39999999999999,
+      "top": 46.199999999999996,
+      "x1": 120.89999999999999,
+      "bottom": 51.3,
+      "confidence": 96.851105,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "number",
+      "x0": 123.6,
+      "top": 46.199999999999996,
+      "x1": 147.29999999999998,
+      "bottom": 51.3,
+      "confidence": 95.838211,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "of",
+      "x0": 149.4,
+      "top": 46.199999999999996,
+      "x1": 155.4,
+      "bottom": 51.3,
+      "confidence": 96.548538,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "members",
+      "x0": 157.5,
+      "top": 46.199999999999996,
+      "x1": 185.7,
+      "bottom": 51.3,
+      "confidence": 96.559654,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "in",
+      "x0": 188.1,
+      "top": 46.5,
+      "x1": 192.6,
+      "bottom": 51.3,
+      "confidence": 96.871666,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "the",
+      "x0": 195.0,
+      "top": 46.199999999999996,
+      "x1": 204.9,
+      "bottom": 51.3,
+      "confidence": 96.969391,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Legislative",
+      "x0": 207.6,
+      "top": 46.199999999999996,
+      "x1": 238.2,
+      "bottom": 52.8,
+      "confidence": 96.656487,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Assembly",
+      "x0": 240.29999999999998,
+      "top": 46.199999999999996,
+      "x1": 269.09999999999997,
+      "bottom": 52.8,
+      "confidence": 96.468376,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "of",
+      "x0": 271.2,
+      "top": 46.199999999999996,
+      "x1": 277.2,
+      "bottom": 51.3,
+      "confidence": 96.954742,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "that",
+      "x0": 279.0,
+      "top": 46.199999999999996,
+      "x1": 291.3,
+      "bottom": 51.3,
+      "confidence": 96.954742,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "State.",
+      "x0": 293.4,
+      "top": 46.5,
+      "x1": 310.5,
+      "bottom": 51.6,
+      "confidence": 96.96386,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "x,",
+      "x0": 73.2,
+      "top": 57.599999999999994,
+      "x1": 93.0,
+      "bottom": 72.89999999999999,
+      "confidence": 63.164753,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "one-half",
+      "x0": 95.7,
+      "top": 67.5,
+      "x1": 120.9,
+      "bottom": 72.6,
+      "confidence": 96.578606,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "of",
+      "x0": 122.69999999999999,
+      "top": 67.5,
+      "x1": 128.7,
+      "bottom": 72.6,
+      "confidence": 96.578606,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "the",
+      "x0": 130.5,
+      "top": 67.5,
+      "x1": 140.1,
+      "bottom": 72.6,
+      "confidence": 96.627495,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "total",
+      "x0": 142.5,
+      "top": 67.5,
+      "x1": 156.0,
+      "bottom": 72.6,
+      "confidence": 96.534523,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "number",
+      "x0": 158.7,
+      "top": 67.5,
+      "x1": 182.39999999999998,
+      "bottom": 72.6,
+      "confidence": 95.162437,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "of",
+      "x0": 184.5,
+      "top": 67.5,
+      "x1": 190.5,
+      "bottom": 72.6,
+      "confidence": 96.229782,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "members",
+      "x0": 192.6,
+      "top": 67.5,
+      "x1": 220.79999999999998,
+      "bottom": 72.6,
+      "confidence": 96.585373,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "in",
+      "x0": 223.2,
+      "top": 67.8,
+      "x1": 227.7,
+      "bottom": 72.6,
+      "confidence": 96.8424,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "the",
+      "x0": 230.1,
+      "top": 67.5,
+      "x1": 240.0,
+      "bottom": 72.6,
+      "confidence": 96.989487,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Legislative",
+      "x0": 242.39999999999998,
+      "top": 67.5,
+      "x1": 273.29999999999995,
+      "bottom": 74.1,
+      "confidence": 96.675972,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Assembly",
+      "x0": 275.4,
+      "top": 67.5,
+      "x1": 304.2,
+      "bottom": 74.1,
+      "confidence": 96.391083,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "of",
+      "x0": 306.3,
+      "top": 67.5,
+      "x1": 312.3,
+      "bottom": 72.6,
+      "confidence": 96.881561,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "that",
+      "x0": 314.09999999999997,
+      "top": 67.5,
+      "x1": 326.4,
+      "bottom": 72.6,
+      "confidence": 96.881561,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "State.",
+      "x0": 328.5,
+      "top": 67.8,
+      "x1": 345.6,
+      "bottom": 72.89999999999999,
+      "confidence": 96.942589,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "of",
+      "x0": 75.6,
+      "top": 91.5,
+      "x1": 80.39999999999999,
+      "bottom": 105.9,
+      "confidence": 16.487335,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "4.",
+      "x0": 87.89999999999999,
+      "top": 98.39999999999999,
+      "x1": 92.99999999999999,
+      "bottom": 103.19999999999999,
+      "confidence": 95.359093,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "one-third",
+      "x0": 95.7,
+      "top": 98.1,
+      "x1": 123.3,
+      "bottom": 103.19999999999999,
+      "confidence": 96.152878,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "of",
+      "x0": 126.0,
+      "top": 98.1,
+      "x1": 132.0,
+      "bottom": 103.19999999999999,
+      "confidence": 97.00103,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "the",
+      "x0": 133.79999999999998,
+      "top": 98.1,
+      "x1": 143.39999999999998,
+      "bottom": 103.19999999999999,
+      "confidence": 96.965019,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "total",
+      "x0": 145.5,
+      "top": 98.1,
+      "x1": 159.3,
+      "bottom": 103.19999999999999,
+      "confidence": 96.733467,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "number",
+      "x0": 162.0,
+      "top": 98.1,
+      "x1": 185.4,
+      "bottom": 103.19999999999999,
+      "confidence": 95.963127,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "of",
+      "x0": 187.5,
+      "top": 98.1,
+      "x1": 193.5,
+      "bottom": 103.19999999999999,
+      "confidence": 95.677963,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "members",
+      "x0": 195.9,
+      "top": 98.1,
+      "x1": 223.8,
+      "bottom": 103.19999999999999,
+      "confidence": 95.677963,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "in",
+      "x0": 226.5,
+      "top": 98.39999999999999,
+      "x1": 231.0,
+      "bottom": 103.19999999999999,
+      "confidence": 96.792053,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "the",
+      "x0": 233.39999999999998,
+      "top": 98.1,
+      "x1": 242.99999999999997,
+      "bottom": 103.19999999999999,
+      "confidence": 96.410805,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Legislative",
+      "x0": 245.7,
+      "top": 98.1,
+      "x1": 276.59999999999997,
+      "bottom": 104.69999999999999,
+      "confidence": 96.693817,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Assembly",
+      "x0": 278.7,
+      "top": 98.1,
+      "x1": 307.5,
+      "bottom": 104.69999999999999,
+      "confidence": 96.193886,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "of",
+      "x0": 309.59999999999997,
+      "top": 98.1,
+      "x1": 315.59999999999997,
+      "bottom": 103.19999999999999,
+      "confidence": 97.000053,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "that",
+      "x0": 317.4,
+      "top": 98.1,
+      "x1": 329.7,
+      "bottom": 103.19999999999999,
+      "confidence": 96.769882,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "State.",
+      "x0": 331.8,
+      "top": 98.39999999999999,
+      "x1": 348.6,
+      "bottom": 103.19999999999999,
+      "confidence": 96.83918,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "pdf_page": 393,
+  "crop_top": 45.80146000000002,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "\\",
+      "bbox": [
+        73.2,
+        0.0,
+        84.60000000000001,
+        6.3
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "4. robbery",
+      "bbox": [
+        87.89999999999999,
+        3.5999999999999996,
+        119.4,
+        10.2
+      ]
+    }
+  ],
+  "text": "\\\n4. robbery",
+  "ocr_words": [
+    {
+      "text": "\\",
+      "x0": 73.2,
+      "top": 0.0,
+      "x1": 84.60000000000001,
+      "bottom": 6.3,
+      "confidence": 0.0,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "4.",
+      "x0": 87.89999999999999,
+      "top": 3.9,
+      "x1": 92.99999999999999,
+      "bottom": 8.7,
+      "confidence": 92.111855,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "robbery",
+      "x0": 95.7,
+      "top": 3.5999999999999996,
+      "x1": 119.4,
+      "bottom": 10.2,
+      "confidence": 95.559532,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

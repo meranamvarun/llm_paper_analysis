@@ -1,0 +1,515 @@
+{
+  "pdf_page": 230,
+  "crop_top": 334.80199999999996,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "10. The fair investigation in a criminal trial is a guarantee",
+      "bbox": [
+        73.5,
+        3.9,
+        349.49999999999994,
+        15.0
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "(A) Against arbitrariness.",
+      "bbox": [
+        100.5,
+        19.2,
+        222.6,
+        30.299999999999997
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(B) Of right to life and personal liberty.",
+      "bbox": [
+        100.5,
+        35.1,
+        293.09999999999997,
+        46.2
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(©) Against arbitrariness and of right to life and personal liberty.",
+      "bbox": [
+        100.5,
+        51.3,
+        411.29999999999995,
+        62.4
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(D) Of political justice.",
+      "bbox": [
+        100.5,
+        67.5,
+        212.7,
+        78.6
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "CORRECT OPTION: C",
+      "bbox": [
+        72.3,
+        82.8,
+        197.4,
+        91.5
+      ]
+    }
+  ],
+  "text": "10. The fair investigation in a criminal trial is a guarantee\n(A) Against arbitrariness.\n(B) Of right to life and personal liberty.\n(©) Against arbitrariness and of right to life and personal liberty.\n(D) Of political justice.\nCORRECT OPTION: C",
+  "ocr_words": [
+    {
+      "text": "10.",
+      "x0": 73.5,
+      "top": 3.9,
+      "x1": 84.9,
+      "bottom": 12.6,
+      "confidence": 92.386604,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 93.89999999999999,
+      "top": 3.9,
+      "x1": 111.89999999999999,
+      "bottom": 12.3,
+      "confidence": 92.386604,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "fair",
+      "x0": 115.19999999999999,
+      "top": 3.9,
+      "x1": 132.29999999999998,
+      "bottom": 12.3,
+      "confidence": 96.962097,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "investigation",
+      "x0": 135.29999999999998,
+      "top": 3.9,
+      "x1": 196.79999999999998,
+      "bottom": 15.0,
+      "confidence": 96.962097,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 200.1,
+      "top": 3.9,
+      "x1": 208.79999999999998,
+      "bottom": 12.3,
+      "confidence": 96.825005,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 212.4,
+      "top": 6.8999999999999995,
+      "x1": 217.20000000000002,
+      "bottom": 12.299999999999999,
+      "confidence": 96.330765,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "criminal",
+      "x0": 220.2,
+      "top": 3.9,
+      "x1": 259.5,
+      "bottom": 12.3,
+      "confidence": 96.330765,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "trial",
+      "x0": 262.2,
+      "top": 3.9,
+      "x1": 281.09999999999997,
+      "bottom": 12.3,
+      "confidence": 96.630547,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 284.09999999999997,
+      "top": 3.9,
+      "x1": 291.29999999999995,
+      "bottom": 12.3,
+      "confidence": 96.762505,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 295.5,
+      "top": 6.8999999999999995,
+      "x1": 300.3,
+      "bottom": 12.299999999999999,
+      "confidence": 96.907303,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "guarantee",
+      "x0": 303.59999999999997,
+      "top": 5.1,
+      "x1": 349.49999999999994,
+      "bottom": 15.0,
+      "confidence": 96.319275,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 100.5,
+      "top": 19.2,
+      "x1": 113.4,
+      "bottom": 30.0,
+      "confidence": 94.683968,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Against",
+      "x0": 121.8,
+      "top": 19.2,
+      "x1": 159.0,
+      "bottom": 30.299999999999997,
+      "confidence": 95.702477,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "arbitrariness.",
+      "x0": 161.7,
+      "top": 19.2,
+      "x1": 222.6,
+      "bottom": 27.6,
+      "confidence": 95.931038,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(B)",
+      "x0": 100.5,
+      "top": 35.1,
+      "x1": 112.8,
+      "bottom": 45.9,
+      "confidence": 92.564484,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Of",
+      "x0": 122.1,
+      "top": 35.1,
+      "x1": 135.6,
+      "bottom": 43.5,
+      "confidence": 15.219406,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "right",
+      "x0": 137.4,
+      "top": 35.1,
+      "x1": 159.9,
+      "bottom": 46.2,
+      "confidence": 15.219406,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "to",
+      "x0": 163.2,
+      "top": 36.3,
+      "x1": 171.89999999999998,
+      "bottom": 43.5,
+      "confidence": 96.764397,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "life",
+      "x0": 175.79999999999998,
+      "top": 35.1,
+      "x1": 191.39999999999998,
+      "bottom": 43.5,
+      "confidence": 96.96698,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "and",
+      "x0": 195.29999999999998,
+      "top": 35.1,
+      "x1": 212.7,
+      "bottom": 43.5,
+      "confidence": 96.377541,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "personal",
+      "x0": 216.0,
+      "top": 35.1,
+      "x1": 257.7,
+      "bottom": 46.2,
+      "confidence": 94.760826,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "liberty.",
+      "x0": 260.09999999999997,
+      "top": 35.1,
+      "x1": 293.09999999999997,
+      "bottom": 46.2,
+      "confidence": 94.760826,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(©)",
+      "x0": 100.5,
+      "top": 51.3,
+      "x1": 112.8,
+      "bottom": 62.099999999999994,
+      "confidence": 34.036049,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Against",
+      "x0": 121.8,
+      "top": 51.3,
+      "x1": 159.0,
+      "bottom": 62.4,
+      "confidence": 95.284683,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "arbitrariness",
+      "x0": 161.7,
+      "top": 51.3,
+      "x1": 220.2,
+      "bottom": 59.699999999999996,
+      "confidence": 95.284683,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "and",
+      "x0": 223.5,
+      "top": 51.3,
+      "x1": 240.9,
+      "bottom": 59.699999999999996,
+      "confidence": 96.590828,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "of",
+      "x0": 244.2,
+      "top": 51.3,
+      "x1": 255.29999999999998,
+      "bottom": 59.699999999999996,
+      "confidence": 96.98896,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "right",
+      "x0": 257.4,
+      "top": 51.3,
+      "x1": 279.9,
+      "bottom": 62.4,
+      "confidence": 96.120911,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "to",
+      "x0": 282.59999999999997,
+      "top": 52.5,
+      "x1": 291.29999999999995,
+      "bottom": 59.7,
+      "confidence": 96.120911,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "life",
+      "x0": 294.9,
+      "top": 51.3,
+      "x1": 310.5,
+      "bottom": 59.699999999999996,
+      "confidence": 96.707733,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "and",
+      "x0": 314.09999999999997,
+      "top": 51.3,
+      "x1": 331.2,
+      "bottom": 59.699999999999996,
+      "confidence": 96.983055,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "personal",
+      "x0": 334.5,
+      "top": 51.3,
+      "x1": 375.3,
+      "bottom": 62.4,
+      "confidence": 96.614189,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "liberty.",
+      "x0": 378.59999999999997,
+      "top": 51.3,
+      "x1": 411.29999999999995,
+      "bottom": 62.4,
+      "confidence": 96.958069,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(D)",
+      "x0": 100.5,
+      "top": 67.5,
+      "x1": 113.4,
+      "bottom": 78.3,
+      "confidence": 89.918777,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Of",
+      "x0": 122.1,
+      "top": 67.5,
+      "x1": 135.6,
+      "bottom": 75.9,
+      "confidence": 95.31955,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "political",
+      "x0": 137.4,
+      "top": 67.5,
+      "x1": 176.4,
+      "bottom": 78.6,
+      "confidence": 95.31955,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "justice.",
+      "x0": 178.2,
+      "top": 67.5,
+      "x1": 212.7,
+      "bottom": 78.6,
+      "confidence": 96.641953,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "CORRECT",
+      "x0": 72.3,
+      "top": 82.8,
+      "x1": 131.7,
+      "bottom": 91.5,
+      "confidence": 96.494034,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "OPTION:",
+      "x0": 135.29999999999998,
+      "top": 82.8,
+      "x1": 185.39999999999998,
+      "bottom": 91.5,
+      "confidence": 93.177933,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "C",
+      "x0": 189.9,
+      "top": 82.8,
+      "x1": 197.4,
+      "bottom": 91.5,
+      "confidence": 91.743027,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

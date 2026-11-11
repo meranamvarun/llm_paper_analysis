@@ -1,0 +1,688 @@
+{
+  "pdf_page": 68,
+  "crop_top": 415.7186,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "48. With respect to bailment, a Banker:",
+      "bbox": [
+        105.3,
+        3.5999999999999996,
+        307.2,
+        13.799999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "(A) Has a right to particular lien fixed deposits",
+      "bbox": [
+        125.39999999999999,
+        18.599999999999998,
+        391.5,
+        31.199999999999996
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "a on",
+      "bbox": [
+        222.29999999999998,
+        22.8,
+        319.2,
+        28.2
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(B) Has a right to general lien fixed deposits",
+      "bbox": [
+        125.39999999999999,
+        34.5,
+        378.59999999999997,
+        47.1
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "a on",
+      "bbox": [
+        222.29999999999998,
+        38.699999999999996,
+        306.29999999999995,
+        44.099999999999994
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "(C) Has a right to general lien savings account",
+      "bbox": [
+        125.39999999999999,
+        50.4,
+        389.7,
+        63.0
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "a on",
+      "bbox": [
+        222.29999999999998,
+        54.6,
+        306.29999999999995,
+        60.0
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "(D) Has no right to a lien on a savings account or fixed deposits",
+      "bbox": [
+        124.8,
+        67.8,
+        449.7,
+        78.0
+      ]
+    }
+  ],
+  "text": "48. With respect to bailment, a Banker:\n(A) Has a right to particular lien fixed deposits\na on\n(B) Has a right to general lien fixed deposits\na on\n(C) Has a right to general lien savings account\na on\n(D) Has no right to a lien on a savings account or fixed deposits",
+  "ocr_words": [
+    {
+      "text": "48.",
+      "x0": 105.3,
+      "top": 4.2,
+      "x1": 119.1,
+      "bottom": 12.0,
+      "confidence": 96.718124,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "With",
+      "x0": 126.3,
+      "top": 3.5999999999999996,
+      "x1": 150.9,
+      "bottom": 12.0,
+      "confidence": 96.477104,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "respect",
+      "x0": 154.5,
+      "top": 4.5,
+      "x1": 190.5,
+      "bottom": 13.799999999999999,
+      "confidence": 96.407898,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 194.1,
+      "top": 4.8,
+      "x1": 203.4,
+      "bottom": 12.0,
+      "confidence": 93.290817,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "bailment,",
+      "x0": 206.7,
+      "top": 3.5999999999999996,
+      "x1": 254.39999999999998,
+      "bottom": 13.5,
+      "confidence": 93.146362,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 258.59999999999997,
+      "top": 6.6,
+      "x1": 263.99999999999994,
+      "bottom": 12.0,
+      "confidence": 96.744759,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Banker:",
+      "x0": 267.9,
+      "top": 3.5999999999999996,
+      "x1": 307.2,
+      "bottom": 12.0,
+      "confidence": 96.071075,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 125.39999999999999,
+      "top": 19.8,
+      "x1": 139.2,
+      "bottom": 29.700000000000003,
+      "confidence": 94.151245,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Has",
+      "x0": 148.5,
+      "top": 20.099999999999998,
+      "x1": 168.0,
+      "bottom": 28.199999999999996,
+      "confidence": 91.538338,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "a",
+      "x0": 169.2,
+      "top": 18.599999999999998,
+      "x1": 174.6,
+      "bottom": 31.199999999999996,
+      "confidence": 91.538338,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "right",
+      "x0": 180.9,
+      "top": 19.8,
+      "x1": 205.5,
+      "bottom": 30.0,
+      "confidence": 94.591362,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "to",
+      "x0": 209.1,
+      "top": 20.7,
+      "x1": 218.4,
+      "bottom": 28.2,
+      "confidence": 96.90213,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "a",
+      "x0": 222.29999999999998,
+      "top": 22.8,
+      "x1": 227.39999999999998,
+      "bottom": 28.2,
+      "confidence": 96.287552,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "particular",
+      "x0": 231.29999999999998,
+      "top": 19.8,
+      "x1": 281.7,
+      "bottom": 30.0,
+      "confidence": 95.41983,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "lien",
+      "x0": 285.3,
+      "top": 19.8,
+      "x1": 303.90000000000003,
+      "bottom": 28.200000000000003,
+      "confidence": 96.740753,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "on",
+      "x0": 307.5,
+      "top": 22.8,
+      "x1": 319.2,
+      "bottom": 28.2,
+      "confidence": 96.403923,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "fixed",
+      "x0": 322.8,
+      "top": 19.8,
+      "x1": 347.40000000000003,
+      "bottom": 28.200000000000003,
+      "confidence": 96.216759,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "deposits",
+      "x0": 351.0,
+      "top": 19.8,
+      "x1": 391.5,
+      "bottom": 30.0,
+      "confidence": 96.848495,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(B)",
+      "x0": 125.39999999999999,
+      "top": 35.699999999999996,
+      "x1": 139.2,
+      "bottom": 45.599999999999994,
+      "confidence": 92.514503,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Has",
+      "x0": 148.5,
+      "top": 36.0,
+      "x1": 168.0,
+      "bottom": 44.1,
+      "confidence": 90.454437,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "a",
+      "x0": 169.2,
+      "top": 34.5,
+      "x1": 174.6,
+      "bottom": 47.1,
+      "confidence": 90.454437,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "right",
+      "x0": 180.9,
+      "top": 35.699999999999996,
+      "x1": 205.5,
+      "bottom": 45.89999999999999,
+      "confidence": 93.349907,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "to",
+      "x0": 209.1,
+      "top": 36.6,
+      "x1": 218.4,
+      "bottom": 44.1,
+      "confidence": 96.011368,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "a",
+      "x0": 222.29999999999998,
+      "top": 38.699999999999996,
+      "x1": 227.39999999999998,
+      "bottom": 44.099999999999994,
+      "confidence": 96.177704,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "general",
+      "x0": 231.29999999999998,
+      "top": 35.699999999999996,
+      "x1": 268.79999999999995,
+      "bottom": 45.89999999999999,
+      "confidence": 96.080383,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "lien",
+      "x0": 272.4,
+      "top": 35.699999999999996,
+      "x1": 291.0,
+      "bottom": 44.099999999999994,
+      "confidence": 96.080383,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "on",
+      "x0": 294.59999999999997,
+      "top": 38.699999999999996,
+      "x1": 306.29999999999995,
+      "bottom": 44.099999999999994,
+      "confidence": 96.216446,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "fixed",
+      "x0": 309.59999999999997,
+      "top": 35.699999999999996,
+      "x1": 334.2,
+      "bottom": 44.099999999999994,
+      "confidence": 96.268639,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "deposits",
+      "x0": 338.09999999999997,
+      "top": 35.699999999999996,
+      "x1": 378.59999999999997,
+      "bottom": 45.89999999999999,
+      "confidence": 96.454239,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(C)",
+      "x0": 125.39999999999999,
+      "top": 51.6,
+      "x1": 139.2,
+      "bottom": 61.5,
+      "confidence": 92.90419,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Has",
+      "x0": 148.5,
+      "top": 51.9,
+      "x1": 168.0,
+      "bottom": 60.0,
+      "confidence": 91.07843,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "a",
+      "x0": 170.4,
+      "top": 50.4,
+      "x1": 174.6,
+      "bottom": 63.0,
+      "confidence": 91.07843,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "right",
+      "x0": 180.9,
+      "top": 51.6,
+      "x1": 205.5,
+      "bottom": 61.8,
+      "confidence": 92.996811,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "to",
+      "x0": 209.1,
+      "top": 52.5,
+      "x1": 218.4,
+      "bottom": 60.0,
+      "confidence": 96.601562,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "a",
+      "x0": 222.29999999999998,
+      "top": 54.6,
+      "x1": 227.39999999999998,
+      "bottom": 60.0,
+      "confidence": 96.469063,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "general",
+      "x0": 231.29999999999998,
+      "top": 51.6,
+      "x1": 268.79999999999995,
+      "bottom": 61.8,
+      "confidence": 96.469063,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "lien",
+      "x0": 272.4,
+      "top": 51.6,
+      "x1": 291.0,
+      "bottom": 60.0,
+      "confidence": 96.192276,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "on",
+      "x0": 294.59999999999997,
+      "top": 54.6,
+      "x1": 306.29999999999995,
+      "bottom": 60.0,
+      "confidence": 96.627747,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "savings",
+      "x0": 310.2,
+      "top": 51.9,
+      "x1": 347.4,
+      "bottom": 61.8,
+      "confidence": 96.741791,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "account",
+      "x0": 351.3,
+      "top": 52.8,
+      "x1": 389.7,
+      "bottom": 60.0,
+      "confidence": 96.592239,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(D)",
+      "x0": 124.8,
+      "top": 67.8,
+      "x1": 139.2,
+      "bottom": 77.7,
+      "confidence": 92.069473,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Has",
+      "x0": 148.5,
+      "top": 68.1,
+      "x1": 168.0,
+      "bottom": 76.19999999999999,
+      "confidence": 96.872391,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "no",
+      "x0": 171.6,
+      "top": 70.8,
+      "x1": 183.29999999999998,
+      "bottom": 76.2,
+      "confidence": 96.218887,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "right",
+      "x0": 186.9,
+      "top": 67.8,
+      "x1": 211.8,
+      "bottom": 78.0,
+      "confidence": 96.540497,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "to",
+      "x0": 215.1,
+      "top": 69.0,
+      "x1": 224.4,
+      "bottom": 76.2,
+      "confidence": 95.703514,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "a",
+      "x0": 228.29999999999998,
+      "top": 70.8,
+      "x1": 233.7,
+      "bottom": 76.2,
+      "confidence": 95.703514,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "lien",
+      "x0": 237.29999999999998,
+      "top": 67.8,
+      "x1": 255.89999999999998,
+      "bottom": 76.2,
+      "confidence": 96.469803,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "on",
+      "x0": 259.5,
+      "top": 70.8,
+      "x1": 271.2,
+      "bottom": 76.2,
+      "confidence": 95.098465,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "a",
+      "x0": 275.09999999999997,
+      "top": 70.8,
+      "x1": 280.2,
+      "bottom": 76.2,
+      "confidence": 95.098465,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "savings",
+      "x0": 284.09999999999997,
+      "top": 68.1,
+      "x1": 321.59999999999997,
+      "bottom": 78.0,
+      "confidence": 96.369202,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "account",
+      "x0": 325.5,
+      "top": 68.7,
+      "x1": 363.9,
+      "bottom": 76.2,
+      "confidence": 96.703278,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "or",
+      "x0": 367.5,
+      "top": 70.8,
+      "x1": 377.4,
+      "bottom": 76.2,
+      "confidence": 96.902077,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "fixed",
+      "x0": 380.7,
+      "top": 67.8,
+      "x1": 405.3,
+      "bottom": 76.2,
+      "confidence": 96.339958,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "deposits",
+      "x0": 409.2,
+      "top": 67.8,
+      "x1": 449.7,
+      "bottom": 78.0,
+      "confidence": 96.434448,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

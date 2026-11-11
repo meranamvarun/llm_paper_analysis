@@ -1,0 +1,59 @@
+{
+  "pdf_page": 324,
+  "width": 595.2,
+  "height": 841.68,
+  "method": "tesseract_eng_psm3",
+  "text": "PG/2014 3 (P.T.O.)",
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "PG/2014 3 (P.T.O.)",
+      "bbox": [
+        77.28,
+        722.88,
+        545.52,
+        737.04
+      ]
+    }
+  ],
+  "native_words": [],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ],
+  "ocr_words": [
+    {
+      "text": "PG/2014",
+      "x0": 77.28,
+      "top": 722.88,
+      "x1": 125.75999999999999,
+      "bottom": 732.96,
+      "confidence": 91.216171,
+      "ocr_block": "21",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "3",
+      "x0": 309.59999999999997,
+      "top": 724.56,
+      "x1": 315.59999999999997,
+      "bottom": 733.4399999999999,
+      "confidence": 96.95681,
+      "ocr_block": "21",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(P.T.O.)",
+      "x0": 505.2,
+      "top": 724.8,
+      "x1": 545.52,
+      "bottom": 737.04,
+      "confidence": 41.790844,
+      "ocr_block": "21",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ]
+}

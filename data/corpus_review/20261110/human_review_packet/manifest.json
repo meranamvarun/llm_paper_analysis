@@ -1,0 +1,24 @@
+{
+  "created_date": "2026-11-10",
+  "status": "ai_proposals_pending_human_review",
+  "source_sha256": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b",
+  "inputs": {
+    "data\\extraction\\runs\\20261110T043421397159Z\\questions.jsonl": "07e8ec9308929f7456588acb6871dcc93e42191253734207fea13f6f24dd3c89",
+    "data\\corpus_review\\20261110\\reparse_v0.1.1_corrected\\questions.jsonl": "8751ee462fb4458c3837f4d9c8c5d018b375a613b655433704ddf2578566eed4",
+    "data\\corpus_review\\20261110\\proposed_id_aliases.jsonl": "e08b675c6392e21bc71b47604e6c8abb7dced6fbd7c10a600e35d54d7ddefd9a",
+    "data\\corpus_review\\20261110\\luna_missing_2024.json": "435ca91596ec8624669a23a04a3c4364b170c3f7716814c08403ee7a5f7b2eab",
+    "data\\corpus_review\\20261110\\page_0023.png": "05d4efb68bf733e8432ad241f8c0d00be5e0f6238bf42112b1dffac8423eb1cf",
+    "data\\corpus_review\\20261110\\page_0133.png": "56cca29bab62a6b448131f314d3c4d8dec20871efd20c3e49df9c405b6ca9d99",
+    "data\\corpus_review\\20261110\\page_0162.png": "2c797f32b6f7a243cb2a79e386c5348ad8124fda0f21e85a6f3178fe9ba81d95",
+    "data\\corpus_review\\20261110\\page_0165.png": "e9f4d3dd972012d52c7af181a8135da5aaf18a78f7d4ff1d38761e65a6ba3ba9",
+    "data\\corpus_review\\20261110\\page_0463.png": "9740b5ea52dc6b68979e186365535a4eb867c0f0e0891a2fdfd2819311c939c6",
+    "data\\corpus_review\\20261110\\page_0464.png": "f7549f6ce5791021d0692dc94b9e7ecdcc202fda81cc3a92ca74ce0094418506",
+    "data\\corpus_review\\20261110\\page_0107.png": "be68de68b37d94794e805ed1deca4094b1b935ebb9412963a35fc1486bacb988"
+  },
+  "outputs": {
+    "items.jsonl": "428576b250c72044dee3eb1e87d0ff0e48d449d0ac23bca7c730285134b9f8ac",
+    "review.html": "860f1ee91426d6b52b594a2783570b08dd2e0c84d7d5d46060f4d47ced8fa189"
+  },
+  "item_count": 6,
+  "ai_labels_promoted": false
+}

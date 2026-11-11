@@ -1,0 +1,811 @@
+{
+  "pdf_page": 456,
+  "crop_top": 470.59,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "12. Which among the following is not true with respect to negotiable instruments?",
+      "bbox": [
+        72.89999999999999,
+        3.9,
+        483.3,
+        14.7
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "A. There must be an unconditional order or promise for payment.",
+      "bbox": [
+        144.29999999999998,
+        35.699999999999996,
+        476.7,
+        46.5
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "B. Acheque cannot be considered a bill of exchange.",
+      "bbox": [
+        144.9,
+        50.1,
+        432.29999999999995,
+        63.6
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "as",
+      "bbox": [
+        330.3,
+        54.0,
+        340.2,
+        60.0
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "C. If the time of payment is linked to the death of a person, it is nevertheless a",
+      "bbox": [
+        144.6,
+        66.89999999999999,
+        538.5,
+        77.69999999999999
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "negotiable instrument.",
+      "bbox": [
+        171.9,
+        82.8,
+        282.0,
+        93.3
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "D. It is freely transferable and delivery of the instrument is essential.",
+      "bbox": [
+        144.9,
+        98.1,
+        490.2,
+        108.89999999999999
+      ]
+    }
+  ],
+  "text": "12. Which among the following is not true with respect to negotiable instruments?\nA. There must be an unconditional order or promise for payment.\nB. Acheque cannot be considered a bill of exchange.\nas\nC. If the time of payment is linked to the death of a person, it is nevertheless a\nnegotiable instrument.\nD. It is freely transferable and delivery of the instrument is essential.",
+  "ocr_words": [
+    {
+      "text": "12.",
+      "x0": 72.89999999999999,
+      "top": 4.5,
+      "x1": 86.39999999999999,
+      "bottom": 12.3,
+      "confidence": 72.925163,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Which",
+      "x0": 99.3,
+      "top": 4.2,
+      "x1": 129.3,
+      "bottom": 12.600000000000001,
+      "confidence": 77.39669,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "among",
+      "x0": 133.5,
+      "top": 6.6,
+      "x1": 166.2,
+      "bottom": 14.7,
+      "confidence": 96.921585,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 169.2,
+      "top": 4.2,
+      "x1": 184.79999999999998,
+      "bottom": 12.600000000000001,
+      "confidence": 96.647133,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 188.4,
+      "top": 3.9,
+      "x1": 232.8,
+      "bottom": 14.7,
+      "confidence": 96.565079,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 236.7,
+      "top": 4.5,
+      "x1": 242.7,
+      "bottom": 12.6,
+      "confidence": 95.987602,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "not",
+      "x0": 246.89999999999998,
+      "top": 5.1,
+      "x1": 262.5,
+      "bottom": 12.6,
+      "confidence": 96.972015,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "true",
+      "x0": 265.5,
+      "top": 5.1,
+      "x1": 285.3,
+      "bottom": 12.6,
+      "confidence": 96.923309,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "with",
+      "x0": 289.2,
+      "top": 4.2,
+      "x1": 309.59999999999997,
+      "bottom": 12.600000000000001,
+      "confidence": 96.074684,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "respect",
+      "x0": 314.09999999999997,
+      "top": 5.1,
+      "x1": 348.9,
+      "bottom": 14.7,
+      "confidence": 96.756607,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 352.2,
+      "top": 5.1,
+      "x1": 361.8,
+      "bottom": 12.6,
+      "confidence": 96.046188,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "negotiable",
+      "x0": 366.0,
+      "top": 4.2,
+      "x1": 416.4,
+      "bottom": 14.7,
+      "confidence": 96.506287,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "instruments?",
+      "x0": 420.3,
+      "top": 4.2,
+      "x1": 483.3,
+      "bottom": 12.600000000000001,
+      "confidence": 88.590271,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A.",
+      "x0": 144.29999999999998,
+      "top": 36.6,
+      "x1": 152.99999999999997,
+      "bottom": 44.1,
+      "confidence": 90.943451,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "There",
+      "x0": 171.0,
+      "top": 36.0,
+      "x1": 198.6,
+      "bottom": 44.4,
+      "confidence": 38.392372,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "must",
+      "x0": 202.79999999999998,
+      "top": 36.9,
+      "x1": 226.2,
+      "bottom": 44.4,
+      "confidence": 96.435623,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "be",
+      "x0": 230.1,
+      "top": 36.0,
+      "x1": 240.9,
+      "bottom": 44.4,
+      "confidence": 96.207855,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "an",
+      "x0": 244.79999999999998,
+      "top": 38.4,
+      "x1": 255.6,
+      "bottom": 44.4,
+      "confidence": 96.580032,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "unconditional",
+      "x0": 259.8,
+      "top": 36.0,
+      "x1": 325.5,
+      "bottom": 44.4,
+      "confidence": 96.065826,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "order",
+      "x0": 329.4,
+      "top": 36.0,
+      "x1": 355.79999999999995,
+      "bottom": 44.4,
+      "confidence": 96.344795,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "or",
+      "x0": 359.09999999999997,
+      "top": 38.4,
+      "x1": 368.99999999999994,
+      "bottom": 44.4,
+      "confidence": 96.732117,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "promise",
+      "x0": 372.9,
+      "top": 36.3,
+      "x1": 411.0,
+      "bottom": 46.5,
+      "confidence": 95.980644,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "for",
+      "x0": 414.59999999999997,
+      "top": 35.699999999999996,
+      "x1": 428.4,
+      "bottom": 44.39999999999999,
+      "confidence": 96.514511,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "payment.",
+      "x0": 432.0,
+      "top": 36.9,
+      "x1": 476.7,
+      "bottom": 46.5,
+      "confidence": 96.141212,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "B.",
+      "x0": 144.9,
+      "top": 52.199999999999996,
+      "x1": 153.3,
+      "bottom": 59.699999999999996,
+      "confidence": 90.765083,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Acheque",
+      "x0": 171.29999999999998,
+      "top": 51.6,
+      "x1": 216.89999999999998,
+      "bottom": 62.1,
+      "confidence": 81.978149,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "cannot",
+      "x0": 220.5,
+      "top": 52.5,
+      "x1": 254.1,
+      "bottom": 60.0,
+      "confidence": 96.43045,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "be",
+      "x0": 258.0,
+      "top": 51.6,
+      "x1": 269.4,
+      "bottom": 60.0,
+      "confidence": 96.630936,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "considered",
+      "x0": 272.7,
+      "top": 51.6,
+      "x1": 326.4,
+      "bottom": 60.0,
+      "confidence": 96.342148,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "as",
+      "x0": 330.3,
+      "top": 54.0,
+      "x1": 340.2,
+      "bottom": 60.0,
+      "confidence": 96.88282,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "a",
+      "x0": 341.7,
+      "top": 50.1,
+      "x1": 346.2,
+      "bottom": 63.6,
+      "confidence": 96.31604,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "bill",
+      "x0": 352.8,
+      "top": 51.6,
+      "x1": 366.6,
+      "bottom": 60.0,
+      "confidence": 96.31604,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 370.2,
+      "top": 51.3,
+      "x1": 380.4,
+      "bottom": 60.0,
+      "confidence": 96.792946,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "exchange.",
+      "x0": 383.4,
+      "top": 51.6,
+      "x1": 432.29999999999995,
+      "bottom": 62.1,
+      "confidence": 96.303947,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "C.",
+      "x0": 144.6,
+      "top": 67.5,
+      "x1": 152.4,
+      "bottom": 75.6,
+      "confidence": 85.867561,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "If",
+      "x0": 171.9,
+      "top": 66.89999999999999,
+      "x1": 177.9,
+      "bottom": 75.3,
+      "confidence": 40.22319,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "the",
+      "x0": 180.6,
+      "top": 67.2,
+      "x1": 196.2,
+      "bottom": 75.60000000000001,
+      "confidence": 96.185646,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "time",
+      "x0": 199.5,
+      "top": 67.5,
+      "x1": 221.1,
+      "bottom": 75.6,
+      "confidence": 96.968521,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "of",
+      "x0": 225.0,
+      "top": 66.89999999999999,
+      "x1": 234.6,
+      "bottom": 75.6,
+      "confidence": 96.883163,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "payment",
+      "x0": 237.89999999999998,
+      "top": 68.1,
+      "x1": 280.2,
+      "bottom": 77.69999999999999,
+      "confidence": 96.555748,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "is",
+      "x0": 284.09999999999997,
+      "top": 67.5,
+      "x1": 290.09999999999997,
+      "bottom": 75.6,
+      "confidence": 96.811081,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "linked",
+      "x0": 294.3,
+      "top": 67.2,
+      "x1": 321.90000000000003,
+      "bottom": 75.60000000000001,
+      "confidence": 96.354347,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "to",
+      "x0": 325.8,
+      "top": 68.1,
+      "x1": 335.40000000000003,
+      "bottom": 75.6,
+      "confidence": 96.73912,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "the",
+      "x0": 338.7,
+      "top": 67.2,
+      "x1": 354.3,
+      "bottom": 75.60000000000001,
+      "confidence": 96.577438,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "death",
+      "x0": 358.2,
+      "top": 67.2,
+      "x1": 385.2,
+      "bottom": 75.60000000000001,
+      "confidence": 96.384354,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "of",
+      "x0": 389.09999999999997,
+      "top": 66.89999999999999,
+      "x1": 398.7,
+      "bottom": 75.6,
+      "confidence": 96.94944,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "a",
+      "x0": 402.0,
+      "top": 69.6,
+      "x1": 406.2,
+      "bottom": 75.6,
+      "confidence": 96.840721,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "person,",
+      "x0": 410.7,
+      "top": 69.6,
+      "x1": 445.8,
+      "bottom": 77.69999999999999,
+      "confidence": 96.411575,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "it",
+      "x0": 450.0,
+      "top": 67.5,
+      "x1": 455.7,
+      "bottom": 75.6,
+      "confidence": 96.638474,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "is",
+      "x0": 459.59999999999997,
+      "top": 67.5,
+      "x1": 465.59999999999997,
+      "bottom": 75.6,
+      "confidence": 96.638474,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "nevertheless",
+      "x0": 469.79999999999995,
+      "top": 67.2,
+      "x1": 530.4,
+      "bottom": 75.60000000000001,
+      "confidence": 96.671196,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "a",
+      "x0": 534.3,
+      "top": 69.6,
+      "x1": 538.5,
+      "bottom": 75.6,
+      "confidence": 96.835503,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "negotiable",
+      "x0": 171.9,
+      "top": 82.8,
+      "x1": 222.3,
+      "bottom": 93.3,
+      "confidence": 96.231888,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "instrument.",
+      "x0": 226.5,
+      "top": 83.1,
+      "x1": 282.0,
+      "bottom": 91.19999999999999,
+      "confidence": 96.158806,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "D.",
+      "x0": 144.9,
+      "top": 99.0,
+      "x1": 153.6,
+      "bottom": 106.5,
+      "confidence": 88.63192,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "It",
+      "x0": 171.9,
+      "top": 99.0,
+      "x1": 177.6,
+      "bottom": 106.8,
+      "confidence": 55.054901,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "is",
+      "x0": 181.5,
+      "top": 98.7,
+      "x1": 187.8,
+      "bottom": 106.8,
+      "confidence": 87.370758,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "freely",
+      "x0": 191.1,
+      "top": 98.1,
+      "x1": 218.7,
+      "bottom": 108.89999999999999,
+      "confidence": 96.971878,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "transferable",
+      "x0": 221.7,
+      "top": 98.1,
+      "x1": 280.5,
+      "bottom": 106.8,
+      "confidence": 96.488457,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "and",
+      "x0": 284.4,
+      "top": 98.39999999999999,
+      "x1": 301.2,
+      "bottom": 106.8,
+      "confidence": 96.646065,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "delivery",
+      "x0": 305.4,
+      "top": 98.39999999999999,
+      "x1": 343.5,
+      "bottom": 108.89999999999999,
+      "confidence": 96.75663,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "of",
+      "x0": 346.8,
+      "top": 98.1,
+      "x1": 356.40000000000003,
+      "bottom": 106.8,
+      "confidence": 96.978462,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "the",
+      "x0": 359.09999999999997,
+      "top": 98.39999999999999,
+      "x1": 374.7,
+      "bottom": 106.8,
+      "confidence": 96.557266,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "instrument",
+      "x0": 378.9,
+      "top": 98.7,
+      "x1": 431.7,
+      "bottom": 106.8,
+      "confidence": 96.493599,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "is",
+      "x0": 435.59999999999997,
+      "top": 98.7,
+      "x1": 441.59999999999997,
+      "bottom": 106.8,
+      "confidence": 95.601212,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "essential.",
+      "x0": 445.5,
+      "top": 98.39999999999999,
+      "x1": 490.2,
+      "bottom": 106.8,
+      "confidence": 96.386459,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

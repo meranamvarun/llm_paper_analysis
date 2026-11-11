@@ -1,0 +1,27 @@
+{
+  "requested_model": "gpt-6-luna",
+  "reasoning_effort": "medium",
+  "date": "2026-11-11",
+  "mechanism": "User-requested delegated source-image review in current session; no separate paid API calls",
+  "runtime_snapshot": "not exposed",
+  "token_and_billed_cost": "not exposed",
+  "source_handling": "Local PDF renders and ignored data outputs; no external upload/publishing tool used",
+  "input_batches": [
+    "luna_2016_2018",
+    "luna_2019_2022",
+    "luna_2023_2026"
+  ],
+  "supplement_batches": [
+    "ascii_supplement",
+    "symbol_supplement"
+  ],
+  "raw_outputs": "Per-batch review.jsonl, provenance.json or prompt/provenance.json, and intermediate snapshot ledgers",
+  "parent_qa": "All 93 initially proposed non-symbol word edits inspected on 12 source-image sheets; 13 rejections/uncertainties recorded. Initial glyph mappings and Unicode encoding defects were challenged and revised. Model source_checked is a claim, not independent validation.",
+  "prompt_scope": "Every flag: retain recognized legal terms/names without dictionary auto-correction; read source for malformed tokens/symbols; exact-span proposals only; preserve printed typos; mark uncertainty; save image hashes. Follow-up QA instructions are reflected in saved model snapshots and parent override log. Full conversational prompt text remains in this session transcript.",
+  "limitations": [
+    "AI-to-AI checks do not supply human gold",
+    "Word-frequency absence is not an error",
+    "Residual valid-word/number OCR defects can escape lexical screening",
+    "Coverage/version/rights questions remain unresolved"
+  ]
+}

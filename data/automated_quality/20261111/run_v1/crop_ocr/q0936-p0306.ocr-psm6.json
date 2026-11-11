@@ -1,0 +1,679 @@
+{
+  "pdf_page": 306,
+  "crop_top": 456.42279999999994,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "89. Every person has a right to defend against any offence:",
+      "bbox": [
+        46.8,
+        3.9,
+        422.4,
+        14.100000000000001
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "———_———__",
+      "bbox": [
+        253.2,
+        9.0,
+        319.2,
+        9.6
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(A) | his body only",
+      "bbox": [
+        75.3,
+        18.9,
+        193.5,
+        31.5
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "own",
+      "bbox": [
+        121.5,
+        23.099999999999998,
+        141.9,
+        28.499999999999996
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(B) his own body and the body of his relatives only",
+      "bbox": [
+        75.3,
+        36.3,
+        339.9,
+        46.5
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "(C) his own body and the body of any other person",
+      "bbox": [
+        75.3,
+        52.5,
+        338.40000000000003,
+        62.7
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "(D) he has no right to defend against any offence affecting the human body",
+      "bbox": [
+        75.3,
+        68.7,
+        463.2,
+        78.9
+      ]
+    }
+  ],
+  "text": "89. Every person has a right to defend against any offence:\n———_———__\n(A) | his body only\nown\n(B) his own body and the body of his relatives only\n(C) his own body and the body of any other person\n(D) he has no right to defend against any offence affecting the human body",
+  "ocr_words": [
+    {
+      "text": "89.",
+      "x0": 46.8,
+      "top": 4.5,
+      "x1": 60.599999999999994,
+      "bottom": 12.3,
+      "confidence": 92.704414,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Every",
+      "x0": 75.3,
+      "top": 3.9,
+      "x1": 104.39999999999999,
+      "bottom": 14.1,
+      "confidence": 91.943275,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "person",
+      "x0": 108.0,
+      "top": 6.8999999999999995,
+      "x1": 141.6,
+      "bottom": 14.099999999999998,
+      "confidence": 96.92569,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "has",
+      "x0": 145.2,
+      "top": 3.9,
+      "x1": 162.29999999999998,
+      "bottom": 12.3,
+      "confidence": 93.986404,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 166.2,
+      "top": 6.8999999999999995,
+      "x1": 171.6,
+      "bottom": 12.299999999999999,
+      "confidence": 93.986404,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "right",
+      "x0": 175.2,
+      "top": 3.9,
+      "x1": 200.1,
+      "bottom": 14.1,
+      "confidence": 96.200569,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 203.7,
+      "top": 4.8,
+      "x1": 213.0,
+      "bottom": 12.3,
+      "confidence": 96.698242,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "defend",
+      "x0": 216.9,
+      "top": 3.9,
+      "x1": 250.2,
+      "bottom": 12.3,
+      "confidence": 93.282372,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "———_———__",
+      "x0": 253.2,
+      "top": 9.0,
+      "x1": 319.2,
+      "bottom": 9.6,
+      "confidence": 5.097794,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "against",
+      "x0": 322.8,
+      "top": 4.2,
+      "x1": 359.7,
+      "bottom": 14.100000000000001,
+      "confidence": 96.813759,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "any",
+      "x0": 363.59999999999997,
+      "top": 6.8999999999999995,
+      "x1": 381.9,
+      "bottom": 14.099999999999998,
+      "confidence": 96.472542,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "offence:",
+      "x0": 385.2,
+      "top": 3.9,
+      "x1": 422.4,
+      "bottom": 12.3,
+      "confidence": 96.472542,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 75.3,
+      "top": 20.099999999999998,
+      "x1": 89.1,
+      "bottom": 30.299999999999997,
+      "confidence": 95.570511,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "|",
+      "x0": 96.0,
+      "top": 18.9,
+      "x1": 99.3,
+      "bottom": 31.5,
+      "confidence": 24.317787,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "his",
+      "x0": 102.89999999999999,
+      "top": 20.099999999999998,
+      "x1": 117.6,
+      "bottom": 28.5,
+      "confidence": 89.905167,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "own",
+      "x0": 121.5,
+      "top": 23.099999999999998,
+      "x1": 141.9,
+      "bottom": 28.499999999999996,
+      "confidence": 96.105942,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "body",
+      "x0": 145.2,
+      "top": 20.099999999999998,
+      "x1": 168.89999999999998,
+      "bottom": 30.299999999999997,
+      "confidence": 96.909752,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "only",
+      "x0": 172.2,
+      "top": 20.099999999999998,
+      "x1": 193.5,
+      "bottom": 30.299999999999997,
+      "confidence": 96.299133,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(B)",
+      "x0": 75.3,
+      "top": 36.3,
+      "x1": 89.1,
+      "bottom": 46.5,
+      "confidence": 92.043816,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "his",
+      "x0": 102.89999999999999,
+      "top": 36.3,
+      "x1": 117.6,
+      "bottom": 44.699999999999996,
+      "confidence": 85.961006,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "own",
+      "x0": 121.5,
+      "top": 39.3,
+      "x1": 141.9,
+      "bottom": 44.699999999999996,
+      "confidence": 96.994217,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "body",
+      "x0": 145.2,
+      "top": 36.3,
+      "x1": 168.89999999999998,
+      "bottom": 46.5,
+      "confidence": 96.288673,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "and",
+      "x0": 172.5,
+      "top": 36.3,
+      "x1": 191.1,
+      "bottom": 44.699999999999996,
+      "confidence": 96.288673,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "the",
+      "x0": 194.4,
+      "top": 36.3,
+      "x1": 210.3,
+      "bottom": 44.699999999999996,
+      "confidence": 96.123268,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "body",
+      "x0": 213.9,
+      "top": 36.3,
+      "x1": 237.3,
+      "bottom": 46.5,
+      "confidence": 96.788345,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 240.89999999999998,
+      "top": 36.3,
+      "x1": 250.49999999999997,
+      "bottom": 44.699999999999996,
+      "confidence": 96.846474,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "his",
+      "x0": 252.89999999999998,
+      "top": 36.3,
+      "x1": 267.59999999999997,
+      "bottom": 44.699999999999996,
+      "confidence": 96.62059,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "relatives",
+      "x0": 271.2,
+      "top": 36.3,
+      "x1": 314.7,
+      "bottom": 44.699999999999996,
+      "confidence": 96.674263,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "only",
+      "x0": 318.59999999999997,
+      "top": 36.3,
+      "x1": 339.9,
+      "bottom": 46.5,
+      "confidence": 96.309158,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(C)",
+      "x0": 75.3,
+      "top": 52.5,
+      "x1": 89.1,
+      "bottom": 62.7,
+      "confidence": 90.767387,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "his",
+      "x0": 102.89999999999999,
+      "top": 52.5,
+      "x1": 117.6,
+      "bottom": 60.9,
+      "confidence": 90.1605,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "own",
+      "x0": 121.5,
+      "top": 55.5,
+      "x1": 141.9,
+      "bottom": 60.9,
+      "confidence": 95.415092,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "body",
+      "x0": 145.2,
+      "top": 52.5,
+      "x1": 168.89999999999998,
+      "bottom": 62.7,
+      "confidence": 96.346199,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "and",
+      "x0": 172.5,
+      "top": 52.5,
+      "x1": 191.1,
+      "bottom": 60.9,
+      "confidence": 96.960762,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "the",
+      "x0": 194.4,
+      "top": 52.5,
+      "x1": 210.3,
+      "bottom": 60.9,
+      "confidence": 95.299767,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "body",
+      "x0": 213.9,
+      "top": 52.5,
+      "x1": 237.3,
+      "bottom": 62.7,
+      "confidence": 95.96154,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "of",
+      "x0": 240.89999999999998,
+      "top": 52.5,
+      "x1": 250.49999999999997,
+      "bottom": 60.9,
+      "confidence": 96.828011,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "any",
+      "x0": 253.2,
+      "top": 55.5,
+      "x1": 271.5,
+      "bottom": 62.7,
+      "confidence": 96.335243,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "other",
+      "x0": 274.8,
+      "top": 52.5,
+      "x1": 301.5,
+      "bottom": 60.9,
+      "confidence": 96.917282,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "person",
+      "x0": 304.8,
+      "top": 55.5,
+      "x1": 338.40000000000003,
+      "bottom": 62.7,
+      "confidence": 96.886566,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(D)",
+      "x0": 75.3,
+      "top": 68.7,
+      "x1": 89.69999999999999,
+      "bottom": 78.9,
+      "confidence": 90.745117,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "he",
+      "x0": 102.89999999999999,
+      "top": 68.7,
+      "x1": 114.6,
+      "bottom": 77.10000000000001,
+      "confidence": 87.413994,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "has",
+      "x0": 118.5,
+      "top": 68.7,
+      "x1": 135.6,
+      "bottom": 77.10000000000001,
+      "confidence": 88.536179,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "no",
+      "x0": 139.5,
+      "top": 71.7,
+      "x1": 151.2,
+      "bottom": 77.10000000000001,
+      "confidence": 96.4916,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "right",
+      "x0": 154.5,
+      "top": 68.7,
+      "x1": 179.4,
+      "bottom": 78.9,
+      "confidence": 96.581009,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "to",
+      "x0": 183.0,
+      "top": 69.6,
+      "x1": 192.3,
+      "bottom": 77.1,
+      "confidence": 96.738342,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "defend",
+      "x0": 196.2,
+      "top": 68.7,
+      "x1": 229.2,
+      "bottom": 77.10000000000001,
+      "confidence": 96.494339,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "against",
+      "x0": 233.1,
+      "top": 69.0,
+      "x1": 270.0,
+      "bottom": 78.9,
+      "confidence": 96.168617,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "any",
+      "x0": 273.9,
+      "top": 71.7,
+      "x1": 292.2,
+      "bottom": 78.9,
+      "confidence": 96.039238,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "offence",
+      "x0": 295.5,
+      "top": 68.7,
+      "x1": 330.3,
+      "bottom": 77.10000000000001,
+      "confidence": 96.620354,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "affecting",
+      "x0": 334.2,
+      "top": 68.7,
+      "x1": 378.0,
+      "bottom": 78.9,
+      "confidence": 96.126427,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "the",
+      "x0": 381.0,
+      "top": 68.7,
+      "x1": 396.9,
+      "bottom": 77.10000000000001,
+      "confidence": 96.44339,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "human",
+      "x0": 400.5,
+      "top": 68.7,
+      "x1": 436.5,
+      "bottom": 77.10000000000001,
+      "confidence": 96.53051,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "body",
+      "x0": 439.8,
+      "top": 68.7,
+      "x1": 463.2,
+      "bottom": 78.9,
+      "confidence": 96.034973,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

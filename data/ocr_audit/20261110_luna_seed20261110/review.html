@@ -1,0 +1,1264 @@
+<!doctype html><meta charset="utf-8"><title>Seeded OCR audit</title><style>body{font:16px sans-serif;max-width:1500px;margin:30px auto}section{border-top:2px solid #888;padding-top:20px}.row{display:grid;grid-template-columns:1fr 1fr;gap:20px}img{width:100%}pre{white-space:pre-wrap;overflow-wrap:anywhere}.records{max-height:1100px;overflow:auto}</style><h1>Seeded random OCR comparison</h1><p><strong>Reconciled results:</strong> 8 pages, 14 complete items; one whole-prompt OCR omission and three MCQ option-structure errors within the transcription sample. Initial agent claims have corrections: read <a href="audit_errata.json">audit_errata.json</a> and <a href="reconciled_summary.json">reconciled_summary.json</a>. AI-only audit; no human ground truth.</p><p>Seed 20261110; four native and four OCR body pages. Baseline candidates are unreviewed. Independent model observations are stored separately in comparison.json after the blind stage.</p><section><h2>PDF page 105, year label 2024, native</h2><div class="row"><div><img src="page_0105.png"></div><div class="records"><h3>Baseline extraction</h3><pre>[
+  {
+    &quot;question_id&quot;: &quot;d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0104:l0028:question&quot;,
+    &quot;printed_question_number&quot;: &quot;18&quot;,
+    &quot;pdf_pages&quot;: [
+      104,
+      105
+    ],
+    &quot;stem&quot;: &quot;18. Which of the following statements reflect the correct position of law for promissory estoppel\nagainst Governments?&quot;,
+    &quot;options&quot;: [
+      {
+        &quot;label&quot;: &quot;A&quot;,
+        &quot;raw_label&quot;: &quot;(a)&quot;,
+        &quot;text&quot;: &quot;Government would be held bound by the promise and the promise would be enforceable\nagainst the Government at the instance of the promisee, provided that there is\nconsideration for the promise and the promise is recorded in the form of a formal contract\nas required by article 299 of the Constitution.&quot;
+      },
+      {
+        &quot;label&quot;: &quot;B&quot;,
+        &quot;raw_label&quot;: &quot;(B)&quot;,
+        &quot;text&quot;: &quot;Government would be held bound by the promise and the promise would be enforceable\nagainst the Government at the instance of the promisee, notwithstanding that there is\nno consideration for the promise and the promise is not recorded in the form of a formal\ncontract as required by article 299 of the Constitution.&quot;
+      },
+      {
+        &quot;label&quot;: &quot;C&quot;,
+        &quot;raw_label&quot;: &quot;(C)&quot;,
+        &quot;text&quot;: &quot;Government would be held bound by the promise and the promise would be enforceable\nagainst the Government at the instance of the promisee, provided that there is\nconsideration for the promise, but notwithstanding that the promise is not recorded in\nthe form of a formal contract as required by article 299 of the Constitution.&quot;
+      },
+      {
+        &quot;label&quot;: &quot;D&quot;,
+        &quot;raw_label&quot;: &quot;(d)&quot;,
+        &quot;text&quot;: &quot;Government would be held bound by the promise and the promise would be enforceable\nagainst the Government at the instance of the promisee, notwithstanding that there is\nno consideration for the promise, but provided that the promise is recorded in the form\nof a formal contract as required by article 299 of the Constitution.\n* 8\nPG&quot;
+      }
+    ],
+    &quot;issues&quot;: [
+      &quot;human_review_required&quot;
+    ]
+  },
+  {
+    &quot;question_id&quot;: &quot;d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0105:l0001:question&quot;,
+    &quot;printed_question_number&quot;: &quot;19&quot;,
+    &quot;pdf_pages&quot;: [
+      105
+    ],
+    &quot;stem&quot;: &quot;19. Which of the following statements is accurate in light of the passage?&quot;,
+    &quot;options&quot;: [
+      {
+        &quot;label&quot;: &quot;A&quot;,
+        &quot;raw_label&quot;: &quot;(a)&quot;,
+        &quot;text&quot;: &quot;the doctrine of promissory estoppel stands diluted where the Government claims that\nit is in the public interest to go back on its promise or actions.&quot;
+      },
+      {
+        &quot;label&quot;: &quot;B&quot;,
+        &quot;raw_label&quot;: &quot;(B)&quot;,
+        &quot;text&quot;: &quot;the doctrine of promissory estoppel overrides any purported claims of public interest\nby the Government.&quot;
+      },
+      {
+        &quot;label&quot;: &quot;C&quot;,
+        &quot;raw_label&quot;: &quot;(C)&quot;,
+        &quot;text&quot;: &quot;Permitting a public interest exception is against the interests of justice, equity and good\nconscience as it is a self-serving claim for the Government.&quot;
+      },
+      {
+        &quot;label&quot;: &quot;D&quot;,
+        &quot;raw_label&quot;: &quot;(d)&quot;,
+        &quot;text&quot;: &quot;Both&quot;
+      },
+      {
+        &quot;label&quot;: &quot;B&quot;,
+        &quot;raw_label&quot;: &quot;(B)&quot;,
+        &quot;text&quot;: &quot;and (C).&quot;
+      }
+    ],
+    &quot;issues&quot;: [
+      &quot;human_review_required&quot;,
+      &quot;option_labels_incomplete_or_duplicate&quot;
+    ]
+  },
+  {
+    &quot;question_id&quot;: &quot;d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0105:l0009:question&quot;,
+    &quot;printed_question_number&quot;: &quot;20&quot;,
+    &quot;pdf_pages&quot;: [
+      105
+    ],
+    &quot;stem&quot;: &quot;20. Which of the following statements does not reflect the correct position of law?&quot;,
+    &quot;options&quot;: [
+      {
+        &quot;label&quot;: &quot;A&quot;,
+        &quot;raw_label&quot;: &quot;(a)&quot;,
+        &quot;text&quot;: &quot;Promissory estoppel cannot be invoked so as to defeat the law.&quot;
+      },
+      {
+        &quot;label&quot;: &quot;B&quot;,
+        &quot;raw_label&quot;: &quot;(B)&quot;,
+        &quot;text&quot;: &quot;even if the representation is made by the Government itself, but it goes against the law,\nestoppel can be invoked to defeat the law.&quot;
+      },
+      {
+        &quot;label&quot;: &quot;C&quot;,
+        &quot;raw_label&quot;: &quot;(C)&quot;,
+        &quot;text&quot;: &quot;if all conditions of promissory estoppel are met, a challenge can still be made to the\nvires of the law.&quot;
+      },
+      {
+        &quot;label&quot;: &quot;D&quot;,
+        &quot;raw_label&quot;: &quot;(d)&quot;,
+        &quot;text&quot;: &quot;none of the above.&quot;
+      }
+    ],
+    &quot;issues&quot;: [
+      &quot;human_review_required&quot;
+    ]
+  }
+]</pre></div></div></section><section><h2>PDF page 178, year label 2023, native</h2><div class="row"><div><img src="page_0178.png"></div><div class="records"><h3>Baseline extraction</h3><pre>[
+  {
+    &quot;question_id&quot;: &quot;d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0177:l0035:question&quot;,
+    &quot;printed_question_number&quot;: &quot;33&quot;,
+    &quot;pdf_pages&quot;: [
+      177,
+      178
+    ],
+    &quot;stem&quot;: &quot;33 M\nPG\n“Xii [road transport Contract]. recovery of losses suffered by the Corporation&quot;,
+    &quot;options&quot;: [
+      {
+        &quot;label&quot;: &quot;A&quot;,
+        &quot;raw_label&quot;: &quot;(a)&quot;,
+        &quot;text&quot;: &quot;The Corporation shall be at liberty to reimburse themselves for any damages, losses,\ncharges, costs or expenses suffered or incurred by them, or any amount payable by the\nContractor as Liquidated Damages as provided in Clauses X above….”\ninterpretation of contracts concerns the discernment of the true and correct intention\nof the parties to it. Words and expressions used in the contract are principal tools to\nascertain such intention. While interpreting the words, courts look at the expressions\nfalling for interpretation in the context of other provisions of the contract and also\nin the context of the contract as a whole. these are intrinsic tools for interpreting a\ncontract. As a principle of interpretation, courts do not resort to materials external to\nthe contract for construing the intention of the parties. there are, however, certain\nexceptions to the rule excluding reference or reliance on external sources to interpret\na contract. One such exception is in the case of a latent ambiguity, which cannot be\nresolved without reference to extrinsic evidence. Latent ambiguity exists when words\nin a contract appear to be free from ambiguity; however, when they are sought to be\napplied to a particular context or question, they are amenable to multiple outcomes….”.\nit observed that “….extrinsic evidence, in cases of latent ambiguity, is admissible\nboth to ascertain where necessary, the meaning of the words used, and to identify the\nobjects to which they are to be applied.\nthe Corporation in the present contract has chosen not to include the power to\nrecover demurrages and as such the expression “charges” cannot be interpreted to\ninclude demurrages. demurrage is undoubtedly a charge, however, such a textual\nunderstanding would not help us decipher the true and correct intention of the parties\nto the present contract”. After examining the contract in its entirety, including its nature\nand scope, the Court concluded that the contractors’ liability in the present contract\nwas clearly distinguishable from other contracts entered into by the Corporation in\n2010 and 2018, which included loading and unloading of foodgrains from the railway\nwagons within the scope of contractors’ duties, thereby necessitating the inclusion of\ndemurrages as a penalty for non-performance of contractual duties.\n[extracted from: Food Corporation of India v. Abhijit Paul, (CA 8572-8573/2022).\nJudgment of Justices A.S. bopanna and P.S. Narasimha, 18 November 2022]&quot;
+      }
+    ],
+    &quot;issues&quot;: [
+      &quot;human_review_required&quot;,
+      &quot;option_labels_incomplete_or_duplicate&quot;,
+      &quot;number_sequence_gap_or_reset&quot;
+    ]
+  },
+  {
+    &quot;question_id&quot;: &quot;d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0178:l0032:question&quot;,
+    &quot;printed_question_number&quot;: &quot;91&quot;,
+    &quot;pdf_pages&quot;: [
+      178,
+      179
+    ],
+    &quot;stem&quot;: &quot;91. According to the Court, how was this road transport Contract different from FCi’s\nearlier contracts with transport contractors?&quot;,
+    &quot;options&quot;: [
+      {
+        &quot;label&quot;: &quot;A&quot;,
+        &quot;raw_label&quot;: &quot;(A)&quot;,
+        &quot;text&quot;: &quot;FCi’s earlier contracts had expired&quot;
+      },
+      {
+        &quot;label&quot;: &quot;B&quot;,
+        &quot;raw_label&quot;: &quot;(b)&quot;,
+        &quot;text&quot;: &quot;the present contract did not include loading and unloading of foodgrains from\nthe railway wagons within the scope of contractor’s duties&quot;
+      },
+      {
+        &quot;label&quot;: &quot;C&quot;,
+        &quot;raw_label&quot;: &quot;(C)&quot;,
+        &quot;text&quot;: &quot;earlier contracts were executed by FCi with contractors who were both handlers\nand transporters&quot;
+      },
+      {
+        &quot;label&quot;: &quot;D&quot;,
+        &quot;raw_label&quot;: &quot;(d)&quot;,
+        &quot;text&quot;: &quot;earlier contracts were not validly executed\nM 34\nPG&quot;
+      }
+    ],
+    &quot;issues&quot;: [
+      &quot;human_review_required&quot;,
+      &quot;number_sequence_gap_or_reset&quot;
+    ]
+  }
+]</pre></div></div></section><section><h2>PDF page 305, year label 2019, native</h2><div class="row"><div><img src="page_0305.png"></div><div class="records"><h3>Baseline extraction</h3><pre>[
+  {
+    &quot;question_id&quot;: &quot;d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0305:l0000:question&quot;,
+    &quot;printed_question_number&quot;: &quot;75&quot;,
+    &quot;pdf_pages&quot;: [
+      305
+    ],
+    &quot;stem&quot;: &quot;75. The phrase ‗complete justice‘ is used in:&quot;,
+    &quot;options&quot;: [
+      {
+        &quot;label&quot;: &quot;A&quot;,
+        &quot;raw_label&quot;: &quot;(A)&quot;,
+        &quot;text&quot;: &quot;Article 141&quot;
+      },
+      {
+        &quot;label&quot;: &quot;B&quot;,
+        &quot;raw_label&quot;: &quot;(B)&quot;,
+        &quot;text&quot;: &quot;Article 142&quot;
+      },
+      {
+        &quot;label&quot;: &quot;C&quot;,
+        &quot;raw_label&quot;: &quot;(C)&quot;,
+        &quot;text&quot;: &quot;Article 144&quot;
+      },
+      {
+        &quot;label&quot;: &quot;D&quot;,
+        &quot;raw_label&quot;: &quot;(D)&quot;,
+        &quot;text&quot;: &quot;Article 145&quot;
+      }
+    ],
+    &quot;issues&quot;: [
+      &quot;human_review_required&quot;
+    ]
+  },
+  {
+    &quot;question_id&quot;: &quot;d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0305:l0003:question&quot;,
+    &quot;printed_question_number&quot;: &quot;76&quot;,
+    &quot;pdf_pages&quot;: [
+      305
+    ],
+    &quot;stem&quot;: &quot;76. The maxim actio personalis moritur cum persona means:&quot;,
+    &quot;options&quot;: [
+      {
+        &quot;label&quot;: &quot;A&quot;,
+        &quot;raw_label&quot;: &quot;(A)&quot;,
+        &quot;text&quot;: &quot;Personal action dies with the parties to the cause of action&quot;
+      },
+      {
+        &quot;label&quot;: &quot;B&quot;,
+        &quot;raw_label&quot;: &quot;(B)&quot;,
+        &quot;text&quot;: &quot;An action is not given to him who has received no damages&quot;
+      },
+      {
+        &quot;label&quot;: &quot;C&quot;,
+        &quot;raw_label&quot;: &quot;(C)&quot;,
+        &quot;text&quot;: &quot;No one is responsible for inevitable accidents&quot;
+      },
+      {
+        &quot;label&quot;: &quot;D&quot;,
+        &quot;raw_label&quot;: &quot;(D)&quot;,
+        &quot;text&quot;: &quot;An act done by me against my will, is not my act&quot;
+      }
+    ],
+    &quot;issues&quot;: [
+      &quot;human_review_required&quot;
+    ]
+  },
+  {
+    &quot;question_id&quot;: &quot;d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0305:l0008:question&quot;,
+    &quot;printed_question_number&quot;: &quot;77&quot;,
+    &quot;pdf_pages&quot;: [
+      305
+    ],
+    &quot;stem&quot;: &quot;77. Match the incorrect entries.&quot;,
+    &quot;options&quot;: [
+      {
+        &quot;label&quot;: &quot;A&quot;,
+        &quot;raw_label&quot;: &quot;(A)&quot;,
+        &quot;text&quot;: &quot;Injuria sine damnum Ashby v. White&quot;
+      },
+      {
+        &quot;label&quot;: &quot;B&quot;,
+        &quot;raw_label&quot;: &quot;(B)&quot;,
+        &quot;text&quot;: &quot;Damnum sine injuria Gloucester‘s Case&quot;
+      },
+      {
+        &quot;label&quot;: &quot;C&quot;,
+        &quot;raw_label&quot;: &quot;(C)&quot;,
+        &quot;text&quot;: &quot;Remoteness of Damage Rylands v. Fletcher&quot;
+      },
+      {
+        &quot;label&quot;: &quot;D&quot;,
+        &quot;raw_label&quot;: &quot;(D)&quot;,
+        &quot;text&quot;: &quot;Negligence Donoghue v. Stevenson&quot;
+      }
+    ],
+    &quot;issues&quot;: [
+      &quot;human_review_required&quot;
+    ]
+  },
+  {
+    &quot;question_id&quot;: &quot;d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0305:l0013:question&quot;,
+    &quot;printed_question_number&quot;: &quot;78&quot;,
+    &quot;pdf_pages&quot;: [
+      305
+    ],
+    &quot;stem&quot;: &quot;78. In Rylands v. Fletcher, Justice Blackburn used the term(s):&quot;,
+    &quot;options&quot;: [
+      {
+        &quot;label&quot;: &quot;A&quot;,
+        &quot;raw_label&quot;: &quot;(A)&quot;,
+        &quot;text&quot;: &quot;Strict liability&quot;
+      },
+      {
+        &quot;label&quot;: &quot;B&quot;,
+        &quot;raw_label&quot;: &quot;(B)&quot;,
+        &quot;text&quot;: &quot;Absolute liability&quot;
+      },
+      {
+        &quot;label&quot;: &quot;C&quot;,
+        &quot;raw_label&quot;: &quot;(C)&quot;,
+        &quot;text&quot;: &quot;Strict and absolute liability&quot;
+      },
+      {
+        &quot;label&quot;: &quot;D&quot;,
+        &quot;raw_label&quot;: &quot;(D)&quot;,
+        &quot;text&quot;: &quot;None of the above&quot;
+      }
+    ],
+    &quot;issues&quot;: [
+      &quot;human_review_required&quot;
+    ]
+  },
+  {
+    &quot;question_id&quot;: &quot;d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0305:l0016:question&quot;,
+    &quot;printed_question_number&quot;: &quot;79&quot;,
+    &quot;pdf_pages&quot;: [
+      305
+    ],
+    &quot;stem&quot;: &quot;79. Contributory negligence is a:&quot;,
+    &quot;options&quot;: [
+      {
+        &quot;label&quot;: &quot;A&quot;,
+        &quot;raw_label&quot;: &quot;(A)&quot;,
+        &quot;text&quot;: &quot;Tort&quot;
+      },
+      {
+        &quot;label&quot;: &quot;B&quot;,
+        &quot;raw_label&quot;: &quot;(B)&quot;,
+        &quot;text&quot;: &quot;Crime&quot;
+      },
+      {
+        &quot;label&quot;: &quot;C&quot;,
+        &quot;raw_label&quot;: &quot;(C)&quot;,
+        &quot;text&quot;: &quot;Defence&quot;
+      },
+      {
+        &quot;label&quot;: &quot;D&quot;,
+        &quot;raw_label&quot;: &quot;(D)&quot;,
+        &quot;text&quot;: &quot;Right&quot;
+      }
+    ],
+    &quot;issues&quot;: [
+      &quot;human_review_required&quot;
+    ]
+  },
+  {
+    &quot;question_id&quot;: &quot;d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0305:l0019:question&quot;,
+    &quot;printed_question_number&quot;: &quot;80&quot;,
+    &quot;pdf_pages&quot;: [
+      305
+    ],
+    &quot;stem&quot;: &quot;80. Volenti non fit injuria is a:&quot;,
+    &quot;options&quot;: [
+      {
+        &quot;label&quot;: &quot;A&quot;,
+        &quot;raw_label&quot;: &quot;(A)&quot;,
+        &quot;text&quot;: &quot;General defence&quot;
+      },
+      {
+        &quot;label&quot;: &quot;B&quot;,
+        &quot;raw_label&quot;: &quot;(B)&quot;,
+        &quot;text&quot;: &quot;Particular defence&quot;
+      },
+      {
+        &quot;label&quot;: &quot;C&quot;,
+        &quot;raw_label&quot;: &quot;(C)&quot;,
+        &quot;text&quot;: &quot;Not a defence&quot;
+      },
+      {
+        &quot;label&quot;: &quot;D&quot;,
+        &quot;raw_label&quot;: &quot;(D)&quot;,
+        &quot;text&quot;: &quot;Defence in Tort law&quot;
+      }
+    ],
+    &quot;issues&quot;: [
+      &quot;human_review_required&quot;
+    ]
+  },
+  {
+    &quot;question_id&quot;: &quot;d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0305:l0022:question&quot;,
+    &quot;printed_question_number&quot;: &quot;81&quot;,
+    &quot;pdf_pages&quot;: [
+      305
+    ],
+    &quot;stem&quot;: &quot;81. Test of directness for determining remoteness of damage was laid down in:&quot;,
+    &quot;options&quot;: [
+      {
+        &quot;label&quot;: &quot;A&quot;,
+        &quot;raw_label&quot;: &quot;(A)&quot;,
+        &quot;text&quot;: &quot;Wagon Mound 1&quot;
+      },
+      {
+        &quot;label&quot;: &quot;B&quot;,
+        &quot;raw_label&quot;: &quot;(B)&quot;,
+        &quot;text&quot;: &quot;Wagon Mound 2&quot;
+      },
+      {
+        &quot;label&quot;: &quot;C&quot;,
+        &quot;raw_label&quot;: &quot;(C)&quot;,
+        &quot;text&quot;: &quot;Re Polemis&quot;
+      },
+      {
+        &quot;label&quot;: &quot;D&quot;,
+        &quot;raw_label&quot;: &quot;(D)&quot;,
+        &quot;text&quot;: &quot;Rylands v. Fletcher&quot;
+      }
+    ],
+    &quot;issues&quot;: [
+      &quot;human_review_required&quot;
+    ]
+  },
+  {
+    &quot;question_id&quot;: &quot;d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0305:l0025:question&quot;,
+    &quot;printed_question_number&quot;: &quot;82&quot;,
+    &quot;pdf_pages&quot;: [
+      305
+    ],
+    &quot;stem&quot;: &quot;82. Following is not an essential of tort of negligence&quot;,
+    &quot;options&quot;: [
+      {
+        &quot;label&quot;: &quot;A&quot;,
+        &quot;raw_label&quot;: &quot;(A)&quot;,
+        &quot;text&quot;: &quot;Duty of care on the part of plaintiff&quot;
+      },
+      {
+        &quot;label&quot;: &quot;B&quot;,
+        &quot;raw_label&quot;: &quot;(B)&quot;,
+        &quot;text&quot;: &quot;Duty of care on the part of defendant&quot;
+      },
+      {
+        &quot;label&quot;: &quot;C&quot;,
+        &quot;raw_label&quot;: &quot;(C)&quot;,
+        &quot;text&quot;: &quot;Breach of duty&quot;
+      },
+      {
+        &quot;label&quot;: &quot;D&quot;,
+        &quot;raw_label&quot;: &quot;(D)&quot;,
+        &quot;text&quot;: &quot;Damage to plaintiff&quot;
+      }
+    ],
+    &quot;issues&quot;: [
+      &quot;human_review_required&quot;
+    ]
+  },
+  {
+    &quot;question_id&quot;: &quot;d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0305:l0028:question&quot;,
+    &quot;printed_question_number&quot;: &quot;83&quot;,
+    &quot;pdf_pages&quot;: [
+      305
+    ],
+    &quot;stem&quot;: &quot;83. Defamation is:&quot;,
+    &quot;options&quot;: [
+      {
+        &quot;label&quot;: &quot;A&quot;,
+        &quot;raw_label&quot;: &quot;(A)&quot;,
+        &quot;text&quot;: &quot;Both a tort and crime&quot;
+      },
+      {
+        &quot;label&quot;: &quot;B&quot;,
+        &quot;raw_label&quot;: &quot;(B)&quot;,
+        &quot;text&quot;: &quot;Tort only&quot;
+      },
+      {
+        &quot;label&quot;: &quot;C&quot;,
+        &quot;raw_label&quot;: &quot;(C)&quot;,
+        &quot;text&quot;: &quot;Crime only&quot;
+      },
+      {
+        &quot;label&quot;: &quot;D&quot;,
+        &quot;raw_label&quot;: &quot;(D)&quot;,
+        &quot;text&quot;: &quot;Neither a tort nor a crime\nB PG 2019\n13&quot;
+      }
+    ],
+    &quot;issues&quot;: [
+      &quot;human_review_required&quot;,
+      &quot;short_or_missing_stem&quot;
+    ]
+  }
+]</pre></div></div></section><section><h2>PDF page 449, year label 2018, native</h2><div class="row"><div><img src="page_0449.png"></div><div class="records"><h3>Baseline extraction</h3><pre>[
+  {
+    &quot;question_id&quot;: &quot;d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0448:l0031:question&quot;,
+    &quot;printed_question_number&quot;: &quot;24&quot;,
+    &quot;pdf_pages&quot;: [
+      448,
+      449
+    ],
+    &quot;stem&quot;: &quot;24. Which of the following is an accessory right?&quot;,
+    &quot;options&quot;: [
+      {
+        &quot;label&quot;: &quot;A&quot;,
+        &quot;raw_label&quot;: &quot;A.&quot;,
+        &quot;text&quot;: &quot;Easementary rights&quot;
+      },
+      {
+        &quot;label&quot;: &quot;B&quot;,
+        &quot;raw_label&quot;: &quot;B.&quot;,
+        &quot;text&quot;: &quot;Ownership rights&quot;
+      },
+      {
+        &quot;label&quot;: &quot;C&quot;,
+        &quot;raw_label&quot;: &quot;C.&quot;,
+        &quot;text&quot;: &quot;Right to reputation&quot;
+      },
+      {
+        &quot;label&quot;: &quot;D&quot;,
+        &quot;raw_label&quot;: &quot;D.&quot;,
+        &quot;text&quot;: &quot;Right to personal security&quot;
+      }
+    ],
+    &quot;issues&quot;: [
+      &quot;human_review_required&quot;
+    ]
+  },
+  {
+    &quot;question_id&quot;: &quot;d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0449:l0001:question&quot;,
+    &quot;printed_question_number&quot;: &quot;25&quot;,
+    &quot;pdf_pages&quot;: [
+      449
+    ],
+    &quot;stem&quot;: &quot;25. Ownership of goodwill of a business is&quot;,
+    &quot;options&quot;: [
+      {
+        &quot;label&quot;: &quot;A&quot;,
+        &quot;raw_label&quot;: &quot;A.&quot;,
+        &quot;text&quot;: &quot;Corporeal ownership&quot;
+      },
+      {
+        &quot;label&quot;: &quot;B&quot;,
+        &quot;raw_label&quot;: &quot;B.&quot;,
+        &quot;text&quot;: &quot;Incorporeal ownership&quot;
+      },
+      {
+        &quot;label&quot;: &quot;C&quot;,
+        &quot;raw_label&quot;: &quot;C.&quot;,
+        &quot;text&quot;: &quot;Business ownership&quot;
+      },
+      {
+        &quot;label&quot;: &quot;D&quot;,
+        &quot;raw_label&quot;: &quot;D.&quot;,
+        &quot;text&quot;: &quot;Beneficial ownership&quot;
+      }
+    ],
+    &quot;issues&quot;: [
+      &quot;human_review_required&quot;
+    ]
+  },
+  {
+    &quot;question_id&quot;: &quot;d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0449:l0006:question&quot;,
+    &quot;printed_question_number&quot;: &quot;26&quot;,
+    &quot;pdf_pages&quot;: [
+      449
+    ],
+    &quot;stem&quot;: &quot;26. The law applying to controversies involving non-citizens of Rome was known as&quot;,
+    &quot;options&quot;: [
+      {
+        &quot;label&quot;: &quot;A&quot;,
+        &quot;raw_label&quot;: &quot;A.&quot;,
+        &quot;text&quot;: &quot;Jus civilie&quot;
+      },
+      {
+        &quot;label&quot;: &quot;B&quot;,
+        &quot;raw_label&quot;: &quot;B.&quot;,
+        &quot;text&quot;: &quot;Jus gentium&quot;
+      },
+      {
+        &quot;label&quot;: &quot;C&quot;,
+        &quot;raw_label&quot;: &quot;C.&quot;,
+        &quot;text&quot;: &quot;Nicomachean ethics&quot;
+      },
+      {
+        &quot;label&quot;: &quot;D&quot;,
+        &quot;raw_label&quot;: &quot;D.&quot;,
+        &quot;text&quot;: &quot;Corpus civilie&quot;
+      }
+    ],
+    &quot;issues&quot;: [
+      &quot;human_review_required&quot;
+    ]
+  },
+  {
+    &quot;question_id&quot;: &quot;d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0449:l0011:question&quot;,
+    &quot;printed_question_number&quot;: &quot;27&quot;,
+    &quot;pdf_pages&quot;: [
+      449
+    ],
+    &quot;stem&quot;: &quot;27. Which one of the following philosophers conceived justice as ‘some sort of equality’ and\ndivided the concept of justice as ‘corrective justice’ and ‘distributive justice’?&quot;,
+    &quot;options&quot;: [
+      {
+        &quot;label&quot;: &quot;A&quot;,
+        &quot;raw_label&quot;: &quot;A.&quot;,
+        &quot;text&quot;: &quot;Aristotle&quot;
+      },
+      {
+        &quot;label&quot;: &quot;B&quot;,
+        &quot;raw_label&quot;: &quot;B.&quot;,
+        &quot;text&quot;: &quot;Rawls&quot;
+      },
+      {
+        &quot;label&quot;: &quot;C&quot;,
+        &quot;raw_label&quot;: &quot;C.&quot;,
+        &quot;text&quot;: &quot;Robert Nozick&quot;
+      },
+      {
+        &quot;label&quot;: &quot;D&quot;,
+        &quot;raw_label&quot;: &quot;D.&quot;,
+        &quot;text&quot;: &quot;Ronald Dworkin&quot;
+      }
+    ],
+    &quot;issues&quot;: [
+      &quot;human_review_required&quot;
+    ]
+  },
+  {
+    &quot;question_id&quot;: &quot;d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0449:l0017:question&quot;,
+    &quot;printed_question_number&quot;: &quot;28&quot;,
+    &quot;pdf_pages&quot;: [
+      449
+    ],
+    &quot;stem&quot;: &quot;28. “Sociology of law must begin with the ascertainment of the living law, the concrete which\ncan be observed and not the abstract”. Who said so?&quot;,
+    &quot;options&quot;: [
+      {
+        &quot;label&quot;: &quot;A&quot;,
+        &quot;raw_label&quot;: &quot;A.&quot;,
+        &quot;text&quot;: &quot;Duguit&quot;
+      },
+      {
+        &quot;label&quot;: &quot;B&quot;,
+        &quot;raw_label&quot;: &quot;B.&quot;,
+        &quot;text&quot;: &quot;Ihering&quot;
+      },
+      {
+        &quot;label&quot;: &quot;C&quot;,
+        &quot;raw_label&quot;: &quot;C.&quot;,
+        &quot;text&quot;: &quot;Ehrlich&quot;
+      },
+      {
+        &quot;label&quot;: &quot;D&quot;,
+        &quot;raw_label&quot;: &quot;D.&quot;,
+        &quot;text&quot;: &quot;Durkheim&quot;
+      }
+    ],
+    &quot;issues&quot;: [
+      &quot;human_review_required&quot;
+    ]
+  },
+  {
+    &quot;question_id&quot;: &quot;d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0449:l0023:question&quot;,
+    &quot;printed_question_number&quot;: &quot;29&quot;,
+    &quot;pdf_pages&quot;: [
+      449
+    ],
+    &quot;stem&quot;: &quot;29. Who said that, “The law of nature or natural law is the general will of the people who come\ntogether to form an association called State”?&quot;,
+    &quot;options&quot;: [
+      {
+        &quot;label&quot;: &quot;A&quot;,
+        &quot;raw_label&quot;: &quot;A.&quot;,
+        &quot;text&quot;: &quot;Hobbes&quot;
+      },
+      {
+        &quot;label&quot;: &quot;B&quot;,
+        &quot;raw_label&quot;: &quot;B.&quot;,
+        &quot;text&quot;: &quot;Locke&quot;
+      },
+      {
+        &quot;label&quot;: &quot;C&quot;,
+        &quot;raw_label&quot;: &quot;C.&quot;,
+        &quot;text&quot;: &quot;Rousseau&quot;
+      },
+      {
+        &quot;label&quot;: &quot;D&quot;,
+        &quot;raw_label&quot;: &quot;D.&quot;,
+        &quot;text&quot;: &quot;Kant&quot;
+      }
+    ],
+    &quot;issues&quot;: [
+      &quot;human_review_required&quot;
+    ]
+  },
+  {
+    &quot;question_id&quot;: &quot;d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0449:l0029:question&quot;,
+    &quot;printed_question_number&quot;: &quot;30&quot;,
+    &quot;pdf_pages&quot;: [
+      449,
+      450
+    ],
+    &quot;stem&quot;: &quot;30. Which one of the following conceived ‘integrative jurisprudence’ as combined jurisprudence\nof positivist, naturalist and sociological descriptions and an understanding of the value\ncomponents of legal ordering?&quot;,
+    &quot;options&quot;: [
+      {
+        &quot;label&quot;: &quot;A&quot;,
+        &quot;raw_label&quot;: &quot;A.&quot;,
+        &quot;text&quot;: &quot;Jerome Hall&quot;
+      },
+      {
+        &quot;label&quot;: &quot;B&quot;,
+        &quot;raw_label&quot;: &quot;B.&quot;,
+        &quot;text&quot;: &quot;John Finnis&quot;
+      },
+      {
+        &quot;label&quot;: &quot;C&quot;,
+        &quot;raw_label&quot;: &quot;C.&quot;,
+        &quot;text&quot;: &quot;Clarence Morris&quot;
+      },
+      {
+        &quot;label&quot;: &quot;D&quot;,
+        &quot;raw_label&quot;: &quot;D.&quot;,
+        &quot;text&quot;: &quot;Leon Duguit&quot;
+      }
+    ],
+    &quot;issues&quot;: [
+      &quot;human_review_required&quot;
+    ]
+  }
+]</pre></div></div></section><section><h2>PDF page 330, year label 2014, ocr</h2><div class="row"><div><img src="page_0330.png"></div><div class="records"><h3>Baseline extraction</h3><pre>[
+  {
+    &quot;question_id&quot;: &quot;d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0326:l0000:question&quot;,
+    &quot;printed_question_number&quot;: &quot;2&quot;,
+    &quot;pdf_pages&quot;: [
+      326,
+      327,
+      328,
+      329,
+      330,
+      331,
+      332,
+      333
+    ],
+    &quot;stem&quot;: &quot;2) Elucidating the evolution of the concept of ‘judicial review’, discuss whether this feature\nhas elevated the Indian Constitution and made it sublime constitution. Explicate with\na\nthe help of relevant laws.\ncase\nPG/2014 5 (P.T.0.)\nPG/2014\nPG/2014 7 @®.T.0.)\nPG/2014 8\nPG/2014 9 (P.T.0.)\nPG/2014 10\nPG/2014 it (P.T.0.)\nbundle of rights’. Elucidate the concept of ownership. How is it different&quot;,
+    &quot;options&quot;: [],
+    &quot;issues&quot;: [
+      &quot;human_review_required&quot;,
+      &quot;source_page_issue&quot;
+    ]
+  }
+]</pre></div></div></section><section><h2>PDF page 339, year label 2015, ocr</h2><div class="row"><div><img src="page_0339.png"></div><div class="records"><h3>Baseline extraction</h3><pre>[
+  {
+    &quot;question_id&quot;: &quot;d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0339:l0001:question&quot;,
+    &quot;printed_question_number&quot;: &quot;2&quot;,
+    &quot;pdf_pages&quot;: [
+      339
+    ],
+    &quot;stem&quot;: &quot;Which one of the following writers has divided Jurisprudence into Particular Jurisprudence and General\nJurisprudence:&quot;,
+    &quot;options&quot;: [
+      {
+        &quot;label&quot;: &quot;A&quot;,
+        &quot;raw_label&quot;: &quot;1.&quot;,
+        &quot;text&quot;: &quot;(Ay: Austin&quot;
+      },
+      {
+        &quot;label&quot;: &quot;B&quot;,
+        &quot;raw_label&quot;: &quot;2,&quot;,
+        &quot;text&quot;: &quot;* (B): Bentham&quot;
+      },
+      {
+        &quot;label&quot;: &quot;C&quot;,
+        &quot;raw_label&quot;: &quot;3.&quot;,
+        &quot;text&quot;: &quot;* (C): Holland&quot;
+      },
+      {
+        &quot;label&quot;: &quot;D&quot;,
+        &quot;raw_label&quot;: &quot;4,&quot;,
+        &quot;text&quot;: &quot;® (D): Salmond&quot;
+      }
+    ],
+    &quot;issues&quot;: [
+      &quot;human_review_required&quot;,
+      &quot;source_page_issue&quot;
+    ]
+  },
+  {
+    &quot;question_id&quot;: &quot;d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0339:l0010:question&quot;,
+    &quot;printed_question_number&quot;: &quot;3&quot;,
+    &quot;pdf_pages&quot;: [
+      339
+    ],
+    &quot;stem&quot;: &quot;4A Comparative method of study in law was introduced by:&quot;,
+    &quot;options&quot;: [
+      {
+        &quot;label&quot;: &quot;A&quot;,
+        &quot;raw_label&quot;: &quot;1.&quot;,
+        &quot;text&quot;: &quot;* (Ay Savigny&quot;
+      },
+      {
+        &quot;label&quot;: &quot;B&quot;,
+        &quot;raw_label&quot;: &quot;2,&quot;,
+        &quot;text&quot;: &quot;¥ (B): Maine&quot;
+      },
+      {
+        &quot;label&quot;: &quot;C&quot;,
+        &quot;raw_label&quot;: &quot;3.&quot;,
+        &quot;text&quot;: &quot;® (C): Hart&quot;
+      },
+      {
+        &quot;label&quot;: &quot;D&quot;,
+        &quot;raw_label&quot;: &quot;4.&quot;,
+        &quot;text&quot;: &quot;*® (D): Kelsen&quot;
+      }
+    ],
+    &quot;issues&quot;: [
+      &quot;human_review_required&quot;,
+      &quot;source_page_issue&quot;
+    ]
+  },
+  {
+    &quot;question_id&quot;: &quot;d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0339:l0018:question&quot;,
+    &quot;printed_question_number&quot;: &quot;4&quot;,
+    &quot;pdf_pages&quot;: [
+      339
+    ],
+    &quot;stem&quot;: &quot;Who said “Jurisprudence is the eye of law’?&quot;,
+    &quot;options&quot;: [
+      {
+        &quot;label&quot;: &quot;A&quot;,
+        &quot;raw_label&quot;: &quot;1.&quot;,
+        &quot;text&quot;: &quot;* (A): Maine&quot;
+      },
+      {
+        &quot;label&quot;: &quot;B&quot;,
+        &quot;raw_label&quot;: &quot;2.&quot;,
+        &quot;text&quot;: &quot;* (By: Savigny&quot;
+      },
+      {
+        &quot;label&quot;: &quot;C&quot;,
+        &quot;raw_label&quot;: &quot;3.&quot;,
+        &quot;text&quot;: &quot;* (C): Pound&quot;
+      },
+      {
+        &quot;label&quot;: &quot;D&quot;,
+        &quot;raw_label&quot;: &quot;4.&quot;,
+        &quot;text&quot;: &quot;¥ (D): Laski&quot;
+      }
+    ],
+    &quot;issues&quot;: [
+      &quot;human_review_required&quot;,
+      &quot;source_page_issue&quot;
+    ]
+  },
+  {
+    &quot;question_id&quot;: &quot;d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0339:l0026:question&quot;,
+    &quot;printed_question_number&quot;: &quot;5&quot;,
+    &quot;pdf_pages&quot;: [
+      339
+    ],
+    &quot;stem&quot;: &quot;In the dark ages, natural law was given a new interpretation by:&quot;,
+    &quot;options&quot;: [
+      {
+        &quot;label&quot;: &quot;A&quot;,
+        &quot;raw_label&quot;: &quot;1.&quot;,
+        &quot;text&quot;: &quot;¥ (A): St. Augustine&quot;
+      },
+      {
+        &quot;label&quot;: &quot;B&quot;,
+        &quot;raw_label&quot;: &quot;2.&quot;,
+        &quot;text&quot;: &quot;® (B}: Thomas Acquinas&quot;
+      },
+      {
+        &quot;label&quot;: &quot;C&quot;,
+        &quot;raw_label&quot;: &quot;3.&quot;,
+        &quot;text&quot;: &quot;® (C}: Paul&quot;
+      },
+      {
+        &quot;label&quot;: &quot;D&quot;,
+        &quot;raw_label&quot;: &quot;4.&quot;,
+        &quot;text&quot;: &quot;* (D)}: Ulpion&quot;
+      }
+    ],
+    &quot;issues&quot;: [
+      &quot;human_review_required&quot;,
+      &quot;source_page_issue&quot;
+    ]
+  },
+  {
+    &quot;question_id&quot;: &quot;d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0339:l0034:question&quot;,
+    &quot;printed_question_number&quot;: &quot;6&quot;,
+    &quot;pdf_pages&quot;: [
+      339
+    ],
+    &quot;stem&quot;: &quot;Who propounded the concept of Grundnorm?&quot;,
+    &quot;options&quot;: [
+      {
+        &quot;label&quot;: &quot;A&quot;,
+        &quot;raw_label&quot;: &quot;1.&quot;,
+        &quot;text&quot;: &quot;® (4): Roscoe Pound&quot;
+      }
+    ],
+    &quot;issues&quot;: [
+      &quot;human_review_required&quot;,
+      &quot;option_labels_incomplete_or_duplicate&quot;,
+      &quot;source_page_issue&quot;
+    ]
+  },
+  {
+    &quot;question_id&quot;: &quot;d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0339:l0042:question&quot;,
+    &quot;printed_question_number&quot;: &quot;7&quot;,
+    &quot;pdf_pages&quot;: [
+      339,
+      340
+    ],
+    &quot;stem&quot;: &quot;Out of the following jurists, whose theory of law has earned the name of “natural law with a variable content’?&quot;,
+    &quot;options&quot;: [
+      {
+        &quot;label&quot;: &quot;A&quot;,
+        &quot;raw_label&quot;: &quot;1.&quot;,
+        &quot;text&quot;: &quot;* (A): St. T. Acquinas&quot;
+      },
+      {
+        &quot;label&quot;: &quot;B&quot;,
+        &quot;raw_label&quot;: &quot;2,&quot;,
+        &quot;text&quot;: &quot;® (B): John Locke&quot;
+      },
+      {
+        &quot;label&quot;: &quot;C&quot;,
+        &quot;raw_label&quot;: &quot;3.&quot;,
+        &quot;text&quot;: &quot;“ (C): R. Starmmier&quot;
+      },
+      {
+        &quot;label&quot;: &quot;D&quot;,
+        &quot;raw_label&quot;: &quot;4.&quot;,
+        &quot;text&quot;: &quot;* (Dy: J]. Rawls&quot;
+      }
+    ],
+    &quot;issues&quot;: [
+      &quot;human_review_required&quot;,
+      &quot;source_page_issue&quot;
+    ]
+  }
+]</pre></div></div></section><section><h2>PDF page 405, year label 2017, ocr</h2><div class="row"><div><img src="page_0405.png"></div><div class="records"><h3>Baseline extraction</h3><pre>[
+  {
+    &quot;question_id&quot;: &quot;d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0405:l0000:question&quot;,
+    &quot;printed_question_number&quot;: &quot;20&quot;,
+    &quot;pdf_pages&quot;: [
+      405
+    ],
+    &quot;stem&quot;: &quot;In which case the Supreme Court of India held that all prostitutes and sex workers also have a right to live with\nhuman dignity under Article 21?&quot;,
+    &quot;options&quot;: [
+      {
+        &quot;label&quot;: &quot;A&quot;,
+        &quot;raw_label&quot;: &quot;1.&quot;,
+        &quot;text&quot;: &quot;* Lata Singh State of U.P., (2006 $C)\n¥.&quot;
+      },
+      {
+        &quot;label&quot;: &quot;B&quot;,
+        &quot;raw_label&quot;: &quot;2,&quot;,
+        &quot;text&quot;: &quot;Budhadey Karmaskar vy. State of W.B., (2011 5C)&quot;
+      },
+      {
+        &quot;label&quot;: &quot;C&quot;,
+        &quot;raw_label&quot;: &quot;3.&quot;,
+        &quot;text&quot;: &quot;® Gian Kaur State of Punjab, (1996 $C)\ny.&quot;
+      },
+      {
+        &quot;label&quot;: &quot;D&quot;,
+        &quot;raw_label&quot;: &quot;4.&quot;,
+        &quot;text&quot;: &quot;® Sabia khan State of UF., (2010 5C)\nv.&quot;
+      }
+    ],
+    &quot;issues&quot;: [
+      &quot;human_review_required&quot;,
+      &quot;source_page_issue&quot;
+    ]
+  },
+  {
+    &quot;question_id&quot;: &quot;d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0405:l0013:question&quot;,
+    &quot;printed_question_number&quot;: &quot;21&quot;,
+    &quot;pdf_pages&quot;: [
+      405
+    ],
+    &quot;stem&quot;: &quot;In State of Maharashtra ¥. Dr. Praful BE. Desai, (#003 $C) the Supreme Court of India held:&quot;,
+    &quot;options&quot;: [
+      {
+        &quot;label&quot;: &quot;A&quot;,
+        &quot;raw_label&quot;: &quot;1.&quot;,
+        &quot;text&quot;: &quot;“ Recording of evidence through Vedio-conferencing long the accused and | his pleader present\nso or are\nwhile recording is as per “procedure established by law’ and hence valid.&quot;
+      },
+      {
+        &quot;label&quot;: &quot;B&quot;,
+        &quot;raw_label&quot;: &quot;2.&quot;,
+        &quot;text&quot;: &quot;® Right to speedy trial is part and parcel of Right to life under Art. 21 of the Constitution&quot;
+      },
+      {
+        &quot;label&quot;: &quot;C&quot;,
+        &quot;raw_label&quot;: &quot;3.&quot;,
+        &quot;text&quot;: &quot;* It is obligatory the employer to cormpute the farnily pension and offer the to the widow\non sarne even\nwithout making a claim on her part.&quot;
+      },
+      {
+        &quot;label&quot;: &quot;D&quot;,
+        &quot;raw_label&quot;: &quot;4.&quot;,
+        &quot;text&quot;: &quot;® Where lawyers boycott strike it is the duty of the court to with court proceedings.\nor are on carry on&quot;
+      }
+    ],
+    &quot;issues&quot;: [
+      &quot;human_review_required&quot;,
+      &quot;source_page_issue&quot;
+    ]
+  },
+  {
+    &quot;question_id&quot;: &quot;d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0405:l0027:question&quot;,
+    &quot;printed_question_number&quot;: &quot;22&quot;,
+    &quot;pdf_pages&quot;: [
+      405
+    ],
+    &quot;stem&quot;: &quot;In which case, the Suprerne Court of India held that there is no justification for permitting only Brahmins to\nCarry out the necessary rites and rituals as priests?&quot;,
+    &quot;options&quot;: [
+      {
+        &quot;label&quot;: &quot;A&quot;,
+        &quot;raw_label&quot;: &quot;1.&quot;,
+        &quot;text&quot;: &quot;* Bhuri Nath Stateof ]&amp;K., (1997 5C)\nv.&quot;
+      },
+      {
+        &quot;label&quot;: &quot;B&quot;,
+        &quot;raw_label&quot;: &quot;2.&quot;,
+        &quot;text&quot;: &quot;® Aruna Roy Union of India, (2002 $C)\ny¥.&quot;
+      },
+      {
+        &quot;label&quot;: &quot;C&quot;,
+        &quot;raw_label&quot;: &quot;3.&quot;,
+        &quot;text&quot;: &quot;® Ismail Faruqui Union of India, (1994 5C)\n¥.&quot;
+      },
+      {
+        &quot;label&quot;: &quot;D&quot;,
+        &quot;raw_label&quot;: &quot;4.&quot;,
+        &quot;text&quot;: &quot;)]. Adithayan y. Travancore Deyvaswom Board, (2002 $C)&quot;
+      }
+    ],
+    &quot;issues&quot;: [
+      &quot;human_review_required&quot;,
+      &quot;source_page_issue&quot;
+    ]
+  },
+  {
+    &quot;question_id&quot;: &quot;d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0405:l0040:question&quot;,
+    &quot;printed_question_number&quot;: &quot;23&quot;,
+    &quot;pdf_pages&quot;: [
+      405
+    ],
+    &quot;stem&quot;: &quot;The case of Markandey Eatju ¥. Lok Sabha, (2017) 2 $CC 384] is related to:&quot;,
+    &quot;options&quot;: [
+      {
+        &quot;label&quot;: &quot;A&quot;,
+        &quot;raw_label&quot;: &quot;1.&quot;,
+        &quot;text&quot;: &quot;@ Freedom of Speech and Parliamentary privileges&quot;
+      },
+      {
+        &quot;label&quot;: &quot;B&quot;,
+        &quot;raw_label&quot;: &quot;2.&quot;,
+        &quot;text&quot;: &quot;® Power of the Parliament to make law&quot;
+      },
+      {
+        &quot;label&quot;: &quot;B&quot;,
+        &quot;raw_label&quot;: &quot;2.&quot;,
+        &quot;text&quot;: &quot;® Hlection of Speaker of Lok Sabha&quot;
+      },
+      {
+        &quot;label&quot;: &quot;D&quot;,
+        &quot;raw_label&quot;: &quot;4.&quot;,
+        &quot;text&quot;: &quot;*® Functioning of Lok Sabha&quot;
+      }
+    ],
+    &quot;issues&quot;: [
+      &quot;human_review_required&quot;,
+      &quot;option_labels_incomplete_or_duplicate&quot;,
+      &quot;source_page_issue&quot;
+    ]
+  },
+  {
+    &quot;question_id&quot;: &quot;d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0405:l0049:question&quot;,
+    &quot;printed_question_number&quot;: &quot;24&quot;,
+    &quot;pdf_pages&quot;: [
+      405
+    ],
+    &quot;stem&quot;: &quot;Part XIII of the Indian Constitution dealing with trade commerce and intercourse appears to drive inspiration\nfrom:&quot;,
+    &quot;options&quot;: [
+      {
+        &quot;label&quot;: &quot;A&quot;,
+        &quot;raw_label&quot;: &quot;1.&quot;,
+        &quot;text&quot;: &quot;“ Australian Constitution&quot;
+      }
+    ],
+    &quot;issues&quot;: [
+      &quot;human_review_required&quot;,
+      &quot;option_labels_incomplete_or_duplicate&quot;,
+      &quot;source_page_issue&quot;
+    ]
+  }
+]</pre></div></div></section><section><h2>PDF page 414, year label 2017, ocr</h2><div class="row"><div><img src="page_0414.png"></div><div class="records"><h3>Baseline extraction</h3><pre>[
+  {
+    &quot;question_id&quot;: &quot;d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0413:l0040:question&quot;,
+    &quot;printed_question_number&quot;: &quot;60&quot;,
+    &quot;pdf_pages&quot;: [
+      413,
+      414
+    ],
+    &quot;stem&quot;: &quot;Who defined ownership as ‘a plenary control over an object’?&quot;,
+    &quot;options&quot;: [
+      {
+        &quot;label&quot;: &quot;A&quot;,
+        &quot;raw_label&quot;: &quot;1.&quot;,
+        &quot;text&quot;: &quot;¥ Holland&quot;
+      },
+      {
+        &quot;label&quot;: &quot;B&quot;,
+        &quot;raw_label&quot;: &quot;2.&quot;,
+        &quot;text&quot;: &quot;* Salmond&quot;
+      },
+      {
+        &quot;label&quot;: &quot;C&quot;,
+        &quot;raw_label&quot;: &quot;3.&quot;,
+        &quot;text&quot;: &quot;* Savigny&quot;
+      },
+      {
+        &quot;label&quot;: &quot;D&quot;,
+        &quot;raw_label&quot;: &quot;4.&quot;,
+        &quot;text&quot;: &quot;* Thering&quot;
+      }
+    ],
+    &quot;issues&quot;: [
+      &quot;human_review_required&quot;,
+      &quot;source_page_issue&quot;
+    ]
+  },
+  {
+    &quot;question_id&quot;: &quot;d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0414:l0004:question&quot;,
+    &quot;printed_question_number&quot;: &quot;61&quot;,
+    &quot;pdf_pages&quot;: [
+      414
+    ],
+    &quot;stem&quot;: &quot;Who classified sources of law into formal and material sources?&quot;,
+    &quot;options&quot;: [
+      {
+        &quot;label&quot;: &quot;A&quot;,
+        &quot;raw_label&quot;: &quot;1.&quot;,
+        &quot;text&quot;: &quot;¥ Salmond&quot;
+      },
+      {
+        &quot;label&quot;: &quot;B&quot;,
+        &quot;raw_label&quot;: &quot;2.&quot;,
+        &quot;text&quot;: &quot;® Allen&quot;
+      },
+      {
+        &quot;label&quot;: &quot;C&quot;,
+        &quot;raw_label&quot;: &quot;3.&quot;,
+        &quot;text&quot;: &quot;® Keeton&quot;
+      }
+    ],
+    &quot;issues&quot;: [
+      &quot;human_review_required&quot;,
+      &quot;option_labels_incomplete_or_duplicate&quot;,
+      &quot;source_page_issue&quot;
+    ]
+  },
+  {
+    &quot;question_id&quot;: &quot;d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0414:l0013:question&quot;,
+    &quot;printed_question_number&quot;: &quot;62&quot;,
+    &quot;pdf_pages&quot;: [
+      414
+    ],
+    &quot;stem&quot;: &quot;Which school of thought opined that customs originate from common consciousness of the people?&quot;,
+    &quot;options&quot;: [
+      {
+        &quot;label&quot;: &quot;A&quot;,
+        &quot;raw_label&quot;: &quot;1.&quot;,
+        &quot;text&quot;: &quot;@ Historical school&quot;
+      },
+      {
+        &quot;label&quot;: &quot;B&quot;,
+        &quot;raw_label&quot;: &quot;2.&quot;,
+        &quot;text&quot;: &quot;® Analytical school&quot;
+      },
+      {
+        &quot;label&quot;: &quot;B&quot;,
+        &quot;raw_label&quot;: &quot;2.&quot;,
+        &quot;text&quot;: &quot;® Sociological school&quot;
+      }
+    ],
+    &quot;issues&quot;: [
+      &quot;human_review_required&quot;,
+      &quot;option_labels_incomplete_or_duplicate&quot;,
+      &quot;source_page_issue&quot;
+    ]
+  },
+  {
+    &quot;question_id&quot;: &quot;d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0414:l0022:question&quot;,
+    &quot;printed_question_number&quot;: &quot;63&quot;,
+    &quot;pdf_pages&quot;: [
+      414
+    ],
+    &quot;stem&quot;: &quot;Who explained customs as ‘one of the main triangles of the laws of England’?&quot;,
+    &quot;options&quot;: [
+      {
+        &quot;label&quot;: &quot;A&quot;,
+        &quot;raw_label&quot;: &quot;1.&quot;,
+        &quot;text&quot;: &quot;*® Dicey&quot;
+      },
+      {
+        &quot;label&quot;: &quot;B&quot;,
+        &quot;raw_label&quot;: &quot;2.&quot;,
+        &quot;text&quot;: &quot;¥ Coke&quot;
+      },
+      {
+        &quot;label&quot;: &quot;C&quot;,
+        &quot;raw_label&quot;: &quot;3.&quot;,
+        &quot;text&quot;: &quot;® Blackstone&quot;
+      }
+    ],
+    &quot;issues&quot;: [
+      &quot;human_review_required&quot;,
+      &quot;option_labels_incomplete_or_duplicate&quot;,
+      &quot;source_page_issue&quot;
+    ]
+  },
+  {
+    &quot;question_id&quot;: &quot;d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0414:l0031:question&quot;,
+    &quot;printed_question_number&quot;: &quot;64&quot;,
+    &quot;pdf_pages&quot;: [
+      414
+    ],
+    &quot;stem&quot;: &quot;Who said that custom is per se law?&quot;,
+    &quot;options&quot;: [
+      {
+        &quot;label&quot;: &quot;A&quot;,
+        &quot;raw_label&quot;: &quot;1.&quot;,
+        &quot;text&quot;: &quot;® Puehta&quot;
+      },
+      {
+        &quot;label&quot;: &quot;B&quot;,
+        &quot;raw_label&quot;: &quot;2.&quot;,
+        &quot;text&quot;: &quot;¥ Savigny&quot;
+      },
+      {
+        &quot;label&quot;: &quot;C&quot;,
+        &quot;raw_label&quot;: &quot;3.&quot;,
+        &quot;text&quot;: &quot;® Coke&quot;
+      },
+      {
+        &quot;label&quot;: &quot;D&quot;,
+        &quot;raw_label&quot;: &quot;4.&quot;,
+        &quot;text&quot;: &quot;® Hart&quot;
+      }
+    ],
+    &quot;issues&quot;: [
+      &quot;human_review_required&quot;,
+      &quot;source_page_issue&quot;
+    ]
+  },
+  {
+    &quot;question_id&quot;: &quot;d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0414:l0040:question&quot;,
+    &quot;printed_question_number&quot;: &quot;65&quot;,
+    &quot;pdf_pages&quot;: [
+      414,
+      415
+    ],
+    &quot;stem&quot;: &quot;Who wrote the book ‘Law of the Constitution’?&quot;,
+    &quot;options&quot;: [
+      {
+        &quot;label&quot;: &quot;A&quot;,
+        &quot;raw_label&quot;: &quot;1.&quot;,
+        &quot;text&quot;: &quot;¥ Dicey&quot;
+      },
+      {
+        &quot;label&quot;: &quot;B&quot;,
+        &quot;raw_label&quot;: &quot;2.&quot;,
+        &quot;text&quot;: &quot;* Maitland&quot;
+      },
+      {
+        &quot;label&quot;: &quot;C&quot;,
+        &quot;raw_label&quot;: &quot;3.&quot;,
+        &quot;text&quot;: &quot;® Salmond&quot;
+      },
+      {
+        &quot;label&quot;: &quot;D&quot;,
+        &quot;raw_label&quot;: &quot;4.&quot;,
+        &quot;text&quot;: &quot;* Gray&quot;
+      }
+    ],
+    &quot;issues&quot;: [
+      &quot;human_review_required&quot;,
+      &quot;source_page_issue&quot;
+    ]
+  }
+]</pre></div></div></section>

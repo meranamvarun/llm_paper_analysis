@@ -1,0 +1,252 @@
+{
+  "pdf_page": 457,
+  "crop_top": 379.73,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "16. A foreigner can acquire Indian citizenship through",
+      "bbox": [
+        72.89999999999999,
+        3.9,
+        331.8,
+        14.7
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "A. — Registration.",
+      "bbox": [
+        144.29999999999998,
+        32.4,
+        232.2,
+        45.3
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "B. _Naturalisation.",
+      "bbox": [
+        144.9,
+        54.0,
+        244.5,
+        62.4
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "C. Birth.",
+      "bbox": [
+        144.6,
+        74.7,
+        197.1,
+        83.10000000000001
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "D. Descent.",
+      "bbox": [
+        144.9,
+        96.0,
+        212.7,
+        103.8
+      ]
+    }
+  ],
+  "text": "16. A foreigner can acquire Indian citizenship through\nA. — Registration.\nB. _Naturalisation.\nC. Birth.\nD. Descent.",
+  "ocr_words": [
+    {
+      "text": "16.",
+      "x0": 72.89999999999999,
+      "top": 4.5,
+      "x1": 86.39999999999999,
+      "bottom": 12.6,
+      "confidence": 96.68734,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A",
+      "x0": 90.3,
+      "top": 4.8,
+      "x1": 96.6,
+      "bottom": 12.3,
+      "confidence": 96.774109,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "foreigner",
+      "x0": 99.89999999999999,
+      "top": 3.9,
+      "x1": 144.6,
+      "bottom": 14.7,
+      "confidence": 96.273987,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "can",
+      "x0": 147.9,
+      "top": 6.6,
+      "x1": 163.8,
+      "bottom": 12.6,
+      "confidence": 96.714775,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "acquire",
+      "x0": 167.7,
+      "top": 4.5,
+      "x1": 202.79999999999998,
+      "bottom": 14.7,
+      "confidence": 96.439529,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Indian",
+      "x0": 207.29999999999998,
+      "top": 4.2,
+      "x1": 235.79999999999998,
+      "bottom": 12.600000000000001,
+      "confidence": 94.945419,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "citizenship",
+      "x0": 239.7,
+      "top": 4.2,
+      "x1": 290.4,
+      "bottom": 14.7,
+      "confidence": 96.723038,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "through",
+      "x0": 293.7,
+      "top": 4.2,
+      "x1": 331.8,
+      "bottom": 14.7,
+      "confidence": 96.434601,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A.",
+      "x0": 144.29999999999998,
+      "top": 33.9,
+      "x1": 152.99999999999997,
+      "bottom": 41.4,
+      "confidence": 82.053024,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "—",
+      "x0": 162.29999999999998,
+      "top": 32.4,
+      "x1": 165.89999999999998,
+      "bottom": 45.3,
+      "confidence": 0.0,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Registration.",
+      "x0": 171.9,
+      "top": 33.6,
+      "x1": 232.2,
+      "bottom": 43.8,
+      "confidence": 95.869614,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "B.",
+      "x0": 144.9,
+      "top": 54.6,
+      "x1": 152.70000000000002,
+      "bottom": 62.1,
+      "confidence": 85.793312,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "_Naturalisation.",
+      "x0": 171.9,
+      "top": 54.0,
+      "x1": 244.5,
+      "bottom": 62.4,
+      "confidence": 20.733589,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "C.",
+      "x0": 144.6,
+      "top": 75.0,
+      "x1": 152.4,
+      "bottom": 83.1,
+      "confidence": 87.878181,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Birth.",
+      "x0": 171.9,
+      "top": 74.7,
+      "x1": 197.1,
+      "bottom": 83.10000000000001,
+      "confidence": 33.873573,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "D.",
+      "x0": 144.9,
+      "top": 96.0,
+      "x1": 153.6,
+      "bottom": 103.5,
+      "confidence": 92.734077,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Descent.",
+      "x0": 171.9,
+      "top": 96.0,
+      "x1": 212.7,
+      "bottom": 103.8,
+      "confidence": 74.413803,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

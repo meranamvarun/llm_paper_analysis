@@ -1,0 +1,459 @@
+{
+  "pdf_page": 426,
+  "crop_top": 11.399999999999999,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Correct : 1 Wrong: 0.25",
+      "bbox": [
+        37.8,
+        3.3,
+        137.7,
+        11.399999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "A agrees with B to discover treasure by magic. The agreement is:",
+      "bbox": [
+        37.199999999999996,
+        16.2,
+        345.3,
+        26.1
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "Options :",
+      "bbox": [
+        37.8,
+        33.0,
+        73.5,
+        41.1
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "1. ¥ void",
+      "bbox": [
+        38.699999999999996,
+        44.699999999999996,
+        84.3,
+        54.9
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "2. ® yoidable",
+      "bbox": [
+        38.1,
+        63.3,
+        104.4,
+        72.89999999999999
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "3. * valid",
+      "bbox": [
+        38.1,
+        81.3,
+        87.0,
+        90.89999999999999
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "4. * both void and voidable",
+      "bbox": [
+        38.1,
+        99.3,
+        174.9,
+        108.89999999999999
+      ]
+    }
+  ],
+  "text": "Correct : 1 Wrong: 0.25\nA agrees with B to discover treasure by magic. The agreement is:\nOptions :\n1. ¥ void\n2. ® yoidable\n3. * valid\n4. * both void and voidable",
+  "ocr_words": [
+    {
+      "text": "Correct",
+      "x0": 37.8,
+      "top": 3.3,
+      "x1": 68.39999999999999,
+      "bottom": 9.899999999999999,
+      "confidence": 81.015045,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 72.0,
+      "top": 5.1,
+      "x1": 73.2,
+      "bottom": 9.899999999999999,
+      "confidence": 75.356438,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1",
+      "x0": 78.89999999999999,
+      "top": 3.3,
+      "x1": 80.39999999999999,
+      "bottom": 9.6,
+      "confidence": 94.640106,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Wrong:",
+      "x0": 86.1,
+      "top": 3.3,
+      "x1": 118.5,
+      "bottom": 11.399999999999999,
+      "confidence": 79.069183,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "0.25",
+      "x0": 122.1,
+      "top": 3.3,
+      "x1": 137.7,
+      "bottom": 9.899999999999999,
+      "confidence": 96.572304,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A",
+      "x0": 37.199999999999996,
+      "top": 16.2,
+      "x1": 44.099999999999994,
+      "bottom": 23.7,
+      "confidence": 93.327446,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "agrees",
+      "x0": 47.4,
+      "top": 17.7,
+      "x1": 77.69999999999999,
+      "bottom": 26.1,
+      "confidence": 93.327446,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "with",
+      "x0": 81.3,
+      "top": 16.2,
+      "x1": 101.39999999999999,
+      "bottom": 23.7,
+      "confidence": 93.293976,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "B",
+      "x0": 105.0,
+      "top": 16.2,
+      "x1": 111.0,
+      "bottom": 23.7,
+      "confidence": 91.555893,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 114.3,
+      "top": 17.099999999999998,
+      "x1": 123.0,
+      "bottom": 23.699999999999996,
+      "confidence": 96.203819,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "discover",
+      "x0": 126.3,
+      "top": 16.2,
+      "x1": 166.2,
+      "bottom": 23.7,
+      "confidence": 96.25798,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "treasure",
+      "x0": 169.5,
+      "top": 17.099999999999998,
+      "x1": 208.8,
+      "bottom": 23.699999999999996,
+      "confidence": 95.553886,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "by",
+      "x0": 212.1,
+      "top": 16.2,
+      "x1": 223.79999999999998,
+      "bottom": 26.1,
+      "confidence": 95.553886,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "magic.",
+      "x0": 227.1,
+      "top": 16.2,
+      "x1": 257.7,
+      "bottom": 26.1,
+      "confidence": 96.338516,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 261.59999999999997,
+      "top": 16.2,
+      "x1": 279.29999999999995,
+      "bottom": 23.7,
+      "confidence": 96.358849,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "agreement",
+      "x0": 282.59999999999997,
+      "top": 17.099999999999998,
+      "x1": 332.4,
+      "bottom": 26.099999999999998,
+      "confidence": 87.334145,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is:",
+      "x0": 335.7,
+      "top": 16.2,
+      "x1": 345.3,
+      "bottom": 23.7,
+      "confidence": 96.90686,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Options",
+      "x0": 37.8,
+      "top": 33.0,
+      "x1": 68.69999999999999,
+      "bottom": 41.1,
+      "confidence": 93.303955,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": ":",
+      "x0": 72.3,
+      "top": 34.8,
+      "x1": 73.5,
+      "bottom": 39.599999999999994,
+      "confidence": 87.803024,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 38.699999999999996,
+      "top": 47.4,
+      "x1": 45.3,
+      "bottom": 54.9,
+      "confidence": 91.55722,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "¥",
+      "x0": 53.4,
+      "top": 44.699999999999996,
+      "x1": 58.5,
+      "bottom": 53.39999999999999,
+      "confidence": 52.782463,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "void",
+      "x0": 63.9,
+      "top": 47.4,
+      "x1": 84.3,
+      "bottom": 54.9,
+      "confidence": 94.980606,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2.",
+      "x0": 38.1,
+      "top": 65.39999999999999,
+      "x1": 45.3,
+      "bottom": 72.89999999999999,
+      "confidence": 90.653168,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "®",
+      "x0": 51.6,
+      "top": 63.3,
+      "x1": 58.2,
+      "bottom": 69.89999999999999,
+      "confidence": 6.084473,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "yoidable",
+      "x0": 63.9,
+      "top": 65.39999999999999,
+      "x1": 104.4,
+      "bottom": 72.89999999999999,
+      "confidence": 75.454063,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "3.",
+      "x0": 38.1,
+      "top": 83.39999999999999,
+      "x1": 45.3,
+      "bottom": 90.89999999999999,
+      "confidence": 91.302261,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "*",
+      "x0": 51.6,
+      "top": 81.3,
+      "x1": 58.2,
+      "bottom": 87.89999999999999,
+      "confidence": 52.041161,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "valid",
+      "x0": 63.9,
+      "top": 83.39999999999999,
+      "x1": 87.0,
+      "bottom": 90.89999999999999,
+      "confidence": 88.044136,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "4.",
+      "x0": 38.1,
+      "top": 101.39999999999999,
+      "x1": 45.3,
+      "bottom": 108.89999999999999,
+      "confidence": 92.989456,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "*",
+      "x0": 51.6,
+      "top": 99.3,
+      "x1": 58.2,
+      "bottom": 105.89999999999999,
+      "confidence": 64.755951,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "both",
+      "x0": 63.9,
+      "top": 101.39999999999999,
+      "x1": 85.8,
+      "bottom": 108.89999999999999,
+      "confidence": 64.481224,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "void",
+      "x0": 89.1,
+      "top": 101.39999999999999,
+      "x1": 109.5,
+      "bottom": 108.89999999999999,
+      "confidence": 96.180855,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 112.8,
+      "top": 101.39999999999999,
+      "x1": 131.1,
+      "bottom": 108.89999999999999,
+      "confidence": 93.291,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "voidable",
+      "x0": 134.4,
+      "top": 101.39999999999999,
+      "x1": 174.9,
+      "bottom": 108.89999999999999,
+      "confidence": 92.289917,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

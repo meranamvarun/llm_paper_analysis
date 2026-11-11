@@ -1,0 +1,551 @@
+{
+  "pdf_page": 214,
+  "crop_top": 673.0799999999999,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "84. Public health is a subject under of the Seventh Schedule of the Constitution.",
+      "bbox": [
+        90.6,
+        3.3,
+        508.5,
+        13.2
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "(A) Entry 6 of List II (State List) (B) Entry 36 of List II (State List)",
+      "bbox": [
+        111.0,
+        19.2,
+        452.40000000000003,
+        31.799999999999997
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(C) Entry 81 of List | (Union List) (D) Entry 29 of List Ill (Concurrent List)",
+      "bbox": [
+        110.39999999999999,
+        37.199999999999996,
+        483.3,
+        47.39999999999999
+      ]
+    }
+  ],
+  "text": "84. Public health is a subject under of the Seventh Schedule of the Constitution.\n(A) Entry 6 of List II (State List) (B) Entry 36 of List II (State List)\n(C) Entry 81 of List | (Union List) (D) Entry 29 of List Ill (Concurrent List)",
+  "ocr_words": [
+    {
+      "text": "84.",
+      "x0": 90.6,
+      "top": 3.5999999999999996,
+      "x1": 104.1,
+      "bottom": 11.399999999999999,
+      "confidence": 96.729431,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Public",
+      "x0": 111.89999999999999,
+      "top": 3.3,
+      "x1": 139.79999999999998,
+      "bottom": 11.399999999999999,
+      "confidence": 96.739243,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "health",
+      "x0": 143.7,
+      "top": 3.3,
+      "x1": 171.6,
+      "bottom": 11.399999999999999,
+      "confidence": 96.362503,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 175.79999999999998,
+      "top": 3.5999999999999996,
+      "x1": 182.39999999999998,
+      "bottom": 11.399999999999999,
+      "confidence": 96.332939,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 186.29999999999998,
+      "top": 5.3999999999999995,
+      "x1": 191.39999999999998,
+      "bottom": 11.399999999999999,
+      "confidence": 96.332939,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "subject",
+      "x0": 195.0,
+      "top": 3.3,
+      "x1": 228.6,
+      "bottom": 13.2,
+      "confidence": 96.37146,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "under",
+      "x0": 232.5,
+      "top": 3.3,
+      "x1": 259.2,
+      "bottom": 11.399999999999999,
+      "confidence": 96.877251,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 300.9,
+      "top": 3.3,
+      "x1": 309.29999999999995,
+      "bottom": 11.399999999999999,
+      "confidence": 96.969116,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 312.59999999999997,
+      "top": 3.3,
+      "x1": 326.99999999999994,
+      "bottom": 11.399999999999999,
+      "confidence": 96.490273,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Seventh",
+      "x0": 330.9,
+      "top": 3.3,
+      "x1": 369.0,
+      "bottom": 11.399999999999999,
+      "confidence": 96.508743,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Schedule",
+      "x0": 373.2,
+      "top": 3.3,
+      "x1": 417.0,
+      "bottom": 11.399999999999999,
+      "confidence": 96.673927,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 420.59999999999997,
+      "top": 3.3,
+      "x1": 428.99999999999994,
+      "bottom": 11.399999999999999,
+      "confidence": 96.486855,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 432.3,
+      "top": 3.3,
+      "x1": 446.7,
+      "bottom": 11.399999999999999,
+      "confidence": 96.522522,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Constitution.",
+      "x0": 450.3,
+      "top": 3.3,
+      "x1": 508.5,
+      "bottom": 11.399999999999999,
+      "confidence": 96.431206,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 111.0,
+      "top": 20.4,
+      "x1": 123.9,
+      "bottom": 30.299999999999997,
+      "confidence": 96.326996,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Entry",
+      "x0": 130.2,
+      "top": 20.4,
+      "x1": 154.2,
+      "bottom": 30.599999999999998,
+      "confidence": 96.326996,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "6",
+      "x0": 156.0,
+      "top": 19.2,
+      "x1": 160.2,
+      "bottom": 31.799999999999997,
+      "confidence": 96.932777,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 166.5,
+      "top": 20.4,
+      "x1": 174.9,
+      "bottom": 28.5,
+      "confidence": 96.9244,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "List",
+      "x0": 178.79999999999998,
+      "top": 20.4,
+      "x1": 194.7,
+      "bottom": 28.5,
+      "confidence": 96.851273,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "II",
+      "x0": 198.6,
+      "top": 20.4,
+      "x1": 202.79999999999998,
+      "bottom": 28.2,
+      "confidence": 89.286362,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(State",
+      "x0": 207.29999999999998,
+      "top": 20.4,
+      "x1": 234.89999999999998,
+      "bottom": 30.299999999999997,
+      "confidence": 96.949524,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "List)",
+      "x0": 239.1,
+      "top": 20.4,
+      "x1": 257.7,
+      "bottom": 30.299999999999997,
+      "confidence": 96.926987,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(B)",
+      "x0": 298.8,
+      "top": 20.4,
+      "x1": 311.7,
+      "bottom": 30.299999999999997,
+      "confidence": 92.007965,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Entry",
+      "x0": 318.9,
+      "top": 20.4,
+      "x1": 342.9,
+      "bottom": 30.599999999999998,
+      "confidence": 96.327614,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "36",
+      "x0": 346.5,
+      "top": 20.7,
+      "x1": 357.6,
+      "bottom": 28.5,
+      "confidence": 95.873421,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 361.2,
+      "top": 20.4,
+      "x1": 369.59999999999997,
+      "bottom": 28.5,
+      "confidence": 95.873421,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "List",
+      "x0": 373.8,
+      "top": 20.4,
+      "x1": 389.40000000000003,
+      "bottom": 28.5,
+      "confidence": 96.066841,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "II",
+      "x0": 393.3,
+      "top": 20.4,
+      "x1": 397.5,
+      "bottom": 28.2,
+      "confidence": 89.557365,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(State",
+      "x0": 402.0,
+      "top": 20.4,
+      "x1": 429.6,
+      "bottom": 30.299999999999997,
+      "confidence": 96.105499,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "List)",
+      "x0": 433.8,
+      "top": 20.4,
+      "x1": 452.40000000000003,
+      "bottom": 30.299999999999997,
+      "confidence": 96.887001,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(C)",
+      "x0": 110.39999999999999,
+      "top": 37.199999999999996,
+      "x1": 123.89999999999999,
+      "bottom": 47.099999999999994,
+      "confidence": 92.399033,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Entry",
+      "x0": 130.2,
+      "top": 37.199999999999996,
+      "x1": 154.2,
+      "bottom": 47.39999999999999,
+      "confidence": 95.8181,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "81",
+      "x0": 157.79999999999998,
+      "top": 37.5,
+      "x1": 167.1,
+      "bottom": 45.3,
+      "confidence": 96.102646,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 172.5,
+      "top": 37.199999999999996,
+      "x1": 180.9,
+      "bottom": 45.3,
+      "confidence": 96.102646,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "List",
+      "x0": 184.79999999999998,
+      "top": 37.199999999999996,
+      "x1": 200.7,
+      "bottom": 45.3,
+      "confidence": 96.292282,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "|",
+      "x0": 204.6,
+      "top": 37.199999999999996,
+      "x1": 205.79999999999998,
+      "bottom": 44.99999999999999,
+      "confidence": 94.232162,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(Union",
+      "x0": 210.29999999999998,
+      "top": 37.199999999999996,
+      "x1": 240.59999999999997,
+      "bottom": 47.099999999999994,
+      "confidence": 96.32515,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "List)",
+      "x0": 245.1,
+      "top": 37.199999999999996,
+      "x1": 263.7,
+      "bottom": 47.099999999999994,
+      "confidence": 96.828789,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(D)",
+      "x0": 298.2,
+      "top": 37.199999999999996,
+      "x1": 311.7,
+      "bottom": 47.099999999999994,
+      "confidence": 90.824905,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Entry",
+      "x0": 318.9,
+      "top": 37.199999999999996,
+      "x1": 342.9,
+      "bottom": 47.39999999999999,
+      "confidence": 96.340942,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "29",
+      "x0": 346.5,
+      "top": 37.5,
+      "x1": 357.6,
+      "bottom": 45.3,
+      "confidence": 96.837288,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 361.2,
+      "top": 37.199999999999996,
+      "x1": 369.59999999999997,
+      "bottom": 45.3,
+      "confidence": 96.995567,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "List",
+      "x0": 373.8,
+      "top": 37.199999999999996,
+      "x1": 389.40000000000003,
+      "bottom": 45.3,
+      "confidence": 96.403717,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Ill",
+      "x0": 393.3,
+      "top": 37.199999999999996,
+      "x1": 400.5,
+      "bottom": 44.99999999999999,
+      "confidence": 46.926506,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(Concurrent",
+      "x0": 405.0,
+      "top": 37.199999999999996,
+      "x1": 460.8,
+      "bottom": 47.099999999999994,
+      "confidence": 96.658516,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "List)",
+      "x0": 464.7,
+      "top": 37.199999999999996,
+      "x1": 483.3,
+      "bottom": 47.099999999999994,
+      "confidence": 96.725212,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

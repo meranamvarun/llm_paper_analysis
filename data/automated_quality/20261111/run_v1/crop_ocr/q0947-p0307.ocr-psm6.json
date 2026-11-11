@@ -1,0 +1,350 @@
+{
+  "pdf_page": 307,
+  "crop_top": 605.7328,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "100. The Rome Statute of the International Criminal Court was adopted in the year:",
+      "bbox": [
+        47.4,
+        3.9,
+        478.2,
+        14.1
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "(A) 1998 (B) 1999",
+      "bbox": [
+        75.3,
+        22.5,
+        354.0,
+        32.7
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(C) 2000 (D) 2001",
+      "bbox": [
+        75.3,
+        38.1,
+        353.40000000000003,
+        48.3
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "B PG 2019",
+      "bbox": [
+        46.8,
+        146.4,
+        549.9,
+        155.4
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "15",
+      "bbox": [
+        292.8,
+        151.5,
+        303.90000000000003,
+        159.3
+      ]
+    }
+  ],
+  "text": "100. The Rome Statute of the International Criminal Court was adopted in the year:\n(A) 1998 (B) 1999\n(C) 2000 (D) 2001\nB PG 2019\n15",
+  "ocr_words": [
+    {
+      "text": "100.",
+      "x0": 47.4,
+      "top": 4.5,
+      "x1": 66.6,
+      "bottom": 12.3,
+      "confidence": 96.600716,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 74.7,
+      "top": 3.9,
+      "x1": 93.6,
+      "bottom": 12.3,
+      "confidence": 96.777489,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Rome",
+      "x0": 97.5,
+      "top": 3.9,
+      "x1": 125.7,
+      "bottom": 12.3,
+      "confidence": 96.10659,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Statute",
+      "x0": 129.6,
+      "top": 3.9,
+      "x1": 166.79999999999998,
+      "bottom": 12.3,
+      "confidence": 95.834953,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 170.4,
+      "top": 3.9,
+      "x1": 180.0,
+      "bottom": 12.3,
+      "confidence": 96.732986,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 182.7,
+      "top": 3.9,
+      "x1": 198.29999999999998,
+      "bottom": 12.3,
+      "confidence": 96.732986,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "International",
+      "x0": 202.2,
+      "top": 3.9,
+      "x1": 270.0,
+      "bottom": 12.3,
+      "confidence": 96.370293,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Criminal",
+      "x0": 273.9,
+      "top": 3.9,
+      "x1": 318.9,
+      "bottom": 12.3,
+      "confidence": 96.288979,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Court",
+      "x0": 322.8,
+      "top": 3.9,
+      "x1": 351.3,
+      "bottom": 12.3,
+      "confidence": 96.28756,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "was",
+      "x0": 354.9,
+      "top": 6.8999999999999995,
+      "x1": 373.79999999999995,
+      "bottom": 12.299999999999999,
+      "confidence": 96.323982,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "adopted",
+      "x0": 377.7,
+      "top": 3.9,
+      "x1": 417.59999999999997,
+      "bottom": 14.1,
+      "confidence": 96.547646,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 420.9,
+      "top": 4.2,
+      "x1": 430.79999999999995,
+      "bottom": 12.0,
+      "confidence": 96.168411,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 434.09999999999997,
+      "top": 3.9,
+      "x1": 449.99999999999994,
+      "bottom": 12.3,
+      "confidence": 96.42527,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "year:",
+      "x0": 453.59999999999997,
+      "top": 6.8999999999999995,
+      "x1": 478.2,
+      "bottom": 14.099999999999998,
+      "confidence": 95.727966,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 75.3,
+      "top": 22.5,
+      "x1": 89.1,
+      "bottom": 32.7,
+      "confidence": 89.602127,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1998",
+      "x0": 104.1,
+      "top": 23.099999999999998,
+      "x1": 126.89999999999999,
+      "bottom": 30.9,
+      "confidence": 89.602127,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(B)",
+      "x0": 302.09999999999997,
+      "top": 22.5,
+      "x1": 315.9,
+      "bottom": 32.4,
+      "confidence": 92.437973,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1999",
+      "x0": 330.9,
+      "top": 23.099999999999998,
+      "x1": 354.0,
+      "bottom": 30.9,
+      "confidence": 96.445183,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(C)",
+      "x0": 75.3,
+      "top": 38.1,
+      "x1": 89.1,
+      "bottom": 48.3,
+      "confidence": 92.841446,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "2000",
+      "x0": 103.2,
+      "top": 38.699999999999996,
+      "x1": 126.9,
+      "bottom": 46.49999999999999,
+      "confidence": 96.026703,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(D)",
+      "x0": 302.09999999999997,
+      "top": 38.1,
+      "x1": 316.49999999999994,
+      "bottom": 48.0,
+      "confidence": 90.56945,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "2001",
+      "x0": 330.3,
+      "top": 38.699999999999996,
+      "x1": 353.40000000000003,
+      "bottom": 46.49999999999999,
+      "confidence": 94.507141,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "B",
+      "x0": 46.8,
+      "top": 146.4,
+      "x1": 55.199999999999996,
+      "bottom": 155.1,
+      "confidence": 93.180832,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "15",
+      "x0": 292.8,
+      "top": 151.5,
+      "x1": 303.90000000000003,
+      "bottom": 159.3,
+      "confidence": 79.983139,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "PG",
+      "x0": 504.9,
+      "top": 147.0,
+      "x1": 521.6999999999999,
+      "bottom": 155.4,
+      "confidence": 96.908501,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "2019",
+      "x0": 525.6,
+      "top": 147.6,
+      "x1": 549.9,
+      "bottom": 155.4,
+      "confidence": 96.908501,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

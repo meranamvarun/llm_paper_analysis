@@ -1,0 +1,571 @@
+{
+  "pdf_page": 80,
+  "crop_top": 186.11860000000001,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "88. Environmental Protection and Improvement were incorporated into the Constitution",
+      "bbox": [
+        105.3,
+        3.5999999999999996,
+        551.7,
+        13.8
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "of India by inserting Articles 48-A and 51-A (g) by virtue of which of the following",
+      "bbox": [
+        126.3,
+        17.7,
+        551.6999999999999,
+        27.9
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "amendments?",
+      "bbox": [
+        126.6,
+        31.5,
+        196.2,
+        39.9
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(A) 42°*Amendment Act, 1976 (B) 44 Amendment Act, 1978",
+      "bbox": [
+        125.39999999999999,
+        47.4,
+        469.5,
+        57.89999999999999
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(C) 45% Amendment Act, 1980 (D) 35% Amendment Act, 1974",
+      "bbox": [
+        125.39999999999999,
+        63.3,
+        469.5,
+        73.8
+      ]
+    }
+  ],
+  "text": "88. Environmental Protection and Improvement were incorporated into the Constitution\nof India by inserting Articles 48-A and 51-A (g) by virtue of which of the following\namendments?\n(A) 42°*Amendment Act, 1976 (B) 44 Amendment Act, 1978\n(C) 45% Amendment Act, 1980 (D) 35% Amendment Act, 1974",
+  "ocr_words": [
+    {
+      "text": "88.",
+      "x0": 105.3,
+      "top": 4.2,
+      "x1": 119.1,
+      "bottom": 12.0,
+      "confidence": 96.539558,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Environmental",
+      "x0": 126.6,
+      "top": 3.5999999999999996,
+      "x1": 202.8,
+      "bottom": 12.0,
+      "confidence": 96.621071,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Protection",
+      "x0": 205.79999999999998,
+      "top": 3.9,
+      "x1": 257.4,
+      "bottom": 12.0,
+      "confidence": 95.808861,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 260.7,
+      "top": 3.5999999999999996,
+      "x1": 279.3,
+      "bottom": 12.0,
+      "confidence": 95.808861,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Improvement",
+      "x0": 282.3,
+      "top": 3.9,
+      "x1": 350.4,
+      "bottom": 13.8,
+      "confidence": 96.19574,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "were",
+      "x0": 353.09999999999997,
+      "top": 6.6,
+      "x1": 377.09999999999997,
+      "bottom": 12.0,
+      "confidence": 96.456787,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "incorporated",
+      "x0": 380.09999999999997,
+      "top": 3.5999999999999996,
+      "x1": 443.99999999999994,
+      "bottom": 13.799999999999999,
+      "confidence": 96.226593,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "into",
+      "x0": 446.7,
+      "top": 3.9,
+      "x1": 466.2,
+      "bottom": 12.0,
+      "confidence": 96.548027,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 469.2,
+      "top": 3.5999999999999996,
+      "x1": 485.09999999999997,
+      "bottom": 12.0,
+      "confidence": 96.617996,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Constitution",
+      "x0": 488.7,
+      "top": 3.5999999999999996,
+      "x1": 551.7,
+      "bottom": 12.0,
+      "confidence": 96.265678,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 126.3,
+      "top": 17.7,
+      "x1": 135.9,
+      "bottom": 26.1,
+      "confidence": 96.846954,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "India",
+      "x0": 139.5,
+      "top": 17.7,
+      "x1": 165.9,
+      "bottom": 26.1,
+      "confidence": 96.497681,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "by",
+      "x0": 170.1,
+      "top": 17.7,
+      "x1": 181.79999999999998,
+      "bottom": 27.9,
+      "confidence": 96.797363,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "inserting",
+      "x0": 186.0,
+      "top": 18.0,
+      "x1": 231.6,
+      "bottom": 27.9,
+      "confidence": 96.509193,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Articles",
+      "x0": 235.5,
+      "top": 17.7,
+      "x1": 274.8,
+      "bottom": 26.1,
+      "confidence": 93.300064,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "48-A",
+      "x0": 279.59999999999997,
+      "top": 17.7,
+      "x1": 302.99999999999994,
+      "bottom": 26.1,
+      "confidence": 93.185829,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "and",
+      "x0": 307.2,
+      "top": 17.7,
+      "x1": 325.8,
+      "bottom": 26.1,
+      "confidence": 91.6371,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "51-A",
+      "x0": 330.59999999999997,
+      "top": 17.7,
+      "x1": 353.7,
+      "bottom": 26.1,
+      "confidence": 91.6371,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(g)",
+      "x0": 358.2,
+      "top": 17.7,
+      "x1": 370.2,
+      "bottom": 27.9,
+      "confidence": 92.5121,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "by",
+      "x0": 374.7,
+      "top": 17.7,
+      "x1": 386.4,
+      "bottom": 27.9,
+      "confidence": 96.912445,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "virtue",
+      "x0": 390.59999999999997,
+      "top": 18.0,
+      "x1": 420.9,
+      "bottom": 26.1,
+      "confidence": 96.714508,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 425.4,
+      "top": 17.7,
+      "x1": 435.0,
+      "bottom": 26.1,
+      "confidence": 95.821129,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "which",
+      "x0": 438.3,
+      "top": 17.7,
+      "x1": 468.3,
+      "bottom": 26.1,
+      "confidence": 96.562881,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 472.5,
+      "top": 17.7,
+      "x1": 482.1,
+      "bottom": 26.1,
+      "confidence": 96.309296,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 485.4,
+      "top": 17.7,
+      "x1": 501.29999999999995,
+      "bottom": 26.1,
+      "confidence": 96.513199,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "following",
+      "x0": 505.79999999999995,
+      "top": 17.7,
+      "x1": 551.6999999999999,
+      "bottom": 27.9,
+      "confidence": 96.259422,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "amendments?",
+      "x0": 126.6,
+      "top": 31.5,
+      "x1": 196.2,
+      "bottom": 39.9,
+      "confidence": 96.449036,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(A)",
+      "x0": 125.39999999999999,
+      "top": 47.699999999999996,
+      "x1": 139.2,
+      "bottom": 57.599999999999994,
+      "confidence": 92.887009,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "42°*Amendment",
+      "x0": 148.5,
+      "top": 47.4,
+      "x1": 231.89999999999998,
+      "bottom": 56.099999999999994,
+      "confidence": 37.533146,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Act,",
+      "x0": 235.2,
+      "top": 47.699999999999996,
+      "x1": 254.7,
+      "bottom": 57.3,
+      "confidence": 96.37117,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1976",
+      "x0": 259.5,
+      "top": 48.3,
+      "x1": 282.6,
+      "bottom": 56.099999999999994,
+      "confidence": 96.37117,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(B)",
+      "x0": 315.3,
+      "top": 47.699999999999996,
+      "x1": 329.40000000000003,
+      "bottom": 57.89999999999999,
+      "confidence": 90.783707,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "44",
+      "x0": 335.7,
+      "top": 47.4,
+      "x1": 353.4,
+      "bottom": 55.8,
+      "confidence": 51.807327,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Amendment",
+      "x0": 356.7,
+      "top": 47.699999999999996,
+      "x1": 419.09999999999997,
+      "bottom": 56.099999999999994,
+      "confidence": 96.363037,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Act,",
+      "x0": 422.09999999999997,
+      "top": 47.699999999999996,
+      "x1": 441.59999999999997,
+      "bottom": 57.3,
+      "confidence": 96.278954,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1978",
+      "x0": 446.7,
+      "top": 48.3,
+      "x1": 469.5,
+      "bottom": 56.099999999999994,
+      "confidence": 96.42112,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(C)",
+      "x0": 125.39999999999999,
+      "top": 63.599999999999994,
+      "x1": 139.2,
+      "bottom": 73.5,
+      "confidence": 91.84848,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "45%",
+      "x0": 148.5,
+      "top": 63.3,
+      "x1": 166.5,
+      "bottom": 72.0,
+      "confidence": 95.05793,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Amendment",
+      "x0": 169.5,
+      "top": 63.599999999999994,
+      "x1": 231.9,
+      "bottom": 72.0,
+      "confidence": 96.310913,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Act,",
+      "x0": 235.2,
+      "top": 63.599999999999994,
+      "x1": 254.7,
+      "bottom": 73.5,
+      "confidence": 96.657951,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1980",
+      "x0": 259.8,
+      "top": 64.2,
+      "x1": 282.6,
+      "bottom": 72.0,
+      "confidence": 96.761101,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(D)",
+      "x0": 314.7,
+      "top": 63.599999999999994,
+      "x1": 329.4,
+      "bottom": 73.8,
+      "confidence": 92.505371,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "35%",
+      "x0": 335.7,
+      "top": 63.3,
+      "x1": 353.4,
+      "bottom": 72.0,
+      "confidence": 81.762604,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Amendment",
+      "x0": 356.7,
+      "top": 63.599999999999994,
+      "x1": 419.09999999999997,
+      "bottom": 72.0,
+      "confidence": 96.284225,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Act,",
+      "x0": 422.09999999999997,
+      "top": 63.599999999999994,
+      "x1": 441.59999999999997,
+      "bottom": 73.19999999999999,
+      "confidence": 96.358223,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1974",
+      "x0": 446.7,
+      "top": 64.2,
+      "x1": 469.5,
+      "bottom": 72.0,
+      "confidence": 96.936432,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

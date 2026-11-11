@@ -1,0 +1,679 @@
+{
+  "pdf_page": 451,
+  "crop_top": 303.05,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "39. Which of the following is not correct in the context of valid usage?",
+      "bbox": [
+        72.6,
+        3.5999999999999996,
+        412.5,
+        14.4
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "A. Usage must be so well established as notorious.",
+      "bbox": [
+        108.3,
+        20.7,
+        357.9,
+        31.200000000000003
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "B. Incase of conflict between usage and law, law prevails.",
+      "bbox": [
+        108.89999999999999,
+        35.1,
+        393.9,
+        45.9
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "C. In case of conflict between express provision of a contract and usage, contract",
+      "bbox": [
+        108.3,
+        49.8,
+        515.1,
+        60.6
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "prevails.",
+      "bbox": [
+        126.6,
+        64.8,
+        167.39999999999998,
+        75.3
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "D. Usage shall be a reasonable one.",
+      "bbox": [
+        108.89999999999999,
+        79.5,
+        284.40000000000003,
+        90.0
+      ]
+    }
+  ],
+  "text": "39. Which of the following is not correct in the context of valid usage?\nA. Usage must be so well established as notorious.\nB. Incase of conflict between usage and law, law prevails.\nC. In case of conflict between express provision of a contract and usage, contract\nprevails.\nD. Usage shall be a reasonable one.",
+  "ocr_words": [
+    {
+      "text": "39.",
+      "x0": 72.6,
+      "top": 4.2,
+      "x1": 86.39999999999999,
+      "bottom": 12.3,
+      "confidence": 96.176743,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Which",
+      "x0": 90.3,
+      "top": 3.9,
+      "x1": 120.3,
+      "bottom": 12.3,
+      "confidence": 96.694786,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 124.5,
+      "top": 3.5999999999999996,
+      "x1": 133.8,
+      "bottom": 12.299999999999999,
+      "confidence": 96.461205,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 136.79999999999998,
+      "top": 3.9,
+      "x1": 152.39999999999998,
+      "bottom": 12.3,
+      "confidence": 96.860649,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 155.7,
+      "top": 3.5999999999999996,
+      "x1": 200.39999999999998,
+      "bottom": 14.399999999999999,
+      "confidence": 96.731094,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 204.29999999999998,
+      "top": 4.2,
+      "x1": 210.29999999999998,
+      "bottom": 12.3,
+      "confidence": 96.997505,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "not",
+      "x0": 214.2,
+      "top": 4.8,
+      "x1": 229.79999999999998,
+      "bottom": 12.3,
+      "confidence": 96.539803,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "correct",
+      "x0": 233.39999999999998,
+      "top": 4.8,
+      "x1": 267.29999999999995,
+      "bottom": 12.3,
+      "confidence": 96.822266,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 271.2,
+      "top": 4.2,
+      "x1": 278.4,
+      "bottom": 12.0,
+      "confidence": 96.381332,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 282.3,
+      "top": 3.9,
+      "x1": 297.90000000000003,
+      "bottom": 12.3,
+      "confidence": 96.381332,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "context",
+      "x0": 301.5,
+      "top": 4.8,
+      "x1": 337.5,
+      "bottom": 12.3,
+      "confidence": 96.615768,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 341.09999999999997,
+      "top": 3.5999999999999996,
+      "x1": 350.7,
+      "bottom": 12.299999999999999,
+      "confidence": 96.804153,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "valid",
+      "x0": 353.4,
+      "top": 3.9,
+      "x1": 375.29999999999995,
+      "bottom": 12.3,
+      "confidence": 96.834831,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "usage?",
+      "x0": 379.8,
+      "top": 3.9,
+      "x1": 412.5,
+      "bottom": 14.4,
+      "confidence": 96.7314,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A.",
+      "x0": 108.3,
+      "top": 21.3,
+      "x1": 117.0,
+      "bottom": 28.8,
+      "confidence": 96.256012,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Usage",
+      "x0": 126.89999999999999,
+      "top": 21.3,
+      "x1": 155.1,
+      "bottom": 31.200000000000003,
+      "confidence": 96.509171,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "must",
+      "x0": 159.29999999999998,
+      "top": 21.599999999999998,
+      "x1": 182.7,
+      "bottom": 29.099999999999998,
+      "confidence": 96.722145,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "be",
+      "x0": 186.6,
+      "top": 20.7,
+      "x1": 197.7,
+      "bottom": 29.1,
+      "confidence": 95.658508,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "so",
+      "x0": 201.29999999999998,
+      "top": 23.099999999999998,
+      "x1": 211.2,
+      "bottom": 29.099999999999998,
+      "confidence": 96.792381,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "well",
+      "x0": 214.79999999999998,
+      "top": 20.7,
+      "x1": 233.7,
+      "bottom": 29.1,
+      "confidence": 96.548958,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "established",
+      "x0": 237.6,
+      "top": 20.7,
+      "x1": 291.9,
+      "bottom": 29.1,
+      "confidence": 96.804054,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "as",
+      "x0": 295.8,
+      "top": 23.099999999999998,
+      "x1": 305.40000000000003,
+      "bottom": 29.099999999999998,
+      "confidence": 96.363426,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "notorious.",
+      "x0": 309.59999999999997,
+      "top": 21.0,
+      "x1": 357.9,
+      "bottom": 29.1,
+      "confidence": 96.319702,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "B.",
+      "x0": 108.89999999999999,
+      "top": 36.0,
+      "x1": 116.69999999999999,
+      "bottom": 43.5,
+      "confidence": 93.129028,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Incase",
+      "x0": 126.89999999999999,
+      "top": 36.0,
+      "x1": 159.0,
+      "bottom": 43.8,
+      "confidence": 93.694832,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 162.9,
+      "top": 35.1,
+      "x1": 172.20000000000002,
+      "bottom": 43.8,
+      "confidence": 95.34713,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "conflict",
+      "x0": 175.5,
+      "top": 35.1,
+      "x1": 210.6,
+      "bottom": 43.8,
+      "confidence": 96.593491,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "between",
+      "x0": 214.5,
+      "top": 35.4,
+      "x1": 255.9,
+      "bottom": 43.8,
+      "confidence": 96.058426,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "usage",
+      "x0": 260.09999999999997,
+      "top": 37.8,
+      "x1": 287.09999999999997,
+      "bottom": 45.9,
+      "confidence": 96.058426,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "and",
+      "x0": 291.0,
+      "top": 35.4,
+      "x1": 307.8,
+      "bottom": 43.8,
+      "confidence": 96.47168,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "law,",
+      "x0": 312.3,
+      "top": 35.4,
+      "x1": 330.6,
+      "bottom": 45.3,
+      "confidence": 96.375923,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "law",
+      "x0": 335.09999999999997,
+      "top": 35.4,
+      "x1": 350.99999999999994,
+      "bottom": 43.8,
+      "confidence": 96.899559,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "prevails.",
+      "x0": 354.9,
+      "top": 35.4,
+      "x1": 393.9,
+      "bottom": 45.9,
+      "confidence": 96.194756,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "C.",
+      "x0": 108.3,
+      "top": 50.4,
+      "x1": 116.7,
+      "bottom": 58.5,
+      "confidence": 90.653877,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "In",
+      "x0": 126.89999999999999,
+      "top": 50.699999999999996,
+      "x1": 135.0,
+      "bottom": 58.199999999999996,
+      "confidence": 65.650299,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "case",
+      "x0": 138.9,
+      "top": 52.5,
+      "x1": 159.6,
+      "bottom": 58.5,
+      "confidence": 65.650299,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "of",
+      "x0": 163.2,
+      "top": 49.8,
+      "x1": 173.1,
+      "bottom": 58.5,
+      "confidence": 96.287018,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "conflict",
+      "x0": 176.1,
+      "top": 49.8,
+      "x1": 212.39999999999998,
+      "bottom": 58.5,
+      "confidence": 96.640846,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "between",
+      "x0": 216.0,
+      "top": 50.1,
+      "x1": 258.6,
+      "bottom": 58.5,
+      "confidence": 96.637627,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "express",
+      "x0": 262.5,
+      "top": 52.5,
+      "x1": 299.4,
+      "bottom": 60.6,
+      "confidence": 96.6716,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "provision",
+      "x0": 303.3,
+      "top": 50.4,
+      "x1": 348.3,
+      "bottom": 60.599999999999994,
+      "confidence": 95.978516,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "of",
+      "x0": 352.2,
+      "top": 49.8,
+      "x1": 362.09999999999997,
+      "bottom": 58.5,
+      "confidence": 95.945755,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "a",
+      "x0": 364.8,
+      "top": 52.5,
+      "x1": 369.6,
+      "bottom": 58.5,
+      "confidence": 95.945755,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "contract",
+      "x0": 373.5,
+      "top": 51.0,
+      "x1": 414.3,
+      "bottom": 58.5,
+      "confidence": 96.327988,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "and",
+      "x0": 417.9,
+      "top": 50.1,
+      "x1": 435.29999999999995,
+      "bottom": 58.5,
+      "confidence": 96.724358,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "usage,",
+      "x0": 439.5,
+      "top": 52.5,
+      "x1": 470.1,
+      "bottom": 60.6,
+      "confidence": 96.028763,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "contract",
+      "x0": 474.0,
+      "top": 51.0,
+      "x1": 515.1,
+      "bottom": 58.5,
+      "confidence": 96.390594,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "prevails.",
+      "x0": 126.6,
+      "top": 64.8,
+      "x1": 167.39999999999998,
+      "bottom": 75.3,
+      "confidence": 96.270905,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "D.",
+      "x0": 108.89999999999999,
+      "top": 80.1,
+      "x1": 117.6,
+      "bottom": 87.6,
+      "confidence": 93.240921,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Usage",
+      "x0": 126.89999999999999,
+      "top": 80.1,
+      "x1": 155.1,
+      "bottom": 90.0,
+      "confidence": 96.853493,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "shall",
+      "x0": 159.0,
+      "top": 79.5,
+      "x1": 180.0,
+      "bottom": 87.9,
+      "confidence": 96.387733,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "be",
+      "x0": 184.2,
+      "top": 79.5,
+      "x1": 195.29999999999998,
+      "bottom": 87.9,
+      "confidence": 95.609566,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "a",
+      "x0": 199.2,
+      "top": 81.89999999999999,
+      "x1": 203.39999999999998,
+      "bottom": 87.89999999999999,
+      "confidence": 95.609566,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "reasonable",
+      "x0": 207.9,
+      "top": 79.5,
+      "x1": 260.4,
+      "bottom": 87.9,
+      "confidence": 96.911102,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "one.",
+      "x0": 264.3,
+      "top": 81.89999999999999,
+      "x1": 284.40000000000003,
+      "bottom": 87.89999999999999,
+      "confidence": 96.829308,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

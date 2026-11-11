@@ -1,0 +1,22 @@
+{
+  "inputs": {
+    "data\\automated_quality\\20261111\\run_v1\\comparisons.jsonl": "82f28c365938bbb48941d1ab53d2c32fbaa9b2aab958e33c691291b31c4e728e",
+    "data\\automated_quality\\20261111\\run_v1\\structural_findings.jsonl": "782e0da50c16d089007c02a18129681655938b9e346d396da1edd2633daa8585",
+    "data\\automated_quality\\20261111\\run_v1\\summary.json": "768521ce5091065a10a851e8cacf2f939ec9980848a3192e139c7c04d4fec104",
+    "data\\automated_quality\\20261111\\run_v1\\manifest.json": "6717dac93e7f184d6ce542330d8b39459c7f2cdf74fca3e36ee9d599420f32db"
+  },
+  "code_hashes": {
+    "C:\\Users\\malai\\varun_code\\llm_paper_analysis\\extraction\\strict_support.py": "6721da28048c9527164ec7dbd1d60e1f2f4c20a8db4c415c2bf75da31cd76508",
+    "C:\\Users\\malai\\varun_code\\llm_paper_analysis\\extraction\\run.py": "bca50b6de7852eec1b132d1406b0843414c0296fb346875f78185885f79469a6"
+  },
+  "software": {
+    "tesseract": "tesseract v5.4.0.20240606",
+    "english_traineddata_sha256": "7d4322bd2a7749724879683fc3912cb542f19906c83bcc1a52132556427170b2",
+    "pypdfium2": "5.12.1"
+  },
+  "outputs": {
+    "automatic_repair_queue.jsonl": "147c9659ef38ea538522fc0711dcaa55a37d18205c09443a4b2b2f689bba6d19",
+    "report.html": "9293d52fb62834adafe126cc8d9a5bdbf5284ebe4765a380ec3a28a5a1e5c58c",
+    "summary.json": "30bf01f2d61940bbc8ea61e9efd8d9d3f602889c5d68219554eba9cd9bb60144"
+  }
+}

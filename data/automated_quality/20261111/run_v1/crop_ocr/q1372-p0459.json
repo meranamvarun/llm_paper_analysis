@@ -1,0 +1,1750 @@
+{
+  "pdf_page": 459,
+  "crop_top": 74.65999999999997,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "23. A, from Kerala, writes a letter to B who lives in Delhi requesting the supply of certain goods",
+      "bbox": [
+        72.6,
+        3.9,
+        533.4,
+        14.7
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "at a certain price. While accepting the offer by writing a letter on his printed letterhead B",
+      "bbox": [
+        90.6,
+        19.8,
+        523.8,
+        30.599999999999998
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "writes at the top of the letterhead, \"Subject to the jurisdiction of Delhi Courts.\" Later a",
+      "bbox": [
+        90.3,
+        35.4,
+        510.9,
+        46.2
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "dispute arises and A files action in Kerala.",
+      "bbox": [
+        90.6,
+        50.1,
+        305.4,
+        63.3
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "an",
+      "bbox": [
+        213.6,
+        54.0,
+        224.1,
+        60.0
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "A. Acannot file legal proceedings in Kerala since B has clearly indicated that",
+      "bbox": [
+        144.29999999999998,
+        67.2,
+        526.2,
+        78.0
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "the jurisdiction is restricted to Delhi courts.",
+      "bbox": [
+        171.29999999999998,
+        81.6,
+        380.7,
+        94.5
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "B. The agreement is void as it tends to defeat the legal process.",
+      "bbox": [
+        144.9,
+        97.8,
+        465.59999999999997,
+        108.6
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "C. Since B has written the words at the top of his letterhead, they do not",
+      "bbox": [
+        144.6,
+        113.39999999999999,
+        519.0,
+        124.2
+      ]
+    },
+    {
+      "line_id": "l0009",
+      "text": "become part of the contract and hence A is free to file the action in",
+      "bbox": [
+        171.6,
+        127.5,
+        504.29999999999995,
+        141.0
+      ]
+    },
+    {
+      "line_id": "l0010",
+      "text": "any",
+      "bbox": [
+        507.9,
+        131.4,
+        525.6,
+        139.5
+      ]
+    },
+    {
+      "line_id": "l0011",
+      "text": "court which has jurisdiction.",
+      "bbox": [
+        171.29999999999998,
+        144.29999999999998,
+        310.79999999999995,
+        154.79999999999998
+      ]
+    },
+    {
+      "line_id": "l0012",
+      "text": "D. Since the letterhead is part of the agreement of acceptance, the agreement",
+      "bbox": [
+        144.9,
+        159.6,
+        538.8,
+        170.39999999999998
+      ]
+    },
+    {
+      "line_id": "l0013",
+      "text": "is enforceable.",
+      "bbox": [
+        171.9,
+        174.9,
+        241.49999999999997,
+        183.6
+      ]
+    }
+  ],
+  "text": "23. A, from Kerala, writes a letter to B who lives in Delhi requesting the supply of certain goods\nat a certain price. While accepting the offer by writing a letter on his printed letterhead B\nwrites at the top of the letterhead, \"Subject to the jurisdiction of Delhi Courts.\" Later a\ndispute arises and A files action in Kerala.\nan\nA. Acannot file legal proceedings in Kerala since B has clearly indicated that\nthe jurisdiction is restricted to Delhi courts.\nB. The agreement is void as it tends to defeat the legal process.\nC. Since B has written the words at the top of his letterhead, they do not\nbecome part of the contract and hence A is free to file the action in\nany\ncourt which has jurisdiction.\nD. Since the letterhead is part of the agreement of acceptance, the agreement\nis enforceable.",
+  "ocr_words": [
+    {
+      "text": "23.",
+      "x0": 72.6,
+      "top": 4.5,
+      "x1": 86.39999999999999,
+      "bottom": 12.6,
+      "confidence": 93.936882,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A,",
+      "x0": 90.3,
+      "top": 4.8,
+      "x1": 99.0,
+      "bottom": 14.099999999999998,
+      "confidence": 93.936882,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "from",
+      "x0": 102.89999999999999,
+      "top": 3.9,
+      "x1": 125.39999999999999,
+      "bottom": 12.6,
+      "confidence": 96.728073,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Kerala,",
+      "x0": 130.2,
+      "top": 4.2,
+      "x1": 162.0,
+      "bottom": 14.100000000000001,
+      "confidence": 96.345276,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "writes",
+      "x0": 165.9,
+      "top": 4.5,
+      "x1": 195.3,
+      "bottom": 12.6,
+      "confidence": 96.572746,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 198.9,
+      "top": 6.6,
+      "x1": 203.4,
+      "bottom": 12.6,
+      "confidence": 96.273026,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "letter",
+      "x0": 207.9,
+      "top": 4.2,
+      "x1": 233.70000000000002,
+      "bottom": 12.600000000000001,
+      "confidence": 96.211441,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 236.7,
+      "top": 5.1,
+      "x1": 246.29999999999998,
+      "bottom": 12.6,
+      "confidence": 93.275047,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "B",
+      "x0": 250.5,
+      "top": 4.8,
+      "x1": 255.6,
+      "bottom": 12.3,
+      "confidence": 93.259727,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "who",
+      "x0": 259.2,
+      "top": 4.2,
+      "x1": 279.59999999999997,
+      "bottom": 12.600000000000001,
+      "confidence": 96.588051,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "lives",
+      "x0": 283.5,
+      "top": 4.2,
+      "x1": 303.9,
+      "bottom": 12.600000000000001,
+      "confidence": 96.865196,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 307.8,
+      "top": 4.5,
+      "x1": 315.3,
+      "bottom": 12.3,
+      "confidence": 96.423149,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Delhi",
+      "x0": 319.8,
+      "top": 4.2,
+      "x1": 343.2,
+      "bottom": 12.600000000000001,
+      "confidence": 96.57251,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "requesting",
+      "x0": 347.7,
+      "top": 4.5,
+      "x1": 398.7,
+      "bottom": 14.7,
+      "confidence": 96.236275,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 402.0,
+      "top": 4.2,
+      "x1": 417.3,
+      "bottom": 12.600000000000001,
+      "confidence": 96.921638,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "supply",
+      "x0": 421.2,
+      "top": 4.2,
+      "x1": 452.09999999999997,
+      "bottom": 14.7,
+      "confidence": 96.402153,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 455.7,
+      "top": 3.9,
+      "x1": 465.3,
+      "bottom": 12.6,
+      "confidence": 96.920235,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "certain",
+      "x0": 468.29999999999995,
+      "top": 4.5,
+      "x1": 500.99999999999994,
+      "bottom": 12.6,
+      "confidence": 96.742432,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "goods",
+      "x0": 504.9,
+      "top": 4.2,
+      "x1": 533.4,
+      "bottom": 14.7,
+      "confidence": 96.642509,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "at",
+      "x0": 90.6,
+      "top": 21.0,
+      "x1": 99.3,
+      "bottom": 28.5,
+      "confidence": 96.571999,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "a",
+      "x0": 103.2,
+      "top": 22.5,
+      "x1": 107.4,
+      "bottom": 28.5,
+      "confidence": 89.088486,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "certain",
+      "x0": 111.6,
+      "top": 20.4,
+      "x1": 144.0,
+      "bottom": 28.5,
+      "confidence": 89.088486,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "price.",
+      "x0": 148.5,
+      "top": 20.4,
+      "x1": 174.3,
+      "bottom": 30.599999999999998,
+      "confidence": 95.725449,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "While",
+      "x0": 178.2,
+      "top": 20.099999999999998,
+      "x1": 205.5,
+      "bottom": 28.5,
+      "confidence": 96.536667,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "accepting",
+      "x0": 209.4,
+      "top": 20.4,
+      "x1": 255.6,
+      "bottom": 30.599999999999998,
+      "confidence": 96.501152,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 258.59999999999997,
+      "top": 20.099999999999998,
+      "x1": 274.2,
+      "bottom": 28.5,
+      "confidence": 96.909882,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "offer",
+      "x0": 278.09999999999997,
+      "top": 19.8,
+      "x1": 300.9,
+      "bottom": 28.5,
+      "confidence": 96.603668,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "by",
+      "x0": 304.8,
+      "top": 20.099999999999998,
+      "x1": 315.3,
+      "bottom": 30.599999999999998,
+      "confidence": 96.863312,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "writing",
+      "x0": 318.59999999999997,
+      "top": 20.4,
+      "x1": 352.49999999999994,
+      "bottom": 30.599999999999998,
+      "confidence": 96.759979,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "a",
+      "x0": 355.8,
+      "top": 22.5,
+      "x1": 360.3,
+      "bottom": 28.5,
+      "confidence": 94.165359,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "letter",
+      "x0": 364.8,
+      "top": 20.099999999999998,
+      "x1": 390.6,
+      "bottom": 28.5,
+      "confidence": 94.165359,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "on",
+      "x0": 393.9,
+      "top": 22.5,
+      "x1": 405.29999999999995,
+      "bottom": 28.5,
+      "confidence": 96.657379,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "his",
+      "x0": 409.8,
+      "top": 20.099999999999998,
+      "x1": 422.1,
+      "bottom": 28.5,
+      "confidence": 96.782562,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "printed",
+      "x0": 426.0,
+      "top": 20.099999999999998,
+      "x1": 460.2,
+      "bottom": 30.599999999999998,
+      "confidence": 95.880836,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "letterhead",
+      "x0": 464.7,
+      "top": 20.099999999999998,
+      "x1": 513.9,
+      "bottom": 28.5,
+      "confidence": 93.285057,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "B",
+      "x0": 518.6999999999999,
+      "top": 20.7,
+      "x1": 523.8,
+      "bottom": 28.2,
+      "confidence": 92.79837,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "writes",
+      "x0": 90.3,
+      "top": 36.0,
+      "x1": 119.69999999999999,
+      "bottom": 44.1,
+      "confidence": 96.775864,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "at",
+      "x0": 123.6,
+      "top": 36.6,
+      "x1": 132.29999999999998,
+      "bottom": 44.1,
+      "confidence": 97.008522,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "the",
+      "x0": 135.6,
+      "top": 35.699999999999996,
+      "x1": 151.2,
+      "bottom": 44.099999999999994,
+      "confidence": 96.307434,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "top",
+      "x0": 154.5,
+      "top": 36.6,
+      "x1": 170.4,
+      "bottom": 46.2,
+      "confidence": 96.307434,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 174.29999999999998,
+      "top": 35.4,
+      "x1": 183.89999999999998,
+      "bottom": 44.099999999999994,
+      "confidence": 96.581818,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "the",
+      "x0": 186.6,
+      "top": 35.699999999999996,
+      "x1": 202.2,
+      "bottom": 44.099999999999994,
+      "confidence": 96.855995,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "letterhead,",
+      "x0": 206.4,
+      "top": 35.699999999999996,
+      "x1": 258.9,
+      "bottom": 45.599999999999994,
+      "confidence": 96.344254,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "\"Subject",
+      "x0": 263.09999999999997,
+      "top": 35.4,
+      "x1": 302.7,
+      "bottom": 46.199999999999996,
+      "confidence": 95.79747,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "to",
+      "x0": 306.0,
+      "top": 36.6,
+      "x1": 315.6,
+      "bottom": 44.1,
+      "confidence": 96.08802,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "the",
+      "x0": 318.9,
+      "top": 35.699999999999996,
+      "x1": 334.5,
+      "bottom": 44.099999999999994,
+      "confidence": 96.394707,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "jurisdiction",
+      "x0": 337.5,
+      "top": 35.699999999999996,
+      "x1": 391.2,
+      "bottom": 46.199999999999996,
+      "confidence": 96.615906,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 395.4,
+      "top": 35.4,
+      "x1": 405.0,
+      "bottom": 44.099999999999994,
+      "confidence": 96.429001,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Delhi",
+      "x0": 408.59999999999997,
+      "top": 35.699999999999996,
+      "x1": 431.99999999999994,
+      "bottom": 44.099999999999994,
+      "confidence": 96.429001,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Courts.\"",
+      "x0": 435.9,
+      "top": 35.4,
+      "x1": 474.29999999999995,
+      "bottom": 44.099999999999994,
+      "confidence": 94.538956,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Later",
+      "x0": 479.4,
+      "top": 36.3,
+      "x1": 503.09999999999997,
+      "bottom": 44.099999999999994,
+      "confidence": 82.066231,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "a",
+      "x0": 506.7,
+      "top": 38.1,
+      "x1": 510.9,
+      "bottom": 44.1,
+      "confidence": 82.066231,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "dispute",
+      "x0": 90.6,
+      "top": 51.6,
+      "x1": 125.69999999999999,
+      "bottom": 62.1,
+      "confidence": 96.464317,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "arises",
+      "x0": 129.6,
+      "top": 51.9,
+      "x1": 156.6,
+      "bottom": 60.0,
+      "confidence": 96.376823,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "and",
+      "x0": 160.5,
+      "top": 51.6,
+      "x1": 177.3,
+      "bottom": 60.0,
+      "confidence": 96.325516,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "A",
+      "x0": 178.5,
+      "top": 50.1,
+      "x1": 183.0,
+      "bottom": 63.3,
+      "confidence": 95.940216,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "files",
+      "x0": 190.79999999999998,
+      "top": 51.3,
+      "x1": 209.99999999999997,
+      "bottom": 60.0,
+      "confidence": 96.675911,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "an",
+      "x0": 213.6,
+      "top": 54.0,
+      "x1": 224.1,
+      "bottom": 60.0,
+      "confidence": 96.437805,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "action",
+      "x0": 228.29999999999998,
+      "top": 51.9,
+      "x1": 257.09999999999997,
+      "bottom": 60.0,
+      "confidence": 96.412315,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "in",
+      "x0": 261.59999999999997,
+      "top": 51.9,
+      "x1": 269.09999999999997,
+      "bottom": 59.699999999999996,
+      "confidence": 96.710381,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Kerala.",
+      "x0": 273.59999999999997,
+      "top": 51.6,
+      "x1": 305.4,
+      "bottom": 60.0,
+      "confidence": 96.880638,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "A.",
+      "x0": 144.29999999999998,
+      "top": 68.1,
+      "x1": 152.99999999999997,
+      "bottom": 75.6,
+      "confidence": 83.836365,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Acannot",
+      "x0": 171.29999999999998,
+      "top": 68.1,
+      "x1": 214.2,
+      "bottom": 75.89999999999999,
+      "confidence": 50.411049,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "file",
+      "x0": 217.2,
+      "top": 67.2,
+      "x1": 231.89999999999998,
+      "bottom": 75.9,
+      "confidence": 96.856758,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "legal",
+      "x0": 235.79999999999998,
+      "top": 67.5,
+      "x1": 257.09999999999997,
+      "bottom": 78.0,
+      "confidence": 96.977028,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "proceedings",
+      "x0": 261.3,
+      "top": 67.5,
+      "x1": 319.8,
+      "bottom": 78.0,
+      "confidence": 96.004051,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 323.7,
+      "top": 67.8,
+      "x1": 330.9,
+      "bottom": 75.6,
+      "confidence": 96.956741,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Kerala",
+      "x0": 335.7,
+      "top": 67.5,
+      "x1": 364.5,
+      "bottom": 75.9,
+      "confidence": 96.819275,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "since",
+      "x0": 368.4,
+      "top": 67.8,
+      "x1": 392.09999999999997,
+      "bottom": 75.89999999999999,
+      "confidence": 93.278084,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "B",
+      "x0": 396.3,
+      "top": 68.1,
+      "x1": 401.40000000000003,
+      "bottom": 75.6,
+      "confidence": 93.278084,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "has",
+      "x0": 405.3,
+      "top": 67.5,
+      "x1": 420.6,
+      "bottom": 75.9,
+      "confidence": 96.230446,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "clearly",
+      "x0": 424.5,
+      "top": 67.5,
+      "x1": 455.7,
+      "bottom": 78.0,
+      "confidence": 96.230446,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "indicated",
+      "x0": 459.3,
+      "top": 67.5,
+      "x1": 502.8,
+      "bottom": 75.9,
+      "confidence": 96.110909,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "that",
+      "x0": 506.7,
+      "top": 67.5,
+      "x1": 526.2,
+      "bottom": 75.9,
+      "confidence": 96.110909,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 171.29999999999998,
+      "top": 81.6,
+      "x1": 184.2,
+      "bottom": 94.5,
+      "confidence": 96.501259,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "jurisdiction",
+      "x0": 181.79999999999998,
+      "top": 82.8,
+      "x1": 243.59999999999997,
+      "bottom": 93.3,
+      "confidence": 96.574913,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "is",
+      "x0": 247.79999999999998,
+      "top": 83.1,
+      "x1": 254.1,
+      "bottom": 91.19999999999999,
+      "confidence": 96.809311,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "restricted",
+      "x0": 258.0,
+      "top": 82.8,
+      "x1": 303.3,
+      "bottom": 91.2,
+      "confidence": 96.526993,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "to",
+      "x0": 307.2,
+      "top": 83.7,
+      "x1": 316.8,
+      "bottom": 91.2,
+      "confidence": 96.797455,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Delhi",
+      "x0": 321.0,
+      "top": 82.8,
+      "x1": 344.4,
+      "bottom": 91.2,
+      "confidence": 96.838295,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "courts.",
+      "x0": 348.3,
+      "top": 83.7,
+      "x1": 380.7,
+      "bottom": 91.2,
+      "confidence": 96.709091,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "B.",
+      "x0": 144.9,
+      "top": 98.7,
+      "x1": 152.70000000000002,
+      "bottom": 106.2,
+      "confidence": 91.842049,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 171.0,
+      "top": 98.1,
+      "x1": 188.7,
+      "bottom": 106.5,
+      "confidence": 84.213837,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "agreement",
+      "x0": 192.29999999999998,
+      "top": 99.0,
+      "x1": 244.79999999999998,
+      "bottom": 108.6,
+      "confidence": 96.72171,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 248.7,
+      "top": 98.39999999999999,
+      "x1": 255.0,
+      "bottom": 106.49999999999999,
+      "confidence": 96.800308,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "void",
+      "x0": 258.3,
+      "top": 98.1,
+      "x1": 277.8,
+      "bottom": 106.5,
+      "confidence": 96.835251,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "as",
+      "x0": 282.0,
+      "top": 100.5,
+      "x1": 291.6,
+      "bottom": 106.5,
+      "confidence": 96.803505,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "it",
+      "x0": 295.5,
+      "top": 98.39999999999999,
+      "x1": 301.2,
+      "bottom": 106.49999999999999,
+      "confidence": 96.803505,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "tends",
+      "x0": 304.2,
+      "top": 98.1,
+      "x1": 330.9,
+      "bottom": 106.5,
+      "confidence": 96.648689,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 334.2,
+      "top": 99.0,
+      "x1": 344.09999999999997,
+      "bottom": 106.5,
+      "confidence": 96.612724,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "defeat",
+      "x0": 347.7,
+      "top": 97.8,
+      "x1": 378.59999999999997,
+      "bottom": 106.5,
+      "confidence": 96.819908,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 381.9,
+      "top": 98.1,
+      "x1": 397.2,
+      "bottom": 106.5,
+      "confidence": 96.526489,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "legal",
+      "x0": 401.4,
+      "top": 98.1,
+      "x1": 422.4,
+      "bottom": 108.6,
+      "confidence": 96.474815,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "process.",
+      "x0": 426.9,
+      "top": 100.5,
+      "x1": 465.59999999999997,
+      "bottom": 108.6,
+      "confidence": 96.474815,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "C.",
+      "x0": 144.6,
+      "top": 114.0,
+      "x1": 152.4,
+      "bottom": 122.1,
+      "confidence": 91.421036,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Since",
+      "x0": 171.29999999999998,
+      "top": 114.0,
+      "x1": 196.79999999999998,
+      "bottom": 122.1,
+      "confidence": 44.503754,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "B",
+      "x0": 200.7,
+      "top": 114.3,
+      "x1": 206.1,
+      "bottom": 121.8,
+      "confidence": 93.260574,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "has",
+      "x0": 210.0,
+      "top": 113.7,
+      "x1": 226.2,
+      "bottom": 122.10000000000001,
+      "confidence": 96.11087,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "written",
+      "x0": 229.5,
+      "top": 114.0,
+      "x1": 265.5,
+      "bottom": 122.1,
+      "confidence": 96.11087,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 269.09999999999997,
+      "top": 113.7,
+      "x1": 284.99999999999994,
+      "bottom": 122.10000000000001,
+      "confidence": 96.343758,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "words",
+      "x0": 288.3,
+      "top": 113.7,
+      "x1": 318.6,
+      "bottom": 122.10000000000001,
+      "confidence": 96.240433,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "at",
+      "x0": 322.2,
+      "top": 114.6,
+      "x1": 331.5,
+      "bottom": 122.1,
+      "confidence": 96.987076,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 334.5,
+      "top": 113.7,
+      "x1": 350.7,
+      "bottom": 122.10000000000001,
+      "confidence": 96.952377,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "top",
+      "x0": 354.0,
+      "top": 114.6,
+      "x1": 370.5,
+      "bottom": 124.19999999999999,
+      "confidence": 95.762291,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 374.09999999999997,
+      "top": 113.39999999999999,
+      "x1": 383.99999999999994,
+      "bottom": 122.1,
+      "confidence": 95.762291,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "his",
+      "x0": 387.3,
+      "top": 113.7,
+      "x1": 400.5,
+      "bottom": 122.10000000000001,
+      "confidence": 96.777199,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "letterhead,",
+      "x0": 404.09999999999997,
+      "top": 113.7,
+      "x1": 458.4,
+      "bottom": 123.60000000000001,
+      "confidence": 96.33609,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "they",
+      "x0": 461.7,
+      "top": 113.7,
+      "x1": 483.9,
+      "bottom": 124.2,
+      "confidence": 96.421021,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "do",
+      "x0": 486.9,
+      "top": 113.7,
+      "x1": 499.2,
+      "bottom": 122.10000000000001,
+      "confidence": 95.863083,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "not",
+      "x0": 502.79999999999995,
+      "top": 114.6,
+      "x1": 519.0,
+      "bottom": 122.1,
+      "confidence": 96.614471,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "become",
+      "x0": 171.6,
+      "top": 129.0,
+      "x1": 210.29999999999998,
+      "bottom": 137.4,
+      "confidence": 96.244583,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "part",
+      "x0": 214.2,
+      "top": 129.9,
+      "x1": 234.0,
+      "bottom": 139.5,
+      "confidence": 96.74102,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 237.29999999999998,
+      "top": 128.7,
+      "x1": 247.2,
+      "bottom": 137.39999999999998,
+      "confidence": 96.591667,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 249.89999999999998,
+      "top": 129.0,
+      "x1": 266.09999999999997,
+      "bottom": 137.4,
+      "confidence": 96.788597,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "contract",
+      "x0": 269.7,
+      "top": 129.9,
+      "x1": 310.2,
+      "bottom": 137.4,
+      "confidence": 96.307854,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "and",
+      "x0": 313.8,
+      "top": 129.0,
+      "x1": 331.5,
+      "bottom": 137.4,
+      "confidence": 96.546791,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "hence",
+      "x0": 335.4,
+      "top": 129.0,
+      "x1": 364.5,
+      "bottom": 137.4,
+      "confidence": 96.581375,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "A",
+      "x0": 364.8,
+      "top": 127.5,
+      "x1": 369.6,
+      "bottom": 141.0,
+      "confidence": 96.214653,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "is",
+      "x0": 378.0,
+      "top": 129.29999999999998,
+      "x1": 384.9,
+      "bottom": 137.39999999999998,
+      "confidence": 96.202744,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "free",
+      "x0": 387.9,
+      "top": 128.7,
+      "x1": 407.4,
+      "bottom": 137.39999999999998,
+      "confidence": 96.575836,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "to",
+      "x0": 410.7,
+      "top": 129.9,
+      "x1": 420.9,
+      "bottom": 137.4,
+      "confidence": 96.201637,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "file",
+      "x0": 424.2,
+      "top": 128.7,
+      "x1": 439.5,
+      "bottom": 137.39999999999998,
+      "confidence": 96.201637,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 442.5,
+      "top": 129.0,
+      "x1": 458.7,
+      "bottom": 137.4,
+      "confidence": 96.475754,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "action",
+      "x0": 462.29999999999995,
+      "top": 129.29999999999998,
+      "x1": 491.99999999999994,
+      "bottom": 137.39999999999998,
+      "confidence": 96.533531,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "in",
+      "x0": 495.9,
+      "top": 129.29999999999998,
+      "x1": 504.29999999999995,
+      "bottom": 137.1,
+      "confidence": 96.463722,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "any",
+      "x0": 507.9,
+      "top": 131.4,
+      "x1": 525.6,
+      "bottom": 139.5,
+      "confidence": 96.859901,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "court",
+      "x0": 171.29999999999998,
+      "top": 145.2,
+      "x1": 197.1,
+      "bottom": 152.7,
+      "confidence": 96.957458,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "3"
+    },
+    {
+      "text": "which",
+      "x0": 200.4,
+      "top": 144.29999999999998,
+      "x1": 229.2,
+      "bottom": 152.7,
+      "confidence": 95.509529,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "3"
+    },
+    {
+      "text": "has",
+      "x0": 233.39999999999998,
+      "top": 144.29999999999998,
+      "x1": 249.29999999999998,
+      "bottom": 152.7,
+      "confidence": 95.509529,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "3"
+    },
+    {
+      "text": "jurisdiction.",
+      "x0": 252.29999999999998,
+      "top": 144.29999999999998,
+      "x1": 310.79999999999995,
+      "bottom": 154.79999999999998,
+      "confidence": 95.60141,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "3"
+    },
+    {
+      "text": "D.",
+      "x0": 144.9,
+      "top": 160.5,
+      "x1": 153.6,
+      "bottom": 168.0,
+      "confidence": 90.558426,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Since",
+      "x0": 171.29999999999998,
+      "top": 160.2,
+      "x1": 195.89999999999998,
+      "bottom": 168.29999999999998,
+      "confidence": 37.553768,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 199.5,
+      "top": 159.9,
+      "x1": 215.1,
+      "bottom": 168.3,
+      "confidence": 96.855209,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "letterhead",
+      "x0": 219.29999999999998,
+      "top": 159.9,
+      "x1": 268.79999999999995,
+      "bottom": 168.3,
+      "confidence": 96.621353,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 273.0,
+      "top": 160.2,
+      "x1": 279.3,
+      "bottom": 168.29999999999998,
+      "confidence": 96.980453,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "part",
+      "x0": 283.2,
+      "top": 160.79999999999998,
+      "x1": 302.09999999999997,
+      "bottom": 170.39999999999998,
+      "confidence": 96.576546,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 306.0,
+      "top": 159.6,
+      "x1": 315.3,
+      "bottom": 168.29999999999998,
+      "confidence": 96.588593,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 318.3,
+      "top": 159.9,
+      "x1": 333.90000000000003,
+      "bottom": 168.3,
+      "confidence": 96.134987,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "agreement",
+      "x0": 337.5,
+      "top": 160.79999999999998,
+      "x1": 390.0,
+      "bottom": 170.39999999999998,
+      "confidence": 96.72718,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 393.59999999999997,
+      "top": 159.6,
+      "x1": 403.2,
+      "bottom": 168.29999999999998,
+      "confidence": 96.749878,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "acceptance,",
+      "x0": 406.2,
+      "top": 160.79999999999998,
+      "x1": 463.2,
+      "bottom": 170.39999999999998,
+      "confidence": 96.507156,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 467.09999999999997,
+      "top": 159.9,
+      "x1": 482.4,
+      "bottom": 168.3,
+      "confidence": 96.036514,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "agreement",
+      "x0": 486.29999999999995,
+      "top": 160.79999999999998,
+      "x1": 538.8,
+      "bottom": 170.39999999999998,
+      "confidence": 96.252243,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 171.9,
+      "top": 175.5,
+      "x1": 177.9,
+      "bottom": 183.6,
+      "confidence": 96.632156,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "2"
+    },
+    {
+      "text": "enforceable.",
+      "x0": 181.79999999999998,
+      "top": 174.9,
+      "x1": 241.49999999999997,
+      "bottom": 183.6,
+      "confidence": 96.291969,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "2"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

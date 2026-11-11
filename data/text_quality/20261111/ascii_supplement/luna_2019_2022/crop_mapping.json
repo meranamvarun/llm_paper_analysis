@@ -1,0 +1,31 @@
+{
+  "source_sha256": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b",
+  "mapping": [
+    {
+      "pdf_page": 209,
+      "line_id": "l0033",
+      "flag_ids": [
+        "flag-01380",
+        "flag-01381",
+        "flag-01382"
+      ],
+      "source_mapping": "raw_text_offset_or_unique_token",
+      "crop_index": 0,
+      "sheet_path": "data\\text_quality\\20261111\\ascii_supplement\\luna_2019_2022\\flag_crops\\sheet_001.jpg"
+    },
+    {
+      "pdf_page": 214,
+      "line_id": "l0031",
+      "flag_ids": [
+        "flag-01383"
+      ],
+      "source_mapping": "raw_text_offset_or_unique_token",
+      "crop_index": 1,
+      "sheet_path": "data\\text_quality\\20261111\\ascii_supplement\\luna_2019_2022\\flag_crops\\sheet_001.jpg"
+    }
+  ],
+  "unmapped_flags": [],
+  "sheet_hashes": {
+    "data\\text_quality\\20261111\\ascii_supplement\\luna_2019_2022\\flag_crops\\sheet_001.jpg": "75abc1f01d57c8e602933aa89af0701cfb83f1ef33cf89d140781a21bb3a41fb"
+  }
+}

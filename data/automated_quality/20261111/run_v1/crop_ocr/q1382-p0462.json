@@ -1,0 +1,1086 @@
+{
+  "pdf_page": 462,
+  "crop_top": 57.960000000000036,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "33. A, a singer, enters into a contract with B, the manager of a theatre, to sing at his theatre",
+      "bbox": [
+        72.6,
+        3.5999999999999996,
+        539.1,
+        14.399999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "two nights every week during the following two months, and B agrees to pay Rupees 100/-",
+      "bbox": [
+        90.3,
+        18.0,
+        539.7,
+        29.1
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "for each night's performance. On the sixth night A wilfully absents herself from the theatre.",
+      "bbox": [
+        90.3,
+        33.0,
+        534.3,
+        43.8
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "A. Bis at liberty to put an end to the contract.",
+      "bbox": [
+        144.29999999999998,
+        62.4,
+        385.2,
+        72.9
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "B. _B has to give notice to end the contract.",
+      "bbox": [
+        144.9,
+        84.6,
+        364.8,
+        95.1
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "C. Bcannot breach the contract.",
+      "bbox": [
+        144.6,
+        106.5,
+        315.0,
+        114.9
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "D. It is A’s freedom to take leave, so B has to retain A",
+      "bbox": [
+        144.9,
+        128.1,
+        415.2,
+        138.3
+      ]
+    }
+  ],
+  "text": "33. A, a singer, enters into a contract with B, the manager of a theatre, to sing at his theatre\ntwo nights every week during the following two months, and B agrees to pay Rupees 100/-\nfor each night's performance. On the sixth night A wilfully absents herself from the theatre.\nA. Bis at liberty to put an end to the contract.\nB. _B has to give notice to end the contract.\nC. Bcannot breach the contract.\nD. It is A’s freedom to take leave, so B has to retain A",
+  "ocr_words": [
+    {
+      "text": "33.",
+      "x0": 72.6,
+      "top": 4.2,
+      "x1": 86.69999999999999,
+      "bottom": 12.3,
+      "confidence": 45.092209,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A,",
+      "x0": 90.3,
+      "top": 4.5,
+      "x1": 99.0,
+      "bottom": 13.799999999999999,
+      "confidence": 45.092209,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 104.39999999999999,
+      "top": 6.3,
+      "x1": 108.6,
+      "bottom": 12.3,
+      "confidence": 93.974884,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "singer,",
+      "x0": 113.7,
+      "top": 4.2,
+      "x1": 145.2,
+      "bottom": 14.399999999999999,
+      "confidence": 93.974884,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "enters",
+      "x0": 150.29999999999998,
+      "top": 4.8,
+      "x1": 180.59999999999997,
+      "bottom": 12.3,
+      "confidence": 96.416023,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "into",
+      "x0": 185.7,
+      "top": 4.2,
+      "x1": 203.7,
+      "bottom": 12.3,
+      "confidence": 96.342545,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 208.5,
+      "top": 6.3,
+      "x1": 212.7,
+      "bottom": 12.3,
+      "confidence": 96.569969,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "contract",
+      "x0": 218.1,
+      "top": 4.8,
+      "x1": 258.0,
+      "bottom": 12.3,
+      "confidence": 96.212379,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "with",
+      "x0": 262.5,
+      "top": 3.9,
+      "x1": 282.9,
+      "bottom": 12.3,
+      "confidence": 93.300156,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "B,",
+      "x0": 288.9,
+      "top": 4.5,
+      "x1": 296.7,
+      "bottom": 13.799999999999999,
+      "confidence": 93.197624,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 301.5,
+      "top": 3.9,
+      "x1": 317.1,
+      "bottom": 12.3,
+      "confidence": 96.352203,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "manager",
+      "x0": 322.2,
+      "top": 6.3,
+      "x1": 364.5,
+      "bottom": 14.399999999999999,
+      "confidence": 96.313805,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 369.0,
+      "top": 3.5999999999999996,
+      "x1": 378.6,
+      "bottom": 12.299999999999999,
+      "confidence": 96.380562,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 382.8,
+      "top": 6.3,
+      "x1": 387.0,
+      "bottom": 12.3,
+      "confidence": 96.786118,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "theatre,",
+      "x0": 392.09999999999997,
+      "top": 3.9,
+      "x1": 430.2,
+      "bottom": 13.8,
+      "confidence": 96.898834,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 435.0,
+      "top": 4.8,
+      "x1": 444.6,
+      "bottom": 12.3,
+      "confidence": 96.845375,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "sing",
+      "x0": 449.4,
+      "top": 4.2,
+      "x1": 468.0,
+      "bottom": 14.399999999999999,
+      "confidence": 96.241859,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "at",
+      "x0": 472.79999999999995,
+      "top": 4.8,
+      "x1": 481.79999999999995,
+      "bottom": 12.3,
+      "confidence": 96.99382,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "his",
+      "x0": 486.9,
+      "top": 3.9,
+      "x1": 499.2,
+      "bottom": 12.3,
+      "confidence": 96.840294,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "theatre",
+      "x0": 503.7,
+      "top": 3.9,
+      "x1": 539.1,
+      "bottom": 12.3,
+      "confidence": 96.52877,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "two",
+      "x0": 90.3,
+      "top": 19.5,
+      "x1": 108.3,
+      "bottom": 27.0,
+      "confidence": 96.595383,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "nights",
+      "x0": 112.8,
+      "top": 18.599999999999998,
+      "x1": 141.3,
+      "bottom": 29.099999999999998,
+      "confidence": 96.512131,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "every",
+      "x0": 145.2,
+      "top": 21.0,
+      "x1": 171.6,
+      "bottom": 29.1,
+      "confidence": 96.727356,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "week",
+      "x0": 175.2,
+      "top": 18.599999999999998,
+      "x1": 200.39999999999998,
+      "bottom": 27.0,
+      "confidence": 96.56102,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "during",
+      "x0": 204.29999999999998,
+      "top": 18.599999999999998,
+      "x1": 234.89999999999998,
+      "bottom": 29.099999999999998,
+      "confidence": 96.780502,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 238.5,
+      "top": 18.599999999999998,
+      "x1": 254.1,
+      "bottom": 27.0,
+      "confidence": 96.758034,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "following",
+      "x0": 258.0,
+      "top": 18.3,
+      "x1": 302.4,
+      "bottom": 29.1,
+      "confidence": 96.539696,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "two",
+      "x0": 306.0,
+      "top": 19.5,
+      "x1": 324.3,
+      "bottom": 27.0,
+      "confidence": 96.63166,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "months,",
+      "x0": 328.8,
+      "top": 18.599999999999998,
+      "x1": 367.2,
+      "bottom": 28.5,
+      "confidence": 96.372139,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "and",
+      "x0": 371.7,
+      "top": 18.599999999999998,
+      "x1": 388.5,
+      "bottom": 27.0,
+      "confidence": 93.286011,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "B",
+      "x0": 393.9,
+      "top": 19.2,
+      "x1": 399.0,
+      "bottom": 26.7,
+      "confidence": 92.855263,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "agrees",
+      "x0": 402.9,
+      "top": 21.0,
+      "x1": 434.4,
+      "bottom": 29.1,
+      "confidence": 96.230247,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "to",
+      "x0": 438.0,
+      "top": 19.5,
+      "x1": 447.6,
+      "bottom": 27.0,
+      "confidence": 96.553017,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "pay",
+      "x0": 452.09999999999997,
+      "top": 21.0,
+      "x1": 468.59999999999997,
+      "bottom": 29.1,
+      "confidence": 92.925735,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Rupees",
+      "x0": 475.79999999999995,
+      "top": 19.2,
+      "x1": 509.99999999999994,
+      "bottom": 29.1,
+      "confidence": 92.925735,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "100/-",
+      "x0": 514.5,
+      "top": 18.0,
+      "x1": 539.7,
+      "bottom": 28.5,
+      "confidence": 92.888412,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "for",
+      "x0": 90.3,
+      "top": 33.0,
+      "x1": 104.1,
+      "bottom": 41.7,
+      "confidence": 96.014984,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "each",
+      "x0": 107.39999999999999,
+      "top": 33.3,
+      "x1": 129.29999999999998,
+      "bottom": 41.699999999999996,
+      "confidence": 96.014984,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "night's",
+      "x0": 133.5,
+      "top": 33.0,
+      "x1": 164.7,
+      "bottom": 43.8,
+      "confidence": 96.06102,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "performance.",
+      "x0": 168.6,
+      "top": 33.0,
+      "x1": 233.39999999999998,
+      "bottom": 43.8,
+      "confidence": 96.368889,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "On",
+      "x0": 237.6,
+      "top": 33.6,
+      "x1": 250.2,
+      "bottom": 41.7,
+      "confidence": 95.11615,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "the",
+      "x0": 254.1,
+      "top": 33.3,
+      "x1": 269.7,
+      "bottom": 41.699999999999996,
+      "confidence": 95.11615,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "sixth",
+      "x0": 273.3,
+      "top": 33.3,
+      "x1": 294.90000000000003,
+      "bottom": 41.699999999999996,
+      "confidence": 96.741447,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "night",
+      "x0": 299.4,
+      "top": 33.3,
+      "x1": 323.09999999999997,
+      "bottom": 43.8,
+      "confidence": 96.694511,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "A",
+      "x0": 326.4,
+      "top": 33.9,
+      "x1": 333.0,
+      "bottom": 41.4,
+      "confidence": 96.713112,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "wilfully",
+      "x0": 336.3,
+      "top": 33.0,
+      "x1": 370.8,
+      "bottom": 43.8,
+      "confidence": 93.273026,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "absents",
+      "x0": 374.09999999999997,
+      "top": 33.3,
+      "x1": 410.99999999999994,
+      "bottom": 41.699999999999996,
+      "confidence": 92.034653,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "herself",
+      "x0": 414.9,
+      "top": 33.0,
+      "x1": 447.59999999999997,
+      "bottom": 41.7,
+      "confidence": 96.765968,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "from",
+      "x0": 450.59999999999997,
+      "top": 33.0,
+      "x1": 473.09999999999997,
+      "bottom": 41.7,
+      "confidence": 96.765968,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "the",
+      "x0": 477.0,
+      "top": 33.3,
+      "x1": 492.6,
+      "bottom": 41.699999999999996,
+      "confidence": 96.924957,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "theatre.",
+      "x0": 495.9,
+      "top": 33.3,
+      "x1": 534.3,
+      "bottom": 41.699999999999996,
+      "confidence": 96.605209,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "A.",
+      "x0": 144.29999999999998,
+      "top": 63.0,
+      "x1": 153.89999999999998,
+      "bottom": 70.5,
+      "confidence": 94.368889,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Bis",
+      "x0": 171.9,
+      "top": 62.699999999999996,
+      "x1": 187.8,
+      "bottom": 70.8,
+      "confidence": 37.102013,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "at",
+      "x0": 191.4,
+      "top": 63.3,
+      "x1": 200.70000000000002,
+      "bottom": 70.8,
+      "confidence": 95.197517,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "liberty",
+      "x0": 204.29999999999998,
+      "top": 62.4,
+      "x1": 236.09999999999997,
+      "bottom": 72.9,
+      "confidence": 95.197517,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 238.79999999999998,
+      "top": 63.3,
+      "x1": 248.99999999999997,
+      "bottom": 70.8,
+      "confidence": 96.783844,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "put",
+      "x0": 252.89999999999998,
+      "top": 63.3,
+      "x1": 269.09999999999997,
+      "bottom": 72.89999999999999,
+      "confidence": 96.848244,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "an",
+      "x0": 272.4,
+      "top": 64.8,
+      "x1": 283.5,
+      "bottom": 70.8,
+      "confidence": 96.511108,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "end",
+      "x0": 287.4,
+      "top": 62.4,
+      "x1": 305.09999999999997,
+      "bottom": 70.8,
+      "confidence": 96.024948,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 308.7,
+      "top": 63.3,
+      "x1": 318.59999999999997,
+      "bottom": 70.8,
+      "confidence": 96.712753,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 321.9,
+      "top": 62.4,
+      "x1": 338.09999999999997,
+      "bottom": 70.8,
+      "confidence": 96.911087,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "contract.",
+      "x0": 341.7,
+      "top": 63.3,
+      "x1": 385.2,
+      "bottom": 70.8,
+      "confidence": 96.574783,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "B.",
+      "x0": 144.9,
+      "top": 85.2,
+      "x1": 152.70000000000002,
+      "bottom": 92.7,
+      "confidence": 83.481476,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "_B",
+      "x0": 171.9,
+      "top": 85.2,
+      "x1": 177.0,
+      "bottom": 92.7,
+      "confidence": 0.0,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "has",
+      "x0": 181.2,
+      "top": 84.6,
+      "x1": 196.5,
+      "bottom": 93.0,
+      "confidence": 96.621223,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 199.79999999999998,
+      "top": 85.5,
+      "x1": 209.39999999999998,
+      "bottom": 93.0,
+      "confidence": 96.146652,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "give",
+      "x0": 213.0,
+      "top": 84.89999999999999,
+      "x1": 231.9,
+      "bottom": 95.1,
+      "confidence": 96.146652,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "notice",
+      "x0": 236.1,
+      "top": 84.89999999999999,
+      "x1": 265.2,
+      "bottom": 92.99999999999999,
+      "confidence": 96.852119,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 268.5,
+      "top": 85.5,
+      "x1": 278.1,
+      "bottom": 93.0,
+      "confidence": 96.853714,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "end",
+      "x0": 282.0,
+      "top": 84.6,
+      "x1": 299.1,
+      "bottom": 93.0,
+      "confidence": 96.646782,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 303.0,
+      "top": 84.6,
+      "x1": 318.3,
+      "bottom": 93.0,
+      "confidence": 96.189423,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "contract.",
+      "x0": 322.2,
+      "top": 85.5,
+      "x1": 364.8,
+      "bottom": 93.0,
+      "confidence": 96.189423,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "C.",
+      "x0": 144.6,
+      "top": 106.8,
+      "x1": 152.4,
+      "bottom": 114.89999999999999,
+      "confidence": 67.237106,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Bcannot",
+      "x0": 171.9,
+      "top": 107.1,
+      "x1": 213.6,
+      "bottom": 114.89999999999999,
+      "confidence": 67.237106,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "breach",
+      "x0": 217.79999999999998,
+      "top": 106.5,
+      "x1": 249.59999999999997,
+      "bottom": 114.9,
+      "confidence": 96.404594,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 253.2,
+      "top": 106.5,
+      "x1": 268.8,
+      "bottom": 114.9,
+      "confidence": 96.728607,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "contract.",
+      "x0": 272.4,
+      "top": 107.39999999999999,
+      "x1": 315.0,
+      "bottom": 114.89999999999999,
+      "confidence": 96.441406,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "D.",
+      "x0": 144.9,
+      "top": 129.0,
+      "x1": 153.6,
+      "bottom": 136.5,
+      "confidence": 91.96434,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "It",
+      "x0": 171.9,
+      "top": 129.0,
+      "x1": 177.6,
+      "bottom": 136.8,
+      "confidence": 56.866898,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 181.5,
+      "top": 128.7,
+      "x1": 187.8,
+      "bottom": 136.79999999999998,
+      "confidence": 83.958092,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A’s",
+      "x0": 191.1,
+      "top": 128.1,
+      "x1": 205.2,
+      "bottom": 136.79999999999998,
+      "confidence": 92.053719,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "freedom",
+      "x0": 208.5,
+      "top": 128.1,
+      "x1": 249.6,
+      "bottom": 136.79999999999998,
+      "confidence": 96.547012,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 253.2,
+      "top": 129.29999999999998,
+      "x1": 262.8,
+      "bottom": 136.79999999999998,
+      "confidence": 96.325165,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "take",
+      "x0": 266.09999999999997,
+      "top": 128.4,
+      "x1": 286.49999999999994,
+      "bottom": 136.8,
+      "confidence": 96.325165,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "leave,",
+      "x0": 290.7,
+      "top": 128.4,
+      "x1": 318.0,
+      "bottom": 138.3,
+      "confidence": 95.554977,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "so",
+      "x0": 321.9,
+      "top": 130.79999999999998,
+      "x1": 331.79999999999995,
+      "bottom": 136.79999999999998,
+      "confidence": 93.259476,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "B",
+      "x0": 336.3,
+      "top": 129.0,
+      "x1": 341.1,
+      "bottom": 136.5,
+      "confidence": 93.259476,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "has",
+      "x0": 345.3,
+      "top": 128.4,
+      "x1": 360.6,
+      "bottom": 136.8,
+      "confidence": 96.41626,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 363.9,
+      "top": 129.29999999999998,
+      "x1": 373.5,
+      "bottom": 136.79999999999998,
+      "confidence": 96.860489,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "retain",
+      "x0": 377.7,
+      "top": 128.7,
+      "x1": 405.0,
+      "bottom": 136.79999999999998,
+      "confidence": 95.921234,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A",
+      "x0": 408.59999999999997,
+      "top": 129.0,
+      "x1": 415.2,
+      "bottom": 136.5,
+      "confidence": 96.385872,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

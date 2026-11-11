@@ -1,0 +1,68 @@
+{
+  "pdf_page": 382,
+  "crop_top": 791.24137,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.10 A Right is:",
+      "bbox": [
+        42.0,
+        3.5999999999999996,
+        93.0,
+        10.2
+      ]
+    }
+  ],
+  "text": "Q.10 A Right is:",
+  "ocr_words": [
+    {
+      "text": "Q.10",
+      "x0": 42.0,
+      "top": 3.9,
+      "x1": 56.1,
+      "bottom": 9.6,
+      "confidence": 91.952873,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A",
+      "x0": 62.4,
+      "top": 3.9,
+      "x1": 66.9,
+      "bottom": 8.7,
+      "confidence": 82.546341,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Right",
+      "x0": 69.0,
+      "top": 3.5999999999999996,
+      "x1": 84.6,
+      "bottom": 10.2,
+      "confidence": 82.546341,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is:",
+      "x0": 87.0,
+      "top": 3.9,
+      "x1": 93.0,
+      "bottom": 8.7,
+      "confidence": 91.548309,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

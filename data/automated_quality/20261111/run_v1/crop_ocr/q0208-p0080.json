@@ -1,0 +1,568 @@
+{
+  "pdf_page": 80,
+  "crop_top": 278.11859999999996,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "89. In which international forum did the ‘Environmental rule of Law’ find recognition for",
+      "bbox": [
+        105.3,
+        3.5999999999999996,
+        551.6999999999999,
+        13.8
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "the first time?",
+      "bbox": [
+        126.3,
+        17.4,
+        197.4,
+        25.799999999999997
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(A) Stockholm Conference Human Environment, 1970",
+      "bbox": [
+        125.39999999999999,
+        31.2,
+        418.8,
+        41.4
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "on",
+      "bbox": [
+        264.9,
+        34.5,
+        276.59999999999997,
+        39.9
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(B) Rio Declaration on Environment, 1992",
+      "bbox": [
+        125.39999999999999,
+        45.6,
+        343.2,
+        55.5
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "(C) Johannesburg Declaration on Sustainable Development, 2002",
+      "bbox": [
+        125.39999999999999,
+        59.4,
+        461.40000000000003,
+        69.6
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "(D) UNEP’s Governing Council Decision 279, 2013",
+      "bbox": [
+        124.8,
+        73.5,
+        384.29999999999995,
+        83.7
+      ]
+    }
+  ],
+  "text": "89. In which international forum did the ‘Environmental rule of Law’ find recognition for\nthe first time?\n(A) Stockholm Conference Human Environment, 1970\non\n(B) Rio Declaration on Environment, 1992\n(C) Johannesburg Declaration on Sustainable Development, 2002\n(D) UNEP’s Governing Council Decision 279, 2013",
+  "ocr_words": [
+    {
+      "text": "89.",
+      "x0": 105.3,
+      "top": 4.2,
+      "x1": 119.1,
+      "bottom": 12.0,
+      "confidence": 96.412979,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "In",
+      "x0": 126.3,
+      "top": 3.9,
+      "x1": 136.8,
+      "bottom": 11.7,
+      "confidence": 96.628197,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "which",
+      "x0": 139.79999999999998,
+      "top": 3.5999999999999996,
+      "x1": 169.79999999999998,
+      "bottom": 12.0,
+      "confidence": 96.050957,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "international",
+      "x0": 172.79999999999998,
+      "top": 3.5999999999999996,
+      "x1": 239.39999999999998,
+      "bottom": 12.0,
+      "confidence": 96.127899,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "forum",
+      "x0": 242.39999999999998,
+      "top": 3.5999999999999996,
+      "x1": 272.4,
+      "bottom": 12.0,
+      "confidence": 94.835716,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "did",
+      "x0": 275.7,
+      "top": 3.5999999999999996,
+      "x1": 291.3,
+      "bottom": 12.0,
+      "confidence": 96.270668,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 294.0,
+      "top": 3.5999999999999996,
+      "x1": 309.9,
+      "bottom": 12.0,
+      "confidence": 96.470451,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "‘Environmental",
+      "x0": 313.2,
+      "top": 3.5999999999999996,
+      "x1": 391.79999999999995,
+      "bottom": 12.0,
+      "confidence": 95.682106,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "rule",
+      "x0": 394.8,
+      "top": 3.5999999999999996,
+      "x1": 414.6,
+      "bottom": 12.0,
+      "confidence": 95.572403,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 417.9,
+      "top": 3.5999999999999996,
+      "x1": 427.5,
+      "bottom": 12.0,
+      "confidence": 96.630386,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Law’",
+      "x0": 429.59999999999997,
+      "top": 3.5999999999999996,
+      "x1": 452.99999999999994,
+      "bottom": 12.0,
+      "confidence": 62.145992,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "find",
+      "x0": 456.0,
+      "top": 3.5999999999999996,
+      "x1": 476.1,
+      "bottom": 12.0,
+      "confidence": 91.369972,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "recognition",
+      "x0": 478.79999999999995,
+      "top": 3.9,
+      "x1": 535.1999999999999,
+      "bottom": 13.8,
+      "confidence": 96.345009,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "for",
+      "x0": 538.1999999999999,
+      "top": 3.5999999999999996,
+      "x1": 551.6999999999999,
+      "bottom": 12.0,
+      "confidence": 96.964188,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 126.3,
+      "top": 17.4,
+      "x1": 142.2,
+      "bottom": 25.799999999999997,
+      "confidence": 96.26899,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "first",
+      "x0": 145.79999999999998,
+      "top": 17.4,
+      "x1": 166.49999999999997,
+      "bottom": 25.799999999999997,
+      "confidence": 95.823624,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "time?",
+      "x0": 170.1,
+      "top": 17.7,
+      "x1": 197.4,
+      "bottom": 25.799999999999997,
+      "confidence": 95.823624,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(A)",
+      "x0": 125.39999999999999,
+      "top": 31.5,
+      "x1": 139.2,
+      "bottom": 41.4,
+      "confidence": 96.888496,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Stockholm",
+      "x0": 148.79999999999998,
+      "top": 31.2,
+      "x1": 201.29999999999998,
+      "bottom": 39.9,
+      "confidence": 96.52095,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Conference",
+      "x0": 205.2,
+      "top": 31.5,
+      "x1": 261.0,
+      "bottom": 39.9,
+      "confidence": 96.508949,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "on",
+      "x0": 264.9,
+      "top": 34.5,
+      "x1": 276.59999999999997,
+      "bottom": 39.9,
+      "confidence": 95.826347,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Human",
+      "x0": 280.2,
+      "top": 31.799999999999997,
+      "x1": 318.0,
+      "bottom": 39.9,
+      "confidence": 95.826347,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Environment,",
+      "x0": 321.9,
+      "top": 31.799999999999997,
+      "x1": 390.9,
+      "bottom": 41.099999999999994,
+      "confidence": 96.40139,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "1970",
+      "x0": 396.0,
+      "top": 32.1,
+      "x1": 418.8,
+      "bottom": 39.9,
+      "confidence": 96.883018,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(B)",
+      "x0": 125.39999999999999,
+      "top": 45.6,
+      "x1": 139.2,
+      "bottom": 55.5,
+      "confidence": 93.230522,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Rio",
+      "x0": 148.2,
+      "top": 45.9,
+      "x1": 164.7,
+      "bottom": 54.0,
+      "confidence": 96.116203,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Declaration",
+      "x0": 168.29999999999998,
+      "top": 45.6,
+      "x1": 227.09999999999997,
+      "bottom": 54.0,
+      "confidence": 95.994705,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "on",
+      "x0": 230.7,
+      "top": 48.6,
+      "x1": 242.39999999999998,
+      "bottom": 54.0,
+      "confidence": 95.859268,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Environment,",
+      "x0": 246.29999999999998,
+      "top": 45.9,
+      "x1": 315.29999999999995,
+      "bottom": 55.199999999999996,
+      "confidence": 96.206039,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "1992",
+      "x0": 320.4,
+      "top": 46.199999999999996,
+      "x1": 343.2,
+      "bottom": 53.99999999999999,
+      "confidence": 96.567055,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(C)",
+      "x0": 125.39999999999999,
+      "top": 59.4,
+      "x1": 139.2,
+      "bottom": 69.3,
+      "confidence": 92.750259,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Johannesburg",
+      "x0": 148.2,
+      "top": 59.4,
+      "x1": 219.89999999999998,
+      "bottom": 69.6,
+      "confidence": 96.445595,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Declaration",
+      "x0": 223.5,
+      "top": 59.4,
+      "x1": 282.3,
+      "bottom": 67.8,
+      "confidence": 96.512962,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "on",
+      "x0": 285.9,
+      "top": 62.4,
+      "x1": 297.59999999999997,
+      "bottom": 67.8,
+      "confidence": 96.228989,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Sustainable",
+      "x0": 301.5,
+      "top": 59.4,
+      "x1": 361.2,
+      "bottom": 67.8,
+      "confidence": 95.64035,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Development,",
+      "x0": 364.8,
+      "top": 59.4,
+      "x1": 433.8,
+      "bottom": 69.6,
+      "confidence": 96.358162,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "2002",
+      "x0": 438.3,
+      "top": 60.0,
+      "x1": 461.40000000000003,
+      "bottom": 67.8,
+      "confidence": 96.701187,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "(D)",
+      "x0": 124.8,
+      "top": 73.5,
+      "x1": 139.2,
+      "bottom": 83.4,
+      "confidence": 90.283669,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "UNEP’s",
+      "x0": 148.2,
+      "top": 73.5,
+      "x1": 188.1,
+      "bottom": 81.9,
+      "confidence": 90.745575,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Governing",
+      "x0": 192.0,
+      "top": 73.5,
+      "x1": 244.5,
+      "bottom": 83.7,
+      "confidence": 96.578011,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Council",
+      "x0": 248.39999999999998,
+      "top": 73.5,
+      "x1": 286.2,
+      "bottom": 81.9,
+      "confidence": 96.219597,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Decision",
+      "x0": 289.8,
+      "top": 73.8,
+      "x1": 332.40000000000003,
+      "bottom": 81.89999999999999,
+      "confidence": 96.731842,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "279,",
+      "x0": 336.3,
+      "top": 74.1,
+      "x1": 356.40000000000003,
+      "bottom": 83.39999999999999,
+      "confidence": 96.877388,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "2013",
+      "x0": 360.59999999999997,
+      "top": 74.1,
+      "x1": 384.29999999999995,
+      "bottom": 81.89999999999999,
+      "confidence": 96.711525,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

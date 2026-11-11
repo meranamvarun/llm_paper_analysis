@@ -1,0 +1,17 @@
+{
+  "checks": {
+    "run_v1_input_output_hashes": true,
+    "strict_report_v1_input_output_hashes": true,
+    "all_pages_and_questions_accounted_for": true,
+    "no_manual_requirement": true,
+    "no_empirical_accuracy_claim": true
+  },
+  "extraction_tests_passed": 49,
+  "additional_artifact_hashes": {
+    "data\\automated_quality\\20261111\\workflow_decision.json": "990eeec8447a6043400cdfdc14e05127ba7eebfd83b966fbea3830a256638b18",
+    "data\\automated_quality\\20261111\\strict_synthetic_challenge_results.json": "c6ed30533d3110ce815d72577655b992bae086e46df483369e32f33c013eb96a",
+    "data\\automated_quality\\20261111\\strict_report_v1\\source_census_summary.json": "345a8981ab5be9af7e2dc4a026d74b90e6bc7f4da31557fde514e2467957b075",
+    "data\\automated_quality\\20261111\\strict_report_v1\\unmatched_numbered_source_lines.jsonl": "3ca36404a3a5ed66ddb579502280b227066d72a718133a021cb96ecf847c1574"
+  },
+  "data_changes": "No source or cleaned-question edits"
+}

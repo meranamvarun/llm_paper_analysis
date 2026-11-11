@@ -1,0 +1,47 @@
+{
+  "pdf_page": 90,
+  "crop_top": 59.42439999999999,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Fis PG",
+      "bbox": [
+        60.0,
+        0.6,
+        551.6999999999999,
+        18.900000000000002
+      ]
+    }
+  ],
+  "text": "Fis PG",
+  "ocr_words": [
+    {
+      "text": "Fis",
+      "x0": 60.0,
+      "top": 0.6,
+      "x1": 87.0,
+      "bottom": 18.900000000000002,
+      "confidence": 35.561073,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "PG",
+      "x0": 532.1999999999999,
+      "top": 3.5999999999999996,
+      "x1": 551.6999999999999,
+      "bottom": 13.5,
+      "confidence": 96.016632,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

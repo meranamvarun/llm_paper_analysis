@@ -1,0 +1,489 @@
+{
+  "pdf_page": 396,
+  "crop_top": 161.24136,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.32 In execution of a decree for the maintenance, salary of a person can be attached to the extent of:",
+      "bbox": [
+        42.0,
+        3.5999999999999996,
+        364.8,
+        10.2
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "v4",
+      "bbox": [
+        72.6,
+        12.9,
+        87.6,
+        28.799999999999997
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "Ans",
+      "bbox": [
+        43.199999999999996,
+        16.5,
+        54.599999999999994,
+        21.3
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "1. two third",
+      "bbox": [
+        88.5,
+        24.9,
+        122.99999999999999,
+        30.0
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "x,",
+      "bbox": [
+        73.2,
+        36.3,
+        93.0,
+        51.3
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "one half",
+      "bbox": [
+        95.7,
+        46.199999999999996,
+        120.3,
+        51.3
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "x,",
+      "bbox": [
+        73.2,
+        57.599999999999994,
+        93.0,
+        72.6
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "one fourth",
+      "bbox": [
+        95.7,
+        67.5,
+        127.19999999999999,
+        72.6
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "Xx,",
+      "bbox": [
+        72.0,
+        77.7,
+        93.0,
+        97.2
+      ]
+    },
+    {
+      "line_id": "l0009",
+      "text": "one third",
+      "bbox": [
+        95.7,
+        89.1,
+        122.69999999999999,
+        94.19999999999999
+      ]
+    }
+  ],
+  "text": "Q.32 In execution of a decree for the maintenance, salary of a person can be attached to the extent of:\nv4\nAns\n1. two third\nx,\none half\nx,\none fourth\nXx,\none third",
+  "ocr_words": [
+    {
+      "text": "Q.32",
+      "x0": 42.0,
+      "top": 3.9,
+      "x1": 56.1,
+      "bottom": 9.6,
+      "confidence": 48.466217,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "In",
+      "x0": 63.0,
+      "top": 3.9,
+      "x1": 68.1,
+      "bottom": 8.7,
+      "confidence": 48.466217,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "execution",
+      "x0": 70.2,
+      "top": 3.9,
+      "x1": 100.2,
+      "bottom": 9.0,
+      "confidence": 95.884247,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 102.6,
+      "top": 3.5999999999999996,
+      "x1": 108.89999999999999,
+      "bottom": 8.7,
+      "confidence": 96.130684,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 110.7,
+      "top": 5.1,
+      "x1": 114.0,
+      "bottom": 8.7,
+      "confidence": 96.130684,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "decree",
+      "x0": 116.1,
+      "top": 3.5999999999999996,
+      "x1": 136.79999999999998,
+      "bottom": 9.0,
+      "confidence": 96.752937,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "for",
+      "x0": 138.9,
+      "top": 3.5999999999999996,
+      "x1": 147.9,
+      "bottom": 8.7,
+      "confidence": 97.003937,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 149.7,
+      "top": 3.5999999999999996,
+      "x1": 159.6,
+      "bottom": 9.0,
+      "confidence": 96.750854,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "maintenance,",
+      "x0": 162.0,
+      "top": 3.9,
+      "x1": 204.0,
+      "bottom": 9.9,
+      "confidence": 96.407806,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "salary",
+      "x0": 206.4,
+      "top": 3.5999999999999996,
+      "x1": 224.4,
+      "bottom": 10.2,
+      "confidence": 97.011261,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 226.5,
+      "top": 3.5999999999999996,
+      "x1": 232.8,
+      "bottom": 8.7,
+      "confidence": 96.883507,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 234.6,
+      "top": 5.1,
+      "x1": 237.6,
+      "bottom": 8.7,
+      "confidence": 96.883507,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "person",
+      "x0": 240.0,
+      "top": 5.1,
+      "x1": 260.7,
+      "bottom": 10.2,
+      "confidence": 96.897148,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "can",
+      "x0": 263.09999999999997,
+      "top": 5.1,
+      "x1": 273.29999999999995,
+      "bottom": 8.7,
+      "confidence": 96.294266,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "be",
+      "x0": 276.0,
+      "top": 3.5999999999999996,
+      "x1": 282.9,
+      "bottom": 9.0,
+      "confidence": 96.294266,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "attached",
+      "x0": 285.3,
+      "top": 3.5999999999999996,
+      "x1": 312.3,
+      "bottom": 8.7,
+      "confidence": 96.710197,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 314.4,
+      "top": 4.2,
+      "x1": 320.7,
+      "bottom": 8.7,
+      "confidence": 96.976265,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 322.5,
+      "top": 3.5999999999999996,
+      "x1": 332.7,
+      "bottom": 9.0,
+      "confidence": 96.864861,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "extent",
+      "x0": 334.8,
+      "top": 4.2,
+      "x1": 354.90000000000003,
+      "bottom": 9.0,
+      "confidence": 96.309151,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of:",
+      "x0": 357.0,
+      "top": 3.5999999999999996,
+      "x1": 364.8,
+      "bottom": 8.7,
+      "confidence": 96.864609,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.199999999999996,
+      "top": 16.5,
+      "x1": 54.599999999999994,
+      "bottom": 21.3,
+      "confidence": 96.58625,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "v4",
+      "x0": 72.6,
+      "top": 12.9,
+      "x1": 87.6,
+      "bottom": 28.799999999999997,
+      "confidence": 8.879166,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 88.5,
+      "top": 25.2,
+      "x1": 93.0,
+      "bottom": 30.0,
+      "confidence": 96.443573,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "two",
+      "x0": 95.39999999999999,
+      "top": 25.5,
+      "x1": 106.8,
+      "bottom": 30.0,
+      "confidence": 96.718094,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "third",
+      "x0": 108.89999999999999,
+      "top": 24.9,
+      "x1": 122.99999999999999,
+      "bottom": 30.0,
+      "confidence": 96.861343,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "x,",
+      "x0": 73.2,
+      "top": 36.3,
+      "x1": 93.0,
+      "bottom": 51.3,
+      "confidence": 61.006947,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "one",
+      "x0": 95.7,
+      "top": 47.699999999999996,
+      "x1": 106.5,
+      "bottom": 51.3,
+      "confidence": 96.007462,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "half",
+      "x0": 109.2,
+      "top": 46.199999999999996,
+      "x1": 120.3,
+      "bottom": 51.3,
+      "confidence": 96.112144,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "x,",
+      "x0": 73.2,
+      "top": 57.599999999999994,
+      "x1": 93.0,
+      "bottom": 72.6,
+      "confidence": 63.129189,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "one",
+      "x0": 95.7,
+      "top": 69.0,
+      "x1": 106.5,
+      "bottom": 72.6,
+      "confidence": 96.661591,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "fourth",
+      "x0": 108.6,
+      "top": 67.5,
+      "x1": 127.19999999999999,
+      "bottom": 72.6,
+      "confidence": 96.843712,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Xx,",
+      "x0": 72.0,
+      "top": 77.7,
+      "x1": 93.0,
+      "bottom": 97.2,
+      "confidence": 70.819435,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "one",
+      "x0": 95.7,
+      "top": 90.6,
+      "x1": 106.5,
+      "bottom": 94.19999999999999,
+      "confidence": 96.733482,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "third",
+      "x0": 108.6,
+      "top": 89.1,
+      "x1": 122.69999999999999,
+      "bottom": 94.19999999999999,
+      "confidence": 96.733482,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

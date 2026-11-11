@@ -1,0 +1,285 @@
+{
+  "pdf_page": 458,
+  "crop_top": 303.17,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "20. According to the Hindu Marriage Act, a marriage is",
+      "bbox": [
+        72.6,
+        4.2,
+        336.0,
+        14.7
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "A. Anagreement.",
+      "bbox": [
+        144.29999999999998,
+        34.199999999999996,
+        242.7,
+        44.099999999999994
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "B. Acontract.",
+      "bbox": [
+        144.9,
+        54.6,
+        223.49999999999997,
+        62.4
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "C. Asacrament.",
+      "bbox": [
+        144.6,
+        75.0,
+        235.79999999999998,
+        83.1
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "D. A pious obligation.",
+      "bbox": [
+        144.9,
+        95.39999999999999,
+        261.0,
+        105.9
+      ]
+    }
+  ],
+  "text": "20. According to the Hindu Marriage Act, a marriage is\nA. Anagreement.\nB. Acontract.\nC. Asacrament.\nD. A pious obligation.",
+  "ocr_words": [
+    {
+      "text": "20.",
+      "x0": 72.6,
+      "top": 4.5,
+      "x1": 86.39999999999999,
+      "bottom": 12.6,
+      "confidence": 96.621666,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "According",
+      "x0": 90.3,
+      "top": 4.2,
+      "x1": 138.3,
+      "bottom": 14.7,
+      "confidence": 96.251274,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 141.6,
+      "top": 5.1,
+      "x1": 151.2,
+      "bottom": 12.6,
+      "confidence": 96.596123,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 154.5,
+      "top": 4.2,
+      "x1": 170.1,
+      "bottom": 12.600000000000001,
+      "confidence": 96.646187,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Hindu",
+      "x0": 174.29999999999998,
+      "top": 4.2,
+      "x1": 201.6,
+      "bottom": 12.600000000000001,
+      "confidence": 95.804276,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Marriage",
+      "x0": 206.1,
+      "top": 4.5,
+      "x1": 249.29999999999998,
+      "bottom": 14.7,
+      "confidence": 96.584984,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Act,",
+      "x0": 252.6,
+      "top": 4.8,
+      "x1": 270.6,
+      "bottom": 14.099999999999998,
+      "confidence": 96.51049,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 274.8,
+      "top": 6.6,
+      "x1": 279.0,
+      "bottom": 12.6,
+      "confidence": 96.680038,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "marriage",
+      "x0": 283.5,
+      "top": 4.5,
+      "x1": 325.8,
+      "bottom": 14.7,
+      "confidence": 96.524773,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 329.7,
+      "top": 4.5,
+      "x1": 336.0,
+      "bottom": 12.6,
+      "confidence": 96.752319,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A.",
+      "x0": 144.29999999999998,
+      "top": 34.199999999999996,
+      "x1": 152.99999999999997,
+      "bottom": 41.699999999999996,
+      "confidence": 77.221329,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Anagreement.",
+      "x0": 171.29999999999998,
+      "top": 34.199999999999996,
+      "x1": 242.7,
+      "bottom": 44.099999999999994,
+      "confidence": 77.221329,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "B.",
+      "x0": 144.9,
+      "top": 54.6,
+      "x1": 152.70000000000002,
+      "bottom": 62.1,
+      "confidence": 77.524452,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Acontract.",
+      "x0": 171.29999999999998,
+      "top": 54.6,
+      "x1": 223.49999999999997,
+      "bottom": 62.4,
+      "confidence": 73.995529,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "C.",
+      "x0": 144.6,
+      "top": 75.0,
+      "x1": 152.4,
+      "bottom": 83.1,
+      "confidence": 71.715302,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Asacrament.",
+      "x0": 171.29999999999998,
+      "top": 75.3,
+      "x1": 235.79999999999998,
+      "bottom": 83.1,
+      "confidence": 71.715302,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "D.",
+      "x0": 144.9,
+      "top": 96.0,
+      "x1": 153.6,
+      "bottom": 103.5,
+      "confidence": 93.072632,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "A",
+      "x0": 171.29999999999998,
+      "top": 96.0,
+      "x1": 177.6,
+      "bottom": 103.5,
+      "confidence": 23.281067,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "pious",
+      "x0": 181.5,
+      "top": 95.7,
+      "x1": 206.7,
+      "bottom": 105.9,
+      "confidence": 23.281067,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "obligation.",
+      "x0": 210.29999999999998,
+      "top": 95.39999999999999,
+      "x1": 261.0,
+      "bottom": 105.89999999999999,
+      "confidence": 96.200813,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

@@ -1,0 +1,569 @@
+{
+  "pdf_page": 41,
+  "crop_top": 446.6708520000002,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "103. Which among the following is not a function of SEBI?",
+      "bbox": [
+        57.9,
+        3.9,
+        356.09999999999997,
+        14.1
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "(A) regulating substantial acquisition of shares and take over of companies",
+      "bbox": [
+        85.8,
+        18.9,
+        475.5,
+        29.1
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(B) prohibiting and regulating self-regulatory organisations",
+      "bbox": [
+        85.8,
+        33.9,
+        397.5,
+        44.099999999999994
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(C) prohibiting insider trading in securities",
+      "bbox": [
+        85.8,
+        48.6,
+        314.09999999999997,
+        58.8
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(D) promoting investors‘ education and training of intermediaries of securities",
+      "bbox": [
+        85.8,
+        63.599999999999994,
+        538.5,
+        73.8
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "markets.",
+      "bbox": [
+        114.0,
+        76.5,
+        157.8,
+        84.9
+      ]
+    }
+  ],
+  "text": "103. Which among the following is not a function of SEBI?\n(A) regulating substantial acquisition of shares and take over of companies\n(B) prohibiting and regulating self-regulatory organisations\n(C) prohibiting insider trading in securities\n(D) promoting investors‘ education and training of intermediaries of securities\nmarkets.",
+  "ocr_words": [
+    {
+      "text": "103.",
+      "x0": 57.9,
+      "top": 4.5,
+      "x1": 77.1,
+      "bottom": 12.3,
+      "confidence": 96.517303,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Which",
+      "x0": 85.2,
+      "top": 3.9,
+      "x1": 117.30000000000001,
+      "bottom": 12.3,
+      "confidence": 96.824539,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "among",
+      "x0": 121.19999999999999,
+      "top": 6.8999999999999995,
+      "x1": 154.5,
+      "bottom": 14.099999999999998,
+      "confidence": 96.718056,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 158.1,
+      "top": 3.9,
+      "x1": 174.0,
+      "bottom": 12.3,
+      "confidence": 96.839035,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 177.6,
+      "top": 3.9,
+      "x1": 223.5,
+      "bottom": 14.1,
+      "confidence": 96.054863,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 226.79999999999998,
+      "top": 4.2,
+      "x1": 234.6,
+      "bottom": 12.3,
+      "confidence": 96.980377,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "not",
+      "x0": 238.5,
+      "top": 5.1,
+      "x1": 254.4,
+      "bottom": 12.299999999999999,
+      "confidence": 96.683418,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 258.3,
+      "top": 6.8999999999999995,
+      "x1": 263.7,
+      "bottom": 12.299999999999999,
+      "confidence": 96.415062,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "function",
+      "x0": 267.3,
+      "top": 3.9,
+      "x1": 308.7,
+      "bottom": 12.3,
+      "confidence": 95.244331,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 312.3,
+      "top": 3.9,
+      "x1": 321.90000000000003,
+      "bottom": 12.3,
+      "confidence": 93.293915,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "SEBI?",
+      "x0": 324.9,
+      "top": 3.9,
+      "x1": 356.09999999999997,
+      "bottom": 12.3,
+      "confidence": 90.167946,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 85.8,
+      "top": 18.9,
+      "x1": 99.6,
+      "bottom": 28.799999999999997,
+      "confidence": 84.54747,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "regulating",
+      "x0": 113.7,
+      "top": 18.9,
+      "x1": 166.2,
+      "bottom": 29.099999999999998,
+      "confidence": 83.969307,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "substantial",
+      "x0": 170.1,
+      "top": 18.9,
+      "x1": 226.79999999999998,
+      "bottom": 27.299999999999997,
+      "confidence": 96.161469,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "acquisition",
+      "x0": 230.7,
+      "top": 19.2,
+      "x1": 285.59999999999997,
+      "bottom": 29.1,
+      "confidence": 96.278465,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 289.2,
+      "top": 18.9,
+      "x1": 298.8,
+      "bottom": 27.299999999999997,
+      "confidence": 96.856911,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "shares",
+      "x0": 301.8,
+      "top": 18.9,
+      "x1": 334.2,
+      "bottom": 27.299999999999997,
+      "confidence": 96.443443,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "and",
+      "x0": 338.09999999999997,
+      "top": 18.9,
+      "x1": 356.7,
+      "bottom": 27.299999999999997,
+      "confidence": 96.761963,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "take",
+      "x0": 360.0,
+      "top": 18.9,
+      "x1": 381.9,
+      "bottom": 27.299999999999997,
+      "confidence": 96.403114,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "over",
+      "x0": 385.8,
+      "top": 21.9,
+      "x1": 407.1,
+      "bottom": 27.299999999999997,
+      "confidence": 96.492882,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 410.4,
+      "top": 18.9,
+      "x1": 420.0,
+      "bottom": 27.299999999999997,
+      "confidence": 95.840927,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "companies",
+      "x0": 422.7,
+      "top": 19.2,
+      "x1": 475.5,
+      "bottom": 29.1,
+      "confidence": 96.134392,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(B)",
+      "x0": 85.8,
+      "top": 34.199999999999996,
+      "x1": 99.6,
+      "bottom": 43.8,
+      "confidence": 68.60009,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "prohibiting",
+      "x0": 113.7,
+      "top": 33.9,
+      "x1": 170.1,
+      "bottom": 44.099999999999994,
+      "confidence": 96.451973,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "and",
+      "x0": 173.7,
+      "top": 33.9,
+      "x1": 192.29999999999998,
+      "bottom": 42.3,
+      "confidence": 95.661873,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "regulating",
+      "x0": 195.6,
+      "top": 33.9,
+      "x1": 248.39999999999998,
+      "bottom": 44.099999999999994,
+      "confidence": 95.661873,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "self-regulatory",
+      "x0": 252.29999999999998,
+      "top": 33.9,
+      "x1": 325.79999999999995,
+      "bottom": 44.099999999999994,
+      "confidence": 96.26313,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "organisations",
+      "x0": 329.4,
+      "top": 34.199999999999996,
+      "x1": 397.5,
+      "bottom": 44.099999999999994,
+      "confidence": 96.404663,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(C)",
+      "x0": 85.8,
+      "top": 48.6,
+      "x1": 99.6,
+      "bottom": 58.5,
+      "confidence": 92.388962,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "prohibiting",
+      "x0": 113.7,
+      "top": 48.6,
+      "x1": 170.1,
+      "bottom": 58.8,
+      "confidence": 86.020615,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "insider",
+      "x0": 173.4,
+      "top": 48.6,
+      "x1": 208.5,
+      "bottom": 57.0,
+      "confidence": 96.459747,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "trading",
+      "x0": 212.1,
+      "top": 48.6,
+      "x1": 249.29999999999998,
+      "bottom": 58.8,
+      "confidence": 96.68821,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "in",
+      "x0": 252.89999999999998,
+      "top": 48.9,
+      "x1": 262.5,
+      "bottom": 56.699999999999996,
+      "confidence": 96.758675,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "securities",
+      "x0": 266.4,
+      "top": 48.9,
+      "x1": 314.09999999999997,
+      "bottom": 57.0,
+      "confidence": 96.108467,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(D)",
+      "x0": 85.8,
+      "top": 63.9,
+      "x1": 100.19999999999999,
+      "bottom": 73.5,
+      "confidence": 91.501305,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "promoting",
+      "x0": 113.7,
+      "top": 63.9,
+      "x1": 165.6,
+      "bottom": 73.8,
+      "confidence": 96.514351,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "investors‘",
+      "x0": 174.9,
+      "top": 63.599999999999994,
+      "x1": 223.2,
+      "bottom": 72.0,
+      "confidence": 71.915192,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "education",
+      "x0": 232.79999999999998,
+      "top": 63.599999999999994,
+      "x1": 281.7,
+      "bottom": 72.0,
+      "confidence": 96.654892,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "and",
+      "x0": 291.3,
+      "top": 63.599999999999994,
+      "x1": 309.90000000000003,
+      "bottom": 72.0,
+      "confidence": 96.828217,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "training",
+      "x0": 319.2,
+      "top": 63.9,
+      "x1": 360.59999999999997,
+      "bottom": 73.8,
+      "confidence": 95.763634,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "of",
+      "x0": 369.9,
+      "top": 63.599999999999994,
+      "x1": 379.5,
+      "bottom": 72.0,
+      "confidence": 96.594955,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "intermediaries",
+      "x0": 388.2,
+      "top": 63.599999999999994,
+      "x1": 462.29999999999995,
+      "bottom": 72.0,
+      "confidence": 96.300888,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "of",
+      "x0": 472.2,
+      "top": 63.599999999999994,
+      "x1": 481.8,
+      "bottom": 72.0,
+      "confidence": 96.688446,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "securities",
+      "x0": 490.5,
+      "top": 63.9,
+      "x1": 538.5,
+      "bottom": 72.0,
+      "confidence": 96.148575,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "markets.",
+      "x0": 114.0,
+      "top": 76.5,
+      "x1": 157.8,
+      "bottom": 84.9,
+      "confidence": 96.479156,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

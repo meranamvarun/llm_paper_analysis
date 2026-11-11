@@ -1,0 +1,427 @@
+{
+  "pdf_page": 276,
+  "crop_top": 341.69199999999995,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "58. Per Incuriam means:",
+      "bbox": [
+        72.6,
+        4.5,
+        188.1,
+        13.2
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "a) Judgment given against law",
+      "bbox": [
+        72.3,
+        18.0,
+        223.5,
+        29.1
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "b) Judgment given contrary to people’s conscience",
+      "bbox": [
+        72.0,
+        32.1,
+        320.4,
+        43.2
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "c) Judgment given contrary to natural law",
+      "bbox": [
+        72.3,
+        45.6,
+        277.79999999999995,
+        56.7
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "d) All ofthe above",
+      "bbox": [
+        72.3,
+        59.699999999999996,
+        167.1,
+        70.5
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "CORRECT ANSWER : OPTION A",
+      "bbox": [
+        72.6,
+        74.1,
+        283.49999999999994,
+        84.0
+      ]
+    }
+  ],
+  "text": "58. Per Incuriam means:\na) Judgment given against law\nb) Judgment given contrary to people’s conscience\nc) Judgment given contrary to natural law\nd) All ofthe above\nCORRECT ANSWER : OPTION A",
+  "ocr_words": [
+    {
+      "text": "58.",
+      "x0": 72.6,
+      "top": 4.5,
+      "x1": 86.1,
+      "bottom": 13.2,
+      "confidence": 96.831284,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Per",
+      "x0": 90.3,
+      "top": 4.8,
+      "x1": 106.19999999999999,
+      "bottom": 12.899999999999999,
+      "confidence": 93.263184,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Incuriam",
+      "x0": 109.5,
+      "top": 4.5,
+      "x1": 152.4,
+      "bottom": 12.9,
+      "confidence": 92.396515,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "means:",
+      "x0": 155.4,
+      "top": 7.5,
+      "x1": 188.1,
+      "bottom": 12.899999999999999,
+      "confidence": 96.316315,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a)",
+      "x0": 72.3,
+      "top": 18.0,
+      "x1": 80.7,
+      "bottom": 28.799999999999997,
+      "confidence": 96.660858,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Judgment",
+      "x0": 90.3,
+      "top": 18.0,
+      "x1": 136.5,
+      "bottom": 29.1,
+      "confidence": 96.586784,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "given",
+      "x0": 140.1,
+      "top": 18.0,
+      "x1": 166.2,
+      "bottom": 29.1,
+      "confidence": 96.935577,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "against",
+      "x0": 169.79999999999998,
+      "top": 18.0,
+      "x1": 203.09999999999997,
+      "bottom": 29.1,
+      "confidence": 96.163513,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "law",
+      "x0": 207.0,
+      "top": 18.0,
+      "x1": 223.5,
+      "bottom": 26.4,
+      "confidence": 96.920441,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "b)",
+      "x0": 72.0,
+      "top": 32.1,
+      "x1": 81.3,
+      "bottom": 42.9,
+      "confidence": 93.016464,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Judgment",
+      "x0": 90.3,
+      "top": 32.1,
+      "x1": 136.5,
+      "bottom": 43.2,
+      "confidence": 96.704163,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "given",
+      "x0": 140.1,
+      "top": 32.1,
+      "x1": 166.2,
+      "bottom": 43.2,
+      "confidence": 96.636635,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "contrary",
+      "x0": 169.5,
+      "top": 33.3,
+      "x1": 209.4,
+      "bottom": 43.199999999999996,
+      "confidence": 96.654778,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 212.4,
+      "top": 33.6,
+      "x1": 221.1,
+      "bottom": 40.5,
+      "confidence": 93.294205,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "people’s",
+      "x0": 225.0,
+      "top": 32.1,
+      "x1": 264.9,
+      "bottom": 43.2,
+      "confidence": 92.478294,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "conscience",
+      "x0": 268.5,
+      "top": 32.1,
+      "x1": 320.4,
+      "bottom": 40.5,
+      "confidence": 96.446381,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "c)",
+      "x0": 72.3,
+      "top": 45.6,
+      "x1": 80.7,
+      "bottom": 56.4,
+      "confidence": 93.016884,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Judgment",
+      "x0": 90.3,
+      "top": 45.6,
+      "x1": 136.5,
+      "bottom": 56.7,
+      "confidence": 96.525558,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "given",
+      "x0": 140.4,
+      "top": 45.6,
+      "x1": 166.20000000000002,
+      "bottom": 56.7,
+      "confidence": 96.723473,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "contrary",
+      "x0": 169.5,
+      "top": 46.8,
+      "x1": 209.4,
+      "bottom": 56.699999999999996,
+      "confidence": 95.459717,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "to",
+      "x0": 212.4,
+      "top": 46.8,
+      "x1": 221.1,
+      "bottom": 54.0,
+      "confidence": 96.943153,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "natural",
+      "x0": 225.0,
+      "top": 45.6,
+      "x1": 258.0,
+      "bottom": 54.0,
+      "confidence": 95.609566,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "law",
+      "x0": 261.59999999999997,
+      "top": 45.6,
+      "x1": 277.79999999999995,
+      "bottom": 54.0,
+      "confidence": 95.609566,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "d)",
+      "x0": 72.3,
+      "top": 59.699999999999996,
+      "x1": 81.6,
+      "bottom": 70.5,
+      "confidence": 91.220215,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "All",
+      "x0": 90.0,
+      "top": 59.699999999999996,
+      "x1": 105.0,
+      "bottom": 68.1,
+      "confidence": 51.032227,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "ofthe",
+      "x0": 108.3,
+      "top": 59.699999999999996,
+      "x1": 135.6,
+      "bottom": 68.1,
+      "confidence": 51.032227,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "above",
+      "x0": 139.5,
+      "top": 59.699999999999996,
+      "x1": 167.1,
+      "bottom": 68.1,
+      "confidence": 96.79641,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "CORRECT",
+      "x0": 72.6,
+      "top": 74.1,
+      "x1": 141.3,
+      "bottom": 84.0,
+      "confidence": 96.460251,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "ANSWER",
+      "x0": 145.5,
+      "top": 74.1,
+      "x1": 206.7,
+      "bottom": 84.0,
+      "confidence": 86.633957,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 211.5,
+      "top": 77.1,
+      "x1": 213.6,
+      "bottom": 84.0,
+      "confidence": 86.633957,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "OPTION",
+      "x0": 219.0,
+      "top": 74.39999999999999,
+      "x1": 269.7,
+      "bottom": 83.69999999999999,
+      "confidence": 95.5009,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A",
+      "x0": 273.59999999999997,
+      "top": 74.39999999999999,
+      "x1": 283.49999999999994,
+      "bottom": 83.69999999999999,
+      "confidence": 96.324615,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "reviewer": "parent agent; AI source-image spot checks, not human adjudication",
+  "pages_inspected": [
+    105,
+    330,
+    405,
+    414
+  ],
+  "findings": [
+    {
+      "pdf_page": 330,
+      "visible_question_number": "3",
+      "baseline_issue": "Question 3 has no separate extracted record on this page; page is included in the preceding essay question 2 record spanning pages 326-333.",
+      "category": "missing_boundary_and_merged_continuation",
+      "confidence": "high"
+    },
+    {
+      "pdf_page": 405,
+      "visible_question_numbers": [
+        "20",
+        "21",
+        "22",
+        "23",
+        "24"
+      ],
+      "baseline_issue": "Question boundaries mostly present, but option text contains OCR substitutions and detached v. fragments; question 23 has duplicate canonical B labels instead of A/B/C/D. Question 24 continues beyond this page and should not be scored as a complete local item.",
+      "category": "transcription_label_errors_and_continuation",
+      "confidence": "high"
+    }
+  ],
+  "source_text_repairs": 0,
+  "baseline_records_modified": false,
+  "reconciliation": {
+    "page330": "Visible prompt text entirely absent from selected OCR; only page/footer evidence attached to preceding oversized record. Do not claim prompt text was merged.",
+    "page105_question19": "Source four choices; extracted A/B/C/D/B, confirming split at an in-option reference.",
+    "page414_questions61_62": "Both sources show four choices; extracted three. Q62 duplicates B.",
+    "reviewer_error": "Luna blind Video versus apparent source Vedio; frozen blind retained."
+  }
+}

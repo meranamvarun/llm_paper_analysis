@@ -1,0 +1,81 @@
+{
+  "baseline_run": "20261110T043421397159Z",
+  "raw_proposal_sha256": "7b0d68af957b2c6d49e0eec4575b7cf5e7545eb1f094ef91729fc15ff8568433",
+  "entries": [
+    {
+      "proposal_id": "luna-missing-p0330-q3",
+      "proposal_index": 0,
+      "baseline_question_id": null,
+      "source_hash": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b",
+      "year_label": 2014,
+      "year_label_status": "configured_candidate_not_verified",
+      "observed_option_labels": [],
+      "label_note": "Agent option_D means fourth option; page 414 prints numeric labels only.",
+      "source_check": "parent AI visually agrees with proposed values; not human validation",
+      "status": "ai_proposal_unreviewed",
+      "missing_record_note": "No baseline question exists for this essay; create only after explicit correction decision"
+    },
+    {
+      "proposal_id": "luna-missing-p0339-q6",
+      "proposal_index": 1,
+      "baseline_question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0339:l0034:question",
+      "source_hash": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b",
+      "year_label": 2015,
+      "year_label_status": "configured_candidate_not_verified",
+      "observed_option_labels": [
+        "1. (A):",
+        "3. (C):",
+        "4. (D):"
+      ],
+      "label_note": "Agent option_D means fourth option; page 414 prints numeric labels only.",
+      "source_check": "parent AI visually agrees with proposed values; not human validation",
+      "status": "ai_proposal_unreviewed",
+      "missing_record_note": null
+    },
+    {
+      "proposal_id": "luna-missing-p0414-q61",
+      "proposal_index": 2,
+      "baseline_question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0414:l0004:question",
+      "source_hash": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b",
+      "year_label": 2017,
+      "year_label_status": "configured_candidate_not_verified",
+      "observed_option_labels": [
+        "4."
+      ],
+      "label_note": "Agent option_D means fourth option; page 414 prints numeric labels only.",
+      "source_check": "parent AI visually agrees with proposed values; not human validation",
+      "status": "ai_proposal_unreviewed",
+      "missing_record_note": null
+    },
+    {
+      "proposal_id": "luna-missing-p0414-q62",
+      "proposal_index": 3,
+      "baseline_question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0414:l0013:question",
+      "source_hash": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b",
+      "year_label": 2017,
+      "year_label_status": "configured_candidate_not_verified",
+      "observed_option_labels": [
+        "4."
+      ],
+      "label_note": "Agent option_D means fourth option; page 414 prints numeric labels only.",
+      "source_check": "parent AI visually agrees with proposed values; not human validation",
+      "status": "ai_proposal_unreviewed",
+      "missing_record_note": null
+    },
+    {
+      "proposal_id": "luna-missing-p0414-q63",
+      "proposal_index": 4,
+      "baseline_question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0414:l0022:question",
+      "source_hash": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b",
+      "year_label": 2017,
+      "year_label_status": "configured_candidate_not_verified",
+      "observed_option_labels": [
+        "4."
+      ],
+      "label_note": "Agent option_D means fourth option; page 414 prints numeric labels only.",
+      "source_check": "parent AI visually agrees with proposed values; not human validation",
+      "status": "ai_proposal_unreviewed",
+      "missing_record_note": null
+    }
+  ]
+}

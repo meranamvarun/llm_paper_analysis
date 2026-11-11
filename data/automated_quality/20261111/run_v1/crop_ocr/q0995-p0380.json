@@ -1,0 +1,79 @@
+{
+  "pdf_page": 380,
+  "crop_top": 45.80146000000002,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "e\\",
+      "bbox": [
+        73.2,
+        0.0,
+        84.60000000000001,
+        6.3
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "4. Article 19",
+      "bbox": [
+        87.89999999999999,
+        3.5999999999999996,
+        123.89999999999999,
+        9.0
+      ]
+    }
+  ],
+  "text": "e\\\n4. Article 19",
+  "ocr_words": [
+    {
+      "text": "e\\",
+      "x0": 73.2,
+      "top": 0.0,
+      "x1": 84.60000000000001,
+      "bottom": 6.3,
+      "confidence": 3.825264,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "4.",
+      "x0": 87.89999999999999,
+      "top": 3.9,
+      "x1": 92.99999999999999,
+      "bottom": 8.7,
+      "confidence": 94.568924,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Article",
+      "x0": 95.39999999999999,
+      "top": 3.5999999999999996,
+      "x1": 114.6,
+      "bottom": 9.0,
+      "confidence": 96.599564,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "19",
+      "x0": 117.3,
+      "top": 3.9,
+      "x1": 123.89999999999999,
+      "bottom": 9.0,
+      "confidence": 96.599564,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

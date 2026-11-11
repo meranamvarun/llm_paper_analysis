@@ -1,0 +1,19 @@
+{
+  "inputs": {
+    "data\\corpus_review\\20261110\\reconciled_v0.1.2\\questions.jsonl": "81e2cdbae7baa22f18d428f88aa7737b6d513aca12f479dd19844e34fb0be169",
+    "data\\corpus_review\\20261110\\reconciled_v0.1.2\\passages.jsonl": "9f691cfe30b1669a9e327b1d0adc491ee2d45452f13ce68a889330ce2b58ee1d"
+  },
+  "code_sha256": "e85efbb7f0e4f6fcba094bb7a780f24477d0ddde9389b40f77aa7458628f148d",
+  "packages": {
+    "wordfreq": "3.1.1",
+    "ftfy": "6.3.1",
+    "regex": "2026.11.9"
+  },
+  "outputs": {
+    "changes.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "flags.jsonl": "354b5c6e4d8283ad16ee33f1d39ea697141ec76f4b622eb7ac29ee20f239c37f",
+    "passage_flags.jsonl": "a8dde7c99831d8941ca0ba008e28b35664ef33713710af6f751cfb64199c1ac8",
+    "questions.jsonl": "a93571e07898306230746a19f403bb77cda2e5c127245c083fceae88e1bc08cc",
+    "summary.json": "6045d8a87090b68bf307e52b3be31edb98e0ec851f4701443d3cc9f47621d385"
+  }
+}

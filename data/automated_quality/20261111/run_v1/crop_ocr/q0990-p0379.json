@@ -1,0 +1,458 @@
+{
+  "pdf_page": 379,
+  "crop_top": 37.16136000000006,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "ans ra",
+      "bbox": [
+        43.199999999999996,
+        0.8999999999999999,
+        86.7,
+        19.499999999999996
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "1. Rudal Sah v. State of Bihar (1983)",
+      "bbox": [
+        88.5,
+        12.299999999999999,
+        196.2,
+        18.599999999999998
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "x,",
+      "bbox": [
+        73.2,
+        23.4,
+        93.0,
+        38.699999999999996
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "PUDR v. Union of India (1983)",
+      "bbox": [
+        96.0,
+        33.6,
+        185.4,
+        39.9
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "v,",
+      "bbox": [
+        73.5,
+        44.1,
+        93.0,
+        60.3
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "Nilabati Behera v. State of Orissa (1993)",
+      "bbox": [
+        96.0,
+        54.9,
+        216.3,
+        61.199999999999996
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "Xn,",
+      "bbox": [
+        71.7,
+        65.1,
+        93.0,
+        83.69999999999999
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "Maneka Gandhi v. Union of India (1978)",
+      "bbox": [
+        96.0,
+        76.2,
+        216.3,
+        82.5
+      ]
+    }
+  ],
+  "text": "ans ra\n1. Rudal Sah v. State of Bihar (1983)\nx,\nPUDR v. Union of India (1983)\nv,\nNilabati Behera v. State of Orissa (1993)\nXn,\nManeka Gandhi v. Union of India (1978)",
+  "ocr_words": [
+    {
+      "text": "ans",
+      "x0": 43.199999999999996,
+      "top": 3.9,
+      "x1": 54.599999999999994,
+      "bottom": 9.0,
+      "confidence": 86.126724,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "ra",
+      "x0": 72.0,
+      "top": 0.8999999999999999,
+      "x1": 86.7,
+      "bottom": 19.499999999999996,
+      "confidence": 5.489014,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1.",
+      "x0": 88.5,
+      "top": 12.6,
+      "x1": 93.0,
+      "bottom": 17.4,
+      "confidence": 92.84594,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Rudal",
+      "x0": 96.0,
+      "top": 12.299999999999999,
+      "x1": 111.9,
+      "bottom": 17.4,
+      "confidence": 92.615646,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Sah",
+      "x0": 114.3,
+      "top": 12.299999999999999,
+      "x1": 124.8,
+      "bottom": 17.7,
+      "confidence": 93.137489,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "v.",
+      "x0": 126.89999999999999,
+      "top": 13.799999999999999,
+      "x1": 131.7,
+      "bottom": 17.4,
+      "confidence": 93.137489,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "State",
+      "x0": 134.1,
+      "top": 12.6,
+      "x1": 149.4,
+      "bottom": 17.7,
+      "confidence": 97.007614,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 151.79999999999998,
+      "top": 12.299999999999999,
+      "x1": 157.79999999999998,
+      "bottom": 17.4,
+      "confidence": 97.017113,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Bihar",
+      "x0": 159.9,
+      "top": 12.299999999999999,
+      "x1": 175.20000000000002,
+      "bottom": 17.7,
+      "confidence": 96.897903,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(1983)",
+      "x0": 177.29999999999998,
+      "top": 12.299999999999999,
+      "x1": 196.2,
+      "bottom": 18.599999999999998,
+      "confidence": 96.355515,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "x,",
+      "x0": 73.2,
+      "top": 23.4,
+      "x1": 93.0,
+      "bottom": 38.699999999999996,
+      "confidence": 81.510094,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "PUDR",
+      "x0": 96.0,
+      "top": 33.9,
+      "x1": 112.5,
+      "bottom": 39.0,
+      "confidence": 92.157028,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "v.",
+      "x0": 114.3,
+      "top": 35.1,
+      "x1": 119.1,
+      "bottom": 38.7,
+      "confidence": 93.131393,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Union",
+      "x0": 121.8,
+      "top": 33.9,
+      "x1": 139.2,
+      "bottom": 39.0,
+      "confidence": 96.736763,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 141.6,
+      "top": 33.6,
+      "x1": 147.9,
+      "bottom": 39.0,
+      "confidence": 96.552208,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "India",
+      "x0": 150.0,
+      "top": 33.6,
+      "x1": 163.8,
+      "bottom": 38.7,
+      "confidence": 95.302277,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(1983)",
+      "x0": 166.5,
+      "top": 33.6,
+      "x1": 185.4,
+      "bottom": 39.9,
+      "confidence": 96.891876,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "v,",
+      "x0": 73.5,
+      "top": 44.1,
+      "x1": 93.0,
+      "bottom": 60.3,
+      "confidence": 63.826019,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Nilabati",
+      "x0": 96.0,
+      "top": 54.9,
+      "x1": 118.5,
+      "bottom": 60.0,
+      "confidence": 92.406548,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Behera",
+      "x0": 121.19999999999999,
+      "top": 54.9,
+      "x1": 141.89999999999998,
+      "bottom": 60.3,
+      "confidence": 93.238457,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "v.",
+      "x0": 144.0,
+      "top": 56.4,
+      "x1": 148.8,
+      "bottom": 60.0,
+      "confidence": 93.160278,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "State",
+      "x0": 151.2,
+      "top": 55.199999999999996,
+      "x1": 166.5,
+      "bottom": 60.3,
+      "confidence": 96.162003,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 168.9,
+      "top": 54.9,
+      "x1": 174.9,
+      "bottom": 60.0,
+      "confidence": 96.555481,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Orissa",
+      "x0": 176.7,
+      "top": 55.199999999999996,
+      "x1": 194.7,
+      "bottom": 60.3,
+      "confidence": 95.630447,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(1993)",
+      "x0": 197.4,
+      "top": 54.9,
+      "x1": 216.3,
+      "bottom": 61.199999999999996,
+      "confidence": 95.630447,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Xn,",
+      "x0": 71.7,
+      "top": 65.1,
+      "x1": 93.0,
+      "bottom": 83.69999999999999,
+      "confidence": 43.629738,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Maneka",
+      "x0": 96.0,
+      "top": 76.2,
+      "x1": 119.4,
+      "bottom": 81.60000000000001,
+      "confidence": 92.562241,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Gandhi",
+      "x0": 122.1,
+      "top": 76.2,
+      "x1": 143.1,
+      "bottom": 81.60000000000001,
+      "confidence": 90.96106,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "v.",
+      "x0": 145.2,
+      "top": 77.7,
+      "x1": 150.0,
+      "bottom": 81.3,
+      "confidence": 90.96106,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Union",
+      "x0": 152.7,
+      "top": 76.5,
+      "x1": 170.1,
+      "bottom": 81.6,
+      "confidence": 96.75589,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "of",
+      "x0": 172.5,
+      "top": 76.2,
+      "x1": 178.5,
+      "bottom": 81.60000000000001,
+      "confidence": 97.007607,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "India",
+      "x0": 180.9,
+      "top": 76.2,
+      "x1": 194.70000000000002,
+      "bottom": 81.3,
+      "confidence": 96.392471,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(1978)",
+      "x0": 197.4,
+      "top": 76.2,
+      "x1": 216.3,
+      "bottom": 82.5,
+      "confidence": 96.90905,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

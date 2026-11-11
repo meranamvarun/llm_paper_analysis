@@ -1,0 +1,373 @@
+{
+  "pdf_page": 300,
+  "crop_top": 351.28279999999995,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "38. Ifthe period of assignment copyright is not stated, it shall be deemed to be ----years from the",
+      "bbox": [
+        46.8,
+        4.2,
+        549.9,
+        14.4
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "date of assignment.",
+      "bbox": [
+        75.0,
+        19.5,
+        172.8,
+        29.700000000000003
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(A) 4 (B) 5",
+      "bbox": [
+        75.3,
+        38.699999999999996,
+        335.4,
+        48.89999999999999
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(C) 6 (D) 7",
+      "bbox": [
+        75.3,
+        57.9,
+        335.4,
+        68.1
+      ]
+    }
+  ],
+  "text": "38. Ifthe period of assignment copyright is not stated, it shall be deemed to be ----years from the\ndate of assignment.\n(A) 4 (B) 5\n(C) 6 (D) 7",
+  "ocr_words": [
+    {
+      "text": "38.",
+      "x0": 46.8,
+      "top": 4.8,
+      "x1": 60.599999999999994,
+      "bottom": 12.6,
+      "confidence": 93.781006,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ifthe",
+      "x0": 75.0,
+      "top": 4.2,
+      "x1": 102.0,
+      "bottom": 12.600000000000001,
+      "confidence": 88.277847,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "period",
+      "x0": 106.2,
+      "top": 4.2,
+      "x1": 137.7,
+      "bottom": 14.399999999999999,
+      "confidence": 96.224953,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 141.6,
+      "top": 4.2,
+      "x1": 150.9,
+      "bottom": 12.600000000000001,
+      "confidence": 96.717445,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "assignment",
+      "x0": 154.2,
+      "top": 4.5,
+      "x1": 212.1,
+      "bottom": 14.4,
+      "confidence": 96.459007,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "copyright",
+      "x0": 216.0,
+      "top": 4.2,
+      "x1": 263.4,
+      "bottom": 14.399999999999999,
+      "confidence": 96.777901,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 267.0,
+      "top": 4.5,
+      "x1": 274.8,
+      "bottom": 12.6,
+      "confidence": 96.6082,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "not",
+      "x0": 279.0,
+      "top": 5.1,
+      "x1": 294.9,
+      "bottom": 12.6,
+      "confidence": 96.426414,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "stated,",
+      "x0": 299.09999999999997,
+      "top": 4.2,
+      "x1": 332.4,
+      "bottom": 13.8,
+      "confidence": 96.658058,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "it",
+      "x0": 336.59999999999997,
+      "top": 4.5,
+      "x1": 344.09999999999997,
+      "bottom": 12.6,
+      "confidence": 96.46508,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "shall",
+      "x0": 348.0,
+      "top": 4.2,
+      "x1": 372.3,
+      "bottom": 12.600000000000001,
+      "confidence": 96.374535,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "be",
+      "x0": 376.2,
+      "top": 4.2,
+      "x1": 387.3,
+      "bottom": 12.600000000000001,
+      "confidence": 96.667793,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "deemed",
+      "x0": 391.5,
+      "top": 4.2,
+      "x1": 429.6,
+      "bottom": 12.600000000000001,
+      "confidence": 96.417328,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 433.2,
+      "top": 5.1,
+      "x1": 442.5,
+      "bottom": 12.6,
+      "confidence": 96.581734,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "be",
+      "x0": 446.4,
+      "top": 4.2,
+      "x1": 457.5,
+      "bottom": 12.600000000000001,
+      "confidence": 93.213692,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "----years",
+      "x0": 462.0,
+      "top": 7.199999999999999,
+      "x1": 502.8,
+      "bottom": 14.399999999999999,
+      "confidence": 92.268814,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "from",
+      "x0": 507.0,
+      "top": 4.2,
+      "x1": 530.1,
+      "bottom": 12.600000000000001,
+      "confidence": 96.9785,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 534.0,
+      "top": 4.2,
+      "x1": 549.9,
+      "bottom": 12.600000000000001,
+      "confidence": 96.844864,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "date",
+      "x0": 75.0,
+      "top": 19.5,
+      "x1": 96.3,
+      "bottom": 27.9,
+      "confidence": 96.405037,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 100.2,
+      "top": 19.5,
+      "x1": 109.8,
+      "bottom": 27.9,
+      "confidence": 96.805176,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "assignment.",
+      "x0": 112.5,
+      "top": 19.8,
+      "x1": 172.8,
+      "bottom": 29.700000000000003,
+      "confidence": 96.220856,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(A)",
+      "x0": 75.3,
+      "top": 38.699999999999996,
+      "x1": 89.1,
+      "bottom": 48.89999999999999,
+      "confidence": 95.341202,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "4",
+      "x0": 103.5,
+      "top": 39.3,
+      "x1": 108.6,
+      "bottom": 46.8,
+      "confidence": 95.341202,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(B)",
+      "x0": 302.09999999999997,
+      "top": 38.699999999999996,
+      "x1": 315.9,
+      "bottom": 48.89999999999999,
+      "confidence": 92.253967,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "5",
+      "x0": 330.59999999999997,
+      "top": 39.3,
+      "x1": 335.4,
+      "bottom": 47.099999999999994,
+      "confidence": 96.46508,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(C)",
+      "x0": 75.3,
+      "top": 57.9,
+      "x1": 89.1,
+      "bottom": 68.1,
+      "confidence": 91.170845,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "6",
+      "x0": 103.5,
+      "top": 58.5,
+      "x1": 108.6,
+      "bottom": 66.3,
+      "confidence": 96.998436,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(D)",
+      "x0": 302.09999999999997,
+      "top": 57.9,
+      "x1": 316.49999999999994,
+      "bottom": 68.1,
+      "confidence": 89.857269,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "7",
+      "x0": 330.59999999999997,
+      "top": 58.5,
+      "x1": 335.4,
+      "bottom": 66.3,
+      "confidence": 96.470627,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

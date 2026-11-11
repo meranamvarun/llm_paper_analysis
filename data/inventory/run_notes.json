@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-10",
+  "purpose": "exploratory local inventory and three-item boundary sample; not a statistical coding pilot",
+  "software": "pypdf 6.14.2 extract_text default",
+  "source_sha256": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b",
+  "ai_assistance": "Codex selected candidate boundaries and sample; no API calls or automated legal labels",
+  "exact_model_version": "not exposed in session; unavailable",
+  "paid_api_calls": 0,
+  "raw_text_repairs": 0,
+  "verification": "466 page records; 29 no-text; 65 high-control-character pages; source hash unchanged; three raw question spans round-trip exactly",
+  "limitations": "No full completeness, duplicate, key authenticity, legal, rights or independent coding review"
+}

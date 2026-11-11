@@ -1,0 +1,37 @@
+{
+  "seed": 20261111,
+  "synthetic_cases": 600,
+  "by_kind": {
+    "changed_section": {
+      "cases": 100,
+      "flagged": 100,
+      "known_defects": 100
+    },
+    "changed_year": {
+      "cases": 100,
+      "flagged": 100,
+      "known_defects": 100
+    },
+    "clean": {
+      "cases": 100,
+      "flagged": 0,
+      "known_defects": 0
+    },
+    "dropped_negation": {
+      "cases": 100,
+      "flagged": 100,
+      "known_defects": 100
+    },
+    "long_single_valid_word_change": {
+      "cases": 100,
+      "flagged": 0,
+      "known_defects": 100
+    },
+    "short_wrong_word": {
+      "cases": 100,
+      "flagged": 100,
+      "known_defects": 100
+    }
+  },
+  "limits": "Synthetic source strings only, not corpus accuracy. The 98% support threshold can miss isolated noncritical word errors in long items; preserve this blind spot explicitly."
+}

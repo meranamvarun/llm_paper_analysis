@@ -1,0 +1,590 @@
+{
+  "pdf_page": 260,
+  "crop_top": 185.40199999999993,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "6. The scheme of reservation in promotion is limited to which of the following as per the",
+      "bbox": [
+        72.6,
+        4.2,
+        522.9,
+        15.3
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "text of Article 16 (4A)?",
+      "bbox": [
+        90.3,
+        17.7,
+        202.79999999999998,
+        28.5
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "a) Schedule Castes and Schedule Tribes.",
+      "bbox": [
+        72.3,
+        31.799999999999997,
+        271.2,
+        42.599999999999994
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "b) Backward class of citizens.",
+      "bbox": [
+        72.0,
+        45.3,
+        219.6,
+        56.099999999999994
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "c) PWD candidates.",
+      "bbox": [
+        72.3,
+        59.4,
+        172.5,
+        70.2
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "d) All of the above.",
+      "bbox": [
+        72.3,
+        72.89999999999999,
+        169.5,
+        83.69999999999999
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "CORRECT ANSWER : OPTION A",
+      "bbox": [
+        72.6,
+        95.39999999999999,
+        283.49999999999994,
+        105.3
+      ]
+    }
+  ],
+  "text": "6. The scheme of reservation in promotion is limited to which of the following as per the\ntext of Article 16 (4A)?\na) Schedule Castes and Schedule Tribes.\nb) Backward class of citizens.\nc) PWD candidates.\nd) All of the above.\nCORRECT ANSWER : OPTION A",
+  "ocr_words": [
+    {
+      "text": "6.",
+      "x0": 72.6,
+      "top": 4.2,
+      "x1": 80.1,
+      "bottom": 12.899999999999999,
+      "confidence": 96.613831,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 90.3,
+      "top": 4.2,
+      "x1": 108.3,
+      "bottom": 12.600000000000001,
+      "confidence": 96.819221,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "scheme",
+      "x0": 113.39999999999999,
+      "top": 4.2,
+      "x1": 148.2,
+      "bottom": 12.600000000000001,
+      "confidence": 96.487045,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 153.29999999999998,
+      "top": 4.2,
+      "x1": 164.7,
+      "bottom": 12.600000000000001,
+      "confidence": 96.678276,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "reservation",
+      "x0": 167.4,
+      "top": 4.2,
+      "x1": 220.8,
+      "bottom": 12.600000000000001,
+      "confidence": 95.869278,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 225.6,
+      "top": 4.2,
+      "x1": 234.0,
+      "bottom": 12.600000000000001,
+      "confidence": 96.983116,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "promotion",
+      "x0": 238.2,
+      "top": 4.2,
+      "x1": 288.59999999999997,
+      "bottom": 15.3,
+      "confidence": 96.143288,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 293.4,
+      "top": 4.2,
+      "x1": 300.29999999999995,
+      "bottom": 12.600000000000001,
+      "confidence": 96.786156,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "limited",
+      "x0": 306.0,
+      "top": 4.2,
+      "x1": 339.3,
+      "bottom": 12.600000000000001,
+      "confidence": 96.492142,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 343.8,
+      "top": 5.3999999999999995,
+      "x1": 352.5,
+      "bottom": 12.599999999999998,
+      "confidence": 96.864799,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "which",
+      "x0": 357.3,
+      "top": 4.2,
+      "x1": 386.40000000000003,
+      "bottom": 12.600000000000001,
+      "confidence": 95.873497,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 391.2,
+      "top": 4.2,
+      "x1": 402.0,
+      "bottom": 12.600000000000001,
+      "confidence": 95.873497,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 405.0,
+      "top": 4.2,
+      "x1": 419.1,
+      "bottom": 12.600000000000001,
+      "confidence": 96.492386,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 424.5,
+      "top": 4.2,
+      "x1": 470.1,
+      "bottom": 15.3,
+      "confidence": 96.261887,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "as",
+      "x0": 474.9,
+      "top": 7.199999999999999,
+      "x1": 484.5,
+      "bottom": 12.599999999999998,
+      "confidence": 96.613663,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "per",
+      "x0": 489.0,
+      "top": 7.199999999999999,
+      "x1": 504.3,
+      "bottom": 15.299999999999999,
+      "confidence": 96.828369,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 508.79999999999995,
+      "top": 4.2,
+      "x1": 522.9,
+      "bottom": 12.600000000000001,
+      "confidence": 96.706276,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "text",
+      "x0": 90.3,
+      "top": 19.2,
+      "x1": 108.0,
+      "bottom": 26.099999999999998,
+      "confidence": 96.387924,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 111.3,
+      "top": 17.7,
+      "x1": 122.39999999999999,
+      "bottom": 26.1,
+      "confidence": 96.785515,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Article",
+      "x0": 124.19999999999999,
+      "top": 17.7,
+      "x1": 156.6,
+      "bottom": 26.1,
+      "confidence": 96.814674,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "16",
+      "x0": 161.7,
+      "top": 17.7,
+      "x1": 171.6,
+      "bottom": 26.4,
+      "confidence": 96.465591,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(4A)?",
+      "x0": 175.79999999999998,
+      "top": 17.7,
+      "x1": 202.79999999999998,
+      "bottom": 28.5,
+      "confidence": 96.84256,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "a)",
+      "x0": 72.3,
+      "top": 31.799999999999997,
+      "x1": 80.7,
+      "bottom": 42.599999999999994,
+      "confidence": 96.856918,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Schedule",
+      "x0": 90.6,
+      "top": 31.799999999999997,
+      "x1": 133.5,
+      "bottom": 40.199999999999996,
+      "confidence": 96.655502,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Castes",
+      "x0": 137.1,
+      "top": 32.1,
+      "x1": 168.0,
+      "bottom": 40.2,
+      "confidence": 96.339096,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 171.9,
+      "top": 31.799999999999997,
+      "x1": 188.4,
+      "bottom": 40.199999999999996,
+      "confidence": 96.55275,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Schedule",
+      "x0": 192.29999999999998,
+      "top": 31.799999999999997,
+      "x1": 235.2,
+      "bottom": 40.199999999999996,
+      "confidence": 96.452415,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Tribes.",
+      "x0": 238.79999999999998,
+      "top": 31.799999999999997,
+      "x1": 271.2,
+      "bottom": 40.199999999999996,
+      "confidence": 96.648888,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "b)",
+      "x0": 72.0,
+      "top": 45.3,
+      "x1": 81.3,
+      "bottom": 56.099999999999994,
+      "confidence": 93.051331,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Backward",
+      "x0": 90.3,
+      "top": 45.3,
+      "x1": 138.6,
+      "bottom": 53.699999999999996,
+      "confidence": 96.704445,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "class",
+      "x0": 141.9,
+      "top": 45.3,
+      "x1": 164.4,
+      "bottom": 53.699999999999996,
+      "confidence": 96.637878,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 168.29999999999998,
+      "top": 45.3,
+      "x1": 179.1,
+      "bottom": 53.699999999999996,
+      "confidence": 96.945602,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "citizens.",
+      "x0": 181.2,
+      "top": 45.3,
+      "x1": 219.6,
+      "bottom": 53.699999999999996,
+      "confidence": 96.842522,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "c)",
+      "x0": 72.3,
+      "top": 59.4,
+      "x1": 80.7,
+      "bottom": 70.2,
+      "confidence": 93.028755,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "PWD",
+      "x0": 90.3,
+      "top": 59.699999999999996,
+      "x1": 116.1,
+      "bottom": 67.8,
+      "confidence": 95.521172,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "candidates.",
+      "x0": 120.0,
+      "top": 59.4,
+      "x1": 172.5,
+      "bottom": 67.8,
+      "confidence": 95.521172,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "d)",
+      "x0": 72.3,
+      "top": 72.89999999999999,
+      "x1": 81.6,
+      "bottom": 83.69999999999999,
+      "confidence": 91.09816,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "All",
+      "x0": 90.0,
+      "top": 72.89999999999999,
+      "x1": 105.0,
+      "bottom": 81.3,
+      "confidence": 90.732628,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 108.3,
+      "top": 72.89999999999999,
+      "x1": 119.7,
+      "bottom": 81.3,
+      "confidence": 70.649368,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 121.5,
+      "top": 72.89999999999999,
+      "x1": 135.6,
+      "bottom": 81.3,
+      "confidence": 70.649368,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "above.",
+      "x0": 139.5,
+      "top": 72.89999999999999,
+      "x1": 169.5,
+      "bottom": 81.3,
+      "confidence": 96.43737,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "CORRECT",
+      "x0": 72.6,
+      "top": 95.39999999999999,
+      "x1": 141.3,
+      "bottom": 105.3,
+      "confidence": 96.460251,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "ANSWER",
+      "x0": 145.5,
+      "top": 95.39999999999999,
+      "x1": 206.7,
+      "bottom": 105.3,
+      "confidence": 86.633957,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 211.5,
+      "top": 98.39999999999999,
+      "x1": 213.6,
+      "bottom": 105.3,
+      "confidence": 86.633957,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "OPTION",
+      "x0": 219.0,
+      "top": 95.7,
+      "x1": 269.7,
+      "bottom": 105.0,
+      "confidence": 95.5009,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A",
+      "x0": 273.59999999999997,
+      "top": 95.7,
+      "x1": 283.49999999999994,
+      "bottom": 105.0,
+      "confidence": 96.324615,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

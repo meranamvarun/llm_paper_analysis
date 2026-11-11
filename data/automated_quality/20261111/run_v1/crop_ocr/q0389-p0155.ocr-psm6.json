@@ -1,0 +1,47 @@
+{
+  "pdf_page": 155,
+  "crop_top": 59.42399999999998,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "oy PG",
+      "bbox": [
+        65.7,
+        2.1,
+        551.6999999999999,
+        18.900000000000002
+      ]
+    }
+  ],
+  "text": "oy PG",
+  "ocr_words": [
+    {
+      "text": "oy",
+      "x0": 65.7,
+      "top": 2.1,
+      "x1": 74.7,
+      "bottom": 18.900000000000002,
+      "confidence": 39.267273,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "PG",
+      "x0": 532.1999999999999,
+      "top": 3.5999999999999996,
+      "x1": 551.6999999999999,
+      "bottom": 13.5,
+      "confidence": 96.275154,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

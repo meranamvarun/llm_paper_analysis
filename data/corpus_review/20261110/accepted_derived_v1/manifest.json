@@ -1,0 +1,18 @@
+{
+  "status": "derived_view_with_limited_user_accepted_corrections",
+  "inputs": {
+    "C:\\Users\\malai\\varun_code\\llm_paper_analysis\\data\\extraction\\runs\\20261110T043421397159Z\\questions.jsonl": "07e8ec9308929f7456588acb6871dcc93e42191253734207fea13f6f24dd3c89",
+    "C:\\Users\\malai\\varun_code\\llm_paper_analysis\\data\\corpus_review\\20261110\\human_review_packet\\items.jsonl": "428576b250c72044dee3eb1e87d0ff0e48d449d0ac23bca7c730285134b9f8ac",
+    "C:\\Users\\malai\\varun_code\\llm_paper_analysis\\data\\corpus_review\\20261110\\human_review_packet\\human_decisions_20261110.jsonl": "c7a6ea62be4fb23c12358c09294425b4cee735ef6919f3c90b01ccaa761926fe",
+    "C:\\Users\\malai\\varun_code\\llm_paper_analysis\\extraction\\corrections.py": "bcf062e8d1201a302f37662e7227c8dde012965a5c1ce7ba96842f39ef9c649c"
+  },
+  "outputs": {
+    "corrections.jsonl": "15d1c83a270814573e7942e65c9cb8dd704b56347d9bd79ad570023f88e03302",
+    "id_aliases.jsonl": "3669b3c8acf99c79150219065dc9fdd8b975cfb4a9a1596b51de28aec32900d4",
+    "questions.jsonl": "94ad24293e860f326f04fc4a18d0df13d230568a6cbe69f16f7ec327cebaab0d"
+  },
+  "record_count": 1601,
+  "applied_decisions": 6,
+  "unchanged_records": 1595,
+  "independent_validation_pilot": false
+}

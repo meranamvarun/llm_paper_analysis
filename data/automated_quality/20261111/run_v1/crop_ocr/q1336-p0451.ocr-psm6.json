@@ -1,0 +1,559 @@
+{
+  "pdf_page": 451,
+  "crop_top": 84.74000000000001,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "37. A rule which says, “the literal sense of words should be adhered to, unless this would lead",
+      "bbox": [
+        72.6,
+        3.5999999999999996,
+        527.1,
+        14.399999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "to absurdity, in which case the literal meaning may be modified”, can be called",
+      "bbox": [
+        90.3,
+        20.7,
+        472.5,
+        31.5
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "A. Mischief rule",
+      "bbox": [
+        108.3,
+        37.5,
+        188.7,
+        46.2
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "B. Literal rule",
+      "bbox": [
+        108.89999999999999,
+        52.5,
+        177.89999999999998,
+        60.9
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "C. Golden rule",
+      "bbox": [
+        108.3,
+        66.89999999999999,
+        183.89999999999998,
+        75.3
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "D. Compromise approach",
+      "bbox": [
+        108.89999999999999,
+        81.6,
+        236.1,
+        92.1
+      ]
+    }
+  ],
+  "text": "37. A rule which says, “the literal sense of words should be adhered to, unless this would lead\nto absurdity, in which case the literal meaning may be modified”, can be called\nA. Mischief rule\nB. Literal rule\nC. Golden rule\nD. Compromise approach",
+  "ocr_words": [
+    {
+      "text": "37.",
+      "x0": 72.6,
+      "top": 4.2,
+      "x1": 86.39999999999999,
+      "bottom": 12.3,
+      "confidence": 96.380981,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A",
+      "x0": 90.3,
+      "top": 4.5,
+      "x1": 96.6,
+      "bottom": 12.0,
+      "confidence": 6.00087,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "rule",
+      "x0": 100.5,
+      "top": 3.9,
+      "x1": 118.5,
+      "bottom": 12.3,
+      "confidence": 6.00087,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "which",
+      "x0": 121.8,
+      "top": 3.9,
+      "x1": 149.7,
+      "bottom": 12.3,
+      "confidence": 96.382164,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "says,",
+      "x0": 153.9,
+      "top": 6.3,
+      "x1": 176.1,
+      "bottom": 14.399999999999999,
+      "confidence": 96.50576,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "“the",
+      "x0": 180.29999999999998,
+      "top": 3.5999999999999996,
+      "x1": 200.39999999999998,
+      "bottom": 12.299999999999999,
+      "confidence": 96.781631,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "literal",
+      "x0": 204.6,
+      "top": 3.9,
+      "x1": 231.0,
+      "bottom": 12.3,
+      "confidence": 96.147652,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "sense",
+      "x0": 234.89999999999998,
+      "top": 6.3,
+      "x1": 261.59999999999997,
+      "bottom": 12.3,
+      "confidence": 96.147652,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 265.2,
+      "top": 3.5999999999999996,
+      "x1": 274.8,
+      "bottom": 12.299999999999999,
+      "confidence": 96.707397,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "words",
+      "x0": 277.8,
+      "top": 3.9,
+      "x1": 307.2,
+      "bottom": 12.3,
+      "confidence": 96.343536,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "should",
+      "x0": 310.8,
+      "top": 3.9,
+      "x1": 342.0,
+      "bottom": 12.3,
+      "confidence": 96.597916,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "be",
+      "x0": 346.5,
+      "top": 3.9,
+      "x1": 357.3,
+      "bottom": 12.3,
+      "confidence": 96.660378,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "adhered",
+      "x0": 361.2,
+      "top": 3.9,
+      "x1": 400.5,
+      "bottom": 12.3,
+      "confidence": 96.411102,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to,",
+      "x0": 404.4,
+      "top": 4.8,
+      "x1": 417.0,
+      "bottom": 13.8,
+      "confidence": 96.926331,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "unless",
+      "x0": 421.2,
+      "top": 3.9,
+      "x1": 450.59999999999997,
+      "bottom": 12.3,
+      "confidence": 96.561737,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "this",
+      "x0": 453.9,
+      "top": 3.9,
+      "x1": 471.29999999999995,
+      "bottom": 12.3,
+      "confidence": 96.660866,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "would",
+      "x0": 474.59999999999997,
+      "top": 3.9,
+      "x1": 503.7,
+      "bottom": 12.3,
+      "confidence": 96.660866,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "lead",
+      "x0": 508.2,
+      "top": 3.9,
+      "x1": 527.1,
+      "bottom": 12.3,
+      "confidence": 96.712639,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 90.3,
+      "top": 21.9,
+      "x1": 99.89999999999999,
+      "bottom": 29.4,
+      "confidence": 96.927383,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "absurdity,",
+      "x0": 103.5,
+      "top": 21.0,
+      "x1": 150.9,
+      "bottom": 31.5,
+      "confidence": 96.130272,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "in",
+      "x0": 155.4,
+      "top": 21.3,
+      "x1": 162.6,
+      "bottom": 29.1,
+      "confidence": 96.965599,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "which",
+      "x0": 166.5,
+      "top": 21.0,
+      "x1": 194.4,
+      "bottom": 29.4,
+      "confidence": 96.926804,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "case",
+      "x0": 198.6,
+      "top": 23.4,
+      "x1": 218.7,
+      "bottom": 29.4,
+      "confidence": 96.473373,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 222.29999999999998,
+      "top": 21.0,
+      "x1": 237.89999999999998,
+      "bottom": 29.4,
+      "confidence": 96.987671,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "literal",
+      "x0": 242.1,
+      "top": 21.0,
+      "x1": 268.5,
+      "bottom": 29.4,
+      "confidence": 96.349564,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "meaning",
+      "x0": 272.7,
+      "top": 21.3,
+      "x1": 313.8,
+      "bottom": 31.5,
+      "confidence": 96.349564,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "may",
+      "x0": 318.0,
+      "top": 23.4,
+      "x1": 337.5,
+      "bottom": 31.5,
+      "confidence": 96.209862,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "be",
+      "x0": 341.4,
+      "top": 21.0,
+      "x1": 352.2,
+      "bottom": 29.4,
+      "confidence": 96.675537,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "modified”,",
+      "x0": 356.4,
+      "top": 20.7,
+      "x1": 406.5,
+      "bottom": 30.9,
+      "confidence": 96.407784,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "can",
+      "x0": 410.7,
+      "top": 23.4,
+      "x1": 426.59999999999997,
+      "bottom": 29.4,
+      "confidence": 97.001335,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "be",
+      "x0": 430.8,
+      "top": 21.0,
+      "x1": 441.6,
+      "bottom": 29.4,
+      "confidence": 96.9907,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "called",
+      "x0": 445.2,
+      "top": 21.0,
+      "x1": 472.5,
+      "bottom": 29.4,
+      "confidence": 96.948639,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "A.",
+      "x0": 108.3,
+      "top": 38.4,
+      "x1": 117.0,
+      "bottom": 45.9,
+      "confidence": 95.854256,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Mischief",
+      "x0": 126.89999999999999,
+      "top": 37.5,
+      "x1": 167.7,
+      "bottom": 46.2,
+      "confidence": 95.854256,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "rule",
+      "x0": 171.0,
+      "top": 37.8,
+      "x1": 188.7,
+      "bottom": 46.199999999999996,
+      "confidence": 95.868095,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "B.",
+      "x0": 108.89999999999999,
+      "top": 53.1,
+      "x1": 116.69999999999999,
+      "bottom": 60.6,
+      "confidence": 92.980751,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Literal",
+      "x0": 126.89999999999999,
+      "top": 52.5,
+      "x1": 155.7,
+      "bottom": 60.9,
+      "confidence": 96.38765,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "rule",
+      "x0": 160.2,
+      "top": 52.5,
+      "x1": 177.89999999999998,
+      "bottom": 60.9,
+      "confidence": 96.653923,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "C.",
+      "x0": 108.3,
+      "top": 67.2,
+      "x1": 116.7,
+      "bottom": 75.3,
+      "confidence": 92.17627,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Golden",
+      "x0": 126.3,
+      "top": 66.89999999999999,
+      "x1": 161.4,
+      "bottom": 75.3,
+      "confidence": 95.997391,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "rule",
+      "x0": 165.29999999999998,
+      "top": 66.89999999999999,
+      "x1": 183.89999999999998,
+      "bottom": 75.3,
+      "confidence": 96.1866,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "D.",
+      "x0": 108.89999999999999,
+      "top": 82.2,
+      "x1": 117.6,
+      "bottom": 89.7,
+      "confidence": 93.143158,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Compromise",
+      "x0": 126.6,
+      "top": 81.89999999999999,
+      "x1": 187.5,
+      "bottom": 92.1,
+      "confidence": 96.435722,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "approach",
+      "x0": 191.4,
+      "top": 81.6,
+      "x1": 236.1,
+      "bottom": 92.1,
+      "confidence": 96.341408,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

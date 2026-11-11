@@ -1,0 +1,339 @@
+{
+  "run_path": "C:/Users/malai/varun_code/llm_paper_analysis/data/extraction/runs/20261110T043421397159Z",
+  "page_denominator": 8,
+  "page_observations": [
+    {
+      "pdf_page": 105,
+      "stratum": "native",
+      "visual_question_numbers": [
+        19,
+        20
+      ],
+      "extracted_questions_overlapping_page": [
+        {
+          "id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0105:l0001:question",
+          "number": "19",
+          "status": "matched; option D split into two parsed options ('Both' + 'B and (C)')"
+        },
+        {
+          "id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0105:l0009:question",
+          "number": "20",
+          "status": "matched; all four options found; wording differs only case/punctuation/layout on visual check"
+        }
+      ],
+      "boundary": "No missing/extra question boundary on page; Q18 continuation spans page 104-105 but is outside the visual first-two complete scope.",
+      "substantive_errors": "One split option boundary (not question boundary) on Q19; page extractor retained recognizable text.",
+      "whitespace_only": "Line wraps on Q20 and differing casing/punctuation are not substantive transcription issues for this bounded visual comparison.",
+      "uncertainty": "None material."
+    },
+    {
+      "pdf_page": 178,
+      "stratum": "native",
+      "visual_question_numbers": [
+        91
+      ],
+      "extracted_questions_overlapping_page": [
+        {
+          "id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0177:l0035:question",
+          "number": "33",
+          "status": "question 33 is passage-related prior item spanning pages 177-178; extractor does not mark continuation on page 178 separately"
+        },
+        {
+          "id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0178:l0032:question",
+          "number": "91",
+          "status": "matched; options A-D extracted, with footer contamination in option D"
+        }
+      ],
+      "boundary": "Q91 visible and separately extracted; no missing/split/merged Q91 boundary. No second complete source question.",
+      "substantive_errors": "Footer/page text appended to Q91 option D; source option itself discernible. Q33 extraction includes passage material and spans page; boundary relation unclear from this page alone.",
+      "whitespace_only": "Case, line wrap and smart quote variation excluded.",
+      "uncertainty": "Passage/question linkage of Q33 not judged."
+    },
+    {
+      "pdf_page": 305,
+      "stratum": "native",
+      "visual_question_numbers": [
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83
+      ],
+      "extracted_questions_overlapping_page": [
+        {
+          "id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0305:l0000:question",
+          "number": "75",
+          "status": "matched"
+        },
+        {
+          "id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0305:l0003:question",
+          "number": "76",
+          "status": "matched"
+        },
+        {
+          "id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0305:l0008:question",
+          "number": "77",
+          "status": "matched; pairings preserved as option text"
+        },
+        {
+          "id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0305:l0013:question",
+          "number": "78",
+          "status": "matched"
+        },
+        {
+          "id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0305:l0016:question",
+          "number": "79",
+          "status": "matched"
+        },
+        {
+          "id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0305:l0019:question",
+          "number": "80",
+          "status": "matched"
+        },
+        {
+          "id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0305:l0022:question",
+          "number": "81",
+          "status": "matched"
+        },
+        {
+          "id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0305:l0025:question",
+          "number": "82",
+          "status": "matched"
+        },
+        {
+          "id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0305:l0028:question",
+          "number": "83",
+          "status": "matched; footer contamination appended in option D"
+        }
+      ],
+      "boundary": "9 source questions visible; 9 extracted; no boundary errors observed.",
+      "substantive_errors": "Footer contamination in Q83 D. Otherwise stems and options substantively align.",
+      "whitespace_only": "Quotation glyph variants and line layout excluded.",
+      "uncertainty": "None material."
+    },
+    {
+      "pdf_page": 449,
+      "stratum": "native",
+      "visual_question_numbers": [
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "extracted_questions_overlapping_page": [
+        {
+          "id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0448:l0031:question",
+          "number": "24",
+          "status": "prior question starts page 448; D option continuation visible here"
+        },
+        {
+          "id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0449:l0001:question",
+          "number": "25",
+          "status": "matched"
+        },
+        {
+          "id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0449:l0006:question",
+          "number": "26",
+          "status": "matched; extraction adds ‘e’ to civilie in A and D versus visually ‘civile’"
+        },
+        {
+          "id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0449:l0011:question",
+          "number": "27",
+          "status": "matched"
+        },
+        {
+          "id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0449:l0017:question",
+          "number": "28",
+          "status": "matched"
+        },
+        {
+          "id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0449:l0023:question",
+          "number": "29",
+          "status": "matched"
+        },
+        {
+          "id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0449:l0029:question",
+          "number": "30",
+          "status": "matched across pages 449-450; all options captured despite visual cutoff on 449"
+        }
+      ],
+      "boundary": "Q25-30 matched; Q24 continuation correctly identifiable from preceding page, not a new Q on 449. Q30 extraction includes later page 450 text, appropriate to complete item.",
+      "substantive_errors": "Possible A/D option spelling mismatch in Q26; preserve as source ambiguity/OCR discrepancy. Q30 unseen options were not within blind transcription, so full fidelity not assessed.",
+      "whitespace_only": "Line wrapping excluded.",
+      "uncertainty": "Q26 printed Roman spelling can be checked by human; no legal correction made."
+    },
+    {
+      "pdf_page": 330,
+      "stratum": "ocr",
+      "visual_question_numbers": [
+        3
+      ],
+      "extracted_questions_overlapping_page": [
+        {
+          "id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0326:l0000:question",
+          "number": "2",
+          "status": "merged multi-page block spanning 326-333; its raw text includes visible Q3 from page 330 within Q2 record"
+        }
+      ],
+      "boundary": "Visible Q3 is not separately extracted; appears merged into a multi-page Q2 record (boundary error). No complete second question.",
+      "substantive_errors": "Q3 stem omitted as distinct question record; Q2 merged body includes apparent later prompt and intervening page/footer artifacts.",
+      "whitespace_only": "Not applicable.",
+      "uncertainty": "The page visibly has Q3; extraction's long question 2 appears to aggregate material across pages, exact internal segmentation unresolved."
+    },
+    {
+      "pdf_page": 339,
+      "stratum": "ocr",
+      "visual_question_numbers": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "extracted_questions_overlapping_page": [
+        {
+          "id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0339:l0001:question",
+          "number": "2",
+          "status": "matched; metadata and checkmark noise contaminates option text"
+        },
+        {
+          "id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0339:l0010:question",
+          "number": "3",
+          "status": "matched; stem has spurious leading ‘4’; options have answer-mark noise"
+        },
+        {
+          "id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0339:l0018:question",
+          "number": "4",
+          "status": "matched; prior top-of-page answer tail is not question content"
+        },
+        {
+          "id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0339:l0026:question",
+          "number": "5",
+          "status": "matched but option labels/content noisy"
+        },
+        {
+          "id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0339:l0034:question",
+          "number": "6",
+          "status": "matched boundary; only one option extracted although four visible"
+        },
+        {
+          "id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0339:l0042:question",
+          "number": "7",
+          "status": "not fully comparable; image only shows question header at bottom; extracted stem/options come from continuation page 340"
+        }
+      ],
+      "boundary": "Visible Q2-Q6 boundaries generally present; Q7 heading visible but incomplete. Q6 option extraction is incomplete. No question-number false positives from metadata in visual observation.",
+      "substantive_errors": "Q3 stem spuriously prefixed ‘4’; Q6 loses 3 visible options (B Hans Kelsen, C John Austin, D Hart); noisy checked-answer symbols/labels contaminate options on scanned page. Preserve raw rather than infer labels.",
+      "whitespace_only": "No substantive whitespace-only issue identified.",
+      "uncertainty": "Some OCR option labels are too noisy to confidently align; no repairs proposed."
+    },
+    {
+      "pdf_page": 405,
+      "stratum": "ocr",
+      "visual_question_numbers": [
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "extracted_questions_overlapping_page": [
+        {
+          "id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0405:l0000:question",
+          "number": "20",
+          "status": "matched; option content has OCR substitutions/reading order noise"
+        },
+        {
+          "id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0405:l0013:question",
+          "number": "21",
+          "status": "matched; multiple option phrases garbled or reordered"
+        },
+        {
+          "id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0405:l0027:question",
+          "number": "22",
+          "status": "matched; options A-D parsed, text noise present"
+        },
+        {
+          "id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0405:l0040:question",
+          "number": "23",
+          "status": "matched; duplicate label B instead of visible C for option 3"
+        },
+        {
+          "id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0405:l0049:question",
+          "number": "24",
+          "status": "matched boundary; only first of four visually visible options included in extraction on this page"
+        }
+      ],
+      "boundary": "Q20-Q24 detected. Q24 incomplete in visual sample and extracted page fragment; later completeness not assessed.",
+      "substantive_errors": "OCR substitutions/option reading order corruption in Q20-22; Q23 option C mislabeled B; Q24 truncated at first option in sampled page.",
+      "whitespace_only": "Line breaks/layout not counted as substantive.",
+      "uncertainty": "OCR noise prevents exact text alignment; case names are transcribed as seen and not corrected."
+    },
+    {
+      "pdf_page": 414,
+      "stratum": "ocr",
+      "visual_question_numbers": [
+        61,
+        62,
+        63,
+        64,
+        65
+      ],
+      "extracted_questions_overlapping_page": [
+        {
+          "id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0413:l0040:question",
+          "number": "60",
+          "status": "prior question options at image top are correctly continuation material"
+        },
+        {
+          "id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0414:l0004:question",
+          "number": "61",
+          "status": "matched boundary; only 3 of 4 visible options extracted"
+        },
+        {
+          "id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0414:l0013:question",
+          "number": "62",
+          "status": "matched boundary; only 3 of 4 options extracted and duplicate B label on option 3"
+        },
+        {
+          "id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0414:l0022:question",
+          "number": "63",
+          "status": "matched boundary; only 3 of 4 visible options extracted"
+        },
+        {
+          "id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0414:l0031:question",
+          "number": "64",
+          "status": "matched"
+        },
+        {
+          "id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0414:l0040:question",
+          "number": "65",
+          "status": "question begins but is incomplete in image; extraction spans through page 415"
+        }
+      ],
+      "boundary": "Visible Q61-Q65 and prior Q60 continuation handled distinctly; no false metadata question numbers.",
+      "substantive_errors": "Options omitted in Q61-63 (one each), duplicate B parsed for Q62 option C. Q64 appears complete.",
+      "whitespace_only": "No material whitespace-only issues.",
+      "uncertainty": "Q65 options are not in source image; extraction's later-page content is outside blind scope."
+    }
+  ],
+  "item_denominators": {
+    "visually_transcribed_complete_questions": 14,
+    "fully_assessable_question_records": 14,
+    "boundary_matches_among_transcribed_items": 13,
+    "boundary_mismatches": 1,
+    "abstained_or_incomplete_visible_questions_not_transcribed": 4,
+    "option_sets_with_clear_substantive_omission_or_segmentation_issue": 7,
+    "stem_major_discrepancies_observed": 2,
+    "whitespace_only_differences_not_counted": true,
+    "notes": "Boundary denominator 14 includes Q3 on page 330 (merged into Q2 record); one distinct-boundary miss. Q6 is present as a boundary but option extraction incomplete. These are exploratory observations, not human ground truth."
+  },
+  "overall_uncertainty": "The source images are visual observations by an AI model, not human verified references. For scanned OCR pages, glyphs and answer marks make token-level alignment uncertain. The audit only transcribed first two complete questions per page, so later visible questions were boundary observations only. Cross-page extraction records were inspected only to understand sampled boundaries; no text was repaired."
+}

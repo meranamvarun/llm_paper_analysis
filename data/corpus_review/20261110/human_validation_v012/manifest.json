@@ -1,0 +1,32 @@
+{
+  "source_sha256": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b",
+  "inputs": {
+    "data\\corpus_review\\20261110\\reconciled_v0.1.2\\reconciliation.jsonl": "6c4312bb07d68624374e7dfbb5524a4975e55214a8037ae54c3a5a2ac85e1a06",
+    "data\\corpus_review\\20261110\\reconciled_v0.1.2\\questions.jsonl": "81e2cdbae7baa22f18d428f88aa7737b6d513aca12f479dd19844e34fb0be169",
+    "data\\corpus_review\\20261110\\reconciled_v0.1.2\\passages.jsonl": "9f691cfe30b1669a9e327b1d0adc491ee2d45452f13ce68a889330ce2b58ee1d",
+    "data\\corpus_review\\20261110\\reconciled_v0.1.2\\id_dispositions.jsonl": "79194842fc390a0660afbdded24d21a8044a408e7b6154f395b9a08ea6c3d9b8"
+  },
+  "embedded_page_image_sha256": {
+    "23": "289997a5974f72b2733b5e53b2d0c42d0ae1f70930eb2455aaf29c97a09dcba5",
+    "24": "c3bd933c8b7d091265b191f09d6cfff6173d8b31d13b872126d7f6ca7310285b",
+    "43": "95371f4ec5fa2e74584ed2d02f39beebf9402e05c55322909fe5bdcffc81efcb",
+    "44": "fca75b951a1315a66d15b3faa685df6e9301109a537041974ad739f76c319d1c",
+    "107": "916ee60346a12fa72f9605a37a48bb12b6b13c3a71254a64ebdabef4d112df1f",
+    "130": "65e95bce1734b5241e12bdab2d11aba38451bc84c527ca3280a2b828137e6369",
+    "133": "f2de21cade58dbbc73fbdd473f28ddd54f1b54ad27ea8ec7b825721aff06875b",
+    "162": "c5328f0ad85bb69811e8d85f7adc494390b592a8fd87c3f1c029173935c8b31c",
+    "165": "1696ca214be6f31be5d5f293a954768afa155631d43611d7ff7b780201f0b91a",
+    "237": "a559810b589127a4d08056eda904b4247d9373ea4d3149cd7d78a7d7a5e449e1",
+    "438": "54b4dd20f6c116485f1f12a6eae656a2ada413c00bfe55b4d582cf35bc069ffc",
+    "463": "4f86ed682905952bc303ca5339c2aa23e0b5fe2acd4f8c3c8afd98cbdb647979",
+    "464": "440bd778e3c6842175c544bf5c7672e0951f56dca35cb21270ca6a36698af7c4"
+  },
+  "outputs": {
+    "items.jsonl": "677081c9dc1a53be8edeca97858510d8370c32cc7f38af7b5a91322af8406207",
+    "review.html": "fafb0f8cefd7aad9580ec2839c5d924a8023a65fd246ae0a91d14b8d9f0e3956"
+  },
+  "items": 20,
+  "source_pages": 13,
+  "status": "targeted_changes_pending_human_validation",
+  "prepared_date": "2026-11-11"
+}

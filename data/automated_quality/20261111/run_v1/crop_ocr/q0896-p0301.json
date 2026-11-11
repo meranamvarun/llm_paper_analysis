@@ -1,0 +1,307 @@
+{
+  "pdf_page": 301,
+  "crop_top": 595.5328,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "49. ‘What States without justice, but robber bands enlarged?’ asked:",
+      "bbox": [
+        46.8,
+        3.5999999999999996,
+        420.29999999999995,
+        14.100000000000001
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "are",
+      "bbox": [
+        108.3,
+        6.8999999999999995,
+        123.89999999999999,
+        12.299999999999999
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(A) St. Aquinas (B) St. Augustine",
+      "bbox": [
+        75.3,
+        21.3,
+        399.29999999999995,
+        31.5
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(C) St. Joseph (D) St. Patrick",
+      "bbox": [
+        75.3,
+        38.1,
+        384.59999999999997,
+        48.599999999999994
+      ]
+    }
+  ],
+  "text": "49. ‘What States without justice, but robber bands enlarged?’ asked:\nare\n(A) St. Aquinas (B) St. Augustine\n(C) St. Joseph (D) St. Patrick",
+  "ocr_words": [
+    {
+      "text": "49.",
+      "x0": 46.8,
+      "top": 4.5,
+      "x1": 60.599999999999994,
+      "bottom": 12.3,
+      "confidence": 90.052994,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "‘What",
+      "x0": 75.0,
+      "top": 3.9,
+      "x1": 104.4,
+      "bottom": 12.3,
+      "confidence": 90.052994,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "are",
+      "x0": 108.3,
+      "top": 6.8999999999999995,
+      "x1": 123.89999999999999,
+      "bottom": 12.299999999999999,
+      "confidence": 96.8685,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "States",
+      "x0": 128.1,
+      "top": 3.9,
+      "x1": 159.0,
+      "bottom": 12.3,
+      "confidence": 96.845757,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "without",
+      "x0": 162.9,
+      "top": 3.9,
+      "x1": 201.9,
+      "bottom": 12.3,
+      "confidence": 96.6735,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "justice,",
+      "x0": 204.6,
+      "top": 4.2,
+      "x1": 240.6,
+      "bottom": 14.100000000000001,
+      "confidence": 96.051186,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "but",
+      "x0": 244.5,
+      "top": 3.9,
+      "x1": 261.3,
+      "bottom": 12.3,
+      "confidence": 96.051186,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "robber",
+      "x0": 264.9,
+      "top": 3.9,
+      "x1": 297.29999999999995,
+      "bottom": 12.3,
+      "confidence": 96.396942,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "bands",
+      "x0": 300.59999999999997,
+      "top": 3.9,
+      "x1": 330.59999999999997,
+      "bottom": 12.3,
+      "confidence": 96.387245,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "enlarged?’",
+      "x0": 334.5,
+      "top": 3.9,
+      "x1": 385.2,
+      "bottom": 14.1,
+      "confidence": 78.931198,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "asked:",
+      "x0": 389.09999999999997,
+      "top": 3.5999999999999996,
+      "x1": 420.29999999999995,
+      "bottom": 12.299999999999999,
+      "confidence": 96.175301,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 75.3,
+      "top": 21.3,
+      "x1": 89.1,
+      "bottom": 31.5,
+      "confidence": 73.919312,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "St.",
+      "x0": 103.5,
+      "top": 21.3,
+      "x1": 116.4,
+      "bottom": 29.700000000000003,
+      "confidence": 73.919312,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Aquinas",
+      "x0": 120.0,
+      "top": 21.3,
+      "x1": 162.0,
+      "bottom": 31.5,
+      "confidence": 96.592178,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(B)",
+      "x0": 302.09999999999997,
+      "top": 21.3,
+      "x1": 315.9,
+      "bottom": 31.5,
+      "confidence": 91.756622,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "St.",
+      "x0": 330.59999999999997,
+      "top": 21.3,
+      "x1": 343.2,
+      "bottom": 29.700000000000003,
+      "confidence": 96.693863,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Augustine",
+      "x0": 347.09999999999997,
+      "top": 21.3,
+      "x1": 399.29999999999995,
+      "bottom": 31.5,
+      "confidence": 96.067535,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(C)",
+      "x0": 75.3,
+      "top": 38.4,
+      "x1": 89.1,
+      "bottom": 48.599999999999994,
+      "confidence": 92.727692,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "St.",
+      "x0": 103.5,
+      "top": 38.4,
+      "x1": 116.4,
+      "bottom": 46.8,
+      "confidence": 95.166122,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Joseph",
+      "x0": 120.3,
+      "top": 38.4,
+      "x1": 155.4,
+      "bottom": 48.599999999999994,
+      "confidence": 95.166122,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(D)",
+      "x0": 302.09999999999997,
+      "top": 38.4,
+      "x1": 316.49999999999994,
+      "bottom": 48.599999999999994,
+      "confidence": 91.483978,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "St.",
+      "x0": 330.59999999999997,
+      "top": 38.4,
+      "x1": 343.2,
+      "bottom": 46.8,
+      "confidence": 95.557434,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Patrick",
+      "x0": 347.7,
+      "top": 38.1,
+      "x1": 384.59999999999997,
+      "bottom": 46.8,
+      "confidence": 96.409416,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

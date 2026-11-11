@@ -1,0 +1,383 @@
+{
+  "pdf_page": 458,
+  "crop_top": 149.77999999999997,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "19. What is the minimum number of judges required to constitute a Constitution Bench in the",
+      "bbox": [
+        72.89999999999999,
+        3.5999999999999996,
+        539.0999999999999,
+        14.4
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Supreme Court of India?",
+      "bbox": [
+        90.3,
+        18.3,
+        208.49999999999997,
+        29.099999999999998
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "A. Five.",
+      "bbox": [
+        144.29999999999998,
+        48.3,
+        193.20000000000002,
+        56.4
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "B. ‘Three.",
+      "bbox": [
+        144.9,
+        68.39999999999999,
+        201.6,
+        76.8
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "C. Seven.",
+      "bbox": [
+        144.6,
+        89.7,
+        202.49999999999997,
+        97.8
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "D. Nine.",
+      "bbox": [
+        144.9,
+        110.39999999999999,
+        195.9,
+        118.49999999999999
+      ]
+    }
+  ],
+  "text": "19. What is the minimum number of judges required to constitute a Constitution Bench in the\nSupreme Court of India?\nA. Five.\nB. ‘Three.\nC. Seven.\nD. Nine.",
+  "ocr_words": [
+    {
+      "text": "19.",
+      "x0": 72.89999999999999,
+      "top": 4.2,
+      "x1": 86.39999999999999,
+      "bottom": 12.3,
+      "confidence": 96.53611,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "What",
+      "x0": 90.3,
+      "top": 3.9,
+      "x1": 116.39999999999999,
+      "bottom": 12.3,
+      "confidence": 96.463242,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 121.19999999999999,
+      "top": 4.2,
+      "x1": 127.19999999999999,
+      "bottom": 12.3,
+      "confidence": 96.108116,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 131.4,
+      "top": 3.9,
+      "x1": 147.0,
+      "bottom": 12.3,
+      "confidence": 96.108116,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "minimum",
+      "x0": 151.79999999999998,
+      "top": 4.2,
+      "x1": 197.09999999999997,
+      "bottom": 12.3,
+      "confidence": 96.532387,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "number",
+      "x0": 202.2,
+      "top": 3.9,
+      "x1": 239.7,
+      "bottom": 12.3,
+      "confidence": 96.533234,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 243.89999999999998,
+      "top": 3.5999999999999996,
+      "x1": 252.29999999999998,
+      "bottom": 12.299999999999999,
+      "confidence": 96.619972,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "judges",
+      "x0": 256.5,
+      "top": 3.9,
+      "x1": 288.0,
+      "bottom": 14.4,
+      "confidence": 96.757767,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "required",
+      "x0": 293.09999999999997,
+      "top": 3.9,
+      "x1": 332.99999999999994,
+      "bottom": 14.4,
+      "confidence": 96.133423,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 337.5,
+      "top": 4.8,
+      "x1": 347.4,
+      "bottom": 12.3,
+      "confidence": 96.701645,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "constitute",
+      "x0": 352.2,
+      "top": 4.2,
+      "x1": 400.5,
+      "bottom": 12.3,
+      "confidence": 96.371353,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 405.0,
+      "top": 6.3,
+      "x1": 409.5,
+      "bottom": 12.3,
+      "confidence": 96.992432,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Constitution",
+      "x0": 414.3,
+      "top": 4.2,
+      "x1": 473.1,
+      "bottom": 12.3,
+      "confidence": 96.622604,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Bench",
+      "x0": 478.5,
+      "top": 3.9,
+      "x1": 506.7,
+      "bottom": 12.3,
+      "confidence": 96.277206,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 511.79999999999995,
+      "top": 4.2,
+      "x1": 519.3,
+      "bottom": 12.0,
+      "confidence": 96.298584,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 523.8,
+      "top": 3.9,
+      "x1": 539.0999999999999,
+      "bottom": 12.3,
+      "confidence": 96.703156,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Supreme",
+      "x0": 90.3,
+      "top": 18.9,
+      "x1": 133.2,
+      "bottom": 29.099999999999998,
+      "confidence": 96.200127,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Court",
+      "x0": 137.1,
+      "top": 18.9,
+      "x1": 163.5,
+      "bottom": 27.0,
+      "confidence": 95.473671,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 167.1,
+      "top": 18.3,
+      "x1": 176.7,
+      "bottom": 27.0,
+      "confidence": 96.847939,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "India?",
+      "x0": 180.29999999999998,
+      "top": 18.599999999999998,
+      "x1": 208.49999999999997,
+      "bottom": 27.0,
+      "confidence": 95.964157,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "A.",
+      "x0": 144.29999999999998,
+      "top": 48.6,
+      "x1": 152.99999999999997,
+      "bottom": 56.1,
+      "confidence": 68.839439,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Five.",
+      "x0": 171.9,
+      "top": 48.3,
+      "x1": 193.20000000000002,
+      "bottom": 56.4,
+      "confidence": 96.493416,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "B.",
+      "x0": 144.9,
+      "top": 69.0,
+      "x1": 152.70000000000002,
+      "bottom": 76.5,
+      "confidence": 89.501472,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "‘Three.",
+      "x0": 171.0,
+      "top": 68.39999999999999,
+      "x1": 201.6,
+      "bottom": 76.8,
+      "confidence": 57.970146,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "C.",
+      "x0": 144.6,
+      "top": 89.7,
+      "x1": 152.4,
+      "bottom": 97.8,
+      "confidence": 91.717308,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Seven.",
+      "x0": 171.29999999999998,
+      "top": 89.7,
+      "x1": 202.49999999999997,
+      "bottom": 97.8,
+      "confidence": 89.761658,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "D.",
+      "x0": 144.9,
+      "top": 110.7,
+      "x1": 153.6,
+      "bottom": 118.2,
+      "confidence": 85.515739,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Nine.",
+      "x0": 171.9,
+      "top": 110.39999999999999,
+      "x1": 195.9,
+      "bottom": 118.49999999999999,
+      "confidence": 66.239372,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

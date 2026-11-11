@@ -1,0 +1,676 @@
+{
+  "pdf_page": 392,
+  "crop_top": 559.88136,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.13 A' agrees to buy from 'B' a certain horse. It turns out that horse was dead at the time of the bargain, though neither party was aware of the fact. The",
+      "bbox": [
+        42.0,
+        2.4,
+        524.4,
+        11.4
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "agreement is:",
+      "bbox": [
+        62.699999999999996,
+        13.2,
+        104.39999999999999,
+        19.5
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "Ans a",
+      "bbox": [
+        43.199999999999996,
+        24.3,
+        86.7,
+        36.9
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "1. valid for claim of compensation",
+      "bbox": [
+        88.5,
+        34.199999999999996,
+        190.5,
+        40.8
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "x",
+      "bbox": [
+        73.2,
+        45.6,
+        86.7,
+        58.2
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "2. voidable",
+      "bbox": [
+        88.2,
+        55.5,
+        120.89999999999999,
+        60.6
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "x",
+      "bbox": [
+        73.2,
+        66.89999999999999,
+        86.7,
+        79.49999999999999
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "3. valid",
+      "bbox": [
+        88.2,
+        76.8,
+        109.19999999999999,
+        81.89999999999999
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "ss",
+      "bbox": [
+        75.89999999999999,
+        91.8,
+        80.39999999999999,
+        106.5
+      ]
+    },
+    {
+      "line_id": "l0009",
+      "text": "4. void",
+      "bbox": [
+        87.89999999999999,
+        98.39999999999999,
+        107.69999999999999,
+        103.5
+      ]
+    }
+  ],
+  "text": "Q.13 A' agrees to buy from 'B' a certain horse. It turns out that horse was dead at the time of the bargain, though neither party was aware of the fact. The\nagreement is:\nAns a\n1. valid for claim of compensation\nx\n2. voidable\nx\n3. valid\nss\n4. void",
+  "ocr_words": [
+    {
+      "text": "Q.13",
+      "x0": 42.0,
+      "top": 3.9,
+      "x1": 56.1,
+      "bottom": 9.6,
+      "confidence": 46.315731,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A'",
+      "x0": 62.4,
+      "top": 3.5999999999999996,
+      "x1": 68.1,
+      "bottom": 8.7,
+      "confidence": 46.315731,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "agrees",
+      "x0": 70.5,
+      "top": 5.1,
+      "x1": 90.6,
+      "bottom": 10.2,
+      "confidence": 82.129562,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 92.7,
+      "top": 4.2,
+      "x1": 99.0,
+      "bottom": 8.7,
+      "confidence": 96.330711,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "buy",
+      "x0": 101.39999999999999,
+      "top": 3.5999999999999996,
+      "x1": 112.19999999999999,
+      "bottom": 10.2,
+      "confidence": 96.330711,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "from",
+      "x0": 114.3,
+      "top": 3.5999999999999996,
+      "x1": 129.0,
+      "bottom": 8.7,
+      "confidence": 93.100189,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "'B'",
+      "x0": 131.4,
+      "top": 3.5999999999999996,
+      "x1": 138.3,
+      "bottom": 8.7,
+      "confidence": 71.441895,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 139.79999999999998,
+      "top": 2.4,
+      "x1": 142.2,
+      "bottom": 11.4,
+      "confidence": 71.441895,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "certain",
+      "x0": 146.1,
+      "top": 3.9,
+      "x1": 167.1,
+      "bottom": 8.7,
+      "confidence": 96.674896,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "horse.",
+      "x0": 169.79999999999998,
+      "top": 3.5999999999999996,
+      "x1": 188.39999999999998,
+      "bottom": 8.7,
+      "confidence": 96.970734,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "It",
+      "x0": 191.1,
+      "top": 3.9,
+      "x1": 195.0,
+      "bottom": 8.7,
+      "confidence": 95.523918,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "turns",
+      "x0": 196.79999999999998,
+      "top": 4.2,
+      "x1": 212.99999999999997,
+      "bottom": 8.7,
+      "confidence": 96.997734,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "out",
+      "x0": 215.1,
+      "top": 4.2,
+      "x1": 225.29999999999998,
+      "bottom": 8.7,
+      "confidence": 96.528458,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "that",
+      "x0": 227.1,
+      "top": 3.5999999999999996,
+      "x1": 239.7,
+      "bottom": 8.7,
+      "confidence": 96.26355,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "horse",
+      "x0": 242.1,
+      "top": 3.5999999999999996,
+      "x1": 258.9,
+      "bottom": 8.7,
+      "confidence": 96.870804,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "was",
+      "x0": 261.0,
+      "top": 5.1,
+      "x1": 273.0,
+      "bottom": 8.7,
+      "confidence": 96.497757,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "dead",
+      "x0": 275.09999999999997,
+      "top": 3.5999999999999996,
+      "x1": 290.09999999999997,
+      "bottom": 8.7,
+      "confidence": 96.888702,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "at",
+      "x0": 292.5,
+      "top": 4.2,
+      "x1": 298.2,
+      "bottom": 8.7,
+      "confidence": 96.952957,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 300.3,
+      "top": 3.5999999999999996,
+      "x1": 310.2,
+      "bottom": 8.7,
+      "confidence": 96.601616,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "time",
+      "x0": 312.3,
+      "top": 3.9,
+      "x1": 326.40000000000003,
+      "bottom": 8.7,
+      "confidence": 96.601616,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 328.5,
+      "top": 3.5999999999999996,
+      "x1": 334.8,
+      "bottom": 8.7,
+      "confidence": 96.434807,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 336.59999999999997,
+      "top": 3.5999999999999996,
+      "x1": 346.49999999999994,
+      "bottom": 8.7,
+      "confidence": 96.962708,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "bargain,",
+      "x0": 348.9,
+      "top": 3.5999999999999996,
+      "x1": 373.79999999999995,
+      "bottom": 10.2,
+      "confidence": 96.297089,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "though",
+      "x0": 375.9,
+      "top": 3.5999999999999996,
+      "x1": 397.5,
+      "bottom": 10.2,
+      "confidence": 96.569427,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "neither",
+      "x0": 400.2,
+      "top": 3.5999999999999996,
+      "x1": 422.4,
+      "bottom": 8.7,
+      "confidence": 96.296303,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "party",
+      "x0": 424.5,
+      "top": 4.2,
+      "x1": 440.4,
+      "bottom": 10.2,
+      "confidence": 96.437401,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "was",
+      "x0": 442.5,
+      "top": 5.1,
+      "x1": 454.5,
+      "bottom": 8.7,
+      "confidence": 96.74913,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "aware",
+      "x0": 456.59999999999997,
+      "top": 5.1,
+      "x1": 475.49999999999994,
+      "bottom": 8.7,
+      "confidence": 96.581573,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 477.59999999999997,
+      "top": 3.5999999999999996,
+      "x1": 483.9,
+      "bottom": 8.7,
+      "confidence": 97.009598,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 485.7,
+      "top": 3.5999999999999996,
+      "x1": 495.59999999999997,
+      "bottom": 8.7,
+      "confidence": 96.983536,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "fact.",
+      "x0": 497.7,
+      "top": 3.5999999999999996,
+      "x1": 511.2,
+      "bottom": 8.7,
+      "confidence": 96.993889,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 513.3,
+      "top": 3.5999999999999996,
+      "x1": 524.4,
+      "bottom": 8.7,
+      "confidence": 96.948349,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "agreement",
+      "x0": 62.699999999999996,
+      "top": 13.5,
+      "x1": 96.3,
+      "bottom": 19.5,
+      "confidence": 96.336761,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "is:",
+      "x0": 98.39999999999999,
+      "top": 13.2,
+      "x1": 104.39999999999999,
+      "bottom": 18.0,
+      "confidence": 96.844986,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.199999999999996,
+      "top": 25.8,
+      "x1": 54.599999999999994,
+      "bottom": 30.6,
+      "confidence": 96.821754,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "a",
+      "x0": 73.2,
+      "top": 24.3,
+      "x1": 86.7,
+      "bottom": 36.9,
+      "confidence": 37.024055,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "1.",
+      "x0": 88.5,
+      "top": 34.5,
+      "x1": 93.0,
+      "bottom": 39.3,
+      "confidence": 96.689293,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "valid",
+      "x0": 95.39999999999999,
+      "top": 34.199999999999996,
+      "x1": 109.19999999999999,
+      "bottom": 39.3,
+      "confidence": 96.430206,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "for",
+      "x0": 111.3,
+      "top": 34.199999999999996,
+      "x1": 120.0,
+      "bottom": 39.3,
+      "confidence": 96.430206,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "claim",
+      "x0": 122.1,
+      "top": 34.199999999999996,
+      "x1": 137.4,
+      "bottom": 39.3,
+      "confidence": 96.606445,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "of",
+      "x0": 140.1,
+      "top": 34.199999999999996,
+      "x1": 146.1,
+      "bottom": 39.3,
+      "confidence": 96.668442,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "compensation",
+      "x0": 147.9,
+      "top": 34.5,
+      "x1": 190.5,
+      "bottom": 40.8,
+      "confidence": 96.763077,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "x",
+      "x0": 73.2,
+      "top": 45.6,
+      "x1": 86.7,
+      "bottom": 58.2,
+      "confidence": 84.783966,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "2.",
+      "x0": 88.2,
+      "top": 55.8,
+      "x1": 93.0,
+      "bottom": 60.599999999999994,
+      "confidence": 92.900269,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "voidable",
+      "x0": 95.39999999999999,
+      "top": 55.5,
+      "x1": 120.89999999999999,
+      "bottom": 60.6,
+      "confidence": 92.018127,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "x",
+      "x0": 73.2,
+      "top": 66.89999999999999,
+      "x1": 86.7,
+      "bottom": 79.49999999999999,
+      "confidence": 84.783966,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "3.",
+      "x0": 88.2,
+      "top": 77.1,
+      "x1": 93.0,
+      "bottom": 81.89999999999999,
+      "confidence": 93.448341,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "valid",
+      "x0": 95.39999999999999,
+      "top": 76.8,
+      "x1": 109.19999999999999,
+      "bottom": 81.89999999999999,
+      "confidence": 93.448341,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "ss",
+      "x0": 75.89999999999999,
+      "top": 91.8,
+      "x1": 80.39999999999999,
+      "bottom": 106.5,
+      "confidence": 9.308884,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "4.",
+      "x0": 87.89999999999999,
+      "top": 98.7,
+      "x1": 92.99999999999999,
+      "bottom": 103.5,
+      "confidence": 95.403458,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "void",
+      "x0": 95.39999999999999,
+      "top": 98.39999999999999,
+      "x1": 107.69999999999999,
+      "bottom": 103.49999999999999,
+      "confidence": 96.217529,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

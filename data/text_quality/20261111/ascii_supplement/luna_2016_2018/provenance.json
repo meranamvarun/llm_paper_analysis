@@ -1,0 +1,33 @@
+{
+  "requested_model": "gpt-6-luna",
+  "date": "2026-11-11",
+  "settings": "medium",
+  "input_sha256": "c72d48a3d72480c88df1178b1cc4e68d71294ffe0c86fe73f5b40b796b20b3b4",
+  "prompt": "For each ASCII artifact flag, use its labeled PDF crop. Retain semantics, source typos and legal wording. Use exact-span replacement only; delete only when crop confirms extraneous layout/answer mark. Do not infer answers.",
+  "reviewed_sheets": 21,
+  "reviewed_flags": 167,
+  "image_sha256": {
+    "sheet_001.jpg": "aa5c24d501dd448af343f6179ba4a88eab59c7415eb2b50c3af14ed69ba2bb1f",
+    "sheet_002.jpg": "2f8958ca4ff2e0ffcc3c8662a94f66511f0ee8c92826c0f083481b958b926e12",
+    "sheet_003.jpg": "67efd216bf9ca46a2e66eae6d94311689c7c2c91204695ad186acfa032c0bb2f",
+    "sheet_004.jpg": "08806f64588bc83d09173654a19d13de42ca2833286ef2fe45646176ea778b84",
+    "sheet_005.jpg": "37bbb50980ac2ad29c166a2ac48f7391c249ecd623bdb7748717bae71e22c47d",
+    "sheet_006.jpg": "ea57b793d2186feefdd178bb1e3fa97271195beb28392cd1175785713839ba88",
+    "sheet_007.jpg": "38258588d2db6153b3e0d83ac3accdfd612cbb3cf36293e83ce1d3c5fa67c669",
+    "sheet_008.jpg": "5f066914271beb9f6e34cf08dc0c74a99642b0e5aa10d7ae5c72e8645cd2404e",
+    "sheet_009.jpg": "6678cee2c431d336611b661fe72d76fa5606391bd2045dfd6a6f99271514f91f",
+    "sheet_010.jpg": "b298a31621e9312f5e6526dc0d23a147a2028a41f1ee7ccc3ddc759987ab6691",
+    "sheet_011.jpg": "a97af0dbcac1516e9e00c6fae097271aba606c87ed558d789ae83b274c4a5a47",
+    "sheet_012.jpg": "52226231d200559e056351c4da02af4a394453d422eee90b6d122e44b8053408",
+    "sheet_013.jpg": "92e487549d133d499fb681fd2446570e1cdd02f79df8a8ae0d71a4162ea77a00",
+    "sheet_014.jpg": "da06db547e2a9499e34b202085001c35fcd25a1e71a957dc82098e8495c01edf",
+    "sheet_015.jpg": "0a34a7ecf50ac39aca8eeab996c35e272ba332215d7c556f7457a70874418798",
+    "sheet_016.jpg": "b47fa73c94573bf7636271258510bbd8ddf9993daafe5af5527e79caef4e3664",
+    "sheet_017.jpg": "388956b0e001f9bb4022fa28cedad2ac4bd28c38708c707fcc180ac7e3f59bf1",
+    "sheet_018.jpg": "d1e8120c3f1e168639be92ade0e64c06e1d7ca202fd278c7f70a3122bce1b81b",
+    "sheet_019.jpg": "11a5bbe1e74559a157fe1313f48ce16456495749d3588fdf47525190713f421d",
+    "sheet_020.jpg": "65e1d89ee84712e1a07745434fc6e07c383285c87c28072c6f0a6bc5365b9cdb",
+    "sheet_021.jpg": "666c434276da8fc0c52361e145d5fccfcf3a6f90607f6ed3d992e14c5bbaf66b"
+  },
+  "limitations": "No legal-fact verification or answer correctness inference; crops visually reviewed."
+}

@@ -1,0 +1,265 @@
+{
+  "pdf_page": 307,
+  "crop_top": 223.2428,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "94. To commit an affray, the minimum number of persons required is:",
+      "bbox": [
+        46.8,
+        3.9,
+        410.09999999999997,
+        14.1
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "(A) Two (B) Three",
+      "bbox": [
+        75.3,
+        22.2,
+        359.4,
+        32.4
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(C) Five (D) Seven",
+      "bbox": [
+        75.3,
+        37.8,
+        360.29999999999995,
+        48.0
+      ]
+    }
+  ],
+  "text": "94. To commit an affray, the minimum number of persons required is:\n(A) Two (B) Three\n(C) Five (D) Seven",
+  "ocr_words": [
+    {
+      "text": "94.",
+      "x0": 46.8,
+      "top": 4.5,
+      "x1": 60.599999999999994,
+      "bottom": 12.3,
+      "confidence": 95.251022,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "To",
+      "x0": 74.7,
+      "top": 3.9,
+      "x1": 87.0,
+      "bottom": 12.3,
+      "confidence": 0.0,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "commit",
+      "x0": 90.89999999999999,
+      "top": 4.2,
+      "x1": 128.1,
+      "bottom": 12.3,
+      "confidence": 0.0,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "an",
+      "x0": 131.7,
+      "top": 6.8999999999999995,
+      "x1": 144.0,
+      "bottom": 12.299999999999999,
+      "confidence": 90.829369,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "affray,",
+      "x0": 147.6,
+      "top": 3.9,
+      "x1": 179.7,
+      "bottom": 14.1,
+      "confidence": 90.829369,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 183.9,
+      "top": 3.9,
+      "x1": 199.5,
+      "bottom": 12.3,
+      "confidence": 96.356842,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "minimum",
+      "x0": 203.7,
+      "top": 4.2,
+      "x1": 252.6,
+      "bottom": 12.0,
+      "confidence": 96.038651,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "number",
+      "x0": 256.2,
+      "top": 3.9,
+      "x1": 295.5,
+      "bottom": 12.3,
+      "confidence": 96.353867,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 298.8,
+      "top": 3.9,
+      "x1": 308.7,
+      "bottom": 12.3,
+      "confidence": 96.398888,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "persons",
+      "x0": 311.09999999999997,
+      "top": 6.8999999999999995,
+      "x1": 349.49999999999994,
+      "bottom": 14.099999999999998,
+      "confidence": 96.551361,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "required",
+      "x0": 353.09999999999997,
+      "top": 3.9,
+      "x1": 396.29999999999995,
+      "bottom": 14.1,
+      "confidence": 96.289932,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is:",
+      "x0": 399.59999999999997,
+      "top": 4.2,
+      "x1": 410.09999999999997,
+      "bottom": 12.3,
+      "confidence": 97.009003,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 75.3,
+      "top": 22.2,
+      "x1": 89.1,
+      "bottom": 32.4,
+      "confidence": 82.910873,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Two",
+      "x0": 103.2,
+      "top": 22.2,
+      "x1": 123.9,
+      "bottom": 30.6,
+      "confidence": 82.910873,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(B)",
+      "x0": 302.09999999999997,
+      "top": 22.2,
+      "x1": 315.9,
+      "bottom": 32.4,
+      "confidence": 92.618423,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Three",
+      "x0": 330.0,
+      "top": 22.2,
+      "x1": 359.4,
+      "bottom": 30.6,
+      "confidence": 95.78997,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(C)",
+      "x0": 75.3,
+      "top": 37.8,
+      "x1": 89.1,
+      "bottom": 48.0,
+      "confidence": 90.845734,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Five",
+      "x0": 103.2,
+      "top": 37.8,
+      "x1": 124.5,
+      "bottom": 46.199999999999996,
+      "confidence": 96.203056,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(D)",
+      "x0": 302.09999999999997,
+      "top": 37.8,
+      "x1": 316.49999999999994,
+      "bottom": 48.0,
+      "confidence": 91.640419,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Seven",
+      "x0": 330.59999999999997,
+      "top": 37.8,
+      "x1": 360.29999999999995,
+      "bottom": 46.199999999999996,
+      "confidence": 96.337845,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

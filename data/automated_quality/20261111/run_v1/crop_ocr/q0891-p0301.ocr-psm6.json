@@ -1,0 +1,318 @@
+{
+  "pdf_page": 301,
+  "crop_top": 268.9627999999999,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "44. Austinian notion of ‘positive morality’ is:",
+      "bbox": [
+        46.8,
+        3.9,
+        279.9,
+        14.1
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "(A) priori (B) _ socially constructed",
+      "bbox": [
+        75.3,
+        20.099999999999998,
+        429.59999999999997,
+        33.0
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "a",
+      "bbox": [
+        103.2,
+        24.3,
+        108.60000000000001,
+        29.7
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(C) religiously constructed (D) _ law strictly called",
+      "bbox": [
+        75.3,
+        37.199999999999996,
+        433.5,
+        50.099999999999994
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "so",
+      "bbox": [
+        390.9,
+        41.4,
+        400.79999999999995,
+        46.8
+      ]
+    }
+  ],
+  "text": "44. Austinian notion of ‘positive morality’ is:\n(A) priori (B) _ socially constructed\na\n(C) religiously constructed (D) _ law strictly called\nso",
+  "ocr_words": [
+    {
+      "text": "44.",
+      "x0": 46.8,
+      "top": 4.5,
+      "x1": 60.599999999999994,
+      "bottom": 12.3,
+      "confidence": 74.026527,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Austinian",
+      "x0": 74.39999999999999,
+      "top": 3.9,
+      "x1": 125.1,
+      "bottom": 12.3,
+      "confidence": 74.026527,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "notion",
+      "x0": 128.4,
+      "top": 4.2,
+      "x1": 160.2,
+      "bottom": 12.3,
+      "confidence": 95.402802,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 163.79999999999998,
+      "top": 3.9,
+      "x1": 173.39999999999998,
+      "bottom": 12.3,
+      "confidence": 96.675407,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "‘positive",
+      "x0": 176.1,
+      "top": 3.9,
+      "x1": 216.89999999999998,
+      "bottom": 14.1,
+      "confidence": 96.445641,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "morality’",
+      "x0": 220.79999999999998,
+      "top": 3.9,
+      "x1": 265.79999999999995,
+      "bottom": 14.1,
+      "confidence": 93.45752,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is:",
+      "x0": 269.4,
+      "top": 4.2,
+      "x1": 279.9,
+      "bottom": 12.3,
+      "confidence": 96.141785,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 75.3,
+      "top": 21.3,
+      "x1": 89.1,
+      "bottom": 31.5,
+      "confidence": 72.575096,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "a",
+      "x0": 103.2,
+      "top": 24.3,
+      "x1": 108.60000000000001,
+      "bottom": 29.7,
+      "confidence": 37.299648,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "priori",
+      "x0": 112.2,
+      "top": 21.599999999999998,
+      "x1": 140.4,
+      "bottom": 31.5,
+      "confidence": 37.299648,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(B)",
+      "x0": 302.09999999999997,
+      "top": 21.3,
+      "x1": 315.9,
+      "bottom": 31.5,
+      "confidence": 79.891235,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "_",
+      "x0": 320.09999999999997,
+      "top": 20.099999999999998,
+      "x1": 324.59999999999997,
+      "bottom": 33.0,
+      "confidence": 14.589546,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "socially",
+      "x0": 330.3,
+      "top": 21.3,
+      "x1": 367.8,
+      "bottom": 31.5,
+      "confidence": 95.964767,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "constructed",
+      "x0": 371.09999999999997,
+      "top": 21.3,
+      "x1": 429.59999999999997,
+      "bottom": 29.700000000000003,
+      "confidence": 96.597992,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(C)",
+      "x0": 75.3,
+      "top": 38.4,
+      "x1": 89.1,
+      "bottom": 48.599999999999994,
+      "confidence": 92.468224,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "religiously",
+      "x0": 102.89999999999999,
+      "top": 38.4,
+      "x1": 156.29999999999998,
+      "bottom": 48.599999999999994,
+      "confidence": 75.568008,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "constructed",
+      "x0": 159.6,
+      "top": 38.4,
+      "x1": 218.1,
+      "bottom": 46.8,
+      "confidence": 96.408501,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(D)",
+      "x0": 302.09999999999997,
+      "top": 38.4,
+      "x1": 316.49999999999994,
+      "bottom": 48.599999999999994,
+      "confidence": 87.851456,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "_",
+      "x0": 320.09999999999997,
+      "top": 37.199999999999996,
+      "x1": 324.59999999999997,
+      "bottom": 50.099999999999994,
+      "confidence": 52.322826,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "law",
+      "x0": 330.0,
+      "top": 38.4,
+      "x1": 347.7,
+      "bottom": 46.8,
+      "confidence": 95.083168,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "strictly",
+      "x0": 351.59999999999997,
+      "top": 38.4,
+      "x1": 387.29999999999995,
+      "bottom": 48.599999999999994,
+      "confidence": 95.347488,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "so",
+      "x0": 390.9,
+      "top": 41.4,
+      "x1": 400.79999999999995,
+      "bottom": 46.8,
+      "confidence": 96.370323,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "called",
+      "x0": 404.4,
+      "top": 38.4,
+      "x1": 433.5,
+      "bottom": 46.8,
+      "confidence": 96.731888,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-11",
+  "requested_reviewer_model": "gpt-6-luna",
+  "runtime_model_snapshot": "unavailable",
+  "human_review_status": "unreviewed",
+  "in_scope_questions_scanned": 1397,
+  "source_records_preserved": 1596,
+  "reviewed_flag_occurrences": 1550,
+  "flagged_questions": 548,
+  "flags_by_reason": {
+    "out_of_lexicon": 651,
+    "mixed_digit_letter": 119,
+    "suspicious_symbol": 591,
+    "suspicious_ascii": 177,
+    "layout_footer_candidate": 12
+  },
+  "review_dispositions": {
+    "source_supported_change": 866,
+    "retain_lexical": 683,
+    "unresolved": 1
+  },
+  "source_checked_by_luna_claimed": 1550,
+  "actual_span_changes": 860,
+  "no_op_change_proposals": 6,
+  "questions_with_proposed_changes": 279,
+  "unresolved_flags": [
+    "flag-01270"
+  ],
+  "parent_qa_rejections_or_uncertainties": 13,
+  "source_wording_preserved_despite_dictionary_absence": true,
+  "residual_screen_flags": 733,
+  "residual_flags_by_reason": {
+    "out_of_lexicon": 614,
+    "mixed_digit_letter": 118,
+    "suspicious_ascii": 1
+  },
+  "six_prior_acceptance_metadata_preserved": true,
+  "human_benchmark": {
+    "sampled_pages": 60,
+    "strata": 12,
+    "population_body_pages": 365,
+    "human_reference_items": 0,
+    "cer": null,
+    "wer": null,
+    "gate": "NOT_ASSESSED",
+    "targets": {
+      "cer_max": 0.005,
+      "wer_max": 0.01,
+      "question_precision_min": 0.99,
+      "question_recall_min": 0.99,
+      "option_accuracy_min": 0.99,
+      "critical_token_errors_max": 0
+    }
+  },
+  "accuracy_status": "NOT_ESTABLISHED"
+}

@@ -1,0 +1,754 @@
+{
+  "pdf_page": 415,
+  "crop_top": 403.08,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Question Number : 68 Question Id : 461139439 Question Type : MCQ Option Shuffling : Yes Display Question Number : Yes",
+      "bbox": [
+        37.8,
+        1.7999999999999998,
+        548.9999999999999,
+        12.599999999999998
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Single Line Question Option : No Option Orientation : Vertical",
+      "bbox": [
+        37.8,
+        12.299999999999999,
+        293.1,
+        20.7
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "Correct : 1 Wrong: 0.25",
+      "bbox": [
+        37.8,
+        25.5,
+        137.7,
+        33.6
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "According to Hohfeld, the Correlative of Power is:",
+      "bbox": [
+        37.199999999999996,
+        37.8,
+        273.3,
+        48.3
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "Options :",
+      "bbox": [
+        37.8,
+        55.199999999999996,
+        73.5,
+        63.3
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "1. * Immunity",
+      "bbox": [
+        38.699999999999996,
+        67.5,
+        110.69999999999999,
+        79.19999999999999
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "2. W Liability",
+      "bbox": [
+        38.1,
+        85.2,
+        102.0,
+        97.19999999999999
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "3. * No right",
+      "bbox": [
+        38.1,
+        103.5,
+        102.89999999999999,
+        115.19999999999999
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "4. *® Disability",
+      "bbox": [
+        38.1,
+        121.5,
+        109.19999999999999,
+        133.2
+      ]
+    }
+  ],
+  "text": "Question Number : 68 Question Id : 461139439 Question Type : MCQ Option Shuffling : Yes Display Question Number : Yes\nSingle Line Question Option : No Option Orientation : Vertical\nCorrect : 1 Wrong: 0.25\nAccording to Hohfeld, the Correlative of Power is:\nOptions :\n1. * Immunity\n2. W Liability\n3. * No right\n4. *® Disability",
+  "ocr_words": [
+    {
+      "text": "Question",
+      "x0": 37.8,
+      "top": 3.0,
+      "x1": 72.9,
+      "bottom": 11.1,
+      "confidence": 96.926033,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Number",
+      "x0": 75.89999999999999,
+      "top": 3.0,
+      "x1": 109.19999999999999,
+      "bottom": 9.6,
+      "confidence": 92.22303,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 112.5,
+      "top": 4.8,
+      "x1": 113.7,
+      "bottom": 9.6,
+      "confidence": 91.575256,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "68",
+      "x0": 117.6,
+      "top": 3.0,
+      "x1": 125.69999999999999,
+      "bottom": 9.6,
+      "confidence": 96.743454,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Question",
+      "x0": 131.7,
+      "top": 3.0,
+      "x1": 166.79999999999998,
+      "bottom": 11.1,
+      "confidence": 96.463654,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Id",
+      "x0": 169.79999999999998,
+      "top": 3.0,
+      "x1": 178.2,
+      "bottom": 9.6,
+      "confidence": 89.60659,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 181.5,
+      "top": 4.8,
+      "x1": 182.7,
+      "bottom": 9.6,
+      "confidence": 88.241516,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "461139439",
+      "x0": 186.6,
+      "top": 3.0,
+      "x1": 228.0,
+      "bottom": 9.6,
+      "confidence": 96.229263,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Question",
+      "x0": 233.7,
+      "top": 3.0,
+      "x1": 268.8,
+      "bottom": 11.1,
+      "confidence": 96.602753,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Type",
+      "x0": 272.09999999999997,
+      "top": 3.0,
+      "x1": 291.59999999999997,
+      "bottom": 11.4,
+      "confidence": 88.58107,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 296.7,
+      "top": 4.8,
+      "x1": 297.0,
+      "bottom": 9.6,
+      "confidence": 53.392395,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "MCQ",
+      "x0": 300.0,
+      "top": 3.0,
+      "x1": 322.5,
+      "bottom": 11.1,
+      "confidence": 53.392395,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Option",
+      "x0": 328.2,
+      "top": 3.0,
+      "x1": 355.5,
+      "bottom": 11.4,
+      "confidence": 93.296593,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Shuffling",
+      "x0": 358.8,
+      "top": 3.0,
+      "x1": 395.1,
+      "bottom": 11.4,
+      "confidence": 91.617218,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 399.3,
+      "top": 4.8,
+      "x1": 399.90000000000003,
+      "bottom": 9.6,
+      "confidence": 86.414017,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Yes",
+      "x0": 403.2,
+      "top": 3.0,
+      "x1": 417.3,
+      "bottom": 9.6,
+      "confidence": 96.7033,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Display",
+      "x0": 422.7,
+      "top": 3.0,
+      "x1": 452.4,
+      "bottom": 11.4,
+      "confidence": 96.330162,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Question",
+      "x0": 455.7,
+      "top": 3.0,
+      "x1": 490.8,
+      "bottom": 11.1,
+      "confidence": 96.74369,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Number",
+      "x0": 493.79999999999995,
+      "top": 3.0,
+      "x1": 531.3,
+      "bottom": 9.6,
+      "confidence": 79.269432,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 528.0,
+      "top": 1.7999999999999998,
+      "x1": 531.6,
+      "bottom": 12.599999999999998,
+      "confidence": 79.269432,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Yes",
+      "x0": 535.1999999999999,
+      "top": 3.0,
+      "x1": 548.9999999999999,
+      "bottom": 9.6,
+      "confidence": 96.665131,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Single",
+      "x0": 37.8,
+      "top": 12.299999999999999,
+      "x1": 61.5,
+      "bottom": 20.7,
+      "confidence": 96.191315,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Line",
+      "x0": 64.5,
+      "top": 12.299999999999999,
+      "x1": 82.2,
+      "bottom": 18.9,
+      "confidence": 96.711815,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Question",
+      "x0": 85.5,
+      "top": 12.299999999999999,
+      "x1": 120.3,
+      "bottom": 20.4,
+      "confidence": 96.40712,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Option",
+      "x0": 123.89999999999999,
+      "top": 12.299999999999999,
+      "x1": 150.89999999999998,
+      "bottom": 20.7,
+      "confidence": 93.181221,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": ":",
+      "x0": 154.79999999999998,
+      "top": 14.1,
+      "x1": 155.99999999999997,
+      "bottom": 18.9,
+      "confidence": 92.794998,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "No",
+      "x0": 159.6,
+      "top": 12.299999999999999,
+      "x1": 170.4,
+      "bottom": 18.9,
+      "confidence": 96.853951,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Option",
+      "x0": 176.1,
+      "top": 12.299999999999999,
+      "x1": 203.4,
+      "bottom": 20.7,
+      "confidence": 96.496857,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Orientation",
+      "x0": 206.7,
+      "top": 12.299999999999999,
+      "x1": 252.6,
+      "bottom": 18.9,
+      "confidence": 92.888245,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": ":",
+      "x0": 256.5,
+      "top": 14.1,
+      "x1": 257.7,
+      "bottom": 18.9,
+      "confidence": 92.355072,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Vertical",
+      "x0": 261.3,
+      "top": 12.299999999999999,
+      "x1": 293.1,
+      "bottom": 18.9,
+      "confidence": 96.784378,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Correct",
+      "x0": 37.8,
+      "top": 25.5,
+      "x1": 68.39999999999999,
+      "bottom": 32.1,
+      "confidence": 81.015045,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 72.0,
+      "top": 27.3,
+      "x1": 73.2,
+      "bottom": 32.1,
+      "confidence": 75.356438,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1",
+      "x0": 78.89999999999999,
+      "top": 25.5,
+      "x1": 80.1,
+      "bottom": 31.8,
+      "confidence": 94.640106,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Wrong:",
+      "x0": 86.1,
+      "top": 25.5,
+      "x1": 118.5,
+      "bottom": 33.6,
+      "confidence": 79.069183,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "0.25",
+      "x0": 122.39999999999999,
+      "top": 25.5,
+      "x1": 137.7,
+      "bottom": 32.1,
+      "confidence": 96.572304,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "According",
+      "x0": 37.199999999999996,
+      "top": 38.699999999999996,
+      "x1": 85.5,
+      "bottom": 48.3,
+      "confidence": 96.207062,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 89.1,
+      "top": 39.3,
+      "x1": 97.8,
+      "bottom": 46.199999999999996,
+      "confidence": 93.287582,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Hohfeld,",
+      "x0": 101.39999999999999,
+      "top": 37.8,
+      "x1": 141.6,
+      "bottom": 47.699999999999996,
+      "confidence": 92.173553,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 145.79999999999998,
+      "top": 38.699999999999996,
+      "x1": 160.49999999999997,
+      "bottom": 46.199999999999996,
+      "confidence": 92.735588,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Correlative",
+      "x0": 163.79999999999998,
+      "top": 38.699999999999996,
+      "x1": 215.7,
+      "bottom": 46.199999999999996,
+      "confidence": 91.889351,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 219.29999999999998,
+      "top": 37.8,
+      "x1": 229.49999999999997,
+      "bottom": 46.199999999999996,
+      "confidence": 96.315063,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Power",
+      "x0": 232.2,
+      "top": 38.699999999999996,
+      "x1": 260.4,
+      "bottom": 46.199999999999996,
+      "confidence": 96.315063,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is:",
+      "x0": 264.0,
+      "top": 38.699999999999996,
+      "x1": 273.3,
+      "bottom": 46.199999999999996,
+      "confidence": 96.691612,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Options",
+      "x0": 37.8,
+      "top": 55.199999999999996,
+      "x1": 68.69999999999999,
+      "bottom": 63.3,
+      "confidence": 93.303955,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 72.3,
+      "top": 57.0,
+      "x1": 73.5,
+      "bottom": 61.8,
+      "confidence": 87.803024,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1.",
+      "x0": 38.699999999999996,
+      "top": 69.6,
+      "x1": 45.3,
+      "bottom": 77.1,
+      "confidence": 90.242058,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "*",
+      "x0": 51.6,
+      "top": 67.5,
+      "x1": 58.2,
+      "bottom": 74.1,
+      "confidence": 45.760529,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Immunity",
+      "x0": 63.9,
+      "top": 69.6,
+      "x1": 110.69999999999999,
+      "bottom": 79.19999999999999,
+      "confidence": 95.93045,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2.",
+      "x0": 38.1,
+      "top": 87.6,
+      "x1": 45.3,
+      "bottom": 95.1,
+      "confidence": 91.646194,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "W",
+      "x0": 53.699999999999996,
+      "top": 85.2,
+      "x1": 57.3,
+      "bottom": 93.60000000000001,
+      "confidence": 79.903656,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Liability",
+      "x0": 63.9,
+      "top": 87.6,
+      "x1": 102.0,
+      "bottom": 97.19999999999999,
+      "confidence": 94.815063,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "3.",
+      "x0": 38.1,
+      "top": 105.6,
+      "x1": 45.3,
+      "bottom": 113.1,
+      "confidence": 87.086929,
+      "ocr_block": "1",
+      "ocr_paragraph": "7",
+      "ocr_line": "1"
+    },
+    {
+      "text": "*",
+      "x0": 51.6,
+      "top": 103.5,
+      "x1": 58.2,
+      "bottom": 110.1,
+      "confidence": 3.00415,
+      "ocr_block": "1",
+      "ocr_paragraph": "7",
+      "ocr_line": "1"
+    },
+    {
+      "text": "No",
+      "x0": 63.9,
+      "top": 105.6,
+      "x1": 77.1,
+      "bottom": 113.1,
+      "confidence": 95.571411,
+      "ocr_block": "1",
+      "ocr_paragraph": "7",
+      "ocr_line": "1"
+    },
+    {
+      "text": "right",
+      "x0": 80.39999999999999,
+      "top": 105.6,
+      "x1": 102.89999999999999,
+      "bottom": 115.19999999999999,
+      "confidence": 95.571411,
+      "ocr_block": "1",
+      "ocr_paragraph": "7",
+      "ocr_line": "1"
+    },
+    {
+      "text": "4.",
+      "x0": 38.1,
+      "top": 123.6,
+      "x1": 45.3,
+      "bottom": 131.1,
+      "confidence": 71.390343,
+      "ocr_block": "1",
+      "ocr_paragraph": "8",
+      "ocr_line": "1"
+    },
+    {
+      "text": "*®",
+      "x0": 51.6,
+      "top": 121.5,
+      "x1": 58.2,
+      "bottom": 128.1,
+      "confidence": 37.90197,
+      "ocr_block": "1",
+      "ocr_paragraph": "8",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Disability",
+      "x0": 63.9,
+      "top": 123.6,
+      "x1": 109.19999999999999,
+      "bottom": 133.2,
+      "confidence": 96.337669,
+      "ocr_block": "1",
+      "ocr_paragraph": "8",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

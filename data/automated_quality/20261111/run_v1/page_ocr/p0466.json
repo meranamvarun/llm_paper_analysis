@@ -1,0 +1,812 @@
+{
+  "pdf_page": 466,
+  "width": 612.0,
+  "height": 792.0,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "50. The Supreme Court of India recognised ‘transgenders’ as ‘third gender with all rights’ in the",
+      "bbox": [
+        72.4,
+        61.6,
+        539.6,
+        72.4
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "case of:",
+      "bbox": [
+        90.4,
+        76.4,
+        126.80000000000001,
+        85.20000000000002
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "A Bar Council of India v. A.K. Balaji, AIR 2018 SC 1382",
+      "bbox": [
+        107.60000000000001,
+        105.60000000000001,
+        376.40000000000003,
+        116.4
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "B_ National Legal Services Authority v. Union of India, AIR 2014 SC 1863",
+      "bbox": [
+        108.0,
+        127.60000000000001,
+        470.00000000000006,
+        138.4
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "C Suresh Kumar Koushal v. NAZ Foundation, AIR 2014 SC 563",
+      "bbox": [
+        108.0,
+        150.0,
+        413.20000000000005,
+        159.6
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "D_ State of Punjab v. Jagjit Singh, AIR 2016 SC 5176",
+      "bbox": [
+        108.4,
+        171.20000000000002,
+        362.40000000000003,
+        182.00000000000003
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "34",
+      "bbox": [
+        529.6,
+        732.4000000000001,
+        540.0,
+        740.0000000000001
+      ]
+    }
+  ],
+  "text": "50. The Supreme Court of India recognised ‘transgenders’ as ‘third gender with all rights’ in the\ncase of:\nA Bar Council of India v. A.K. Balaji, AIR 2018 SC 1382\nB_ National Legal Services Authority v. Union of India, AIR 2014 SC 1863\nC Suresh Kumar Koushal v. NAZ Foundation, AIR 2014 SC 563\nD_ State of Punjab v. Jagjit Singh, AIR 2016 SC 5176\n34",
+  "ocr_words": [
+    {
+      "text": "50.",
+      "x0": 72.4,
+      "top": 62.400000000000006,
+      "x1": 86.4,
+      "bottom": 70.4,
+      "confidence": 95.534073,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 90.0,
+      "top": 62.0,
+      "x1": 107.6,
+      "bottom": 70.4,
+      "confidence": 95.534073,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Supreme",
+      "x0": 111.60000000000001,
+      "top": 62.400000000000006,
+      "x1": 154.4,
+      "bottom": 72.4,
+      "confidence": 96.054001,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Court",
+      "x0": 158.8,
+      "top": 62.400000000000006,
+      "x1": 184.8,
+      "bottom": 70.4,
+      "confidence": 96.858269,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 188.8,
+      "top": 61.6,
+      "x1": 198.4,
+      "bottom": 70.4,
+      "confidence": 96.579987,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "India",
+      "x0": 202.4,
+      "top": 62.0,
+      "x1": 224.8,
+      "bottom": 70.4,
+      "confidence": 96.740173,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "recognised",
+      "x0": 229.60000000000002,
+      "top": 62.0,
+      "x1": 280.8,
+      "bottom": 72.4,
+      "confidence": 93.223602,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "‘transgenders’",
+      "x0": 285.6,
+      "top": 61.6,
+      "x1": 354.40000000000003,
+      "bottom": 72.4,
+      "confidence": 91.350349,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "as",
+      "x0": 358.8,
+      "top": 64.0,
+      "x1": 368.40000000000003,
+      "bottom": 70.4,
+      "confidence": 96.627289,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "‘third",
+      "x0": 372.8,
+      "top": 61.6,
+      "x1": 397.6,
+      "bottom": 70.4,
+      "confidence": 96.544891,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "gender",
+      "x0": 401.6,
+      "top": 62.0,
+      "x1": 435.6,
+      "bottom": 72.4,
+      "confidence": 96.766083,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "with",
+      "x0": 439.20000000000005,
+      "top": 62.0,
+      "x1": 459.6,
+      "bottom": 70.4,
+      "confidence": 96.846451,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "all",
+      "x0": 464.0,
+      "top": 62.0,
+      "x1": 474.0,
+      "bottom": 70.4,
+      "confidence": 96.52063,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "rights’",
+      "x0": 478.8,
+      "top": 61.6,
+      "x1": 507.6,
+      "bottom": 72.4,
+      "confidence": 96.52063,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 512.4,
+      "top": 62.400000000000006,
+      "x1": 519.6,
+      "bottom": 70.0,
+      "confidence": 96.535675,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 523.6,
+      "top": 62.0,
+      "x1": 539.6,
+      "bottom": 70.4,
+      "confidence": 96.933456,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "case",
+      "x0": 90.4,
+      "top": 78.80000000000001,
+      "x1": 110.80000000000001,
+      "bottom": 85.20000000000002,
+      "confidence": 96.988556,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of:",
+      "x0": 114.80000000000001,
+      "top": 76.4,
+      "x1": 126.80000000000001,
+      "bottom": 85.2,
+      "confidence": 96.780281,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "A",
+      "x0": 107.60000000000001,
+      "top": 106.4,
+      "x1": 114.00000000000001,
+      "bottom": 114.0,
+      "confidence": 42.864441,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Bar",
+      "x0": 129.20000000000002,
+      "top": 106.4,
+      "x1": 145.60000000000002,
+      "bottom": 114.4,
+      "confidence": 86.197525,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Council",
+      "x0": 148.8,
+      "top": 106.0,
+      "x1": 183.60000000000002,
+      "bottom": 114.4,
+      "confidence": 96.745277,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 186.4,
+      "top": 105.60000000000001,
+      "x1": 196.8,
+      "bottom": 116.4,
+      "confidence": 96.752625,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "India",
+      "x0": 199.20000000000002,
+      "top": 106.0,
+      "x1": 222.40000000000003,
+      "bottom": 114.4,
+      "confidence": 89.20665,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "v.",
+      "x0": 225.60000000000002,
+      "top": 108.4,
+      "x1": 233.20000000000002,
+      "bottom": 114.0,
+      "confidence": 89.20665,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "A.K.",
+      "x0": 236.4,
+      "top": 106.4,
+      "x1": 254.8,
+      "bottom": 114.0,
+      "confidence": 90.441277,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Balaji,",
+      "x0": 259.2,
+      "top": 106.0,
+      "x1": 288.4,
+      "bottom": 116.4,
+      "confidence": 96.918625,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "AIR",
+      "x0": 292.0,
+      "top": 106.4,
+      "x1": 307.6,
+      "bottom": 114.0,
+      "confidence": 96.538368,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "2018",
+      "x0": 311.6,
+      "top": 106.4,
+      "x1": 334.8,
+      "bottom": 114.4,
+      "confidence": 96.682709,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "SC",
+      "x0": 338.40000000000003,
+      "top": 106.4,
+      "x1": 349.6,
+      "bottom": 114.4,
+      "confidence": 96.228065,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "1382",
+      "x0": 353.6,
+      "top": 106.4,
+      "x1": 376.40000000000003,
+      "bottom": 114.4,
+      "confidence": 96.228065,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "B_",
+      "x0": 108.0,
+      "top": 128.4,
+      "x1": 113.6,
+      "bottom": 136.0,
+      "confidence": 43.079506,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "National",
+      "x0": 128.8,
+      "top": 128.0,
+      "x1": 172.0,
+      "bottom": 136.4,
+      "confidence": 55.502148,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Legal",
+      "x0": 175.20000000000002,
+      "top": 128.0,
+      "x1": 201.60000000000002,
+      "bottom": 138.4,
+      "confidence": 96.318932,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Services",
+      "x0": 204.0,
+      "top": 128.0,
+      "x1": 243.6,
+      "bottom": 136.4,
+      "confidence": 96.605209,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Authority",
+      "x0": 246.0,
+      "top": 128.0,
+      "x1": 294.0,
+      "bottom": 138.4,
+      "confidence": 93.128929,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "v.",
+      "x0": 296.8,
+      "top": 130.4,
+      "x1": 304.8,
+      "bottom": 136.0,
+      "confidence": 92.07061,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Union",
+      "x0": 308.8,
+      "top": 128.0,
+      "x1": 337.6,
+      "bottom": 136.4,
+      "confidence": 96.930664,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "of",
+      "x0": 341.20000000000005,
+      "top": 127.60000000000001,
+      "x1": 352.00000000000006,
+      "bottom": 138.4,
+      "confidence": 96.554787,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "India,",
+      "x0": 354.0,
+      "top": 128.0,
+      "x1": 381.2,
+      "bottom": 137.6,
+      "confidence": 96.470924,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "AIR",
+      "x0": 384.8,
+      "top": 128.4,
+      "x1": 401.6,
+      "bottom": 136.0,
+      "confidence": 90.080086,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "2014",
+      "x0": 404.8,
+      "top": 128.4,
+      "x1": 428.40000000000003,
+      "bottom": 136.4,
+      "confidence": 96.894218,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "SC",
+      "x0": 431.6,
+      "top": 128.4,
+      "x1": 443.20000000000005,
+      "bottom": 136.4,
+      "confidence": 96.605949,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "1863",
+      "x0": 447.20000000000005,
+      "top": 128.4,
+      "x1": 470.00000000000006,
+      "bottom": 136.4,
+      "confidence": 95.361664,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "C",
+      "x0": 108.0,
+      "top": 150.4,
+      "x1": 113.6,
+      "bottom": 158.4,
+      "confidence": 87.356979,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Suresh",
+      "x0": 128.4,
+      "top": 150.0,
+      "x1": 160.4,
+      "bottom": 158.4,
+      "confidence": 65.193176,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Kumar",
+      "x0": 164.0,
+      "top": 150.4,
+      "x1": 196.0,
+      "bottom": 158.4,
+      "confidence": 93.286324,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Koushal",
+      "x0": 198.8,
+      "top": 150.0,
+      "x1": 236.8,
+      "bottom": 158.4,
+      "confidence": 91.183113,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "v.",
+      "x0": 239.60000000000002,
+      "top": 152.4,
+      "x1": 247.20000000000002,
+      "bottom": 158.0,
+      "confidence": 91.078415,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "NAZ",
+      "x0": 251.20000000000002,
+      "top": 150.4,
+      "x1": 271.6,
+      "bottom": 158.0,
+      "confidence": 92.201546,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Foundation,",
+      "x0": 274.40000000000003,
+      "top": 150.0,
+      "x1": 331.20000000000005,
+      "bottom": 159.6,
+      "confidence": 96.134407,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "AIR",
+      "x0": 334.8,
+      "top": 150.4,
+      "x1": 350.8,
+      "bottom": 158.0,
+      "confidence": 92.084068,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "2014",
+      "x0": 354.8,
+      "top": 150.4,
+      "x1": 378.0,
+      "bottom": 158.4,
+      "confidence": 96.972115,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "SC",
+      "x0": 381.6,
+      "top": 150.4,
+      "x1": 392.8,
+      "bottom": 158.4,
+      "confidence": 95.390144,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "563",
+      "x0": 396.40000000000003,
+      "top": 150.4,
+      "x1": 413.20000000000005,
+      "bottom": 158.4,
+      "confidence": 96.699982,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "D_",
+      "x0": 108.4,
+      "top": 172.0,
+      "x1": 114.4,
+      "bottom": 179.6,
+      "confidence": 14.8004,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "State",
+      "x0": 128.4,
+      "top": 172.0,
+      "x1": 153.60000000000002,
+      "bottom": 180.0,
+      "confidence": 96.020874,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "of",
+      "x0": 157.20000000000002,
+      "top": 171.20000000000002,
+      "x1": 167.60000000000002,
+      "bottom": 182.00000000000003,
+      "confidence": 96.421471,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Punjab",
+      "x0": 169.60000000000002,
+      "top": 171.60000000000002,
+      "x1": 202.40000000000003,
+      "bottom": 182.00000000000003,
+      "confidence": 93.267845,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "v.",
+      "x0": 205.60000000000002,
+      "top": 174.0,
+      "x1": 213.20000000000002,
+      "bottom": 179.6,
+      "confidence": 93.237473,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Jagjit",
+      "x0": 216.4,
+      "top": 172.0,
+      "x1": 242.8,
+      "bottom": 182.0,
+      "confidence": 96.277115,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Singh,",
+      "x0": 245.20000000000002,
+      "top": 171.60000000000002,
+      "x1": 274.0,
+      "bottom": 182.00000000000003,
+      "confidence": 96.974014,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "AIR",
+      "x0": 277.6,
+      "top": 172.0,
+      "x1": 293.6,
+      "bottom": 179.6,
+      "confidence": 96.663368,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "2016",
+      "x0": 297.6,
+      "top": 172.0,
+      "x1": 320.8,
+      "bottom": 180.0,
+      "confidence": 96.663368,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "SC",
+      "x0": 324.40000000000003,
+      "top": 172.0,
+      "x1": 335.6,
+      "bottom": 180.0,
+      "confidence": 95.551277,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "5176",
+      "x0": 339.20000000000005,
+      "top": 172.0,
+      "x1": 362.40000000000003,
+      "bottom": 180.0,
+      "confidence": 95.551277,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "34",
+      "x0": 529.6,
+      "top": 732.4000000000001,
+      "x1": 540.0,
+      "bottom": 740.0000000000001,
+      "confidence": 95.711105,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

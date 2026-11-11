@@ -1,0 +1,9 @@
+﻿{
+  "requested_model": "gpt-6-luna",
+  "requested_date": "2026-11-11",
+  "requested_reasoning_effort": "medium",
+  "reviewer": "Luna reviewer agent",
+  "runtime": "unavailable",
+  "cost": "unavailable",
+  "prompt": "Classify every flagged span in 2019-2022 LL.M. question extraction. Retain recognized legal words, names, abbreviations and source wording. Inspect suspicious or malformed strings against source images; do not infer corrections or repair source typos. Use unresolved if unreadable. Record exact span decisions, evidence images and uncertainty. No legal fact inference or production edits."
+}

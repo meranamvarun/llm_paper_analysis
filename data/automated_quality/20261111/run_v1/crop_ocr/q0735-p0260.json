@@ -1,0 +1,361 @@
+{
+  "pdf_page": 260,
+  "crop_top": 557.732,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "9. Creamy layer concept is applicable to",
+      "bbox": [
+        72.3,
+        4.2,
+        270.59999999999997,
+        15.3
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "a) All reservations",
+      "bbox": [
+        72.3,
+        18.0,
+        165.9,
+        28.799999999999997
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "b) SC ST reservations",
+      "bbox": [
+        72.0,
+        31.799999999999997,
+        182.1,
+        42.599999999999994
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "c) OBC reservation",
+      "bbox": [
+        72.3,
+        45.6,
+        170.7,
+        56.4
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "d) Only horizontal reservation",
+      "bbox": [
+        72.3,
+        59.4,
+        222.0,
+        70.5
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "CORRECT ANSWER : OPTION C",
+      "bbox": [
+        72.6,
+        81.89999999999999,
+        282.3,
+        91.8
+      ]
+    }
+  ],
+  "text": "9. Creamy layer concept is applicable to\na) All reservations\nb) SC ST reservations\nc) OBC reservation\nd) Only horizontal reservation\nCORRECT ANSWER : OPTION C",
+  "ocr_words": [
+    {
+      "text": "9.",
+      "x0": 72.3,
+      "top": 4.2,
+      "x1": 80.1,
+      "bottom": 12.899999999999999,
+      "confidence": 96.3694,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Creamy",
+      "x0": 90.3,
+      "top": 4.5,
+      "x1": 127.8,
+      "bottom": 15.299999999999999,
+      "confidence": 96.618515,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "layer",
+      "x0": 131.4,
+      "top": 4.2,
+      "x1": 154.8,
+      "bottom": 15.3,
+      "confidence": 96.666756,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "concept",
+      "x0": 158.4,
+      "top": 5.3999999999999995,
+      "x1": 195.3,
+      "bottom": 15.3,
+      "confidence": 96.922104,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 198.9,
+      "top": 4.2,
+      "x1": 205.8,
+      "bottom": 12.600000000000001,
+      "confidence": 95.884048,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "applicable",
+      "x0": 209.4,
+      "top": 4.2,
+      "x1": 258.0,
+      "bottom": 15.3,
+      "confidence": 96.981506,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 261.59999999999997,
+      "top": 5.3999999999999995,
+      "x1": 270.59999999999997,
+      "bottom": 12.599999999999998,
+      "confidence": 96.997643,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a)",
+      "x0": 72.3,
+      "top": 18.0,
+      "x1": 80.7,
+      "bottom": 28.799999999999997,
+      "confidence": 96.855431,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "All",
+      "x0": 90.0,
+      "top": 18.0,
+      "x1": 105.0,
+      "bottom": 26.4,
+      "confidence": 19.167953,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "reservations",
+      "x0": 108.0,
+      "top": 18.0,
+      "x1": 165.9,
+      "bottom": 26.4,
+      "confidence": 19.167953,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "b)",
+      "x0": 72.0,
+      "top": 31.799999999999997,
+      "x1": 81.3,
+      "bottom": 42.599999999999994,
+      "confidence": 92.456032,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "SC",
+      "x0": 90.6,
+      "top": 32.1,
+      "x1": 104.39999999999999,
+      "bottom": 40.2,
+      "confidence": 95.14032,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "ST",
+      "x0": 108.6,
+      "top": 32.1,
+      "x1": 121.5,
+      "bottom": 40.2,
+      "confidence": 95.189667,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "reservations",
+      "x0": 124.8,
+      "top": 31.799999999999997,
+      "x1": 182.1,
+      "bottom": 40.199999999999996,
+      "confidence": 96.835213,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "c)",
+      "x0": 72.3,
+      "top": 45.6,
+      "x1": 80.7,
+      "bottom": 56.4,
+      "confidence": 93.007423,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "OBC",
+      "x0": 90.3,
+      "top": 45.9,
+      "x1": 114.0,
+      "bottom": 54.0,
+      "confidence": 96.246628,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "reservation",
+      "x0": 117.6,
+      "top": 45.6,
+      "x1": 170.7,
+      "bottom": 54.0,
+      "confidence": 96.400414,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "d)",
+      "x0": 72.3,
+      "top": 59.4,
+      "x1": 81.6,
+      "bottom": 70.2,
+      "confidence": 93.222069,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Only",
+      "x0": 90.3,
+      "top": 59.4,
+      "x1": 114.0,
+      "bottom": 70.5,
+      "confidence": 96.036743,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "horizontal",
+      "x0": 117.0,
+      "top": 59.4,
+      "x1": 165.6,
+      "bottom": 67.8,
+      "confidence": 96.036743,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "reservation",
+      "x0": 168.6,
+      "top": 59.4,
+      "x1": 222.0,
+      "bottom": 67.8,
+      "confidence": 96.738686,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "CORRECT",
+      "x0": 72.6,
+      "top": 81.89999999999999,
+      "x1": 141.3,
+      "bottom": 91.8,
+      "confidence": 96.374229,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "ANSWER",
+      "x0": 145.5,
+      "top": 81.89999999999999,
+      "x1": 206.7,
+      "bottom": 91.8,
+      "confidence": 88.458862,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": ":",
+      "x0": 211.5,
+      "top": 84.89999999999999,
+      "x1": 213.6,
+      "bottom": 91.8,
+      "confidence": 88.458862,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "OPTION",
+      "x0": 219.0,
+      "top": 82.2,
+      "x1": 269.7,
+      "bottom": 91.5,
+      "confidence": 93.300873,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "C",
+      "x0": 274.2,
+      "top": 82.2,
+      "x1": 282.3,
+      "bottom": 91.5,
+      "confidence": 92.291908,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

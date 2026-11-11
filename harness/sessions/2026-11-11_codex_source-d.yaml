@@ -1,0 +1,26 @@
+# Harness session retro (schema 1), written by `harness.py retro`. See harness/README.md.
+schema: 1
+primary_researcher: "TO CONFIRM"
+session_id: "source-data-push"
+tool: "codex"
+date: "2026-11-11"
+branch: "main"
+task_type: "admin"
+task: "Include source PDF and local data at user request"
+outcome: "completed"
+urgent: false
+metrics:
+  source: "none"
+  total: null
+quality:
+  self_score: 4
+  user_score: null
+  user_note: ""
+  corrections: null
+  rework: null
+  checks: "Inventoried file sizes and checked existing provenance; rights remain unconfirmed"
+waste: "none"
+lessons: []
+rules_helped: ["Q1", "C2"]
+rules_missed: []
+handoff: "research/NEXT_STEPS.md"

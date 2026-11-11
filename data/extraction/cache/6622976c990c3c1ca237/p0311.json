@@ -1,0 +1,122 @@
+{
+  "pdf_page": 311,
+  "width": 595.2,
+  "height": 841.68,
+  "method": "tesseract_eng_psm3",
+  "text": "Question Booklet Series SET-A\n:\nPG/2014 2",
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Question Booklet Series SET-A",
+      "bbox": [
+        318.96,
+        31.439999999999998,
+        504.72,
+        43.68
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": ":",
+      "bbox": [
+        456.96,
+        34.8,
+        457.44,
+        41.519999999999996
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "PG/2014 2",
+      "bbox": [
+        33.36,
+        727.68,
+        271.91999999999996,
+        737.04
+      ]
+    }
+  ],
+  "native_words": [],
+  "issues": [
+    "ocr_requires_visual_review"
+  ],
+  "ocr_words": [
+    {
+      "text": "Question",
+      "x0": 318.96,
+      "top": 32.16,
+      "x1": 367.67999999999995,
+      "bottom": 43.44,
+      "confidence": 96.597404,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Booklet",
+      "x0": 371.76,
+      "top": 31.919999999999998,
+      "x1": 414.0,
+      "bottom": 41.28,
+      "confidence": 96.830933,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Series",
+      "x0": 418.08,
+      "top": 31.68,
+      "x1": 450.47999999999996,
+      "bottom": 41.28,
+      "confidence": 90.95118,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 456.96,
+      "top": 34.8,
+      "x1": 457.44,
+      "bottom": 41.519999999999996,
+      "confidence": 89.896103,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "SET-A",
+      "x0": 462.24,
+      "top": 31.439999999999998,
+      "x1": 504.72,
+      "bottom": 43.68,
+      "confidence": 88.754044,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "PG/2014",
+      "x0": 33.36,
+      "top": 727.68,
+      "x1": 81.84,
+      "bottom": 737.04,
+      "confidence": 90.384506,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2",
+      "x0": 266.64,
+      "top": 727.68,
+      "x1": 271.91999999999996,
+      "bottom": 736.3199999999999,
+      "confidence": 96.685555,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ]
+}

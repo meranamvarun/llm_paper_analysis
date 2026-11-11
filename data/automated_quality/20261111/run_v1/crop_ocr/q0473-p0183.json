@@ -1,0 +1,678 @@
+{
+  "pdf_page": 183,
+  "crop_top": 92.519,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "109. Which decision established the three elements of passing off, otherwise known",
+      "bbox": [
+        90.6,
+        3.3,
+        513.6,
+        13.8
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "as",
+      "bbox": [
+        517.1999999999999,
+        6.6,
+        527.4,
+        12.0
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "the “Classical Trinity”?",
+      "bbox": [
+        117.3,
+        16.8,
+        234.3,
+        27.0
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(A) Academy of Motion Picture Arts v. GoDaddy.Com, Inc., (2015)",
+      "bbox": [
+        115.5,
+        33.9,
+        447.9,
+        44.099999999999994
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(B) Yahoo! Inc. v. Akash Arora and Another, (1999)",
+      "bbox": [
+        115.5,
+        51.3,
+        375.90000000000003,
+        61.5
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "(C) Reckitt & Colman Products Ltd. v. Borden Inc., (1990)",
+      "bbox": [
+        115.5,
+        68.39999999999999,
+        409.8,
+        78.6
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "(D) Coca-Cola Company v. Bisleri International Put. Ltd., (2009)",
+      "bbox": [
+        114.89999999999999,
+        85.5,
+        442.2,
+        95.7
+      ]
+    }
+  ],
+  "text": "109. Which decision established the three elements of passing off, otherwise known\nas\nthe “Classical Trinity”?\n(A) Academy of Motion Picture Arts v. GoDaddy.Com, Inc., (2015)\n(B) Yahoo! Inc. v. Akash Arora and Another, (1999)\n(C) Reckitt & Colman Products Ltd. v. Borden Inc., (1990)\n(D) Coca-Cola Company v. Bisleri International Put. Ltd., (2009)",
+  "ocr_words": [
+    {
+      "text": "109.",
+      "x0": 90.6,
+      "top": 4.2,
+      "x1": 110.1,
+      "bottom": 12.0,
+      "confidence": 96.535683,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Which",
+      "x0": 117.3,
+      "top": 3.5999999999999996,
+      "x1": 149.4,
+      "bottom": 12.0,
+      "confidence": 95.48098,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "decision",
+      "x0": 153.0,
+      "top": 3.5999999999999996,
+      "x1": 193.2,
+      "bottom": 12.0,
+      "confidence": 95.48098,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "established",
+      "x0": 196.79999999999998,
+      "top": 3.5999999999999996,
+      "x1": 253.79999999999998,
+      "bottom": 12.0,
+      "confidence": 96.587372,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 257.09999999999997,
+      "top": 3.5999999999999996,
+      "x1": 272.99999999999994,
+      "bottom": 12.0,
+      "confidence": 96.977051,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "three",
+      "x0": 276.59999999999997,
+      "top": 3.5999999999999996,
+      "x1": 302.7,
+      "bottom": 12.0,
+      "confidence": 96.749054,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "elements",
+      "x0": 306.59999999999997,
+      "top": 3.5999999999999996,
+      "x1": 351.59999999999997,
+      "bottom": 12.0,
+      "confidence": 95.940247,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 355.2,
+      "top": 3.5999999999999996,
+      "x1": 364.8,
+      "bottom": 12.0,
+      "confidence": 96.577599,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "passing",
+      "x0": 367.2,
+      "top": 3.9,
+      "x1": 405.59999999999997,
+      "bottom": 13.8,
+      "confidence": 96.597488,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "off,",
+      "x0": 408.9,
+      "top": 3.5999999999999996,
+      "x1": 423.59999999999997,
+      "bottom": 13.2,
+      "confidence": 96.321121,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "otherwise",
+      "x0": 427.8,
+      "top": 3.5999999999999996,
+      "x1": 476.40000000000003,
+      "bottom": 12.0,
+      "confidence": 96.452927,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "known",
+      "x0": 480.0,
+      "top": 3.3,
+      "x1": 513.6,
+      "bottom": 12.0,
+      "confidence": 96.509254,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "as",
+      "x0": 517.1999999999999,
+      "top": 6.6,
+      "x1": 527.4,
+      "bottom": 12.0,
+      "confidence": 95.679916,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 117.3,
+      "top": 16.8,
+      "x1": 133.2,
+      "bottom": 25.200000000000003,
+      "confidence": 96.829208,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "“Classical",
+      "x0": 136.79999999999998,
+      "top": 16.8,
+      "x1": 186.29999999999998,
+      "bottom": 25.200000000000003,
+      "confidence": 96.311653,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Trinity”?",
+      "x0": 189.9,
+      "top": 16.8,
+      "x1": 234.3,
+      "bottom": 27.0,
+      "confidence": 83.195251,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(A)",
+      "x0": 115.5,
+      "top": 33.9,
+      "x1": 129.3,
+      "bottom": 44.099999999999994,
+      "confidence": 96.078743,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Academy",
+      "x0": 135.6,
+      "top": 33.9,
+      "x1": 181.5,
+      "bottom": 44.099999999999994,
+      "confidence": 95.728226,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 185.1,
+      "top": 33.9,
+      "x1": 195.29999999999998,
+      "bottom": 44.099999999999994,
+      "confidence": 96.194267,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Motion",
+      "x0": 197.1,
+      "top": 33.9,
+      "x1": 232.5,
+      "bottom": 42.3,
+      "confidence": 95.708084,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Picture",
+      "x0": 235.79999999999998,
+      "top": 33.9,
+      "x1": 271.79999999999995,
+      "bottom": 42.3,
+      "confidence": 96.480186,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Arts",
+      "x0": 274.5,
+      "top": 34.199999999999996,
+      "x1": 296.1,
+      "bottom": 42.3,
+      "confidence": 91.519196,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "v.",
+      "x0": 300.3,
+      "top": 36.9,
+      "x1": 307.2,
+      "bottom": 42.3,
+      "confidence": 92.058128,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "GoDaddy.Com,",
+      "x0": 312.0,
+      "top": 33.9,
+      "x1": 387.6,
+      "bottom": 44.099999999999994,
+      "confidence": 89.678642,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Inc.,",
+      "x0": 391.8,
+      "top": 34.199999999999996,
+      "x1": 413.1,
+      "bottom": 43.49999999999999,
+      "confidence": 91.837769,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(2015)",
+      "x0": 417.59999999999997,
+      "top": 33.9,
+      "x1": 447.9,
+      "bottom": 44.099999999999994,
+      "confidence": 96.328911,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(B)",
+      "x0": 115.5,
+      "top": 51.3,
+      "x1": 129.3,
+      "bottom": 61.5,
+      "confidence": 92.90274,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Yahoo!",
+      "x0": 137.4,
+      "top": 51.3,
+      "x1": 171.6,
+      "bottom": 59.699999999999996,
+      "confidence": 96.582939,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Inc.",
+      "x0": 174.29999999999998,
+      "top": 51.6,
+      "x1": 192.29999999999998,
+      "bottom": 59.7,
+      "confidence": 92.7052,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "v.",
+      "x0": 197.1,
+      "top": 54.3,
+      "x1": 204.0,
+      "bottom": 59.699999999999996,
+      "confidence": 91.357155,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Akash",
+      "x0": 207.9,
+      "top": 51.3,
+      "x1": 239.7,
+      "bottom": 59.699999999999996,
+      "confidence": 94.469803,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Arora",
+      "x0": 242.7,
+      "top": 51.6,
+      "x1": 272.4,
+      "bottom": 59.7,
+      "confidence": 96.257751,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "and",
+      "x0": 275.7,
+      "top": 51.3,
+      "x1": 295.2,
+      "bottom": 59.699999999999996,
+      "confidence": 96.124008,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Another,",
+      "x0": 297.9,
+      "top": 51.3,
+      "x1": 340.79999999999995,
+      "bottom": 60.9,
+      "confidence": 96.498009,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(1999)",
+      "x0": 345.3,
+      "top": 51.3,
+      "x1": 375.90000000000003,
+      "bottom": 61.5,
+      "confidence": 96.498009,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(C)",
+      "x0": 115.5,
+      "top": 68.39999999999999,
+      "x1": 129.3,
+      "bottom": 78.6,
+      "confidence": 92.628662,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Reckitt",
+      "x0": 135.9,
+      "top": 68.39999999999999,
+      "x1": 171.0,
+      "bottom": 76.8,
+      "confidence": 91.372215,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "&",
+      "x0": 179.4,
+      "top": 68.39999999999999,
+      "x1": 183.3,
+      "bottom": 76.8,
+      "confidence": 91.372215,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Colman",
+      "x0": 187.79999999999998,
+      "top": 68.39999999999999,
+      "x1": 226.49999999999997,
+      "bottom": 76.8,
+      "confidence": 96.363708,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Products",
+      "x0": 229.79999999999998,
+      "top": 68.39999999999999,
+      "x1": 274.5,
+      "bottom": 76.8,
+      "confidence": 96.646301,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Ltd.",
+      "x0": 277.8,
+      "top": 68.39999999999999,
+      "x1": 297.6,
+      "bottom": 76.8,
+      "confidence": 92.594337,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "v.",
+      "x0": 302.7,
+      "top": 71.39999999999999,
+      "x1": 309.3,
+      "bottom": 76.8,
+      "confidence": 90.858154,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Borden",
+      "x0": 313.5,
+      "top": 68.39999999999999,
+      "x1": 349.8,
+      "bottom": 76.8,
+      "confidence": 93.281876,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Inc.,",
+      "x0": 353.4,
+      "top": 68.7,
+      "x1": 374.7,
+      "bottom": 78.3,
+      "confidence": 93.026131,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "(1990)",
+      "x0": 379.2,
+      "top": 68.39999999999999,
+      "x1": 409.8,
+      "bottom": 78.6,
+      "confidence": 96.721848,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "(D)",
+      "x0": 114.89999999999999,
+      "top": 85.5,
+      "x1": 129.29999999999998,
+      "bottom": 95.7,
+      "confidence": 88.649467,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Coca-Cola",
+      "x0": 137.1,
+      "top": 85.5,
+      "x1": 187.5,
+      "bottom": 93.9,
+      "confidence": 95.406166,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Company",
+      "x0": 191.7,
+      "top": 85.5,
+      "x1": 238.5,
+      "bottom": 95.7,
+      "confidence": 93.28801,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "v.",
+      "x0": 242.7,
+      "top": 88.5,
+      "x1": 249.6,
+      "bottom": 93.9,
+      "confidence": 92.284485,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Bisleri",
+      "x0": 253.79999999999998,
+      "top": 85.5,
+      "x1": 287.09999999999997,
+      "bottom": 93.9,
+      "confidence": 91.159096,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "International",
+      "x0": 290.4,
+      "top": 85.5,
+      "x1": 357.9,
+      "bottom": 93.9,
+      "confidence": 96.04467,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Put.",
+      "x0": 360.9,
+      "top": 85.8,
+      "x1": 379.79999999999995,
+      "bottom": 93.89999999999999,
+      "confidence": 93.297668,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Ltd.,",
+      "x0": 384.3,
+      "top": 85.5,
+      "x1": 407.40000000000003,
+      "bottom": 95.1,
+      "confidence": 92.532295,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "(2009)",
+      "x0": 411.9,
+      "top": 85.5,
+      "x1": 442.2,
+      "bottom": 95.7,
+      "confidence": 96.799683,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

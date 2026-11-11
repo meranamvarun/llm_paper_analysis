@@ -1,0 +1,37 @@
+{
+  "run": "data\\extraction\\runs\\20261110T043421397159Z",
+  "source_unchanged": true,
+  "all_evidence_round_trips": true,
+  "artifact_hashes_verified": 12,
+  "ids_match_prior_run": 1601,
+  "ai_option_spot_checks": [
+    {
+      "year": 2026,
+      "pdf_page": 3,
+      "question_number": "1",
+      "option_transcription_match": true,
+      "reviewer": "AI spot check; independent human review pending"
+    },
+    {
+      "year": 2019,
+      "pdf_page": 295,
+      "question_number": "1",
+      "option_transcription_match": true,
+      "reviewer": "AI spot check; independent human review pending"
+    }
+  ],
+  "page_methods": {
+    "pdfplumber_native": 345,
+    "tesseract_eng_psm3": 121
+  },
+  "question_issue_counts": {
+    "human_review_required": 1601,
+    "option_labels_incomplete_or_duplicate": 272,
+    "number_sequence_gap_or_reset": 92,
+    "inline_answer_present_unverified": 268,
+    "short_or_missing_stem": 22,
+    "source_page_issue": 447,
+    "passage_link_unresolved": 248
+  },
+  "limitations": "Not independent human validation; count and segmentation discrepancies unresolved"
+}

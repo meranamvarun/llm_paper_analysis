@@ -1,0 +1,512 @@
+{
+  "pdf_page": 391,
+  "crop_top": 336.44136,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.6 '‘A' voluntarily throws into a river a ring belonging to 'Z', with the intention of thereby causing wrongful loss to 'Z'. 'A' has committed:",
+      "bbox": [
+        43.8,
+        3.5999999999999996,
+        475.5,
+        10.2
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "ans x",
+      "bbox": [
+        43.199999999999996,
+        15.0,
+        86.7,
+        27.6
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "1. extortion",
+      "bbox": [
+        88.5,
+        25.2,
+        123.0,
+        30.0
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "x",
+      "bbox": [
+        73.2,
+        36.3,
+        86.7,
+        49.199999999999996
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "2. theft",
+      "bbox": [
+        88.2,
+        46.199999999999996,
+        110.1,
+        51.3
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "x",
+      "bbox": [
+        73.2,
+        57.599999999999994,
+        86.7,
+        70.5
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "3. cheating",
+      "bbox": [
+        88.2,
+        67.5,
+        121.2,
+        74.1
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "vw.",
+      "bbox": [
+        72.6,
+        77.1,
+        93.0,
+        97.19999999999999
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "mischief",
+      "bbox": [
+        94.5,
+        87.89999999999999,
+        120.9,
+        97.19999999999999
+      ]
+    }
+  ],
+  "text": "Q.6 '‘A' voluntarily throws into a river a ring belonging to 'Z', with the intention of thereby causing wrongful loss to 'Z'. 'A' has committed:\nans x\n1. extortion\nx\n2. theft\nx\n3. cheating\nvw.\nmischief",
+  "ocr_words": [
+    {
+      "text": "Q.6",
+      "x0": 43.8,
+      "top": 3.9,
+      "x1": 54.3,
+      "bottom": 9.6,
+      "confidence": 54.508545,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "'‘A'",
+      "x0": 62.699999999999996,
+      "top": 3.5999999999999996,
+      "x1": 69.89999999999999,
+      "bottom": 8.7,
+      "confidence": 21.894188,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "voluntarily",
+      "x0": 72.3,
+      "top": 3.5999999999999996,
+      "x1": 105.9,
+      "bottom": 10.2,
+      "confidence": 95.685371,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "throws",
+      "x0": 107.39999999999999,
+      "top": 3.5999999999999996,
+      "x1": 129.29999999999998,
+      "bottom": 8.7,
+      "confidence": 96.04985,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "into",
+      "x0": 131.4,
+      "top": 3.9,
+      "x1": 143.4,
+      "bottom": 8.7,
+      "confidence": 96.582947,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 145.5,
+      "top": 5.1,
+      "x1": 148.5,
+      "bottom": 8.7,
+      "confidence": 95.619003,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "river",
+      "x0": 151.2,
+      "top": 3.9,
+      "x1": 165.29999999999998,
+      "bottom": 8.7,
+      "confidence": 95.619003,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 167.1,
+      "top": 5.1,
+      "x1": 170.1,
+      "bottom": 8.7,
+      "confidence": 96.176178,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "ring",
+      "x0": 172.79999999999998,
+      "top": 3.9,
+      "x1": 184.2,
+      "bottom": 10.2,
+      "confidence": 96.605988,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "belonging",
+      "x0": 186.6,
+      "top": 3.5999999999999996,
+      "x1": 216.6,
+      "bottom": 10.2,
+      "confidence": 96.575958,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 218.4,
+      "top": 4.2,
+      "x1": 225.0,
+      "bottom": 8.7,
+      "confidence": 92.97776,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "'Z',",
+      "x0": 227.4,
+      "top": 3.5999999999999996,
+      "x1": 235.5,
+      "bottom": 9.899999999999999,
+      "confidence": 86.138786,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "with",
+      "x0": 237.6,
+      "top": 3.5999999999999996,
+      "x1": 251.1,
+      "bottom": 8.7,
+      "confidence": 96.785774,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 253.2,
+      "top": 3.5999999999999996,
+      "x1": 263.4,
+      "bottom": 9.0,
+      "confidence": 96.463028,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "intention",
+      "x0": 265.8,
+      "top": 3.9,
+      "x1": 293.7,
+      "bottom": 8.7,
+      "confidence": 96.463028,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 296.09999999999997,
+      "top": 3.5999999999999996,
+      "x1": 302.4,
+      "bottom": 8.7,
+      "confidence": 96.939369,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "thereby",
+      "x0": 303.9,
+      "top": 3.5999999999999996,
+      "x1": 328.5,
+      "bottom": 10.2,
+      "confidence": 96.778557,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "causing",
+      "x0": 330.3,
+      "top": 3.9,
+      "x1": 353.40000000000003,
+      "bottom": 10.2,
+      "confidence": 96.535637,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "wrongful",
+      "x0": 355.2,
+      "top": 3.5999999999999996,
+      "x1": 382.8,
+      "bottom": 10.2,
+      "confidence": 96.514366,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "loss",
+      "x0": 385.5,
+      "top": 3.5999999999999996,
+      "x1": 396.6,
+      "bottom": 8.7,
+      "confidence": 96.693741,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 398.4,
+      "top": 4.2,
+      "x1": 405.0,
+      "bottom": 8.7,
+      "confidence": 92.951401,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "'Z'.",
+      "x0": 407.4,
+      "top": 3.5999999999999996,
+      "x1": 415.5,
+      "bottom": 8.7,
+      "confidence": 77.655907,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "'A'",
+      "x0": 418.2,
+      "top": 3.5999999999999996,
+      "x1": 425.4,
+      "bottom": 8.7,
+      "confidence": 86.853592,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "has",
+      "x0": 427.8,
+      "top": 3.5999999999999996,
+      "x1": 437.7,
+      "bottom": 8.7,
+      "confidence": 96.098404,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "committed:",
+      "x0": 439.8,
+      "top": 3.5999999999999996,
+      "x1": 475.5,
+      "bottom": 9.0,
+      "confidence": 96.098404,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "ans",
+      "x0": 43.199999999999996,
+      "top": 16.5,
+      "x1": 54.599999999999994,
+      "bottom": 21.3,
+      "confidence": 71.114464,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "x",
+      "x0": 73.2,
+      "top": 15.0,
+      "x1": 86.7,
+      "bottom": 27.6,
+      "confidence": 84.783966,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 88.5,
+      "top": 25.2,
+      "x1": 93.0,
+      "bottom": 30.0,
+      "confidence": 96.667366,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "extortion",
+      "x0": 95.7,
+      "top": 25.2,
+      "x1": 123.0,
+      "bottom": 30.0,
+      "confidence": 96.239029,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "x",
+      "x0": 73.2,
+      "top": 36.3,
+      "x1": 86.7,
+      "bottom": 49.199999999999996,
+      "confidence": 81.084274,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2.",
+      "x0": 88.2,
+      "top": 46.5,
+      "x1": 93.0,
+      "bottom": 51.3,
+      "confidence": 95.635269,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "theft",
+      "x0": 95.39999999999999,
+      "top": 46.199999999999996,
+      "x1": 110.1,
+      "bottom": 51.3,
+      "confidence": 96.550255,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "x",
+      "x0": 73.2,
+      "top": 57.599999999999994,
+      "x1": 86.7,
+      "bottom": 70.5,
+      "confidence": 81.599533,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "3.",
+      "x0": 88.2,
+      "top": 67.8,
+      "x1": 93.0,
+      "bottom": 72.6,
+      "confidence": 96.765549,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "cheating",
+      "x0": 95.7,
+      "top": 67.5,
+      "x1": 121.2,
+      "bottom": 74.1,
+      "confidence": 96.742882,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "vw.",
+      "x0": 72.6,
+      "top": 77.1,
+      "x1": 93.0,
+      "bottom": 97.19999999999999,
+      "confidence": 0.0,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "mischief",
+      "x0": 94.5,
+      "top": 87.89999999999999,
+      "x1": 120.9,
+      "bottom": 97.19999999999999,
+      "confidence": 96.087517,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

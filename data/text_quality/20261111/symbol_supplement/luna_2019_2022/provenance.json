@@ -1,0 +1,9 @@
+{
+  "requested_model": "gpt-6-luna",
+  "requested_date": "2026-11-11",
+  "requested_reasoning_effort": "medium",
+  "runtime": "unavailable",
+  "cost": "unavailable",
+  "prompt": "Review all 11 contextual-symbol flags against supplied source crops. Preserve valid legal and mathematical symbols; infer no punctuation or legal meaning. Record exact-span replacements only when the source supports them; otherwise retain or mark unresolved.",
+  "source_review": "Inspected supplied flag crop sheets 001 and 002. No external API used."
+}

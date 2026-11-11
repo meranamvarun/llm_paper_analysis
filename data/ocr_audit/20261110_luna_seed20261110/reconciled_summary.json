@@ -1,0 +1,18 @@
+{
+  "status": "completed_AI_only_unreviewed",
+  "requested_model": "gpt-6-luna",
+  "reasoning": "medium",
+  "exact_snapshot_and_cost": "unavailable",
+  "sample_seed": 20261110,
+  "sampled_pages": 8,
+  "transcribed_complete_items": 14,
+  "transcribed_mcqs": 13,
+  "separate_question_record_matches": 13,
+  "whole_prompt_ocr_omissions": 1,
+  "transcribed_mcqs_with_confirmed_structural_option_issues": 3,
+  "additional_context_only_items_with_option_issues": 3,
+  "human_ground_truth": false,
+  "baseline_changed": false,
+  "superseding_interpretation": "Read research/OCR_AUDIT_RESULTS.md and audit_errata.json; original agent output retained with its errors",
+  "source_and_baseline_hashes_verified": true
+}

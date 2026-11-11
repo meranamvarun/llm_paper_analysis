@@ -1,0 +1,926 @@
+{
+  "pdf_page": 278,
+  "crop_top": 436.99199999999996,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "64. The Employees’ State Insurance Act, 1948 protects the interest of workers in",
+      "bbox": [
+        72.6,
+        4.2,
+        522.9,
+        15.3
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "contingencies such as",
+      "bbox": [
+        72.3,
+        18.0,
+        175.5,
+        29.1
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "—",
+      "bbox": [
+        178.79999999999998,
+        23.4,
+        191.1,
+        24.0
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "I. Sickness",
+      "bbox": [
+        72.3,
+        39.9,
+        123.6,
+        48.3
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "II. Maternity,",
+      "bbox": [
+        72.3,
+        53.699999999999996,
+        135.29999999999998,
+        64.8
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "Il. Temporary or permanent physical disablement,",
+      "bbox": [
+        72.3,
+        67.5,
+        316.2,
+        78.60000000000001
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "IV. Death due to employment injury resulting in loss of wages or earning capacity.",
+      "bbox": [
+        72.3,
+        81.3,
+        468.9,
+        92.39999999999999
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "Select the correct answer from the codes given bellow:",
+      "bbox": [
+        72.6,
+        108.89999999999999,
+        334.79999999999995,
+        119.99999999999999
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "a) Ionly",
+      "bbox": [
+        72.3,
+        122.69999999999999,
+        112.49999999999999,
+        133.79999999999998
+      ]
+    },
+    {
+      "line_id": "l0009",
+      "text": "b) II only",
+      "bbox": [
+        72.0,
+        136.5,
+        117.3,
+        147.6
+      ]
+    },
+    {
+      "line_id": "l0010",
+      "text": "c) I, II and IV",
+      "bbox": [
+        72.3,
+        150.29999999999998,
+        142.20000000000002,
+        161.1
+      ]
+    },
+    {
+      "line_id": "l0011",
+      "text": "d) I, Il, I and IV",
+      "bbox": [
+        72.3,
+        164.1,
+        156.9,
+        174.9
+      ]
+    },
+    {
+      "line_id": "l0012",
+      "text": "CORRECT ANSWER : OPTION D",
+      "bbox": [
+        72.6,
+        178.5,
+        283.2,
+        188.4
+      ]
+    }
+  ],
+  "text": "64. The Employees’ State Insurance Act, 1948 protects the interest of workers in\ncontingencies such as\n—\nI. Sickness\nII. Maternity,\nIl. Temporary or permanent physical disablement,\nIV. Death due to employment injury resulting in loss of wages or earning capacity.\nSelect the correct answer from the codes given bellow:\na) Ionly\nb) II only\nc) I, II and IV\nd) I, Il, I and IV\nCORRECT ANSWER : OPTION D",
+  "ocr_words": [
+    {
+      "text": "64.",
+      "x0": 72.6,
+      "top": 4.2,
+      "x1": 86.1,
+      "bottom": 12.899999999999999,
+      "confidence": 95.680504,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 95.7,
+      "top": 4.2,
+      "x1": 113.7,
+      "bottom": 12.600000000000001,
+      "confidence": 96.834259,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Employees’",
+      "x0": 122.69999999999999,
+      "top": 4.2,
+      "x1": 178.2,
+      "bottom": 15.3,
+      "confidence": 96.247154,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "State",
+      "x0": 188.4,
+      "top": 4.5,
+      "x1": 211.5,
+      "bottom": 12.6,
+      "confidence": 96.243553,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Insurance",
+      "x0": 220.5,
+      "top": 4.5,
+      "x1": 266.1,
+      "bottom": 12.6,
+      "confidence": 96.795952,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Act,",
+      "x0": 275.09999999999997,
+      "top": 4.5,
+      "x1": 294.59999999999997,
+      "bottom": 14.4,
+      "confidence": 96.117142,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1948",
+      "x0": 305.09999999999997,
+      "top": 4.2,
+      "x1": 326.7,
+      "bottom": 12.899999999999999,
+      "confidence": 96.117142,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "protects",
+      "x0": 336.0,
+      "top": 5.3999999999999995,
+      "x1": 373.5,
+      "bottom": 15.3,
+      "confidence": 96.200523,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 382.2,
+      "top": 4.2,
+      "x1": 396.3,
+      "bottom": 12.600000000000001,
+      "confidence": 96.544739,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "interest",
+      "x0": 405.59999999999997,
+      "top": 4.2,
+      "x1": 440.09999999999997,
+      "bottom": 12.600000000000001,
+      "confidence": 96.57235,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 449.09999999999997,
+      "top": 4.2,
+      "x1": 460.2,
+      "bottom": 12.600000000000001,
+      "confidence": 96.368889,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "workers",
+      "x0": 467.09999999999997,
+      "top": 4.2,
+      "x1": 505.2,
+      "bottom": 12.600000000000001,
+      "confidence": 95.381042,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 514.1999999999999,
+      "top": 4.2,
+      "x1": 522.9,
+      "bottom": 12.600000000000001,
+      "confidence": 95.381042,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "contingencies",
+      "x0": 72.3,
+      "top": 18.0,
+      "x1": 137.39999999999998,
+      "bottom": 29.1,
+      "confidence": 96.710007,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "such",
+      "x0": 141.6,
+      "top": 18.0,
+      "x1": 162.9,
+      "bottom": 26.4,
+      "confidence": 96.796143,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "as",
+      "x0": 166.2,
+      "top": 21.0,
+      "x1": 175.5,
+      "bottom": 26.4,
+      "confidence": 92.95591,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "—",
+      "x0": 178.79999999999998,
+      "top": 23.4,
+      "x1": 191.1,
+      "bottom": 24.0,
+      "confidence": 92.355461,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "I.",
+      "x0": 72.3,
+      "top": 40.199999999999996,
+      "x1": 78.3,
+      "bottom": 48.3,
+      "confidence": 95.830093,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Sickness",
+      "x0": 82.8,
+      "top": 39.9,
+      "x1": 123.6,
+      "bottom": 48.3,
+      "confidence": 96.151573,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "II.",
+      "x0": 72.3,
+      "top": 54.0,
+      "x1": 82.5,
+      "bottom": 62.1,
+      "confidence": 95.356796,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Maternity,",
+      "x0": 86.39999999999999,
+      "top": 53.699999999999996,
+      "x1": 135.29999999999998,
+      "bottom": 64.8,
+      "confidence": 96.805862,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Il.",
+      "x0": 72.3,
+      "top": 67.8,
+      "x1": 86.1,
+      "bottom": 75.89999999999999,
+      "confidence": 41.185371,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Temporary",
+      "x0": 90.3,
+      "top": 67.8,
+      "x1": 143.4,
+      "bottom": 78.6,
+      "confidence": 96.478477,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "or",
+      "x0": 146.4,
+      "top": 70.5,
+      "x1": 156.3,
+      "bottom": 75.9,
+      "confidence": 96.669594,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "permanent",
+      "x0": 159.6,
+      "top": 68.7,
+      "x1": 209.7,
+      "bottom": 78.60000000000001,
+      "confidence": 96.104347,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "physical",
+      "x0": 213.0,
+      "top": 67.5,
+      "x1": 252.6,
+      "bottom": 78.6,
+      "confidence": 96.719147,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "disablement,",
+      "x0": 255.89999999999998,
+      "top": 67.5,
+      "x1": 316.2,
+      "bottom": 77.7,
+      "confidence": 96.403999,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "IV.",
+      "x0": 72.3,
+      "top": 81.6,
+      "x1": 87.0,
+      "bottom": 89.69999999999999,
+      "confidence": 96.865494,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Death",
+      "x0": 91.2,
+      "top": 81.3,
+      "x1": 119.4,
+      "bottom": 89.7,
+      "confidence": 96.868027,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "due",
+      "x0": 122.69999999999999,
+      "top": 81.3,
+      "x1": 139.5,
+      "bottom": 89.7,
+      "confidence": 96.280197,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 142.79999999999998,
+      "top": 82.8,
+      "x1": 151.49999999999997,
+      "bottom": 89.7,
+      "confidence": 96.969917,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "employment",
+      "x0": 155.7,
+      "top": 81.3,
+      "x1": 214.79999999999998,
+      "bottom": 92.39999999999999,
+      "confidence": 96.286507,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "injury",
+      "x0": 218.4,
+      "top": 81.3,
+      "x1": 246.6,
+      "bottom": 92.39999999999999,
+      "confidence": 96.73764,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "resulting",
+      "x0": 249.29999999999998,
+      "top": 81.3,
+      "x1": 291.0,
+      "bottom": 92.39999999999999,
+      "confidence": 96.778732,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 294.9,
+      "top": 81.3,
+      "x1": 303.59999999999997,
+      "bottom": 89.7,
+      "confidence": 97.01104,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "loss",
+      "x0": 307.2,
+      "top": 81.3,
+      "x1": 325.2,
+      "bottom": 89.7,
+      "confidence": 96.547356,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 328.8,
+      "top": 81.3,
+      "x1": 339.90000000000003,
+      "bottom": 89.7,
+      "confidence": 96.949379,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "wages",
+      "x0": 341.4,
+      "top": 84.3,
+      "x1": 370.79999999999995,
+      "bottom": 92.39999999999999,
+      "confidence": 96.342728,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "or",
+      "x0": 374.7,
+      "top": 84.3,
+      "x1": 384.59999999999997,
+      "bottom": 89.7,
+      "confidence": 96.737038,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "earning",
+      "x0": 388.2,
+      "top": 81.3,
+      "x1": 423.59999999999997,
+      "bottom": 92.39999999999999,
+      "confidence": 96.568581,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "capacity.",
+      "x0": 427.2,
+      "top": 81.3,
+      "x1": 468.9,
+      "bottom": 92.39999999999999,
+      "confidence": 96.568581,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Select",
+      "x0": 72.6,
+      "top": 108.89999999999999,
+      "x1": 101.1,
+      "bottom": 117.3,
+      "confidence": 96.729324,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 104.7,
+      "top": 108.89999999999999,
+      "x1": 118.8,
+      "bottom": 117.3,
+      "confidence": 96.802139,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "2"
+    },
+    {
+      "text": "correct",
+      "x0": 122.39999999999999,
+      "top": 110.1,
+      "x1": 155.1,
+      "bottom": 117.3,
+      "confidence": 96.506386,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "2"
+    },
+    {
+      "text": "answer",
+      "x0": 158.7,
+      "top": 111.89999999999999,
+      "x1": 192.0,
+      "bottom": 117.3,
+      "confidence": 96.473251,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "2"
+    },
+    {
+      "text": "from",
+      "x0": 195.6,
+      "top": 108.89999999999999,
+      "x1": 219.0,
+      "bottom": 117.3,
+      "confidence": 96.04882,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 222.0,
+      "top": 108.89999999999999,
+      "x1": 236.1,
+      "bottom": 117.3,
+      "confidence": 96.04882,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "2"
+    },
+    {
+      "text": "codes",
+      "x0": 239.7,
+      "top": 108.89999999999999,
+      "x1": 266.4,
+      "bottom": 117.3,
+      "confidence": 96.696068,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "2"
+    },
+    {
+      "text": "given",
+      "x0": 270.3,
+      "top": 108.89999999999999,
+      "x1": 296.1,
+      "bottom": 119.99999999999999,
+      "confidence": 96.335388,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "2"
+    },
+    {
+      "text": "bellow:",
+      "x0": 299.4,
+      "top": 108.89999999999999,
+      "x1": 334.79999999999995,
+      "bottom": 117.3,
+      "confidence": 96.157425,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "2"
+    },
+    {
+      "text": "a)",
+      "x0": 72.3,
+      "top": 122.69999999999999,
+      "x1": 80.7,
+      "bottom": 133.5,
+      "confidence": 93.25486,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ionly",
+      "x0": 84.89999999999999,
+      "top": 122.69999999999999,
+      "x1": 112.49999999999999,
+      "bottom": 133.79999999999998,
+      "confidence": 79.433838,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "b)",
+      "x0": 72.0,
+      "top": 136.5,
+      "x1": 81.3,
+      "bottom": 147.3,
+      "confidence": 92.641556,
+      "ocr_block": "1",
+      "ocr_paragraph": "7",
+      "ocr_line": "1"
+    },
+    {
+      "text": "II",
+      "x0": 85.2,
+      "top": 136.79999999999998,
+      "x1": 92.7,
+      "bottom": 144.89999999999998,
+      "confidence": 64.543228,
+      "ocr_block": "1",
+      "ocr_paragraph": "7",
+      "ocr_line": "1"
+    },
+    {
+      "text": "only",
+      "x0": 96.3,
+      "top": 136.5,
+      "x1": 117.3,
+      "bottom": 147.6,
+      "confidence": 94.82032,
+      "ocr_block": "1",
+      "ocr_paragraph": "7",
+      "ocr_line": "1"
+    },
+    {
+      "text": "c)",
+      "x0": 72.3,
+      "top": 150.29999999999998,
+      "x1": 80.7,
+      "bottom": 161.1,
+      "confidence": 92.649773,
+      "ocr_block": "1",
+      "ocr_paragraph": "8",
+      "ocr_line": "1"
+    },
+    {
+      "text": "I,",
+      "x0": 84.89999999999999,
+      "top": 150.6,
+      "x1": 90.6,
+      "bottom": 160.5,
+      "confidence": 91.985535,
+      "ocr_block": "1",
+      "ocr_paragraph": "8",
+      "ocr_line": "1"
+    },
+    {
+      "text": "II",
+      "x0": 94.8,
+      "top": 150.6,
+      "x1": 106.2,
+      "bottom": 158.7,
+      "confidence": 65.381516,
+      "ocr_block": "1",
+      "ocr_paragraph": "8",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 109.8,
+      "top": 150.29999999999998,
+      "x1": 126.6,
+      "bottom": 158.7,
+      "confidence": 96.228218,
+      "ocr_block": "1",
+      "ocr_paragraph": "8",
+      "ocr_line": "1"
+    },
+    {
+      "text": "IV",
+      "x0": 129.9,
+      "top": 150.6,
+      "x1": 142.20000000000002,
+      "bottom": 158.7,
+      "confidence": 95.168922,
+      "ocr_block": "1",
+      "ocr_paragraph": "8",
+      "ocr_line": "1"
+    },
+    {
+      "text": "d)",
+      "x0": 72.3,
+      "top": 164.1,
+      "x1": 81.6,
+      "bottom": 174.9,
+      "confidence": 92.961388,
+      "ocr_block": "1",
+      "ocr_paragraph": "9",
+      "ocr_line": "1"
+    },
+    {
+      "text": "I,",
+      "x0": 85.5,
+      "top": 164.4,
+      "x1": 91.5,
+      "bottom": 174.3,
+      "confidence": 95.763397,
+      "ocr_block": "1",
+      "ocr_paragraph": "9",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Il,",
+      "x0": 95.39999999999999,
+      "top": 164.4,
+      "x1": 105.6,
+      "bottom": 174.3,
+      "confidence": 72.397972,
+      "ocr_block": "1",
+      "ocr_paragraph": "9",
+      "ocr_line": "1"
+    },
+    {
+      "text": "I",
+      "x0": 109.5,
+      "top": 164.4,
+      "x1": 120.9,
+      "bottom": 172.5,
+      "confidence": 66.929558,
+      "ocr_block": "1",
+      "ocr_paragraph": "9",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 124.8,
+      "top": 164.1,
+      "x1": 141.3,
+      "bottom": 172.5,
+      "confidence": 95.851486,
+      "ocr_block": "1",
+      "ocr_paragraph": "9",
+      "ocr_line": "1"
+    },
+    {
+      "text": "IV",
+      "x0": 144.6,
+      "top": 164.4,
+      "x1": 156.9,
+      "bottom": 172.5,
+      "confidence": 79.533943,
+      "ocr_block": "1",
+      "ocr_paragraph": "9",
+      "ocr_line": "1"
+    },
+    {
+      "text": "CORRECT",
+      "x0": 72.6,
+      "top": 178.5,
+      "x1": 141.3,
+      "bottom": 188.4,
+      "confidence": 96.134422,
+      "ocr_block": "1",
+      "ocr_paragraph": "10",
+      "ocr_line": "1"
+    },
+    {
+      "text": "ANSWER",
+      "x0": 145.5,
+      "top": 178.5,
+      "x1": 206.7,
+      "bottom": 188.4,
+      "confidence": 87.225212,
+      "ocr_block": "1",
+      "ocr_paragraph": "10",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 211.5,
+      "top": 181.5,
+      "x1": 213.6,
+      "bottom": 188.4,
+      "confidence": 87.225212,
+      "ocr_block": "1",
+      "ocr_paragraph": "10",
+      "ocr_line": "1"
+    },
+    {
+      "text": "OPTION",
+      "x0": 219.0,
+      "top": 178.79999999999998,
+      "x1": 269.7,
+      "bottom": 188.1,
+      "confidence": 93.163208,
+      "ocr_block": "1",
+      "ocr_paragraph": "10",
+      "ocr_line": "1"
+    },
+    {
+      "text": "D",
+      "x0": 273.9,
+      "top": 178.79999999999998,
+      "x1": 283.2,
+      "bottom": 188.1,
+      "confidence": 91.303032,
+      "ocr_block": "1",
+      "ocr_paragraph": "10",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

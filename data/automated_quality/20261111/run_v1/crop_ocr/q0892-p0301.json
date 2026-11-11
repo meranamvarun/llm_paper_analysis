@@ -1,0 +1,375 @@
+{
+  "pdf_page": 301,
+  "crop_top": 331.60279999999995,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "45. For Roscoe Pound ‘jural postulates’ are to be discovered:",
+      "bbox": [
+        46.8,
+        3.9,
+        358.49999999999994,
+        14.1
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "(A) in the law itself (B) outside the law",
+      "bbox": [
+        75.3,
+        21.0,
+        407.09999999999997,
+        31.2
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(C) in the juristic thought (D) in all of the above",
+      "bbox": [
+        75.3,
+        38.4,
+        419.7,
+        48.599999999999994
+      ]
+    }
+  ],
+  "text": "45. For Roscoe Pound ‘jural postulates’ are to be discovered:\n(A) in the law itself (B) outside the law\n(C) in the juristic thought (D) in all of the above",
+  "ocr_words": [
+    {
+      "text": "45.",
+      "x0": 46.8,
+      "top": 4.5,
+      "x1": 60.599999999999994,
+      "bottom": 12.3,
+      "confidence": 93.43367,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "For",
+      "x0": 75.0,
+      "top": 3.9,
+      "x1": 92.1,
+      "bottom": 12.3,
+      "confidence": 89.829002,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Roscoe",
+      "x0": 95.7,
+      "top": 3.9,
+      "x1": 129.3,
+      "bottom": 12.3,
+      "confidence": 96.23455,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Pound",
+      "x0": 133.2,
+      "top": 3.9,
+      "x1": 165.29999999999998,
+      "bottom": 12.3,
+      "confidence": 93.302582,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "‘jural",
+      "x0": 168.9,
+      "top": 3.9,
+      "x1": 195.0,
+      "bottom": 14.1,
+      "confidence": 90.173073,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "postulates’",
+      "x0": 198.6,
+      "top": 3.9,
+      "x1": 252.6,
+      "bottom": 14.1,
+      "confidence": 96.034149,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "are",
+      "x0": 256.5,
+      "top": 6.8999999999999995,
+      "x1": 272.1,
+      "bottom": 12.299999999999999,
+      "confidence": 95.963036,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 275.7,
+      "top": 4.8,
+      "x1": 285.0,
+      "bottom": 12.3,
+      "confidence": 96.935127,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "be",
+      "x0": 288.3,
+      "top": 3.9,
+      "x1": 299.40000000000003,
+      "bottom": 12.3,
+      "confidence": 96.841087,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "discovered:",
+      "x0": 303.59999999999997,
+      "top": 3.9,
+      "x1": 358.49999999999994,
+      "bottom": 12.3,
+      "confidence": 96.741821,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 75.3,
+      "top": 21.0,
+      "x1": 89.1,
+      "bottom": 31.2,
+      "confidence": 81.341751,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "in",
+      "x0": 102.89999999999999,
+      "top": 21.3,
+      "x1": 112.8,
+      "bottom": 29.1,
+      "confidence": 44.822346,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 116.39999999999999,
+      "top": 21.0,
+      "x1": 132.29999999999998,
+      "bottom": 29.4,
+      "confidence": 96.654716,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "law",
+      "x0": 135.9,
+      "top": 21.0,
+      "x1": 153.6,
+      "bottom": 29.4,
+      "confidence": 96.245888,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "itself",
+      "x0": 157.2,
+      "top": 21.0,
+      "x1": 183.0,
+      "bottom": 29.4,
+      "confidence": 96.003624,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(B)",
+      "x0": 302.09999999999997,
+      "top": 21.0,
+      "x1": 315.9,
+      "bottom": 31.2,
+      "confidence": 91.771667,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "outside",
+      "x0": 330.0,
+      "top": 21.0,
+      "x1": 366.3,
+      "bottom": 29.4,
+      "confidence": 75.110023,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 369.9,
+      "top": 21.0,
+      "x1": 385.79999999999995,
+      "bottom": 29.4,
+      "confidence": 96.075829,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "law",
+      "x0": 389.7,
+      "top": 21.0,
+      "x1": 407.09999999999997,
+      "bottom": 29.4,
+      "confidence": 96.8451,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(C)",
+      "x0": 75.3,
+      "top": 38.4,
+      "x1": 89.1,
+      "bottom": 48.599999999999994,
+      "confidence": 89.186821,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "in",
+      "x0": 102.89999999999999,
+      "top": 38.699999999999996,
+      "x1": 112.8,
+      "bottom": 46.49999999999999,
+      "confidence": 77.086761,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "the",
+      "x0": 116.39999999999999,
+      "top": 38.4,
+      "x1": 132.29999999999998,
+      "bottom": 46.8,
+      "confidence": 91.2929,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "juristic",
+      "x0": 135.29999999999998,
+      "top": 38.699999999999996,
+      "x1": 171.29999999999998,
+      "bottom": 48.599999999999994,
+      "confidence": 91.2929,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "thought",
+      "x0": 174.9,
+      "top": 38.4,
+      "x1": 214.8,
+      "bottom": 48.599999999999994,
+      "confidence": 95.547401,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(D)",
+      "x0": 302.09999999999997,
+      "top": 38.4,
+      "x1": 316.49999999999994,
+      "bottom": 48.599999999999994,
+      "confidence": 89.537399,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "in",
+      "x0": 330.0,
+      "top": 38.699999999999996,
+      "x1": 339.9,
+      "bottom": 46.49999999999999,
+      "confidence": 76.518433,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "all",
+      "x0": 343.5,
+      "top": 38.4,
+      "x1": 356.1,
+      "bottom": 46.8,
+      "confidence": 80.455872,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 359.4,
+      "top": 38.4,
+      "x1": 369.0,
+      "bottom": 46.8,
+      "confidence": 95.444817,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "the",
+      "x0": 371.7,
+      "top": 38.4,
+      "x1": 387.59999999999997,
+      "bottom": 46.8,
+      "confidence": 96.238609,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "above",
+      "x0": 391.5,
+      "top": 38.4,
+      "x1": 419.7,
+      "bottom": 46.8,
+      "confidence": 96.936066,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

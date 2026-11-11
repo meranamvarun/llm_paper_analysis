@@ -1,0 +1,567 @@
+{
+  "pdf_page": 393,
+  "crop_top": 97.16136000000006,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.15 The essential tests for the existence of international custom are:",
+      "bbox": [
+        42.0,
+        3.5999999999999996,
+        262.2,
+        9.6
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Ans 4",
+      "bbox": [
+        43.199999999999996,
+        14.1,
+        87.6,
+        27.9
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "1. uniform states practice and opinio juris sive necessitatis",
+      "bbox": [
+        88.5,
+        23.7,
+        264.9,
+        32.7
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "x,",
+      "bbox": [
+        73.2,
+        36.3,
+        93.0,
+        51.3
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "ancient nature",
+      "bbox": [
+        95.7,
+        46.5,
+        139.5,
+        51.3
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "x,",
+      "bbox": [
+        73.2,
+        57.9,
+        93.0,
+        73.2
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "ancient nature, uniform states practice and opinio juris sive necessitatis",
+      "bbox": [
+        95.7,
+        67.8,
+        313.2,
+        74.39999999999999
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "x,",
+      "bbox": [
+        73.2,
+        79.2,
+        93.0,
+        94.2
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "ancient nature, uniform states practice",
+      "bbox": [
+        95.7,
+        89.1,
+        213.6,
+        95.69999999999999
+      ]
+    }
+  ],
+  "text": "Q.15 The essential tests for the existence of international custom are:\nAns 4\n1. uniform states practice and opinio juris sive necessitatis\nx,\nancient nature\nx,\nancient nature, uniform states practice and opinio juris sive necessitatis\nx,\nancient nature, uniform states practice",
+  "ocr_words": [
+    {
+      "text": "Q.15",
+      "x0": 42.0,
+      "top": 3.9,
+      "x1": 56.1,
+      "bottom": 9.6,
+      "confidence": 92.656128,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 62.4,
+      "top": 3.5999999999999996,
+      "x1": 73.5,
+      "bottom": 9.0,
+      "confidence": 96.815506,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "essential",
+      "x0": 75.89999999999999,
+      "top": 3.5999999999999996,
+      "x1": 102.6,
+      "bottom": 9.0,
+      "confidence": 96.066177,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "tests",
+      "x0": 104.7,
+      "top": 4.2,
+      "x1": 119.7,
+      "bottom": 9.0,
+      "confidence": 96.69162,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "for",
+      "x0": 121.5,
+      "top": 3.5999999999999996,
+      "x1": 130.5,
+      "bottom": 9.0,
+      "confidence": 96.994812,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 132.29999999999998,
+      "top": 3.5999999999999996,
+      "x1": 142.49999999999997,
+      "bottom": 9.0,
+      "confidence": 96.412239,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "existence",
+      "x0": 144.6,
+      "top": 3.9,
+      "x1": 173.39999999999998,
+      "bottom": 9.0,
+      "confidence": 96.779289,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 175.5,
+      "top": 3.5999999999999996,
+      "x1": 182.1,
+      "bottom": 8.7,
+      "confidence": 96.395035,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "international",
+      "x0": 183.9,
+      "top": 3.5999999999999996,
+      "x1": 223.8,
+      "bottom": 9.0,
+      "confidence": 96.317787,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "custom",
+      "x0": 226.2,
+      "top": 4.2,
+      "x1": 248.39999999999998,
+      "bottom": 8.7,
+      "confidence": 96.317787,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "are:",
+      "x0": 250.79999999999998,
+      "top": 5.1,
+      "x1": 262.2,
+      "bottom": 9.0,
+      "confidence": 95.876236,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.199999999999996,
+      "top": 16.5,
+      "x1": 54.599999999999994,
+      "bottom": 21.3,
+      "confidence": 96.856049,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "4",
+      "x0": 73.8,
+      "top": 14.1,
+      "x1": 87.6,
+      "bottom": 27.9,
+      "confidence": 57.791821,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 88.5,
+      "top": 25.2,
+      "x1": 93.0,
+      "bottom": 30.0,
+      "confidence": 96.675568,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "uniform",
+      "x0": 95.7,
+      "top": 24.9,
+      "x1": 119.1,
+      "bottom": 30.0,
+      "confidence": 96.664452,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "states",
+      "x0": 121.8,
+      "top": 25.5,
+      "x1": 139.2,
+      "bottom": 30.0,
+      "confidence": 97.013741,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "practice",
+      "x0": 141.9,
+      "top": 25.2,
+      "x1": 165.6,
+      "bottom": 31.5,
+      "confidence": 96.994225,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "and",
+      "x0": 167.7,
+      "top": 24.9,
+      "x1": 178.5,
+      "bottom": 30.0,
+      "confidence": 93.306252,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "opinio",
+      "x0": 180.9,
+      "top": 23.7,
+      "x1": 195.6,
+      "bottom": 32.7,
+      "confidence": 92.373154,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "juris",
+      "x0": 200.4,
+      "top": 23.7,
+      "x1": 214.20000000000002,
+      "bottom": 32.7,
+      "confidence": 96.955406,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "sive",
+      "x0": 216.6,
+      "top": 25.2,
+      "x1": 227.7,
+      "bottom": 30.0,
+      "confidence": 93.287682,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "necessitatis",
+      "x0": 230.39999999999998,
+      "top": 25.2,
+      "x1": 264.9,
+      "bottom": 30.0,
+      "confidence": 92.536263,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "x,",
+      "x0": 73.2,
+      "top": 36.3,
+      "x1": 93.0,
+      "bottom": 51.3,
+      "confidence": 59.620949,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "ancient",
+      "x0": 95.7,
+      "top": 46.5,
+      "x1": 117.6,
+      "bottom": 51.3,
+      "confidence": 96.380379,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "nature",
+      "x0": 120.0,
+      "top": 46.8,
+      "x1": 139.5,
+      "bottom": 51.3,
+      "confidence": 96.798622,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "x,",
+      "x0": 73.2,
+      "top": 57.9,
+      "x1": 93.0,
+      "bottom": 73.2,
+      "confidence": 72.123573,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "ancient",
+      "x0": 95.7,
+      "top": 68.1,
+      "x1": 117.6,
+      "bottom": 72.89999999999999,
+      "confidence": 96.211472,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "nature,",
+      "x0": 120.0,
+      "top": 68.39999999999999,
+      "x1": 141.3,
+      "bottom": 74.1,
+      "confidence": 96.973061,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "uniform",
+      "x0": 144.0,
+      "top": 67.8,
+      "x1": 167.4,
+      "bottom": 72.89999999999999,
+      "confidence": 96.331322,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "states",
+      "x0": 170.1,
+      "top": 68.39999999999999,
+      "x1": 187.5,
+      "bottom": 72.89999999999999,
+      "confidence": 96.552979,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "practice",
+      "x0": 190.2,
+      "top": 68.1,
+      "x1": 213.6,
+      "bottom": 74.39999999999999,
+      "confidence": 96.994339,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "and",
+      "x0": 216.0,
+      "top": 67.8,
+      "x1": 226.8,
+      "bottom": 72.89999999999999,
+      "confidence": 93.306252,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "opinio",
+      "x0": 229.2,
+      "top": 68.1,
+      "x1": 247.79999999999998,
+      "bottom": 74.39999999999999,
+      "confidence": 93.160942,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "juris",
+      "x0": 249.6,
+      "top": 68.1,
+      "x1": 262.5,
+      "bottom": 74.39999999999999,
+      "confidence": 96.862259,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "sive",
+      "x0": 264.9,
+      "top": 68.1,
+      "x1": 276.0,
+      "bottom": 72.89999999999999,
+      "confidence": 93.29483,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "necessitatis",
+      "x0": 278.4,
+      "top": 68.1,
+      "x1": 313.2,
+      "bottom": 72.89999999999999,
+      "confidence": 93.118034,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "x,",
+      "x0": 73.2,
+      "top": 79.2,
+      "x1": 93.0,
+      "bottom": 94.2,
+      "confidence": 59.955612,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "ancient",
+      "x0": 95.7,
+      "top": 89.39999999999999,
+      "x1": 117.6,
+      "bottom": 94.19999999999999,
+      "confidence": 96.507866,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "nature,",
+      "x0": 120.0,
+      "top": 89.7,
+      "x1": 141.3,
+      "bottom": 95.4,
+      "confidence": 96.486168,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "uniform",
+      "x0": 144.0,
+      "top": 89.1,
+      "x1": 167.4,
+      "bottom": 94.19999999999999,
+      "confidence": 96.779175,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "states",
+      "x0": 170.1,
+      "top": 89.7,
+      "x1": 187.5,
+      "bottom": 94.2,
+      "confidence": 96.904549,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "practice",
+      "x0": 190.2,
+      "top": 89.39999999999999,
+      "x1": 213.6,
+      "bottom": 95.69999999999999,
+      "confidence": 96.710342,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

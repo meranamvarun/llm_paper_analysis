@@ -1,0 +1,90 @@
+{
+  "pdf_page": 448,
+  "crop_top": 57.960000000000036,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "D. The revival of Justinian’s Code",
+      "bbox": [
+        108.89999999999999,
+        3.5999999999999996,
+        272.1,
+        12.3
+      ]
+    }
+  ],
+  "text": "D. The revival of Justinian’s Code",
+  "ocr_words": [
+    {
+      "text": "D.",
+      "x0": 108.89999999999999,
+      "top": 4.5,
+      "x1": 117.6,
+      "bottom": 12.0,
+      "confidence": 93.044662,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 126.0,
+      "top": 3.9,
+      "x1": 143.7,
+      "bottom": 12.3,
+      "confidence": 96.781181,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "revival",
+      "x0": 147.9,
+      "top": 3.9,
+      "x1": 178.2,
+      "bottom": 12.3,
+      "confidence": 96.155067,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 182.4,
+      "top": 3.5999999999999996,
+      "x1": 191.70000000000002,
+      "bottom": 12.299999999999999,
+      "confidence": 93.193535,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Justinian’s",
+      "x0": 194.7,
+      "top": 3.5999999999999996,
+      "x1": 244.5,
+      "bottom": 12.299999999999999,
+      "confidence": 91.671089,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Code",
+      "x0": 248.1,
+      "top": 3.9,
+      "x1": 272.1,
+      "bottom": 12.3,
+      "confidence": 96.351952,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

@@ -1,0 +1,819 @@
+{
+  "pdf_page": 391,
+  "crop_top": 199.64136000000008,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.5  'A' gives authority to 'B' to sell A's land and to pay himself, out of the proceeds, the debts due to him from 'A':",
+      "bbox": [
+        43.8,
+        3.5999999999999996,
+        404.1,
+        10.2
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Y 4",
+      "bbox": [
+        72.6,
+        12.9,
+        87.6,
+        28.799999999999997
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "Ans",
+      "bbox": [
+        43.199999999999996,
+        16.5,
+        54.599999999999994,
+        21.3
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "1. A cannot revoke this authority.",
+      "bbox": [
+        88.5,
+        24.9,
+        189.0,
+        31.5
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "x,",
+      "bbox": [
+        73.2,
+        36.3,
+        93.0,
+        51.3
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "The authority can be terminated after the death of 'A’.",
+      "bbox": [
+        95.39999999999999,
+        46.199999999999996,
+        260.7,
+        52.8
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "x,",
+      "bbox": [
+        73.2,
+        57.599999999999994,
+        93.0,
+        72.89999999999999
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "Acan revoke this authority subsequently.",
+      "bbox": [
+        95.39999999999999,
+        67.5,
+        221.1,
+        74.1
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "x,",
+      "bbox": [
+        73.2,
+        78.89999999999999,
+        93.0,
+        94.19999999999999
+      ]
+    },
+    {
+      "line_id": "l0009",
+      "text": "The authority can be terminated on the ground of insanity of ‘A’.",
+      "bbox": [
+        95.39999999999999,
+        89.1,
+        291.59999999999997,
+        95.69999999999999
+      ]
+    }
+  ],
+  "text": "Q.5  'A' gives authority to 'B' to sell A's land and to pay himself, out of the proceeds, the debts due to him from 'A':\nY 4\nAns\n1. A cannot revoke this authority.\nx,\nThe authority can be terminated after the death of 'A’.\nx,\nAcan revoke this authority subsequently.\nx,\nThe authority can be terminated on the ground of insanity of ‘A’.",
+  "ocr_words": [
+    {
+      "text": "Q.5",
+      "x0": 43.8,
+      "top": 3.9,
+      "x1": 54.3,
+      "bottom": 9.6,
+      "confidence": 14.303253,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": " 'A'",
+      "x0": 62.699999999999996,
+      "top": 3.5999999999999996,
+      "x1": 69.89999999999999,
+      "bottom": 8.7,
+      "confidence": 14.303253,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "gives",
+      "x0": 72.3,
+      "top": 3.9,
+      "x1": 87.6,
+      "bottom": 10.2,
+      "confidence": 53.501556,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "authority",
+      "x0": 89.7,
+      "top": 3.5999999999999996,
+      "x1": 118.5,
+      "bottom": 10.2,
+      "confidence": 96.704315,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 120.3,
+      "top": 4.2,
+      "x1": 126.6,
+      "bottom": 8.7,
+      "confidence": 93.208641,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "'B'",
+      "x0": 129.0,
+      "top": 3.5999999999999996,
+      "x1": 135.9,
+      "bottom": 8.7,
+      "confidence": 81.759102,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 138.0,
+      "top": 4.2,
+      "x1": 144.3,
+      "bottom": 8.7,
+      "confidence": 96.907364,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "sell",
+      "x0": 146.7,
+      "top": 3.5999999999999996,
+      "x1": 156.29999999999998,
+      "bottom": 9.0,
+      "confidence": 95.284859,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A's",
+      "x0": 158.7,
+      "top": 3.5999999999999996,
+      "x1": 167.7,
+      "bottom": 8.7,
+      "confidence": 95.182999,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "land",
+      "x0": 169.79999999999998,
+      "top": 3.5999999999999996,
+      "x1": 182.7,
+      "bottom": 8.7,
+      "confidence": 96.486908,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 185.1,
+      "top": 3.5999999999999996,
+      "x1": 196.2,
+      "bottom": 8.7,
+      "confidence": 95.09967,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 198.29999999999998,
+      "top": 4.2,
+      "x1": 204.6,
+      "bottom": 8.7,
+      "confidence": 95.09967,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "pay",
+      "x0": 207.0,
+      "top": 5.1,
+      "x1": 217.8,
+      "bottom": 10.2,
+      "confidence": 96.547157,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "himself,",
+      "x0": 219.9,
+      "top": 3.5999999999999996,
+      "x1": 244.20000000000002,
+      "bottom": 9.899999999999999,
+      "confidence": 96.413696,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "out",
+      "x0": 246.29999999999998,
+      "top": 4.2,
+      "x1": 256.79999999999995,
+      "bottom": 8.7,
+      "confidence": 96.49453,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 258.9,
+      "top": 3.5999999999999996,
+      "x1": 265.2,
+      "bottom": 9.0,
+      "confidence": 96.529129,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 266.7,
+      "top": 3.5999999999999996,
+      "x1": 276.9,
+      "bottom": 9.0,
+      "confidence": 96.995842,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "proceeds,",
+      "x0": 279.3,
+      "top": 3.5999999999999996,
+      "x1": 308.7,
+      "bottom": 10.2,
+      "confidence": 96.568695,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 310.8,
+      "top": 3.5999999999999996,
+      "x1": 321.0,
+      "bottom": 8.7,
+      "confidence": 97.017601,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "debts",
+      "x0": 323.09999999999997,
+      "top": 3.5999999999999996,
+      "x1": 340.2,
+      "bottom": 9.0,
+      "confidence": 97.016762,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "due",
+      "x0": 342.3,
+      "top": 3.5999999999999996,
+      "x1": 353.7,
+      "bottom": 9.0,
+      "confidence": 97.00444,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 355.5,
+      "top": 4.2,
+      "x1": 362.1,
+      "bottom": 9.0,
+      "confidence": 96.971695,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "him",
+      "x0": 364.2,
+      "top": 3.5999999999999996,
+      "x1": 375.59999999999997,
+      "bottom": 8.7,
+      "confidence": 96.971695,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "from",
+      "x0": 377.7,
+      "top": 3.5999999999999996,
+      "x1": 392.4,
+      "bottom": 8.7,
+      "confidence": 92.694847,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "'A':",
+      "x0": 394.8,
+      "top": 3.5999999999999996,
+      "x1": 404.1,
+      "bottom": 8.7,
+      "confidence": 75.641998,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.199999999999996,
+      "top": 16.5,
+      "x1": 54.599999999999994,
+      "bottom": 21.3,
+      "confidence": 96.58625,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Y",
+      "x0": 72.6,
+      "top": 12.9,
+      "x1": 79.5,
+      "bottom": 28.799999999999997,
+      "confidence": 0.0,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "4",
+      "x0": 83.1,
+      "top": 14.1,
+      "x1": 87.6,
+      "bottom": 27.6,
+      "confidence": 57.454758,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 88.5,
+      "top": 25.2,
+      "x1": 93.0,
+      "bottom": 30.0,
+      "confidence": 96.743797,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "A",
+      "x0": 95.39999999999999,
+      "top": 25.2,
+      "x1": 99.6,
+      "bottom": 30.0,
+      "confidence": 93.636932,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "cannot",
+      "x0": 101.7,
+      "top": 25.5,
+      "x1": 122.1,
+      "bottom": 30.0,
+      "confidence": 93.636932,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "revoke",
+      "x0": 124.5,
+      "top": 24.9,
+      "x1": 144.6,
+      "bottom": 30.0,
+      "confidence": 96.254356,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "this",
+      "x0": 146.7,
+      "top": 24.9,
+      "x1": 157.5,
+      "bottom": 30.0,
+      "confidence": 96.95697,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "authority.",
+      "x0": 159.9,
+      "top": 24.9,
+      "x1": 189.0,
+      "bottom": 31.5,
+      "confidence": 96.69696,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "x,",
+      "x0": 73.2,
+      "top": 36.3,
+      "x1": 93.0,
+      "bottom": 51.3,
+      "confidence": 72.149643,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "The",
+      "x0": 95.39999999999999,
+      "top": 46.199999999999996,
+      "x1": 106.19999999999999,
+      "bottom": 51.3,
+      "confidence": 96.719032,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "authority",
+      "x0": 108.6,
+      "top": 46.199999999999996,
+      "x1": 136.2,
+      "bottom": 52.8,
+      "confidence": 96.187744,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "can",
+      "x0": 138.6,
+      "top": 47.699999999999996,
+      "x1": 148.5,
+      "bottom": 51.3,
+      "confidence": 97.002403,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "be",
+      "x0": 151.2,
+      "top": 46.199999999999996,
+      "x1": 157.79999999999998,
+      "bottom": 51.3,
+      "confidence": 96.944061,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "terminated",
+      "x0": 160.2,
+      "top": 46.199999999999996,
+      "x1": 193.79999999999998,
+      "bottom": 51.3,
+      "confidence": 96.326927,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "after",
+      "x0": 196.2,
+      "top": 46.199999999999996,
+      "x1": 210.6,
+      "bottom": 51.3,
+      "confidence": 96.616646,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "the",
+      "x0": 212.4,
+      "top": 46.199999999999996,
+      "x1": 222.3,
+      "bottom": 51.3,
+      "confidence": 96.616646,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "death",
+      "x0": 224.7,
+      "top": 46.199999999999996,
+      "x1": 241.5,
+      "bottom": 51.3,
+      "confidence": 97.014503,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "of",
+      "x0": 243.89999999999998,
+      "top": 46.199999999999996,
+      "x1": 249.89999999999998,
+      "bottom": 51.3,
+      "confidence": 93.273087,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "'A’.",
+      "x0": 252.29999999999998,
+      "top": 46.199999999999996,
+      "x1": 260.7,
+      "bottom": 51.3,
+      "confidence": 73.231445,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "x,",
+      "x0": 73.2,
+      "top": 57.599999999999994,
+      "x1": 93.0,
+      "bottom": 72.89999999999999,
+      "confidence": 72.123573,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Acan",
+      "x0": 95.39999999999999,
+      "top": 67.8,
+      "x1": 111.6,
+      "bottom": 72.6,
+      "confidence": 90.085236,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "revoke",
+      "x0": 114.3,
+      "top": 67.5,
+      "x1": 134.1,
+      "bottom": 72.6,
+      "confidence": 95.83606,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "this",
+      "x0": 136.2,
+      "top": 67.5,
+      "x1": 147.0,
+      "bottom": 72.6,
+      "confidence": 96.998108,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "authority",
+      "x0": 149.4,
+      "top": 67.5,
+      "x1": 177.0,
+      "bottom": 74.1,
+      "confidence": 96.504425,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "subsequently.",
+      "x0": 179.1,
+      "top": 67.5,
+      "x1": 221.1,
+      "bottom": 74.1,
+      "confidence": 96.599419,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "x,",
+      "x0": 73.2,
+      "top": 78.89999999999999,
+      "x1": 93.0,
+      "bottom": 94.19999999999999,
+      "confidence": 72.756432,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "The",
+      "x0": 95.39999999999999,
+      "top": 89.1,
+      "x1": 106.19999999999999,
+      "bottom": 94.19999999999999,
+      "confidence": 96.997398,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "authority",
+      "x0": 108.6,
+      "top": 89.1,
+      "x1": 136.2,
+      "bottom": 95.69999999999999,
+      "confidence": 96.689301,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "can",
+      "x0": 138.6,
+      "top": 90.6,
+      "x1": 148.5,
+      "bottom": 94.19999999999999,
+      "confidence": 96.432549,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "be",
+      "x0": 151.2,
+      "top": 89.1,
+      "x1": 157.79999999999998,
+      "bottom": 94.19999999999999,
+      "confidence": 96.48394,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "terminated",
+      "x0": 160.2,
+      "top": 89.1,
+      "x1": 193.79999999999998,
+      "bottom": 94.19999999999999,
+      "confidence": 95.990059,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "on",
+      "x0": 196.2,
+      "top": 90.6,
+      "x1": 203.39999999999998,
+      "bottom": 94.19999999999999,
+      "confidence": 96.853889,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "the",
+      "x0": 205.79999999999998,
+      "top": 89.1,
+      "x1": 215.39999999999998,
+      "bottom": 94.19999999999999,
+      "confidence": 96.864632,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "ground",
+      "x0": 217.79999999999998,
+      "top": 89.1,
+      "x1": 238.79999999999998,
+      "bottom": 95.69999999999999,
+      "confidence": 96.877151,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "of",
+      "x0": 241.5,
+      "top": 89.1,
+      "x1": 247.5,
+      "bottom": 94.19999999999999,
+      "confidence": 96.47789,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "insanity",
+      "x0": 249.6,
+      "top": 89.39999999999999,
+      "x1": 272.7,
+      "bottom": 95.69999999999999,
+      "confidence": 96.495758,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "of",
+      "x0": 274.8,
+      "top": 89.1,
+      "x1": 280.8,
+      "bottom": 94.19999999999999,
+      "confidence": 95.153328,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "‘A’.",
+      "x0": 282.9,
+      "top": 89.1,
+      "x1": 291.59999999999997,
+      "bottom": 94.19999999999999,
+      "confidence": 17.531281,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

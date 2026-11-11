@@ -1,0 +1,961 @@
+{
+  "pdf_page": 402,
+  "crop_top": 263.64,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Question Number : 7 Question Id : 461139377 Question Type : MCQ Option Shuffling : Yes Display Question Number : Yes Single",
+      "bbox": [
+        37.8,
+        3.3,
+        573.5999999999999,
+        11.7
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Line Question Option : No Option Orientation : Vertical",
+      "bbox": [
+        37.5,
+        12.6,
+        266.09999999999997,
+        21.0
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "Correct : 1 Wrong: 0.25",
+      "bbox": [
+        37.8,
+        25.8,
+        137.7,
+        33.9
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "Article 19 (1) (c) of the Constitution of India guarantees freedom:",
+      "bbox": [
+        37.199999999999996,
+        38.4,
+        348.0,
+        48.9
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "Options :",
+      "bbox": [
+        37.8,
+        55.5,
+        73.5,
+        63.6
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "1. % to form associations unions",
+      "bbox": [
+        38.699999999999996,
+        67.8,
+        210.0,
+        77.7
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "or",
+      "bbox": [
+        164.7,
+        71.7,
+        174.0,
+        77.7
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "2. * to form associations",
+      "bbox": [
+        38.1,
+        85.8,
+        161.1,
+        95.39999999999999
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "3. * to form trade unions",
+      "bbox": [
+        38.1,
+        103.8,
+        163.2,
+        113.39999999999999
+      ]
+    },
+    {
+      "line_id": "l0009",
+      "text": "4. ¥ form associations unions, cooperative societies",
+      "bbox": [
+        38.1,
+        121.5,
+        314.4,
+        133.5
+      ]
+    },
+    {
+      "line_id": "l0010",
+      "text": "to or",
+      "bbox": [
+        63.9,
+        124.8,
+        174.0,
+        131.4
+      ]
+    }
+  ],
+  "text": "Question Number : 7 Question Id : 461139377 Question Type : MCQ Option Shuffling : Yes Display Question Number : Yes Single\nLine Question Option : No Option Orientation : Vertical\nCorrect : 1 Wrong: 0.25\nArticle 19 (1) (c) of the Constitution of India guarantees freedom:\nOptions :\n1. % to form associations unions\nor\n2. * to form associations\n3. * to form trade unions\n4. ¥ form associations unions, cooperative societies\nto or",
+  "ocr_words": [
+    {
+      "text": "Question",
+      "x0": 37.8,
+      "top": 3.3,
+      "x1": 72.9,
+      "bottom": 11.399999999999999,
+      "confidence": 95.297813,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Number",
+      "x0": 75.89999999999999,
+      "top": 3.3,
+      "x1": 109.19999999999999,
+      "bottom": 9.899999999999999,
+      "confidence": 91.69313,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 112.5,
+      "top": 5.1,
+      "x1": 113.7,
+      "bottom": 9.899999999999999,
+      "confidence": 91.69313,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "7",
+      "x0": 117.6,
+      "top": 3.3,
+      "x1": 121.5,
+      "bottom": 9.899999999999999,
+      "confidence": 96.525803,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Question",
+      "x0": 126.89999999999999,
+      "top": 3.3,
+      "x1": 162.0,
+      "bottom": 11.399999999999999,
+      "confidence": 96.34565,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Id",
+      "x0": 165.0,
+      "top": 3.3,
+      "x1": 173.4,
+      "bottom": 9.899999999999999,
+      "confidence": 93.028534,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 177.0,
+      "top": 5.1,
+      "x1": 178.2,
+      "bottom": 9.899999999999999,
+      "confidence": 91.837509,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "461139377",
+      "x0": 181.79999999999998,
+      "top": 3.3,
+      "x1": 223.79999999999998,
+      "bottom": 9.899999999999999,
+      "confidence": 96.745743,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Question",
+      "x0": 229.2,
+      "top": 3.3,
+      "x1": 264.3,
+      "bottom": 11.399999999999999,
+      "confidence": 96.64875,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Type",
+      "x0": 267.59999999999997,
+      "top": 3.3,
+      "x1": 287.09999999999997,
+      "bottom": 11.7,
+      "confidence": 87.614426,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 291.9,
+      "top": 5.1,
+      "x1": 292.2,
+      "bottom": 9.899999999999999,
+      "confidence": 87.614426,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "MCQ",
+      "x0": 295.5,
+      "top": 3.3,
+      "x1": 317.7,
+      "bottom": 11.399999999999999,
+      "confidence": 91.221878,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Option",
+      "x0": 323.4,
+      "top": 3.3,
+      "x1": 350.7,
+      "bottom": 11.7,
+      "confidence": 92.934303,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Shuffling",
+      "x0": 354.0,
+      "top": 3.3,
+      "x1": 390.3,
+      "bottom": 11.7,
+      "confidence": 91.872925,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 394.5,
+      "top": 5.1,
+      "x1": 395.1,
+      "bottom": 9.899999999999999,
+      "confidence": 85.727036,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Yes",
+      "x0": 398.7,
+      "top": 3.3,
+      "x1": 412.8,
+      "bottom": 9.899999999999999,
+      "confidence": 96.351158,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Display",
+      "x0": 417.9,
+      "top": 3.3,
+      "x1": 447.9,
+      "bottom": 11.7,
+      "confidence": 95.677795,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Question",
+      "x0": 450.9,
+      "top": 3.3,
+      "x1": 486.0,
+      "bottom": 11.399999999999999,
+      "confidence": 95.677795,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Number",
+      "x0": 489.0,
+      "top": 3.3,
+      "x1": 522.3,
+      "bottom": 9.899999999999999,
+      "confidence": 91.368004,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 525.6,
+      "top": 5.1,
+      "x1": 526.8000000000001,
+      "bottom": 9.899999999999999,
+      "confidence": 91.368004,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Yes",
+      "x0": 530.4,
+      "top": 3.3,
+      "x1": 544.1999999999999,
+      "bottom": 9.899999999999999,
+      "confidence": 96.245895,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Single",
+      "x0": 550.1999999999999,
+      "top": 3.3,
+      "x1": 573.5999999999999,
+      "bottom": 11.7,
+      "confidence": 96.314766,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Line",
+      "x0": 37.5,
+      "top": 12.6,
+      "x1": 55.2,
+      "bottom": 19.2,
+      "confidence": 95.859299,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Question",
+      "x0": 58.5,
+      "top": 12.6,
+      "x1": 93.6,
+      "bottom": 20.7,
+      "confidence": 95.859299,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Option",
+      "x0": 96.89999999999999,
+      "top": 12.6,
+      "x1": 124.19999999999999,
+      "bottom": 21.0,
+      "confidence": 91.91304,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": ":",
+      "x0": 128.7,
+      "top": 14.399999999999999,
+      "x1": 129.0,
+      "bottom": 19.2,
+      "confidence": 92.693237,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "No",
+      "x0": 132.6,
+      "top": 12.6,
+      "x1": 143.4,
+      "bottom": 19.2,
+      "confidence": 96.977577,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Option",
+      "x0": 149.1,
+      "top": 12.6,
+      "x1": 176.4,
+      "bottom": 21.0,
+      "confidence": 95.855804,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Orientation",
+      "x0": 179.7,
+      "top": 12.6,
+      "x1": 225.89999999999998,
+      "bottom": 19.2,
+      "confidence": 93.195877,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": ":",
+      "x0": 229.5,
+      "top": 14.399999999999999,
+      "x1": 230.7,
+      "bottom": 19.2,
+      "confidence": 92.295029,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Vertical",
+      "x0": 234.29999999999998,
+      "top": 12.6,
+      "x1": 266.09999999999997,
+      "bottom": 19.2,
+      "confidence": 95.655273,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Correct",
+      "x0": 37.8,
+      "top": 25.8,
+      "x1": 68.39999999999999,
+      "bottom": 32.4,
+      "confidence": 81.015045,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 72.0,
+      "top": 27.599999999999998,
+      "x1": 73.2,
+      "bottom": 32.4,
+      "confidence": 75.356438,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1",
+      "x0": 78.89999999999999,
+      "top": 25.8,
+      "x1": 80.39999999999999,
+      "bottom": 32.1,
+      "confidence": 94.640106,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Wrong:",
+      "x0": 86.1,
+      "top": 25.8,
+      "x1": 118.5,
+      "bottom": 33.9,
+      "confidence": 79.069183,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "0.25",
+      "x0": 122.39999999999999,
+      "top": 25.8,
+      "x1": 137.7,
+      "bottom": 32.4,
+      "confidence": 96.572304,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Article",
+      "x0": 37.199999999999996,
+      "top": 39.0,
+      "x1": 67.8,
+      "bottom": 46.5,
+      "confidence": 96.624786,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "19",
+      "x0": 72.6,
+      "top": 39.0,
+      "x1": 83.39999999999999,
+      "bottom": 46.5,
+      "confidence": 96.462654,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(1)",
+      "x0": 87.6,
+      "top": 39.0,
+      "x1": 98.69999999999999,
+      "bottom": 48.0,
+      "confidence": 93.166725,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(c)",
+      "x0": 102.6,
+      "top": 39.0,
+      "x1": 112.19999999999999,
+      "bottom": 48.0,
+      "confidence": 80.531731,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 115.8,
+      "top": 38.4,
+      "x1": 126.0,
+      "bottom": 46.5,
+      "confidence": 96.614044,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 128.7,
+      "top": 39.0,
+      "x1": 143.1,
+      "bottom": 46.5,
+      "confidence": 96.46328,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Constitution",
+      "x0": 146.7,
+      "top": 39.0,
+      "x1": 205.79999999999998,
+      "bottom": 46.5,
+      "confidence": 96.5495,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 209.1,
+      "top": 38.4,
+      "x1": 219.29999999999998,
+      "bottom": 46.5,
+      "confidence": 96.877472,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "India",
+      "x0": 222.0,
+      "top": 39.0,
+      "x1": 246.6,
+      "bottom": 46.5,
+      "confidence": 95.504578,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "guarantees",
+      "x0": 250.2,
+      "top": 39.9,
+      "x1": 302.7,
+      "bottom": 48.9,
+      "confidence": 96.423775,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "freedom:",
+      "x0": 306.9,
+      "top": 38.4,
+      "x1": 348.0,
+      "bottom": 46.5,
+      "confidence": 45.49157,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Options",
+      "x0": 37.8,
+      "top": 55.5,
+      "x1": 68.69999999999999,
+      "bottom": 63.6,
+      "confidence": 93.303955,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 72.3,
+      "top": 57.3,
+      "x1": 73.5,
+      "bottom": 62.099999999999994,
+      "confidence": 87.803024,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1.",
+      "x0": 38.699999999999996,
+      "top": 70.2,
+      "x1": 45.3,
+      "bottom": 77.7,
+      "confidence": 94.543297,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "%",
+      "x0": 51.6,
+      "top": 67.8,
+      "x1": 58.2,
+      "bottom": 74.7,
+      "confidence": 67.28215,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 63.9,
+      "top": 70.8,
+      "x1": 72.6,
+      "bottom": 77.7,
+      "confidence": 96.860336,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "form",
+      "x0": 76.8,
+      "top": 69.3,
+      "x1": 99.89999999999999,
+      "bottom": 77.7,
+      "confidence": 96.054565,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "associations",
+      "x0": 102.89999999999999,
+      "top": 70.2,
+      "x1": 161.1,
+      "bottom": 77.7,
+      "confidence": 96.128662,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "or",
+      "x0": 164.7,
+      "top": 71.7,
+      "x1": 174.0,
+      "bottom": 77.7,
+      "confidence": 95.514374,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "unions",
+      "x0": 177.6,
+      "top": 70.2,
+      "x1": 210.0,
+      "bottom": 77.7,
+      "confidence": 95.514374,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2.",
+      "x0": 38.1,
+      "top": 87.89999999999999,
+      "x1": 45.3,
+      "bottom": 95.39999999999999,
+      "confidence": 92.789337,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "*",
+      "x0": 51.6,
+      "top": 85.8,
+      "x1": 58.2,
+      "bottom": 92.39999999999999,
+      "confidence": 74.489967,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 63.9,
+      "top": 88.8,
+      "x1": 72.6,
+      "bottom": 95.39999999999999,
+      "confidence": 96.957947,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "form",
+      "x0": 76.8,
+      "top": 87.3,
+      "x1": 99.89999999999999,
+      "bottom": 95.39999999999999,
+      "confidence": 87.991272,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "associations",
+      "x0": 102.89999999999999,
+      "top": 87.89999999999999,
+      "x1": 161.1,
+      "bottom": 95.39999999999999,
+      "confidence": 87.991272,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "3.",
+      "x0": 38.1,
+      "top": 105.89999999999999,
+      "x1": 45.3,
+      "bottom": 113.39999999999999,
+      "confidence": 92.886116,
+      "ocr_block": "1",
+      "ocr_paragraph": "7",
+      "ocr_line": "1"
+    },
+    {
+      "text": "*",
+      "x0": 51.6,
+      "top": 103.8,
+      "x1": 58.2,
+      "bottom": 110.39999999999999,
+      "confidence": 39.615707,
+      "ocr_block": "1",
+      "ocr_paragraph": "7",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 63.9,
+      "top": 106.8,
+      "x1": 72.6,
+      "bottom": 113.39999999999999,
+      "confidence": 96.981232,
+      "ocr_block": "1",
+      "ocr_paragraph": "7",
+      "ocr_line": "1"
+    },
+    {
+      "text": "form",
+      "x0": 76.8,
+      "top": 105.3,
+      "x1": 99.89999999999999,
+      "bottom": 113.39999999999999,
+      "confidence": 96.32328,
+      "ocr_block": "1",
+      "ocr_paragraph": "7",
+      "ocr_line": "1"
+    },
+    {
+      "text": "trade",
+      "x0": 102.89999999999999,
+      "top": 105.89999999999999,
+      "x1": 127.19999999999999,
+      "bottom": 113.39999999999999,
+      "confidence": 95.464516,
+      "ocr_block": "1",
+      "ocr_paragraph": "7",
+      "ocr_line": "1"
+    },
+    {
+      "text": "unions",
+      "x0": 130.79999999999998,
+      "top": 105.89999999999999,
+      "x1": 163.2,
+      "bottom": 113.39999999999999,
+      "confidence": 96.808556,
+      "ocr_block": "1",
+      "ocr_paragraph": "7",
+      "ocr_line": "1"
+    },
+    {
+      "text": "4.",
+      "x0": 38.1,
+      "top": 123.89999999999999,
+      "x1": 45.3,
+      "bottom": 131.39999999999998,
+      "confidence": 88.522659,
+      "ocr_block": "1",
+      "ocr_paragraph": "8",
+      "ocr_line": "1"
+    },
+    {
+      "text": "¥",
+      "x0": 53.699999999999996,
+      "top": 121.5,
+      "x1": 58.49999999999999,
+      "bottom": 129.9,
+      "confidence": 88.752869,
+      "ocr_block": "1",
+      "ocr_paragraph": "8",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 63.9,
+      "top": 124.8,
+      "x1": 72.6,
+      "bottom": 131.4,
+      "confidence": 96.060196,
+      "ocr_block": "1",
+      "ocr_paragraph": "8",
+      "ocr_line": "1"
+    },
+    {
+      "text": "form",
+      "x0": 76.8,
+      "top": 123.3,
+      "x1": 99.89999999999999,
+      "bottom": 131.4,
+      "confidence": 95.052597,
+      "ocr_block": "1",
+      "ocr_paragraph": "8",
+      "ocr_line": "1"
+    },
+    {
+      "text": "associations",
+      "x0": 102.6,
+      "top": 123.89999999999999,
+      "x1": 161.1,
+      "bottom": 131.39999999999998,
+      "confidence": 95.087555,
+      "ocr_block": "1",
+      "ocr_paragraph": "8",
+      "ocr_line": "1"
+    },
+    {
+      "text": "or",
+      "x0": 164.7,
+      "top": 125.39999999999999,
+      "x1": 174.0,
+      "bottom": 131.39999999999998,
+      "confidence": 97.011116,
+      "ocr_block": "1",
+      "ocr_paragraph": "8",
+      "ocr_line": "1"
+    },
+    {
+      "text": "unions,",
+      "x0": 177.6,
+      "top": 123.89999999999999,
+      "x1": 212.1,
+      "bottom": 132.89999999999998,
+      "confidence": 96.398918,
+      "ocr_block": "1",
+      "ocr_paragraph": "8",
+      "ocr_line": "1"
+    },
+    {
+      "text": "cooperative",
+      "x0": 216.29999999999998,
+      "top": 123.89999999999999,
+      "x1": 271.2,
+      "bottom": 133.5,
+      "confidence": 96.053337,
+      "ocr_block": "1",
+      "ocr_paragraph": "8",
+      "ocr_line": "1"
+    },
+    {
+      "text": "societies",
+      "x0": 274.5,
+      "top": 123.89999999999999,
+      "x1": 314.4,
+      "bottom": 131.39999999999998,
+      "confidence": 96.950401,
+      "ocr_block": "1",
+      "ocr_paragraph": "8",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

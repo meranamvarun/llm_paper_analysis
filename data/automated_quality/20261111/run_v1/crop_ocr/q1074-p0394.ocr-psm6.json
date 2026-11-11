@@ -1,0 +1,467 @@
+{
+  "pdf_page": 394,
+  "crop_top": 298.28136000000006,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.22 For the offence of cheating, which one of the following state(s) of guilty mind/s is/are to be proved?",
+      "bbox": [
+        42.0,
+        3.3,
+        373.79999999999995,
+        10.2
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Ans 4",
+      "bbox": [
+        43.199999999999996,
+        13.799999999999999,
+        87.6,
+        27.599999999999998
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "1. Fraudulently or dishonestly",
+      "bbox": [
+        88.5,
+        24.9,
+        178.2,
+        31.5
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "x,",
+      "bbox": [
+        73.2,
+        36.3,
+        93.0,
+        51.3
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "Dishonestly",
+      "bbox": [
+        96.0,
+        45.0,
+        130.5,
+        54.0
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "x,",
+      "bbox": [
+        73.2,
+        57.599999999999994,
+        93.0,
+        72.6
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "Fraudulently",
+      "bbox": [
+        96.0,
+        66.3,
+        133.5,
+        75.3
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "x,",
+      "bbox": [
+        73.2,
+        78.89999999999999,
+        93.0,
+        93.89999999999999
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "Fraudulently and dishonestly",
+      "bbox": [
+        96.0,
+        88.8,
+        183.29999999999998,
+        95.39999999999999
+      ]
+    }
+  ],
+  "text": "Q.22 For the offence of cheating, which one of the following state(s) of guilty mind/s is/are to be proved?\nAns 4\n1. Fraudulently or dishonestly\nx,\nDishonestly\nx,\nFraudulently\nx,\nFraudulently and dishonestly",
+  "ocr_words": [
+    {
+      "text": "Q.22",
+      "x0": 42.0,
+      "top": 3.9,
+      "x1": 56.1,
+      "bottom": 9.6,
+      "confidence": 90.957802,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "For",
+      "x0": 63.0,
+      "top": 3.9,
+      "x1": 72.3,
+      "bottom": 8.7,
+      "confidence": 96.810913,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 74.1,
+      "top": 3.5999999999999996,
+      "x1": 84.3,
+      "bottom": 8.7,
+      "confidence": 96.952225,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "offence",
+      "x0": 86.39999999999999,
+      "top": 3.5999999999999996,
+      "x1": 109.49999999999999,
+      "bottom": 8.7,
+      "confidence": 96.588982,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 111.6,
+      "top": 3.5999999999999996,
+      "x1": 117.89999999999999,
+      "bottom": 8.7,
+      "confidence": 96.685417,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "cheating,",
+      "x0": 119.69999999999999,
+      "top": 3.5999999999999996,
+      "x1": 147.89999999999998,
+      "bottom": 10.2,
+      "confidence": 96.977074,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "which",
+      "x0": 150.0,
+      "top": 3.5999999999999996,
+      "x1": 168.0,
+      "bottom": 8.7,
+      "confidence": 96.971825,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "one",
+      "x0": 170.4,
+      "top": 5.1,
+      "x1": 181.8,
+      "bottom": 8.7,
+      "confidence": 97.00856,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 183.9,
+      "top": 3.5999999999999996,
+      "x1": 190.20000000000002,
+      "bottom": 8.7,
+      "confidence": 96.995712,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 191.7,
+      "top": 3.5999999999999996,
+      "x1": 201.89999999999998,
+      "bottom": 9.0,
+      "confidence": 96.693298,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 204.0,
+      "top": 3.5999999999999996,
+      "x1": 232.8,
+      "bottom": 10.2,
+      "confidence": 96.487328,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "state(s)",
+      "x0": 234.89999999999998,
+      "top": 3.3,
+      "x1": 257.7,
+      "bottom": 9.899999999999999,
+      "confidence": 96.948921,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 260.09999999999997,
+      "top": 3.5999999999999996,
+      "x1": 266.09999999999997,
+      "bottom": 8.7,
+      "confidence": 97.019608,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "guilty",
+      "x0": 267.9,
+      "top": 3.5999999999999996,
+      "x1": 285.29999999999995,
+      "bottom": 10.2,
+      "confidence": 93.1604,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "mind/s",
+      "x0": 287.4,
+      "top": 3.3,
+      "x1": 309.0,
+      "bottom": 9.899999999999999,
+      "confidence": 92.955185,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is/are",
+      "x0": 311.4,
+      "top": 3.3,
+      "x1": 328.79999999999995,
+      "bottom": 9.899999999999999,
+      "confidence": 96.659851,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 330.9,
+      "top": 4.2,
+      "x1": 337.2,
+      "bottom": 8.7,
+      "confidence": 96.578903,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "be",
+      "x0": 339.59999999999997,
+      "top": 3.5999999999999996,
+      "x1": 346.79999999999995,
+      "bottom": 8.7,
+      "confidence": 96.990372,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "proved?",
+      "x0": 348.9,
+      "top": 3.5999999999999996,
+      "x1": 373.79999999999995,
+      "bottom": 10.2,
+      "confidence": 96.810326,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.199999999999996,
+      "top": 16.5,
+      "x1": 54.599999999999994,
+      "bottom": 21.3,
+      "confidence": 96.58625,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "4",
+      "x0": 73.8,
+      "top": 13.799999999999999,
+      "x1": 87.6,
+      "bottom": 27.599999999999998,
+      "confidence": 64.285233,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 88.5,
+      "top": 25.2,
+      "x1": 93.0,
+      "bottom": 30.0,
+      "confidence": 93.305946,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Fraudulently",
+      "x0": 96.0,
+      "top": 24.9,
+      "x1": 133.5,
+      "bottom": 31.5,
+      "confidence": 92.294701,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "or",
+      "x0": 135.9,
+      "top": 26.4,
+      "x1": 141.9,
+      "bottom": 30.0,
+      "confidence": 93.264496,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "dishonestly",
+      "x0": 144.0,
+      "top": 24.9,
+      "x1": 178.2,
+      "bottom": 31.5,
+      "confidence": 91.140991,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "x,",
+      "x0": 73.2,
+      "top": 36.3,
+      "x1": 93.0,
+      "bottom": 51.3,
+      "confidence": 72.149643,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Dishonestly",
+      "x0": 96.0,
+      "top": 45.0,
+      "x1": 130.5,
+      "bottom": 54.0,
+      "confidence": 91.302132,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "x,",
+      "x0": 73.2,
+      "top": 57.599999999999994,
+      "x1": 93.0,
+      "bottom": 72.6,
+      "confidence": 72.295753,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Fraudulently",
+      "x0": 96.0,
+      "top": 66.3,
+      "x1": 133.5,
+      "bottom": 75.3,
+      "confidence": 90.852768,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "x,",
+      "x0": 73.2,
+      "top": 78.89999999999999,
+      "x1": 93.0,
+      "bottom": 93.89999999999999,
+      "confidence": 77.666473,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Fraudulently",
+      "x0": 96.0,
+      "top": 88.8,
+      "x1": 133.5,
+      "bottom": 95.39999999999999,
+      "confidence": 92.687416,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "and",
+      "x0": 135.9,
+      "top": 88.8,
+      "x1": 146.4,
+      "bottom": 93.89999999999999,
+      "confidence": 93.271088,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "dishonestly",
+      "x0": 149.1,
+      "top": 88.8,
+      "x1": 183.29999999999998,
+      "bottom": 95.39999999999999,
+      "confidence": 91.809235,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

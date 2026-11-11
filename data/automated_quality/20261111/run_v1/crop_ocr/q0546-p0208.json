@@ -1,0 +1,678 @@
+{
+  "pdf_page": 208,
+  "crop_top": 533.64,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "61. ACoastal State, subject to the obligations imposed by International Law, has sovereignty",
+      "bbox": [
+        90.6,
+        3.3,
+        513.6,
+        13.5
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "over its:",
+      "bbox": [
+        111.3,
+        18.0,
+        147.6,
+        25.8
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(A) Territorial waters, the seabed and subsoil underlying such waters, and the air space",
+      "bbox": [
+        111.0,
+        32.1,
+        513.3,
+        42.0
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "above them.",
+      "bbox": [
+        129.9,
+        46.5,
+        187.5,
+        54.6
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(B) Territorial waters, the seabed and subsoil underlying such waters.",
+      "bbox": [
+        111.0,
+        60.9,
+        439.5,
+        71.1
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "(C) Territorial waters only.",
+      "bbox": [
+        110.39999999999999,
+        75.3,
+        233.70000000000002,
+        85.2
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "(D) Territorial waters and the air space above them.",
+      "bbox": [
+        110.39999999999999,
+        89.7,
+        355.2,
+        99.60000000000001
+      ]
+    }
+  ],
+  "text": "61. ACoastal State, subject to the obligations imposed by International Law, has sovereignty\nover its:\n(A) Territorial waters, the seabed and subsoil underlying such waters, and the air space\nabove them.\n(B) Territorial waters, the seabed and subsoil underlying such waters.\n(C) Territorial waters only.\n(D) Territorial waters and the air space above them.",
+  "ocr_words": [
+    {
+      "text": "61.",
+      "x0": 90.6,
+      "top": 3.5999999999999996,
+      "x1": 104.1,
+      "bottom": 11.399999999999999,
+      "confidence": 90.661964,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "ACoastal",
+      "x0": 111.0,
+      "top": 3.3,
+      "x1": 155.1,
+      "bottom": 11.399999999999999,
+      "confidence": 90.661964,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "State,",
+      "x0": 158.1,
+      "top": 3.3,
+      "x1": 184.2,
+      "bottom": 12.599999999999998,
+      "confidence": 96.712097,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "subject",
+      "x0": 187.5,
+      "top": 3.3,
+      "x1": 220.2,
+      "bottom": 13.2,
+      "confidence": 96.42746,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 222.6,
+      "top": 4.2,
+      "x1": 231.0,
+      "bottom": 11.399999999999999,
+      "confidence": 96.073067,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 233.39999999999998,
+      "top": 3.3,
+      "x1": 247.49999999999997,
+      "bottom": 11.399999999999999,
+      "confidence": 96.562225,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "obligations",
+      "x0": 250.2,
+      "top": 3.3,
+      "x1": 299.7,
+      "bottom": 13.2,
+      "confidence": 96.400131,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "imposed",
+      "x0": 302.7,
+      "top": 3.3,
+      "x1": 341.4,
+      "bottom": 13.2,
+      "confidence": 96.056427,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "by",
+      "x0": 344.4,
+      "top": 3.3,
+      "x1": 354.9,
+      "bottom": 13.5,
+      "confidence": 96.94976,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "International",
+      "x0": 357.9,
+      "top": 3.3,
+      "x1": 414.0,
+      "bottom": 11.399999999999999,
+      "confidence": 96.408821,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Law,",
+      "x0": 417.59999999999997,
+      "top": 3.3,
+      "x1": 437.99999999999994,
+      "bottom": 12.599999999999998,
+      "confidence": 96.82135,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "has",
+      "x0": 441.59999999999997,
+      "top": 3.3,
+      "x1": 457.79999999999995,
+      "bottom": 11.399999999999999,
+      "confidence": 96.82135,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "sovereignty",
+      "x0": 460.5,
+      "top": 3.5999999999999996,
+      "x1": 513.6,
+      "bottom": 13.5,
+      "confidence": 96.535553,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "over",
+      "x0": 111.3,
+      "top": 19.8,
+      "x1": 131.7,
+      "bottom": 25.8,
+      "confidence": 96.611595,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "its:",
+      "x0": 135.29999999999998,
+      "top": 18.0,
+      "x1": 147.6,
+      "bottom": 25.8,
+      "confidence": 96.611595,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(A)",
+      "x0": 111.0,
+      "top": 32.1,
+      "x1": 123.9,
+      "bottom": 42.0,
+      "confidence": 96.817543,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Territorial",
+      "x0": 129.6,
+      "top": 32.1,
+      "x1": 173.39999999999998,
+      "bottom": 40.2,
+      "confidence": 96.155823,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "waters,",
+      "x0": 176.7,
+      "top": 33.0,
+      "x1": 209.7,
+      "bottom": 41.4,
+      "confidence": 96.876686,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "the",
+      "x0": 213.0,
+      "top": 32.1,
+      "x1": 227.1,
+      "bottom": 40.2,
+      "confidence": 96.621933,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "seabed",
+      "x0": 230.1,
+      "top": 32.1,
+      "x1": 264.3,
+      "bottom": 40.2,
+      "confidence": 96.376854,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "and",
+      "x0": 267.3,
+      "top": 32.1,
+      "x1": 284.1,
+      "bottom": 40.2,
+      "confidence": 96.583458,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "subsoil",
+      "x0": 287.09999999999997,
+      "top": 32.1,
+      "x1": 319.2,
+      "bottom": 40.2,
+      "confidence": 96.39064,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "underlying",
+      "x0": 322.8,
+      "top": 32.1,
+      "x1": 370.8,
+      "bottom": 42.0,
+      "confidence": 96.388023,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "such",
+      "x0": 373.8,
+      "top": 32.1,
+      "x1": 395.1,
+      "bottom": 40.2,
+      "confidence": 96.201004,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "waters,",
+      "x0": 398.09999999999997,
+      "top": 33.0,
+      "x1": 431.4,
+      "bottom": 41.4,
+      "confidence": 96.201004,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "and",
+      "x0": 435.0,
+      "top": 32.1,
+      "x1": 451.8,
+      "bottom": 40.2,
+      "confidence": 96.732033,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "the",
+      "x0": 454.5,
+      "top": 32.1,
+      "x1": 468.9,
+      "bottom": 40.2,
+      "confidence": 96.232483,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "air",
+      "x0": 471.9,
+      "top": 32.4,
+      "x1": 483.29999999999995,
+      "bottom": 40.199999999999996,
+      "confidence": 96.598244,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "space",
+      "x0": 485.7,
+      "top": 34.199999999999996,
+      "x1": 513.3,
+      "bottom": 41.99999999999999,
+      "confidence": 96.268585,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "above",
+      "x0": 129.9,
+      "top": 46.5,
+      "x1": 158.1,
+      "bottom": 54.6,
+      "confidence": 97.000488,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "them.",
+      "x0": 161.7,
+      "top": 46.5,
+      "x1": 187.5,
+      "bottom": 54.6,
+      "confidence": 96.096443,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(B)",
+      "x0": 111.0,
+      "top": 60.9,
+      "x1": 123.9,
+      "bottom": 70.8,
+      "confidence": 92.707077,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Territorial",
+      "x0": 129.6,
+      "top": 60.9,
+      "x1": 174.0,
+      "bottom": 69.0,
+      "confidence": 96.650169,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "waters,",
+      "x0": 177.6,
+      "top": 61.8,
+      "x1": 211.2,
+      "bottom": 70.2,
+      "confidence": 96.316376,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "the",
+      "x0": 215.1,
+      "top": 60.9,
+      "x1": 229.5,
+      "bottom": 69.0,
+      "confidence": 96.316376,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "seabed",
+      "x0": 233.1,
+      "top": 60.9,
+      "x1": 267.3,
+      "bottom": 69.0,
+      "confidence": 96.644539,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "and",
+      "x0": 271.2,
+      "top": 60.9,
+      "x1": 288.3,
+      "bottom": 69.0,
+      "confidence": 96.635414,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "subsoil",
+      "x0": 292.2,
+      "top": 60.9,
+      "x1": 324.3,
+      "bottom": 69.0,
+      "confidence": 96.113274,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "underlying",
+      "x0": 328.8,
+      "top": 60.9,
+      "x1": 376.8,
+      "bottom": 71.1,
+      "confidence": 96.278343,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "such",
+      "x0": 380.7,
+      "top": 60.9,
+      "x1": 402.3,
+      "bottom": 69.0,
+      "confidence": 96.683434,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "waters.",
+      "x0": 406.2,
+      "top": 61.8,
+      "x1": 439.5,
+      "bottom": 69.0,
+      "confidence": 96.49968,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "(C)",
+      "x0": 110.39999999999999,
+      "top": 75.3,
+      "x1": 123.89999999999999,
+      "bottom": 85.2,
+      "confidence": 93.114922,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Territorial",
+      "x0": 129.6,
+      "top": 75.3,
+      "x1": 174.0,
+      "bottom": 83.39999999999999,
+      "confidence": 96.653297,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "waters",
+      "x0": 177.6,
+      "top": 76.2,
+      "x1": 208.79999999999998,
+      "bottom": 83.4,
+      "confidence": 96.614754,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "only.",
+      "x0": 212.4,
+      "top": 75.3,
+      "x1": 233.70000000000002,
+      "bottom": 85.2,
+      "confidence": 95.688477,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "(D)",
+      "x0": 110.39999999999999,
+      "top": 89.7,
+      "x1": 123.89999999999999,
+      "bottom": 99.60000000000001,
+      "confidence": 92.960991,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "Territorial",
+      "x0": 129.6,
+      "top": 89.7,
+      "x1": 174.0,
+      "bottom": 97.8,
+      "confidence": 96.734489,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "waters",
+      "x0": 177.6,
+      "top": 90.6,
+      "x1": 208.79999999999998,
+      "bottom": 97.8,
+      "confidence": 96.486961,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "and",
+      "x0": 212.4,
+      "top": 89.7,
+      "x1": 229.20000000000002,
+      "bottom": 97.8,
+      "confidence": 96.637886,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "the",
+      "x0": 233.1,
+      "top": 89.7,
+      "x1": 247.2,
+      "bottom": 97.8,
+      "confidence": 96.483345,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "air",
+      "x0": 251.1,
+      "top": 90.0,
+      "x1": 262.5,
+      "bottom": 97.8,
+      "confidence": 95.431725,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "space",
+      "x0": 265.8,
+      "top": 91.8,
+      "x1": 293.7,
+      "bottom": 99.6,
+      "confidence": 96.214912,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "above",
+      "x0": 297.59999999999997,
+      "top": 89.7,
+      "x1": 325.79999999999995,
+      "bottom": 97.8,
+      "confidence": 96.289284,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "them.",
+      "x0": 329.4,
+      "top": 89.7,
+      "x1": 355.2,
+      "bottom": 97.8,
+      "confidence": 96.520073,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

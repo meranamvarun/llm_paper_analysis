@@ -1,0 +1,1204 @@
+{
+  "pdf_page": 245,
+  "crop_top": 542.0919999999999,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "71. Which of the following statements is true regarding ‘arrest’ and ‘custody’?",
+      "bbox": [
+        72.6,
+        4.2,
+        450.9,
+        15.3
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "(A) In every custody, there is arrest but not vice versa, and both the words ‘custody’ and",
+      "bbox": [
+        100.5,
+        21.9,
+        522.3,
+        33.0
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "‘arrest’ are not synonymous terms.",
+      "bbox": [
+        122.69999999999999,
+        36.6,
+        288.6,
+        47.4
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(B) Inevery custody, there is arrest but not vice versa, and both the words ‘custody’ and",
+      "bbox": [
+        100.5,
+        53.699999999999996,
+        522.6,
+        64.8
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "‘arrest’ are interchangeable terms.",
+      "bbox": [
+        122.69999999999999,
+        67.5,
+        285.0,
+        78.6
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "(C) Inevery arrest, there is custody but not vice versa, and both the words ‘custody’ and",
+      "bbox": [
+        100.5,
+        84.89999999999999,
+        522.3,
+        96.0
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "‘arrest’ are not synonymous terms.",
+      "bbox": [
+        122.69999999999999,
+        99.89999999999999,
+        288.6,
+        110.69999999999999
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "(D) In every arrest, there is custody but not vice versa, and both the words ‘custody’ and",
+      "bbox": [
+        100.5,
+        117.0,
+        522.9,
+        128.1
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "‘arrest’ are interchangeable terms.",
+      "bbox": [
+        122.69999999999999,
+        130.5,
+        285.0,
+        141.6
+      ]
+    },
+    {
+      "line_id": "l0009",
+      "text": "CORRECT OPTION: C",
+      "bbox": [
+        72.3,
+        148.5,
+        197.4,
+        157.2
+      ]
+    }
+  ],
+  "text": "71. Which of the following statements is true regarding ‘arrest’ and ‘custody’?\n(A) In every custody, there is arrest but not vice versa, and both the words ‘custody’ and\n‘arrest’ are not synonymous terms.\n(B) Inevery custody, there is arrest but not vice versa, and both the words ‘custody’ and\n‘arrest’ are interchangeable terms.\n(C) Inevery arrest, there is custody but not vice versa, and both the words ‘custody’ and\n‘arrest’ are not synonymous terms.\n(D) In every arrest, there is custody but not vice versa, and both the words ‘custody’ and\n‘arrest’ are interchangeable terms.\nCORRECT OPTION: C",
+  "ocr_words": [
+    {
+      "text": "71.",
+      "x0": 72.6,
+      "top": 4.5,
+      "x1": 84.89999999999999,
+      "bottom": 12.9,
+      "confidence": 92.194016,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Which",
+      "x0": 93.89999999999999,
+      "top": 4.2,
+      "x1": 125.69999999999999,
+      "bottom": 12.600000000000001,
+      "confidence": 92.194016,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 128.7,
+      "top": 4.2,
+      "x1": 139.79999999999998,
+      "bottom": 12.600000000000001,
+      "confidence": 96.87191,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 142.2,
+      "top": 4.2,
+      "x1": 156.29999999999998,
+      "bottom": 12.600000000000001,
+      "confidence": 97.012886,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 159.6,
+      "top": 4.2,
+      "x1": 207.0,
+      "bottom": 15.3,
+      "confidence": 96.541367,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "statements",
+      "x0": 210.0,
+      "top": 5.3999999999999995,
+      "x1": 259.8,
+      "bottom": 12.599999999999998,
+      "confidence": 96.785728,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 263.09999999999997,
+      "top": 4.2,
+      "x1": 270.29999999999995,
+      "bottom": 12.600000000000001,
+      "confidence": 96.968994,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "true",
+      "x0": 273.59999999999997,
+      "top": 5.3999999999999995,
+      "x1": 291.59999999999997,
+      "bottom": 12.599999999999998,
+      "confidence": 96.438721,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "regarding",
+      "x0": 294.9,
+      "top": 4.2,
+      "x1": 340.5,
+      "bottom": 15.3,
+      "confidence": 96.92321,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "‘arrest’",
+      "x0": 343.8,
+      "top": 4.5,
+      "x1": 376.2,
+      "bottom": 12.6,
+      "confidence": 95.277817,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 380.09999999999997,
+      "top": 4.2,
+      "x1": 397.49999999999994,
+      "bottom": 12.600000000000001,
+      "confidence": 96.977654,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "‘custody’?",
+      "x0": 401.7,
+      "top": 4.2,
+      "x1": 450.9,
+      "bottom": 15.3,
+      "confidence": 94.125076,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 100.5,
+      "top": 21.9,
+      "x1": 113.7,
+      "bottom": 32.699999999999996,
+      "confidence": 96.763168,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "In",
+      "x0": 122.1,
+      "top": 22.2,
+      "x1": 131.4,
+      "bottom": 30.299999999999997,
+      "confidence": 59.815937,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "every",
+      "x0": 134.7,
+      "top": 24.9,
+      "x1": 161.7,
+      "bottom": 33.0,
+      "confidence": 59.815937,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "custody,",
+      "x0": 165.0,
+      "top": 21.9,
+      "x1": 204.9,
+      "bottom": 33.0,
+      "confidence": 96.528206,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "there",
+      "x0": 208.5,
+      "top": 21.9,
+      "x1": 231.9,
+      "bottom": 30.299999999999997,
+      "confidence": 96.861732,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "is",
+      "x0": 235.5,
+      "top": 21.9,
+      "x1": 242.7,
+      "bottom": 30.299999999999997,
+      "confidence": 96.921181,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "arrest",
+      "x0": 246.0,
+      "top": 23.099999999999998,
+      "x1": 272.1,
+      "bottom": 30.299999999999997,
+      "confidence": 96.882202,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "but",
+      "x0": 274.8,
+      "top": 21.9,
+      "x1": 289.8,
+      "bottom": 30.299999999999997,
+      "confidence": 96.949783,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "not",
+      "x0": 292.5,
+      "top": 23.099999999999998,
+      "x1": 308.1,
+      "bottom": 30.299999999999997,
+      "confidence": 96.234726,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "vice",
+      "x0": 310.8,
+      "top": 21.9,
+      "x1": 330.3,
+      "bottom": 30.299999999999997,
+      "confidence": 96.506416,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "versa,",
+      "x0": 333.59999999999997,
+      "top": 24.9,
+      "x1": 361.2,
+      "bottom": 32.099999999999994,
+      "confidence": 96.86911,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "and",
+      "x0": 364.8,
+      "top": 21.9,
+      "x1": 381.90000000000003,
+      "bottom": 30.299999999999997,
+      "confidence": 96.703255,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "both",
+      "x0": 384.59999999999997,
+      "top": 21.9,
+      "x1": 405.9,
+      "bottom": 30.299999999999997,
+      "confidence": 96.466736,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 408.9,
+      "top": 21.9,
+      "x1": 423.0,
+      "bottom": 30.299999999999997,
+      "confidence": 96.389542,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "words",
+      "x0": 426.0,
+      "top": 21.9,
+      "x1": 455.1,
+      "bottom": 30.299999999999997,
+      "confidence": 96.535362,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "‘custody’",
+      "x0": 459.0,
+      "top": 21.9,
+      "x1": 502.2,
+      "bottom": 33.0,
+      "confidence": 96.116417,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "and",
+      "x0": 506.09999999999997,
+      "top": 21.9,
+      "x1": 522.3,
+      "bottom": 30.299999999999997,
+      "confidence": 96.812134,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "‘arrest’",
+      "x0": 122.69999999999999,
+      "top": 36.6,
+      "x1": 155.1,
+      "bottom": 44.7,
+      "confidence": 90.865051,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "are",
+      "x0": 159.0,
+      "top": 39.3,
+      "x1": 173.1,
+      "bottom": 44.699999999999996,
+      "confidence": 96.67717,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "not",
+      "x0": 176.1,
+      "top": 37.8,
+      "x1": 191.7,
+      "bottom": 44.699999999999996,
+      "confidence": 96.19001,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "synonymous",
+      "x0": 195.0,
+      "top": 39.3,
+      "x1": 256.5,
+      "bottom": 47.4,
+      "confidence": 96.286095,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "terms.",
+      "x0": 259.8,
+      "top": 37.5,
+      "x1": 288.6,
+      "bottom": 44.7,
+      "confidence": 96.858604,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(B)",
+      "x0": 100.5,
+      "top": 53.699999999999996,
+      "x1": 113.1,
+      "bottom": 64.5,
+      "confidence": 91.306152,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Inevery",
+      "x0": 122.1,
+      "top": 54.0,
+      "x1": 161.7,
+      "bottom": 64.8,
+      "confidence": 91.306152,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "custody,",
+      "x0": 165.0,
+      "top": 53.699999999999996,
+      "x1": 204.9,
+      "bottom": 64.8,
+      "confidence": 96.473907,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "there",
+      "x0": 208.5,
+      "top": 53.699999999999996,
+      "x1": 231.9,
+      "bottom": 62.099999999999994,
+      "confidence": 96.614571,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "is",
+      "x0": 235.5,
+      "top": 53.699999999999996,
+      "x1": 242.7,
+      "bottom": 62.099999999999994,
+      "confidence": 96.847336,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "arrest",
+      "x0": 246.0,
+      "top": 54.9,
+      "x1": 272.1,
+      "bottom": 62.099999999999994,
+      "confidence": 96.947876,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "but",
+      "x0": 274.8,
+      "top": 53.699999999999996,
+      "x1": 289.8,
+      "bottom": 62.099999999999994,
+      "confidence": 96.889229,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "not",
+      "x0": 292.5,
+      "top": 54.9,
+      "x1": 308.1,
+      "bottom": 62.099999999999994,
+      "confidence": 96.27906,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "vice",
+      "x0": 311.09999999999997,
+      "top": 53.699999999999996,
+      "x1": 330.9,
+      "bottom": 62.099999999999994,
+      "confidence": 96.27906,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "versa,",
+      "x0": 334.2,
+      "top": 56.699999999999996,
+      "x1": 361.5,
+      "bottom": 63.89999999999999,
+      "confidence": 96.967896,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "and",
+      "x0": 365.4,
+      "top": 53.699999999999996,
+      "x1": 382.2,
+      "bottom": 62.099999999999994,
+      "confidence": 96.868683,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "both",
+      "x0": 385.2,
+      "top": 53.699999999999996,
+      "x1": 406.2,
+      "bottom": 62.099999999999994,
+      "confidence": 96.855957,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "the",
+      "x0": 409.2,
+      "top": 53.699999999999996,
+      "x1": 423.59999999999997,
+      "bottom": 62.099999999999994,
+      "confidence": 96.464226,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "words",
+      "x0": 426.59999999999997,
+      "top": 53.699999999999996,
+      "x1": 455.4,
+      "bottom": 62.099999999999994,
+      "confidence": 96.71064,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "‘custody’",
+      "x0": 459.59999999999997,
+      "top": 53.699999999999996,
+      "x1": 502.49999999999994,
+      "bottom": 64.8,
+      "confidence": 90.295593,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "and",
+      "x0": 506.7,
+      "top": 53.699999999999996,
+      "x1": 522.6,
+      "bottom": 62.099999999999994,
+      "confidence": 96.253441,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "‘arrest’",
+      "x0": 122.69999999999999,
+      "top": 67.8,
+      "x1": 155.1,
+      "bottom": 75.89999999999999,
+      "confidence": 83.404221,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "are",
+      "x0": 159.6,
+      "top": 70.5,
+      "x1": 173.7,
+      "bottom": 75.9,
+      "confidence": 96.615395,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "interchangeable",
+      "x0": 177.29999999999998,
+      "top": 67.5,
+      "x1": 254.09999999999997,
+      "bottom": 78.6,
+      "confidence": 95.978416,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "terms.",
+      "x0": 256.5,
+      "top": 68.7,
+      "x1": 285.0,
+      "bottom": 75.9,
+      "confidence": 95.978416,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "(C)",
+      "x0": 100.5,
+      "top": 84.89999999999999,
+      "x1": 113.1,
+      "bottom": 95.69999999999999,
+      "confidence": 66.827156,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Inevery",
+      "x0": 122.1,
+      "top": 85.2,
+      "x1": 161.7,
+      "bottom": 96.0,
+      "confidence": 91.320213,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "arrest,",
+      "x0": 165.0,
+      "top": 86.1,
+      "x1": 193.8,
+      "bottom": 95.1,
+      "confidence": 96.76239,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "there",
+      "x0": 197.1,
+      "top": 84.89999999999999,
+      "x1": 220.5,
+      "bottom": 93.3,
+      "confidence": 96.986847,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "is",
+      "x0": 224.1,
+      "top": 84.89999999999999,
+      "x1": 231.29999999999998,
+      "bottom": 93.3,
+      "confidence": 96.713531,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "custody",
+      "x0": 234.6,
+      "top": 84.89999999999999,
+      "x1": 271.8,
+      "bottom": 95.99999999999999,
+      "confidence": 96.713531,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "but",
+      "x0": 274.5,
+      "top": 84.89999999999999,
+      "x1": 289.5,
+      "bottom": 93.3,
+      "confidence": 96.994377,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "not",
+      "x0": 292.2,
+      "top": 86.1,
+      "x1": 307.8,
+      "bottom": 93.3,
+      "confidence": 96.975273,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "vice",
+      "x0": 310.5,
+      "top": 84.89999999999999,
+      "x1": 330.3,
+      "bottom": 93.3,
+      "confidence": 96.566734,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "versa,",
+      "x0": 333.59999999999997,
+      "top": 87.89999999999999,
+      "x1": 360.9,
+      "bottom": 95.1,
+      "confidence": 96.480042,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "and",
+      "x0": 364.8,
+      "top": 84.89999999999999,
+      "x1": 381.6,
+      "bottom": 93.3,
+      "confidence": 96.873459,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "both",
+      "x0": 384.59999999999997,
+      "top": 84.89999999999999,
+      "x1": 405.9,
+      "bottom": 93.3,
+      "confidence": 96.76181,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "the",
+      "x0": 408.9,
+      "top": 84.89999999999999,
+      "x1": 423.0,
+      "bottom": 93.3,
+      "confidence": 96.981758,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "words",
+      "x0": 426.0,
+      "top": 84.89999999999999,
+      "x1": 454.8,
+      "bottom": 93.3,
+      "confidence": 96.906136,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "‘custody’",
+      "x0": 459.0,
+      "top": 84.89999999999999,
+      "x1": 502.2,
+      "bottom": 95.99999999999999,
+      "confidence": 96.200287,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "and",
+      "x0": 506.09999999999997,
+      "top": 84.89999999999999,
+      "x1": 522.3,
+      "bottom": 93.3,
+      "confidence": 96.848259,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "‘arrest’",
+      "x0": 122.69999999999999,
+      "top": 99.89999999999999,
+      "x1": 155.1,
+      "bottom": 107.99999999999999,
+      "confidence": 90.865051,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "are",
+      "x0": 159.0,
+      "top": 102.6,
+      "x1": 173.1,
+      "bottom": 108.0,
+      "confidence": 96.67717,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "not",
+      "x0": 176.1,
+      "top": 101.1,
+      "x1": 191.7,
+      "bottom": 108.0,
+      "confidence": 96.19001,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "synonymous",
+      "x0": 195.0,
+      "top": 102.6,
+      "x1": 256.5,
+      "bottom": 110.69999999999999,
+      "confidence": 96.286095,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "terms.",
+      "x0": 259.8,
+      "top": 100.8,
+      "x1": 288.6,
+      "bottom": 108.0,
+      "confidence": 96.858604,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "(D)",
+      "x0": 100.5,
+      "top": 117.0,
+      "x1": 113.7,
+      "bottom": 127.8,
+      "confidence": 92.042114,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "In",
+      "x0": 122.1,
+      "top": 117.3,
+      "x1": 131.4,
+      "bottom": 125.39999999999999,
+      "confidence": 76.919075,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "every",
+      "x0": 134.7,
+      "top": 120.0,
+      "x1": 161.7,
+      "bottom": 128.1,
+      "confidence": 76.919075,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "arrest,",
+      "x0": 165.0,
+      "top": 118.19999999999999,
+      "x1": 193.8,
+      "bottom": 127.19999999999999,
+      "confidence": 96.574226,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "there",
+      "x0": 197.1,
+      "top": 117.0,
+      "x1": 220.5,
+      "bottom": 125.4,
+      "confidence": 96.74128,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "is",
+      "x0": 223.79999999999998,
+      "top": 117.0,
+      "x1": 231.29999999999998,
+      "bottom": 125.4,
+      "confidence": 96.865028,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "custody",
+      "x0": 234.6,
+      "top": 117.0,
+      "x1": 271.8,
+      "bottom": 128.1,
+      "confidence": 96.578362,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "but",
+      "x0": 274.5,
+      "top": 117.0,
+      "x1": 289.5,
+      "bottom": 125.4,
+      "confidence": 96.624458,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "not",
+      "x0": 292.2,
+      "top": 118.19999999999999,
+      "x1": 307.8,
+      "bottom": 125.39999999999999,
+      "confidence": 95.953819,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "vice",
+      "x0": 310.5,
+      "top": 117.0,
+      "x1": 330.3,
+      "bottom": 125.4,
+      "confidence": 96.749641,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "versa,",
+      "x0": 334.2,
+      "top": 120.0,
+      "x1": 361.5,
+      "bottom": 127.2,
+      "confidence": 96.976097,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "and",
+      "x0": 365.4,
+      "top": 117.0,
+      "x1": 382.2,
+      "bottom": 125.4,
+      "confidence": 96.914093,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "both",
+      "x0": 385.2,
+      "top": 117.0,
+      "x1": 406.2,
+      "bottom": 125.4,
+      "confidence": 97.000793,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "the",
+      "x0": 409.2,
+      "top": 117.0,
+      "x1": 423.59999999999997,
+      "bottom": 125.4,
+      "confidence": 96.101898,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "words",
+      "x0": 426.59999999999997,
+      "top": 117.0,
+      "x1": 455.4,
+      "bottom": 125.4,
+      "confidence": 96.513855,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "‘custody’",
+      "x0": 459.59999999999997,
+      "top": 117.0,
+      "x1": 502.79999999999995,
+      "bottom": 128.1,
+      "confidence": 95.088425,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "and",
+      "x0": 506.7,
+      "top": 117.0,
+      "x1": 522.9,
+      "bottom": 125.4,
+      "confidence": 96.889961,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "‘arrest’",
+      "x0": 122.69999999999999,
+      "top": 130.79999999999998,
+      "x1": 155.1,
+      "bottom": 138.89999999999998,
+      "confidence": 83.404221,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "9"
+    },
+    {
+      "text": "are",
+      "x0": 159.6,
+      "top": 133.5,
+      "x1": 173.7,
+      "bottom": 138.9,
+      "confidence": 96.615395,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "9"
+    },
+    {
+      "text": "interchangeable",
+      "x0": 177.29999999999998,
+      "top": 130.5,
+      "x1": 254.09999999999997,
+      "bottom": 141.6,
+      "confidence": 95.978416,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "9"
+    },
+    {
+      "text": "terms.",
+      "x0": 256.5,
+      "top": 131.7,
+      "x1": 285.0,
+      "bottom": 138.89999999999998,
+      "confidence": 95.978416,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "9"
+    },
+    {
+      "text": "CORRECT",
+      "x0": 72.3,
+      "top": 148.5,
+      "x1": 131.7,
+      "bottom": 157.2,
+      "confidence": 96.718613,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "10"
+    },
+    {
+      "text": "OPTION:",
+      "x0": 135.29999999999998,
+      "top": 148.5,
+      "x1": 185.39999999999998,
+      "bottom": 157.2,
+      "confidence": 93.296898,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "10"
+    },
+    {
+      "text": "C",
+      "x0": 189.9,
+      "top": 148.5,
+      "x1": 197.4,
+      "bottom": 157.2,
+      "confidence": 91.953613,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "10"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

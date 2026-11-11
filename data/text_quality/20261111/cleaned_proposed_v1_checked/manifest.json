@@ -1,0 +1,32 @@
+{
+  "inputs": {
+    "data\\text_quality\\20261111\\luna_2016_2018\\review.jsonl": "6ebe6aafebf95ddbf8688d91b592f30101993b59664f2a33aece1b4d36cfcd98",
+    "data\\text_quality\\20261111\\luna_2019_2022\\review.jsonl": "55b62410436a3ea082e4634118b14e3cc622a7d9c628c43c21af4f20e5977824",
+    "data\\text_quality\\20261111\\luna_2023_2026\\review.jsonl": "873f7a63a7db1905f42495f3737dd249a2b3c72392b3d9796d269a63e0995083",
+    "data\\text_quality\\20261111\\ascii_supplement\\luna_2016_2018\\review.jsonl": "7a118f77903a3e0fc7ea60e768f992d4e285063b247379bc3777853536fa0b7b",
+    "data\\text_quality\\20261111\\ascii_supplement\\luna_2019_2022\\review.jsonl": "bde3dd4b3f884599dd18223d11b846c6185f1071e76200509dd56139ce75875e",
+    "data\\text_quality\\20261111\\ascii_supplement\\luna_2023_2026\\review.jsonl": "5378743367bd4bac8d82546d8a3e9eecad6fced4215b81b63b4e28f04e0a6a46",
+    "data\\text_quality\\20261111\\screening\\questions.jsonl": "a93571e07898306230746a19f403bb77cda2e5c127245c083fceae88e1bc08cc",
+    "data\\text_quality\\20261111\\screening\\flags.jsonl": "354b5c6e4d8283ad16ee33f1d39ea697141ec76f4b622eb7ac29ee20f239c37f",
+    "data\\text_quality\\20261111\\ascii_supplement\\flags.jsonl": "cf27ebb9f6a55dce922fc96ea6c6f88c9a3f58b3b6314009d77f226c2d2a05a1",
+    "data\\text_quality\\20261111\\parent_qa\\overrides.jsonl": "efda8a577dad52b9b4bd8a4759087d64de584e534cb8d86e793900a3c8cd28f4",
+    "question_paper (1).pdf": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b",
+    "C:\\Users\\malai\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\wordfreq\\data\\large_en.msgpack.gz": "dffae8066b78dce0a6667cf5f58e567054f902674667090a7ac8a8a44628b05c"
+  },
+  "outputs": {
+    "benchmark_result.json": "dc831569bff26c09794eccde0d2a9cd00604df28b5834ab10cd0b401625919fc",
+    "changes.jsonl": "f74c4d9c47e85ee98213adfe4a62ec3aec7f87f3b18820447560932b0bfedd22",
+    "cleaned_questions.jsonl": "9cc02f9a50aa2ed8fe0cdb3b40db8767804c3911cf8dab01ad63c56b52dcc72b",
+    "flags.jsonl": "082ddad57468e444b2fe1ab57776efe039cac8801fe4986dfea2be5e56a16f3b",
+    "luna_reviews_with_parent_qa.jsonl": "690088152a5fe3e8c573e18d978478562caea2d6687abdfea18091ab305f4d8e",
+    "quality_scorecard.json": "3a7a3b50a9042cb0e30d0e2206d1772b894830501aa7e1151ed20adcb82652ab",
+    "questions.jsonl": "10a6858f26ed837df381e5617bdae1703c2d315a964c4ee30c5e420961af4bb7",
+    "residual_flags.jsonl": "6760b94719f155418b4ea5c5dcaf19bd503fe70ce9323db3baf8379811cf336c"
+  },
+  "code_hashes": {
+    "C:\\Users\\malai\\varun_code\\llm_paper_analysis\\data\\text_quality\\20261111\\integrate.py": "77ade49c31469a0560a0450e80867ce2fbf30334eee24195b7f2883418a6f6cf",
+    "extraction\\quality.py": "03cbd53456de4f3b94b87d4526fd3dac432313e79070bcb9849c550db7a631ab",
+    "extraction\\benchmark.py": "256d0efc547cb2857c3ee6eb698c35d57412b637d3193e4d8ef8b66a0927c7b3"
+  },
+  "status": "AI_PROPOSALS_NOT_HUMAN_GOLD"
+}

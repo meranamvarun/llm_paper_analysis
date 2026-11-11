@@ -1,0 +1,896 @@
+{
+  "pdf_page": 431,
+  "crop_top": 432.59999999999997,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Question Number : 144 Question Id : 461139516 Question Type : MCQ Option Shuffling : Yes Display Question Number : Yes",
+      "bbox": [
+        37.8,
+        3.3,
+        553.8,
+        11.7
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Single Line Question Option : No Option Orientation : Vertical",
+      "bbox": [
+        37.8,
+        12.6,
+        293.1,
+        21.0
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "Correct : 1 Wrong: 0.25",
+      "bbox": [
+        37.8,
+        25.8,
+        137.7,
+        33.9
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "Which one of the following is not a principal Organ of UNO?",
+      "bbox": [
+        37.5,
+        38.1,
+        326.7,
+        48.6
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "Options :",
+      "bbox": [
+        37.8,
+        55.5,
+        73.5,
+        63.6
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "1. ® International Court of Justice",
+      "bbox": [
+        38.699999999999996,
+        67.8,
+        204.3,
+        79.2
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "2. ®% Economic and Social Council",
+      "bbox": [
+        38.1,
+        85.8,
+        201.29999999999998,
+        95.39999999999999
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "A+",
+      "bbox": [
+        49.199999999999996,
+        102.3,
+        60.599999999999994,
+        116.69999999999999
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "3. International Crirmnal Court",
+      "bbox": [
+        38.1,
+        105.89999999999999,
+        200.7,
+        113.39999999999999
+      ]
+    },
+    {
+      "line_id": "l0009",
+      "text": "4. * Trusteeship Council",
+      "bbox": [
+        38.1,
+        121.8,
+        159.6,
+        133.5
+      ]
+    }
+  ],
+  "text": "Question Number : 144 Question Id : 461139516 Question Type : MCQ Option Shuffling : Yes Display Question Number : Yes\nSingle Line Question Option : No Option Orientation : Vertical\nCorrect : 1 Wrong: 0.25\nWhich one of the following is not a principal Organ of UNO?\nOptions :\n1. ® International Court of Justice\n2. ®% Economic and Social Council\nA+\n3. International Crirmnal Court\n4. * Trusteeship Council",
+  "ocr_words": [
+    {
+      "text": "Question",
+      "x0": 37.8,
+      "top": 3.3,
+      "x1": 72.9,
+      "bottom": 11.399999999999999,
+      "confidence": 95.910919,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Number",
+      "x0": 75.89999999999999,
+      "top": 3.3,
+      "x1": 109.19999999999999,
+      "bottom": 9.899999999999999,
+      "confidence": 92.502708,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 112.5,
+      "top": 5.1,
+      "x1": 113.7,
+      "bottom": 9.899999999999999,
+      "confidence": 92.502708,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "144",
+      "x0": 117.89999999999999,
+      "top": 3.3,
+      "x1": 130.5,
+      "bottom": 9.6,
+      "confidence": 95.515236,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Question",
+      "x0": 136.5,
+      "top": 3.3,
+      "x1": 171.3,
+      "bottom": 11.399999999999999,
+      "confidence": 96.929848,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Id",
+      "x0": 174.6,
+      "top": 3.3,
+      "x1": 183.0,
+      "bottom": 9.899999999999999,
+      "confidence": 91.960602,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 186.29999999999998,
+      "top": 5.1,
+      "x1": 187.49999999999997,
+      "bottom": 9.899999999999999,
+      "confidence": 89.129913,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "461139516",
+      "x0": 191.1,
+      "top": 3.3,
+      "x1": 233.1,
+      "bottom": 9.899999999999999,
+      "confidence": 96.733963,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Question",
+      "x0": 238.5,
+      "top": 3.3,
+      "x1": 273.6,
+      "bottom": 11.399999999999999,
+      "confidence": 96.378586,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Type",
+      "x0": 276.9,
+      "top": 3.3,
+      "x1": 296.4,
+      "bottom": 11.7,
+      "confidence": 84.726402,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 300.9,
+      "top": 5.1,
+      "x1": 301.2,
+      "bottom": 9.899999999999999,
+      "confidence": 84.726402,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "MCQ",
+      "x0": 304.8,
+      "top": 3.3,
+      "x1": 327.0,
+      "bottom": 11.399999999999999,
+      "confidence": 92.121262,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Option",
+      "x0": 332.7,
+      "top": 3.3,
+      "x1": 360.0,
+      "bottom": 11.7,
+      "confidence": 92.838852,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Shuffling",
+      "x0": 363.59999999999997,
+      "top": 3.3,
+      "x1": 399.59999999999997,
+      "bottom": 11.7,
+      "confidence": 91.128387,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 403.8,
+      "top": 5.1,
+      "x1": 404.40000000000003,
+      "bottom": 9.899999999999999,
+      "confidence": 87.935379,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Yes",
+      "x0": 408.0,
+      "top": 3.3,
+      "x1": 422.1,
+      "bottom": 9.899999999999999,
+      "confidence": 96.379112,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Display",
+      "x0": 427.5,
+      "top": 3.3,
+      "x1": 457.2,
+      "bottom": 11.7,
+      "confidence": 96.382202,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Question",
+      "x0": 460.5,
+      "top": 3.3,
+      "x1": 495.3,
+      "bottom": 11.399999999999999,
+      "confidence": 96.382202,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Number",
+      "x0": 498.59999999999997,
+      "top": 3.3,
+      "x1": 531.5999999999999,
+      "bottom": 9.899999999999999,
+      "confidence": 93.117676,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 534.9,
+      "top": 5.1,
+      "x1": 536.1,
+      "bottom": 9.899999999999999,
+      "confidence": 92.544853,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Yes",
+      "x0": 539.6999999999999,
+      "top": 3.3,
+      "x1": 553.8,
+      "bottom": 9.899999999999999,
+      "confidence": 96.920753,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Single",
+      "x0": 37.8,
+      "top": 12.6,
+      "x1": 61.5,
+      "bottom": 21.0,
+      "confidence": 96.149612,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Line",
+      "x0": 64.5,
+      "top": 12.6,
+      "x1": 82.2,
+      "bottom": 19.2,
+      "confidence": 96.951805,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Question",
+      "x0": 85.5,
+      "top": 12.6,
+      "x1": 120.3,
+      "bottom": 20.7,
+      "confidence": 96.510201,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Option",
+      "x0": 123.89999999999999,
+      "top": 12.6,
+      "x1": 150.89999999999998,
+      "bottom": 21.0,
+      "confidence": 91.177933,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": ":",
+      "x0": 155.4,
+      "top": 14.399999999999999,
+      "x1": 156.0,
+      "bottom": 19.2,
+      "confidence": 91.03447,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "No",
+      "x0": 159.6,
+      "top": 12.6,
+      "x1": 170.4,
+      "bottom": 19.2,
+      "confidence": 95.945023,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Option",
+      "x0": 176.1,
+      "top": 12.6,
+      "x1": 203.4,
+      "bottom": 21.0,
+      "confidence": 96.671669,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Orientation",
+      "x0": 206.7,
+      "top": 12.6,
+      "x1": 252.6,
+      "bottom": 19.2,
+      "confidence": 92.881668,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": ":",
+      "x0": 256.5,
+      "top": 14.399999999999999,
+      "x1": 257.7,
+      "bottom": 19.2,
+      "confidence": 70.958138,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Vertical",
+      "x0": 261.3,
+      "top": 12.6,
+      "x1": 293.1,
+      "bottom": 19.2,
+      "confidence": 96.965591,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Correct",
+      "x0": 37.8,
+      "top": 25.8,
+      "x1": 68.39999999999999,
+      "bottom": 32.4,
+      "confidence": 81.015045,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 72.0,
+      "top": 27.599999999999998,
+      "x1": 73.2,
+      "bottom": 32.4,
+      "confidence": 75.356438,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1",
+      "x0": 78.89999999999999,
+      "top": 25.8,
+      "x1": 80.39999999999999,
+      "bottom": 32.1,
+      "confidence": 94.640106,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Wrong:",
+      "x0": 86.1,
+      "top": 25.8,
+      "x1": 118.5,
+      "bottom": 33.9,
+      "confidence": 79.069183,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "0.25",
+      "x0": 122.39999999999999,
+      "top": 25.8,
+      "x1": 137.7,
+      "bottom": 32.4,
+      "confidence": 96.572304,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Which",
+      "x0": 37.5,
+      "top": 39.0,
+      "x1": 66.9,
+      "bottom": 46.5,
+      "confidence": 84.586578,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "one",
+      "x0": 70.5,
+      "top": 40.5,
+      "x1": 87.0,
+      "bottom": 46.5,
+      "confidence": 96.461098,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 90.6,
+      "top": 38.1,
+      "x1": 100.8,
+      "bottom": 46.5,
+      "confidence": 96.798195,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 103.5,
+      "top": 39.0,
+      "x1": 117.9,
+      "bottom": 46.5,
+      "confidence": 96.166603,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 122.1,
+      "top": 38.1,
+      "x1": 165.6,
+      "bottom": 48.6,
+      "confidence": 96.659592,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 168.9,
+      "top": 39.0,
+      "x1": 176.4,
+      "bottom": 46.5,
+      "confidence": 96.894989,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "not",
+      "x0": 179.7,
+      "top": 39.6,
+      "x1": 195.0,
+      "bottom": 46.5,
+      "confidence": 96.737236,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 198.29999999999998,
+      "top": 40.5,
+      "x1": 203.7,
+      "bottom": 46.5,
+      "confidence": 96.740799,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "principal",
+      "x0": 207.0,
+      "top": 39.0,
+      "x1": 249.6,
+      "bottom": 48.6,
+      "confidence": 95.70549,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Organ",
+      "x0": 253.2,
+      "top": 39.0,
+      "x1": 282.59999999999997,
+      "bottom": 48.6,
+      "confidence": 95.70549,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 286.2,
+      "top": 38.1,
+      "x1": 296.4,
+      "bottom": 46.5,
+      "confidence": 96.474609,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "UNO?",
+      "x0": 299.09999999999997,
+      "top": 39.0,
+      "x1": 326.7,
+      "bottom": 46.5,
+      "confidence": 95.771942,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Options",
+      "x0": 37.8,
+      "top": 55.5,
+      "x1": 68.69999999999999,
+      "bottom": 63.6,
+      "confidence": 93.303955,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 72.3,
+      "top": 57.3,
+      "x1": 73.5,
+      "bottom": 62.099999999999994,
+      "confidence": 87.803024,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1.",
+      "x0": 38.699999999999996,
+      "top": 70.2,
+      "x1": 45.3,
+      "bottom": 77.7,
+      "confidence": 92.889259,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "®",
+      "x0": 51.6,
+      "top": 67.8,
+      "x1": 58.2,
+      "bottom": 74.7,
+      "confidence": 59.049484,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "International",
+      "x0": 63.9,
+      "top": 70.2,
+      "x1": 126.0,
+      "bottom": 77.7,
+      "confidence": 96.214035,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Court",
+      "x0": 129.29999999999998,
+      "top": 70.2,
+      "x1": 155.99999999999997,
+      "bottom": 77.7,
+      "confidence": 96.782898,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 159.6,
+      "top": 69.3,
+      "x1": 169.79999999999998,
+      "bottom": 77.7,
+      "confidence": 96.711327,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Justice",
+      "x0": 172.5,
+      "top": 70.2,
+      "x1": 204.3,
+      "bottom": 79.2,
+      "confidence": 96.960312,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2.",
+      "x0": 38.1,
+      "top": 87.89999999999999,
+      "x1": 45.3,
+      "bottom": 95.39999999999999,
+      "confidence": 88.835938,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "®%",
+      "x0": 51.6,
+      "top": 85.8,
+      "x1": 58.2,
+      "bottom": 92.39999999999999,
+      "confidence": 17.252571,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Economic",
+      "x0": 63.9,
+      "top": 87.89999999999999,
+      "x1": 109.5,
+      "bottom": 95.39999999999999,
+      "confidence": 95.492828,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 112.8,
+      "top": 87.89999999999999,
+      "x1": 130.8,
+      "bottom": 95.39999999999999,
+      "confidence": 96.454544,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Social",
+      "x0": 135.0,
+      "top": 87.89999999999999,
+      "x1": 161.7,
+      "bottom": 95.39999999999999,
+      "confidence": 96.454544,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Council",
+      "x0": 165.29999999999998,
+      "top": 87.89999999999999,
+      "x1": 201.29999999999998,
+      "bottom": 95.39999999999999,
+      "confidence": 96.018005,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "3.",
+      "x0": 38.1,
+      "top": 105.89999999999999,
+      "x1": 45.3,
+      "bottom": 113.39999999999999,
+      "confidence": 83.010002,
+      "ocr_block": "1",
+      "ocr_paragraph": "7",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A+",
+      "x0": 49.199999999999996,
+      "top": 102.3,
+      "x1": 60.599999999999994,
+      "bottom": 116.69999999999999,
+      "confidence": 36.93782,
+      "ocr_block": "1",
+      "ocr_paragraph": "7",
+      "ocr_line": "1"
+    },
+    {
+      "text": "International",
+      "x0": 63.9,
+      "top": 105.89999999999999,
+      "x1": 126.0,
+      "bottom": 113.39999999999999,
+      "confidence": 93.277863,
+      "ocr_block": "1",
+      "ocr_paragraph": "7",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Crirmnal",
+      "x0": 129.29999999999998,
+      "top": 105.89999999999999,
+      "x1": 170.39999999999998,
+      "bottom": 113.39999999999999,
+      "confidence": 79.329041,
+      "ocr_block": "1",
+      "ocr_paragraph": "7",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Court",
+      "x0": 174.0,
+      "top": 105.89999999999999,
+      "x1": 200.7,
+      "bottom": 113.39999999999999,
+      "confidence": 96.083298,
+      "ocr_block": "1",
+      "ocr_paragraph": "7",
+      "ocr_line": "1"
+    },
+    {
+      "text": "4.",
+      "x0": 38.1,
+      "top": 123.89999999999999,
+      "x1": 45.3,
+      "bottom": 131.39999999999998,
+      "confidence": 85.747269,
+      "ocr_block": "1",
+      "ocr_paragraph": "8",
+      "ocr_line": "1"
+    },
+    {
+      "text": "*",
+      "x0": 51.6,
+      "top": 121.8,
+      "x1": 58.2,
+      "bottom": 128.4,
+      "confidence": 25.769508,
+      "ocr_block": "1",
+      "ocr_paragraph": "8",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Trusteeship",
+      "x0": 63.9,
+      "top": 123.89999999999999,
+      "x1": 120.0,
+      "bottom": 133.5,
+      "confidence": 96.454948,
+      "ocr_block": "1",
+      "ocr_paragraph": "8",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Council",
+      "x0": 123.6,
+      "top": 123.89999999999999,
+      "x1": 159.6,
+      "bottom": 131.39999999999998,
+      "confidence": 96.836319,
+      "ocr_block": "1",
+      "ocr_paragraph": "8",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

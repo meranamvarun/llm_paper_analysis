@@ -1,0 +1,66 @@
+﻿{
+  "purpose": "Targeted reconciliation of comparison claims; original blind_observations.json, comparison.json, audit_summary.json and their contents remain unchanged.",
+  "reconciled_findings": {
+    "page_330": {
+      "visual": "Printed Q3 is visible on source image, with stem ‘How is a right different from a duty? Explain the various kinds of legal rights.’",
+      "extraction_evidence": "Frozen pages.jsonl selected OCR text for PDF page 330 is only ‘PG/2014 9 (P.T.0.)’; the Q3 stem is absent. The extracted Q2 record spanning pages 326-333 has page/footer artifacts associated with p330, but does not contain the Q3 stem.",
+      "correct_classification": "Whole-prompt OCR omission on p330, with no distinct Q3 record; do not describe as a raw-text merge of Q3 into Q2. The oversized Q2 record is a separate multi-page extraction/boundary issue whose contents do not recover Q3."
+    },
+    "reviewer_transcription": {
+      "page_question": "PDF p405 Q21 option 1",
+      "frozen_blind_text": "Video-conferencing",
+      "visual_reading": "Image appears to print ‘Vedio-conferencing’.",
+      "classification": "Possible reviewer normalization/transcription error; preserve the blind file unchanged and do not charge this discrepancy to extraction."
+    }
+  },
+  "option_findings_by_denominator": {
+    "blind_transcribed_scope": {
+      "denominator": "14 complete question items transcribed under the first-two-complete-items-per-page rule; option-bearing MCQs: 13 (p330 Q3 is short answer, no options).",
+      "items": [
+        {"pdf_page":105,"question":"19","finding":"Source has four choices. Extracted labels A, B, C, D, B split visual option D ‘Both (B) and (C)’ into D ‘Both’ and a separate B ‘and (C)’; confirmed option segmentation/label error."},
+        {"pdf_page":105,"question":"20","finding":"All four choices present; casing, punctuation and line wrapping differences only."},
+        {"pdf_page":178,"question":"91","finding":"All four choices identifiable; extracted D contains page/footer contamination. Wording shows case/layout variation; no option omission observed."},
+        {"pdf_page":305,"question":"75","finding":"Four choices present and aligned."},
+        {"pdf_page":305,"question":"76","finding":"Four choices present and aligned."},
+        {"pdf_page":449,"question":"25","finding":"Four choices present and aligned."},
+        {"pdf_page":449,"question":"26","finding":"Four choices present; A and D extracted as ‘Jus civilie’/‘Corpus civilie’ while image visually appears ‘Jus civile’/‘Corpus civile’. Possible OCR spelling discrepancy; retain for human confirmation."},
+        {"pdf_page":330,"question":"3","finding":"Short-answer item; no options expected. Q3 stem is absent from page selected OCR text; no distinct Q3 question record."},
+        {"pdf_page":339,"question":"2","finding":"Four answer choices represented; answer-mark/scan noise contaminates extracted option text and labels. No confidently established missing option from this item."},
+        {"pdf_page":339,"question":"3","finding":"Four answer choices represented; answer-mark/scan noise contaminates extracted option text and labels. Stem has spurious leading ‘4’."},
+        {"pdf_page":405,"question":"20","finding":"Four options represented, but OCR substitutions/read-order noise materially corrupts option strings."},
+        {"pdf_page":405,"question":"21","finding":"Four options represented; OCR substitutions and word-order corruption materially affect option strings. Blind source transcription has ‘Video’ for apparent printed ‘Vedio’ (reviewer discrepancy)."},
+        {"pdf_page":414,"question":"61","finding":"Source has A-D; extraction has A-C only. D ‘Austin’ is omitted."},
+        {"pdf_page":414,"question":"62","finding":"Source has A-D; extraction has A-C only. D ‘Natural Law school’ omitted; extracted C is mislabeled B, yielding duplicate B."}
+      ],
+      "confirmed_option_omissions_or_segmentation": "3 items: p105 Q19 (D split into two parsed choices), p414 Q61 (D omitted), p414 Q62 (D omitted). These are item observations, not an aggregate corpus error rate.",
+      "other_option_quality_issues": "p178 Q91 footer contamination; p339 Q2/Q3 answer-mark noise; p405 Q20/Q21 substantial OCR corruption; p449 Q26 possible spelling discrepancies."
+    },
+    "additional_boundary_only_scope": {
+      "denominator": "Additional visible questions inspected for boundary/context only; not part of the 14-item transcription denominator and not fully word-by-word compared.",
+      "items": [
+        {"pdf_page":305,"question":"77-83","finding":"Boundaries visible and extracted. Q83 option D includes footer contamination. Not counted in the transcribed-item option denominator."},
+        {"pdf_page":449,"question":"27-29","finding":"Boundaries visible and extracted; not transcribed or fully compared."},
+        {"pdf_page":449,"question":"30","finding":"Question begins on p449 and extraction spans p449-450; source image p449 cuts off after C. No omission conclusion without checking the continuation page."},
+        {"pdf_page":339,"question":"4-5","finding":"Boundaries present; not fully compared. Q6 is transcribed? No: only first two complete questions on p339 (Q2 and Q3) are in the blind transcription denominator. Q6 has only option A in extraction while source shows A-D, but this is a boundary-only option observation."},
+        {"pdf_page":339,"question":"7","finding":"Heading starts at bottom of source image; incomplete on p339. Not assessed for option completeness."},
+        {"pdf_page":405,"question":"22","finding":"Boundary present; options A-D parsed with text noise; boundary-only observation."},
+        {"pdf_page":405,"question":"23","finding":"Boundary present; extracted option labels A, B, B, D, while source image shows 1-4 corresponding A, B, C, D; duplicate B in place of C is a boundary-only option-label finding."},
+        {"pdf_page":405,"question":"24","finding":"Only first option is visible on p405 and extraction for p405 contains only first option. This is incomplete visual coverage, not a confirmed extraction omission; continuation was not checked here."},
+        {"pdf_page":414,"question":"63","finding":"Boundary present; source has A-D, extraction has A-C only; D ‘Natural Law school’? (Correction: Q63 is Coke question; omitted D is ‘Salmond’). Boundary-only confirmed option omission."},
+        {"pdf_page":414,"question":"64","finding":"Boundary present; four options extracted. Boundary-only observation."},
+        {"pdf_page":414,"question":"65","finding":"Question begins at bottom of source image and continues beyond it; extraction spans pages 414-415. Not assessed for option completeness."}
+      ],
+      "boundary_only_confirmed_option_issues": "p339 Q6: source shows A-D while extraction has only A. p405 Q23: duplicate B in place of C. p414 Q63: extraction omits option D (Salmond). p305 Q83 has footer contamination in D. p405 Q24 is explicitly excluded from confirmed option errors because the sampled image is incomplete and continuation was not checked."
+    }
+  },
+  "denominator_correction": {
+    "prior_comparison_claim": "‘option_sets_with_clear_substantive_omission_or_segmentation_issue’: 7",
+    "issue": "This count mixed the 14 blind-transcribed items with later boundary-only items and included a truncated p405 Q24 without confirmation from the next page.",
+    "reconciled": "For the 14 transcribed items, 3 have a confirmed option omission/segmentation finding (p105 Q19, p414 Q61 and Q62). In a separate boundary-only scope, confirmed observations include p339 Q6, p405 Q23, p414 Q63, plus p305 Q83 footer contamination. Exclude p405 Q24 from confirmed errors. These counts are item-level qualitative observations, not statistical rates."
+  },
+  "notes": [
+    "No new source transcriptions or extraction pipeline edits were made.",
+    "No source text was silently repaired; possible reading issues remain flagged for human review.",
+    "Question 63 on p414 is ‘Who explained customs as one of the main triangles of the laws of England?’ The visually omitted fourth option is Salmond; the erroneous phrase in the prior comparison text naming ‘Natural Law school’ is corrected here."
+  ]
+}

@@ -1,0 +1,536 @@
+{
+  "pdf_page": 79,
+  "crop_top": 589.124,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "86. What distinguishes the environmental rule of law from the broader concept of the",
+      "bbox": [
+        105.3,
+        3.5999999999999996,
+        551.4,
+        13.799999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "rule of law?",
+      "bbox": [
+        126.3,
+        17.7,
+        184.5,
+        26.1
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(A) Its exclusive focus on legal principles",
+      "bbox": [
+        125.39999999999999,
+        37.8,
+        335.7,
+        48.0
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(B) Its emphasis on environmental governance",
+      "bbox": [
+        125.39999999999999,
+        57.599999999999994,
+        366.0,
+        67.8
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(C) Its reliance on judicial decisions",
+      "bbox": [
+        125.39999999999999,
+        77.7,
+        310.2,
+        87.9
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "(D) Its alignment with international treaties",
+      "bbox": [
+        124.8,
+        97.8,
+        354.9,
+        108.0
+      ]
+    }
+  ],
+  "text": "86. What distinguishes the environmental rule of law from the broader concept of the\nrule of law?\n(A) Its exclusive focus on legal principles\n(B) Its emphasis on environmental governance\n(C) Its reliance on judicial decisions\n(D) Its alignment with international treaties",
+  "ocr_words": [
+    {
+      "text": "86.",
+      "x0": 105.3,
+      "top": 4.2,
+      "x1": 119.1,
+      "bottom": 12.0,
+      "confidence": 96.911041,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "What",
+      "x0": 126.3,
+      "top": 3.5999999999999996,
+      "x1": 153.6,
+      "bottom": 12.0,
+      "confidence": 96.576408,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "distinguishes",
+      "x0": 158.4,
+      "top": 3.5999999999999996,
+      "x1": 225.3,
+      "bottom": 13.799999999999999,
+      "confidence": 96.2127,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 229.79999999999998,
+      "top": 3.5999999999999996,
+      "x1": 245.7,
+      "bottom": 12.0,
+      "confidence": 96.447403,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "environmental",
+      "x0": 250.5,
+      "top": 3.5999999999999996,
+      "x1": 324.6,
+      "bottom": 12.0,
+      "confidence": 96.266243,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "rule",
+      "x0": 328.8,
+      "top": 3.5999999999999996,
+      "x1": 348.90000000000003,
+      "bottom": 12.0,
+      "confidence": 96.271935,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 353.7,
+      "top": 3.5999999999999996,
+      "x1": 363.3,
+      "bottom": 12.0,
+      "confidence": 96.271935,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "law",
+      "x0": 366.59999999999997,
+      "top": 3.5999999999999996,
+      "x1": 384.29999999999995,
+      "bottom": 12.0,
+      "confidence": 96.727623,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "from",
+      "x0": 388.8,
+      "top": 3.5999999999999996,
+      "x1": 411.90000000000003,
+      "bottom": 12.0,
+      "confidence": 96.459396,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 416.7,
+      "top": 3.5999999999999996,
+      "x1": 432.59999999999997,
+      "bottom": 12.0,
+      "confidence": 96.292938,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "broader",
+      "x0": 437.09999999999997,
+      "top": 3.5999999999999996,
+      "x1": 476.09999999999997,
+      "bottom": 12.0,
+      "confidence": 96.494835,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "concept",
+      "x0": 480.59999999999997,
+      "top": 4.5,
+      "x1": 518.0999999999999,
+      "bottom": 13.799999999999999,
+      "confidence": 96.697517,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 522.6,
+      "top": 3.5999999999999996,
+      "x1": 532.2,
+      "bottom": 12.0,
+      "confidence": 96.908821,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 535.5,
+      "top": 3.5999999999999996,
+      "x1": 551.4,
+      "bottom": 12.0,
+      "confidence": 96.486145,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "rule",
+      "x0": 126.3,
+      "top": 17.7,
+      "x1": 146.1,
+      "bottom": 26.1,
+      "confidence": 96.252655,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 150.0,
+      "top": 17.7,
+      "x1": 159.6,
+      "bottom": 26.1,
+      "confidence": 96.905571,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "law?",
+      "x0": 162.0,
+      "top": 17.7,
+      "x1": 184.5,
+      "bottom": 26.1,
+      "confidence": 96.509354,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(A)",
+      "x0": 125.39999999999999,
+      "top": 37.8,
+      "x1": 139.2,
+      "bottom": 47.699999999999996,
+      "confidence": 92.695557,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Its",
+      "x0": 148.5,
+      "top": 38.1,
+      "x1": 161.4,
+      "bottom": 46.2,
+      "confidence": 92.695557,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "exclusive",
+      "x0": 165.29999999999998,
+      "top": 37.8,
+      "x1": 210.89999999999998,
+      "bottom": 46.199999999999996,
+      "confidence": 96.046638,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "focus",
+      "x0": 214.5,
+      "top": 37.8,
+      "x1": 239.7,
+      "bottom": 46.199999999999996,
+      "confidence": 95.782143,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "on",
+      "x0": 243.6,
+      "top": 40.8,
+      "x1": 255.29999999999998,
+      "bottom": 46.199999999999996,
+      "confidence": 96.347252,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "legal",
+      "x0": 258.9,
+      "top": 37.8,
+      "x1": 282.59999999999997,
+      "bottom": 48.0,
+      "confidence": 96.613121,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "principles",
+      "x0": 286.5,
+      "top": 37.8,
+      "x1": 335.7,
+      "bottom": 48.0,
+      "confidence": 96.521324,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(B)",
+      "x0": 125.39999999999999,
+      "top": 57.599999999999994,
+      "x1": 139.2,
+      "bottom": 67.5,
+      "confidence": 93.252014,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Its",
+      "x0": 148.5,
+      "top": 57.9,
+      "x1": 161.4,
+      "bottom": 66.0,
+      "confidence": 96.921722,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "emphasis",
+      "x0": 165.29999999999998,
+      "top": 57.599999999999994,
+      "x1": 212.39999999999998,
+      "bottom": 67.8,
+      "confidence": 96.15274,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "on",
+      "x0": 216.29999999999998,
+      "top": 60.599999999999994,
+      "x1": 227.99999999999997,
+      "bottom": 66.0,
+      "confidence": 95.864418,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "environmental",
+      "x0": 231.6,
+      "top": 57.599999999999994,
+      "x1": 305.7,
+      "bottom": 66.0,
+      "confidence": 96.273247,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "governance",
+      "x0": 309.3,
+      "top": 60.599999999999994,
+      "x1": 366.0,
+      "bottom": 67.8,
+      "confidence": 96.641724,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(C)",
+      "x0": 125.39999999999999,
+      "top": 77.7,
+      "x1": 139.2,
+      "bottom": 87.60000000000001,
+      "confidence": 92.195251,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Its",
+      "x0": 148.5,
+      "top": 78.0,
+      "x1": 161.4,
+      "bottom": 86.1,
+      "confidence": 96.860672,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "reliance",
+      "x0": 165.0,
+      "top": 77.7,
+      "x1": 204.9,
+      "bottom": 86.10000000000001,
+      "confidence": 96.035828,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "on",
+      "x0": 208.79999999999998,
+      "top": 80.7,
+      "x1": 220.49999999999997,
+      "bottom": 86.10000000000001,
+      "confidence": 95.083916,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "judicial",
+      "x0": 223.2,
+      "top": 77.7,
+      "x1": 261.0,
+      "bottom": 87.9,
+      "confidence": 95.083916,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "decisions",
+      "x0": 265.2,
+      "top": 77.7,
+      "x1": 310.2,
+      "bottom": 86.10000000000001,
+      "confidence": 96.32827,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "(D)",
+      "x0": 124.8,
+      "top": 97.8,
+      "x1": 139.2,
+      "bottom": 107.7,
+      "confidence": 92.781769,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Its",
+      "x0": 148.5,
+      "top": 98.1,
+      "x1": 161.4,
+      "bottom": 106.19999999999999,
+      "confidence": 96.575951,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "alignment",
+      "x0": 165.29999999999998,
+      "top": 97.8,
+      "x1": 216.59999999999997,
+      "bottom": 108.0,
+      "confidence": 96.224403,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "with",
+      "x0": 220.2,
+      "top": 97.8,
+      "x1": 242.7,
+      "bottom": 106.2,
+      "confidence": 96.863976,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "international",
+      "x0": 246.0,
+      "top": 97.8,
+      "x1": 312.9,
+      "bottom": 106.2,
+      "confidence": 96.194771,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "treaties",
+      "x0": 316.5,
+      "top": 98.1,
+      "x1": 354.9,
+      "bottom": 106.19999999999999,
+      "confidence": 96.566673,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

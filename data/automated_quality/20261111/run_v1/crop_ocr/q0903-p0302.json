@@ -1,0 +1,373 @@
+{
+  "pdf_page": 302,
+  "crop_top": 389.10279999999995,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "56. The Ordinance making of the President under the Indian Constitution is:",
+      "bbox": [
+        46.8,
+        3.5999999999999996,
+        480.0,
+        14.1
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "power",
+      "bbox": [
+        195.0,
+        6.8999999999999995,
+        225.6,
+        14.099999999999998
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(A) An Executive (B)_ A legislative",
+      "bbox": [
+        75.3,
+        19.8,
+        392.7,
+        32.7
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "power power",
+      "bbox": [
+        174.0,
+        24.0,
+        426.6,
+        31.2
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(C) Quasi-legislative power (D) Quasi executive power",
+      "bbox": [
+        75.3,
+        35.4,
+        444.3,
+        45.599999999999994
+      ]
+    }
+  ],
+  "text": "56. The Ordinance making of the President under the Indian Constitution is:\npower\n(A) An Executive (B)_ A legislative\npower power\n(C) Quasi-legislative power (D) Quasi executive power",
+  "ocr_words": [
+    {
+      "text": "56.",
+      "x0": 46.8,
+      "top": 4.5,
+      "x1": 60.599999999999994,
+      "bottom": 12.3,
+      "confidence": 95.201309,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 74.7,
+      "top": 3.9,
+      "x1": 93.6,
+      "bottom": 12.3,
+      "confidence": 83.091888,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ordinance",
+      "x0": 97.8,
+      "top": 3.9,
+      "x1": 150.0,
+      "bottom": 12.3,
+      "confidence": 96.558418,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "making",
+      "x0": 153.9,
+      "top": 3.5999999999999996,
+      "x1": 192.0,
+      "bottom": 14.1,
+      "confidence": 96.858925,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "power",
+      "x0": 195.0,
+      "top": 6.8999999999999995,
+      "x1": 225.6,
+      "bottom": 14.099999999999998,
+      "confidence": 96.984398,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 229.2,
+      "top": 3.9,
+      "x1": 238.5,
+      "bottom": 12.3,
+      "confidence": 96.673187,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 241.2,
+      "top": 3.9,
+      "x1": 257.09999999999997,
+      "bottom": 12.3,
+      "confidence": 96.843971,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "President",
+      "x0": 261.0,
+      "top": 3.9,
+      "x1": 309.3,
+      "bottom": 12.3,
+      "confidence": 96.586823,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "under",
+      "x0": 312.9,
+      "top": 3.9,
+      "x1": 342.59999999999997,
+      "bottom": 12.3,
+      "confidence": 96.620094,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 345.9,
+      "top": 3.9,
+      "x1": 361.79999999999995,
+      "bottom": 12.3,
+      "confidence": 96.542366,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Indian",
+      "x0": 365.7,
+      "top": 3.9,
+      "x1": 399.0,
+      "bottom": 12.3,
+      "confidence": 96.352737,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Constitution",
+      "x0": 402.9,
+      "top": 3.9,
+      "x1": 466.2,
+      "bottom": 12.3,
+      "confidence": 96.155151,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is:",
+      "x0": 469.5,
+      "top": 4.2,
+      "x1": 480.0,
+      "bottom": 12.3,
+      "confidence": 95.824928,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 75.3,
+      "top": 21.0,
+      "x1": 89.1,
+      "bottom": 31.2,
+      "confidence": 92.166588,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "An",
+      "x0": 102.6,
+      "top": 21.0,
+      "x1": 117.3,
+      "bottom": 29.1,
+      "confidence": 92.166588,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Executive",
+      "x0": 121.19999999999999,
+      "top": 21.0,
+      "x1": 170.39999999999998,
+      "bottom": 29.4,
+      "confidence": 96.66581,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "power",
+      "x0": 174.0,
+      "top": 24.0,
+      "x1": 204.3,
+      "bottom": 31.2,
+      "confidence": 96.712418,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(B)_",
+      "x0": 302.09999999999997,
+      "top": 21.0,
+      "x1": 315.9,
+      "bottom": 31.2,
+      "confidence": 43.866329,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "A",
+      "x0": 325.5,
+      "top": 19.8,
+      "x1": 333.3,
+      "bottom": 32.7,
+      "confidence": 91.18219,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "legislative",
+      "x0": 341.09999999999997,
+      "top": 21.0,
+      "x1": 392.7,
+      "bottom": 31.2,
+      "confidence": 95.270309,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "power",
+      "x0": 396.3,
+      "top": 24.0,
+      "x1": 426.6,
+      "bottom": 31.2,
+      "confidence": 96.305313,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(C)",
+      "x0": 75.3,
+      "top": 35.4,
+      "x1": 89.1,
+      "bottom": 45.599999999999994,
+      "confidence": 87.204918,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Quasi-legislative",
+      "x0": 103.5,
+      "top": 35.4,
+      "x1": 188.39999999999998,
+      "bottom": 45.599999999999994,
+      "confidence": 87.204918,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "power",
+      "x0": 192.0,
+      "top": 38.4,
+      "x1": 222.3,
+      "bottom": 45.599999999999994,
+      "confidence": 96.954681,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(D)",
+      "x0": 302.09999999999997,
+      "top": 35.4,
+      "x1": 316.49999999999994,
+      "bottom": 45.599999999999994,
+      "confidence": 91.743271,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Quasi",
+      "x0": 330.3,
+      "top": 35.4,
+      "x1": 359.7,
+      "bottom": 45.599999999999994,
+      "confidence": 96.739441,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "executive",
+      "x0": 363.3,
+      "top": 35.699999999999996,
+      "x1": 410.1,
+      "bottom": 43.8,
+      "confidence": 96.163727,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "power",
+      "x0": 413.7,
+      "top": 38.4,
+      "x1": 444.3,
+      "bottom": 45.599999999999994,
+      "confidence": 96.726181,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

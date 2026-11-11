@@ -1,0 +1,123 @@
+{
+  "pdf_page": 429,
+  "crop_top": 10.68,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "3. ¥ January, 1989",
+      "bbox": [
+        38.1,
+        2.4,
+        133.8,
+        15.0
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "4. *® January, 2001",
+      "bbox": [
+        37.8,
+        21.0,
+        133.2,
+        33.0
+      ]
+    }
+  ],
+  "text": "3. ¥ January, 1989\n4. *® January, 2001",
+  "ocr_words": [
+    {
+      "text": "3.",
+      "x0": 38.1,
+      "top": 5.1,
+      "x1": 45.3,
+      "bottom": 12.899999999999999,
+      "confidence": 90.647469,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "¥",
+      "x0": 53.1,
+      "top": 2.4,
+      "x1": 58.2,
+      "bottom": 11.4,
+      "confidence": 78.001404,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "January,",
+      "x0": 63.9,
+      "top": 5.1,
+      "x1": 104.4,
+      "bottom": 15.0,
+      "confidence": 96.547592,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1989",
+      "x0": 109.8,
+      "top": 5.1,
+      "x1": 133.8,
+      "bottom": 12.899999999999999,
+      "confidence": 96.282433,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "4.",
+      "x0": 37.8,
+      "top": 23.099999999999998,
+      "x1": 45.3,
+      "bottom": 30.599999999999998,
+      "confidence": 84.212341,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "*®",
+      "x0": 51.6,
+      "top": 21.0,
+      "x1": 58.5,
+      "bottom": 27.9,
+      "confidence": 41.577934,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "January,",
+      "x0": 63.9,
+      "top": 23.099999999999998,
+      "x1": 104.4,
+      "bottom": 33.0,
+      "confidence": 96.465546,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "2001",
+      "x0": 109.2,
+      "top": 23.099999999999998,
+      "x1": 133.2,
+      "bottom": 30.599999999999998,
+      "confidence": 96.475952,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

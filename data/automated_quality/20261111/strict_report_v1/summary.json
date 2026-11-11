@@ -1,0 +1,48 @@
+{
+  "version": "0.1.0",
+  "date": "2026-11-11T14:13:42.647212+00:00",
+  "workflow": "automated_no_human_requirement",
+  "questions_checked": 1397,
+  "source_body_pages_ocr": 365,
+  "body_pages_without_question_evidence": [
+    6,
+    167,
+    466
+  ],
+  "structural_findings": {
+    "option_structure": 184,
+    "empty_option": 27,
+    "passage_link_missing": 247,
+    "duplicate_number": 63,
+    "missing_number": 2,
+    "out_of_range_number": 3,
+    "configured_count_mismatch": 3
+  },
+  "ocr_status_counts": {
+    "SUPPORTED": 843,
+    "OCR_DISAGREEMENT": 554
+  },
+  "initial_supported": 700,
+  "targeted_second_pass_questions": 697,
+  "automated_gate": "NEEDS_AUTOMATED_REPAIR",
+  "integrity_gate": "PASS",
+  "human_benchmark_required": false,
+  "empirical_accuracy": null,
+  "limits": [
+    "OCR agreement is corroboration, not a gold-standard error rate",
+    "Shared OCR-engine failures and incorrect source-region segmentation can survive",
+    "Configured counts and candidate source coverage remain unverified"
+  ],
+  "triage_gate": "NEEDS_AUTOMATED_REPAIR",
+  "strictly_supported_questions": 650,
+  "ocr_exception_questions": 747,
+  "structural_error_findings": 466,
+  "structural_warning_findings": 63,
+  "strict_rule": "All target lexical tokens ordered in machine OCR, no numeric/negation discrepancy; not empirical accuracy",
+  "manual_extraction_benchmark_required": false,
+  "required_workflow": "automatic_repair_queue_then_recheck",
+  "strict_queue_priorities": {
+    "lexical_gap": 407,
+    "critical_tokens": 340
+  }
+}

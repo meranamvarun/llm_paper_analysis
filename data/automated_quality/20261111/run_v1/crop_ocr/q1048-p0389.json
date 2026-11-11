@@ -1,0 +1,336 @@
+{
+  "pdf_page": 389,
+  "crop_top": 460.76135999999997,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.46 Whois the propounder of \"Bracket theory\" of personality?",
+      "bbox": [
+        42.0,
+        3.5999999999999996,
+        245.39999999999998,
+        10.2
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Ans 4",
+      "bbox": [
+        43.199999999999996,
+        14.1,
+        87.6,
+        27.9
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "1. Ihering",
+      "bbox": [
+        88.5,
+        24.9,
+        116.4,
+        31.5
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "x",
+      "bbox": [
+        73.2,
+        36.3,
+        86.7,
+        49.199999999999996
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "2. Baker",
+      "bbox": [
+        88.2,
+        46.5,
+        112.5,
+        51.6
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "x",
+      "bbox": [
+        73.2,
+        57.9,
+        86.7,
+        70.5
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "3. Savigny",
+      "bbox": [
+        88.2,
+        68.1,
+        118.19999999999999,
+        74.39999999999999
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "x,",
+      "bbox": [
+        73.2,
+        79.2,
+        93.0,
+        94.2
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "Salmond",
+      "bbox": [
+        95.39999999999999,
+        89.1,
+        121.19999999999999,
+        94.19999999999999
+      ]
+    }
+  ],
+  "text": "Q.46 Whois the propounder of \"Bracket theory\" of personality?\nAns 4\n1. Ihering\nx\n2. Baker\nx\n3. Savigny\nx,\nSalmond",
+  "ocr_words": [
+    {
+      "text": "Q.46",
+      "x0": 42.0,
+      "top": 3.9,
+      "x1": 56.1,
+      "bottom": 9.6,
+      "confidence": 89.894531,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Whois",
+      "x0": 62.4,
+      "top": 3.5999999999999996,
+      "x1": 83.7,
+      "bottom": 9.0,
+      "confidence": 75.137115,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 85.5,
+      "top": 3.5999999999999996,
+      "x1": 95.7,
+      "bottom": 9.0,
+      "confidence": 93.282944,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "propounder",
+      "x0": 97.8,
+      "top": 3.5999999999999996,
+      "x1": 134.7,
+      "bottom": 10.2,
+      "confidence": 91.404907,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 136.79999999999998,
+      "top": 3.5999999999999996,
+      "x1": 143.1,
+      "bottom": 9.0,
+      "confidence": 96.861877,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "\"Bracket",
+      "x0": 144.9,
+      "top": 3.5999999999999996,
+      "x1": 171.3,
+      "bottom": 9.0,
+      "confidence": 96.47525,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "theory\"",
+      "x0": 173.4,
+      "top": 3.5999999999999996,
+      "x1": 196.8,
+      "bottom": 10.2,
+      "confidence": 96.485809,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 199.2,
+      "top": 3.5999999999999996,
+      "x1": 205.5,
+      "bottom": 9.0,
+      "confidence": 96.81234,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "personality?",
+      "x0": 207.29999999999998,
+      "top": 3.5999999999999996,
+      "x1": 245.39999999999998,
+      "bottom": 10.2,
+      "confidence": 96.663269,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.199999999999996,
+      "top": 16.8,
+      "x1": 54.599999999999994,
+      "bottom": 21.6,
+      "confidence": 96.58625,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "4",
+      "x0": 73.8,
+      "top": 14.1,
+      "x1": 87.6,
+      "bottom": 27.9,
+      "confidence": 57.791821,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 88.5,
+      "top": 25.2,
+      "x1": 93.0,
+      "bottom": 30.0,
+      "confidence": 96.239182,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Ihering",
+      "x0": 96.0,
+      "top": 24.9,
+      "x1": 116.4,
+      "bottom": 31.5,
+      "confidence": 90.362732,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "x",
+      "x0": 73.2,
+      "top": 36.3,
+      "x1": 86.7,
+      "bottom": 49.199999999999996,
+      "confidence": 86.662521,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "2.",
+      "x0": 88.2,
+      "top": 46.8,
+      "x1": 93.0,
+      "bottom": 51.599999999999994,
+      "confidence": 96.456268,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Baker",
+      "x0": 96.0,
+      "top": 46.5,
+      "x1": 112.5,
+      "bottom": 51.6,
+      "confidence": 96.072731,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "x",
+      "x0": 73.2,
+      "top": 57.9,
+      "x1": 86.7,
+      "bottom": 70.5,
+      "confidence": 84.783966,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "3.",
+      "x0": 88.2,
+      "top": 68.1,
+      "x1": 93.0,
+      "bottom": 73.19999999999999,
+      "confidence": 93.305634,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Savigny",
+      "x0": 95.39999999999999,
+      "top": 68.1,
+      "x1": 118.19999999999999,
+      "bottom": 74.39999999999999,
+      "confidence": 92.450111,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "x,",
+      "x0": 73.2,
+      "top": 79.2,
+      "x1": 93.0,
+      "bottom": 94.2,
+      "confidence": 63.59634,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Salmond",
+      "x0": 95.39999999999999,
+      "top": 89.1,
+      "x1": 121.19999999999999,
+      "bottom": 94.19999999999999,
+      "confidence": 96.73008,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

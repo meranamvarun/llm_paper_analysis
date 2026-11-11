@@ -1,0 +1,79 @@
+{
+  "pdf_page": 384,
+  "crop_top": 782.12137,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.21 \"Ignorantia facit execusat\" means:",
+      "bbox": [
+        42.0,
+        3.5999999999999996,
+        169.5,
+        10.2
+      ]
+    }
+  ],
+  "text": "Q.21 \"Ignorantia facit execusat\" means:",
+  "ocr_words": [
+    {
+      "text": "Q.21",
+      "x0": 42.0,
+      "top": 3.9,
+      "x1": 56.1,
+      "bottom": 9.6,
+      "confidence": 72.825043,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "\"Ignorantia",
+      "x0": 62.699999999999996,
+      "top": 3.5999999999999996,
+      "x1": 97.19999999999999,
+      "bottom": 10.2,
+      "confidence": 72.825043,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "facit",
+      "x0": 99.6,
+      "top": 3.5999999999999996,
+      "x1": 113.1,
+      "bottom": 8.7,
+      "confidence": 92.954628,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "execusat\"",
+      "x0": 115.19999999999999,
+      "top": 3.5999999999999996,
+      "x1": 145.2,
+      "bottom": 8.7,
+      "confidence": 89.081902,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "means:",
+      "x0": 147.6,
+      "top": 5.1,
+      "x1": 169.5,
+      "bottom": 8.7,
+      "confidence": 96.808075,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

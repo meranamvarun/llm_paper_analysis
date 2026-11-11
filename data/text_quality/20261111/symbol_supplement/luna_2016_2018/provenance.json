@@ -1,0 +1,19 @@
+{
+  "requested_model": "gpt-6-luna",
+  "date": "2026-11-11",
+  "settings": "medium",
+  "input_sha256": "9b1919a2d7b6c7ec2204b9aadb80938159a33ee951f2a25459bbc54914279fdc",
+  "reviewed_sheets": 4,
+  "reviewed_flags": 29,
+  "image_sha256": {
+    "sheet_001.jpg": "8dddccfc02c31fa7473bba2300d664d00491323fba38c86de3bd797b7080b3f2",
+    "sheet_002.jpg": "633e28048c2cfd76180d24a70d731925cf699c950f728de05e99116640c3983c",
+    "sheet_003.jpg": "654122bf43eca737741d29e50d1c1144e201b674be3cef3cbcdda8ceba01ee76",
+    "sheet_004.jpg": "c66603b8e997ab6308ea543de5333b38bb03a1e0e511a5e2e40cae9f0d191eb6"
+  },
+  "prompt": "Inspect each flagged contextual symbol in source crop. Preserve valid percentages and punctuation. For full numeric-degree spans, transcribe actual source content. Exact-span proposals only; no legal fact or answer validation.",
+  "limitations": "Only symbol and context source reading; legal citation correctness not verified.",
+  "field_transcriptions_file": "field_transcriptions.jsonl",
+  "field_transcriptions_count": 2,
+  "field_transcriptions_sha256": "679b0d3070e220736f07c79cf29123b22d9cd659f26987213e2b418f996b89a9"
+}

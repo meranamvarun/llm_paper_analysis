@@ -1,0 +1,570 @@
+{
+  "pdf_page": 89,
+  "crop_top": 626.9186,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "114. A Director other than a managing Director or a whole-time Director or a nominee",
+      "bbox": [
+        99.6,
+        3.5999999999999996,
+        551.6999999999999,
+        13.8
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Director who does not have any material or pecuniary relationship with the company/",
+      "bbox": [
+        126.3,
+        17.7,
+        552.0,
+        27.9
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "Directors other than the remuneration is called",
+      "bbox": [
+        126.3,
+        31.799999999999997,
+        366.9,
+        40.2
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(A) Impartial Director (B) Promoter",
+      "bbox": [
+        125.39999999999999,
+        48.6,
+        382.5,
+        58.8
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(C) Independent Director (D) Associate Director",
+      "bbox": [
+        125.39999999999999,
+        65.7,
+        427.79999999999995,
+        75.9
+      ]
+    }
+  ],
+  "text": "114. A Director other than a managing Director or a whole-time Director or a nominee\nDirector who does not have any material or pecuniary relationship with the company/\nDirectors other than the remuneration is called\n(A) Impartial Director (B) Promoter\n(C) Independent Director (D) Associate Director",
+  "ocr_words": [
+    {
+      "text": "114.",
+      "x0": 99.6,
+      "top": 4.2,
+      "x1": 119.1,
+      "bottom": 12.0,
+      "confidence": 96.394608,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A",
+      "x0": 126.0,
+      "top": 3.5999999999999996,
+      "x1": 134.1,
+      "bottom": 11.7,
+      "confidence": 95.272461,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Director",
+      "x0": 138.29999999999998,
+      "top": 3.9,
+      "x1": 179.7,
+      "bottom": 12.0,
+      "confidence": 95.317543,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "other",
+      "x0": 184.2,
+      "top": 3.5999999999999996,
+      "x1": 210.6,
+      "bottom": 12.0,
+      "confidence": 96.793892,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "than",
+      "x0": 214.79999999999998,
+      "top": 3.5999999999999996,
+      "x1": 238.2,
+      "bottom": 12.0,
+      "confidence": 96.225647,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 243.0,
+      "top": 6.6,
+      "x1": 248.4,
+      "bottom": 12.0,
+      "confidence": 96.285172,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "managing",
+      "x0": 253.2,
+      "top": 3.9,
+      "x1": 303.3,
+      "bottom": 13.8,
+      "confidence": 96.285172,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Director",
+      "x0": 307.8,
+      "top": 3.9,
+      "x1": 349.2,
+      "bottom": 12.0,
+      "confidence": 96.479057,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "or",
+      "x0": 353.7,
+      "top": 6.6,
+      "x1": 363.59999999999997,
+      "bottom": 12.0,
+      "confidence": 96.887001,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 368.4,
+      "top": 6.6,
+      "x1": 373.5,
+      "bottom": 12.0,
+      "confidence": 93.2966,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "whole-time",
+      "x0": 378.3,
+      "top": 3.5999999999999996,
+      "x1": 433.8,
+      "bottom": 12.0,
+      "confidence": 90.879944,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Director",
+      "x0": 438.59999999999997,
+      "top": 3.9,
+      "x1": 479.99999999999994,
+      "bottom": 12.0,
+      "confidence": 96.654564,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "or",
+      "x0": 484.5,
+      "top": 6.6,
+      "x1": 494.4,
+      "bottom": 12.0,
+      "confidence": 96.638206,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 499.2,
+      "top": 6.6,
+      "x1": 504.59999999999997,
+      "bottom": 12.0,
+      "confidence": 96.303246,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "nominee",
+      "x0": 509.09999999999997,
+      "top": 3.9,
+      "x1": 551.6999999999999,
+      "bottom": 12.0,
+      "confidence": 96.104263,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Director",
+      "x0": 126.3,
+      "top": 18.0,
+      "x1": 167.7,
+      "bottom": 26.1,
+      "confidence": 96.064377,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "who",
+      "x0": 170.4,
+      "top": 17.7,
+      "x1": 190.8,
+      "bottom": 26.1,
+      "confidence": 96.064377,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "does",
+      "x0": 193.79999999999998,
+      "top": 17.7,
+      "x1": 215.39999999999998,
+      "bottom": 26.1,
+      "confidence": 96.237869,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "not",
+      "x0": 218.4,
+      "top": 18.599999999999998,
+      "x1": 234.3,
+      "bottom": 26.099999999999998,
+      "confidence": 96.448563,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "have",
+      "x0": 237.0,
+      "top": 17.7,
+      "x1": 260.7,
+      "bottom": 26.1,
+      "confidence": 96.769157,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "any",
+      "x0": 263.7,
+      "top": 20.7,
+      "x1": 282.0,
+      "bottom": 27.9,
+      "confidence": 96.317398,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "material",
+      "x0": 285.0,
+      "top": 17.7,
+      "x1": 327.6,
+      "bottom": 26.1,
+      "confidence": 95.922928,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "or",
+      "x0": 330.59999999999997,
+      "top": 20.7,
+      "x1": 340.49999999999994,
+      "bottom": 26.099999999999998,
+      "confidence": 96.742035,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "pecuniary",
+      "x0": 343.2,
+      "top": 18.0,
+      "x1": 393.3,
+      "bottom": 27.9,
+      "confidence": 96.395012,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "relationship",
+      "x0": 396.0,
+      "top": 17.7,
+      "x1": 456.9,
+      "bottom": 27.9,
+      "confidence": 96.149872,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "with",
+      "x0": 459.9,
+      "top": 17.7,
+      "x1": 482.4,
+      "bottom": 26.1,
+      "confidence": 96.784798,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 485.09999999999997,
+      "top": 17.7,
+      "x1": 500.99999999999994,
+      "bottom": 26.1,
+      "confidence": 92.837097,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "company/",
+      "x0": 504.0,
+      "top": 18.0,
+      "x1": 552.0,
+      "bottom": 27.9,
+      "confidence": 91.943451,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Directors",
+      "x0": 126.3,
+      "top": 32.1,
+      "x1": 172.5,
+      "bottom": 40.2,
+      "confidence": 96.565468,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "other",
+      "x0": 176.4,
+      "top": 31.799999999999997,
+      "x1": 202.8,
+      "bottom": 40.199999999999996,
+      "confidence": 96.680695,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "than",
+      "x0": 206.1,
+      "top": 31.799999999999997,
+      "x1": 229.5,
+      "bottom": 40.199999999999996,
+      "confidence": 96.422333,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "the",
+      "x0": 233.1,
+      "top": 31.799999999999997,
+      "x1": 249.0,
+      "bottom": 40.199999999999996,
+      "confidence": 96.178627,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "remuneration",
+      "x0": 252.6,
+      "top": 32.1,
+      "x1": 322.2,
+      "bottom": 40.2,
+      "confidence": 95.387497,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "is",
+      "x0": 325.8,
+      "top": 32.1,
+      "x1": 333.6,
+      "bottom": 40.2,
+      "confidence": 95.387497,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "called",
+      "x0": 337.5,
+      "top": 31.799999999999997,
+      "x1": 366.9,
+      "bottom": 40.199999999999996,
+      "confidence": 95.9291,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(A)",
+      "x0": 125.39999999999999,
+      "top": 48.6,
+      "x1": 139.2,
+      "bottom": 58.5,
+      "confidence": 92.981247,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Impartial",
+      "x0": 148.5,
+      "top": 48.6,
+      "x1": 196.5,
+      "bottom": 58.8,
+      "confidence": 96.455879,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Director",
+      "x0": 200.1,
+      "top": 48.9,
+      "x1": 241.79999999999998,
+      "bottom": 57.0,
+      "confidence": 96.277275,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(B)",
+      "x0": 315.3,
+      "top": 48.6,
+      "x1": 329.40000000000003,
+      "bottom": 58.8,
+      "confidence": 93.091301,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Promoter",
+      "x0": 335.4,
+      "top": 48.9,
+      "x1": 382.5,
+      "bottom": 57.0,
+      "confidence": 96.800247,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(C)",
+      "x0": 125.39999999999999,
+      "top": 65.7,
+      "x1": 139.2,
+      "bottom": 75.60000000000001,
+      "confidence": 90.455956,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Independent",
+      "x0": 148.5,
+      "top": 65.7,
+      "x1": 212.1,
+      "bottom": 75.9,
+      "confidence": 96.703621,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Director",
+      "x0": 215.7,
+      "top": 66.0,
+      "x1": 257.09999999999997,
+      "bottom": 74.1,
+      "confidence": 96.586533,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "(D)",
+      "x0": 314.7,
+      "top": 65.7,
+      "x1": 329.4,
+      "bottom": 75.9,
+      "confidence": 92.698692,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Associate",
+      "x0": 334.8,
+      "top": 65.7,
+      "x1": 382.5,
+      "bottom": 74.10000000000001,
+      "confidence": 96.584785,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Director",
+      "x0": 386.09999999999997,
+      "top": 66.0,
+      "x1": 427.79999999999995,
+      "bottom": 74.1,
+      "confidence": 96.728264,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

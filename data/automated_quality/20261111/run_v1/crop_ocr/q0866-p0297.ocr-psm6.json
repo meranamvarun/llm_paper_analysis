@@ -1,0 +1,631 @@
+{
+  "pdf_page": 297,
+  "crop_top": 633.2127999999999,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "19. Acceptance sent through post:",
+      "bbox": [
+        47.4,
+        4.2,
+        226.5,
+        14.399999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "(A) be revoked at time",
+      "bbox": [
+        75.3,
+        22.2,
+        239.4,
+        32.7
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "can any",
+      "bbox": [
+        103.2,
+        25.5,
+        213.6,
+        32.7
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(B) cannot be revoked at all",
+      "bbox": [
+        75.3,
+        40.8,
+        224.4,
+        51.3
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(C) be revoked before it to the knowledge of the offeror",
+      "bbox": [
+        75.3,
+        59.4,
+        414.9,
+        69.9
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "can comes",
+      "bbox": [
+        103.2,
+        62.699999999999996,
+        256.79999999999995,
+        68.1
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "(D) be revoked only if it does not reach the offeror",
+      "bbox": [
+        75.3,
+        78.0,
+        356.09999999999997,
+        88.5
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "can",
+      "bbox": [
+        103.2,
+        81.3,
+        120.3,
+        86.7
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "B PG 2019",
+      "bbox": [
+        46.8,
+        119.1,
+        549.9,
+        128.1
+      ]
+    },
+    {
+      "line_id": "l0009",
+      "text": "5",
+      "bbox": [
+        295.8,
+        124.19999999999999,
+        300.6,
+        132.0
+      ]
+    }
+  ],
+  "text": "19. Acceptance sent through post:\n(A) be revoked at time\ncan any\n(B) cannot be revoked at all\n(C) be revoked before it to the knowledge of the offeror\ncan comes\n(D) be revoked only if it does not reach the offeror\ncan\nB PG 2019\n5",
+  "ocr_words": [
+    {
+      "text": "19.",
+      "x0": 47.4,
+      "top": 4.8,
+      "x1": 60.599999999999994,
+      "bottom": 12.6,
+      "confidence": 91.002586,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Acceptance",
+      "x0": 74.39999999999999,
+      "top": 4.2,
+      "x1": 131.1,
+      "bottom": 14.399999999999999,
+      "confidence": 91.002586,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "sent",
+      "x0": 135.29999999999998,
+      "top": 5.1,
+      "x1": 155.99999999999997,
+      "bottom": 12.6,
+      "confidence": 95.792801,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "through",
+      "x0": 159.6,
+      "top": 4.2,
+      "x1": 199.79999999999998,
+      "bottom": 14.399999999999999,
+      "confidence": 96.191612,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "post:",
+      "x0": 203.4,
+      "top": 5.1,
+      "x1": 226.5,
+      "bottom": 14.399999999999999,
+      "confidence": 96.411217,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 75.3,
+      "top": 22.5,
+      "x1": 89.1,
+      "bottom": 32.7,
+      "confidence": 82.847694,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "can",
+      "x0": 103.2,
+      "top": 25.5,
+      "x1": 120.3,
+      "bottom": 30.9,
+      "confidence": 82.847694,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "be",
+      "x0": 123.89999999999999,
+      "top": 22.5,
+      "x1": 135.0,
+      "bottom": 30.9,
+      "confidence": 95.069321,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "revoked",
+      "x0": 138.6,
+      "top": 22.2,
+      "x1": 178.5,
+      "bottom": 30.9,
+      "confidence": 96.43132,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "at",
+      "x0": 182.1,
+      "top": 23.4,
+      "x1": 191.7,
+      "bottom": 30.9,
+      "confidence": 96.596123,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "any",
+      "x0": 195.6,
+      "top": 25.5,
+      "x1": 213.6,
+      "bottom": 32.7,
+      "confidence": 96.596123,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "time",
+      "x0": 216.9,
+      "top": 22.8,
+      "x1": 239.4,
+      "bottom": 30.9,
+      "confidence": 96.586021,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(B)",
+      "x0": 75.3,
+      "top": 41.1,
+      "x1": 89.1,
+      "bottom": 51.3,
+      "confidence": 93.153267,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "cannot",
+      "x0": 103.2,
+      "top": 42.0,
+      "x1": 136.8,
+      "bottom": 49.5,
+      "confidence": 78.850182,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "be",
+      "x0": 140.4,
+      "top": 41.1,
+      "x1": 151.20000000000002,
+      "bottom": 49.5,
+      "confidence": 96.80114,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "revoked",
+      "x0": 155.1,
+      "top": 40.8,
+      "x1": 194.7,
+      "bottom": 49.5,
+      "confidence": 95.780884,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "at",
+      "x0": 198.6,
+      "top": 42.0,
+      "x1": 208.2,
+      "bottom": 49.5,
+      "confidence": 96.960548,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "all",
+      "x0": 212.1,
+      "top": 41.1,
+      "x1": 224.4,
+      "bottom": 49.5,
+      "confidence": 96.942978,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(C)",
+      "x0": 75.3,
+      "top": 59.699999999999996,
+      "x1": 89.1,
+      "bottom": 69.89999999999999,
+      "confidence": 92.362007,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "can",
+      "x0": 103.2,
+      "top": 62.699999999999996,
+      "x1": 120.3,
+      "bottom": 68.1,
+      "confidence": 96.33078,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "be",
+      "x0": 123.89999999999999,
+      "top": 59.699999999999996,
+      "x1": 135.0,
+      "bottom": 68.1,
+      "confidence": 96.043839,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "revoked",
+      "x0": 138.6,
+      "top": 59.4,
+      "x1": 178.5,
+      "bottom": 68.1,
+      "confidence": 96.043839,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "before",
+      "x0": 181.5,
+      "top": 59.699999999999996,
+      "x1": 212.4,
+      "bottom": 68.1,
+      "confidence": 96.56752,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "it",
+      "x0": 216.0,
+      "top": 60.0,
+      "x1": 223.2,
+      "bottom": 68.1,
+      "confidence": 96.09169,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "comes",
+      "x0": 226.79999999999998,
+      "top": 62.699999999999996,
+      "x1": 256.79999999999995,
+      "bottom": 68.1,
+      "confidence": 96.09169,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "to",
+      "x0": 260.7,
+      "top": 60.599999999999994,
+      "x1": 269.7,
+      "bottom": 68.1,
+      "confidence": 96.397911,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "the",
+      "x0": 273.3,
+      "top": 59.699999999999996,
+      "x1": 289.2,
+      "bottom": 68.1,
+      "confidence": 96.301765,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "knowledge",
+      "x0": 292.8,
+      "top": 59.4,
+      "x1": 346.2,
+      "bottom": 69.9,
+      "confidence": 96.082458,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "of",
+      "x0": 350.09999999999997,
+      "top": 59.699999999999996,
+      "x1": 359.7,
+      "bottom": 68.1,
+      "confidence": 96.873505,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "the",
+      "x0": 362.09999999999997,
+      "top": 59.699999999999996,
+      "x1": 377.99999999999994,
+      "bottom": 68.1,
+      "confidence": 96.250801,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "offeror",
+      "x0": 381.9,
+      "top": 59.699999999999996,
+      "x1": 414.9,
+      "bottom": 68.1,
+      "confidence": 96.576942,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(D)",
+      "x0": 75.3,
+      "top": 78.3,
+      "x1": 89.69999999999999,
+      "bottom": 88.5,
+      "confidence": 92.329414,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "can",
+      "x0": 103.2,
+      "top": 81.3,
+      "x1": 120.3,
+      "bottom": 86.7,
+      "confidence": 94.702484,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "be",
+      "x0": 123.89999999999999,
+      "top": 78.3,
+      "x1": 135.0,
+      "bottom": 86.7,
+      "confidence": 95.850655,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "revoked",
+      "x0": 138.6,
+      "top": 78.0,
+      "x1": 178.5,
+      "bottom": 86.7,
+      "confidence": 96.662628,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "only",
+      "x0": 181.79999999999998,
+      "top": 78.3,
+      "x1": 203.1,
+      "bottom": 88.5,
+      "confidence": 95.253059,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "if",
+      "x0": 206.4,
+      "top": 78.3,
+      "x1": 213.9,
+      "bottom": 86.39999999999999,
+      "confidence": 96.771858,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "it",
+      "x0": 216.6,
+      "top": 78.6,
+      "x1": 223.79999999999998,
+      "bottom": 86.69999999999999,
+      "confidence": 96.771858,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "does",
+      "x0": 227.7,
+      "top": 78.3,
+      "x1": 249.0,
+      "bottom": 86.7,
+      "confidence": 96.875992,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "not",
+      "x0": 252.89999999999998,
+      "top": 79.2,
+      "x1": 268.79999999999995,
+      "bottom": 86.7,
+      "confidence": 96.967972,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "reach",
+      "x0": 272.4,
+      "top": 78.3,
+      "x1": 300.0,
+      "bottom": 86.7,
+      "confidence": 96.287346,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "the",
+      "x0": 303.59999999999997,
+      "top": 78.3,
+      "x1": 319.49999999999994,
+      "bottom": 86.7,
+      "confidence": 96.637413,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "offeror",
+      "x0": 323.09999999999997,
+      "top": 78.3,
+      "x1": 356.09999999999997,
+      "bottom": 86.7,
+      "confidence": 96.637413,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "B",
+      "x0": 46.8,
+      "top": 119.1,
+      "x1": 55.199999999999996,
+      "bottom": 127.8,
+      "confidence": 93.180832,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "5",
+      "x0": 295.8,
+      "top": 124.19999999999999,
+      "x1": 300.6,
+      "bottom": 132.0,
+      "confidence": 91.680405,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "PG",
+      "x0": 504.9,
+      "top": 119.69999999999999,
+      "x1": 521.6999999999999,
+      "bottom": 128.1,
+      "confidence": 96.908501,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "2019",
+      "x0": 525.6,
+      "top": 120.3,
+      "x1": 549.9,
+      "bottom": 128.1,
+      "confidence": 96.908501,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

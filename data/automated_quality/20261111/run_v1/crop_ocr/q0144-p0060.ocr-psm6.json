@@ -1,0 +1,275 @@
+{
+  "pdf_page": 60,
+  "crop_top": 629.7186,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "4. Presumption of innocence",
+      "bbox": [
+        131.4,
+        3.5999999999999996,
+        278.4,
+        13.8
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Select the correct option:",
+      "bbox": [
+        121.5,
+        21.599999999999998,
+        246.0,
+        31.799999999999997
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(A) land2 (B) 2 and 3",
+      "bbox": [
+        125.39999999999999,
+        39.6,
+        372.0,
+        49.8
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(C) 3and4 (D) 1 and 4",
+      "bbox": [
+        125.39999999999999,
+        57.599999999999994,
+        372.0,
+        67.8
+      ]
+    }
+  ],
+  "text": "4. Presumption of innocence\nSelect the correct option:\n(A) land2 (B) 2 and 3\n(C) 3and4 (D) 1 and 4",
+  "ocr_words": [
+    {
+      "text": "4.",
+      "x0": 131.4,
+      "top": 4.2,
+      "x1": 139.20000000000002,
+      "bottom": 12.0,
+      "confidence": 95.681358,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Presumption",
+      "x0": 148.5,
+      "top": 3.9,
+      "x1": 213.3,
+      "bottom": 13.8,
+      "confidence": 96.480461,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 216.9,
+      "top": 3.5999999999999996,
+      "x1": 226.5,
+      "bottom": 12.0,
+      "confidence": 96.685097,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "innocence",
+      "x0": 228.9,
+      "top": 3.9,
+      "x1": 278.4,
+      "bottom": 12.0,
+      "confidence": 96.072319,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Select",
+      "x0": 121.5,
+      "top": 21.599999999999998,
+      "x1": 151.2,
+      "bottom": 30.0,
+      "confidence": 96.948212,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 154.79999999999998,
+      "top": 21.599999999999998,
+      "x1": 170.7,
+      "bottom": 30.0,
+      "confidence": 96.776611,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "correct",
+      "x0": 174.29999999999998,
+      "top": 22.5,
+      "x1": 208.79999999999998,
+      "bottom": 30.0,
+      "confidence": 96.370232,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "option:",
+      "x0": 212.4,
+      "top": 21.9,
+      "x1": 246.0,
+      "bottom": 31.799999999999997,
+      "confidence": 96.773422,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(A)",
+      "x0": 125.39999999999999,
+      "top": 39.6,
+      "x1": 139.2,
+      "bottom": 49.5,
+      "confidence": 93.279434,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "land2",
+      "x0": 149.1,
+      "top": 39.6,
+      "x1": 184.79999999999998,
+      "bottom": 48.0,
+      "confidence": 89.305511,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(B)",
+      "x0": 315.3,
+      "top": 39.6,
+      "x1": 329.40000000000003,
+      "bottom": 49.8,
+      "confidence": 91.904976,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "2",
+      "x0": 335.4,
+      "top": 40.199999999999996,
+      "x1": 340.5,
+      "bottom": 47.699999999999996,
+      "confidence": 87.040192,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "and",
+      "x0": 344.7,
+      "top": 39.6,
+      "x1": 363.3,
+      "bottom": 48.0,
+      "confidence": 58.668594,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "3",
+      "x0": 366.9,
+      "top": 40.199999999999996,
+      "x1": 372.0,
+      "bottom": 47.99999999999999,
+      "confidence": 58.668594,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(C)",
+      "x0": 125.39999999999999,
+      "top": 57.599999999999994,
+      "x1": 139.2,
+      "bottom": 67.5,
+      "confidence": 92.587502,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "3and4",
+      "x0": 148.79999999999998,
+      "top": 57.599999999999994,
+      "x1": 185.09999999999997,
+      "bottom": 66.0,
+      "confidence": 80.851746,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(D)",
+      "x0": 314.7,
+      "top": 57.599999999999994,
+      "x1": 329.4,
+      "bottom": 67.8,
+      "confidence": 92.234398,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "1",
+      "x0": 336.3,
+      "top": 58.199999999999996,
+      "x1": 340.2,
+      "bottom": 65.69999999999999,
+      "confidence": 67.485428,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "and",
+      "x0": 344.7,
+      "top": 57.599999999999994,
+      "x1": 363.3,
+      "bottom": 66.0,
+      "confidence": 84.26355,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "4",
+      "x0": 366.9,
+      "top": 58.199999999999996,
+      "x1": 372.0,
+      "bottom": 65.69999999999999,
+      "confidence": 90.036087,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

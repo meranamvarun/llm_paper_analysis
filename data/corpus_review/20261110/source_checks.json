@@ -1,0 +1,61 @@
+{
+  "date": "2026-11-10",
+  "scope": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "2019": {
+    "present_pdf_pages": [
+      293,
+      309
+    ],
+    "printed_pages_present": [
+      1,
+      17
+    ],
+    "cover_stated_pages": 32,
+    "unlocated_printed_pages": [
+      18,
+      32
+    ],
+    "mcq_proposal_numbers": "1-100 unique",
+    "essay_prompts": 5,
+    "essays_required": 2,
+    "status": "AI source check only; full booklet completeness unresolved"
+  },
+  "2024": {
+    "cover_set": "A / *",
+    "question_body_end_pdf_page": 137,
+    "rough_work_star_pages": [
+      138,
+      139,
+      140
+    ],
+    "rough_work_hash_symbol_pages": [
+      141,
+      142
+    ],
+    "body_mixing": "not established by extra rough-work pages",
+    "key_status": "provisional label observed PDF143",
+    "missing_Q24": "spaced digit extraction; no automatic correction",
+    "Q108": "parser proposal restored"
+  },
+  "official_lookup": {
+    "status": "exact compilation URL unverified; official link attempts inaccessible or timed out",
+    "attempted_urls": [
+      "https://clat2024.consortiumofnlus.ac.in/clat-2024/notifications/CLAT2024-FinalAnswerKey-Notification.pdf",
+      "https://clat2024.consortiumofnlus.ac.in/clat-2024/notifications/Provisional-answer-keys-and-Objection-notification.pdf"
+    ]
+  },
+  "luna_image_hashes_verified": true,
+  "image_integrity_note": "Contact-sheet rendering temporarily reused page133 path at a different scale; restored original scale2 render and verified exact agent-recorded hash."
+}

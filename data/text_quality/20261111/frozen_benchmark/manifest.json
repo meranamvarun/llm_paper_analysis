@@ -1,0 +1,26 @@
+{
+  "input_hashes": {
+    "data\\corpus_review\\20261110\\reconciled_v0.1.2\\questions.jsonl": "81e2cdbae7baa22f18d428f88aa7737b6d513aca12f479dd19844e34fb0be169",
+    "data\\corpus_review\\20261110\\reconciled_v0.1.2\\passages.jsonl": "9f691cfe30b1669a9e327b1d0adc491ee2d45452f13ce68a889330ce2b58ee1d",
+    "data\\extraction\\runs\\20261110T043421397159Z\\pages.jsonl": "ba5f2382c107abe7c6e37c5f96842e893e19858db547f20a23279f032aabc96b",
+    "extraction\\papers.json": "0494ef77e54799ec92c71efa32315985122a0b75ec45786ea2d37402ee1ae9e9"
+  },
+  "output_hashes": {
+    "benchmark_sample.json": "991aa9beaec05e6003d474a1a8e26a8893adefb446c9967fe3134b39155bdae6",
+    "changes.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "flags.jsonl": "354b5c6e4d8283ad16ee33f1d39ea697141ec76f4b622eb7ac29ee20f239c37f",
+    "human_reference_template.jsonl": "efe1ad9fec0f291dec7291d820edf876b6bf11353585575f033e28d4da350485",
+    "passage_flags.jsonl": "94c28a762af1cba5514cb988c40181f577995f8f8762348a55c54cab6e163f0e",
+    "questions.jsonl": "a93571e07898306230746a19f403bb77cda2e5c127245c083fceae88e1bc08cc",
+    "summary.json": "d339888f13ed7effdac654e00d0924734ec97c549f85cefdb67efd5de34c3b9d"
+  },
+  "code_hashes": {
+    "C:\\Users\\malai\\varun_code\\llm_paper_analysis\\extraction\\quality_run.py": "613beff1f6d741fd77cd06abd6127f8e49fd3cce3f2f9ec52b322aa1fdf246c5",
+    "C:\\Users\\malai\\varun_code\\llm_paper_analysis\\extraction\\quality.py": "e85efbb7f0e4f6fcba094bb7a780f24477d0ddde9389b40f77aa7458628f148d"
+  },
+  "packages": {
+    "wordfreq": "3.1.1",
+    "ftfy": "6.3.1",
+    "regex": "2026.11.9"
+  }
+}

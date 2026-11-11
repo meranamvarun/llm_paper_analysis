@@ -1,0 +1,19 @@
+{
+  "status": "exploratory_unreviewed",
+  "pages": [
+    330,
+    339,
+    405,
+    414
+  ],
+  "dpi": 300,
+  "psms": [
+    3,
+    6,
+    11
+  ],
+  "purpose": "Compare layout modes on known failures; do not replace baseline or select global defaults",
+  "source_sha256": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b",
+  "baseline": "20261110T043421397159Z",
+  "reference": "AI source-image check only, no human ground truth"
+}

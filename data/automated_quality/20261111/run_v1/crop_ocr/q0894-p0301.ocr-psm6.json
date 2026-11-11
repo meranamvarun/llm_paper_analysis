@@ -1,0 +1,265 @@
+{
+  "pdf_page": 301,
+  "crop_top": 470.22279999999995,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "47. John Rawls’s concept of justice is a:",
+      "bbox": [
+        46.8,
+        3.9,
+        253.8,
+        14.100000000000001
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "(A) Legal Concept (B) Political Concept",
+      "bbox": [
+        75.3,
+        21.0,
+        415.79999999999995,
+        31.2
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(C) Sociological Concept (D) Philosophical Concept",
+      "bbox": [
+        75.3,
+        38.4,
+        441.9,
+        48.599999999999994
+      ]
+    }
+  ],
+  "text": "47. John Rawls’s concept of justice is a:\n(A) Legal Concept (B) Political Concept\n(C) Sociological Concept (D) Philosophical Concept",
+  "ocr_words": [
+    {
+      "text": "47.",
+      "x0": 46.8,
+      "top": 4.5,
+      "x1": 60.599999999999994,
+      "bottom": 12.3,
+      "confidence": 92.830261,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "John",
+      "x0": 74.7,
+      "top": 3.9,
+      "x1": 99.6,
+      "bottom": 12.3,
+      "confidence": 92.830261,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Rawls’s",
+      "x0": 102.89999999999999,
+      "top": 3.9,
+      "x1": 140.7,
+      "bottom": 12.3,
+      "confidence": 92.631798,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "concept",
+      "x0": 144.6,
+      "top": 4.8,
+      "x1": 182.1,
+      "bottom": 14.099999999999998,
+      "confidence": 96.759407,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 185.7,
+      "top": 3.9,
+      "x1": 195.29999999999998,
+      "bottom": 12.3,
+      "confidence": 96.347435,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "justice",
+      "x0": 197.1,
+      "top": 4.2,
+      "x1": 230.39999999999998,
+      "bottom": 14.100000000000001,
+      "confidence": 96.452316,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 234.0,
+      "top": 4.2,
+      "x1": 242.1,
+      "bottom": 12.3,
+      "confidence": 96.775314,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a:",
+      "x0": 246.0,
+      "top": 6.8999999999999995,
+      "x1": 253.8,
+      "bottom": 12.299999999999999,
+      "confidence": 96.49337,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 75.3,
+      "top": 21.0,
+      "x1": 89.1,
+      "bottom": 31.2,
+      "confidence": 91.312027,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Legal",
+      "x0": 103.2,
+      "top": 21.0,
+      "x1": 131.1,
+      "bottom": 31.2,
+      "confidence": 88.984802,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Concept",
+      "x0": 135.0,
+      "top": 21.0,
+      "x1": 175.2,
+      "bottom": 31.2,
+      "confidence": 95.748779,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(B)",
+      "x0": 302.09999999999997,
+      "top": 21.0,
+      "x1": 315.9,
+      "bottom": 31.2,
+      "confidence": 89.853271,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Political",
+      "x0": 330.3,
+      "top": 21.0,
+      "x1": 371.7,
+      "bottom": 29.4,
+      "confidence": 40.753609,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Concept",
+      "x0": 375.59999999999997,
+      "top": 21.0,
+      "x1": 415.79999999999995,
+      "bottom": 31.2,
+      "confidence": 95.329803,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(C)",
+      "x0": 75.3,
+      "top": 38.4,
+      "x1": 89.1,
+      "bottom": 48.599999999999994,
+      "confidence": 92.42997,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Sociological",
+      "x0": 103.5,
+      "top": 38.4,
+      "x1": 161.7,
+      "bottom": 48.599999999999994,
+      "confidence": 96.293579,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Concept",
+      "x0": 165.9,
+      "top": 38.4,
+      "x1": 206.1,
+      "bottom": 48.599999999999994,
+      "confidence": 96.086868,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(D)",
+      "x0": 302.09999999999997,
+      "top": 38.4,
+      "x1": 316.49999999999994,
+      "bottom": 48.599999999999994,
+      "confidence": 91.872589,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Philosophical",
+      "x0": 330.3,
+      "top": 38.4,
+      "x1": 397.8,
+      "bottom": 48.599999999999994,
+      "confidence": 90.965607,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Concept",
+      "x0": 401.7,
+      "top": 38.4,
+      "x1": 441.9,
+      "bottom": 48.599999999999994,
+      "confidence": 96.476051,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

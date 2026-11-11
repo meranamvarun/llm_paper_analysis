@@ -1,0 +1,123 @@
+{
+  "pdf_page": 399,
+  "crop_top": 45.80146000000002,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "al",
+      "bbox": [
+        73.8,
+        0.0,
+        84.3,
+        11.7
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "4. control of master over servant's acts",
+      "bbox": [
+        87.89999999999999,
+        3.5999999999999996,
+        206.1,
+        9.0
+      ]
+    }
+  ],
+  "text": "al\n4. control of master over servant's acts",
+  "ocr_words": [
+    {
+      "text": "al",
+      "x0": 73.8,
+      "top": 0.0,
+      "x1": 84.3,
+      "bottom": 11.7,
+      "confidence": 42.80442,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "4.",
+      "x0": 87.89999999999999,
+      "top": 3.9,
+      "x1": 92.99999999999999,
+      "bottom": 8.7,
+      "confidence": 96.345505,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "control",
+      "x0": 95.7,
+      "top": 3.5999999999999996,
+      "x1": 116.7,
+      "bottom": 9.0,
+      "confidence": 96.297287,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 119.1,
+      "top": 3.5999999999999996,
+      "x1": 125.1,
+      "bottom": 9.0,
+      "confidence": 96.927063,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "master",
+      "x0": 127.19999999999999,
+      "top": 4.2,
+      "x1": 148.2,
+      "bottom": 9.0,
+      "confidence": 95.833099,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "over",
+      "x0": 150.29999999999998,
+      "top": 5.1,
+      "x1": 163.49999999999997,
+      "bottom": 9.0,
+      "confidence": 96.571365,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "servant's",
+      "x0": 165.6,
+      "top": 3.5999999999999996,
+      "x1": 192.29999999999998,
+      "bottom": 9.0,
+      "confidence": 96.579895,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "acts",
+      "x0": 194.7,
+      "top": 4.2,
+      "x1": 206.1,
+      "bottom": 9.0,
+      "confidence": 96.853783,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

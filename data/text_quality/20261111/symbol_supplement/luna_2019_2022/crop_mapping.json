@@ -1,0 +1,102 @@
+{
+  "source_sha256": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b",
+  "mapping": [
+    {
+      "pdf_page": 195,
+      "line_id": "l0032",
+      "flag_ids": [
+        "flag-01564"
+      ],
+      "source_mapping": "raw_text_offset_or_unique_token",
+      "crop_index": 0,
+      "sheet_path": "data\\text_quality\\20261111\\symbol_supplement\\luna_2019_2022\\flag_crops\\sheet_001.jpg"
+    },
+    {
+      "pdf_page": 195,
+      "line_id": "l0035",
+      "flag_ids": [
+        "flag-01565"
+      ],
+      "source_mapping": "raw_text_offset_or_unique_token",
+      "crop_index": 1,
+      "sheet_path": "data\\text_quality\\20261111\\symbol_supplement\\luna_2019_2022\\flag_crops\\sheet_001.jpg"
+    },
+    {
+      "pdf_page": 232,
+      "line_id": "l0016",
+      "flag_ids": [
+        "flag-01566"
+      ],
+      "source_mapping": "raw_text_offset_or_unique_token",
+      "crop_index": 2,
+      "sheet_path": "data\\text_quality\\20261111\\symbol_supplement\\luna_2019_2022\\flag_crops\\sheet_001.jpg"
+    },
+    {
+      "pdf_page": 259,
+      "line_id": "l0010",
+      "flag_ids": [
+        "flag-01567"
+      ],
+      "source_mapping": "raw_text_offset_or_unique_token",
+      "crop_index": 3,
+      "sheet_path": "data\\text_quality\\20261111\\symbol_supplement\\luna_2019_2022\\flag_crops\\sheet_001.jpg"
+    },
+    {
+      "pdf_page": 259,
+      "line_id": "l0012",
+      "flag_ids": [
+        "flag-01568",
+        "flag-01569",
+        "flag-01570"
+      ],
+      "source_mapping": "raw_text_offset_or_unique_token",
+      "crop_index": 4,
+      "sheet_path": "data\\text_quality\\20261111\\symbol_supplement\\luna_2019_2022\\flag_crops\\sheet_001.jpg"
+    },
+    {
+      "pdf_page": 259,
+      "line_id": "l0013",
+      "flag_ids": [
+        "flag-01571"
+      ],
+      "source_mapping": "raw_text_offset_or_unique_token",
+      "crop_index": 5,
+      "sheet_path": "data\\text_quality\\20261111\\symbol_supplement\\luna_2019_2022\\flag_crops\\sheet_001.jpg"
+    },
+    {
+      "pdf_page": 259,
+      "line_id": "l0021",
+      "flag_ids": [
+        "flag-01572"
+      ],
+      "source_mapping": "raw_text_offset_or_unique_token",
+      "crop_index": 6,
+      "sheet_path": "data\\text_quality\\20261111\\symbol_supplement\\luna_2019_2022\\flag_crops\\sheet_001.jpg"
+    },
+    {
+      "pdf_page": 267,
+      "line_id": "l0000",
+      "flag_ids": [
+        "flag-01573"
+      ],
+      "source_mapping": "raw_text_offset_or_unique_token",
+      "crop_index": 7,
+      "sheet_path": "data\\text_quality\\20261111\\symbol_supplement\\luna_2019_2022\\flag_crops\\sheet_001.jpg"
+    },
+    {
+      "pdf_page": 303,
+      "line_id": "l0011",
+      "flag_ids": [
+        "flag-01574"
+      ],
+      "source_mapping": "raw_text_offset_or_unique_token",
+      "crop_index": 8,
+      "sheet_path": "data\\text_quality\\20261111\\symbol_supplement\\luna_2019_2022\\flag_crops\\sheet_002.jpg"
+    }
+  ],
+  "unmapped_flags": [],
+  "sheet_hashes": {
+    "data\\text_quality\\20261111\\symbol_supplement\\luna_2019_2022\\flag_crops\\sheet_001.jpg": "589db76131d7240b8f4c070bf2fa7a10b72cf2bb24ba271c1dafd44a5b00b003",
+    "data\\text_quality\\20261111\\symbol_supplement\\luna_2019_2022\\flag_crops\\sheet_002.jpg": "7c559a425a9790c9e21849b84c24732668ce7b26cde98e3365aa26168978204c"
+  }
+}

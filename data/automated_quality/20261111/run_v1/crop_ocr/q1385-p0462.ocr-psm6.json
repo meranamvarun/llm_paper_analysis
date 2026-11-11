@@ -1,0 +1,536 @@
+{
+  "pdf_page": 462,
+  "crop_top": 518.35,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "36. The right of accused to be defended by a legal practitioner of his/her choice",
+      "bbox": [
+        72.6,
+        2.4,
+        473.1,
+        15.9
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "an commences",
+      "bbox": [
+        149.7,
+        6.6,
+        534.6,
+        12.6
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "when:",
+      "bbox": [
+        90.3,
+        20.099999999999998,
+        119.69999999999999,
+        28.5
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "A. — the charge sheet is issued",
+      "bbox": [
+        144.29999999999998,
+        58.5,
+        295.2,
+        71.4
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "B. the accused pleads not guilty",
+      "bbox": [
+        144.9,
+        86.7,
+        312.59999999999997,
+        97.2
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "C. the accused is remanded",
+      "bbox": [
+        144.6,
+        113.39999999999999,
+        291.6,
+        121.8
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "D. the accused is arrested",
+      "bbox": [
+        144.9,
+        140.4,
+        284.4,
+        148.8
+      ]
+    }
+  ],
+  "text": "36. The right of accused to be defended by a legal practitioner of his/her choice\nan commences\nwhen:\nA. — the charge sheet is issued\nB. the accused pleads not guilty\nC. the accused is remanded\nD. the accused is arrested",
+  "ocr_words": [
+    {
+      "text": "36.",
+      "x0": 72.6,
+      "top": 4.5,
+      "x1": 86.39999999999999,
+      "bottom": 12.6,
+      "confidence": 96.616943,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 90.0,
+      "top": 4.2,
+      "x1": 107.7,
+      "bottom": 12.600000000000001,
+      "confidence": 96.858437,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "right",
+      "x0": 111.89999999999999,
+      "top": 4.2,
+      "x1": 133.5,
+      "bottom": 14.7,
+      "confidence": 96.808296,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 137.1,
+      "top": 3.9,
+      "x1": 146.4,
+      "bottom": 12.6,
+      "confidence": 96.970261,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "an",
+      "x0": 149.7,
+      "top": 6.6,
+      "x1": 160.5,
+      "bottom": 12.6,
+      "confidence": 96.761482,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "accused",
+      "x0": 164.4,
+      "top": 4.2,
+      "x1": 202.2,
+      "bottom": 12.600000000000001,
+      "confidence": 96.761482,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 206.1,
+      "top": 5.1,
+      "x1": 215.4,
+      "bottom": 12.6,
+      "confidence": 96.842705,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "be",
+      "x0": 219.6,
+      "top": 4.2,
+      "x1": 230.7,
+      "bottom": 12.600000000000001,
+      "confidence": 96.608688,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "defended",
+      "x0": 234.29999999999998,
+      "top": 3.9,
+      "x1": 279.59999999999997,
+      "bottom": 12.6,
+      "confidence": 96.492638,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "by",
+      "x0": 284.09999999999997,
+      "top": 4.2,
+      "x1": 294.59999999999997,
+      "bottom": 14.7,
+      "confidence": 96.566895,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 295.2,
+      "top": 2.4,
+      "x1": 300.0,
+      "bottom": 15.9,
+      "confidence": 96.959335,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "legal",
+      "x0": 307.2,
+      "top": 4.2,
+      "x1": 328.2,
+      "bottom": 14.7,
+      "confidence": 96.959335,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "practitioner",
+      "x0": 332.4,
+      "top": 4.5,
+      "x1": 389.09999999999997,
+      "bottom": 14.7,
+      "confidence": 96.601913,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 392.7,
+      "top": 3.9,
+      "x1": 402.0,
+      "bottom": 12.6,
+      "confidence": 96.651085,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "his/her",
+      "x0": 405.59999999999997,
+      "top": 3.5999999999999996,
+      "x1": 439.2,
+      "bottom": 14.1,
+      "confidence": 95.427536,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "choice",
+      "x0": 442.8,
+      "top": 4.2,
+      "x1": 473.1,
+      "bottom": 12.600000000000001,
+      "confidence": 96.883415,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "commences",
+      "x0": 477.0,
+      "top": 6.6,
+      "x1": 534.6,
+      "bottom": 12.6,
+      "confidence": 96.154465,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "when:",
+      "x0": 90.3,
+      "top": 20.099999999999998,
+      "x1": 119.69999999999999,
+      "bottom": 28.5,
+      "confidence": 96.115219,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "A.",
+      "x0": 144.29999999999998,
+      "top": 60.3,
+      "x1": 152.99999999999997,
+      "bottom": 67.8,
+      "confidence": 87.967995,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "—",
+      "x0": 161.1,
+      "top": 58.5,
+      "x1": 166.79999999999998,
+      "bottom": 71.4,
+      "confidence": 15.621384,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "the",
+      "x0": 171.29999999999998,
+      "top": 59.699999999999996,
+      "x1": 186.89999999999998,
+      "bottom": 68.1,
+      "confidence": 96.374886,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "charge",
+      "x0": 190.5,
+      "top": 59.699999999999996,
+      "x1": 222.3,
+      "bottom": 70.19999999999999,
+      "confidence": 96.840584,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "sheet",
+      "x0": 225.9,
+      "top": 59.699999999999996,
+      "x1": 252.3,
+      "bottom": 68.1,
+      "confidence": 96.695244,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "is",
+      "x0": 256.2,
+      "top": 60.0,
+      "x1": 262.2,
+      "bottom": 68.1,
+      "confidence": 96.281647,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "issued",
+      "x0": 266.09999999999997,
+      "top": 59.699999999999996,
+      "x1": 295.2,
+      "bottom": 68.1,
+      "confidence": 96.070038,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "B.",
+      "x0": 144.9,
+      "top": 87.3,
+      "x1": 152.70000000000002,
+      "bottom": 94.8,
+      "confidence": 91.529915,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "the",
+      "x0": 171.29999999999998,
+      "top": 86.7,
+      "x1": 186.89999999999998,
+      "bottom": 95.10000000000001,
+      "confidence": 33.605179,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "accused",
+      "x0": 190.5,
+      "top": 86.7,
+      "x1": 228.3,
+      "bottom": 95.10000000000001,
+      "confidence": 96.903938,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "pleads",
+      "x0": 232.79999999999998,
+      "top": 86.7,
+      "x1": 263.09999999999997,
+      "bottom": 97.2,
+      "confidence": 96.558014,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "not",
+      "x0": 267.3,
+      "top": 87.6,
+      "x1": 282.6,
+      "bottom": 95.1,
+      "confidence": 96.133247,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "guilty",
+      "x0": 286.2,
+      "top": 86.7,
+      "x1": 312.59999999999997,
+      "bottom": 97.2,
+      "confidence": 96.532112,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "C.",
+      "x0": 144.6,
+      "top": 113.7,
+      "x1": 152.7,
+      "bottom": 121.8,
+      "confidence": 88.808624,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "the",
+      "x0": 171.29999999999998,
+      "top": 113.39999999999999,
+      "x1": 186.89999999999998,
+      "bottom": 121.8,
+      "confidence": 56.712875,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "accused",
+      "x0": 190.5,
+      "top": 113.39999999999999,
+      "x1": 228.3,
+      "bottom": 121.8,
+      "confidence": 96.934166,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "is",
+      "x0": 232.79999999999998,
+      "top": 113.7,
+      "x1": 238.79999999999998,
+      "bottom": 121.8,
+      "confidence": 96.234856,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "remanded",
+      "x0": 243.0,
+      "top": 113.39999999999999,
+      "x1": 291.6,
+      "bottom": 121.8,
+      "confidence": 96.516235,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "D.",
+      "x0": 144.9,
+      "top": 141.0,
+      "x1": 153.6,
+      "bottom": 148.5,
+      "confidence": 92.877159,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "the",
+      "x0": 171.0,
+      "top": 140.4,
+      "x1": 187.2,
+      "bottom": 148.8,
+      "confidence": 65.738022,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "accused",
+      "x0": 190.79999999999998,
+      "top": 140.4,
+      "x1": 229.2,
+      "bottom": 148.8,
+      "confidence": 96.101585,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "is",
+      "x0": 233.39999999999998,
+      "top": 140.7,
+      "x1": 239.99999999999997,
+      "bottom": 148.79999999999998,
+      "confidence": 96.910889,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "arrested",
+      "x0": 243.6,
+      "top": 140.4,
+      "x1": 284.4,
+      "bottom": 148.8,
+      "confidence": 96.744049,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

@@ -1,0 +1,17 @@
+﻿{
+  "requested_model": "gpt-6-luna",
+  "reasoning_effort": "medium",
+  "runtime_snapshot": "unavailable in session metadata",
+  "cost": "not exposed; no separate API/OCR calls made",
+  "sample": {"pages":8,"native_pages":4,"tesseract_pages":4,"source_pngs_inspected":8,"random_seed":20261110},
+  "blind_stage": {"file":"blind_observations.json","sha256":"860720cfbd1e67a57e15739a14e6708f659a732013538cf7ca0fc0789bd1c3b4","frozen_before_extraction_access":true,"complete_items_transcribed":14},
+  "findings": {
+    "boundary": "One clear merged/missing distinct question boundary: printed Q3 on PDF p.330 was not separately extracted and appears within an oversized Q2 record. Other sampled transcribed question boundaries were identifiable; continuations were generally distinguishable.",
+    "native_stratum": "On sampled native pages, question detection was generally strong. Noted Q19 option D split into two options and footer/page contamination in options on p.178 and p.305. Q26 p.449 has a possible spelling discrepancy (‘civile’ visually vs ‘civilie’ extracted); retain for human check.",
+    "ocr_stratum": "Scanned pages show substantial option-level OCR problems: missing options in Q6 p.339 and Q61-Q63 p.414, option-label duplication in Q23 p.405 and Q62 p.414, garbled/reordered option text on p.405, and extraction noise from answer marks on p.339.",
+    "reviewer_uncertainty": "Blind transcription has a possible normalization/error: p.405 Q21 option 1 was recorded ‘Video-conferencing’; source image appears to print ‘Vedio-conferencing’. Frozen blind file is unchanged; count this as reviewer transcription uncertainty, not extraction error. Case names and noisy scan glyphs remain unverified.",
+    "denominators": "8 sampled pages inspected (including all pages in the frozen sample); 14 complete questions transcribed under the first-two-per-page rule; 1/14 clear boundary mismatch. Four additional visible questions were incomplete/outside transcription scope. Option issues are qualitative observations, not an exhaustive error rate. No CER or corpus error rate calculated."
+  },
+  "caveats": ["AI visual observations are not human ground truth.","The sample is small, stratified by extraction method, and should not be used to estimate corpus-wide error rates.","No legal answers or source text were inferred or corrected.","Page-level visual count includes continuation and cutoff questions as noted in comparison.json."],
+  "artifacts": ["blind_observations.json","blind_observations.sha256","comparison.json","prompt.txt"]
+}

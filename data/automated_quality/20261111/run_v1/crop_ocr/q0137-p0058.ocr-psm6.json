@@ -1,0 +1,515 @@
+{
+  "pdf_page": 58,
+  "crop_top": 506.91859999999997,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "18. Match List I with List II.",
+      "bbox": [
+        105.89999999999999,
+        3.5999999999999996,
+        252.6,
+        12.0
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "List I List I",
+      "bbox": [
+        216.0,
+        32.699999999999996,
+        445.2,
+        41.7
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "Board of India Act, 1992)",
+      "bbox": [
+        166.2,
+        61.8,
+        292.79999999999995,
+        72.0
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "Choose the correct answer:",
+      "bbox": [
+        126.6,
+        153.9,
+        261.9,
+        162.3
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(A) A-I, B-III, C-I, D-IV (B) A-II, B-I, C-IV, D-II",
+      "bbox": [
+        125.39999999999999,
+        169.79999999999998,
+        439.2,
+        179.99999999999997
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "(C) A-ITI, B-IV, C-I, D-II (D) A-IV, B-II, C-II, D-I",
+      "bbox": [
+        125.39999999999999,
+        186.0,
+        439.2,
+        196.2
+      ]
+    }
+  ],
+  "text": "18. Match List I with List II.\nList I List I\nBoard of India Act, 1992)\nChoose the correct answer:\n(A) A-I, B-III, C-I, D-IV (B) A-II, B-I, C-IV, D-II\n(C) A-ITI, B-IV, C-I, D-II (D) A-IV, B-II, C-II, D-I",
+  "ocr_words": [
+    {
+      "text": "18.",
+      "x0": 105.89999999999999,
+      "top": 4.2,
+      "x1": 119.1,
+      "bottom": 12.0,
+      "confidence": 96.444115,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Match",
+      "x0": 126.3,
+      "top": 3.5999999999999996,
+      "x1": 158.1,
+      "bottom": 12.0,
+      "confidence": 95.221512,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "List",
+      "x0": 161.7,
+      "top": 3.9,
+      "x1": 181.2,
+      "bottom": 12.0,
+      "confidence": 96.604424,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "I",
+      "x0": 185.1,
+      "top": 3.9,
+      "x1": 188.7,
+      "bottom": 11.7,
+      "confidence": 96.17823,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "with",
+      "x0": 192.6,
+      "top": 3.5999999999999996,
+      "x1": 215.1,
+      "bottom": 12.0,
+      "confidence": 96.17823,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "List",
+      "x0": 218.4,
+      "top": 3.9,
+      "x1": 238.20000000000002,
+      "bottom": 12.0,
+      "confidence": 96.393387,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "II.",
+      "x0": 241.79999999999998,
+      "top": 3.9,
+      "x1": 252.6,
+      "bottom": 12.0,
+      "confidence": 63.386757,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "List",
+      "x0": 216.0,
+      "top": 33.6,
+      "x1": 235.8,
+      "bottom": 41.7,
+      "confidence": 95.559586,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "I",
+      "x0": 239.39999999999998,
+      "top": 33.6,
+      "x1": 242.99999999999997,
+      "bottom": 41.4,
+      "confidence": 96.588707,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "List",
+      "x0": 413.7,
+      "top": 32.699999999999996,
+      "x1": 433.5,
+      "bottom": 40.8,
+      "confidence": 96.367523,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "I",
+      "x0": 437.09999999999997,
+      "top": 32.699999999999996,
+      "x1": 445.2,
+      "bottom": 40.49999999999999,
+      "confidence": 82.547607,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Board",
+      "x0": 166.2,
+      "top": 61.8,
+      "x1": 196.5,
+      "bottom": 70.2,
+      "confidence": 96.737724,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 200.1,
+      "top": 61.8,
+      "x1": 209.7,
+      "bottom": 70.2,
+      "confidence": 96.435112,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "India",
+      "x0": 212.4,
+      "top": 61.8,
+      "x1": 238.8,
+      "bottom": 70.2,
+      "confidence": 96.478607,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Act,",
+      "x0": 241.79999999999998,
+      "top": 61.8,
+      "x1": 261.29999999999995,
+      "bottom": 71.39999999999999,
+      "confidence": 96.556023,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "1992)",
+      "x0": 266.4,
+      "top": 61.8,
+      "x1": 292.79999999999995,
+      "bottom": 72.0,
+      "confidence": 96.603561,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Choose",
+      "x0": 126.6,
+      "top": 153.9,
+      "x1": 161.7,
+      "bottom": 162.3,
+      "confidence": 96.75148,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "the",
+      "x0": 165.6,
+      "top": 153.9,
+      "x1": 181.5,
+      "bottom": 162.3,
+      "confidence": 96.600937,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "correct",
+      "x0": 185.1,
+      "top": 155.1,
+      "x1": 219.29999999999998,
+      "bottom": 162.29999999999998,
+      "confidence": 96.365211,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "answer:",
+      "x0": 223.2,
+      "top": 156.9,
+      "x1": 261.9,
+      "bottom": 162.3,
+      "confidence": 96.215256,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(A)",
+      "x0": 125.39999999999999,
+      "top": 169.79999999999998,
+      "x1": 139.2,
+      "bottom": 179.7,
+      "confidence": 92.101997,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "A-I,",
+      "x0": 147.9,
+      "top": 169.79999999999998,
+      "x1": 166.20000000000002,
+      "bottom": 179.39999999999998,
+      "confidence": 86.105797,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "B-III,",
+      "x0": 170.7,
+      "top": 170.1,
+      "x1": 197.39999999999998,
+      "bottom": 179.4,
+      "confidence": 68.385544,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "C-I,",
+      "x0": 201.9,
+      "top": 169.79999999999998,
+      "x1": 224.1,
+      "bottom": 179.39999999999998,
+      "confidence": 57.296585,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "D-IV",
+      "x0": 228.29999999999998,
+      "top": 170.1,
+      "x1": 252.6,
+      "bottom": 178.2,
+      "confidence": 90.75972,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "(B)",
+      "x0": 315.3,
+      "top": 169.79999999999998,
+      "x1": 329.40000000000003,
+      "bottom": 179.99999999999997,
+      "confidence": 89.231934,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "A-II,",
+      "x0": 334.8,
+      "top": 169.79999999999998,
+      "x1": 357.6,
+      "bottom": 179.39999999999998,
+      "confidence": 74.507309,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "B-I,",
+      "x0": 362.09999999999997,
+      "top": 170.1,
+      "x1": 379.79999999999995,
+      "bottom": 179.4,
+      "confidence": 92.122452,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "C-IV,",
+      "x0": 384.59999999999997,
+      "top": 169.79999999999998,
+      "x1": 410.09999999999997,
+      "bottom": 179.7,
+      "confidence": 92.162476,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "D-II",
+      "x0": 414.3,
+      "top": 170.1,
+      "x1": 439.2,
+      "bottom": 177.9,
+      "confidence": 82.408859,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "(C)",
+      "x0": 125.39999999999999,
+      "top": 186.0,
+      "x1": 139.2,
+      "bottom": 195.9,
+      "confidence": 85.457008,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "A-ITI,",
+      "x0": 147.9,
+      "top": 186.0,
+      "x1": 175.20000000000002,
+      "bottom": 195.6,
+      "confidence": 35.472275,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "B-IV,",
+      "x0": 179.7,
+      "top": 186.29999999999998,
+      "x1": 205.2,
+      "bottom": 195.6,
+      "confidence": 90.717606,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "C-I,",
+      "x0": 210.0,
+      "top": 186.0,
+      "x1": 227.4,
+      "bottom": 195.6,
+      "confidence": 90.460121,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "D-II",
+      "x0": 231.6,
+      "top": 186.29999999999998,
+      "x1": 252.29999999999998,
+      "bottom": 194.1,
+      "confidence": 64.732178,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "(D)",
+      "x0": 314.7,
+      "top": 186.0,
+      "x1": 329.4,
+      "bottom": 196.2,
+      "confidence": 90.098846,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "A-IV,",
+      "x0": 334.8,
+      "top": 186.0,
+      "x1": 361.2,
+      "bottom": 195.6,
+      "confidence": 90.098846,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "B-II,",
+      "x0": 365.7,
+      "top": 186.29999999999998,
+      "x1": 387.9,
+      "bottom": 195.89999999999998,
+      "confidence": 91.060463,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "C-II,",
+      "x0": 392.4,
+      "top": 186.0,
+      "x1": 419.09999999999997,
+      "bottom": 195.9,
+      "confidence": 33.584579,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "D-I",
+      "x0": 423.3,
+      "top": 186.29999999999998,
+      "x1": 439.2,
+      "bottom": 194.1,
+      "confidence": 92.046005,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

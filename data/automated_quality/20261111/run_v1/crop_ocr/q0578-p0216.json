@@ -1,0 +1,472 @@
+{
+  "pdf_page": 216,
+  "crop_top": 578.28,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "92. Where in a criminal case there is conflict between presumption of innocence and any",
+      "bbox": [
+        90.6,
+        3.3,
+        513.5999999999999,
+        13.5
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "other presumption, in such situation which presumption shall prevail?",
+      "bbox": [
+        111.3,
+        19.5,
+        436.8,
+        29.4
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(A) Presumption of guilty (B) Presumption of innocence",
+      "bbox": [
+        111.0,
+        36.0,
+        441.29999999999995,
+        46.2
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(C) Mix Presumption (D) No presumption",
+      "bbox": [
+        110.39999999999999,
+        52.199999999999996,
+        393.0,
+        62.1
+      ]
+    }
+  ],
+  "text": "92. Where in a criminal case there is conflict between presumption of innocence and any\nother presumption, in such situation which presumption shall prevail?\n(A) Presumption of guilty (B) Presumption of innocence\n(C) Mix Presumption (D) No presumption",
+  "ocr_words": [
+    {
+      "text": "92.",
+      "x0": 90.6,
+      "top": 3.5999999999999996,
+      "x1": 104.1,
+      "bottom": 11.399999999999999,
+      "confidence": 96.459114,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Where",
+      "x0": 111.0,
+      "top": 3.3,
+      "x1": 141.9,
+      "bottom": 11.399999999999999,
+      "confidence": 96.725418,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 146.1,
+      "top": 3.5999999999999996,
+      "x1": 153.0,
+      "bottom": 11.1,
+      "confidence": 94.260162,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 157.2,
+      "top": 5.3999999999999995,
+      "x1": 162.6,
+      "bottom": 11.399999999999999,
+      "confidence": 94.965012,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "criminal",
+      "x0": 166.2,
+      "top": 3.3,
+      "x1": 202.2,
+      "bottom": 11.399999999999999,
+      "confidence": 94.965012,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "case",
+      "x0": 206.1,
+      "top": 5.3999999999999995,
+      "x1": 228.0,
+      "bottom": 11.399999999999999,
+      "confidence": 96.450874,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "there",
+      "x0": 231.6,
+      "top": 3.3,
+      "x1": 255.6,
+      "bottom": 11.399999999999999,
+      "confidence": 96.259682,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 259.8,
+      "top": 3.5999999999999996,
+      "x1": 266.40000000000003,
+      "bottom": 11.399999999999999,
+      "confidence": 96.259682,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "conflict",
+      "x0": 270.0,
+      "top": 3.3,
+      "x1": 303.0,
+      "bottom": 11.399999999999999,
+      "confidence": 96.381813,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "between",
+      "x0": 306.9,
+      "top": 3.3,
+      "x1": 345.9,
+      "bottom": 11.399999999999999,
+      "confidence": 96.196564,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "presumption",
+      "x0": 350.4,
+      "top": 3.5999999999999996,
+      "x1": 408.0,
+      "bottom": 13.2,
+      "confidence": 96.193459,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 411.9,
+      "top": 3.3,
+      "x1": 420.29999999999995,
+      "bottom": 11.399999999999999,
+      "confidence": 96.625496,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "innocence",
+      "x0": 424.5,
+      "top": 3.5999999999999996,
+      "x1": 471.9,
+      "bottom": 11.399999999999999,
+      "confidence": 96.32325,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 475.79999999999995,
+      "top": 3.3,
+      "x1": 492.9,
+      "bottom": 11.399999999999999,
+      "confidence": 96.808472,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "any",
+      "x0": 496.79999999999995,
+      "top": 5.3999999999999995,
+      "x1": 513.5999999999999,
+      "bottom": 13.5,
+      "confidence": 96.16497,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "other",
+      "x0": 111.3,
+      "top": 19.5,
+      "x1": 135.3,
+      "bottom": 27.6,
+      "confidence": 96.005203,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "presumption,",
+      "x0": 138.9,
+      "top": 19.8,
+      "x1": 199.2,
+      "bottom": 29.4,
+      "confidence": 96.480087,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "in",
+      "x0": 203.7,
+      "top": 19.8,
+      "x1": 210.89999999999998,
+      "bottom": 27.3,
+      "confidence": 96.908035,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "such",
+      "x0": 214.79999999999998,
+      "top": 19.5,
+      "x1": 236.39999999999998,
+      "bottom": 27.6,
+      "confidence": 96.901962,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "situation",
+      "x0": 240.29999999999998,
+      "top": 19.8,
+      "x1": 279.29999999999995,
+      "bottom": 27.6,
+      "confidence": 96.713425,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "which",
+      "x0": 282.9,
+      "top": 19.5,
+      "x1": 309.59999999999997,
+      "bottom": 27.6,
+      "confidence": 96.588638,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "presumption",
+      "x0": 313.8,
+      "top": 19.8,
+      "x1": 371.4,
+      "bottom": 29.4,
+      "confidence": 96.166626,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "shall",
+      "x0": 375.3,
+      "top": 19.5,
+      "x1": 396.3,
+      "bottom": 27.6,
+      "confidence": 96.397888,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "prevail?",
+      "x0": 400.5,
+      "top": 19.5,
+      "x1": 436.8,
+      "bottom": 29.4,
+      "confidence": 96.58567,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(A)",
+      "x0": 111.0,
+      "top": 36.0,
+      "x1": 123.9,
+      "bottom": 45.9,
+      "confidence": 96.643478,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Presumption",
+      "x0": 130.2,
+      "top": 36.0,
+      "x1": 188.7,
+      "bottom": 45.9,
+      "confidence": 96.759705,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 192.6,
+      "top": 36.0,
+      "x1": 201.29999999999998,
+      "bottom": 44.1,
+      "confidence": 96.669052,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "guilty",
+      "x0": 204.6,
+      "top": 36.0,
+      "x1": 229.2,
+      "bottom": 46.2,
+      "confidence": 96.35347,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(B)",
+      "x0": 298.8,
+      "top": 36.0,
+      "x1": 311.7,
+      "bottom": 45.9,
+      "confidence": 92.97715,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Presumption",
+      "x0": 318.9,
+      "top": 36.0,
+      "x1": 377.7,
+      "bottom": 45.9,
+      "confidence": 96.27964,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 381.59999999999997,
+      "top": 36.0,
+      "x1": 389.99999999999994,
+      "bottom": 44.1,
+      "confidence": 96.386696,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "innocence",
+      "x0": 393.9,
+      "top": 36.3,
+      "x1": 441.29999999999995,
+      "bottom": 44.099999999999994,
+      "confidence": 96.946358,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(C)",
+      "x0": 110.39999999999999,
+      "top": 52.199999999999996,
+      "x1": 123.89999999999999,
+      "bottom": 62.099999999999994,
+      "confidence": 93.161507,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Mix",
+      "x0": 130.2,
+      "top": 52.199999999999996,
+      "x1": 145.79999999999998,
+      "bottom": 59.99999999999999,
+      "confidence": 96.959991,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Presumption",
+      "x0": 150.0,
+      "top": 52.199999999999996,
+      "x1": 208.5,
+      "bottom": 62.099999999999994,
+      "confidence": 96.384041,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(D)",
+      "x0": 298.2,
+      "top": 52.199999999999996,
+      "x1": 311.7,
+      "bottom": 62.099999999999994,
+      "confidence": 91.25415,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "No",
+      "x0": 318.9,
+      "top": 52.199999999999996,
+      "x1": 331.5,
+      "bottom": 60.3,
+      "confidence": 96.396141,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "presumption",
+      "x0": 335.4,
+      "top": 52.5,
+      "x1": 393.0,
+      "bottom": 62.1,
+      "confidence": 96.545052,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

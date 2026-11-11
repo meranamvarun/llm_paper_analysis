@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-11",
+  "checks": {
+    "final_manifest_inputs_outputs_code": true,
+    "all_original_fields_and_six_acceptances_preserved": true,
+    "review_coverage_image_hashes_encoding": true,
+    "blind_sample_unchanged_and_unreviewed": true,
+    "no_unsupported_accuracy_claim": true
+  },
+  "extraction_tests_passed": 42,
+  "human_accuracy": "NOT_ESTABLISHED",
+  "html_validation": "Content/count/hash checks; browser interaction not exercised",
+  "harness_tests_run": 16,
+  "harness_shell_tests_skipped": 6,
+  "harness_check": {
+    "errors": 0,
+    "warnings": 0
+  }
+}

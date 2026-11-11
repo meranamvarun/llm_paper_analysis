@@ -1,0 +1,480 @@
+{
+  "pdf_page": 254,
+  "crop_top": 69.9319999999999,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "103. Which court is competent to grant bail under Section 439 of the Code of Criminal",
+      "bbox": [
+        73.5,
+        3.9,
+        493.5,
+        15.0
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Procedure?",
+      "bbox": [
+        93.89999999999999,
+        17.7,
+        148.2,
+        26.1
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(A) Court of Magistrate.",
+      "bbox": [
+        100.5,
+        33.6,
+        218.7,
+        44.7
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(B) Court of Sessions.",
+      "bbox": [
+        100.5,
+        49.5,
+        208.8,
+        60.3
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(©) High Court.",
+      "bbox": [
+        100.5,
+        64.8,
+        178.2,
+        75.89999999999999
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "(D) Both (B) and (C).",
+      "bbox": [
+        100.5,
+        81.0,
+        205.79999999999998,
+        91.8
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "CORRECT OPTION: D",
+      "bbox": [
+        72.3,
+        97.2,
+        197.7,
+        105.9
+      ]
+    }
+  ],
+  "text": "103. Which court is competent to grant bail under Section 439 of the Code of Criminal\nProcedure?\n(A) Court of Magistrate.\n(B) Court of Sessions.\n(©) High Court.\n(D) Both (B) and (C).\nCORRECT OPTION: D",
+  "ocr_words": [
+    {
+      "text": "103.",
+      "x0": 73.5,
+      "top": 3.9,
+      "x1": 90.3,
+      "bottom": 12.6,
+      "confidence": 96.680771,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Which",
+      "x0": 93.89999999999999,
+      "top": 3.9,
+      "x1": 125.69999999999999,
+      "bottom": 12.3,
+      "confidence": 96.282631,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "court",
+      "x0": 129.0,
+      "top": 5.3999999999999995,
+      "x1": 153.6,
+      "bottom": 12.299999999999999,
+      "confidence": 96.520584,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 157.5,
+      "top": 3.9,
+      "x1": 164.7,
+      "bottom": 12.3,
+      "confidence": 96.874123,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "competent",
+      "x0": 168.6,
+      "top": 5.1,
+      "x1": 219.6,
+      "bottom": 15.0,
+      "confidence": 96.874123,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 223.5,
+      "top": 5.1,
+      "x1": 232.2,
+      "bottom": 12.299999999999999,
+      "confidence": 97.020287,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "grant",
+      "x0": 236.1,
+      "top": 5.3999999999999995,
+      "x1": 260.1,
+      "bottom": 15.0,
+      "confidence": 96.998978,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "bail",
+      "x0": 263.09999999999997,
+      "top": 3.9,
+      "x1": 281.09999999999997,
+      "bottom": 12.3,
+      "confidence": 96.666351,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "under",
+      "x0": 284.7,
+      "top": 3.9,
+      "x1": 313.2,
+      "bottom": 12.3,
+      "confidence": 96.458557,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Section",
+      "x0": 317.09999999999997,
+      "top": 3.9,
+      "x1": 352.49999999999994,
+      "bottom": 12.3,
+      "confidence": 96.186157,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "439",
+      "x0": 355.8,
+      "top": 3.9,
+      "x1": 373.5,
+      "bottom": 12.6,
+      "confidence": 96.552925,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 378.0,
+      "top": 3.9,
+      "x1": 388.8,
+      "bottom": 12.3,
+      "confidence": 96.404312,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 390.9,
+      "top": 3.9,
+      "x1": 405.0,
+      "bottom": 12.3,
+      "confidence": 96.404312,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Code",
+      "x0": 408.9,
+      "top": 3.9,
+      "x1": 433.79999999999995,
+      "bottom": 12.3,
+      "confidence": 96.891609,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 437.7,
+      "top": 3.9,
+      "x1": 448.8,
+      "bottom": 12.3,
+      "confidence": 96.640221,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Criminal",
+      "x0": 451.5,
+      "top": 3.9,
+      "x1": 493.5,
+      "bottom": 12.3,
+      "confidence": 96.686516,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Procedure?",
+      "x0": 93.89999999999999,
+      "top": 17.7,
+      "x1": 148.2,
+      "bottom": 26.1,
+      "confidence": 96.621033,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(A)",
+      "x0": 100.5,
+      "top": 33.6,
+      "x1": 113.4,
+      "bottom": 44.4,
+      "confidence": 95.792252,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Court",
+      "x0": 122.1,
+      "top": 33.9,
+      "x1": 149.4,
+      "bottom": 42.0,
+      "confidence": 95.978798,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 153.29999999999998,
+      "top": 33.6,
+      "x1": 164.1,
+      "bottom": 42.0,
+      "confidence": 96.614365,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Magistrate.",
+      "x0": 165.6,
+      "top": 33.6,
+      "x1": 218.7,
+      "bottom": 44.7,
+      "confidence": 96.603676,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(B)",
+      "x0": 100.5,
+      "top": 49.5,
+      "x1": 112.8,
+      "bottom": 60.3,
+      "confidence": 92.377647,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Court",
+      "x0": 122.1,
+      "top": 49.8,
+      "x1": 149.4,
+      "bottom": 57.9,
+      "confidence": 96.270538,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "of",
+      "x0": 153.29999999999998,
+      "top": 49.5,
+      "x1": 164.1,
+      "bottom": 57.9,
+      "confidence": 96.53289,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Sessions.",
+      "x0": 165.9,
+      "top": 49.5,
+      "x1": 208.8,
+      "bottom": 57.9,
+      "confidence": 96.886299,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(©)",
+      "x0": 100.5,
+      "top": 64.8,
+      "x1": 112.8,
+      "bottom": 75.6,
+      "confidence": 81.573708,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "High",
+      "x0": 121.8,
+      "top": 64.8,
+      "x1": 145.2,
+      "bottom": 75.89999999999999,
+      "confidence": 96.393951,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Court.",
+      "x0": 149.1,
+      "top": 65.1,
+      "x1": 178.2,
+      "bottom": 73.19999999999999,
+      "confidence": 96.325439,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "(D)",
+      "x0": 100.5,
+      "top": 81.0,
+      "x1": 113.4,
+      "bottom": 91.8,
+      "confidence": 90.62355,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Both",
+      "x0": 121.8,
+      "top": 81.0,
+      "x1": 144.9,
+      "bottom": 89.4,
+      "confidence": 92.744774,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "(B)",
+      "x0": 148.5,
+      "top": 81.0,
+      "x1": 163.5,
+      "bottom": 91.8,
+      "confidence": 92.744774,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "and",
+      "x0": 167.4,
+      "top": 81.0,
+      "x1": 184.8,
+      "bottom": 89.4,
+      "confidence": 92.480118,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "(C).",
+      "x0": 188.1,
+      "top": 81.0,
+      "x1": 205.79999999999998,
+      "bottom": 91.8,
+      "confidence": 91.605431,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "CORRECT",
+      "x0": 72.3,
+      "top": 97.2,
+      "x1": 131.7,
+      "bottom": 105.9,
+      "confidence": 96.368172,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "OPTION:",
+      "x0": 135.29999999999998,
+      "top": 97.2,
+      "x1": 185.39999999999998,
+      "bottom": 105.9,
+      "confidence": 92.703072,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "D",
+      "x0": 189.6,
+      "top": 97.5,
+      "x1": 197.7,
+      "bottom": 105.6,
+      "confidence": 92.703072,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

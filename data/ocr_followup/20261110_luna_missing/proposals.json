@@ -1,0 +1,98 @@
+﻿{
+    "created_date":  "2026-11-10",
+    "requested_model":  "gpt-6-luna",
+    "runtime_snapshot":  "unavailable",
+    "status":  "ai_proposal_unreviewed",
+    "source_images":  [
+                          {
+                              "pdf_page":  330,
+                              "path":  "data/ocr_audit/20261110_luna_seed20261110/page_0330.png",
+                              "sha256":  "FD5998848C509B1AA3B0C1B9C9035ECA595894A6599BC99A1EAE3C05AFC4B508"
+                          },
+                          {
+                              "pdf_page":  339,
+                              "path":  "data/ocr_audit/20261110_luna_seed20261110/page_0339.png",
+                              "sha256":  "A8BF3CB4BDA3EFF99198945377C4CA63C3C6FA3CA811D1F4CA3B4C81553FE83D"
+                          },
+                          {
+                              "pdf_page":  414,
+                              "path":  "data/ocr_audit/20261110_luna_seed20261110/page_0414.png",
+                              "sha256":  "597C1C045B7FB67F4C3A0FDA92CC2B18D2052ACD1E8ECB87310EA250994AD7A3"
+                          }
+                      ],
+    "proposals":  [
+                      {
+                          "pdf_page":  330,
+                          "printed_question_number":  "3",
+                          "printed_page_number":  "9",
+                          "paper_year_visible":  "PG/2014",
+                          "field":  "stem",
+                          "literal_missing_value":  "How is a right different from a duty? Explain the various kinds of legal rights.",
+                          "uncertainties":  [
+
+                                            ],
+                          "status":  "ai_proposal_unreviewed"
+                      },
+                      {
+                          "pdf_page":  339,
+                          "printed_question_number":  "6",
+                          "printed_page_number":  null,
+                          "paper_year_visible":  null,
+                          "field":  "options",
+                          "literal_missing_value":  [
+                                                        {
+                                                            "text":  "Roscoe Pound",
+                                                            "label":  "A"
+                                                        },
+                                                        {
+                                                            "text":  "John Austin",
+                                                            "label":  "C"
+                                                        },
+                                                        {
+                                                            "text":  "Hart",
+                                                            "label":  "D"
+                                                        }
+                                                    ],
+                          "uncertainties":  [
+                                                "Image shows these options; option B Hans Kelsen is also visible and is not included as a missing value. Printed paper page/year is not visible."
+                                            ],
+                          "status":  "ai_proposal_unreviewed"
+                      },
+                      {
+                          "pdf_page":  414,
+                          "printed_question_number":  "61",
+                          "printed_page_number":  null,
+                          "paper_year_visible":  null,
+                          "field":  "option_D",
+                          "literal_missing_value":  "Austin",
+                          "uncertainties":  [
+                                                "Fourth option is visible; printed paper page/year is not visible in this image."
+                                            ],
+                          "status":  "ai_proposal_unreviewed"
+                      },
+                      {
+                          "pdf_page":  414,
+                          "printed_question_number":  "62",
+                          "printed_page_number":  null,
+                          "paper_year_visible":  null,
+                          "field":  "option_D",
+                          "literal_missing_value":  "Natural Law school",
+                          "uncertainties":  [
+                                                "Fourth option is visible; printed paper page/year is not visible in this image."
+                                            ],
+                          "status":  "ai_proposal_unreviewed"
+                      },
+                      {
+                          "pdf_page":  414,
+                          "printed_question_number":  "63",
+                          "printed_page_number":  null,
+                          "paper_year_visible":  null,
+                          "field":  "option_D",
+                          "literal_missing_value":  "Salmond",
+                          "uncertainties":  [
+                                                "Fourth option is visible; printed paper page/year is not visible in this image."
+                                            ],
+                          "status":  "ai_proposal_unreviewed"
+                      }
+                  ]
+}

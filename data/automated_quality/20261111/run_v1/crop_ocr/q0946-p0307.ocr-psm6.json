@@ -1,0 +1,243 @@
+{
+  "pdf_page": 307,
+  "crop_top": 542.1327999999999,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "99. World Intellectual Property Organization is a specialized agency of:",
+      "bbox": [
+        46.8,
+        3.9,
+        417.0,
+        14.1
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "(A) UN (B) ICI",
+      "bbox": [
+        75.3,
+        22.5,
+        348.0,
+        32.7
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(C) WTO (D) ILO",
+      "bbox": [
+        75.3,
+        38.1,
+        349.5,
+        48.3
+      ]
+    }
+  ],
+  "text": "99. World Intellectual Property Organization is a specialized agency of:\n(A) UN (B) ICI\n(C) WTO (D) ILO",
+  "ocr_words": [
+    {
+      "text": "99.",
+      "x0": 46.8,
+      "top": 4.5,
+      "x1": 60.599999999999994,
+      "bottom": 12.3,
+      "confidence": 92.953484,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "World",
+      "x0": 74.7,
+      "top": 3.9,
+      "x1": 105.3,
+      "bottom": 12.3,
+      "confidence": 90.158401,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Intellectual",
+      "x0": 108.89999999999999,
+      "top": 3.9,
+      "x1": 167.39999999999998,
+      "bottom": 12.3,
+      "confidence": 95.78994,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Property",
+      "x0": 171.0,
+      "top": 3.9,
+      "x1": 215.1,
+      "bottom": 14.1,
+      "confidence": 96.873055,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Organization",
+      "x0": 218.7,
+      "top": 3.9,
+      "x1": 285.0,
+      "bottom": 14.1,
+      "confidence": 95.454315,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 288.59999999999997,
+      "top": 4.2,
+      "x1": 296.4,
+      "bottom": 12.3,
+      "confidence": 96.574501,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 300.59999999999997,
+      "top": 6.8999999999999995,
+      "x1": 305.7,
+      "bottom": 12.299999999999999,
+      "confidence": 96.953224,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "specialized",
+      "x0": 309.59999999999997,
+      "top": 3.9,
+      "x1": 364.2,
+      "bottom": 14.1,
+      "confidence": 96.482422,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "agency",
+      "x0": 368.09999999999997,
+      "top": 6.8999999999999995,
+      "x1": 402.59999999999997,
+      "bottom": 14.099999999999998,
+      "confidence": 96.59082,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of:",
+      "x0": 405.9,
+      "top": 3.9,
+      "x1": 417.0,
+      "bottom": 12.3,
+      "confidence": 96.563972,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 75.3,
+      "top": 22.5,
+      "x1": 89.1,
+      "bottom": 32.7,
+      "confidence": 90.60994,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "UN",
+      "x0": 103.2,
+      "top": 22.5,
+      "x1": 120.6,
+      "bottom": 30.9,
+      "confidence": 90.60994,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(B)",
+      "x0": 302.09999999999997,
+      "top": 22.5,
+      "x1": 315.9,
+      "bottom": 32.7,
+      "confidence": 92.141335,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "ICI",
+      "x0": 330.3,
+      "top": 22.5,
+      "x1": 348.0,
+      "bottom": 30.9,
+      "confidence": 26.105896,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(C)",
+      "x0": 75.3,
+      "top": 38.1,
+      "x1": 89.1,
+      "bottom": 48.3,
+      "confidence": 92.016327,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "WTO",
+      "x0": 102.89999999999999,
+      "top": 38.1,
+      "x1": 129.0,
+      "bottom": 46.5,
+      "confidence": 96.432884,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(D)",
+      "x0": 302.09999999999997,
+      "top": 38.1,
+      "x1": 316.49999999999994,
+      "bottom": 48.3,
+      "confidence": 90.375244,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "ILO",
+      "x0": 330.3,
+      "top": 38.1,
+      "x1": 349.5,
+      "bottom": 46.5,
+      "confidence": 96.837746,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

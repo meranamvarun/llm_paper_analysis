@@ -1,0 +1,285 @@
+{
+  "pdf_page": 445,
+  "crop_top": 84.5,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "1. Eight Principles of Internal Morality of Law were propounded by",
+      "bbox": [
+        72.89999999999999,
+        3.9,
+        371.4,
+        13.5
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "A. Hart",
+      "bbox": [
+        90.3,
+        30.0,
+        127.49999999999999,
+        37.2
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "B. Hobbes",
+      "bbox": [
+        90.89999999999999,
+        44.699999999999996,
+        141.6,
+        52.49999999999999
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "Cc. Kelsen",
+      "bbox": [
+        90.3,
+        60.3,
+        136.5,
+        68.1
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "D. LonL Fuller",
+      "bbox": [
+        90.6,
+        75.6,
+        159.6,
+        83.4
+      ]
+    }
+  ],
+  "text": "1. Eight Principles of Internal Morality of Law were propounded by\nA. Hart\nB. Hobbes\nCc. Kelsen\nD. LonL Fuller",
+  "ocr_words": [
+    {
+      "text": "1.",
+      "x0": 72.89999999999999,
+      "top": 4.5,
+      "x1": 79.49999999999999,
+      "bottom": 11.399999999999999,
+      "confidence": 95.3806,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Eight",
+      "x0": 86.39999999999999,
+      "top": 3.9,
+      "x1": 107.69999999999999,
+      "bottom": 13.5,
+      "confidence": 95.3806,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Principles",
+      "x0": 111.3,
+      "top": 3.9,
+      "x1": 153.0,
+      "bottom": 13.5,
+      "confidence": 96.644173,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 156.29999999999998,
+      "top": 3.9,
+      "x1": 165.29999999999998,
+      "bottom": 11.7,
+      "confidence": 96.234726,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Internal",
+      "x0": 168.6,
+      "top": 3.9,
+      "x1": 201.89999999999998,
+      "bottom": 11.7,
+      "confidence": 96.234726,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Morality",
+      "x0": 206.1,
+      "top": 3.9,
+      "x1": 243.0,
+      "bottom": 13.5,
+      "confidence": 96.117012,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 246.29999999999998,
+      "top": 3.9,
+      "x1": 254.99999999999997,
+      "bottom": 11.7,
+      "confidence": 96.335342,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Law",
+      "x0": 258.3,
+      "top": 4.5,
+      "x1": 274.8,
+      "bottom": 11.7,
+      "confidence": 96.666573,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "were",
+      "x0": 277.8,
+      "top": 6.0,
+      "x1": 299.7,
+      "bottom": 11.7,
+      "confidence": 96.24305,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "propounded",
+      "x0": 303.59999999999997,
+      "top": 3.9,
+      "x1": 357.59999999999997,
+      "bottom": 13.5,
+      "confidence": 96.24305,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "by",
+      "x0": 361.5,
+      "top": 3.9,
+      "x1": 371.4,
+      "bottom": 13.5,
+      "confidence": 96.747887,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A.",
+      "x0": 90.3,
+      "top": 30.0,
+      "x1": 98.39999999999999,
+      "bottom": 36.9,
+      "confidence": 75.885635,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Hart",
+      "x0": 108.89999999999999,
+      "top": 30.0,
+      "x1": 127.49999999999999,
+      "bottom": 37.2,
+      "confidence": 92.015465,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "B.",
+      "x0": 90.89999999999999,
+      "top": 45.3,
+      "x1": 98.1,
+      "bottom": 52.199999999999996,
+      "confidence": 92.890411,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Hobbes",
+      "x0": 108.89999999999999,
+      "top": 44.699999999999996,
+      "x1": 141.6,
+      "bottom": 52.49999999999999,
+      "confidence": 95.954468,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Cc.",
+      "x0": 90.3,
+      "top": 60.599999999999994,
+      "x1": 98.1,
+      "bottom": 68.1,
+      "confidence": 35.5756,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Kelsen",
+      "x0": 108.89999999999999,
+      "top": 60.3,
+      "x1": 136.5,
+      "bottom": 68.1,
+      "confidence": 72.518692,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "D.",
+      "x0": 90.6,
+      "top": 76.2,
+      "x1": 99.3,
+      "bottom": 83.10000000000001,
+      "confidence": 89.764275,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "LonL",
+      "x0": 108.6,
+      "top": 76.2,
+      "x1": 123.89999999999999,
+      "bottom": 83.4,
+      "confidence": 67.117577,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Fuller",
+      "x0": 134.7,
+      "top": 75.6,
+      "x1": 159.6,
+      "bottom": 83.39999999999999,
+      "confidence": 96.656975,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

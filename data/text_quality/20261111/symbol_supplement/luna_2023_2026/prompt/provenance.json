@@ -1,0 +1,16 @@
+{
+  "requested_model": "gpt-6-luna",
+  "date": "2026-11-11",
+  "reasoning_effort": "medium",
+  "runtime": "unavailable",
+  "billing": "unavailable",
+  "input_sha256": "cb8ecc6487f9202f5782ef7bb61b863874232c745f55c42bdcc77eba10baa223",
+  "source_pdf_sha256": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b",
+  "crop_mapping_sha256": "c94696c1067c39462364905429a1d54ac9026990a1b0931f5cfefc8293209082",
+  "crop_image_sha256": {
+    "flag_crops/sheet_001.jpg": "1ee0ecddd5b66e015e8fa61aea24ba42f1c6d0baf4360d28a435462d8a61b496",
+    "flag_crops/sheet_002.jpg": "f57bec9ce8930b4d4ff8bca3a5866b895771e4b80b2390741aa2541f7a281aa6"
+  },
+  "review_sha256": "d0d31ca4bac2fea1d1a28834d4d7b74933ba54cf55b37aa6f228124f4d039478",
+  "review_scope": "All 13 mapped symbol flags; both crop sheets visually inspected."
+}

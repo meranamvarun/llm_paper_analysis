@@ -1,0 +1,516 @@
+{
+  "pdf_page": 306,
+  "crop_top": 384.78279999999995,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "88. The principle that “Nothing is an offence which is done by a child under seven years of age” is",
+      "bbox": [
+        46.8,
+        3.9,
+        549.5999999999999,
+        14.1
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "provided under:",
+      "bbox": [
+        74.7,
+        16.2,
+        154.2,
+        26.4
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(A) Section 81 of I.P.C. (B) Section 82 of I.P.C.",
+      "bbox": [
+        75.3,
+        32.4,
+        425.7,
+        42.599999999999994
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(C) Section 83 of I.P.C. (D) Section 84 of I.P.C.",
+      "bbox": [
+        75.3,
+        48.3,
+        425.7,
+        58.5
+      ]
+    }
+  ],
+  "text": "88. The principle that “Nothing is an offence which is done by a child under seven years of age” is\nprovided under:\n(A) Section 81 of I.P.C. (B) Section 82 of I.P.C.\n(C) Section 83 of I.P.C. (D) Section 84 of I.P.C.",
+  "ocr_words": [
+    {
+      "text": "88.",
+      "x0": 46.8,
+      "top": 4.5,
+      "x1": 60.599999999999994,
+      "bottom": 12.3,
+      "confidence": 90.581177,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 74.7,
+      "top": 3.9,
+      "x1": 93.6,
+      "bottom": 12.3,
+      "confidence": 90.581177,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "principle",
+      "x0": 97.5,
+      "top": 3.9,
+      "x1": 141.9,
+      "bottom": 14.1,
+      "confidence": 96.501915,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "that",
+      "x0": 145.5,
+      "top": 3.9,
+      "x1": 166.5,
+      "bottom": 12.3,
+      "confidence": 93.889259,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "“Nothing",
+      "x0": 170.1,
+      "top": 3.9,
+      "x1": 215.39999999999998,
+      "bottom": 14.1,
+      "confidence": 93.889259,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 218.7,
+      "top": 4.2,
+      "x1": 226.79999999999998,
+      "bottom": 12.3,
+      "confidence": 96.639755,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "an",
+      "x0": 230.7,
+      "top": 6.8999999999999995,
+      "x1": 243.0,
+      "bottom": 12.299999999999999,
+      "confidence": 96.34671,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "offence",
+      "x0": 246.6,
+      "top": 3.9,
+      "x1": 281.1,
+      "bottom": 12.3,
+      "confidence": 96.104256,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "which",
+      "x0": 285.0,
+      "top": 3.9,
+      "x1": 314.7,
+      "bottom": 12.3,
+      "confidence": 96.261032,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 318.3,
+      "top": 4.2,
+      "x1": 326.1,
+      "bottom": 12.3,
+      "confidence": 96.387772,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "done",
+      "x0": 330.3,
+      "top": 3.9,
+      "x1": 353.40000000000003,
+      "bottom": 12.3,
+      "confidence": 95.648323,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "by",
+      "x0": 357.0,
+      "top": 3.9,
+      "x1": 368.7,
+      "bottom": 14.1,
+      "confidence": 95.664642,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 372.3,
+      "top": 6.8999999999999995,
+      "x1": 377.7,
+      "bottom": 12.299999999999999,
+      "confidence": 95.664642,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "child",
+      "x0": 381.3,
+      "top": 3.9,
+      "x1": 405.90000000000003,
+      "bottom": 12.3,
+      "confidence": 96.622917,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "under",
+      "x0": 409.2,
+      "top": 3.9,
+      "x1": 438.59999999999997,
+      "bottom": 12.3,
+      "confidence": 96.742981,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "seven",
+      "x0": 442.8,
+      "top": 6.8999999999999995,
+      "x1": 470.7,
+      "bottom": 12.299999999999999,
+      "confidence": 95.783173,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "years",
+      "x0": 474.0,
+      "top": 6.8999999999999995,
+      "x1": 501.0,
+      "bottom": 14.099999999999998,
+      "confidence": 96.499542,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 504.9,
+      "top": 3.9,
+      "x1": 514.1999999999999,
+      "bottom": 12.3,
+      "confidence": 96.50219,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "age”",
+      "x0": 517.1999999999999,
+      "top": 3.9,
+      "x1": 537.9,
+      "bottom": 14.1,
+      "confidence": 92.452652,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 541.8,
+      "top": 4.2,
+      "x1": 549.5999999999999,
+      "bottom": 12.3,
+      "confidence": 96.729919,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "provided",
+      "x0": 74.7,
+      "top": 16.2,
+      "x1": 118.5,
+      "bottom": 26.4,
+      "confidence": 96.31282,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "under:",
+      "x0": 122.1,
+      "top": 16.2,
+      "x1": 154.2,
+      "bottom": 24.6,
+      "confidence": 96.631126,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(A)",
+      "x0": 75.3,
+      "top": 32.4,
+      "x1": 89.1,
+      "bottom": 42.599999999999994,
+      "confidence": 82.754852,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Section",
+      "x0": 103.5,
+      "top": 32.4,
+      "x1": 140.1,
+      "bottom": 40.8,
+      "confidence": 82.754852,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "81",
+      "x0": 143.7,
+      "top": 33.0,
+      "x1": 154.79999999999998,
+      "bottom": 40.8,
+      "confidence": 96.870705,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 158.7,
+      "top": 32.4,
+      "x1": 168.29999999999998,
+      "bottom": 40.8,
+      "confidence": 92.992882,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "I.P.C.",
+      "x0": 171.0,
+      "top": 32.4,
+      "x1": 198.9,
+      "bottom": 40.8,
+      "confidence": 85.586281,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(B)",
+      "x0": 302.09999999999997,
+      "top": 32.4,
+      "x1": 315.9,
+      "bottom": 42.599999999999994,
+      "confidence": 93.031425,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Section",
+      "x0": 330.59999999999997,
+      "top": 32.4,
+      "x1": 367.2,
+      "bottom": 40.8,
+      "confidence": 95.782921,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "82",
+      "x0": 370.8,
+      "top": 33.0,
+      "x1": 381.90000000000003,
+      "bottom": 40.8,
+      "confidence": 96.932365,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 385.8,
+      "top": 32.4,
+      "x1": 395.40000000000003,
+      "bottom": 40.8,
+      "confidence": 93.160049,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "I.P.C.",
+      "x0": 398.09999999999997,
+      "top": 32.4,
+      "x1": 425.7,
+      "bottom": 40.8,
+      "confidence": 90.711807,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(C)",
+      "x0": 75.3,
+      "top": 48.3,
+      "x1": 89.1,
+      "bottom": 58.5,
+      "confidence": 92.399574,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Section",
+      "x0": 103.5,
+      "top": 48.3,
+      "x1": 140.1,
+      "bottom": 56.699999999999996,
+      "confidence": 96.044228,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "83",
+      "x0": 143.7,
+      "top": 48.9,
+      "x1": 155.1,
+      "bottom": 56.699999999999996,
+      "confidence": 96.044228,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "of",
+      "x0": 158.7,
+      "top": 48.3,
+      "x1": 168.29999999999998,
+      "bottom": 56.699999999999996,
+      "confidence": 93.029022,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "I.P.C.",
+      "x0": 171.0,
+      "top": 48.3,
+      "x1": 198.6,
+      "bottom": 56.699999999999996,
+      "confidence": 86.576073,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(D)",
+      "x0": 302.09999999999997,
+      "top": 48.3,
+      "x1": 316.49999999999994,
+      "bottom": 58.5,
+      "confidence": 92.245148,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Section",
+      "x0": 330.59999999999997,
+      "top": 48.3,
+      "x1": 367.2,
+      "bottom": 56.699999999999996,
+      "confidence": 96.281654,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "84",
+      "x0": 370.8,
+      "top": 48.9,
+      "x1": 382.2,
+      "bottom": 56.699999999999996,
+      "confidence": 96.086792,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "of",
+      "x0": 385.8,
+      "top": 48.3,
+      "x1": 395.40000000000003,
+      "bottom": 56.699999999999996,
+      "confidence": 93.228226,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "I.P.C.",
+      "x0": 398.09999999999997,
+      "top": 48.3,
+      "x1": 425.7,
+      "bottom": 56.699999999999996,
+      "confidence": 88.591408,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

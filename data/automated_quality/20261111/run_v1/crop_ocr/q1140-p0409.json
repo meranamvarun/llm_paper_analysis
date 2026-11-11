@@ -1,0 +1,100 @@
+{
+  "pdf_page": 409,
+  "crop_top": 10.68,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "3. Y Not than 238",
+      "bbox": [
+        38.1,
+        2.4,
+        155.4,
+        12.899999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "more",
+      "bbox": [
+        84.0,
+        6.6,
+        108.0,
+        12.899999999999999
+      ]
+    }
+  ],
+  "text": "3. Y Not than 238\nmore",
+  "ocr_words": [
+    {
+      "text": "3.",
+      "x0": 38.1,
+      "top": 5.1,
+      "x1": 45.3,
+      "bottom": 12.899999999999999,
+      "confidence": 93.003281,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Y",
+      "x0": 54.3,
+      "top": 2.4,
+      "x1": 59.4,
+      "bottom": 11.4,
+      "confidence": 69.125519,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Not",
+      "x0": 63.9,
+      "top": 5.1,
+      "x1": 80.7,
+      "bottom": 12.899999999999999,
+      "confidence": 96.29435,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "more",
+      "x0": 84.0,
+      "top": 6.6,
+      "x1": 108.0,
+      "bottom": 12.899999999999999,
+      "confidence": 96.439514,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "than",
+      "x0": 111.3,
+      "top": 5.1,
+      "x1": 133.2,
+      "bottom": 12.899999999999999,
+      "confidence": 95.578903,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "238",
+      "x0": 137.1,
+      "top": 5.1,
+      "x1": 155.4,
+      "bottom": 12.899999999999999,
+      "confidence": 95.578903,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

@@ -1,0 +1,428 @@
+{
+  "pdf_page": 193,
+  "crop_top": 474.93195369725,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "5. ‘| mean simply that history, in illuminating the past, illuminates the present, and in",
+      "bbox": [
+        96.6,
+        3.5999999999999996,
+        513.0,
+        13.799999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "illuminating the present, illuminates the future’ opined by:",
+      "bbox": [
+        111.6,
+        20.4,
+        379.49999999999994,
+        30.599999999999998
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(A) Roscoe Pound (B) Benjamin Cardozo",
+      "bbox": [
+        111.0,
+        36.9,
+        405.9,
+        46.8
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(C) Duguit (D) Auguste Comte",
+      "bbox": [
+        110.39999999999999,
+        53.4,
+        391.5,
+        63.3
+      ]
+    }
+  ],
+  "text": "5. ‘| mean simply that history, in illuminating the past, illuminates the present, and in\nilluminating the present, illuminates the future’ opined by:\n(A) Roscoe Pound (B) Benjamin Cardozo\n(C) Duguit (D) Auguste Comte",
+  "ocr_words": [
+    {
+      "text": "5.",
+      "x0": 96.6,
+      "top": 3.9,
+      "x1": 104.1,
+      "bottom": 11.7,
+      "confidence": 96.218552,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "‘|",
+      "x0": 111.6,
+      "top": 3.5999999999999996,
+      "x1": 115.19999999999999,
+      "bottom": 11.399999999999999,
+      "confidence": 70.782249,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "mean",
+      "x0": 121.5,
+      "top": 5.7,
+      "x1": 146.7,
+      "bottom": 11.7,
+      "confidence": 96.691658,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "simply",
+      "x0": 152.1,
+      "top": 3.5999999999999996,
+      "x1": 182.1,
+      "bottom": 13.799999999999999,
+      "confidence": 96.233459,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "that",
+      "x0": 186.9,
+      "top": 3.5999999999999996,
+      "x1": 204.3,
+      "bottom": 11.7,
+      "confidence": 96.137611,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "history,",
+      "x0": 209.7,
+      "top": 3.5999999999999996,
+      "x1": 242.7,
+      "bottom": 13.799999999999999,
+      "confidence": 96.287315,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 248.7,
+      "top": 3.9,
+      "x1": 255.6,
+      "bottom": 11.4,
+      "confidence": 96.303917,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "illuminating",
+      "x0": 261.3,
+      "top": 3.5999999999999996,
+      "x1": 313.5,
+      "bottom": 13.5,
+      "confidence": 95.697678,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 318.9,
+      "top": 3.5999999999999996,
+      "x1": 333.0,
+      "bottom": 11.7,
+      "confidence": 96.374847,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "past,",
+      "x0": 338.7,
+      "top": 4.5,
+      "x1": 360.3,
+      "bottom": 13.5,
+      "confidence": 96.6978,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "illuminates",
+      "x0": 366.3,
+      "top": 3.5999999999999996,
+      "x1": 415.8,
+      "bottom": 11.7,
+      "confidence": 96.262238,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 420.59999999999997,
+      "top": 3.5999999999999996,
+      "x1": 434.99999999999994,
+      "bottom": 11.7,
+      "confidence": 96.341888,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "present,",
+      "x0": 440.7,
+      "top": 4.5,
+      "x1": 477.59999999999997,
+      "bottom": 13.5,
+      "confidence": 96.504677,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 483.59999999999997,
+      "top": 3.5999999999999996,
+      "x1": 500.4,
+      "bottom": 11.7,
+      "confidence": 96.931976,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 506.09999999999997,
+      "top": 3.9,
+      "x1": 513.0,
+      "bottom": 11.4,
+      "confidence": 96.302696,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "illuminating",
+      "x0": 111.6,
+      "top": 20.4,
+      "x1": 163.79999999999998,
+      "bottom": 30.299999999999997,
+      "confidence": 96.383545,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 167.4,
+      "top": 20.4,
+      "x1": 181.8,
+      "bottom": 28.5,
+      "confidence": 96.823486,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "present,",
+      "x0": 185.7,
+      "top": 21.3,
+      "x1": 222.89999999999998,
+      "bottom": 30.3,
+      "confidence": 96.568726,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "illuminates",
+      "x0": 227.7,
+      "top": 20.4,
+      "x1": 277.2,
+      "bottom": 28.5,
+      "confidence": 96.402939,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 280.5,
+      "top": 20.4,
+      "x1": 294.9,
+      "bottom": 28.5,
+      "confidence": 96.809288,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "future’",
+      "x0": 298.5,
+      "top": 20.4,
+      "x1": 327.3,
+      "bottom": 28.5,
+      "confidence": 96.094101,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "opined",
+      "x0": 331.2,
+      "top": 20.4,
+      "x1": 362.7,
+      "bottom": 30.299999999999997,
+      "confidence": 96.3218,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "by:",
+      "x0": 366.59999999999997,
+      "top": 20.4,
+      "x1": 379.49999999999994,
+      "bottom": 30.599999999999998,
+      "confidence": 95.503052,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(A)",
+      "x0": 111.0,
+      "top": 36.9,
+      "x1": 123.9,
+      "bottom": 46.8,
+      "confidence": 96.738708,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Roscoe",
+      "x0": 130.2,
+      "top": 36.9,
+      "x1": 165.29999999999998,
+      "bottom": 45.0,
+      "confidence": 96.856163,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Pound",
+      "x0": 169.5,
+      "top": 36.9,
+      "x1": 198.9,
+      "bottom": 45.0,
+      "confidence": 96.598259,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(B)",
+      "x0": 298.8,
+      "top": 36.9,
+      "x1": 311.7,
+      "bottom": 46.8,
+      "confidence": 91.669853,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Benjamin",
+      "x0": 318.9,
+      "top": 36.9,
+      "x1": 362.09999999999997,
+      "bottom": 46.8,
+      "confidence": 96.495163,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Cardozo",
+      "x0": 366.0,
+      "top": 36.9,
+      "x1": 405.9,
+      "bottom": 45.0,
+      "confidence": 96.481926,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(C)",
+      "x0": 110.39999999999999,
+      "top": 53.4,
+      "x1": 123.89999999999999,
+      "bottom": 63.3,
+      "confidence": 92.847122,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Duguit",
+      "x0": 130.2,
+      "top": 53.4,
+      "x1": 160.2,
+      "bottom": 63.3,
+      "confidence": 91.943489,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(D)",
+      "x0": 298.2,
+      "top": 53.4,
+      "x1": 311.7,
+      "bottom": 63.3,
+      "confidence": 91.98613,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Auguste",
+      "x0": 318.3,
+      "top": 53.4,
+      "x1": 357.0,
+      "bottom": 63.3,
+      "confidence": 96.473351,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Comte",
+      "x0": 360.9,
+      "top": 53.4,
+      "x1": 391.5,
+      "bottom": 61.5,
+      "confidence": 95.706673,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

@@ -1,0 +1,581 @@
+{
+  "pdf_page": 222,
+  "crop_top": 127.56,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "116. What ‘irreparable prejudice’ is being talked about in the above paragraph?",
+      "bbox": [
+        85.2,
+        3.0,
+        460.49999999999994,
+        12.9
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "(A) Violation of the Genocide Convention by Russian Federation.",
+      "bbox": [
+        111.0,
+        20.4,
+        418.2,
+        30.599999999999998
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(B) Special military operations carried out against the Ukraine.",
+      "bbox": [
+        111.0,
+        38.1,
+        405.0,
+        48.0
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(C) Violation of Humanitarian laws during the armed conflict by Russian Federation.",
+      "bbox": [
+        110.39999999999999,
+        55.5,
+        505.5,
+        65.4
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(D) All of the above",
+      "bbox": [
+        110.39999999999999,
+        72.89999999999999,
+        202.79999999999998,
+        82.8
+      ]
+    }
+  ],
+  "text": "116. What ‘irreparable prejudice’ is being talked about in the above paragraph?\n(A) Violation of the Genocide Convention by Russian Federation.\n(B) Special military operations carried out against the Ukraine.\n(C) Violation of Humanitarian laws during the armed conflict by Russian Federation.\n(D) All of the above",
+  "ocr_words": [
+    {
+      "text": "116.",
+      "x0": 85.2,
+      "top": 3.3,
+      "x1": 104.1,
+      "bottom": 11.1,
+      "confidence": 96.551811,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "What",
+      "x0": 111.0,
+      "top": 3.0,
+      "x1": 135.6,
+      "bottom": 11.1,
+      "confidence": 95.204643,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "‘irreparable",
+      "x0": 139.5,
+      "top": 3.0,
+      "x1": 192.0,
+      "bottom": 12.9,
+      "confidence": 96.282806,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "prejudice’",
+      "x0": 195.9,
+      "top": 3.0,
+      "x1": 240.6,
+      "bottom": 12.9,
+      "confidence": 96.282806,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 244.79999999999998,
+      "top": 3.3,
+      "x1": 251.39999999999998,
+      "bottom": 11.1,
+      "confidence": 96.820099,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "being",
+      "x0": 255.29999999999998,
+      "top": 3.0,
+      "x1": 280.5,
+      "bottom": 12.9,
+      "confidence": 96.66494,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "talked",
+      "x0": 284.09999999999997,
+      "top": 3.0,
+      "x1": 311.99999999999994,
+      "bottom": 11.1,
+      "confidence": 96.65065,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "about",
+      "x0": 315.9,
+      "top": 3.0,
+      "x1": 342.0,
+      "bottom": 11.1,
+      "confidence": 96.589966,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 345.9,
+      "top": 3.3,
+      "x1": 352.79999999999995,
+      "bottom": 10.8,
+      "confidence": 96.690331,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 356.7,
+      "top": 3.0,
+      "x1": 371.09999999999997,
+      "bottom": 11.1,
+      "confidence": 96.490585,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "above",
+      "x0": 374.7,
+      "top": 3.0,
+      "x1": 403.2,
+      "bottom": 11.1,
+      "confidence": 96.38916,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "paragraph?",
+      "x0": 407.09999999999997,
+      "top": 3.0,
+      "x1": 460.49999999999994,
+      "bottom": 12.9,
+      "confidence": 96.234673,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 111.0,
+      "top": 20.4,
+      "x1": 123.9,
+      "bottom": 30.299999999999997,
+      "confidence": 96.914528,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Violation",
+      "x0": 129.6,
+      "top": 20.4,
+      "x1": 169.79999999999998,
+      "bottom": 28.5,
+      "confidence": 96.452896,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 173.7,
+      "top": 20.4,
+      "x1": 182.1,
+      "bottom": 28.5,
+      "confidence": 96.504723,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 185.4,
+      "top": 20.4,
+      "x1": 199.8,
+      "bottom": 28.5,
+      "confidence": 96.454247,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Genocide",
+      "x0": 203.7,
+      "top": 20.4,
+      "x1": 248.39999999999998,
+      "bottom": 28.5,
+      "confidence": 96.413605,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Convention",
+      "x0": 252.29999999999998,
+      "top": 20.4,
+      "x1": 305.4,
+      "bottom": 28.5,
+      "confidence": 96.619469,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "by",
+      "x0": 309.59999999999997,
+      "top": 20.4,
+      "x1": 320.09999999999997,
+      "bottom": 30.599999999999998,
+      "confidence": 96.69471,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Russian",
+      "x0": 324.3,
+      "top": 20.4,
+      "x1": 361.2,
+      "bottom": 28.5,
+      "confidence": 96.280693,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Federation.",
+      "x0": 366.0,
+      "top": 20.4,
+      "x1": 418.2,
+      "bottom": 28.5,
+      "confidence": 95.832741,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(B)",
+      "x0": 111.0,
+      "top": 38.1,
+      "x1": 123.9,
+      "bottom": 48.0,
+      "confidence": 92.865387,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Special",
+      "x0": 129.9,
+      "top": 38.1,
+      "x1": 163.8,
+      "bottom": 48.0,
+      "confidence": 96.011261,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "military",
+      "x0": 168.0,
+      "top": 38.1,
+      "x1": 201.3,
+      "bottom": 48.0,
+      "confidence": 96.621071,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "operations",
+      "x0": 204.6,
+      "top": 38.4,
+      "x1": 253.79999999999998,
+      "bottom": 48.0,
+      "confidence": 96.798874,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "carried",
+      "x0": 257.7,
+      "top": 38.1,
+      "x1": 289.5,
+      "bottom": 46.2,
+      "confidence": 96.56324,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "out",
+      "x0": 293.09999999999997,
+      "top": 39.0,
+      "x1": 307.49999999999994,
+      "bottom": 46.2,
+      "confidence": 96.657547,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "against",
+      "x0": 311.09999999999997,
+      "top": 38.4,
+      "x1": 344.99999999999994,
+      "bottom": 48.0,
+      "confidence": 96.543259,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "the",
+      "x0": 348.3,
+      "top": 38.1,
+      "x1": 362.7,
+      "bottom": 46.2,
+      "confidence": 96.645027,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Ukraine.",
+      "x0": 366.9,
+      "top": 38.1,
+      "x1": 405.0,
+      "bottom": 46.2,
+      "confidence": 96.809517,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(C)",
+      "x0": 110.39999999999999,
+      "top": 55.5,
+      "x1": 123.89999999999999,
+      "bottom": 65.4,
+      "confidence": 92.427216,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Violation",
+      "x0": 129.6,
+      "top": 55.5,
+      "x1": 169.79999999999998,
+      "bottom": 63.6,
+      "confidence": 96.763229,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "of",
+      "x0": 173.7,
+      "top": 55.5,
+      "x1": 182.1,
+      "bottom": 63.6,
+      "confidence": 96.19664,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Humanitarian",
+      "x0": 186.0,
+      "top": 55.5,
+      "x1": 248.4,
+      "bottom": 63.6,
+      "confidence": 95.739914,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "laws",
+      "x0": 252.6,
+      "top": 55.5,
+      "x1": 273.0,
+      "bottom": 63.6,
+      "confidence": 96.645004,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "during",
+      "x0": 276.59999999999997,
+      "top": 55.5,
+      "x1": 305.4,
+      "bottom": 65.4,
+      "confidence": 96.39357,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "the",
+      "x0": 309.0,
+      "top": 55.5,
+      "x1": 323.4,
+      "bottom": 63.6,
+      "confidence": 96.867371,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "armed",
+      "x0": 327.3,
+      "top": 55.5,
+      "x1": 356.7,
+      "bottom": 63.6,
+      "confidence": 96.707413,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "conflict",
+      "x0": 360.59999999999997,
+      "top": 55.5,
+      "x1": 393.29999999999995,
+      "bottom": 63.6,
+      "confidence": 96.607536,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "by",
+      "x0": 397.2,
+      "top": 55.5,
+      "x1": 407.7,
+      "bottom": 65.4,
+      "confidence": 96.329506,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Russian",
+      "x0": 411.59999999999997,
+      "top": 55.5,
+      "x1": 448.79999999999995,
+      "bottom": 63.6,
+      "confidence": 96.412231,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Federation.",
+      "x0": 453.3,
+      "top": 55.5,
+      "x1": 505.5,
+      "bottom": 63.6,
+      "confidence": 96.444054,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(D)",
+      "x0": 110.39999999999999,
+      "top": 72.89999999999999,
+      "x1": 123.89999999999999,
+      "bottom": 82.8,
+      "confidence": 92.900688,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "All",
+      "x0": 129.6,
+      "top": 72.89999999999999,
+      "x1": 140.7,
+      "bottom": 80.69999999999999,
+      "confidence": 96.076668,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "of",
+      "x0": 144.6,
+      "top": 72.89999999999999,
+      "x1": 153.0,
+      "bottom": 80.99999999999999,
+      "confidence": 96.533623,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "the",
+      "x0": 156.29999999999998,
+      "top": 72.89999999999999,
+      "x1": 170.7,
+      "bottom": 80.99999999999999,
+      "confidence": 96.402374,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "above",
+      "x0": 174.29999999999998,
+      "top": 72.89999999999999,
+      "x1": 202.79999999999998,
+      "bottom": 80.99999999999999,
+      "confidence": 96.43512,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

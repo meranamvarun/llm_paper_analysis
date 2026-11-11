@@ -1,0 +1,32 @@
+{
+  "inputs": {
+    "data\\corpus_review\\20261110\\reparse_v0.1.1_corrected\\artifact_hashes.json": "2e27de908ab456df126663eebf84c882392a9a0d04278d6d4ba5f1817b3a8f3d",
+    "data\\corpus_review\\20261110\\reparse_v0.1.1_corrected\\comparison.json": "3c609b0f012b71b9cf41fc809008874c67c7f461e2ca8e3fb95552ad3a62621b",
+    "data\\corpus_review\\20261110\\reparse_v0.1.1_corrected\\passages.jsonl": "2b7748d9329e3d896ed1338cbee4e9fc5aa797b65f2ecf55e05c6486fd6c50c6",
+    "data\\corpus_review\\20261110\\reparse_v0.1.1_corrected\\questions.jsonl": "8751ee462fb4458c3837f4d9c8c5d018b375a613b655433704ddf2578566eed4",
+    "data\\corpus_review\\20261110\\reparse_v0.1.1_corrected\\unresolved_blocks.jsonl": "ab7ae3e28c7f90fa5921cd50bfd75d40faa542eabf3931d101a18271836b1db2",
+    "data\\corpus_review\\20261110\\reparse_v0.1.2_corrected\\artifact_hashes.json": "7b3af7834130f4fead8d9d27c5f64ed1333318f186d4c07cf29e1f6f5e5841a1",
+    "data\\corpus_review\\20261110\\reparse_v0.1.2_corrected\\comparison.json": "5901d3928bc1b570110bc48883e2a607a6dc7f8c0d6c7011d7b0af0ba67c8c46",
+    "data\\corpus_review\\20261110\\reparse_v0.1.2_corrected\\passages.jsonl": "9f691cfe30b1669a9e327b1d0adc491ee2d45452f13ce68a889330ce2b58ee1d",
+    "data\\corpus_review\\20261110\\reparse_v0.1.2_corrected\\questions.jsonl": "756e1ac105dd6d74c06a444f19ec886752671747c25e16a5b7212fcdefb30785",
+    "data\\corpus_review\\20261110\\reparse_v0.1.2_corrected\\unresolved_blocks.jsonl": "ab7ae3e28c7f90fa5921cd50bfd75d40faa542eabf3931d101a18271836b1db2",
+    "data\\corpus_review\\20261110\\accepted_derived_v1\\corrections.jsonl": "15d1c83a270814573e7942e65c9cb8dd704b56347d9bd79ad570023f88e03302",
+    "data\\corpus_review\\20261110\\accepted_derived_v1\\id_aliases.jsonl": "3669b3c8acf99c79150219065dc9fdd8b975cfb4a9a1596b51de28aec32900d4",
+    "data\\corpus_review\\20261110\\accepted_derived_v1\\manifest.json": "2065a746787e714de9439517865e8e26eced8971c5df7116097b3517793d7dd9",
+    "data\\corpus_review\\20261110\\accepted_derived_v1\\questions.jsonl": "94ad24293e860f326f04fc4a18d0df13d230568a6cbe69f16f7ec327cebaab0d",
+    "data\\corpus_review\\20261110\\accepted_derived_v1\\verification.json": "04c7b88392a32361266461a86d05d1d1adcf86f1ba0c1a8f890512cfcfaafdad",
+    "question_paper (1).pdf": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b"
+  },
+  "outputs": {
+    "diagnostics.json": "247191b770be9da56726b12d08afab0853b67c131ea8c24f5f093fc6c66fe480",
+    "id_aliases.jsonl": "3669b3c8acf99c79150219065dc9fdd8b975cfb4a9a1596b51de28aec32900d4",
+    "id_dispositions.jsonl": "79194842fc390a0660afbdded24d21a8044a408e7b6154f395b9a08ea6c3d9b8",
+    "passages.jsonl": "9f691cfe30b1669a9e327b1d0adc491ee2d45452f13ce68a889330ce2b58ee1d",
+    "questions.jsonl": "81e2cdbae7baa22f18d428f88aa7737b6d513aca12f479dd19844e34fb0be169",
+    "reconciliation.jsonl": "6c4312bb07d68624374e7dfbb5524a4975e55214a8037ae54c3a5a2ac85e1a06",
+    "unresolved_blocks.jsonl": "ab7ae3e28c7f90fa5921cd50bfd75d40faa542eabf3931d101a18271836b1db2",
+    "verification.json": "b82488163edd7f228aafcc7f196d1385e772fb0a20ed808b473d7bb1c04d7e94"
+  },
+  "script_sha256": "a17bff965b9b2757e8d84f2825dcd934ddfc6ce8455360a32857ebce91d0d646",
+  "parser_sha256": "c44dc49442f09a1296d89e6b811ed507094b3c814dc2d59115dc4740f122a382"
+}

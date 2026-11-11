@@ -1,0 +1,254 @@
+{
+  "pdf_page": 296,
+  "crop_top": 383.8227999999999,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "10. The Constitution Day is celebrated on:",
+      "bbox": [
+        47.4,
+        3.9,
+        269.4,
+        14.1
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "(A) 26 January (B) 15 August",
+      "bbox": [
+        75.3,
+        21.599999999999998,
+        388.5,
+        31.799999999999997
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(C) 26t November (D) 10 December",
+      "bbox": [
+        75.3,
+        37.199999999999996,
+        402.6,
+        47.39999999999999
+      ]
+    }
+  ],
+  "text": "10. The Constitution Day is celebrated on:\n(A) 26 January (B) 15 August\n(C) 26t November (D) 10 December",
+  "ocr_words": [
+    {
+      "text": "10.",
+      "x0": 47.4,
+      "top": 4.5,
+      "x1": 60.599999999999994,
+      "bottom": 12.3,
+      "confidence": 86.103668,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 74.7,
+      "top": 3.9,
+      "x1": 93.6,
+      "bottom": 12.3,
+      "confidence": 86.103668,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Constitution",
+      "x0": 97.8,
+      "top": 3.9,
+      "x1": 161.1,
+      "bottom": 12.3,
+      "confidence": 96.283813,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Day",
+      "x0": 164.4,
+      "top": 3.9,
+      "x1": 184.8,
+      "bottom": 14.1,
+      "confidence": 96.295059,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 188.1,
+      "top": 4.2,
+      "x1": 195.9,
+      "bottom": 12.3,
+      "confidence": 95.920975,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "celebrated",
+      "x0": 199.79999999999998,
+      "top": 3.9,
+      "x1": 251.99999999999997,
+      "bottom": 12.3,
+      "confidence": 95.920975,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "on:",
+      "x0": 255.29999999999998,
+      "top": 6.8999999999999995,
+      "x1": 269.4,
+      "bottom": 12.299999999999999,
+      "confidence": 96.914139,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 75.3,
+      "top": 21.599999999999998,
+      "x1": 89.1,
+      "bottom": 31.799999999999997,
+      "confidence": 81.261185,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "26",
+      "x0": 103.2,
+      "top": 21.599999999999998,
+      "x1": 121.8,
+      "bottom": 30.0,
+      "confidence": 41.348148,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "January",
+      "x0": 125.1,
+      "top": 21.599999999999998,
+      "x1": 167.7,
+      "bottom": 31.799999999999997,
+      "confidence": 96.745071,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(B)",
+      "x0": 302.09999999999997,
+      "top": 21.599999999999998,
+      "x1": 315.9,
+      "bottom": 31.799999999999997,
+      "confidence": 91.56459,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "15",
+      "x0": 330.9,
+      "top": 21.599999999999998,
+      "x1": 348.9,
+      "bottom": 30.0,
+      "confidence": 31.277802,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "August",
+      "x0": 351.9,
+      "top": 21.599999999999998,
+      "x1": 388.5,
+      "bottom": 31.799999999999997,
+      "confidence": 96.106796,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(C)",
+      "x0": 75.3,
+      "top": 37.199999999999996,
+      "x1": 89.1,
+      "bottom": 47.39999999999999,
+      "confidence": 78.410294,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "26t",
+      "x0": 103.2,
+      "top": 37.199999999999996,
+      "x1": 121.8,
+      "bottom": 45.599999999999994,
+      "confidence": 77.527771,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "November",
+      "x0": 125.39999999999999,
+      "top": 37.199999999999996,
+      "x1": 177.0,
+      "bottom": 45.599999999999994,
+      "confidence": 96.824654,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(D)",
+      "x0": 302.09999999999997,
+      "top": 37.199999999999996,
+      "x1": 316.49999999999994,
+      "bottom": 47.39999999999999,
+      "confidence": 91.658455,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "10",
+      "x0": 330.9,
+      "top": 37.199999999999996,
+      "x1": 348.9,
+      "bottom": 45.599999999999994,
+      "confidence": 43.252922,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "December",
+      "x0": 352.5,
+      "top": 37.199999999999996,
+      "x1": 402.6,
+      "bottom": 45.599999999999994,
+      "confidence": 96.315567,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

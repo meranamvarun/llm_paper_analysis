@@ -1,0 +1,360 @@
+{
+  "pdf_page": 231,
+  "crop_top": 523.3419999999999,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "15. That women officers would upset the dynamics inaunitisa/an____—__ ground for",
+      "bbox": [
+        73.5,
+        4.2,
+        501.9,
+        15.3
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "denyingthem permanent commission.",
+      "bbox": [
+        93.89999999999999,
+        18.0,
+        276.9,
+        29.1
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(A) Inevitable",
+      "bbox": [
+        100.5,
+        33.9,
+        170.1,
+        44.699999999999996
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(B) Strong",
+      "bbox": [
+        100.5,
+        49.8,
+        153.6,
+        60.9
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(C) Unreasonable",
+      "bbox": [
+        100.5,
+        66.0,
+        189.0,
+        76.8
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "(D) Valid",
+      "bbox": [
+        100.5,
+        81.0,
+        148.2,
+        91.8
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "CORRECT OPTION: C",
+      "bbox": [
+        72.3,
+        97.5,
+        197.4,
+        106.2
+      ]
+    }
+  ],
+  "text": "15. That women officers would upset the dynamics inaunitisa/an____—__ ground for\ndenyingthem permanent commission.\n(A) Inevitable\n(B) Strong\n(C) Unreasonable\n(D) Valid\nCORRECT OPTION: C",
+  "ocr_words": [
+    {
+      "text": "15.",
+      "x0": 73.5,
+      "top": 4.5,
+      "x1": 84.9,
+      "bottom": 12.9,
+      "confidence": 93.350334,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "That",
+      "x0": 93.89999999999999,
+      "top": 4.2,
+      "x1": 115.79999999999998,
+      "bottom": 12.600000000000001,
+      "confidence": 95.776665,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "women",
+      "x0": 119.39999999999999,
+      "top": 7.199999999999999,
+      "x1": 154.79999999999998,
+      "bottom": 12.599999999999998,
+      "confidence": 94.649818,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "officers",
+      "x0": 158.7,
+      "top": 4.2,
+      "x1": 196.2,
+      "bottom": 12.600000000000001,
+      "confidence": 96.29422,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "would",
+      "x0": 200.4,
+      "top": 4.2,
+      "x1": 230.7,
+      "bottom": 12.600000000000001,
+      "confidence": 95.841095,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "upset",
+      "x0": 234.0,
+      "top": 5.3999999999999995,
+      "x1": 260.1,
+      "bottom": 15.3,
+      "confidence": 96.267067,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 263.7,
+      "top": 4.2,
+      "x1": 277.8,
+      "bottom": 12.600000000000001,
+      "confidence": 96.263947,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "dynamics",
+      "x0": 281.7,
+      "top": 4.2,
+      "x1": 328.2,
+      "bottom": 15.3,
+      "confidence": 92.850975,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "inaunitisa/an____—__",
+      "x0": 332.4,
+      "top": 4.2,
+      "x1": 447.29999999999995,
+      "bottom": 15.3,
+      "confidence": 1.013794,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "ground",
+      "x0": 450.59999999999997,
+      "top": 4.2,
+      "x1": 484.79999999999995,
+      "bottom": 15.3,
+      "confidence": 96.742439,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "for",
+      "x0": 488.4,
+      "top": 4.2,
+      "x1": 501.9,
+      "bottom": 12.600000000000001,
+      "confidence": 96.974983,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "denyingthem",
+      "x0": 93.89999999999999,
+      "top": 18.0,
+      "x1": 158.7,
+      "bottom": 29.1,
+      "confidence": 91.807655,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "permanent",
+      "x0": 162.0,
+      "top": 19.2,
+      "x1": 213.3,
+      "bottom": 29.1,
+      "confidence": 96.804222,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "commission.",
+      "x0": 216.9,
+      "top": 18.0,
+      "x1": 276.9,
+      "bottom": 26.4,
+      "confidence": 95.563896,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(A)",
+      "x0": 100.5,
+      "top": 33.9,
+      "x1": 113.4,
+      "bottom": 44.699999999999996,
+      "confidence": 96.019264,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Inevitable",
+      "x0": 122.1,
+      "top": 33.9,
+      "x1": 170.1,
+      "bottom": 42.3,
+      "confidence": 96.019264,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(B)",
+      "x0": 100.5,
+      "top": 49.8,
+      "x1": 112.8,
+      "bottom": 60.599999999999994,
+      "confidence": 92.614861,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Strong",
+      "x0": 122.39999999999999,
+      "top": 50.1,
+      "x1": 153.6,
+      "bottom": 60.9,
+      "confidence": 96.705223,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(C)",
+      "x0": 100.5,
+      "top": 66.0,
+      "x1": 112.8,
+      "bottom": 76.8,
+      "confidence": 92.603226,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Unreasonable",
+      "x0": 121.8,
+      "top": 66.0,
+      "x1": 189.0,
+      "bottom": 74.4,
+      "confidence": 95.577431,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "(D)",
+      "x0": 100.5,
+      "top": 81.0,
+      "x1": 113.4,
+      "bottom": 91.8,
+      "confidence": 89.250008,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Valid",
+      "x0": 121.8,
+      "top": 81.0,
+      "x1": 148.2,
+      "bottom": 89.4,
+      "confidence": 96.744804,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "CORRECT",
+      "x0": 72.3,
+      "top": 97.5,
+      "x1": 131.7,
+      "bottom": 106.2,
+      "confidence": 96.494034,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "OPTION:",
+      "x0": 135.29999999999998,
+      "top": 97.5,
+      "x1": 185.39999999999998,
+      "bottom": 106.2,
+      "confidence": 93.177933,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "C",
+      "x0": 189.9,
+      "top": 97.5,
+      "x1": 197.4,
+      "bottom": 106.2,
+      "confidence": 91.743027,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

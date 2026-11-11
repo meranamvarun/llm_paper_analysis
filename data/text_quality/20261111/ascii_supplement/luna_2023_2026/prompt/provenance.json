@@ -1,0 +1,20 @@
+{
+  "requested_model": "gpt-6-luna",
+  "date": "2026-11-11",
+  "reasoning_effort": "medium",
+  "runtime": "unavailable",
+  "billing": "unavailable",
+  "input_sha256": "f41826b4255bb7945fc84b2ff4061c7748353b0e957333b7a96ea87a08e628e4",
+  "source_pdf_sha256": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b",
+  "crop_mapping_sha256": "920d8205f199cc490175040c158acce215330a6b7c15a22b1fbede6476076c14",
+  "crop_image_sha256": {
+    "flag_crops/sheet_001.jpg": "d071cef3519f6da76090dba17c9a578bdf5f565d50848de7f23ff3455826c063",
+    "flag_crops/sheet_002.jpg": "86928a6a337d0a1ba477b51ad2f5de15c2aef717a7942f0c9d8449674e5836f2"
+  },
+  "review_sha256": "5378743367bd4bac8d82546d8a3e9eecad6fced4215b81b63b4e28f04e0a6a46",
+  "full_page_sha256": {
+    "full_page_184.png": "83210866cf66a9b5b882860db0046a74adad595ac0fa52aa0e045cf7e1d42f9f",
+    "full_page_60.png": "1120c3297f1600db1385c2ef0d8edadfa29844ba2854a211beed7b635aa64833"
+  },
+  "review_scope": "All 18 ASCII artifact flags in supplied input; both mapped crop sheets and full pages 60/184 inspected."
+}

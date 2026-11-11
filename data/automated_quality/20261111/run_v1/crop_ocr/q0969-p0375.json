@@ -1,0 +1,698 @@
+{
+  "pdf_page": 375,
+  "crop_top": 62.60136,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.17 Which Article of the Constitution puts obligation on the State to promote with special care the educational and economic interests of the weaker sections of",
+      "bbox": [
+        42.0,
+        3.5999999999999996,
+        549.0,
+        10.2
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "the people, and, in particular, of the Scheduled Castes and the Scheduled Tribes?",
+      "bbox": [
+        62.4,
+        12.6,
+        313.79999999999995,
+        19.2
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "Ans 4",
+      "bbox": [
+        43.199999999999996,
+        23.099999999999998,
+        87.6,
+        36.9
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "1. Article 46",
+      "bbox": [
+        88.5,
+        33.9,
+        124.2,
+        39.0
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "x,",
+      "bbox": [
+        73.2,
+        45.3,
+        93.0,
+        60.599999999999994
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "Article 43",
+      "bbox": [
+        95.39999999999999,
+        55.5,
+        123.9,
+        60.6
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "x,",
+      "bbox": [
+        73.2,
+        66.89999999999999,
+        93.0,
+        81.89999999999999
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "Article 45",
+      "bbox": [
+        95.39999999999999,
+        76.8,
+        123.9,
+        81.89999999999999
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "x,",
+      "bbox": [
+        73.2,
+        88.2,
+        93.0,
+        103.2
+      ]
+    },
+    {
+      "line_id": "l0009",
+      "text": "Article 21-A",
+      "bbox": [
+        95.39999999999999,
+        98.1,
+        130.8,
+        103.19999999999999
+      ]
+    }
+  ],
+  "text": "Q.17 Which Article of the Constitution puts obligation on the State to promote with special care the educational and economic interests of the weaker sections of\nthe people, and, in particular, of the Scheduled Castes and the Scheduled Tribes?\nAns 4\n1. Article 46\nx,\nArticle 43\nx,\nArticle 45\nx,\nArticle 21-A",
+  "ocr_words": [
+    {
+      "text": "Q.17",
+      "x0": 42.0,
+      "top": 3.9,
+      "x1": 56.1,
+      "bottom": 9.6,
+      "confidence": 92.051857,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Which",
+      "x0": 62.4,
+      "top": 3.5999999999999996,
+      "x1": 81.9,
+      "bottom": 8.7,
+      "confidence": 96.757233,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Article",
+      "x0": 84.0,
+      "top": 3.5999999999999996,
+      "x1": 104.1,
+      "bottom": 8.7,
+      "confidence": 96.878113,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 106.2,
+      "top": 3.5999999999999996,
+      "x1": 112.5,
+      "bottom": 8.7,
+      "confidence": 96.792747,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 114.3,
+      "top": 3.5999999999999996,
+      "x1": 124.2,
+      "bottom": 8.7,
+      "confidence": 96.37085,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Constitution",
+      "x0": 126.6,
+      "top": 3.9,
+      "x1": 164.39999999999998,
+      "bottom": 8.7,
+      "confidence": 96.644043,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "puts",
+      "x0": 166.79999999999998,
+      "top": 4.2,
+      "x1": 179.99999999999997,
+      "bottom": 10.2,
+      "confidence": 96.068138,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "obligation",
+      "x0": 182.1,
+      "top": 3.5999999999999996,
+      "x1": 213.0,
+      "bottom": 10.2,
+      "confidence": 96.9963,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "on",
+      "x0": 215.1,
+      "top": 5.1,
+      "x1": 222.6,
+      "bottom": 8.7,
+      "confidence": 96.667374,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 224.7,
+      "top": 3.5999999999999996,
+      "x1": 234.89999999999998,
+      "bottom": 8.7,
+      "confidence": 96.483932,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "State",
+      "x0": 237.0,
+      "top": 3.9,
+      "x1": 252.9,
+      "bottom": 8.7,
+      "confidence": 96.940689,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 255.0,
+      "top": 4.2,
+      "x1": 261.3,
+      "bottom": 8.7,
+      "confidence": 96.510429,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "promote",
+      "x0": 263.4,
+      "top": 4.2,
+      "x1": 290.09999999999997,
+      "bottom": 10.2,
+      "confidence": 95.959549,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "with",
+      "x0": 292.2,
+      "top": 3.5999999999999996,
+      "x1": 305.7,
+      "bottom": 8.7,
+      "confidence": 96.336624,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "special",
+      "x0": 308.09999999999997,
+      "top": 3.5999999999999996,
+      "x1": 328.49999999999994,
+      "bottom": 10.2,
+      "confidence": 96.840782,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "care",
+      "x0": 330.9,
+      "top": 5.1,
+      "x1": 343.79999999999995,
+      "bottom": 8.7,
+      "confidence": 97.003036,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 345.9,
+      "top": 3.5999999999999996,
+      "x1": 355.79999999999995,
+      "bottom": 8.7,
+      "confidence": 96.77877,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "educational",
+      "x0": 358.2,
+      "top": 3.5999999999999996,
+      "x1": 394.2,
+      "bottom": 8.7,
+      "confidence": 96.644173,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 396.59999999999997,
+      "top": 3.5999999999999996,
+      "x1": 407.7,
+      "bottom": 8.7,
+      "confidence": 96.833206,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "economic",
+      "x0": 409.8,
+      "top": 3.9,
+      "x1": 439.5,
+      "bottom": 8.7,
+      "confidence": 96.321922,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "interests",
+      "x0": 441.9,
+      "top": 3.9,
+      "x1": 468.59999999999997,
+      "bottom": 8.7,
+      "confidence": 96.515144,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 470.7,
+      "top": 3.5999999999999996,
+      "x1": 477.0,
+      "bottom": 8.7,
+      "confidence": 97.005333,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 478.79999999999995,
+      "top": 3.5999999999999996,
+      "x1": 488.69999999999993,
+      "bottom": 8.7,
+      "confidence": 96.87442,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "weaker",
+      "x0": 490.79999999999995,
+      "top": 3.5999999999999996,
+      "x1": 513.9,
+      "bottom": 8.7,
+      "confidence": 96.387978,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "sections",
+      "x0": 515.6999999999999,
+      "top": 3.9,
+      "x1": 540.9,
+      "bottom": 8.7,
+      "confidence": 96.643318,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 543.0,
+      "top": 3.5999999999999996,
+      "x1": 549.0,
+      "bottom": 8.7,
+      "confidence": 96.61145,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 62.4,
+      "top": 12.6,
+      "x1": 72.6,
+      "bottom": 17.7,
+      "confidence": 96.394707,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "people,",
+      "x0": 75.0,
+      "top": 12.6,
+      "x1": 97.5,
+      "bottom": 19.2,
+      "confidence": 96.391983,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "and,",
+      "x0": 99.89999999999999,
+      "top": 12.6,
+      "x1": 112.8,
+      "bottom": 18.9,
+      "confidence": 96.965317,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "in",
+      "x0": 115.19999999999999,
+      "top": 12.9,
+      "x1": 120.29999999999998,
+      "bottom": 17.7,
+      "confidence": 95.811668,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "particular,",
+      "x0": 123.0,
+      "top": 12.6,
+      "x1": 154.2,
+      "bottom": 19.2,
+      "confidence": 96.600471,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 156.6,
+      "top": 12.6,
+      "x1": 162.9,
+      "bottom": 17.7,
+      "confidence": 96.987526,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 164.4,
+      "top": 12.6,
+      "x1": 174.6,
+      "bottom": 17.7,
+      "confidence": 96.931717,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Scheduled",
+      "x0": 176.7,
+      "top": 12.6,
+      "x1": 208.2,
+      "bottom": 17.7,
+      "confidence": 96.270836,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Castes",
+      "x0": 210.6,
+      "top": 12.9,
+      "x1": 230.1,
+      "bottom": 17.7,
+      "confidence": 96.716171,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "and",
+      "x0": 232.2,
+      "top": 12.6,
+      "x1": 243.29999999999998,
+      "bottom": 17.7,
+      "confidence": 96.619804,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 245.7,
+      "top": 12.6,
+      "x1": 255.6,
+      "bottom": 17.7,
+      "confidence": 96.797638,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Scheduled",
+      "x0": 258.0,
+      "top": 12.6,
+      "x1": 289.5,
+      "bottom": 17.7,
+      "confidence": 96.68615,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Tribes?",
+      "x0": 291.59999999999997,
+      "top": 12.6,
+      "x1": 313.79999999999995,
+      "bottom": 17.7,
+      "confidence": 96.846298,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.199999999999996,
+      "top": 25.8,
+      "x1": 54.599999999999994,
+      "bottom": 30.6,
+      "confidence": 96.58625,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "4",
+      "x0": 73.8,
+      "top": 23.099999999999998,
+      "x1": 87.6,
+      "bottom": 36.9,
+      "confidence": 57.791821,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "1.",
+      "x0": 88.5,
+      "top": 34.199999999999996,
+      "x1": 93.0,
+      "bottom": 38.99999999999999,
+      "confidence": 96.172714,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Article",
+      "x0": 95.39999999999999,
+      "top": 33.9,
+      "x1": 114.6,
+      "bottom": 39.0,
+      "confidence": 96.844215,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "46",
+      "x0": 117.0,
+      "top": 34.199999999999996,
+      "x1": 124.2,
+      "bottom": 38.99999999999999,
+      "confidence": 96.520355,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "x,",
+      "x0": 73.2,
+      "top": 45.3,
+      "x1": 93.0,
+      "bottom": 60.599999999999994,
+      "confidence": 72.312546,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Article",
+      "x0": 95.39999999999999,
+      "top": 55.5,
+      "x1": 114.6,
+      "bottom": 60.6,
+      "confidence": 96.471352,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "43",
+      "x0": 117.0,
+      "top": 55.8,
+      "x1": 123.9,
+      "bottom": 60.599999999999994,
+      "confidence": 92.107574,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "x,",
+      "x0": 73.2,
+      "top": 66.89999999999999,
+      "x1": 93.0,
+      "bottom": 81.89999999999999,
+      "confidence": 72.123573,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Article",
+      "x0": 95.39999999999999,
+      "top": 76.8,
+      "x1": 114.6,
+      "bottom": 81.89999999999999,
+      "confidence": 96.766678,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "45",
+      "x0": 117.0,
+      "top": 77.1,
+      "x1": 123.9,
+      "bottom": 81.89999999999999,
+      "confidence": 90.858292,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "x,",
+      "x0": 73.2,
+      "top": 88.2,
+      "x1": 93.0,
+      "bottom": 103.2,
+      "confidence": 63.59634,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "Article",
+      "x0": 95.39999999999999,
+      "top": 98.1,
+      "x1": 114.6,
+      "bottom": 103.19999999999999,
+      "confidence": 92.942238,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "21-A",
+      "x0": 117.3,
+      "top": 98.39999999999999,
+      "x1": 130.8,
+      "bottom": 103.19999999999999,
+      "confidence": 92.543106,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

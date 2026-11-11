@@ -1,0 +1,109 @@
+{
+  "source_sha256": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b",
+  "challenge_groups": [
+    {
+      "pdf_pages": [
+        24
+      ],
+      "focus": "numeric option continuation",
+      "reference_status": "pending_human_adjudication",
+      "selection": "purposive_known_defect",
+      "overlap_with_probability_sample": false
+    },
+    {
+      "pdf_pages": [
+        43,
+        44
+      ],
+      "focus": "passage/footer boundary",
+      "reference_status": "pending_human_adjudication",
+      "selection": "purposive_known_defect",
+      "overlap_with_probability_sample": false
+    },
+    {
+      "pdf_pages": [
+        107
+      ],
+      "focus": "accepted number/stem/options",
+      "reference_status": "pending_human_adjudication",
+      "selection": "purposive_known_defect",
+      "overlap_with_probability_sample": false
+    },
+    {
+      "pdf_pages": [
+        130
+      ],
+      "focus": "nontext border glyphs and false question split",
+      "reference_status": "pending_human_adjudication",
+      "selection": "purposive_known_defect",
+      "overlap_with_probability_sample": true
+    },
+    {
+      "pdf_pages": [
+        237
+      ],
+      "focus": "citation continuation split",
+      "reference_status": "pending_human_adjudication",
+      "selection": "purposive_known_defect",
+      "overlap_with_probability_sample": false
+    },
+    {
+      "pdf_pages": [
+        330
+      ],
+      "focus": "wholly missed essay",
+      "reference_status": "pending_human_adjudication",
+      "selection": "purposive_known_defect",
+      "overlap_with_probability_sample": false
+    },
+    {
+      "pdf_pages": [
+        339,
+        414
+      ],
+      "focus": "missing or malformed options",
+      "reference_status": "pending_human_adjudication",
+      "selection": "purposive_known_defect",
+      "overlap_with_probability_sample": false
+    },
+    {
+      "pdf_pages": [
+        389,
+        393,
+        417,
+        418,
+        449
+      ],
+      "focus": "preserve source typos; reject dictionary hallucinations",
+      "reference_status": "pending_human_adjudication",
+      "selection": "purposive_known_defect",
+      "overlap_with_probability_sample": true
+    },
+    {
+      "pdf_pages": [
+        401,
+        402,
+        403,
+        404,
+        405,
+        427,
+        432
+      ],
+      "focus": "answer-mark artifacts and citation glyphs",
+      "reference_status": "pending_human_adjudication",
+      "selection": "purposive_known_defect",
+      "overlap_with_probability_sample": true
+    },
+    {
+      "pdf_pages": [
+        438
+      ],
+      "focus": "additional numeric continuation",
+      "reference_status": "pending_human_adjudication",
+      "selection": "purposive_known_defect",
+      "overlap_with_probability_sample": false
+    }
+  ],
+  "claim": "No corpus accuracy estimate may be inferred from this purposive set",
+  "human_gold_available": false
+}

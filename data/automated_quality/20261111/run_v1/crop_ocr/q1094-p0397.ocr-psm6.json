@@ -1,0 +1,267 @@
+{
+  "pdf_page": 397,
+  "crop_top": 782.12137,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.42_ 'A' dies leaving behind a son X and a married daughter Y, a suit filed by 'A', can be continued by:",
+      "bbox": [
+        42.0,
+        3.5999999999999996,
+        360.3,
+        10.2
+      ]
+    }
+  ],
+  "text": "Q.42_ 'A' dies leaving behind a son X and a married daughter Y, a suit filed by 'A', can be continued by:",
+  "ocr_words": [
+    {
+      "text": "Q.42_",
+      "x0": 42.0,
+      "top": 3.9,
+      "x1": 56.1,
+      "bottom": 9.6,
+      "confidence": 0.0,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "'A'",
+      "x0": 62.699999999999996,
+      "top": 3.5999999999999996,
+      "x1": 69.89999999999999,
+      "bottom": 8.7,
+      "confidence": 62.416004,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "dies",
+      "x0": 72.3,
+      "top": 3.5999999999999996,
+      "x1": 84.6,
+      "bottom": 8.7,
+      "confidence": 75.15416,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "leaving",
+      "x0": 87.0,
+      "top": 3.5999999999999996,
+      "x1": 108.6,
+      "bottom": 10.2,
+      "confidence": 96.645653,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "behind",
+      "x0": 110.7,
+      "top": 3.5999999999999996,
+      "x1": 131.7,
+      "bottom": 8.7,
+      "confidence": 96.611984,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 134.1,
+      "top": 5.1,
+      "x1": 137.1,
+      "bottom": 8.7,
+      "confidence": 94.856239,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "son",
+      "x0": 139.5,
+      "top": 5.1,
+      "x1": 150.0,
+      "bottom": 8.7,
+      "confidence": 93.171104,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "X",
+      "x0": 152.1,
+      "top": 3.9,
+      "x1": 156.0,
+      "bottom": 8.7,
+      "confidence": 92.828545,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 158.1,
+      "top": 3.5999999999999996,
+      "x1": 169.2,
+      "bottom": 8.7,
+      "confidence": 96.728172,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 171.6,
+      "top": 5.1,
+      "x1": 174.6,
+      "bottom": 8.7,
+      "confidence": 96.899666,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "married",
+      "x0": 177.0,
+      "top": 3.5999999999999996,
+      "x1": 201.0,
+      "bottom": 8.7,
+      "confidence": 96.554344,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "daughter",
+      "x0": 203.4,
+      "top": 3.5999999999999996,
+      "x1": 231.3,
+      "bottom": 10.2,
+      "confidence": 93.284615,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Y,",
+      "x0": 233.39999999999998,
+      "top": 3.9,
+      "x1": 238.79999999999998,
+      "bottom": 9.9,
+      "confidence": 93.231087,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 240.89999999999998,
+      "top": 5.1,
+      "x1": 243.89999999999998,
+      "bottom": 8.7,
+      "confidence": 96.986183,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "suit",
+      "x0": 246.29999999999998,
+      "top": 3.9,
+      "x1": 257.4,
+      "bottom": 8.7,
+      "confidence": 96.986183,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "filed",
+      "x0": 259.5,
+      "top": 3.5999999999999996,
+      "x1": 272.7,
+      "bottom": 8.7,
+      "confidence": 96.696152,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "by",
+      "x0": 275.09999999999997,
+      "top": 3.5999999999999996,
+      "x1": 282.29999999999995,
+      "bottom": 10.2,
+      "confidence": 91.655472,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "'A',",
+      "x0": 284.4,
+      "top": 3.5999999999999996,
+      "x1": 293.7,
+      "bottom": 9.6,
+      "confidence": 79.717361,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "can",
+      "x0": 296.09999999999997,
+      "top": 5.1,
+      "x1": 306.29999999999995,
+      "bottom": 8.7,
+      "confidence": 96.872978,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "be",
+      "x0": 308.7,
+      "top": 3.5999999999999996,
+      "x1": 315.9,
+      "bottom": 8.7,
+      "confidence": 96.830475,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "continued",
+      "x0": 318.0,
+      "top": 3.5999999999999996,
+      "x1": 348.9,
+      "bottom": 8.7,
+      "confidence": 96.615662,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "by:",
+      "x0": 351.3,
+      "top": 3.5999999999999996,
+      "x1": 360.3,
+      "bottom": 10.2,
+      "confidence": 96.461861,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

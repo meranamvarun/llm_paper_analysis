@@ -1,0 +1,931 @@
+{
+  "pdf_page": 233,
+  "crop_top": 637.972,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "24. Which of the following statements is true regarding right to property?",
+      "bbox": [
+        72.3,
+        4.2,
+        426.59999999999997,
+        15.3
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "(A) Right to property is recognised as part and parcel of the right to life and personal",
+      "bbox": [
+        100.5,
+        19.5,
+        514.8,
+        30.6
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "liberty.",
+      "bbox": [
+        122.1,
+        33.0,
+        155.1,
+        44.1
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(B) Right to property is recognised as part and parcel of the right to carry on any",
+      "bbox": [
+        100.5,
+        47.4,
+        494.09999999999997,
+        58.5
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "occupation, trade or business.",
+      "bbox": [
+        122.1,
+        61.8,
+        263.4,
+        72.89999999999999
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "(©) Right to property is not a basic feature of the Constitution of India.",
+      "bbox": [
+        100.5,
+        76.5,
+        442.2,
+        87.6
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "(D) Right to property is an inalienable right.",
+      "bbox": [
+        100.5,
+        91.5,
+        314.40000000000003,
+        102.6
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "CORRECT OPTION: C",
+      "bbox": [
+        72.3,
+        105.89999999999999,
+        197.4,
+        114.6
+      ]
+    }
+  ],
+  "text": "24. Which of the following statements is true regarding right to property?\n(A) Right to property is recognised as part and parcel of the right to life and personal\nliberty.\n(B) Right to property is recognised as part and parcel of the right to carry on any\noccupation, trade or business.\n(©) Right to property is not a basic feature of the Constitution of India.\n(D) Right to property is an inalienable right.\nCORRECT OPTION: C",
+  "ocr_words": [
+    {
+      "text": "24.",
+      "x0": 72.3,
+      "top": 4.2,
+      "x1": 84.89999999999999,
+      "bottom": 12.600000000000001,
+      "confidence": 92.218658,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Which",
+      "x0": 93.89999999999999,
+      "top": 4.2,
+      "x1": 125.69999999999999,
+      "bottom": 12.600000000000001,
+      "confidence": 96.512985,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 128.7,
+      "top": 4.2,
+      "x1": 139.79999999999998,
+      "bottom": 12.600000000000001,
+      "confidence": 96.821259,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 142.2,
+      "top": 4.2,
+      "x1": 156.29999999999998,
+      "bottom": 12.600000000000001,
+      "confidence": 96.544022,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 159.6,
+      "top": 4.2,
+      "x1": 206.7,
+      "bottom": 15.3,
+      "confidence": 96.688774,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "statements",
+      "x0": 209.7,
+      "top": 5.3999999999999995,
+      "x1": 259.5,
+      "bottom": 12.599999999999998,
+      "confidence": 96.292572,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 262.8,
+      "top": 4.2,
+      "x1": 270.0,
+      "bottom": 12.600000000000001,
+      "confidence": 96.292572,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "true",
+      "x0": 273.3,
+      "top": 5.7,
+      "x1": 291.3,
+      "bottom": 12.6,
+      "confidence": 96.079933,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "regarding",
+      "x0": 294.3,
+      "top": 4.2,
+      "x1": 340.2,
+      "bottom": 15.3,
+      "confidence": 96.84343,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "right",
+      "x0": 342.3,
+      "top": 4.2,
+      "x1": 364.8,
+      "bottom": 15.3,
+      "confidence": 96.143768,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 367.5,
+      "top": 5.7,
+      "x1": 376.2,
+      "bottom": 12.6,
+      "confidence": 96.506401,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "property?",
+      "x0": 380.09999999999997,
+      "top": 4.5,
+      "x1": 426.59999999999997,
+      "bottom": 15.299999999999999,
+      "confidence": 96.334976,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 100.5,
+      "top": 19.5,
+      "x1": 113.7,
+      "bottom": 30.299999999999997,
+      "confidence": 96.322578,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Right",
+      "x0": 121.8,
+      "top": 19.5,
+      "x1": 148.2,
+      "bottom": 30.6,
+      "confidence": 96.551247,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "to",
+      "x0": 151.5,
+      "top": 20.7,
+      "x1": 160.2,
+      "bottom": 27.9,
+      "confidence": 96.350441,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "property",
+      "x0": 163.79999999999998,
+      "top": 21.0,
+      "x1": 205.2,
+      "bottom": 30.6,
+      "confidence": 96.350441,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "is",
+      "x0": 208.5,
+      "top": 19.5,
+      "x1": 215.7,
+      "bottom": 27.9,
+      "confidence": 96.362694,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "recognised",
+      "x0": 219.29999999999998,
+      "top": 19.5,
+      "x1": 271.2,
+      "bottom": 30.6,
+      "confidence": 96.784653,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "as",
+      "x0": 274.5,
+      "top": 22.5,
+      "x1": 283.8,
+      "bottom": 27.9,
+      "confidence": 96.413765,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "part",
+      "x0": 287.4,
+      "top": 20.7,
+      "x1": 306.59999999999997,
+      "bottom": 30.6,
+      "confidence": 96.413765,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "and",
+      "x0": 310.5,
+      "top": 19.5,
+      "x1": 327.6,
+      "bottom": 27.9,
+      "confidence": 96.486145,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "parcel",
+      "x0": 331.2,
+      "top": 19.5,
+      "x1": 360.9,
+      "bottom": 30.6,
+      "confidence": 96.324715,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 364.8,
+      "top": 19.5,
+      "x1": 375.6,
+      "bottom": 27.9,
+      "confidence": 96.218552,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 378.0,
+      "top": 19.5,
+      "x1": 392.1,
+      "bottom": 27.9,
+      "confidence": 96.921837,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "right",
+      "x0": 395.7,
+      "top": 19.5,
+      "x1": 418.2,
+      "bottom": 30.6,
+      "confidence": 96.682343,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "to",
+      "x0": 421.5,
+      "top": 21.0,
+      "x1": 430.2,
+      "bottom": 27.9,
+      "confidence": 96.682343,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "life",
+      "x0": 434.09999999999997,
+      "top": 19.5,
+      "x1": 449.7,
+      "bottom": 27.9,
+      "confidence": 96.153549,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "and",
+      "x0": 453.59999999999997,
+      "top": 19.5,
+      "x1": 470.99999999999994,
+      "bottom": 27.9,
+      "confidence": 96.962906,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "personal",
+      "x0": 474.59999999999997,
+      "top": 19.5,
+      "x1": 514.8,
+      "bottom": 30.6,
+      "confidence": 96.48761,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "liberty.",
+      "x0": 122.1,
+      "top": 33.0,
+      "x1": 155.1,
+      "bottom": 44.1,
+      "confidence": 96.902931,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(B)",
+      "x0": 100.5,
+      "top": 47.4,
+      "x1": 113.1,
+      "bottom": 58.199999999999996,
+      "confidence": 92.790985,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Right",
+      "x0": 121.8,
+      "top": 47.4,
+      "x1": 148.2,
+      "bottom": 58.5,
+      "confidence": 96.711182,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "to",
+      "x0": 151.5,
+      "top": 48.6,
+      "x1": 160.2,
+      "bottom": 55.8,
+      "confidence": 96.711182,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "property",
+      "x0": 163.79999999999998,
+      "top": 48.9,
+      "x1": 205.2,
+      "bottom": 58.5,
+      "confidence": 96.389832,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "is",
+      "x0": 208.5,
+      "top": 47.4,
+      "x1": 215.7,
+      "bottom": 55.8,
+      "confidence": 96.389832,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "recognised",
+      "x0": 219.29999999999998,
+      "top": 47.4,
+      "x1": 271.2,
+      "bottom": 58.5,
+      "confidence": 96.704308,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "as",
+      "x0": 274.5,
+      "top": 50.4,
+      "x1": 283.8,
+      "bottom": 55.8,
+      "confidence": 96.052322,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "part",
+      "x0": 287.4,
+      "top": 48.6,
+      "x1": 306.59999999999997,
+      "bottom": 58.5,
+      "confidence": 96.834213,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "and",
+      "x0": 310.5,
+      "top": 47.4,
+      "x1": 327.6,
+      "bottom": 55.8,
+      "confidence": 96.660942,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "parcel",
+      "x0": 331.2,
+      "top": 47.4,
+      "x1": 360.9,
+      "bottom": 58.5,
+      "confidence": 96.660942,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "of",
+      "x0": 364.8,
+      "top": 47.4,
+      "x1": 375.6,
+      "bottom": 55.8,
+      "confidence": 96.922806,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "the",
+      "x0": 378.0,
+      "top": 47.4,
+      "x1": 392.1,
+      "bottom": 55.8,
+      "confidence": 96.998924,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "right",
+      "x0": 395.7,
+      "top": 47.4,
+      "x1": 418.2,
+      "bottom": 58.5,
+      "confidence": 96.334305,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "to",
+      "x0": 421.5,
+      "top": 48.9,
+      "x1": 430.2,
+      "bottom": 55.8,
+      "confidence": 96.677399,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "carry",
+      "x0": 434.09999999999997,
+      "top": 50.4,
+      "x1": 458.4,
+      "bottom": 58.5,
+      "confidence": 96.450142,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "on",
+      "x0": 461.7,
+      "top": 50.4,
+      "x1": 473.4,
+      "bottom": 55.8,
+      "confidence": 96.463844,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "any",
+      "x0": 477.29999999999995,
+      "top": 50.4,
+      "x1": 494.09999999999997,
+      "bottom": 58.5,
+      "confidence": 96.928635,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "occupation,",
+      "x0": 122.1,
+      "top": 61.8,
+      "x1": 178.79999999999998,
+      "bottom": 72.89999999999999,
+      "confidence": 96.623405,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "trade",
+      "x0": 182.4,
+      "top": 61.8,
+      "x1": 205.8,
+      "bottom": 70.2,
+      "confidence": 96.030075,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "or",
+      "x0": 208.2,
+      "top": 64.8,
+      "x1": 218.1,
+      "bottom": 70.2,
+      "confidence": 96.030075,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "business.",
+      "x0": 220.5,
+      "top": 61.8,
+      "x1": 263.4,
+      "bottom": 70.2,
+      "confidence": 96.717987,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "(©)",
+      "x0": 100.5,
+      "top": 76.5,
+      "x1": 112.8,
+      "bottom": 87.3,
+      "confidence": 59.89666,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Right",
+      "x0": 121.8,
+      "top": 76.5,
+      "x1": 148.2,
+      "bottom": 87.6,
+      "confidence": 96.776367,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "to",
+      "x0": 151.5,
+      "top": 77.7,
+      "x1": 160.2,
+      "bottom": 84.9,
+      "confidence": 96.735168,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "property",
+      "x0": 164.4,
+      "top": 78.0,
+      "x1": 205.8,
+      "bottom": 87.6,
+      "confidence": 96.798798,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "is",
+      "x0": 208.79999999999998,
+      "top": 76.5,
+      "x1": 216.29999999999998,
+      "bottom": 84.9,
+      "confidence": 93.529617,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "not",
+      "x0": 219.29999999999998,
+      "top": 78.0,
+      "x1": 234.89999999999998,
+      "bottom": 84.9,
+      "confidence": 92.637146,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "a",
+      "x0": 237.89999999999998,
+      "top": 79.5,
+      "x1": 242.7,
+      "bottom": 84.9,
+      "confidence": 92.637146,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "basic",
+      "x0": 245.39999999999998,
+      "top": 76.5,
+      "x1": 270.0,
+      "bottom": 84.9,
+      "confidence": 96.054802,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "feature",
+      "x0": 273.59999999999997,
+      "top": 76.5,
+      "x1": 307.49999999999994,
+      "bottom": 84.9,
+      "confidence": 96.507103,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "of",
+      "x0": 310.5,
+      "top": 76.5,
+      "x1": 321.3,
+      "bottom": 84.9,
+      "confidence": 97.015541,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "the",
+      "x0": 323.4,
+      "top": 76.5,
+      "x1": 337.79999999999995,
+      "bottom": 84.9,
+      "confidence": 96.897697,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Constitution",
+      "x0": 341.09999999999997,
+      "top": 76.5,
+      "x1": 399.9,
+      "bottom": 84.9,
+      "confidence": 96.674538,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "of",
+      "x0": 403.2,
+      "top": 76.5,
+      "x1": 414.3,
+      "bottom": 84.9,
+      "confidence": 96.812073,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "India.",
+      "x0": 415.8,
+      "top": 76.5,
+      "x1": 442.2,
+      "bottom": 84.9,
+      "confidence": 96.419441,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "(D)",
+      "x0": 100.5,
+      "top": 91.5,
+      "x1": 113.4,
+      "bottom": 102.3,
+      "confidence": 90.889847,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "Right",
+      "x0": 121.8,
+      "top": 91.5,
+      "x1": 148.2,
+      "bottom": 102.6,
+      "confidence": 96.499344,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "to",
+      "x0": 151.5,
+      "top": 92.7,
+      "x1": 160.2,
+      "bottom": 99.9,
+      "confidence": 96.78907,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "property",
+      "x0": 163.79999999999998,
+      "top": 93.0,
+      "x1": 205.2,
+      "bottom": 102.6,
+      "confidence": 96.838287,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "is",
+      "x0": 208.5,
+      "top": 91.5,
+      "x1": 215.7,
+      "bottom": 99.9,
+      "confidence": 96.593384,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "an",
+      "x0": 219.6,
+      "top": 94.5,
+      "x1": 230.4,
+      "bottom": 99.9,
+      "confidence": 96.593384,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "inalienable",
+      "x0": 234.29999999999998,
+      "top": 91.5,
+      "x1": 287.09999999999997,
+      "bottom": 99.9,
+      "confidence": 96.555649,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "right.",
+      "x0": 289.8,
+      "top": 91.5,
+      "x1": 314.40000000000003,
+      "bottom": 102.6,
+      "confidence": 96.793297,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "CORRECT",
+      "x0": 72.3,
+      "top": 105.89999999999999,
+      "x1": 131.7,
+      "bottom": 114.6,
+      "confidence": 96.718613,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "OPTION:",
+      "x0": 135.29999999999998,
+      "top": 105.89999999999999,
+      "x1": 185.39999999999998,
+      "bottom": 114.6,
+      "confidence": 93.296898,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "C",
+      "x0": 189.9,
+      "top": 105.89999999999999,
+      "x1": 197.4,
+      "bottom": 114.6,
+      "confidence": 91.953613,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

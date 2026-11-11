@@ -1,0 +1,590 @@
+{
+  "pdf_page": 40,
+  "crop_top": 451.5349919999999,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "100. The mechanism known as \"Loss and Damage\" in the context of climate change, which",
+      "bbox": [
+        57.9,
+        3.5999999999999996,
+        538.8,
+        13.8
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "addresses the unavoidable adverse effects of climate change, is reinforced in the Paris",
+      "bbox": [
+        85.5,
+        17.099999999999998,
+        538.5,
+        27.299999999999997
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "Agreement through the:",
+      "bbox": [
+        84.89999999999999,
+        30.9,
+        206.7,
+        41.099999999999994
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(A) Technology Executive Committee.",
+      "bbox": [
+        85.8,
+        48.3,
+        285.29999999999995,
+        58.5
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(B) Global Stocktake.",
+      "bbox": [
+        85.8,
+        66.0,
+        202.49999999999997,
+        75.89999999999999
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "(C) Warsaw International Mechanism (WIM).",
+      "bbox": [
+        85.8,
+        83.7,
+        326.4,
+        93.60000000000001
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "(D) Adaptation Fund.",
+      "bbox": [
+        85.8,
+        101.39999999999999,
+        202.8,
+        111.6
+      ]
+    }
+  ],
+  "text": "100. The mechanism known as \"Loss and Damage\" in the context of climate change, which\naddresses the unavoidable adverse effects of climate change, is reinforced in the Paris\nAgreement through the:\n(A) Technology Executive Committee.\n(B) Global Stocktake.\n(C) Warsaw International Mechanism (WIM).\n(D) Adaptation Fund.",
+  "ocr_words": [
+    {
+      "text": "100.",
+      "x0": 57.9,
+      "top": 4.2,
+      "x1": 77.1,
+      "bottom": 12.0,
+      "confidence": 94.998543,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 85.5,
+      "top": 3.5999999999999996,
+      "x1": 104.1,
+      "bottom": 12.0,
+      "confidence": 96.855843,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "mechanism",
+      "x0": 109.8,
+      "top": 3.5999999999999996,
+      "x1": 166.8,
+      "bottom": 12.0,
+      "confidence": 96.666801,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "known",
+      "x0": 172.2,
+      "top": 3.5999999999999996,
+      "x1": 205.5,
+      "bottom": 12.0,
+      "confidence": 96.643501,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "as",
+      "x0": 210.9,
+      "top": 6.6,
+      "x1": 221.1,
+      "bottom": 12.0,
+      "confidence": 95.955238,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "\"Loss",
+      "x0": 226.79999999999998,
+      "top": 3.9,
+      "x1": 252.89999999999998,
+      "bottom": 12.0,
+      "confidence": 95.955238,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 258.3,
+      "top": 3.5999999999999996,
+      "x1": 276.90000000000003,
+      "bottom": 12.0,
+      "confidence": 96.161285,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Damage\"",
+      "x0": 281.7,
+      "top": 3.9,
+      "x1": 327.3,
+      "bottom": 13.8,
+      "confidence": 96.527466,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 332.4,
+      "top": 3.9,
+      "x1": 342.29999999999995,
+      "bottom": 11.7,
+      "confidence": 96.045456,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 347.09999999999997,
+      "top": 3.5999999999999996,
+      "x1": 362.99999999999994,
+      "bottom": 12.0,
+      "confidence": 96.482666,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "context",
+      "x0": 368.4,
+      "top": 4.8,
+      "x1": 404.7,
+      "bottom": 12.0,
+      "confidence": 96.687416,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 409.8,
+      "top": 3.5999999999999996,
+      "x1": 419.40000000000003,
+      "bottom": 12.0,
+      "confidence": 96.556259,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "climate",
+      "x0": 423.59999999999997,
+      "top": 3.5999999999999996,
+      "x1": 460.2,
+      "bottom": 12.0,
+      "confidence": 96.603348,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "change,",
+      "x0": 465.59999999999997,
+      "top": 3.5999999999999996,
+      "x1": 503.4,
+      "bottom": 13.799999999999999,
+      "confidence": 96.7089,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "which",
+      "x0": 509.09999999999997,
+      "top": 3.5999999999999996,
+      "x1": 538.8,
+      "bottom": 12.0,
+      "confidence": 96.876472,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "addresses",
+      "x0": 85.5,
+      "top": 17.099999999999998,
+      "x1": 134.4,
+      "bottom": 25.5,
+      "confidence": 96.325531,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 139.79999999999998,
+      "top": 17.099999999999998,
+      "x1": 155.7,
+      "bottom": 25.5,
+      "confidence": 96.492439,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "unavoidable",
+      "x0": 161.1,
+      "top": 17.099999999999998,
+      "x1": 222.29999999999998,
+      "bottom": 25.5,
+      "confidence": 95.976166,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "adverse",
+      "x0": 227.7,
+      "top": 17.099999999999998,
+      "x1": 266.09999999999997,
+      "bottom": 25.5,
+      "confidence": 96.715393,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "effects",
+      "x0": 271.5,
+      "top": 17.099999999999998,
+      "x1": 303.3,
+      "bottom": 25.5,
+      "confidence": 96.325531,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 308.7,
+      "top": 17.099999999999998,
+      "x1": 318.3,
+      "bottom": 25.5,
+      "confidence": 96.729836,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "climate",
+      "x0": 322.2,
+      "top": 17.099999999999998,
+      "x1": 359.09999999999997,
+      "bottom": 25.5,
+      "confidence": 96.860657,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "change,",
+      "x0": 364.2,
+      "top": 17.099999999999998,
+      "x1": 402.0,
+      "bottom": 27.299999999999997,
+      "confidence": 96.368073,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "is",
+      "x0": 407.7,
+      "top": 17.4,
+      "x1": 415.5,
+      "bottom": 25.5,
+      "confidence": 96.135551,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "reinforced",
+      "x0": 420.9,
+      "top": 17.099999999999998,
+      "x1": 471.9,
+      "bottom": 25.5,
+      "confidence": 96.313805,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "in",
+      "x0": 476.7,
+      "top": 17.4,
+      "x1": 486.3,
+      "bottom": 25.2,
+      "confidence": 96.693993,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 491.4,
+      "top": 17.099999999999998,
+      "x1": 507.29999999999995,
+      "bottom": 25.5,
+      "confidence": 96.409111,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Paris",
+      "x0": 512.4,
+      "top": 17.4,
+      "x1": 538.5,
+      "bottom": 25.5,
+      "confidence": 96.684547,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Agreement",
+      "x0": 84.89999999999999,
+      "top": 30.9,
+      "x1": 140.7,
+      "bottom": 41.099999999999994,
+      "confidence": 96.493034,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "through",
+      "x0": 144.29999999999998,
+      "top": 30.9,
+      "x1": 184.49999999999997,
+      "bottom": 41.099999999999994,
+      "confidence": 96.398987,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "the:",
+      "x0": 188.1,
+      "top": 30.9,
+      "x1": 206.7,
+      "bottom": 39.3,
+      "confidence": 96.827133,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(A)",
+      "x0": 85.8,
+      "top": 48.3,
+      "x1": 99.6,
+      "bottom": 58.199999999999996,
+      "confidence": 90.181793,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Technology",
+      "x0": 113.7,
+      "top": 48.3,
+      "x1": 170.7,
+      "bottom": 58.5,
+      "confidence": 90.181793,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Executive",
+      "x0": 174.6,
+      "top": 48.6,
+      "x1": 223.5,
+      "bottom": 56.7,
+      "confidence": 95.521942,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Committee.",
+      "x0": 227.7,
+      "top": 48.3,
+      "x1": 285.29999999999995,
+      "bottom": 56.699999999999996,
+      "confidence": 95.521942,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(B)",
+      "x0": 85.8,
+      "top": 66.3,
+      "x1": 99.6,
+      "bottom": 75.89999999999999,
+      "confidence": 92.829185,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Global",
+      "x0": 114.0,
+      "top": 66.0,
+      "x1": 146.4,
+      "bottom": 74.4,
+      "confidence": 95.903313,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Stocktake.",
+      "x0": 150.29999999999998,
+      "top": 66.0,
+      "x1": 202.49999999999997,
+      "bottom": 74.4,
+      "confidence": 95.903313,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(C)",
+      "x0": 85.8,
+      "top": 83.7,
+      "x1": 99.6,
+      "bottom": 93.60000000000001,
+      "confidence": 92.676079,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Warsaw",
+      "x0": 113.7,
+      "top": 84.0,
+      "x1": 154.8,
+      "bottom": 92.1,
+      "confidence": 90.936966,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "International",
+      "x0": 158.4,
+      "top": 83.7,
+      "x1": 226.2,
+      "bottom": 92.10000000000001,
+      "confidence": 95.963455,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Mechanism",
+      "x0": 229.5,
+      "top": 83.7,
+      "x1": 287.7,
+      "bottom": 92.10000000000001,
+      "confidence": 95.542427,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(WIM).",
+      "x0": 291.9,
+      "top": 84.0,
+      "x1": 326.4,
+      "bottom": 93.6,
+      "confidence": 95.105553,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(D)",
+      "x0": 85.8,
+      "top": 101.7,
+      "x1": 100.19999999999999,
+      "bottom": 111.3,
+      "confidence": 91.194695,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Adaptation",
+      "x0": 113.39999999999999,
+      "top": 101.39999999999999,
+      "x1": 170.1,
+      "bottom": 111.6,
+      "confidence": 96.360428,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Fund.",
+      "x0": 174.0,
+      "top": 101.39999999999999,
+      "x1": 202.8,
+      "bottom": 109.8,
+      "confidence": 96.122635,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

@@ -1,0 +1,931 @@
+{
+  "pdf_page": 242,
+  "crop_top": 348.602,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "57. Which of the following conditions cannot be imposed by the court for granting bail?",
+      "bbox": [
+        72.6,
+        3.9,
+        495.9,
+        15.0
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "(A) Conditions prescribed under the Code of Criminal Procedure, 1973 for granting bail.",
+      "bbox": [
+        100.5,
+        20.099999999999998,
+        521.4,
+        31.199999999999996
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(B) Conditions in conformity with the guidelines laid down by the Supreme Court for",
+      "bbox": [
+        100.5,
+        35.1,
+        519.9,
+        46.2
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "granting bail.",
+      "bbox": [
+        122.1,
+        49.8,
+        184.5,
+        60.9
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(©) Conditions which suit the case after examining the credibility and culpability of the",
+      "bbox": [
+        100.5,
+        64.8,
+        521.4,
+        75.89999999999999
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "accused with the subjective satisfaction of the judge granting bail.",
+      "bbox": [
+        122.1,
+        79.2,
+        437.40000000000003,
+        90.3
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "(D) Both (B) and (C).",
+      "bbox": [
+        100.5,
+        94.5,
+        205.79999999999998,
+        105.3
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "CORRECT OPTION: C",
+      "bbox": [
+        72.3,
+        110.7,
+        197.4,
+        119.4
+      ]
+    }
+  ],
+  "text": "57. Which of the following conditions cannot be imposed by the court for granting bail?\n(A) Conditions prescribed under the Code of Criminal Procedure, 1973 for granting bail.\n(B) Conditions in conformity with the guidelines laid down by the Supreme Court for\ngranting bail.\n(©) Conditions which suit the case after examining the credibility and culpability of the\naccused with the subjective satisfaction of the judge granting bail.\n(D) Both (B) and (C).\nCORRECT OPTION: C",
+  "ocr_words": [
+    {
+      "text": "57.",
+      "x0": 72.6,
+      "top": 4.2,
+      "x1": 84.89999999999999,
+      "bottom": 12.600000000000001,
+      "confidence": 75.111008,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Which",
+      "x0": 93.89999999999999,
+      "top": 3.9,
+      "x1": 125.69999999999999,
+      "bottom": 12.3,
+      "confidence": 78.665665,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 129.0,
+      "top": 3.9,
+      "x1": 139.8,
+      "bottom": 12.3,
+      "confidence": 96.816505,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 142.2,
+      "top": 3.9,
+      "x1": 156.29999999999998,
+      "bottom": 12.3,
+      "confidence": 97.011276,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 159.9,
+      "top": 3.9,
+      "x1": 207.0,
+      "bottom": 15.0,
+      "confidence": 96.790779,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "conditions",
+      "x0": 210.0,
+      "top": 3.9,
+      "x1": 259.5,
+      "bottom": 12.3,
+      "confidence": 96.785797,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "cannot",
+      "x0": 262.8,
+      "top": 5.3999999999999995,
+      "x1": 294.3,
+      "bottom": 12.299999999999999,
+      "confidence": 96.772438,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "be",
+      "x0": 297.0,
+      "top": 3.9,
+      "x1": 307.8,
+      "bottom": 12.3,
+      "confidence": 96.94381,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "imposed",
+      "x0": 311.4,
+      "top": 3.9,
+      "x1": 351.9,
+      "bottom": 15.0,
+      "confidence": 96.618164,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "by",
+      "x0": 354.59999999999997,
+      "top": 3.9,
+      "x1": 366.9,
+      "bottom": 15.0,
+      "confidence": 96.283379,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 369.9,
+      "top": 3.9,
+      "x1": 384.0,
+      "bottom": 12.3,
+      "confidence": 96.988129,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "court",
+      "x0": 387.59999999999997,
+      "top": 5.3999999999999995,
+      "x1": 411.9,
+      "bottom": 12.299999999999999,
+      "confidence": 96.368576,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "for",
+      "x0": 414.59999999999997,
+      "top": 3.9,
+      "x1": 428.7,
+      "bottom": 12.3,
+      "confidence": 96.885635,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "granting",
+      "x0": 431.4,
+      "top": 3.9,
+      "x1": 471.0,
+      "bottom": 15.0,
+      "confidence": 96.725281,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "bail?",
+      "x0": 473.09999999999997,
+      "top": 3.9,
+      "x1": 495.9,
+      "bottom": 12.3,
+      "confidence": 96.948021,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 100.5,
+      "top": 20.099999999999998,
+      "x1": 113.4,
+      "bottom": 30.9,
+      "confidence": 91.037254,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Conditions",
+      "x0": 122.1,
+      "top": 20.099999999999998,
+      "x1": 174.89999999999998,
+      "bottom": 28.5,
+      "confidence": 91.037254,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "prescribed",
+      "x0": 177.29999999999998,
+      "top": 20.099999999999998,
+      "x1": 227.99999999999997,
+      "bottom": 31.199999999999996,
+      "confidence": 96.276588,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "under",
+      "x0": 230.39999999999998,
+      "top": 20.099999999999998,
+      "x1": 258.0,
+      "bottom": 28.5,
+      "confidence": 96.409866,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 260.09999999999997,
+      "top": 20.099999999999998,
+      "x1": 274.2,
+      "bottom": 28.5,
+      "confidence": 96.700584,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Code",
+      "x0": 276.9,
+      "top": 20.099999999999998,
+      "x1": 302.09999999999997,
+      "bottom": 28.5,
+      "confidence": 96.983505,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 304.8,
+      "top": 20.099999999999998,
+      "x1": 315.90000000000003,
+      "bottom": 28.5,
+      "confidence": 96.387291,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Criminal",
+      "x0": 317.7,
+      "top": 20.099999999999998,
+      "x1": 359.7,
+      "bottom": 28.5,
+      "confidence": 96.644196,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Procedure,",
+      "x0": 361.8,
+      "top": 20.099999999999998,
+      "x1": 413.7,
+      "bottom": 30.299999999999997,
+      "confidence": 96.46637,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1973",
+      "x0": 418.2,
+      "top": 20.099999999999998,
+      "x1": 439.5,
+      "bottom": 28.799999999999997,
+      "confidence": 96.930435,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "for",
+      "x0": 443.09999999999997,
+      "top": 20.099999999999998,
+      "x1": 458.4,
+      "bottom": 28.5,
+      "confidence": 96.578835,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "granting",
+      "x0": 460.5,
+      "top": 20.099999999999998,
+      "x1": 499.8,
+      "bottom": 31.199999999999996,
+      "confidence": 96.39135,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "bail.",
+      "x0": 501.29999999999995,
+      "top": 20.099999999999998,
+      "x1": 521.4,
+      "bottom": 28.5,
+      "confidence": 96.43985,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(B)",
+      "x0": 100.5,
+      "top": 35.1,
+      "x1": 113.1,
+      "bottom": 45.9,
+      "confidence": 92.643738,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Conditions",
+      "x0": 122.1,
+      "top": 35.1,
+      "x1": 174.89999999999998,
+      "bottom": 43.5,
+      "confidence": 96.284599,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "in",
+      "x0": 179.1,
+      "top": 35.1,
+      "x1": 187.79999999999998,
+      "bottom": 43.5,
+      "confidence": 96.879578,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "conformity",
+      "x0": 191.4,
+      "top": 35.1,
+      "x1": 245.7,
+      "bottom": 46.2,
+      "confidence": 96.085892,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "with",
+      "x0": 249.29999999999998,
+      "top": 35.1,
+      "x1": 270.59999999999997,
+      "bottom": 43.5,
+      "confidence": 96.51442,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "the",
+      "x0": 273.9,
+      "top": 35.1,
+      "x1": 288.0,
+      "bottom": 43.5,
+      "confidence": 96.927887,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "guidelines",
+      "x0": 291.59999999999997,
+      "top": 35.1,
+      "x1": 340.2,
+      "bottom": 46.2,
+      "confidence": 96.549713,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "laid",
+      "x0": 344.09999999999997,
+      "top": 35.1,
+      "x1": 361.79999999999995,
+      "bottom": 43.5,
+      "confidence": 96.606888,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "down",
+      "x0": 365.09999999999997,
+      "top": 35.1,
+      "x1": 392.09999999999997,
+      "bottom": 43.5,
+      "confidence": 96.685593,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "by",
+      "x0": 395.7,
+      "top": 35.1,
+      "x1": 407.7,
+      "bottom": 46.2,
+      "confidence": 96.898987,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "the",
+      "x0": 411.0,
+      "top": 35.1,
+      "x1": 425.1,
+      "bottom": 43.5,
+      "confidence": 96.830719,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Supreme",
+      "x0": 429.3,
+      "top": 35.4,
+      "x1": 471.6,
+      "bottom": 46.199999999999996,
+      "confidence": 96.139786,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Court",
+      "x0": 475.5,
+      "top": 35.4,
+      "x1": 502.5,
+      "bottom": 43.5,
+      "confidence": 96.571884,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "for",
+      "x0": 506.4,
+      "top": 35.1,
+      "x1": 519.9,
+      "bottom": 43.5,
+      "confidence": 97.020477,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "granting",
+      "x0": 122.1,
+      "top": 49.8,
+      "x1": 161.39999999999998,
+      "bottom": 60.9,
+      "confidence": 96.982719,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "bail.",
+      "x0": 164.4,
+      "top": 49.8,
+      "x1": 184.5,
+      "bottom": 58.199999999999996,
+      "confidence": 96.33007,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(©)",
+      "x0": 100.5,
+      "top": 64.8,
+      "x1": 113.1,
+      "bottom": 75.6,
+      "confidence": 43.503727,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Conditions",
+      "x0": 122.1,
+      "top": 64.8,
+      "x1": 174.89999999999998,
+      "bottom": 73.2,
+      "confidence": 96.372765,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "which",
+      "x0": 178.2,
+      "top": 64.8,
+      "x1": 207.6,
+      "bottom": 73.2,
+      "confidence": 96.879456,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "suit",
+      "x0": 211.5,
+      "top": 64.8,
+      "x1": 228.0,
+      "bottom": 73.2,
+      "confidence": 96.20697,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "the",
+      "x0": 230.7,
+      "top": 64.8,
+      "x1": 244.79999999999998,
+      "bottom": 73.2,
+      "confidence": 96.20697,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "case",
+      "x0": 248.39999999999998,
+      "top": 67.8,
+      "x1": 268.5,
+      "bottom": 73.2,
+      "confidence": 96.705185,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "after",
+      "x0": 272.4,
+      "top": 64.8,
+      "x1": 294.9,
+      "bottom": 73.2,
+      "confidence": 96.456848,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "examining",
+      "x0": 297.9,
+      "top": 64.8,
+      "x1": 348.0,
+      "bottom": 75.89999999999999,
+      "confidence": 96.344742,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "the",
+      "x0": 350.4,
+      "top": 64.8,
+      "x1": 364.79999999999995,
+      "bottom": 73.2,
+      "confidence": 96.924835,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "credibility",
+      "x0": 368.09999999999997,
+      "top": 64.8,
+      "x1": 417.29999999999995,
+      "bottom": 75.89999999999999,
+      "confidence": 96.676651,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "and",
+      "x0": 420.3,
+      "top": 64.8,
+      "x1": 437.7,
+      "bottom": 73.2,
+      "confidence": 96.854782,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "culpability",
+      "x0": 441.3,
+      "top": 64.8,
+      "x1": 492.3,
+      "bottom": 75.89999999999999,
+      "confidence": 96.149986,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "of",
+      "x0": 495.29999999999995,
+      "top": 64.8,
+      "x1": 506.09999999999997,
+      "bottom": 73.2,
+      "confidence": 96.763908,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "the",
+      "x0": 508.2,
+      "top": 64.8,
+      "x1": 521.4,
+      "bottom": 73.2,
+      "confidence": 96.880722,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "accused",
+      "x0": 122.1,
+      "top": 79.2,
+      "x1": 160.79999999999998,
+      "bottom": 87.60000000000001,
+      "confidence": 96.9198,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "with",
+      "x0": 164.1,
+      "top": 79.2,
+      "x1": 185.1,
+      "bottom": 87.60000000000001,
+      "confidence": 96.609085,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "the",
+      "x0": 188.4,
+      "top": 79.2,
+      "x1": 202.5,
+      "bottom": 87.60000000000001,
+      "confidence": 96.490211,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "subjective",
+      "x0": 206.1,
+      "top": 79.2,
+      "x1": 254.39999999999998,
+      "bottom": 90.3,
+      "confidence": 96.796051,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "satisfaction",
+      "x0": 258.3,
+      "top": 79.2,
+      "x1": 312.0,
+      "bottom": 87.60000000000001,
+      "confidence": 96.027199,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "of",
+      "x0": 315.3,
+      "top": 79.2,
+      "x1": 326.40000000000003,
+      "bottom": 87.60000000000001,
+      "confidence": 96.617119,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "the",
+      "x0": 327.9,
+      "top": 79.2,
+      "x1": 342.0,
+      "bottom": 87.60000000000001,
+      "confidence": 96.970978,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "judge",
+      "x0": 344.09999999999997,
+      "top": 79.2,
+      "x1": 371.4,
+      "bottom": 90.3,
+      "confidence": 96.84024,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "granting",
+      "x0": 375.0,
+      "top": 79.2,
+      "x1": 414.9,
+      "bottom": 90.3,
+      "confidence": 96.668617,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "bail.",
+      "x0": 417.3,
+      "top": 79.2,
+      "x1": 437.40000000000003,
+      "bottom": 87.60000000000001,
+      "confidence": 96.699387,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "(D)",
+      "x0": 100.5,
+      "top": 94.5,
+      "x1": 113.4,
+      "bottom": 105.3,
+      "confidence": 90.62355,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "Both",
+      "x0": 121.8,
+      "top": 94.5,
+      "x1": 144.9,
+      "bottom": 102.9,
+      "confidence": 92.744774,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "(B)",
+      "x0": 148.5,
+      "top": 94.5,
+      "x1": 163.5,
+      "bottom": 105.3,
+      "confidence": 92.744774,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "and",
+      "x0": 167.4,
+      "top": 94.5,
+      "x1": 184.8,
+      "bottom": 102.9,
+      "confidence": 92.480118,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "(C).",
+      "x0": 188.1,
+      "top": 94.5,
+      "x1": 205.79999999999998,
+      "bottom": 105.3,
+      "confidence": 91.605431,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "CORRECT",
+      "x0": 72.3,
+      "top": 110.7,
+      "x1": 131.7,
+      "bottom": 119.4,
+      "confidence": 96.718613,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "OPTION:",
+      "x0": 135.29999999999998,
+      "top": 110.7,
+      "x1": 185.39999999999998,
+      "bottom": 119.4,
+      "confidence": 93.296898,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "C",
+      "x0": 189.9,
+      "top": 110.7,
+      "x1": 197.4,
+      "bottom": 119.4,
+      "confidence": 91.953613,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

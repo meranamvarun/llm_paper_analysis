@@ -1,0 +1,809 @@
+{
+  "pdf_page": 448,
+  "crop_top": 512.8299999999999,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "23. As per the rule of English law, a custom to be recognized as law, must be proved to be in",
+      "bbox": [
+        72.6,
+        3.5999999999999996,
+        519.6,
+        14.4
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "existence since times immemorial. However, for customs that are old and whose time of",
+      "bbox": [
+        90.6,
+        20.4,
+        521.1,
+        30.6
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "origin cannot be ascertained, which year has been fixed as the date before which it must",
+      "bbox": [
+        90.6,
+        37.5,
+        521.1,
+        48.3
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "have started?",
+      "bbox": [
+        90.89999999999999,
+        54.6,
+        156.0,
+        63.0
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "A. 1169 AD",
+      "bbox": [
+        108.3,
+        71.7,
+        166.79999999999998,
+        79.8
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "B. 1189 AD",
+      "bbox": [
+        108.89999999999999,
+        88.5,
+        167.39999999999998,
+        96.6
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "C. 1369 AD",
+      "bbox": [
+        108.6,
+        105.3,
+        166.79999999999998,
+        113.39999999999999
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "D. 1389 AD",
+      "bbox": [
+        108.89999999999999,
+        122.1,
+        166.79999999999998,
+        130.2
+      ]
+    }
+  ],
+  "text": "23. As per the rule of English law, a custom to be recognized as law, must be proved to be in\nexistence since times immemorial. However, for customs that are old and whose time of\norigin cannot be ascertained, which year has been fixed as the date before which it must\nhave started?\nA. 1169 AD\nB. 1189 AD\nC. 1369 AD\nD. 1389 AD",
+  "ocr_words": [
+    {
+      "text": "23.",
+      "x0": 72.6,
+      "top": 4.2,
+      "x1": 86.39999999999999,
+      "bottom": 12.3,
+      "confidence": 95.931808,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "As",
+      "x0": 90.3,
+      "top": 4.5,
+      "x1": 101.1,
+      "bottom": 12.3,
+      "confidence": 96.865921,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "per",
+      "x0": 105.3,
+      "top": 6.3,
+      "x1": 120.6,
+      "bottom": 14.399999999999999,
+      "confidence": 96.957382,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 123.6,
+      "top": 3.9,
+      "x1": 139.2,
+      "bottom": 12.3,
+      "confidence": 96.279945,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "rule",
+      "x0": 143.4,
+      "top": 3.9,
+      "x1": 161.1,
+      "bottom": 12.3,
+      "confidence": 96.279945,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 165.0,
+      "top": 3.5999999999999996,
+      "x1": 174.6,
+      "bottom": 12.299999999999999,
+      "confidence": 96.389862,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "English",
+      "x0": 178.2,
+      "top": 3.9,
+      "x1": 210.6,
+      "bottom": 14.4,
+      "confidence": 96.666656,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "law,",
+      "x0": 215.1,
+      "top": 3.9,
+      "x1": 233.4,
+      "bottom": 13.8,
+      "confidence": 96.40564,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 239.7,
+      "top": 6.3,
+      "x1": 241.79999999999998,
+      "bottom": 12.3,
+      "confidence": 96.866074,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "custom",
+      "x0": 246.0,
+      "top": 4.8,
+      "x1": 280.5,
+      "bottom": 12.3,
+      "confidence": 96.095573,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 284.09999999999997,
+      "top": 4.8,
+      "x1": 293.7,
+      "bottom": 12.3,
+      "confidence": 96.095573,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "be",
+      "x0": 297.9,
+      "top": 3.9,
+      "x1": 308.7,
+      "bottom": 12.3,
+      "confidence": 96.053963,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "recognized",
+      "x0": 312.9,
+      "top": 3.9,
+      "x1": 364.2,
+      "bottom": 14.4,
+      "confidence": 96.053963,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "as",
+      "x0": 368.4,
+      "top": 6.3,
+      "x1": 378.0,
+      "bottom": 12.3,
+      "confidence": 96.276901,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "law,",
+      "x0": 382.2,
+      "top": 3.9,
+      "x1": 400.2,
+      "bottom": 13.8,
+      "confidence": 96.322098,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "must",
+      "x0": 404.7,
+      "top": 4.8,
+      "x1": 428.09999999999997,
+      "bottom": 12.3,
+      "confidence": 96.332321,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "be",
+      "x0": 432.0,
+      "top": 3.9,
+      "x1": 442.8,
+      "bottom": 12.3,
+      "confidence": 96.979607,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "proved",
+      "x0": 447.0,
+      "top": 3.9,
+      "x1": 479.7,
+      "bottom": 14.4,
+      "confidence": 96.738564,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 483.59999999999997,
+      "top": 4.8,
+      "x1": 493.2,
+      "bottom": 12.3,
+      "confidence": 96.351959,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "be",
+      "x0": 497.4,
+      "top": 3.9,
+      "x1": 508.2,
+      "bottom": 12.3,
+      "confidence": 96.282303,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 512.1,
+      "top": 4.2,
+      "x1": 519.6,
+      "bottom": 12.0,
+      "confidence": 96.027565,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "existence",
+      "x0": 90.6,
+      "top": 21.0,
+      "x1": 135.29999999999998,
+      "bottom": 29.1,
+      "confidence": 96.652878,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "since",
+      "x0": 139.2,
+      "top": 21.0,
+      "x1": 162.89999999999998,
+      "bottom": 29.1,
+      "confidence": 96.461288,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "times",
+      "x0": 166.2,
+      "top": 21.0,
+      "x1": 192.6,
+      "bottom": 29.1,
+      "confidence": 96.666199,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "immemorial.",
+      "x0": 196.79999999999998,
+      "top": 20.7,
+      "x1": 257.4,
+      "bottom": 29.1,
+      "confidence": 96.022072,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "However,",
+      "x0": 261.9,
+      "top": 21.3,
+      "x1": 307.2,
+      "bottom": 30.6,
+      "confidence": 96.788467,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "for",
+      "x0": 310.8,
+      "top": 20.4,
+      "x1": 324.6,
+      "bottom": 29.099999999999998,
+      "confidence": 96.533371,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "customs",
+      "x0": 327.9,
+      "top": 21.599999999999998,
+      "x1": 367.79999999999995,
+      "bottom": 29.099999999999998,
+      "confidence": 96.05101,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "that",
+      "x0": 371.09999999999997,
+      "top": 20.7,
+      "x1": 390.59999999999997,
+      "bottom": 29.1,
+      "confidence": 96.05101,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "are",
+      "x0": 394.2,
+      "top": 23.099999999999998,
+      "x1": 408.9,
+      "bottom": 29.099999999999998,
+      "confidence": 96.279999,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "old",
+      "x0": 412.8,
+      "top": 20.7,
+      "x1": 426.6,
+      "bottom": 29.1,
+      "confidence": 96.508308,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "and",
+      "x0": 430.8,
+      "top": 20.7,
+      "x1": 447.90000000000003,
+      "bottom": 29.1,
+      "confidence": 96.385429,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "whose",
+      "x0": 451.8,
+      "top": 20.7,
+      "x1": 482.7,
+      "bottom": 29.1,
+      "confidence": 96.132339,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "time",
+      "x0": 486.0,
+      "top": 21.0,
+      "x1": 507.6,
+      "bottom": 29.1,
+      "confidence": 96.471443,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 511.5,
+      "top": 20.4,
+      "x1": 521.1,
+      "bottom": 29.099999999999998,
+      "confidence": 96.905487,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "origin",
+      "x0": 90.6,
+      "top": 38.1,
+      "x1": 117.3,
+      "bottom": 48.3,
+      "confidence": 95.966011,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "cannot",
+      "x0": 121.19999999999999,
+      "top": 38.699999999999996,
+      "x1": 154.2,
+      "bottom": 46.199999999999996,
+      "confidence": 96.786217,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "be",
+      "x0": 158.1,
+      "top": 37.8,
+      "x1": 168.9,
+      "bottom": 46.199999999999996,
+      "confidence": 96.314438,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "ascertained,",
+      "x0": 172.79999999999998,
+      "top": 37.8,
+      "x1": 231.29999999999998,
+      "bottom": 47.699999999999996,
+      "confidence": 96.477303,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "which",
+      "x0": 234.89999999999998,
+      "top": 37.8,
+      "x1": 262.79999999999995,
+      "bottom": 46.199999999999996,
+      "confidence": 96.788239,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "year",
+      "x0": 266.7,
+      "top": 40.199999999999996,
+      "x1": 287.7,
+      "bottom": 48.3,
+      "confidence": 96.352348,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "has",
+      "x0": 291.3,
+      "top": 37.8,
+      "x1": 306.6,
+      "bottom": 46.199999999999996,
+      "confidence": 96.763008,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "been",
+      "x0": 310.8,
+      "top": 37.8,
+      "x1": 333.6,
+      "bottom": 46.199999999999996,
+      "confidence": 97.001335,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "fixed",
+      "x0": 337.2,
+      "top": 37.5,
+      "x1": 360.0,
+      "bottom": 46.2,
+      "confidence": 96.922867,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "as",
+      "x0": 364.2,
+      "top": 40.199999999999996,
+      "x1": 373.5,
+      "bottom": 46.199999999999996,
+      "confidence": 96.000938,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "the",
+      "x0": 376.8,
+      "top": 37.8,
+      "x1": 392.40000000000003,
+      "bottom": 46.199999999999996,
+      "confidence": 96.634911,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "date",
+      "x0": 396.3,
+      "top": 37.8,
+      "x1": 417.3,
+      "bottom": 46.199999999999996,
+      "confidence": 96.52198,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "before",
+      "x0": 421.5,
+      "top": 37.5,
+      "x1": 452.4,
+      "bottom": 46.2,
+      "confidence": 96.755066,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "which",
+      "x0": 456.0,
+      "top": 37.8,
+      "x1": 483.9,
+      "bottom": 46.199999999999996,
+      "confidence": 96.25898,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "it",
+      "x0": 488.09999999999997,
+      "top": 38.1,
+      "x1": 493.79999999999995,
+      "bottom": 46.2,
+      "confidence": 96.25898,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "must",
+      "x0": 497.7,
+      "top": 38.699999999999996,
+      "x1": 521.1,
+      "bottom": 46.199999999999996,
+      "confidence": 96.962708,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "have",
+      "x0": 90.89999999999999,
+      "top": 54.6,
+      "x1": 112.79999999999998,
+      "bottom": 63.0,
+      "confidence": 96.451195,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "started?",
+      "x0": 116.69999999999999,
+      "top": 54.6,
+      "x1": 156.0,
+      "bottom": 63.0,
+      "confidence": 96.82373,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "A.",
+      "x0": 108.3,
+      "top": 72.0,
+      "x1": 117.0,
+      "bottom": 79.5,
+      "confidence": 96.730507,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1169",
+      "x0": 126.89999999999999,
+      "top": 71.7,
+      "x1": 149.7,
+      "bottom": 79.8,
+      "confidence": 96.078133,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "AD",
+      "x0": 153.29999999999998,
+      "top": 72.0,
+      "x1": 166.79999999999998,
+      "bottom": 79.5,
+      "confidence": 96.078133,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "B.",
+      "x0": 108.89999999999999,
+      "top": 88.8,
+      "x1": 117.3,
+      "bottom": 96.3,
+      "confidence": 88.696609,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1189",
+      "x0": 126.89999999999999,
+      "top": 88.5,
+      "x1": 150.0,
+      "bottom": 96.6,
+      "confidence": 96.117355,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "AD",
+      "x0": 153.29999999999998,
+      "top": 88.8,
+      "x1": 167.39999999999998,
+      "bottom": 96.3,
+      "confidence": 96.287102,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "C.",
+      "x0": 108.6,
+      "top": 105.3,
+      "x1": 116.39999999999999,
+      "bottom": 113.39999999999999,
+      "confidence": 91.463364,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "3"
+    },
+    {
+      "text": "1369",
+      "x0": 126.89999999999999,
+      "top": 105.3,
+      "x1": 149.7,
+      "bottom": 113.39999999999999,
+      "confidence": 83.190773,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "3"
+    },
+    {
+      "text": "AD",
+      "x0": 153.29999999999998,
+      "top": 105.6,
+      "x1": 166.79999999999998,
+      "bottom": 113.1,
+      "confidence": 83.190773,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "3"
+    },
+    {
+      "text": "D.",
+      "x0": 108.89999999999999,
+      "top": 122.39999999999999,
+      "x1": 117.6,
+      "bottom": 129.89999999999998,
+      "confidence": 92.435104,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "4"
+    },
+    {
+      "text": "1389",
+      "x0": 126.89999999999999,
+      "top": 122.1,
+      "x1": 149.7,
+      "bottom": 130.2,
+      "confidence": 96.452248,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "4"
+    },
+    {
+      "text": "AD",
+      "x0": 153.29999999999998,
+      "top": 122.39999999999999,
+      "x1": 166.79999999999998,
+      "bottom": 129.89999999999998,
+      "confidence": 96.452248,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "4"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

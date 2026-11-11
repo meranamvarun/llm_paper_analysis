@@ -1,0 +1,164 @@
+{
+  "status": "unreviewed_reparse_of_frozen_page_evidence",
+  "baseline": "data\\extraction\\runs\\20261110T043421397159Z",
+  "parser_version": "0.1.2",
+  "source_sha256": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b",
+  "parser_sha256": "c44dc49442f09a1296d89e6b811ed507094b3c814dc2d59115dc4740f122a382",
+  "baseline_file_hashes": {
+    "answer_keys.jsonl": "2685dc1db0ca213ed53b4b531b803459dce5a18dba46a4a3de435424f01458ab",
+    "artifact_hashes.json": "6b813558f6956a4051271b238bfdb5237db8ac49456aebb077a6deb605eab5d8",
+    "pages.jsonl": "ba5f2382c107abe7c6e37c5f96842e893e19858db547f20a23279f032aabc96b",
+    "page_coverage.jsonl": "ebff66c22552ac9c511e9f593c691f705d9bfbd22943d5479a20463d3f8be5d3",
+    "papers.json": "0494ef77e54799ec92c71efa32315985122a0b75ec45786ea2d37402ee1ae9e9",
+    "paper_diagnostics.json": "c83ce8ba3b164eb6b56d339715d62ee659966eeef706753cfe431741334fa354",
+    "passages.jsonl": "3cd306c923e3ce88fa1e0887405511141a37d05d38923620b83ed25b2070a089",
+    "questions.jsonl": "07e8ec9308929f7456588acb6871dcc93e42191253734207fea13f6f24dd3c89",
+    "review.html": "af6e6790297ff45437f5ad987be1375a4b6989fba7a13804c1b140e7de0a39dc",
+    "review_queue.jsonl": "085f92061dacc6e032241fd3210a8ba6406f681b56e6ad2ccaa381c0a76f969b",
+    "run.json": "5a9cdef844d66f41cb0b206206a08b6c24637a82c5b3025d322ec10b23b12f0c",
+    "summary.json": "adc8357d1bde95f750ec8db0d49583c8d79349fc66978f6010c0aadda62d74f8",
+    "unresolved_blocks.jsonl": "ce435c0226158c2588f7b53328df2c45e1f3b2270b2276bd6078bb5ff50b4cc2"
+  },
+  "old_question_count": 1601,
+  "new_question_count": 1596,
+  "added_ids": [
+    "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0023:l0000:question",
+    "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0133:l0019:question",
+    "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0162:l0001:question",
+    "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0165:l0028:question",
+    "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0463:l0023:question"
+  ],
+  "removed_ids": [
+    "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0023:l0001:question",
+    "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0024:l0026:question",
+    "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0043:l0039:question",
+    "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0130:l0010:question",
+    "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0133:l0025:question",
+    "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0162:l0002:question",
+    "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0165:l0029:question",
+    "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0237:l0019:question",
+    "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0438:l0018:question",
+    "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0464:l0002:question"
+  ],
+  "changed_records": [
+    {
+      "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0237:l0015:question",
+      "year_label": 2021,
+      "changed_fields": [
+        "raw_text",
+        "options",
+        "inline_answer_raw",
+        "evidence",
+        "issues"
+      ]
+    },
+    {
+      "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0044:l0013:question",
+      "year_label": 2026,
+      "changed_fields": [
+        "issues"
+      ]
+    },
+    {
+      "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0024:l0019:question",
+      "year_label": 2026,
+      "changed_fields": [
+        "raw_text",
+        "options",
+        "evidence",
+        "issues"
+      ]
+    },
+    {
+      "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0438:l0021:question",
+      "year_label": 2018,
+      "changed_fields": [
+        "issues"
+      ]
+    },
+    {
+      "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0162:l0012:question",
+      "year_label": 2023,
+      "changed_fields": [
+        "issues"
+      ]
+    },
+    {
+      "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0024:l0033:question",
+      "year_label": 2026,
+      "changed_fields": [
+        "issues"
+      ]
+    },
+    {
+      "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0023:l0011:question",
+      "year_label": 2026,
+      "changed_fields": [
+        "issues"
+      ]
+    },
+    {
+      "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0237:l0023:question",
+      "year_label": 2021,
+      "changed_fields": [
+        "issues"
+      ]
+    },
+    {
+      "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0130:l0015:question",
+      "year_label": 2024,
+      "changed_fields": [
+        "issues"
+      ]
+    },
+    {
+      "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0134:l0001:question",
+      "year_label": 2024,
+      "changed_fields": [
+        "issues"
+      ]
+    },
+    {
+      "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0130:l0001:question",
+      "year_label": 2024,
+      "changed_fields": [
+        "raw_text",
+        "options",
+        "evidence",
+        "issues"
+      ]
+    },
+    {
+      "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0438:l0012:question",
+      "year_label": 2018,
+      "changed_fields": [
+        "raw_text",
+        "options",
+        "evidence",
+        "issues"
+      ]
+    },
+    {
+      "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0464:l0007:question",
+      "year_label": 2018,
+      "changed_fields": [
+        "issues"
+      ]
+    }
+  ],
+  "in_scope_counts": {
+    "2016": 150,
+    "2017": 150,
+    "2018": 144,
+    "2019": 105,
+    "2020": 121,
+    "2021": 120,
+    "2022": 122,
+    "2023": 124,
+    "2024": 121,
+    "2025": 120,
+    "2026": 120
+  },
+  "validation_passed": true,
+  "ai_labels_promoted": false
+}

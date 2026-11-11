@@ -1,0 +1,47 @@
+{
+  "pdf_page": 195,
+  "crop_top": 93.96,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "pte PG",
+      "bbox": [
+        57.0,
+        0.0,
+        536.1,
+        15.6
+      ]
+    }
+  ],
+  "text": "pte PG",
+  "ocr_words": [
+    {
+      "text": "pte",
+      "x0": 57.0,
+      "top": 0.0,
+      "x1": 85.8,
+      "bottom": 15.6,
+      "confidence": 28.461014,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "PG",
+      "x0": 519.6,
+      "top": 3.0,
+      "x1": 536.1,
+      "bottom": 12.6,
+      "confidence": 96.660934,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

@@ -1,0 +1,427 @@
+{
+  "pdf_page": 228,
+  "crop_top": 451.102,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "1. The purpose of the “science of law’ is to achieve",
+      "bbox": [
+        73.5,
+        4.2,
+        326.99999999999994,
+        15.299999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "(A) Practical aspects for humanconduct.",
+      "bbox": [
+        100.5,
+        19.5,
+        298.8,
+        30.6
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(B) Idealistic judicial abstractions.",
+      "bbox": [
+        100.5,
+        35.4,
+        267.3,
+        46.5
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(C) Pure knowledge based on reality.",
+      "bbox": [
+        100.5,
+        51.6,
+        281.4,
+        62.7
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(D) Judicial purpose.",
+      "bbox": [
+        100.5,
+        67.5,
+        203.7,
+        78.6
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "CORRECT OPTION: C",
+      "bbox": [
+        72.3,
+        83.1,
+        197.4,
+        91.8
+      ]
+    }
+  ],
+  "text": "1. The purpose of the “science of law’ is to achieve\n(A) Practical aspects for humanconduct.\n(B) Idealistic judicial abstractions.\n(C) Pure knowledge based on reality.\n(D) Judicial purpose.\nCORRECT OPTION: C",
+  "ocr_words": [
+    {
+      "text": "1.",
+      "x0": 73.5,
+      "top": 4.5,
+      "x1": 79.5,
+      "bottom": 12.6,
+      "confidence": 70.481262,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 93.89999999999999,
+      "top": 4.2,
+      "x1": 111.89999999999999,
+      "bottom": 12.600000000000001,
+      "confidence": 83.78875,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "purpose",
+      "x0": 114.89999999999999,
+      "top": 7.199999999999999,
+      "x1": 153.89999999999998,
+      "bottom": 15.299999999999999,
+      "confidence": 96.541725,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 157.79999999999998,
+      "top": 4.2,
+      "x1": 168.6,
+      "bottom": 12.600000000000001,
+      "confidence": 96.541725,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 171.0,
+      "top": 4.2,
+      "x1": 185.4,
+      "bottom": 12.600000000000001,
+      "confidence": 96.9701,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "“science",
+      "x0": 189.6,
+      "top": 4.2,
+      "x1": 227.1,
+      "bottom": 12.600000000000001,
+      "confidence": 75.068115,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 230.7,
+      "top": 4.2,
+      "x1": 241.79999999999998,
+      "bottom": 12.600000000000001,
+      "confidence": 96.119293,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "law’",
+      "x0": 243.6,
+      "top": 4.2,
+      "x1": 263.4,
+      "bottom": 12.600000000000001,
+      "confidence": 94.800789,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 267.3,
+      "top": 4.2,
+      "x1": 274.5,
+      "bottom": 12.600000000000001,
+      "confidence": 97.010521,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 277.8,
+      "top": 5.3999999999999995,
+      "x1": 286.5,
+      "bottom": 12.599999999999998,
+      "confidence": 96.613831,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "achieve",
+      "x0": 290.09999999999997,
+      "top": 4.2,
+      "x1": 326.99999999999994,
+      "bottom": 12.600000000000001,
+      "confidence": 96.718628,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 100.5,
+      "top": 19.5,
+      "x1": 113.4,
+      "bottom": 30.299999999999997,
+      "confidence": 96.145477,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Practical",
+      "x0": 121.8,
+      "top": 19.5,
+      "x1": 163.2,
+      "bottom": 27.9,
+      "confidence": 96.334961,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "aspects",
+      "x0": 167.1,
+      "top": 20.7,
+      "x1": 201.6,
+      "bottom": 30.6,
+      "confidence": 96.334961,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "for",
+      "x0": 205.79999999999998,
+      "top": 19.5,
+      "x1": 220.2,
+      "bottom": 27.9,
+      "confidence": 93.283386,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "humanconduct.",
+      "x0": 224.1,
+      "top": 19.5,
+      "x1": 298.8,
+      "bottom": 27.9,
+      "confidence": 91.638969,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(B)",
+      "x0": 100.5,
+      "top": 35.4,
+      "x1": 112.8,
+      "bottom": 46.199999999999996,
+      "confidence": 90.826942,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Idealistic",
+      "x0": 122.1,
+      "top": 35.4,
+      "x1": 165.29999999999998,
+      "bottom": 43.8,
+      "confidence": 90.826942,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "judicial",
+      "x0": 167.7,
+      "top": 35.4,
+      "x1": 204.29999999999998,
+      "bottom": 46.5,
+      "confidence": 93.063622,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "abstractions.",
+      "x0": 207.0,
+      "top": 35.4,
+      "x1": 267.3,
+      "bottom": 43.8,
+      "confidence": 96.381569,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(C)",
+      "x0": 100.5,
+      "top": 51.6,
+      "x1": 112.8,
+      "bottom": 62.4,
+      "confidence": 80.096375,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Pure",
+      "x0": 121.8,
+      "top": 51.9,
+      "x1": 143.4,
+      "bottom": 60.0,
+      "confidence": 96.013023,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "knowledge",
+      "x0": 146.7,
+      "top": 51.6,
+      "x1": 199.79999999999998,
+      "bottom": 62.7,
+      "confidence": 96.405411,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "based",
+      "x0": 203.4,
+      "top": 51.6,
+      "x1": 231.3,
+      "bottom": 60.0,
+      "confidence": 95.71418,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "on",
+      "x0": 234.89999999999998,
+      "top": 54.6,
+      "x1": 246.59999999999997,
+      "bottom": 60.0,
+      "confidence": 52.81403,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "reality.",
+      "x0": 248.7,
+      "top": 51.6,
+      "x1": 281.4,
+      "bottom": 62.7,
+      "confidence": 52.81403,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(D)",
+      "x0": 100.5,
+      "top": 67.5,
+      "x1": 113.4,
+      "bottom": 78.3,
+      "confidence": 88.945412,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Judicial",
+      "x0": 121.8,
+      "top": 67.5,
+      "x1": 159.6,
+      "bottom": 75.9,
+      "confidence": 96.295586,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "purpose.",
+      "x0": 162.29999999999998,
+      "top": 70.5,
+      "x1": 203.7,
+      "bottom": 78.6,
+      "confidence": 95.893417,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "CORRECT",
+      "x0": 72.3,
+      "top": 83.1,
+      "x1": 131.7,
+      "bottom": 91.8,
+      "confidence": 96.494034,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "OPTION:",
+      "x0": 135.29999999999998,
+      "top": 83.1,
+      "x1": 185.39999999999998,
+      "bottom": 91.8,
+      "confidence": 93.177933,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "C",
+      "x0": 189.9,
+      "top": 83.1,
+      "x1": 197.4,
+      "bottom": 91.8,
+      "confidence": 91.743027,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

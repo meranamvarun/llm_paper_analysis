@@ -1,0 +1,536 @@
+{
+  "pdf_page": 206,
+  "crop_top": 127.07999999999998,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "52. Section 167 of the Code of Criminal Procedure, 1973 empowers a Judicial Magistrate",
+      "bbox": [
+        90.6,
+        3.3,
+        513.3,
+        13.2
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "to authorise the detention of an accused in:",
+      "bbox": [
+        111.0,
+        16.8,
+        314.7,
+        24.9
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(A) Police Custody.",
+      "bbox": [
+        111.0,
+        30.299999999999997,
+        202.8,
+        40.199999999999996
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(B) Judicial Custody.",
+      "bbox": [
+        111.0,
+        43.5,
+        209.39999999999998,
+        53.7
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(C) Both Police Custody and Judicial Custody.",
+      "bbox": [
+        110.39999999999999,
+        57.0,
+        329.7,
+        67.2
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "(D) Other than Police and Judicial Custody.",
+      "bbox": [
+        110.39999999999999,
+        70.5,
+        315.90000000000003,
+        80.7
+      ]
+    }
+  ],
+  "text": "52. Section 167 of the Code of Criminal Procedure, 1973 empowers a Judicial Magistrate\nto authorise the detention of an accused in:\n(A) Police Custody.\n(B) Judicial Custody.\n(C) Both Police Custody and Judicial Custody.\n(D) Other than Police and Judicial Custody.",
+  "ocr_words": [
+    {
+      "text": "52.",
+      "x0": 90.6,
+      "top": 3.5999999999999996,
+      "x1": 104.1,
+      "bottom": 11.399999999999999,
+      "confidence": 96.74305,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Section",
+      "x0": 111.3,
+      "top": 3.3,
+      "x1": 145.8,
+      "bottom": 11.399999999999999,
+      "confidence": 96.456757,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "167",
+      "x0": 150.6,
+      "top": 3.5999999999999996,
+      "x1": 167.1,
+      "bottom": 11.399999999999999,
+      "confidence": 96.456757,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 170.4,
+      "top": 3.3,
+      "x1": 178.8,
+      "bottom": 11.399999999999999,
+      "confidence": 96.858948,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 182.1,
+      "top": 3.3,
+      "x1": 196.5,
+      "bottom": 11.399999999999999,
+      "confidence": 95.936371,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Code",
+      "x0": 200.1,
+      "top": 3.3,
+      "x1": 225.0,
+      "bottom": 11.399999999999999,
+      "confidence": 95.915764,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 228.6,
+      "top": 3.3,
+      "x1": 237.0,
+      "bottom": 11.399999999999999,
+      "confidence": 96.872879,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Criminal",
+      "x0": 240.29999999999998,
+      "top": 3.3,
+      "x1": 278.7,
+      "bottom": 11.399999999999999,
+      "confidence": 95.649719,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Procedure,",
+      "x0": 283.2,
+      "top": 3.3,
+      "x1": 333.59999999999997,
+      "bottom": 12.599999999999998,
+      "confidence": 95.649719,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1973",
+      "x0": 338.4,
+      "top": 3.5999999999999996,
+      "x1": 360.9,
+      "bottom": 11.399999999999999,
+      "confidence": 96.704437,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "empowers",
+      "x0": 364.5,
+      "top": 5.3999999999999995,
+      "x1": 413.1,
+      "bottom": 13.2,
+      "confidence": 96.678261,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 416.7,
+      "top": 5.3999999999999995,
+      "x1": 422.09999999999997,
+      "bottom": 11.399999999999999,
+      "confidence": 96.738174,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Judicial",
+      "x0": 425.4,
+      "top": 3.3,
+      "x1": 460.2,
+      "bottom": 11.399999999999999,
+      "confidence": 96.791733,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Magistrate",
+      "x0": 464.7,
+      "top": 3.3,
+      "x1": 513.3,
+      "bottom": 13.2,
+      "confidence": 96.085594,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 111.0,
+      "top": 17.7,
+      "x1": 119.4,
+      "bottom": 24.9,
+      "confidence": 96.199562,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "authorise",
+      "x0": 123.3,
+      "top": 16.8,
+      "x1": 166.5,
+      "bottom": 24.9,
+      "confidence": 96.199562,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 169.79999999999998,
+      "top": 16.8,
+      "x1": 184.2,
+      "bottom": 24.9,
+      "confidence": 96.372803,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "detention",
+      "x0": 187.79999999999998,
+      "top": 16.8,
+      "x1": 230.99999999999997,
+      "bottom": 24.9,
+      "confidence": 96.388657,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 234.89999999999998,
+      "top": 16.8,
+      "x1": 243.29999999999998,
+      "bottom": 24.9,
+      "confidence": 96.826706,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "an",
+      "x0": 246.89999999999998,
+      "top": 18.9,
+      "x1": 257.7,
+      "bottom": 24.9,
+      "confidence": 96.96183,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "accused",
+      "x0": 261.9,
+      "top": 16.8,
+      "x1": 300.59999999999997,
+      "bottom": 24.9,
+      "confidence": 96.422104,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "in:",
+      "x0": 305.09999999999997,
+      "top": 17.099999999999998,
+      "x1": 314.7,
+      "bottom": 24.599999999999998,
+      "confidence": 96.76902,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(A)",
+      "x0": 111.0,
+      "top": 30.299999999999997,
+      "x1": 123.9,
+      "bottom": 40.199999999999996,
+      "confidence": 96.841148,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Police",
+      "x0": 130.2,
+      "top": 30.299999999999997,
+      "x1": 158.1,
+      "bottom": 38.4,
+      "confidence": 96.672287,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Custody.",
+      "x0": 162.0,
+      "top": 30.299999999999997,
+      "x1": 202.8,
+      "bottom": 40.199999999999996,
+      "confidence": 95.925751,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(B)",
+      "x0": 111.0,
+      "top": 43.5,
+      "x1": 123.9,
+      "bottom": 53.4,
+      "confidence": 93.073097,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Judicial",
+      "x0": 129.6,
+      "top": 43.5,
+      "x1": 164.39999999999998,
+      "bottom": 51.6,
+      "confidence": 96.759949,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Custody.",
+      "x0": 168.29999999999998,
+      "top": 43.5,
+      "x1": 209.39999999999998,
+      "bottom": 53.7,
+      "confidence": 96.602486,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(C)",
+      "x0": 110.39999999999999,
+      "top": 57.0,
+      "x1": 123.89999999999999,
+      "bottom": 66.9,
+      "confidence": 91.76429,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Both",
+      "x0": 130.2,
+      "top": 57.0,
+      "x1": 150.6,
+      "bottom": 65.1,
+      "confidence": 96.26342,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Police",
+      "x0": 155.4,
+      "top": 57.0,
+      "x1": 183.0,
+      "bottom": 65.1,
+      "confidence": 96.26342,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Custody",
+      "x0": 186.9,
+      "top": 57.0,
+      "x1": 225.6,
+      "bottom": 67.2,
+      "confidence": 96.658958,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "and",
+      "x0": 229.2,
+      "top": 57.0,
+      "x1": 246.0,
+      "bottom": 65.1,
+      "confidence": 96.265762,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Judicial",
+      "x0": 249.6,
+      "top": 57.0,
+      "x1": 284.7,
+      "bottom": 65.1,
+      "confidence": 96.685799,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Custody.",
+      "x0": 288.59999999999997,
+      "top": 57.0,
+      "x1": 329.7,
+      "bottom": 67.2,
+      "confidence": 96.535355,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "(D)",
+      "x0": 110.39999999999999,
+      "top": 70.5,
+      "x1": 123.89999999999999,
+      "bottom": 80.4,
+      "confidence": 92.957764,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Other",
+      "x0": 129.9,
+      "top": 70.5,
+      "x1": 156.3,
+      "bottom": 78.6,
+      "confidence": 96.724342,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "than",
+      "x0": 159.29999999999998,
+      "top": 70.5,
+      "x1": 179.39999999999998,
+      "bottom": 78.6,
+      "confidence": 96.455406,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Police",
+      "x0": 183.9,
+      "top": 70.5,
+      "x1": 211.5,
+      "bottom": 78.6,
+      "confidence": 95.841553,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "and",
+      "x0": 215.4,
+      "top": 70.5,
+      "x1": 232.20000000000002,
+      "bottom": 78.6,
+      "confidence": 95.922035,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Judicial",
+      "x0": 236.1,
+      "top": 70.5,
+      "x1": 270.9,
+      "bottom": 78.6,
+      "confidence": 95.922035,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Custody.",
+      "x0": 274.8,
+      "top": 70.5,
+      "x1": 315.90000000000003,
+      "bottom": 80.7,
+      "confidence": 96.344818,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

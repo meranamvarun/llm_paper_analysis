@@ -1,0 +1,358 @@
+{
+  "pdf_page": 383,
+  "crop_top": 435.32135999999997,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.13 The physical control of an object is:",
+      "bbox": [
+        41.699999999999996,
+        3.3,
+        171.6,
+        9.899999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Ans aw",
+      "bbox": [
+        43.199999999999996,
+        13.5,
+        86.7,
+        28.799999999999997
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "1. possessio civilis",
+      "bbox": [
+        88.5,
+        24.9,
+        141.9,
+        31.5
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "x,",
+      "bbox": [
+        73.2,
+        36.0,
+        93.0,
+        51.3
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "practor's interdicts",
+      "bbox": [
+        95.7,
+        46.199999999999996,
+        152.4,
+        52.8
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "4",
+      "bbox": [
+        76.8,
+        61.8,
+        80.7,
+        70.2
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "3. possessio naturales",
+      "bbox": [
+        88.2,
+        67.5,
+        154.2,
+        74.1
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "x,",
+      "bbox": [
+        73.2,
+        78.89999999999999,
+        93.0,
+        93.89999999999999
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "possessio interdicts",
+      "bbox": [
+        95.7,
+        88.8,
+        154.5,
+        95.39999999999999
+      ]
+    }
+  ],
+  "text": "Q.13 The physical control of an object is:\nAns aw\n1. possessio civilis\nx,\npractor's interdicts\n4\n3. possessio naturales\nx,\npossessio interdicts",
+  "ocr_words": [
+    {
+      "text": "Q.13",
+      "x0": 41.699999999999996,
+      "top": 3.5999999999999996,
+      "x1": 56.099999999999994,
+      "bottom": 9.3,
+      "confidence": 91.563293,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 62.4,
+      "top": 3.3,
+      "x1": 73.5,
+      "bottom": 8.7,
+      "confidence": 94.8955,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "physical",
+      "x0": 75.89999999999999,
+      "top": 3.3,
+      "x1": 100.19999999999999,
+      "bottom": 9.899999999999999,
+      "confidence": 95.223587,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "control",
+      "x0": 102.6,
+      "top": 3.3,
+      "x1": 124.19999999999999,
+      "bottom": 8.7,
+      "confidence": 96.62883,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 126.6,
+      "top": 3.3,
+      "x1": 132.9,
+      "bottom": 8.7,
+      "confidence": 96.981369,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "an",
+      "x0": 134.7,
+      "top": 4.8,
+      "x1": 141.89999999999998,
+      "bottom": 8.399999999999999,
+      "confidence": 96.567711,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "object",
+      "x0": 144.29999999999998,
+      "top": 3.3,
+      "x1": 163.2,
+      "bottom": 9.899999999999999,
+      "confidence": 96.537735,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is:",
+      "x0": 165.6,
+      "top": 3.5999999999999996,
+      "x1": 171.6,
+      "bottom": 8.399999999999999,
+      "confidence": 96.537735,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.199999999999996,
+      "top": 16.5,
+      "x1": 54.599999999999994,
+      "bottom": 21.3,
+      "confidence": 96.821754,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "aw",
+      "x0": 72.0,
+      "top": 13.5,
+      "x1": 86.7,
+      "bottom": 28.799999999999997,
+      "confidence": 35.587425,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 88.5,
+      "top": 25.2,
+      "x1": 93.0,
+      "bottom": 30.0,
+      "confidence": 93.30452,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "possessio",
+      "x0": 95.7,
+      "top": 25.2,
+      "x1": 123.9,
+      "bottom": 31.5,
+      "confidence": 91.515549,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "civilis",
+      "x0": 126.3,
+      "top": 24.9,
+      "x1": 141.9,
+      "bottom": 30.0,
+      "confidence": 79.804909,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "x,",
+      "x0": 73.2,
+      "top": 36.0,
+      "x1": 93.0,
+      "bottom": 51.3,
+      "confidence": 72.312546,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "practor's",
+      "x0": 95.7,
+      "top": 46.199999999999996,
+      "x1": 121.8,
+      "bottom": 52.8,
+      "confidence": 92.71405,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "interdicts",
+      "x0": 124.5,
+      "top": 46.199999999999996,
+      "x1": 152.4,
+      "bottom": 51.3,
+      "confidence": 93.166344,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "4",
+      "x0": 76.8,
+      "top": 61.8,
+      "x1": 80.7,
+      "bottom": 70.2,
+      "confidence": 19.459412,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "3.",
+      "x0": 88.2,
+      "top": 67.8,
+      "x1": 93.0,
+      "bottom": 72.89999999999999,
+      "confidence": 93.207497,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "possessio",
+      "x0": 95.7,
+      "top": 67.8,
+      "x1": 123.9,
+      "bottom": 74.1,
+      "confidence": 93.207497,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "naturales",
+      "x0": 126.6,
+      "top": 67.5,
+      "x1": 154.2,
+      "bottom": 72.9,
+      "confidence": 96.299873,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "x,",
+      "x0": 73.2,
+      "top": 78.89999999999999,
+      "x1": 93.0,
+      "bottom": 93.89999999999999,
+      "confidence": 63.59634,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "possessio",
+      "x0": 95.7,
+      "top": 89.1,
+      "x1": 123.9,
+      "bottom": 95.39999999999999,
+      "confidence": 91.059784,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "interdicts",
+      "x0": 126.3,
+      "top": 88.8,
+      "x1": 154.5,
+      "bottom": 93.89999999999999,
+      "confidence": 91.059784,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

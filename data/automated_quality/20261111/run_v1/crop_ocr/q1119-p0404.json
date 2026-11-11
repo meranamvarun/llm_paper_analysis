@@ -1,0 +1,799 @@
+{
+  "pdf_page": 404,
+  "crop_top": 293.4,
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Question Number : 17 Question Id : 461139387 Question Type : MCQ Option Shuffling : Yes Display Question Number : Yes",
+      "bbox": [
+        37.8,
+        1.7999999999999998,
+        548.9999999999999,
+        12.599999999999998
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Single Line Question Option : No Option Orientation : Vertical",
+      "bbox": [
+        37.8,
+        12.299999999999999,
+        293.1,
+        20.7
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "Correct : 1 Wrong: 0.25",
+      "bbox": [
+        37.8,
+        25.5,
+        137.7,
+        33.6
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "Under which article of the Constitution of India Citizenship by Domicile can be determined?",
+      "bbox": [
+        37.199999999999996,
+        37.8,
+        479.1,
+        48.3
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "Options :",
+      "bbox": [
+        37.8,
+        55.199999999999996,
+        73.5,
+        63.3
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "1. ¥ Article 5",
+      "bbox": [
+        38.699999999999996,
+        67.5,
+        103.49999999999999,
+        77.39999999999999
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "2. * Article 3",
+      "bbox": [
+        38.1,
+        85.5,
+        103.49999999999999,
+        95.39999999999999
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "3. * Article 10",
+      "bbox": [
+        38.1,
+        103.5,
+        110.1,
+        113.1
+      ]
+    }
+  ],
+  "text": "Question Number : 17 Question Id : 461139387 Question Type : MCQ Option Shuffling : Yes Display Question Number : Yes\nSingle Line Question Option : No Option Orientation : Vertical\nCorrect : 1 Wrong: 0.25\nUnder which article of the Constitution of India Citizenship by Domicile can be determined?\nOptions :\n1. ¥ Article 5\n2. * Article 3\n3. * Article 10",
+  "ocr_words": [
+    {
+      "text": "Question",
+      "x0": 37.8,
+      "top": 3.0,
+      "x1": 72.9,
+      "bottom": 11.1,
+      "confidence": 95.44809,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Number",
+      "x0": 75.89999999999999,
+      "top": 3.0,
+      "x1": 109.19999999999999,
+      "bottom": 9.6,
+      "confidence": 92.525436,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 112.5,
+      "top": 4.8,
+      "x1": 113.7,
+      "bottom": 9.6,
+      "confidence": 89.054703,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "17",
+      "x0": 117.89999999999999,
+      "top": 3.0,
+      "x1": 125.99999999999999,
+      "bottom": 9.6,
+      "confidence": 95.605392,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Question",
+      "x0": 131.7,
+      "top": 3.0,
+      "x1": 166.79999999999998,
+      "bottom": 11.1,
+      "confidence": 96.441605,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Id",
+      "x0": 169.79999999999998,
+      "top": 3.0,
+      "x1": 178.2,
+      "bottom": 9.6,
+      "confidence": 91.712334,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 181.5,
+      "top": 4.8,
+      "x1": 182.7,
+      "bottom": 9.6,
+      "confidence": 88.369087,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "461139387",
+      "x0": 186.6,
+      "top": 3.0,
+      "x1": 228.29999999999998,
+      "bottom": 9.6,
+      "confidence": 96.323326,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Question",
+      "x0": 233.7,
+      "top": 3.0,
+      "x1": 268.8,
+      "bottom": 11.1,
+      "confidence": 96.173615,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Type",
+      "x0": 272.09999999999997,
+      "top": 3.0,
+      "x1": 291.59999999999997,
+      "bottom": 11.4,
+      "confidence": 89.218033,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 296.7,
+      "top": 4.8,
+      "x1": 297.0,
+      "bottom": 9.6,
+      "confidence": 58.937225,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "MCQ",
+      "x0": 300.0,
+      "top": 3.0,
+      "x1": 322.5,
+      "bottom": 11.1,
+      "confidence": 58.937225,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Option",
+      "x0": 328.2,
+      "top": 3.0,
+      "x1": 355.5,
+      "bottom": 11.4,
+      "confidence": 93.296333,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Shuffling",
+      "x0": 358.8,
+      "top": 3.0,
+      "x1": 395.1,
+      "bottom": 11.4,
+      "confidence": 91.346443,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 399.3,
+      "top": 4.8,
+      "x1": 399.90000000000003,
+      "bottom": 9.6,
+      "confidence": 84.827087,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Yes",
+      "x0": 403.2,
+      "top": 3.0,
+      "x1": 417.3,
+      "bottom": 9.6,
+      "confidence": 96.740662,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Display",
+      "x0": 422.7,
+      "top": 3.0,
+      "x1": 452.4,
+      "bottom": 11.4,
+      "confidence": 96.285858,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Question",
+      "x0": 455.7,
+      "top": 3.0,
+      "x1": 490.8,
+      "bottom": 11.1,
+      "confidence": 96.764244,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Number",
+      "x0": 493.79999999999995,
+      "top": 3.0,
+      "x1": 531.3,
+      "bottom": 9.6,
+      "confidence": 84.003571,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 528.0,
+      "top": 1.7999999999999998,
+      "x1": 531.6,
+      "bottom": 12.599999999999998,
+      "confidence": 84.003571,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Yes",
+      "x0": 535.1999999999999,
+      "top": 3.0,
+      "x1": 548.9999999999999,
+      "bottom": 9.6,
+      "confidence": 96.909195,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Single",
+      "x0": 37.8,
+      "top": 12.299999999999999,
+      "x1": 61.5,
+      "bottom": 20.7,
+      "confidence": 96.196739,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Line",
+      "x0": 64.5,
+      "top": 12.299999999999999,
+      "x1": 82.2,
+      "bottom": 18.9,
+      "confidence": 96.959068,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Question",
+      "x0": 85.5,
+      "top": 12.299999999999999,
+      "x1": 120.3,
+      "bottom": 20.4,
+      "confidence": 96.684029,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Option",
+      "x0": 123.89999999999999,
+      "top": 12.299999999999999,
+      "x1": 150.89999999999998,
+      "bottom": 20.7,
+      "confidence": 91.474609,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": ":",
+      "x0": 155.4,
+      "top": 14.1,
+      "x1": 156.0,
+      "bottom": 18.9,
+      "confidence": 91.373604,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "No",
+      "x0": 159.6,
+      "top": 12.299999999999999,
+      "x1": 170.4,
+      "bottom": 18.9,
+      "confidence": 95.741898,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Option",
+      "x0": 176.1,
+      "top": 12.299999999999999,
+      "x1": 203.4,
+      "bottom": 20.7,
+      "confidence": 96.288925,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Orientation",
+      "x0": 206.7,
+      "top": 12.299999999999999,
+      "x1": 252.6,
+      "bottom": 18.9,
+      "confidence": 92.899559,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": ":",
+      "x0": 256.5,
+      "top": 14.1,
+      "x1": 257.7,
+      "bottom": 18.9,
+      "confidence": 69.035088,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Vertical",
+      "x0": 261.3,
+      "top": 12.299999999999999,
+      "x1": 293.1,
+      "bottom": 18.9,
+      "confidence": 96.903229,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Correct",
+      "x0": 37.8,
+      "top": 25.5,
+      "x1": 68.39999999999999,
+      "bottom": 32.1,
+      "confidence": 74.307777,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 72.0,
+      "top": 27.3,
+      "x1": 73.2,
+      "bottom": 32.1,
+      "confidence": 74.307777,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1",
+      "x0": 77.39999999999999,
+      "top": 25.5,
+      "x1": 80.1,
+      "bottom": 31.8,
+      "confidence": 92.219719,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Wrong:",
+      "x0": 86.1,
+      "top": 25.5,
+      "x1": 118.5,
+      "bottom": 33.6,
+      "confidence": 81.500076,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "0.25",
+      "x0": 122.39999999999999,
+      "top": 25.5,
+      "x1": 137.7,
+      "bottom": 32.1,
+      "confidence": 94.95826,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Under",
+      "x0": 37.199999999999996,
+      "top": 38.699999999999996,
+      "x1": 66.3,
+      "bottom": 46.199999999999996,
+      "confidence": 96.863983,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "which",
+      "x0": 69.6,
+      "top": 38.699999999999996,
+      "x1": 97.8,
+      "bottom": 46.199999999999996,
+      "confidence": 96.31234,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "article",
+      "x0": 101.39999999999999,
+      "top": 38.699999999999996,
+      "x1": 130.2,
+      "bottom": 46.199999999999996,
+      "confidence": 95.921143,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 133.79999999999998,
+      "top": 37.8,
+      "x1": 143.99999999999997,
+      "bottom": 46.199999999999996,
+      "confidence": 96.335838,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 146.7,
+      "top": 38.699999999999996,
+      "x1": 161.1,
+      "bottom": 46.199999999999996,
+      "confidence": 96.782654,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Constitution",
+      "x0": 164.7,
+      "top": 38.699999999999996,
+      "x1": 223.79999999999998,
+      "bottom": 46.199999999999996,
+      "confidence": 96.775162,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 227.1,
+      "top": 37.8,
+      "x1": 237.29999999999998,
+      "bottom": 46.199999999999996,
+      "confidence": 96.930099,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "India",
+      "x0": 240.0,
+      "top": 38.699999999999996,
+      "x1": 264.6,
+      "bottom": 46.199999999999996,
+      "confidence": 96.36084,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Citizenship",
+      "x0": 268.2,
+      "top": 38.699999999999996,
+      "x1": 322.2,
+      "bottom": 48.3,
+      "confidence": 96.36084,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "by",
+      "x0": 325.8,
+      "top": 38.699999999999996,
+      "x1": 337.5,
+      "bottom": 48.3,
+      "confidence": 96.582146,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Domicile",
+      "x0": 340.8,
+      "top": 38.699999999999996,
+      "x1": 381.90000000000003,
+      "bottom": 46.199999999999996,
+      "confidence": 95.509392,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "can",
+      "x0": 385.5,
+      "top": 39.9,
+      "x1": 402.0,
+      "bottom": 46.199999999999996,
+      "confidence": 96.264412,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "be",
+      "x0": 405.59999999999997,
+      "top": 38.699999999999996,
+      "x1": 416.4,
+      "bottom": 46.199999999999996,
+      "confidence": 96.264412,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "determined?",
+      "x0": 420.0,
+      "top": 38.699999999999996,
+      "x1": 479.1,
+      "bottom": 46.199999999999996,
+      "confidence": 85.91214,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Options",
+      "x0": 37.8,
+      "top": 55.199999999999996,
+      "x1": 68.69999999999999,
+      "bottom": 63.3,
+      "confidence": 93.303955,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 72.3,
+      "top": 57.0,
+      "x1": 73.5,
+      "bottom": 61.8,
+      "confidence": 87.803024,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1.",
+      "x0": 38.699999999999996,
+      "top": 69.89999999999999,
+      "x1": 45.3,
+      "bottom": 77.39999999999999,
+      "confidence": 87.945099,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "¥",
+      "x0": 50.4,
+      "top": 67.5,
+      "x1": 60.599999999999994,
+      "bottom": 75.9,
+      "confidence": 87.945099,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Article",
+      "x0": 63.9,
+      "top": 69.89999999999999,
+      "x1": 94.19999999999999,
+      "bottom": 77.39999999999999,
+      "confidence": 91.751518,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "5",
+      "x0": 98.39999999999999,
+      "top": 69.89999999999999,
+      "x1": 103.49999999999999,
+      "bottom": 77.39999999999999,
+      "confidence": 91.751518,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2.",
+      "x0": 38.1,
+      "top": 87.89999999999999,
+      "x1": 45.3,
+      "bottom": 95.39999999999999,
+      "confidence": 90.695267,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "*",
+      "x0": 51.6,
+      "top": 85.5,
+      "x1": 58.2,
+      "bottom": 92.4,
+      "confidence": 61.860394,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Article",
+      "x0": 63.9,
+      "top": 87.89999999999999,
+      "x1": 94.19999999999999,
+      "bottom": 95.39999999999999,
+      "confidence": 92.648247,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "3",
+      "x0": 98.39999999999999,
+      "top": 87.89999999999999,
+      "x1": 103.49999999999999,
+      "bottom": 95.39999999999999,
+      "confidence": 76.967056,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "3.",
+      "x0": 38.1,
+      "top": 105.6,
+      "x1": 45.3,
+      "bottom": 113.1,
+      "confidence": 89.367073,
+      "ocr_block": "1",
+      "ocr_paragraph": "7",
+      "ocr_line": "1"
+    },
+    {
+      "text": "*",
+      "x0": 51.6,
+      "top": 103.5,
+      "x1": 58.2,
+      "bottom": 110.1,
+      "confidence": 51.602917,
+      "ocr_block": "1",
+      "ocr_paragraph": "7",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Article",
+      "x0": 63.9,
+      "top": 105.6,
+      "x1": 94.19999999999999,
+      "bottom": 113.1,
+      "confidence": 90.649498,
+      "ocr_block": "1",
+      "ocr_paragraph": "7",
+      "ocr_line": "1"
+    },
+    {
+      "text": "10",
+      "x0": 99.3,
+      "top": 105.6,
+      "x1": 110.1,
+      "bottom": 113.1,
+      "confidence": 96.290138,
+      "ocr_block": "1",
+      "ocr_paragraph": "7",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

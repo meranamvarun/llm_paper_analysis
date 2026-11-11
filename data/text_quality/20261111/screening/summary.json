@@ -1,0 +1,17 @@
+{
+  "in_scope_questions_scanned": 1397,
+  "total_records_preserved": 1596,
+  "fields_with_formatting_changes": 0,
+  "flags": 1361,
+  "flagged_questions": 531,
+  "flags_by_reason": {
+    "out_of_lexicon": 651,
+    "mixed_digit_letter": 119,
+    "suspicious_symbol": 591
+  },
+  "unique_oov_tokens": 429,
+  "pages_in_flagged_questions": 259,
+  "passage_flags": 214,
+  "lexicon": "wordfreq 3.1.1 English large; zipf > 0",
+  "accuracy_status": "NOT_ESTABLISHED"
+}
