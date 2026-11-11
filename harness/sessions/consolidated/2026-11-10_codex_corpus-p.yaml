@@ -1,0 +1,32 @@
+# Harness session retro (schema 1), written by `harness.py retro`. See harness/README.md.
+schema: 1
+primary_researcher: "TO CONFIRM"
+session_id: "corpus-parser-review"
+tool: "codex"
+date: "2026-11-10"
+branch: "main"
+task_type: "tooling"
+task: "Review in-scope corpus boundaries and repair numeric continuation splits"
+outcome: "completed"
+urgent: false
+metrics:
+  source: "none"
+  total: null
+quality:
+  self_score: 4
+  user_score: null
+  user_note: ""
+  corrections: 0
+  rework: 2
+  checks: "Two behavioral red fixtures; eighteen extraction tests green; full frozen-evidence comparison; five source-checked alias proposals; source and baseline hashes; artifact hashes; harness suite and check"
+waste: "First hypothesis did not explain real omission; contact-sheet image path reuse required exact render restoration"
+lessons:
+  - tag: "quality"
+    rule: "Confirm the corpus failure mechanism after a synthetic fix"
+    evidence: "First fixture modeled a separate Roman-statement edge case"
+  - tag: "quality"
+    rule: "Give derivative contact-sheet renders distinct paths"
+    evidence: "Source image hash check caught a reused render path"
+rules_helped: ["T1", "Q1", "Q4", "Q5", "C1", "C2"]
+rules_missed: []
+handoff: "Updated research/CORPUS_REVIEW.md and NEXT_STEPS.md; corrected reparse and aliases remain unreviewed"

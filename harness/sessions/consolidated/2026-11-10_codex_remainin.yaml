@@ -1,0 +1,29 @@
+# Harness session retro (schema 1), written by `harness.py retro`. See harness/README.md.
+schema: 1
+primary_researcher: "TO CONFIRM"
+session_id: "remaining-triage"
+tool: "codex"
+date: "2026-11-10"
+branch: "main"
+task_type: "analysis"
+task: "Refresh scoped extraction diagnostics and inspect remaining segmentation defects"
+outcome: "completed"
+urgent: false
+metrics:
+  source: "none"
+  total: null
+quality:
+  self_score: 4
+  user_score: null
+  user_note: ""
+  corrections: null
+  rework: 1
+  checks: "Scoped proposal reconciliation; source images; frozen input hashes; output manifest; harness tests"
+waste: "Initial text read used platform encoding"
+lessons:
+  - tag: "quality"
+    rule: "Refresh diagnostics after reparsing"
+    evidence: "Superseded diagnostics retained resolved numbering anomalies"
+rules_helped: ["T1", "Q1", "Q5", "C1", "C2"]
+rules_missed: []
+handoff: "Updated NEXT_STEPS and REMAINING_EXTRACTION_TRIAGE with regression fixture priorities"

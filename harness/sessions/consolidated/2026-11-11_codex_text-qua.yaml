@@ -1,0 +1,32 @@
+# Harness session retro (schema 1), written by `harness.py retro`. See harness/README.md.
+schema: 1
+primary_researcher: "TO CONFIRM"
+session_id: "text-quality-luna"
+tool: "codex"
+date: "2026-11-11"
+branch: "main"
+task_type: "tooling"
+task: "Screen every in-scope question, review text with Luna, and prepare source-based accuracy benchmark"
+outcome: "completed"
+urgent: false
+metrics:
+  source: "none"
+  total: null
+quality:
+  self_score: 4
+  user_score: null
+  user_note: ""
+  corrections: 0
+  rework: 3
+  checks: "Forty-two extraction tests; source and output hashes; original fields and accepted decisions preserved; blind sample frozen; human accuracy not claimed"
+waste: "Model source-typo repairs, Unicode corruption and mismatched crop paths required explicit QA"
+lessons:
+  - tag: "quality"
+    rule: "Compare spelling proposals to literal source before applying"
+    evidence: "Dictionary knowledge and model confidence produced incorrect source-typo repairs"
+  - tag: "quality"
+    rule: "Map image references by source line identifiers"
+    evidence: "Flag groups do not correspond one-to-one with sheet row counts"
+rules_helped: ["T1", "Q1", "Q3", "Q4", "Q5", "C1", "C2"]
+rules_missed: []
+handoff: "NEXT_STEPS and TEXT_QUALITY_RESULTS link final proposals and blind human benchmark"

@@ -1,0 +1,29 @@
+# Harness session retro (schema 1), written by `harness.py retro`. See harness/README.md.
+schema: 1
+primary_researcher: "TO CONFIRM"
+session_id: "accepted-application"
+tool: "codex"
+date: "2026-11-10"
+branch: "main"
+task_type: "tooling"
+task: "Apply six user-accepted extraction proposals to a separate audited view"
+outcome: "completed"
+urgent: false
+metrics:
+  source: "none"
+  total: null
+quality:
+  self_score: 4
+  user_score: null
+  user_note: ""
+  corrections: null
+  rework: 1
+  checks: "Behavioral red fixtures; twenty-two extraction tests; corpus hashes and traceability; six changes only; overwrite refusal; harness suite"
+waste: "Packet parser version difference required explicit compatibility regression"
+lessons:
+  - tag: "quality"
+    rule: "Preserve baseline and packet snapshots when metadata differs"
+    evidence: "Only parser version differed for the accepted transcription snapshot"
+rules_helped: ["T1", "Q1", "Q4", "Q5", "C1", "C2"]
+rules_missed: []
+handoff: "Updated NEXT_STEPS and ACCEPTED_CORRECTIONS; remaining parser defects pending"

@@ -1,0 +1,29 @@
+# Harness session retro (schema 1), written by `harness.py retro`. See harness/README.md.
+schema: 1
+primary_researcher: "TO CONFIRM"
+session_id: "validation-packet-v012"
+tool: "codex"
+date: "2026-11-11"
+branch: "main"
+task_type: "tooling"
+task: "Prepare offline human validation file with source images and blank decisions"
+outcome: "completed"
+urgent: false
+metrics:
+  source: "none"
+  total: null
+quality:
+  self_score: 4
+  user_score: null
+  user_note: ""
+  corrections: 0
+  rework: 0
+  checks: "Twenty unique items; thirteen embedded source pages; blank decisions; output hashes verified"
+waste: "none"
+lessons:
+  - tag: "quality"
+    rule: "Embed source images in local review files"
+    evidence: "Single file retains page evidence and stable record identifiers"
+rules_helped: ["Q1", "Q5", "C1", "C2"]
+rules_missed: []
+handoff: "NEXT_STEPS links the human validation packet; decisions pending"

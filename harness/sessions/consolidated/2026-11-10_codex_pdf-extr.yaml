@@ -1,0 +1,29 @@
+# Harness session retro (schema 1), written by `harness.py retro`. See harness/README.md.
+schema: 1
+primary_researcher: "TO CONFIRM"
+session_id: "pdf-extraction-pipeline"
+tool: "codex"
+date: "2026-11-10"
+branch: "main"
+task_type: "tooling"
+task: "Implement and run local evidence-preserving PDF extraction proposals"
+outcome: "completed"
+urgent: false
+metrics:
+  source: "none"
+  total: null
+quality:
+  self_score: 4
+  user_score: null
+  user_note: ""
+  corrections: 0
+  rework: 3
+  checks: "Behavioral red and green evidence; extraction suite passed; harness suite passed with shell skips; source and output hashes; raw evidence round trips; local scan spot checks"
+waste: "Repeated parser runs while OCR was completing"
+lessons:
+  - tag: "quality"
+    rule: "Reconstruct OCR lines from word coordinates before question parsing"
+    evidence: "Number gutters were separated from their stems by OCR block order"
+rules_helped: ["T1", "Q1", "Q4", "Q5", "C1", "C2"]
+rules_missed: []
+handoff: "research/NEXT_STEPS.md and research/EXTRACTION_RESULTS.md updated; unreviewed outputs remain local"

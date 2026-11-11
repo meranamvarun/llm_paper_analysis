@@ -1,0 +1,29 @@
+# Harness session retro (schema 1), written by `harness.py retro`. See harness/README.md.
+schema: 1
+primary_researcher: "TO CONFIRM"
+session_id: "initial-corpus-analysis"
+tool: "codex"
+date: "2026-11-10"
+branch: "main"
+task_type: "analysis"
+task: "Start corpus inventory and exploratory analysis"
+outcome: "completed"
+urgent: false
+metrics:
+  source: "none"
+  total: null
+quality:
+  self_score: 4
+  user_score: null
+  user_note: ""
+  corrections: 0
+  rework: 1
+  checks: "Source unchanged; page counts and raw sample spans verified; ignored data paths confirmed; harness checks and default suite passed"
+waste: "Console encoding retry"
+lessons:
+  - tag: "quality"
+    rule: "Inspect no-text pages visually before treating them as blank"
+    evidence: "Scanned cover revealed an additional exam year"
+rules_helped: ["T1", "Q1", "Q5", "C2"]
+rules_missed: []
+handoff: "research/NEXT_STEPS.md updated; initial findings in research/INITIAL_ANALYSIS.md"

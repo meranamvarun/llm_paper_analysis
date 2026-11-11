@@ -1,0 +1,29 @@
+# Harness session retro (schema 1), written by `harness.py retro`. See harness/README.md.
+schema: 1
+primary_researcher: "TO CONFIRM"
+session_id: "targeted-review-packet"
+tool: "codex"
+date: "2026-11-10"
+branch: "main"
+task_type: "other"
+task: "Prepare source-linked targeted extraction review packet"
+outcome: "completed"
+urgent: false
+metrics:
+  source: "none"
+  total: null
+quality:
+  self_score: 4
+  user_score: null
+  user_note: ""
+  corrections: null
+  rework: 1
+  checks: "Six items; five evidence containment checks; seven image links; input and output hashes; blank reviewer decisions"
+waste: "Proposal BOM required tolerant decoding"
+lessons:
+  - tag: "quality"
+    rule: "Preserve pending decisions in review packets"
+    evidence: "Source-linked proposals remain separate from human decisions"
+rules_helped: ["T1", "Q1", "Q5", "C1", "C2"]
+rules_missed: []
+handoff: "Updated NEXT_STEPS and EXTRACTION_REVIEW_PACKET; human review pending"

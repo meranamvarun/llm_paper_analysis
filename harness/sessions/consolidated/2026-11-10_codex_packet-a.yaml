@@ -1,0 +1,29 @@
+# Harness session retro (schema 1), written by `harness.py retro`. See harness/README.md.
+schema: 1
+primary_researcher: "TO CONFIRM"
+session_id: "packet-acceptance"
+tool: "codex"
+date: "2026-11-10"
+branch: "main"
+task_type: "admin"
+task: "Record user acceptance of six extraction proposals"
+outcome: "completed"
+urgent: false
+metrics:
+  source: "none"
+  total: null
+quality:
+  self_score: 5
+  user_score: null
+  user_note: ""
+  corrections: null
+  rework: null
+  checks: "Six unique acceptances; original packet hashes unchanged; decision manifest; no inferred reviewer details"
+waste: null
+lessons:
+  - tag: "quality"
+    rule: "Record explicit acceptance separately from detailed validation"
+    evidence: "User acceptance does not supply a reviewer name or independent pilot checks"
+rules_helped: ["Q1", "Q5", "C1", "C2"]
+rules_missed: []
+handoff: "NEXT_STEPS records accepted proposals pending derived application"

@@ -1,0 +1,29 @@
+# Harness session retro (schema 1), written by `harness.py retro`. See harness/README.md.
+schema: 1
+primary_researcher: "TO CONFIRM"
+session_id: "llm-harness-setup"
+tool: "codex"
+date: "2026-11-10"
+branch: "main"
+task_type: "tooling"
+task: "Adapt research session harness for Indian law entrance exam analysis"
+outcome: "completed"
+urgent: false
+metrics:
+  source: "none"
+  total: null
+quality:
+  self_score: 4
+  user_score: null
+  user_note: ""
+  corrections: 0
+  rework: 1
+  checks: "Attribution red observed; default suite passed with six shell skips; full Windows shell suite stalled and was stopped; sync and check passed"
+waste: "Initial test run had incomplete fixtures"
+lessons:
+  - tag: "quality"
+    rule: "Inspect copied hooks for source-specific dependencies"
+    evidence: "Removed manuscript-only pre-commit check"
+rules_helped: ["T1", "Q2", "Q4", "C2"]
+rules_missed: []
+handoff: "research/NEXT_STEPS.md"

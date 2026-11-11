@@ -1,0 +1,29 @@
+# Harness session retro (schema 1), written by `harness.py retro`. See harness/README.md.
+schema: 1
+primary_researcher: "TO CONFIRM"
+session_id: "scope-confirmation"
+tool: "codex"
+date: "2026-11-10"
+branch: "main"
+task_type: "admin"
+task: "Record inclusive study year range and preserve excluded source evidence"
+outcome: "completed"
+urgent: false
+metrics:
+  source: "none"
+  total: null
+quality:
+  self_score: 5
+  user_score: null
+  user_note: ""
+  corrections: 0
+  rework: 0
+  checks: "Scope consistency across project and research documents; instruction sync; harness check"
+waste: "none"
+lessons:
+  - tag: "quality"
+    rule: "Count inclusive year labels explicitly when recording scope"
+    evidence: "Selected endpoints span eleven labels"
+rules_helped: ["Q1", "Q2", "Q5", "C2"]
+rules_missed: []
+handoff: "Study scope confirmed in protocol and NEXT_STEPS; completeness and rights unresolved"

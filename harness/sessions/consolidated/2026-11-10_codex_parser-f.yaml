@@ -1,0 +1,29 @@
+# Harness session retro (schema 1), written by `harness.py retro`. See harness/README.md.
+schema: 1
+primary_researcher: "TO CONFIRM"
+session_id: "parser-followup"
+tool: "codex"
+date: "2026-11-10"
+branch: "main"
+task_type: "tooling"
+task: "Fix numeric option and passage footer splits with audited reconciliation"
+outcome: "completed"
+urgent: false
+metrics:
+  source: "none"
+  total: null
+quality:
+  self_score: 4
+  user_score: null
+  user_note: ""
+  corrections: 0
+  rework: 1
+  checks: "Three red subcases; twenty-four green extraction tests; frozen hashes; accepted record retention and refreshed diagnostics"
+waste: "Windows stdin replaced a Unicode glyph; explicit escape resolved it"
+lessons:
+  - tag: "quality"
+    rule: "Use explicit Unicode escapes in shell-fed fixtures"
+    evidence: "Frozen corpus exposed a footer glyph substitution"
+rules_helped: ["T1", "Q1", "Q4", "Q5", "C1", "C2"]
+rules_missed: []
+handoff: "Updated NEXT_STEPS and PARSER_FOLLOWUP; additional candidate image review remains"

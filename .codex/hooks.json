@@ -1,0 +1,29 @@
+{
+  "description": "Self-improvement harness hooks (harness/README.md). Primary researcher: TO CONFIRM",
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "sh \"$(git rev-parse --show-toplevel)/harness/bin/hook.sh\" session-start codex",
+            "commandWindows": "\"%ProgramFiles%\\Git\\bin\\bash.exe\" harness/bin/hook.sh session-start codex",
+            "timeout": 20
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "sh \"$(git rev-parse --show-toplevel)/harness/bin/hook.sh\" stop codex",
+            "commandWindows": "\"%ProgramFiles%\\Git\\bin\\bash.exe\" harness/bin/hook.sh stop codex",
+            "timeout": 20
+          }
+        ]
+      }
+    ]
+  }
+}

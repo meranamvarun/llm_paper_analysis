@@ -1,0 +1,32 @@
+# Harness session retro (schema 1), written by `harness.py retro`. See harness/README.md.
+schema: 1
+primary_researcher: "TO CONFIRM"
+session_id: "automated-quality"
+tool: "codex"
+date: "2026-11-11"
+branch: "main"
+task_type: "tooling"
+task: "Replace mandatory manual extraction benchmarks with automated source and structural checks"
+outcome: "completed"
+urgent: false
+metrics:
+  source: "none"
+  total: null
+quality:
+  self_score: 4
+  user_score: null
+  user_note: ""
+  corrections: 1
+  rework: 1
+  checks: "Forty-nine extraction tests; full-page and targeted OCR; synthetic defect challenges; source and output hashes; no manual gate"
+waste: "Initial support threshold missed an isolated ordinary word change; strict target-token gate retains gaps"
+lessons:
+  - tag: "quality"
+    rule: "Separate automated corroboration from empirical accuracy"
+    evidence: "Exact machine target-token support does not establish complete source coverage"
+  - tag: "completion"
+    rule: "Honor explicit workflow preferences without dropping uncertainty"
+    evidence: "Manual extraction benchmark made optional while machine exceptions remain recorded"
+rules_helped: ["T1", "Q1", "Q4", "Q5", "C1", "C2"]
+rules_missed: []
+handoff: "NEXT_STEPS and AUTOMATED_QUALITY_RESULTS point to programmatic report and repair queue"

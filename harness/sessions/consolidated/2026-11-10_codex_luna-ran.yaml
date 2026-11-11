@@ -1,0 +1,29 @@
+# Harness session retro (schema 1), written by `harness.py retro`. See harness/README.md.
+schema: 1
+primary_researcher: "TO CONFIRM"
+session_id: "luna-random-ocr-audit"
+tool: "codex"
+date: "2026-11-10"
+branch: "main"
+task_type: "analysis"
+task: "Compare seeded random source pages using an affordable image-capable agent"
+outcome: "completed"
+urgent: false
+metrics:
+  source: "none"
+  total: null
+quality:
+  self_score: 4
+  user_score: null
+  user_note: ""
+  corrections: 0
+  rework: 2
+  checks: "Seed reproduced; source and image hashes; frozen blind hash; comparison IDs; baseline artifact hashes; parent image checks; denominator reconciliation; harness check"
+waste: "Reviewer summary required scope and omission-mechanism reconciliation"
+lessons:
+  - tag: "quality"
+    rule: "Freeze blind readings and reconcile denominators before summarizing AI audits"
+    evidence: "Reviewer initially mixed sampled and context-only option findings"
+rules_helped: ["T1", "Q1", "Q3", "Q5", "C1", "C2"]
+rules_missed: []
+handoff: "research/OCR_AUDIT_RESULTS.md and research/NEXT_STEPS.md updated; extraction unchanged"

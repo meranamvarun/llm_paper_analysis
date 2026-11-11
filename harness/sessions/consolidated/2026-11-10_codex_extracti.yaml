@@ -1,0 +1,29 @@
+# Harness session retro (schema 1), written by `harness.py retro`. See harness/README.md.
+schema: 1
+primary_researcher: "TO CONFIRM"
+session_id: "extraction-followup"
+tool: "codex"
+date: "2026-11-10"
+branch: "main"
+task_type: "analysis"
+task: "Test local OCR alternatives and recover known missing values as AI proposals"
+outcome: "completed"
+urgent: false
+metrics:
+  source: "none"
+  total: null
+quality:
+  self_score: 4
+  user_score: null
+  user_note: ""
+  corrections: 0
+  rework: 0
+  checks: "Source preservation; image hashes; baseline ID linkage; extraction and harness suites; documentation consistency"
+waste: "Diagnostic output was larger than needed"
+lessons:
+  - tag: "quality"
+    rule: "Preserve observed option labels alongside normalized AI proposals"
+    evidence: "Source images used numeric labels where agent used letters"
+rules_helped: ["T1", "Q1", "Q5", "C1", "C2"]
+rules_missed: []
+handoff: "Updated research/NEXT_STEPS.md and research/EXTRACTION_FOLLOWUP.md; independent human review remains pending"

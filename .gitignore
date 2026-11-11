@@ -1,0 +1,9 @@
+data/
+.env
+.env.*
+__pycache__/
+*.pyc
+.venv/
+harness/.state/
+output/
+/question_paper*.pdf

@@ -1,0 +1,12 @@
+#!/bin/sh
+# Refuse commits that leave AGENTS.md out of sync with CLAUDE.md + harness/PLAYBOOK.md.
+root=$(git rev-parse --show-toplevel 2>/dev/null) || exit 0
+[ -f "$root/harness/bin/hook.sh" ] || exit 0
+staged=$(git diff --cached --name-only)
+if printf '%s\n' "$staged" | grep -qE '^(CLAUDE\.md|AGENTS\.md|harness/PLAYBOOK\.md)$'; then
+    if ! sh "$root/harness/bin/hook.sh" verify-sync; then
+        echo "pre-commit: AGENTS.md is out of sync with CLAUDE.md + harness/PLAYBOOK.md." >&2
+        echo "Run 'python3 harness/harness.py sync' (Windows: the Python path in CLAUDE.md), then 'git add AGENTS.md'." >&2
+        exit 1
+    fi
+fi
