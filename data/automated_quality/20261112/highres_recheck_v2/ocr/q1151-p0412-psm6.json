@@ -1,0 +1,48 @@
+{
+  "pdf_page": 412,
+  "crop_top": 10.399999999999999,
+  "crop_bottom": 26.799999999999997,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0411:l0018:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Sub questions",
+      "bbox": [
+        37.98,
+        3.96,
+        92.88,
+        12.419999999999998
+      ]
+    }
+  ],
+  "text": "Sub questions",
+  "ocr_words": [
+    {
+      "text": "Sub",
+      "x0": 37.98,
+      "top": 3.96,
+      "x1": 52.559999999999995,
+      "bottom": 10.44,
+      "confidence": 96.665276,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "questions",
+      "x0": 55.8,
+      "top": 3.96,
+      "x1": 92.88,
+      "bottom": 12.419999999999998,
+      "confidence": 96.428329,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

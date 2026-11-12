@@ -1,0 +1,299 @@
+{
+  "pdf_page": 177,
+  "crop_top": 462.05199999999996,
+  "crop_bottom": 521.452,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0177:l0022:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "90. Who among the following first coined the term ‘genocide’?",
+      "bbox": [
+        96.336,
+        4.608,
+        408.67199999999997,
+        14.831999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "(A) Hersch Lauterpacht (B) Judge Radhabinod Pal",
+      "bbox": [
+        115.48799999999999,
+        24.767999999999997,
+        441.64799999999997,
+        35.135999999999996
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(C) Raphael Lemkin (D) Mirjan Damaska",
+      "bbox": [
+        115.48799999999999,
+        45.071999999999996,
+        412.84799999999996,
+        55.29599999999999
+      ]
+    }
+  ],
+  "text": "90. Who among the following first coined the term ‘genocide’?\n(A) Hersch Lauterpacht (B) Judge Radhabinod Pal\n(C) Raphael Lemkin (D) Mirjan Damaska",
+  "ocr_words": [
+    {
+      "text": "90.",
+      "x0": 96.336,
+      "top": 5.183999999999999,
+      "x1": 110.16,
+      "bottom": 12.815999999999999,
+      "confidence": 96.287392,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Who",
+      "x0": 117.216,
+      "top": 4.752,
+      "x1": 139.68,
+      "bottom": 12.96,
+      "confidence": 95.458809,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "among",
+      "x0": 143.56799999999998,
+      "top": 7.4879999999999995,
+      "x1": 176.97599999999997,
+      "bottom": 14.831999999999999,
+      "confidence": 95.458809,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 180.432,
+      "top": 4.752,
+      "x1": 196.272,
+      "bottom": 12.815999999999999,
+      "confidence": 96.39592,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 200.016,
+      "top": 4.608,
+      "x1": 245.808,
+      "bottom": 14.831999999999997,
+      "confidence": 95.558258,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "first",
+      "x0": 249.26399999999998,
+      "top": 4.608,
+      "x1": 270.144,
+      "bottom": 12.815999999999999,
+      "confidence": 96.373909,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "coined",
+      "x0": 273.74399999999997,
+      "top": 4.752,
+      "x1": 305.712,
+      "bottom": 12.815999999999999,
+      "confidence": 96.023933,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 309.16799999999995,
+      "top": 4.752,
+      "x1": 325.0079999999999,
+      "bottom": 12.815999999999999,
+      "confidence": 96.412643,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "term",
+      "x0": 328.75199999999995,
+      "top": 5.616,
+      "x1": 352.51199999999994,
+      "bottom": 12.815999999999999,
+      "confidence": 96.845909,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "‘genocide’?",
+      "x0": 356.4,
+      "top": 4.608,
+      "x1": 408.67199999999997,
+      "bottom": 14.831999999999997,
+      "confidence": 88.108246,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 115.48799999999999,
+      "top": 24.767999999999997,
+      "x1": 129.31199999999998,
+      "bottom": 34.992,
+      "confidence": 96.83477,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Hersch",
+      "x0": 136.512,
+      "top": 24.912,
+      "x1": 171.936,
+      "bottom": 33.12,
+      "confidence": 93.249588,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Lauterpacht",
+      "x0": 175.67999999999998,
+      "top": 24.912,
+      "x1": 238.176,
+      "bottom": 34.992,
+      "confidence": 91.531631,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(B)",
+      "x0": 306.43199999999996,
+      "top": 24.912,
+      "x1": 320.256,
+      "bottom": 34.992,
+      "confidence": 91.47493,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Judge",
+      "x0": 327.16799999999995,
+      "top": 24.912,
+      "x1": 357.11999999999995,
+      "bottom": 35.135999999999996,
+      "confidence": 93.302391,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Radhabinod",
+      "x0": 360.864,
+      "top": 24.912,
+      "x1": 421.77599999999995,
+      "bottom": 33.12,
+      "confidence": 91.544037,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Pal",
+      "x0": 425.376,
+      "top": 24.912,
+      "x1": 441.64799999999997,
+      "bottom": 33.12,
+      "confidence": 96.81871,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(C)",
+      "x0": 115.48799999999999,
+      "top": 45.071999999999996,
+      "x1": 129.31199999999998,
+      "bottom": 55.151999999999994,
+      "confidence": 91.714111,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Raphael",
+      "x0": 136.224,
+      "top": 45.071999999999996,
+      "x1": 177.98399999999998,
+      "bottom": 55.151999999999994,
+      "confidence": 93.170792,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Lemkin",
+      "x0": 181.58399999999997,
+      "top": 45.071999999999996,
+      "x1": 220.31999999999996,
+      "bottom": 53.279999999999994,
+      "confidence": 92.041618,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(D)",
+      "x0": 305.856,
+      "top": 45.071999999999996,
+      "x1": 320.256,
+      "bottom": 55.151999999999994,
+      "confidence": 91.8013,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Mirjan",
+      "x0": 327.16799999999995,
+      "top": 45.071999999999996,
+      "x1": 361.58399999999995,
+      "bottom": 55.29599999999999,
+      "confidence": 90.63562,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Damaska",
+      "x0": 365.18399999999997,
+      "top": 45.071999999999996,
+      "x1": 412.84799999999996,
+      "bottom": 53.279999999999994,
+      "confidence": 91.808052,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

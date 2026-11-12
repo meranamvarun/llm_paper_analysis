@@ -1,0 +1,548 @@
+{
+  "pdf_page": 256,
+  "crop_top": 635.172,
+  "crop_bottom": 748.312,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0256:l0037:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "116. Under which of the following enactments Noise Pollution (Regulation and Control) Rules",
+      "bbox": [
+        73.44,
+        5.327999999999999,
+        517.68,
+        16.128
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "have been enacted?",
+      "bbox": [
+        93.744,
+        19.008,
+        187.48799999999997,
+        27.503999999999998
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(A) Air (Prevention and Control of Pollution) Act, 1981.",
+      "bbox": [
+        100.51199999999999,
+        34.848,
+        372.816,
+        45.792
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(B) Environment Protection Act, 1986.",
+      "bbox": [
+        100.51199999999999,
+        50.831999999999994,
+        289.87199999999996,
+        61.775999999999996
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(C) Both (A) and (B).",
+      "bbox": [
+        100.51199999999999,
+        66.09599999999999,
+        205.63199999999998,
+        77.03999999999999
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "(D) None of these.",
+      "bbox": [
+        100.51199999999999,
+        82.08,
+        191.952,
+        93.024
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "CORRECT OPTION: B",
+      "bbox": [
+        72.43199999999999,
+        98.63999999999999,
+        196.992,
+        106.99199999999999
+      ]
+    }
+  ],
+  "text": "116. Under which of the following enactments Noise Pollution (Regulation and Control) Rules\nhave been enacted?\n(A) Air (Prevention and Control of Pollution) Act, 1981.\n(B) Environment Protection Act, 1986.\n(C) Both (A) and (B).\n(D) None of these.\nCORRECT OPTION: B",
+  "ocr_words": [
+    {
+      "text": "116.",
+      "x0": 73.44,
+      "top": 5.4719999999999995,
+      "x1": 90.43199999999999,
+      "bottom": 13.823999999999998,
+      "confidence": 95.223808,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Under",
+      "x0": 93.744,
+      "top": 5.327999999999999,
+      "x1": 124.56,
+      "bottom": 13.823999999999998,
+      "confidence": 96.573456,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "which",
+      "x0": 126.576,
+      "top": 5.327999999999999,
+      "x1": 156.096,
+      "bottom": 13.823999999999998,
+      "confidence": 96.292717,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 158.832,
+      "top": 5.327999999999999,
+      "x1": 169.77599999999998,
+      "bottom": 13.823999999999998,
+      "confidence": 96.509743,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 171.35999999999999,
+      "top": 5.327999999999999,
+      "x1": 185.61599999999999,
+      "bottom": 13.823999999999998,
+      "confidence": 95.518097,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 188.49599999999998,
+      "top": 5.327999999999999,
+      "x1": 235.58399999999997,
+      "bottom": 16.128,
+      "confidence": 95.239754,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "enactments",
+      "x0": 237.6,
+      "top": 6.4799999999999995,
+      "x1": 292.032,
+      "bottom": 13.823999999999998,
+      "confidence": 96.714958,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Noise",
+      "x0": 294.33599999999996,
+      "top": 5.327999999999999,
+      "x1": 322.12799999999993,
+      "bottom": 13.823999999999998,
+      "confidence": 96.128792,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Pollution",
+      "x0": 324.71999999999997,
+      "top": 5.327999999999999,
+      "x1": 368.784,
+      "bottom": 13.823999999999998,
+      "confidence": 96.090225,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(Regulation",
+      "x0": 371.52,
+      "top": 5.327999999999999,
+      "x1": 427.392,
+      "bottom": 16.128,
+      "confidence": 96.438118,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 430.128,
+      "top": 5.327999999999999,
+      "x1": 447.40799999999996,
+      "bottom": 13.823999999999998,
+      "confidence": 96.501945,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Control)",
+      "x0": 450.14399999999995,
+      "top": 5.327999999999999,
+      "x1": 490.0319999999999,
+      "bottom": 16.128,
+      "confidence": 95.289902,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Rules",
+      "x0": 492.47999999999996,
+      "top": 5.327999999999999,
+      "x1": 517.68,
+      "bottom": 13.823999999999998,
+      "confidence": 96.724289,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "have",
+      "x0": 93.744,
+      "top": 19.008,
+      "x1": 116.64,
+      "bottom": 27.503999999999998,
+      "confidence": 95.9105,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "been",
+      "x0": 120.38399999999999,
+      "top": 19.008,
+      "x1": 143.56799999999998,
+      "bottom": 27.503999999999998,
+      "confidence": 96.981705,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "enacted?",
+      "x0": 146.44799999999998,
+      "top": 19.008,
+      "x1": 187.48799999999997,
+      "bottom": 27.503999999999998,
+      "confidence": 96.456581,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(A)",
+      "x0": 100.51199999999999,
+      "top": 34.992,
+      "x1": 113.47199999999998,
+      "bottom": 45.791999999999994,
+      "confidence": 96.72139,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Air",
+      "x0": 121.82399999999998,
+      "top": 34.848,
+      "x1": 137.808,
+      "bottom": 43.199999999999996,
+      "confidence": 90.344109,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(Prevention",
+      "x0": 141.26399999999998,
+      "top": 34.848,
+      "x1": 196.70399999999998,
+      "bottom": 45.792,
+      "confidence": 96.424416,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "and",
+      "x0": 200.016,
+      "top": 34.848,
+      "x1": 217.296,
+      "bottom": 43.343999999999994,
+      "confidence": 96.904633,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Control",
+      "x0": 220.75199999999998,
+      "top": 34.848,
+      "x1": 257.328,
+      "bottom": 43.488,
+      "confidence": 96.754707,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 260.496,
+      "top": 34.848,
+      "x1": 271.44,
+      "bottom": 43.343999999999994,
+      "confidence": 96.754707,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Pollution)",
+      "x0": 272.88,
+      "top": 34.848,
+      "x1": 320.4,
+      "bottom": 45.792,
+      "confidence": 95.846138,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Act,",
+      "x0": 323.28,
+      "top": 35.135999999999996,
+      "x1": 342.864,
+      "bottom": 45.215999999999994,
+      "confidence": 96.606834,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "1981.",
+      "x0": 347.616,
+      "top": 35.135999999999996,
+      "x1": 372.816,
+      "bottom": 43.343999999999994,
+      "confidence": 96.39402,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(B)",
+      "x0": 100.51199999999999,
+      "top": 50.831999999999994,
+      "x1": 112.89599999999999,
+      "bottom": 61.775999999999996,
+      "confidence": 93.109406,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Environment",
+      "x0": 121.96799999999999,
+      "top": 50.831999999999994,
+      "x1": 185.61599999999999,
+      "bottom": 59.32799999999999,
+      "confidence": 96.588882,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Protection",
+      "x0": 189.21599999999998,
+      "top": 50.831999999999994,
+      "x1": 238.46399999999997,
+      "bottom": 59.32799999999999,
+      "confidence": 96.155205,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Act,",
+      "x0": 241.48799999999997,
+      "top": 51.12,
+      "x1": 261.07199999999995,
+      "bottom": 61.199999999999996,
+      "confidence": 96.155205,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "1986.",
+      "x0": 264.67199999999997,
+      "top": 51.12,
+      "x1": 289.87199999999996,
+      "bottom": 59.327999999999996,
+      "confidence": 96.629532,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(C)",
+      "x0": 100.51199999999999,
+      "top": 66.09599999999999,
+      "x1": 112.89599999999999,
+      "bottom": 77.03999999999999,
+      "confidence": 92.691879,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Both",
+      "x0": 121.96799999999999,
+      "top": 66.09599999999999,
+      "x1": 144.86399999999998,
+      "bottom": 74.59199999999998,
+      "confidence": 96.83284,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "(A)",
+      "x0": 148.464,
+      "top": 66.09599999999999,
+      "x1": 164.16,
+      "bottom": 77.03999999999999,
+      "confidence": 96.323181,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "and",
+      "x0": 167.904,
+      "top": 66.09599999999999,
+      "x1": 185.328,
+      "bottom": 74.59199999999998,
+      "confidence": 90.764938,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "(B).",
+      "x0": 187.92,
+      "top": 66.09599999999999,
+      "x1": 205.63199999999998,
+      "bottom": 77.03999999999999,
+      "confidence": 88.378746,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "(D)",
+      "x0": 100.51199999999999,
+      "top": 82.08,
+      "x1": 113.47199999999998,
+      "bottom": 93.024,
+      "confidence": 91.162819,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "None",
+      "x0": 121.53599999999999,
+      "top": 82.512,
+      "x1": 148.03199999999998,
+      "bottom": 90.576,
+      "confidence": 96.68988,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "of",
+      "x0": 152.208,
+      "top": 82.08,
+      "x1": 163.152,
+      "bottom": 90.576,
+      "confidence": 96.889503,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "these.",
+      "x0": 164.736,
+      "top": 82.08,
+      "x1": 191.952,
+      "bottom": 90.576,
+      "confidence": 94.985443,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "CORRECT",
+      "x0": 72.43199999999999,
+      "top": 98.63999999999999,
+      "x1": 131.61599999999999,
+      "bottom": 106.99199999999999,
+      "confidence": 96.337685,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "OPTION:",
+      "x0": 135.504,
+      "top": 98.63999999999999,
+      "x1": 185.184,
+      "bottom": 106.99199999999999,
+      "confidence": 92.99118,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "B",
+      "x0": 189.648,
+      "top": 98.78399999999999,
+      "x1": 196.992,
+      "bottom": 106.704,
+      "confidence": 92.851151,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

@@ -1,0 +1,943 @@
+{
+  "pdf_page": 273,
+  "crop_top": 83.09199999999998,
+  "crop_bottom": 224.01671999999996,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0273:l0000:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "50. Suppose, students filled up JEE Mains form for 2020. Due to repeated postponements of",
+      "bbox": [
+        72.576,
+        5.04,
+        524.5919999999999,
+        15.983999999999998
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "JEE, IfT Kharagpur decided to opt out of JEE mains and conducted its own separate Test.",
+      "bbox": [
+        90.288,
+        19.008,
+        522.1439999999999,
+        29.951999999999998
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "On which of the following grounds the decision of IIT Kharagpur can be challenged?",
+      "bbox": [
+        90.43199999999999,
+        32.687999999999995,
+        499.248,
+        43.63199999999999
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "a) Procedural fairness",
+      "bbox": [
+        72.43199999999999,
+        46.656,
+        181.87199999999999,
+        57.455999999999996
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "b) Legitimate expectation",
+      "bbox": [
+        72.0,
+        60.336,
+        200.304,
+        71.28
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "c) Manifest arbitrariness",
+      "bbox": [
+        72.43199999999999,
+        74.30399999999999,
+        194.25599999999997,
+        85.10399999999998
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "d) HT Kharagpur’s decision cannot be challenged as it was taken in the interest of the",
+      "bbox": [
+        72.43199999999999,
+        87.984,
+        522.7199999999999,
+        98.78399999999999
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "students.",
+      "bbox": [
+        90.576,
+        101.80799999999999,
+        131.61599999999999,
+        110.30399999999999
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "CORRECT ANSWER : OPTION B",
+      "bbox": [
+        72.576,
+        124.55999999999999,
+        282.09599999999995,
+        134.208
+      ]
+    }
+  ],
+  "text": "50. Suppose, students filled up JEE Mains form for 2020. Due to repeated postponements of\nJEE, IfT Kharagpur decided to opt out of JEE mains and conducted its own separate Test.\nOn which of the following grounds the decision of IIT Kharagpur can be challenged?\na) Procedural fairness\nb) Legitimate expectation\nc) Manifest arbitrariness\nd) HT Kharagpur’s decision cannot be challenged as it was taken in the interest of the\nstudents.\nCORRECT ANSWER : OPTION B",
+  "ocr_words": [
+    {
+      "text": "50.",
+      "x0": 72.576,
+      "top": 5.327999999999999,
+      "x1": 86.256,
+      "bottom": 13.536,
+      "confidence": 95.732643,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Suppose,",
+      "x0": 90.86399999999999,
+      "top": 5.327999999999999,
+      "x1": 133.2,
+      "bottom": 15.983999999999998,
+      "confidence": 96.430725,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "students",
+      "x0": 138.096,
+      "top": 5.04,
+      "x1": 176.4,
+      "bottom": 13.535999999999998,
+      "confidence": 96.056808,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "filled",
+      "x0": 181.00799999999998,
+      "top": 5.04,
+      "x1": 205.48799999999997,
+      "bottom": 13.535999999999998,
+      "confidence": 95.04998,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "up",
+      "x0": 209.088,
+      "top": 7.919999999999999,
+      "x1": 220.608,
+      "bottom": 15.983999999999998,
+      "confidence": 92.454285,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "JEE",
+      "x0": 224.92799999999997,
+      "top": 5.4719999999999995,
+      "x1": 243.64799999999997,
+      "bottom": 13.536,
+      "confidence": 92.023895,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Mains",
+      "x0": 247.968,
+      "top": 5.04,
+      "x1": 277.2,
+      "bottom": 13.535999999999998,
+      "confidence": 96.754539,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "form",
+      "x0": 282.096,
+      "top": 5.04,
+      "x1": 304.992,
+      "bottom": 13.535999999999998,
+      "confidence": 96.55542,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "for",
+      "x0": 308.88,
+      "top": 5.04,
+      "x1": 322.416,
+      "bottom": 13.535999999999998,
+      "confidence": 96.022514,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2020.",
+      "x0": 326.15999999999997,
+      "top": 5.327999999999999,
+      "x1": 352.51199999999994,
+      "bottom": 13.536,
+      "confidence": 96.802521,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Due",
+      "x0": 357.26399999999995,
+      "top": 5.4719999999999995,
+      "x1": 376.70399999999995,
+      "bottom": 13.536,
+      "confidence": 96.91346,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 380.736,
+      "top": 6.335999999999999,
+      "x1": 389.52,
+      "bottom": 13.535999999999998,
+      "confidence": 96.325584,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "repeated",
+      "x0": 393.84,
+      "top": 5.04,
+      "x1": 434.304,
+      "bottom": 15.983999999999998,
+      "confidence": 92.573425,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "postponements",
+      "x0": 437.90399999999994,
+      "top": 6.335999999999999,
+      "x1": 509.3279999999999,
+      "bottom": 15.983999999999998,
+      "confidence": 92.355316,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 513.6479999999999,
+      "top": 5.04,
+      "x1": 524.5919999999999,
+      "bottom": 13.535999999999998,
+      "confidence": 96.637215,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "JEE,",
+      "x0": 90.288,
+      "top": 19.439999999999998,
+      "x1": 111.88799999999999,
+      "bottom": 29.375999999999998,
+      "confidence": 91.836288,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "IfT",
+      "x0": 116.064,
+      "top": 19.439999999999998,
+      "x1": 130.75199999999998,
+      "bottom": 27.359999999999996,
+      "confidence": 51.388618,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Kharagpur",
+      "x0": 134.49599999999998,
+      "top": 19.008,
+      "x1": 185.03999999999996,
+      "bottom": 29.951999999999998,
+      "confidence": 96.434998,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "decided",
+      "x0": 188.64,
+      "top": 19.008,
+      "x1": 225.64799999999997,
+      "bottom": 27.503999999999998,
+      "confidence": 96.434998,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "to",
+      "x0": 228.81599999999997,
+      "top": 20.16,
+      "x1": 237.88799999999998,
+      "bottom": 27.503999999999998,
+      "confidence": 96.579041,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "opt",
+      "x0": 241.77599999999998,
+      "top": 20.16,
+      "x1": 256.75199999999995,
+      "bottom": 29.951999999999998,
+      "confidence": 96.115662,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "out",
+      "x0": 260.352,
+      "top": 20.16,
+      "x1": 275.18399999999997,
+      "bottom": 27.503999999999998,
+      "confidence": 96.105492,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 278.784,
+      "top": 19.008,
+      "x1": 289.728,
+      "bottom": 27.503999999999998,
+      "confidence": 92.837448,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "JEE",
+      "x0": 291.45599999999996,
+      "top": 19.439999999999998,
+      "x1": 310.31999999999994,
+      "bottom": 27.503999999999998,
+      "confidence": 92.837448,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "mains",
+      "x0": 314.20799999999997,
+      "top": 19.008,
+      "x1": 341.856,
+      "bottom": 27.503999999999998,
+      "confidence": 96.50853,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "and",
+      "x0": 345.888,
+      "top": 19.008,
+      "x1": 362.736,
+      "bottom": 27.503999999999998,
+      "confidence": 95.731239,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "conducted",
+      "x0": 366.19199999999995,
+      "top": 19.008,
+      "x1": 415.29599999999994,
+      "bottom": 27.503999999999998,
+      "confidence": 95.731239,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "its",
+      "x0": 419.03999999999996,
+      "top": 19.008,
+      "x1": 429.26399999999995,
+      "bottom": 27.503999999999998,
+      "confidence": 93.657898,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "own",
+      "x0": 433.152,
+      "top": 21.744,
+      "x1": 453.59999999999997,
+      "bottom": 27.503999999999998,
+      "confidence": 96.498184,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "separate",
+      "x0": 457.34399999999994,
+      "top": 20.16,
+      "x1": 495.7919999999999,
+      "bottom": 29.951999999999998,
+      "confidence": 96.462936,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Test.",
+      "x0": 499.53599999999994,
+      "top": 19.439999999999998,
+      "x1": 522.1439999999999,
+      "bottom": 27.503999999999998,
+      "confidence": 96.257088,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "On",
+      "x0": 90.43199999999999,
+      "top": 32.832,
+      "x1": 104.68799999999999,
+      "bottom": 41.184,
+      "confidence": 96.825684,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "which",
+      "x0": 107.71199999999999,
+      "top": 32.687999999999995,
+      "x1": 136.944,
+      "bottom": 41.184,
+      "confidence": 95.895325,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 140.39999999999998,
+      "top": 32.687999999999995,
+      "x1": 151.34399999999997,
+      "bottom": 41.184,
+      "confidence": 95.895325,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "the",
+      "x0": 152.928,
+      "top": 32.687999999999995,
+      "x1": 167.184,
+      "bottom": 41.184,
+      "confidence": 96.837891,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "following",
+      "x0": 171.35999999999999,
+      "top": 32.687999999999995,
+      "x1": 216.71999999999997,
+      "bottom": 43.63199999999999,
+      "confidence": 96.214706,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "grounds",
+      "x0": 220.32,
+      "top": 32.687999999999995,
+      "x1": 258.336,
+      "bottom": 43.63199999999999,
+      "confidence": 96.274742,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "the",
+      "x0": 261.792,
+      "top": 32.687999999999995,
+      "x1": 276.04799999999994,
+      "bottom": 41.184,
+      "confidence": 96.274742,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "decision",
+      "x0": 279.936,
+      "top": 32.687999999999995,
+      "x1": 319.53599999999994,
+      "bottom": 41.184,
+      "confidence": 96.214981,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 322.84799999999996,
+      "top": 32.687999999999995,
+      "x1": 333.792,
+      "bottom": 41.184,
+      "confidence": 96.687775,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "IIT",
+      "x0": 335.664,
+      "top": 33.12,
+      "x1": 350.496,
+      "bottom": 41.04,
+      "confidence": 96.593208,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Kharagpur",
+      "x0": 353.952,
+      "top": 32.687999999999995,
+      "x1": 404.928,
+      "bottom": 43.63199999999999,
+      "confidence": 96.145393,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "can",
+      "x0": 408.38399999999996,
+      "top": 35.424,
+      "x1": 424.51199999999994,
+      "bottom": 41.184,
+      "confidence": 96.610847,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "be",
+      "x0": 427.392,
+      "top": 32.687999999999995,
+      "x1": 438.48,
+      "bottom": 41.184,
+      "confidence": 96.691765,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "challenged?",
+      "x0": 442.224,
+      "top": 32.687999999999995,
+      "x1": 499.248,
+      "bottom": 43.63199999999999,
+      "confidence": 72.791557,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "a)",
+      "x0": 72.43199999999999,
+      "top": 46.656,
+      "x1": 80.78399999999999,
+      "bottom": 57.455999999999996,
+      "confidence": 96.974968,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Procedural",
+      "x0": 90.288,
+      "top": 46.656,
+      "x1": 141.98399999999998,
+      "bottom": 55.152,
+      "confidence": 96.021835,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "fairness",
+      "x0": 145.72799999999998,
+      "top": 46.656,
+      "x1": 181.87199999999999,
+      "bottom": 55.152,
+      "confidence": 96.83033,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "b)",
+      "x0": 72.0,
+      "top": 60.336,
+      "x1": 81.36,
+      "bottom": 71.136,
+      "confidence": 92.750992,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Legitimate",
+      "x0": 90.288,
+      "top": 60.336,
+      "x1": 141.552,
+      "bottom": 71.28,
+      "confidence": 96.190125,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "expectation",
+      "x0": 145.44,
+      "top": 60.336,
+      "x1": 200.304,
+      "bottom": 71.28,
+      "confidence": 96.357101,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "c)",
+      "x0": 72.43199999999999,
+      "top": 74.30399999999999,
+      "x1": 80.78399999999999,
+      "bottom": 85.10399999999998,
+      "confidence": 90.316055,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Manifest",
+      "x0": 90.288,
+      "top": 74.30399999999999,
+      "x1": 132.48,
+      "bottom": 82.79999999999998,
+      "confidence": 95.198975,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "arbitrariness",
+      "x0": 136.224,
+      "top": 74.30399999999999,
+      "x1": 194.25599999999997,
+      "bottom": 82.79999999999998,
+      "confidence": 95.416763,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "d)",
+      "x0": 72.43199999999999,
+      "top": 87.984,
+      "x1": 81.50399999999999,
+      "bottom": 98.78399999999999,
+      "confidence": 92.926422,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "HT",
+      "x0": 90.288,
+      "top": 88.27199999999999,
+      "x1": 105.264,
+      "bottom": 96.192,
+      "confidence": 93.164536,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Kharagpur’s",
+      "x0": 111.312,
+      "top": 87.984,
+      "x1": 170.35199999999998,
+      "bottom": 98.78399999999999,
+      "confidence": 92.346123,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "decision",
+      "x0": 176.688,
+      "top": 87.984,
+      "x1": 216.28799999999998,
+      "bottom": 96.47999999999999,
+      "confidence": 96.545807,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "cannot",
+      "x0": 222.19199999999998,
+      "top": 89.136,
+      "x1": 253.87199999999999,
+      "bottom": 96.47999999999999,
+      "confidence": 96.424286,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "be",
+      "x0": 259.632,
+      "top": 87.984,
+      "x1": 270.432,
+      "bottom": 96.47999999999999,
+      "confidence": 96.639084,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "challenged",
+      "x0": 276.62399999999997,
+      "top": 87.984,
+      "x1": 327.888,
+      "bottom": 98.78399999999999,
+      "confidence": 96.290802,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "as",
+      "x0": 334.224,
+      "top": 90.72,
+      "x1": 343.296,
+      "bottom": 96.48,
+      "confidence": 96.234917,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "it",
+      "x0": 349.77599999999995,
+      "top": 87.984,
+      "x1": 355.53599999999994,
+      "bottom": 96.336,
+      "confidence": 96.234917,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "was",
+      "x0": 361.44,
+      "top": 90.72,
+      "x1": 379.584,
+      "bottom": 96.48,
+      "confidence": 96.922798,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "taken",
+      "x0": 385.48799999999994,
+      "top": 87.984,
+      "x1": 411.6959999999999,
+      "bottom": 96.47999999999999,
+      "confidence": 96.376991,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 417.59999999999997,
+      "top": 87.984,
+      "x1": 426.23999999999995,
+      "bottom": 96.192,
+      "confidence": 96.60218,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 431.99999999999994,
+      "top": 87.984,
+      "x1": 446.2559999999999,
+      "bottom": 96.47999999999999,
+      "confidence": 96.110573,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "interest",
+      "x0": 452.592,
+      "top": 87.984,
+      "x1": 487.296,
+      "bottom": 96.47999999999999,
+      "confidence": 96.35202,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 493.34399999999994,
+      "top": 87.984,
+      "x1": 504.43199999999996,
+      "bottom": 96.47999999999999,
+      "confidence": 96.394287,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 508.46399999999994,
+      "top": 87.984,
+      "x1": 522.7199999999999,
+      "bottom": 96.47999999999999,
+      "confidence": 96.718391,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "students.",
+      "x0": 90.576,
+      "top": 101.80799999999999,
+      "x1": 131.61599999999999,
+      "bottom": 110.30399999999999,
+      "confidence": 96.812767,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "2"
+    },
+    {
+      "text": "CORRECT",
+      "x0": 72.576,
+      "top": 124.55999999999999,
+      "x1": 141.26399999999998,
+      "bottom": 134.208,
+      "confidence": 95.685532,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "ANSWER",
+      "x0": 145.584,
+      "top": 124.55999999999999,
+      "x1": 206.64,
+      "bottom": 134.208,
+      "confidence": 83.741882,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 211.392,
+      "top": 127.43999999999998,
+      "x1": 213.696,
+      "bottom": 134.064,
+      "confidence": 83.232323,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "OPTION",
+      "x0": 219.02399999999997,
+      "top": 124.55999999999999,
+      "x1": 269.568,
+      "bottom": 134.208,
+      "confidence": 93.273689,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "B",
+      "x0": 273.74399999999997,
+      "top": 124.704,
+      "x1": 282.09599999999995,
+      "bottom": 133.92,
+      "confidence": 92.638458,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

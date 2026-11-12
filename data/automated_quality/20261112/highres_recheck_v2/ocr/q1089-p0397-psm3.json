@@ -1,0 +1,470 @@
+{
+  "pdf_page": 397,
+  "crop_top": 233.20136000000002,
+  "crop_bottom": 334.08136,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0397:l0013:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.38 The Supreme Court in the case of Novartis, AG v. Union of India, rejected the patent of which drug?",
+      "bbox": [
+        41.94,
+        4.32,
+        371.15999999999997,
+        10.98
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Ans a",
+      "bbox": [
+        43.379999999999995,
+        15.84,
+        86.75999999999999,
+        28.439999999999998
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "1. Macsarin",
+      "bbox": [
+        88.56,
+        26.099999999999998,
+        122.75999999999999,
+        31.139999999999997
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "v",
+      "bbox": [
+        73.8,
+        36.36,
+        87.66,
+        49.86
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "2. Gleevec",
+      "bbox": [
+        88.38,
+        47.16,
+        119.34,
+        52.379999999999995
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "x",
+      "bbox": [
+        73.08,
+        58.68,
+        86.75999999999999,
+        71.1
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "3. Zimmerman",
+      "bbox": [
+        88.2,
+        68.75999999999999,
+        131.76,
+        73.8
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "x",
+      "bbox": [
+        73.08,
+        79.92,
+        86.75999999999999,
+        92.52
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "4. Aspirin",
+      "bbox": [
+        88.02,
+        90.17999999999999,
+        115.91999999999999,
+        96.47999999999999
+      ]
+    }
+  ],
+  "text": "Q.38 The Supreme Court in the case of Novartis, AG v. Union of India, rejected the patent of which drug?\nAns a\n1. Macsarin\nv\n2. Gleevec\nx\n3. Zimmerman\nx\n4. Aspirin",
+  "ocr_words": [
+    {
+      "text": "Q.38",
+      "x0": 41.94,
+      "top": 4.68,
+      "x1": 56.16,
+      "bottom": 10.44,
+      "confidence": 93.024498,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 62.46,
+      "top": 4.5,
+      "x1": 73.62,
+      "bottom": 9.719999999999999,
+      "confidence": 96.73909,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Supreme",
+      "x0": 75.78,
+      "top": 4.68,
+      "x1": 103.14,
+      "bottom": 10.98,
+      "confidence": 96.592842,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Court",
+      "x0": 105.47999999999999,
+      "top": 4.68,
+      "x1": 122.21999999999998,
+      "bottom": 9.719999999999999,
+      "confidence": 96.187714,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 124.56,
+      "top": 4.68,
+      "x1": 129.6,
+      "bottom": 9.54,
+      "confidence": 96.187714,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 131.76,
+      "top": 4.5,
+      "x1": 141.84,
+      "bottom": 9.719999999999999,
+      "confidence": 96.635551,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "case",
+      "x0": 144.0,
+      "top": 5.9399999999999995,
+      "x1": 157.14,
+      "bottom": 9.719999999999999,
+      "confidence": 96.457916,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 159.29999999999998,
+      "top": 4.32,
+      "x1": 165.6,
+      "bottom": 9.719999999999999,
+      "confidence": 96.457916,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Novartis,",
+      "x0": 167.76,
+      "top": 4.68,
+      "x1": 195.12,
+      "bottom": 10.62,
+      "confidence": 96.267899,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "AG",
+      "x0": 197.28,
+      "top": 4.68,
+      "x1": 206.1,
+      "bottom": 9.719999999999999,
+      "confidence": 93.279587,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "v.",
+      "x0": 208.26,
+      "top": 6.12,
+      "x1": 213.29999999999998,
+      "bottom": 9.54,
+      "confidence": 93.027168,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Union",
+      "x0": 216.0,
+      "top": 4.68,
+      "x1": 233.82,
+      "bottom": 9.719999999999999,
+      "confidence": 96.755859,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 236.16,
+      "top": 4.5,
+      "x1": 242.46,
+      "bottom": 9.719999999999999,
+      "confidence": 96.755859,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "India,",
+      "x0": 244.62,
+      "top": 4.5,
+      "x1": 261.18,
+      "bottom": 10.620000000000001,
+      "confidence": 96.577324,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "rejected",
+      "x0": 263.7,
+      "top": 4.5,
+      "x1": 288.53999999999996,
+      "bottom": 10.98,
+      "confidence": 96.532478,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 290.7,
+      "top": 4.5,
+      "x1": 300.78,
+      "bottom": 9.719999999999999,
+      "confidence": 96.676376,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "patent",
+      "x0": 303.3,
+      "top": 5.04,
+      "x1": 323.28000000000003,
+      "bottom": 10.98,
+      "confidence": 96.343185,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 325.44,
+      "top": 4.5,
+      "x1": 331.74,
+      "bottom": 9.719999999999999,
+      "confidence": 96.548317,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "which",
+      "x0": 333.53999999999996,
+      "top": 4.5,
+      "x1": 351.53999999999996,
+      "bottom": 9.719999999999999,
+      "confidence": 96.386917,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "drug?",
+      "x0": 353.88,
+      "top": 4.5,
+      "x1": 371.15999999999997,
+      "bottom": 10.98,
+      "confidence": 96.405273,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.379999999999995,
+      "top": 17.64,
+      "x1": 54.53999999999999,
+      "bottom": 22.5,
+      "confidence": 96.807602,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 73.08,
+      "top": 15.84,
+      "x1": 86.75999999999999,
+      "bottom": 28.439999999999998,
+      "confidence": 54.025227,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "v",
+      "x0": 73.8,
+      "top": 36.36,
+      "x1": 87.66,
+      "bottom": 49.86,
+      "confidence": 67.00531,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "x",
+      "x0": 73.08,
+      "top": 58.68,
+      "x1": 86.75999999999999,
+      "bottom": 71.1,
+      "confidence": 84.487442,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "x",
+      "x0": 73.08,
+      "top": 79.92,
+      "x1": 86.75999999999999,
+      "bottom": 92.52,
+      "confidence": 81.577194,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "1.",
+      "x0": 88.56,
+      "top": 26.279999999999998,
+      "x1": 93.06,
+      "bottom": 30.959999999999997,
+      "confidence": 93.215355,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Macsarin",
+      "x0": 95.94,
+      "top": 26.099999999999998,
+      "x1": 122.75999999999999,
+      "bottom": 31.139999999999997,
+      "confidence": 91.376144,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2.",
+      "x0": 88.38,
+      "top": 47.339999999999996,
+      "x1": 93.06,
+      "bottom": 52.199999999999996,
+      "confidence": 96.867393,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Gleevec",
+      "x0": 95.58,
+      "top": 47.16,
+      "x1": 119.34,
+      "bottom": 52.379999999999995,
+      "confidence": 95.761879,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "3.",
+      "x0": 88.2,
+      "top": 68.75999999999999,
+      "x1": 93.06,
+      "bottom": 73.8,
+      "confidence": 95.888031,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Zimmerman",
+      "x0": 95.39999999999999,
+      "top": 68.75999999999999,
+      "x1": 131.76,
+      "bottom": 73.8,
+      "confidence": 95.888031,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "4.",
+      "x0": 88.02,
+      "top": 90.36,
+      "x1": 93.06,
+      "bottom": 95.03999999999999,
+      "confidence": 95.390594,
+      "ocr_block": "6",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Aspirin",
+      "x0": 95.39999999999999,
+      "top": 90.17999999999999,
+      "x1": 115.91999999999999,
+      "bottom": 96.47999999999999,
+      "confidence": 96.468834,
+      "ocr_block": "6",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

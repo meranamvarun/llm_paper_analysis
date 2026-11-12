@@ -1,0 +1,931 @@
+{
+  "pdf_page": 231,
+  "crop_top": 631.212,
+  "crop_bottom": 744.472,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0231:l0038:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "16. Which of the following judgments is not related to equality of opportunity in matters of",
+      "bbox": [
+        73.44,
+        5.22,
+        519.66,
+        16.2
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "public employment as guaranteed by the Constitution of India?",
+      "bbox": [
+        93.6,
+        18.9,
+        396.17999999999995,
+        29.88
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(A) Jaishri Laxmanrao Patil Chief Minister, 2021 SCC OnLine SC 362.",
+      "bbox": [
+        100.44,
+        34.92,
+        457.02,
+        45.9
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "v.",
+      "bbox": [
+        238.32,
+        37.98,
+        246.6,
+        43.379999999999995
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(B) Indra Sawhney v. Union of India, 1992 Supp (3) SCC 217.",
+      "bbox": [
+        100.44,
+        50.94,
+        402.84,
+        61.92
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "(C) M. Nagraj v. Union of India, (2006) 8 SCC 212.",
+      "bbox": [
+        100.44,
+        66.24,
+        352.62,
+        77.03999999999999
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "(D) Nisha Priya Bhatia Union of India, (2020) 13 SCC 56.",
+      "bbox": [
+        100.44,
+        82.08,
+        393.66,
+        93.06
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "v.",
+      "bbox": [
+        214.56,
+        85.14,
+        222.66,
+        90.72
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "CORRECT OPTION: D",
+      "bbox": [
+        72.53999999999999,
+        98.64,
+        197.45999999999998,
+        106.92
+      ]
+    }
+  ],
+  "text": "16. Which of the following judgments is not related to equality of opportunity in matters of\npublic employment as guaranteed by the Constitution of India?\n(A) Jaishri Laxmanrao Patil Chief Minister, 2021 SCC OnLine SC 362.\nv.\n(B) Indra Sawhney v. Union of India, 1992 Supp (3) SCC 217.\n(C) M. Nagraj v. Union of India, (2006) 8 SCC 212.\n(D) Nisha Priya Bhatia Union of India, (2020) 13 SCC 56.\nv.\nCORRECT OPTION: D",
+  "ocr_words": [
+    {
+      "text": "16.",
+      "x0": 73.44,
+      "top": 5.3999999999999995,
+      "x1": 84.96,
+      "bottom": 13.68,
+      "confidence": 87.024857,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Which",
+      "x0": 93.78,
+      "top": 5.22,
+      "x1": 125.64,
+      "bottom": 13.68,
+      "confidence": 87.024857,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 129.06,
+      "top": 5.22,
+      "x1": 140.04,
+      "bottom": 13.68,
+      "confidence": 96.859215,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 142.2,
+      "top": 5.22,
+      "x1": 156.23999999999998,
+      "bottom": 13.68,
+      "confidence": 95.608864,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 160.01999999999998,
+      "top": 5.22,
+      "x1": 207.35999999999999,
+      "bottom": 16.2,
+      "confidence": 96.217567,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "judgments",
+      "x0": 209.88,
+      "top": 5.22,
+      "x1": 260.46,
+      "bottom": 16.2,
+      "confidence": 96.193703,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 264.24,
+      "top": 5.22,
+      "x1": 271.44,
+      "bottom": 13.68,
+      "confidence": 96.180077,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "not",
+      "x0": 275.03999999999996,
+      "top": 6.4799999999999995,
+      "x1": 290.7,
+      "bottom": 13.68,
+      "confidence": 96.679779,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "related",
+      "x0": 294.3,
+      "top": 5.22,
+      "x1": 326.7,
+      "bottom": 13.68,
+      "confidence": 96.679779,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 329.94,
+      "top": 6.4799999999999995,
+      "x1": 338.58,
+      "bottom": 13.68,
+      "confidence": 96.377258,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "equality",
+      "x0": 342.53999999999996,
+      "top": 5.22,
+      "x1": 380.69999999999993,
+      "bottom": 16.2,
+      "confidence": 96.403145,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 383.94,
+      "top": 5.22,
+      "x1": 395.1,
+      "bottom": 13.68,
+      "confidence": 96.333298,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "opportunity",
+      "x0": 397.44,
+      "top": 5.22,
+      "x1": 454.5,
+      "bottom": 16.2,
+      "confidence": 96.748108,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 458.46,
+      "top": 5.22,
+      "x1": 467.28,
+      "bottom": 13.5,
+      "confidence": 96.439148,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "matters",
+      "x0": 470.52,
+      "top": 6.4799999999999995,
+      "x1": 505.26,
+      "bottom": 13.68,
+      "confidence": 95.45816,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 509.03999999999996,
+      "top": 5.22,
+      "x1": 519.66,
+      "bottom": 13.68,
+      "confidence": 96.362564,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "public",
+      "x0": 93.6,
+      "top": 18.9,
+      "x1": 123.83999999999999,
+      "bottom": 29.88,
+      "confidence": 96.664528,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "employment",
+      "x0": 127.44,
+      "top": 18.9,
+      "x1": 187.92,
+      "bottom": 29.88,
+      "confidence": 95.901596,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "as",
+      "x0": 190.98,
+      "top": 21.779999999999998,
+      "x1": 200.16,
+      "bottom": 27.36,
+      "confidence": 95.208,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "guaranteed",
+      "x0": 203.76,
+      "top": 18.9,
+      "x1": 256.68,
+      "bottom": 29.88,
+      "confidence": 95.89711,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "by",
+      "x0": 259.02,
+      "top": 18.9,
+      "x1": 271.26,
+      "bottom": 29.88,
+      "confidence": 95.89711,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 274.14,
+      "top": 18.9,
+      "x1": 288.36,
+      "bottom": 27.36,
+      "confidence": 96.46228,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Constitution",
+      "x0": 291.78,
+      "top": 18.9,
+      "x1": 350.82,
+      "bottom": 27.36,
+      "confidence": 96.331726,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 354.06,
+      "top": 18.9,
+      "x1": 365.04,
+      "bottom": 27.36,
+      "confidence": 96.613304,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "India?",
+      "x0": 366.65999999999997,
+      "top": 18.9,
+      "x1": 396.17999999999995,
+      "bottom": 27.36,
+      "confidence": 96.642143,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(A)",
+      "x0": 100.44,
+      "top": 35.1,
+      "x1": 113.39999999999999,
+      "bottom": 45.9,
+      "confidence": 92.983971,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Jaishri",
+      "x0": 122.03999999999999,
+      "top": 34.92,
+      "x1": 152.82,
+      "bottom": 43.56,
+      "confidence": 90.855255,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Laxmanrao",
+      "x0": 155.7,
+      "top": 35.28,
+      "x1": 210.42,
+      "bottom": 43.38,
+      "confidence": 91.362129,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Patil",
+      "x0": 214.2,
+      "top": 34.92,
+      "x1": 235.61999999999998,
+      "bottom": 43.38,
+      "confidence": 92.544273,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "v.",
+      "x0": 238.32,
+      "top": 37.98,
+      "x1": 246.6,
+      "bottom": 43.379999999999995,
+      "confidence": 92.544273,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Chief",
+      "x0": 250.56,
+      "top": 34.92,
+      "x1": 278.64,
+      "bottom": 43.56,
+      "confidence": 95.936783,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Minister,",
+      "x0": 280.97999999999996,
+      "top": 34.92,
+      "x1": 323.81999999999994,
+      "bottom": 45.18,
+      "confidence": 96.238113,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2021",
+      "x0": 327.42,
+      "top": 35.1,
+      "x1": 350.28000000000003,
+      "bottom": 43.38,
+      "confidence": 95.926414,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "SCC",
+      "x0": 355.68,
+      "top": 35.1,
+      "x1": 377.28000000000003,
+      "bottom": 43.56,
+      "confidence": 95.926414,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "OnLine",
+      "x0": 380.52,
+      "top": 34.92,
+      "x1": 416.15999999999997,
+      "bottom": 43.56,
+      "confidence": 96.183937,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "SC",
+      "x0": 419.94,
+      "top": 35.1,
+      "x1": 433.44,
+      "bottom": 43.56,
+      "confidence": 96.322334,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "362.",
+      "x0": 436.68,
+      "top": 35.1,
+      "x1": 457.02,
+      "bottom": 43.38,
+      "confidence": 96.710274,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(B)",
+      "x0": 100.44,
+      "top": 50.94,
+      "x1": 112.86,
+      "bottom": 61.739999999999995,
+      "confidence": 92.311775,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Indra",
+      "x0": 122.03999999999999,
+      "top": 50.94,
+      "x1": 147.23999999999998,
+      "bottom": 59.4,
+      "confidence": 96.749382,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Sawhney",
+      "x0": 150.84,
+      "top": 50.94,
+      "x1": 194.76,
+      "bottom": 61.92,
+      "confidence": 93.297676,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "v.",
+      "x0": 197.64,
+      "top": 53.82,
+      "x1": 205.92,
+      "bottom": 59.4,
+      "confidence": 88.688629,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Union",
+      "x0": 209.51999999999998,
+      "top": 50.94,
+      "x1": 239.93999999999997,
+      "bottom": 59.4,
+      "confidence": 96.834259,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 243.17999999999998,
+      "top": 50.94,
+      "x1": 254.15999999999997,
+      "bottom": 59.4,
+      "confidence": 95.158638,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "India,",
+      "x0": 255.95999999999998,
+      "top": 50.94,
+      "x1": 282.59999999999997,
+      "bottom": 61.199999999999996,
+      "confidence": 94.98999,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1992",
+      "x0": 287.09999999999997,
+      "top": 51.12,
+      "x1": 309.05999999999995,
+      "bottom": 59.4,
+      "confidence": 95.898422,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Supp",
+      "x0": 313.2,
+      "top": 51.12,
+      "x1": 336.78,
+      "bottom": 61.919999999999995,
+      "confidence": 96.235016,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(3)",
+      "x0": 340.38,
+      "top": 50.94,
+      "x1": 353.7,
+      "bottom": 61.739999999999995,
+      "confidence": 96.835587,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "SCC",
+      "x0": 357.3,
+      "top": 51.12,
+      "x1": 379.08,
+      "bottom": 59.4,
+      "confidence": 94.734398,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "217.",
+      "x0": 382.14,
+      "top": 51.12,
+      "x1": 402.84,
+      "bottom": 59.4,
+      "confidence": 94.734398,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(C)",
+      "x0": 100.44,
+      "top": 66.24,
+      "x1": 112.86,
+      "bottom": 77.03999999999999,
+      "confidence": 92.471214,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "M.",
+      "x0": 121.86,
+      "top": 66.6,
+      "x1": 134.46,
+      "bottom": 74.69999999999999,
+      "confidence": 91.377121,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Nagraj",
+      "x0": 138.42,
+      "top": 66.24,
+      "x1": 169.92,
+      "bottom": 77.03999999999999,
+      "confidence": 88.184372,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "v.",
+      "x0": 173.34,
+      "top": 69.12,
+      "x1": 181.62,
+      "bottom": 74.7,
+      "confidence": 92.700684,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Union",
+      "x0": 185.22,
+      "top": 66.24,
+      "x1": 215.46,
+      "bottom": 74.69999999999999,
+      "confidence": 95.19912,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 218.88,
+      "top": 66.24,
+      "x1": 229.85999999999999,
+      "bottom": 74.69999999999999,
+      "confidence": 96.84996,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "India,",
+      "x0": 232.2,
+      "top": 66.24,
+      "x1": 259.38,
+      "bottom": 76.5,
+      "confidence": 96.351906,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(2006)",
+      "x0": 263.15999999999997,
+      "top": 66.24,
+      "x1": 294.84,
+      "bottom": 77.03999999999999,
+      "confidence": 96.526382,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "8",
+      "x0": 298.44,
+      "top": 66.42,
+      "x1": 303.12,
+      "bottom": 74.7,
+      "confidence": 96.829277,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "SCC",
+      "x0": 307.26,
+      "top": 66.42,
+      "x1": 328.86,
+      "bottom": 74.7,
+      "confidence": 94.061447,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "212.",
+      "x0": 331.92,
+      "top": 66.42,
+      "x1": 352.62,
+      "bottom": 74.7,
+      "confidence": 94.981537,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(D)",
+      "x0": 100.44,
+      "top": 82.25999999999999,
+      "x1": 113.39999999999999,
+      "bottom": 93.05999999999999,
+      "confidence": 90.360748,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Nisha",
+      "x0": 121.5,
+      "top": 82.08,
+      "x1": 149.76,
+      "bottom": 90.72,
+      "confidence": 96.225891,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Priya",
+      "x0": 152.46,
+      "top": 82.08,
+      "x1": 177.48000000000002,
+      "bottom": 93.06,
+      "confidence": 96.359383,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Bhatia",
+      "x0": 180.72,
+      "top": 82.08,
+      "x1": 211.68,
+      "bottom": 90.53999999999999,
+      "confidence": 93.260788,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "v.",
+      "x0": 214.56,
+      "top": 85.14,
+      "x1": 222.66,
+      "bottom": 90.72,
+      "confidence": 93.204697,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Union",
+      "x0": 226.44,
+      "top": 82.08,
+      "x1": 256.68,
+      "bottom": 90.72,
+      "confidence": 96.272507,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "of",
+      "x0": 260.09999999999997,
+      "top": 82.08,
+      "x1": 271.08,
+      "bottom": 90.72,
+      "confidence": 96.677528,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "India,",
+      "x0": 273.59999999999997,
+      "top": 82.08,
+      "x1": 300.41999999999996,
+      "bottom": 92.52,
+      "confidence": 95.617874,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(2020)",
+      "x0": 304.38,
+      "top": 82.25999999999999,
+      "x1": 335.88,
+      "bottom": 93.05999999999999,
+      "confidence": 95.842361,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "13",
+      "x0": 340.38,
+      "top": 82.44,
+      "x1": 350.1,
+      "bottom": 90.53999999999999,
+      "confidence": 95.858032,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "SCC",
+      "x0": 354.78,
+      "top": 82.25999999999999,
+      "x1": 376.2,
+      "bottom": 90.71999999999998,
+      "confidence": 96.565941,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "56.",
+      "x0": 379.8,
+      "top": 82.44,
+      "x1": 393.66,
+      "bottom": 90.72,
+      "confidence": 96.740875,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "CORRECT",
+      "x0": 72.53999999999999,
+      "top": 98.64,
+      "x1": 131.57999999999998,
+      "bottom": 106.92,
+      "confidence": 95.734375,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "OPTION:",
+      "x0": 135.54,
+      "top": 98.82,
+      "x1": 181.98,
+      "bottom": 106.91999999999999,
+      "confidence": 92.120361,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "D",
+      "x0": 189.54,
+      "top": 98.82,
+      "x1": 197.45999999999998,
+      "bottom": 106.74,
+      "confidence": 92.120361,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

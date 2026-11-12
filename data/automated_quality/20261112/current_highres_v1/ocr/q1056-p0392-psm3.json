@@ -1,0 +1,723 @@
+{
+  "pdf_page": 392,
+  "crop_top": 422.08135999999996,
+  "crop_bottom": 522.96136,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0392:l0025:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.12 'A' supplies to the dependent wife and children of a lunatic 'B', necessities suitable to their needs and conditions of life. 'A' is:",
+      "bbox": [
+        41.903999999999996,
+        4.4639999999999995,
+        451.72799999999995,
+        10.799999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "asf",
+      "bbox": [
+        43.343999999999994,
+        14.975999999999999,
+        87.55199999999999,
+        28.368
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "1. entitled to reimbursement from B's property.",
+      "bbox": [
+        88.55999999999999,
+        25.776,
+        232.99199999999996,
+        32.256
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "rd",
+      "bbox": [
+        73.008,
+        37.151999999999994,
+        86.544,
+        49.535999999999994
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "2. entitled to partial reimbursement only.",
+      "bbox": [
+        88.27199999999999,
+        47.232,
+        213.83999999999997,
+        53.568
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "x",
+      "bbox": [
+        73.008,
+        58.464,
+        86.544,
+        70.99199999999999
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "3. not entitled to any reimbursement.",
+      "bbox": [
+        88.27199999999999,
+        68.544,
+        202.464,
+        74.88
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "rd",
+      "bbox": [
+        73.008,
+        79.91999999999999,
+        86.544,
+        92.30399999999999
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "4. entitled to reimbursement at the discretion of 'B'.",
+      "bbox": [
+        88.128,
+        89.856,
+        246.384,
+        95.03999999999999
+      ]
+    }
+  ],
+  "text": "Q.12 'A' supplies to the dependent wife and children of a lunatic 'B', necessities suitable to their needs and conditions of life. 'A' is:\nasf\n1. entitled to reimbursement from B's property.\nrd\n2. entitled to partial reimbursement only.\nx\n3. not entitled to any reimbursement.\nrd\n4. entitled to reimbursement at the discretion of 'B'.",
+  "ocr_words": [
+    {
+      "text": "Q.12",
+      "x0": 41.903999999999996,
+      "top": 4.752,
+      "x1": 56.01599999999999,
+      "bottom": 10.367999999999999,
+      "confidence": 74.303055,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "'A'",
+      "x0": 62.78399999999999,
+      "top": 4.4639999999999995,
+      "x1": 69.984,
+      "bottom": 9.504,
+      "confidence": 69.31424,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "supplies",
+      "x0": 72.43199999999999,
+      "top": 4.4639999999999995,
+      "x1": 97.48799999999999,
+      "bottom": 10.799999999999999,
+      "confidence": 94.86319,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 99.50399999999999,
+      "top": 5.183999999999999,
+      "x1": 105.69599999999998,
+      "bottom": 9.648,
+      "confidence": 96.526825,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 107.71199999999999,
+      "top": 4.4639999999999995,
+      "x1": 117.79199999999999,
+      "bottom": 9.648,
+      "confidence": 96.634102,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "dependent",
+      "x0": 120.09599999999999,
+      "top": 4.4639999999999995,
+      "x1": 153.648,
+      "bottom": 10.799999999999999,
+      "confidence": 96.215034,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "wife",
+      "x0": 155.664,
+      "top": 4.4639999999999995,
+      "x1": 168.76799999999997,
+      "bottom": 9.648,
+      "confidence": 96.848389,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 171.07199999999997,
+      "top": 4.4639999999999995,
+      "x1": 182.15999999999997,
+      "bottom": 9.648,
+      "confidence": 96.862816,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "children",
+      "x0": 184.60799999999998,
+      "top": 4.4639999999999995,
+      "x1": 209.23199999999997,
+      "bottom": 9.648,
+      "confidence": 95.514297,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 211.53599999999997,
+      "top": 4.4639999999999995,
+      "x1": 217.72799999999998,
+      "bottom": 9.648,
+      "confidence": 95.380005,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 219.74399999999997,
+      "top": 5.904,
+      "x1": 222.62399999999997,
+      "bottom": 9.648,
+      "confidence": 95.380005,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "lunatic",
+      "x0": 225.35999999999999,
+      "top": 4.4639999999999995,
+      "x1": 245.808,
+      "bottom": 9.648,
+      "confidence": 92.924179,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "'B',",
+      "x0": 248.112,
+      "top": 4.4639999999999995,
+      "x1": 256.896,
+      "bottom": 10.511999999999999,
+      "confidence": 81.985886,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "necessities",
+      "x0": 259.488,
+      "top": 4.608,
+      "x1": 292.464,
+      "bottom": 9.648,
+      "confidence": 96.103302,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "suitable",
+      "x0": 294.768,
+      "top": 4.4639999999999995,
+      "x1": 318.96,
+      "bottom": 9.648,
+      "confidence": 96.813072,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 320.976,
+      "top": 5.183999999999999,
+      "x1": 327.312,
+      "bottom": 9.648,
+      "confidence": 96.846046,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "their",
+      "x0": 329.328,
+      "top": 4.4639999999999995,
+      "x1": 344.01599999999996,
+      "bottom": 9.648,
+      "confidence": 96.605347,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "needs",
+      "x0": 346.32,
+      "top": 4.4639999999999995,
+      "x1": 364.176,
+      "bottom": 9.648,
+      "confidence": 96.492043,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 366.47999999999996,
+      "top": 4.4639999999999995,
+      "x1": 377.424,
+      "bottom": 9.648,
+      "confidence": 96.675117,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "conditions",
+      "x0": 379.87199999999996,
+      "top": 4.4639999999999995,
+      "x1": 411.9839999999999,
+      "bottom": 9.648,
+      "confidence": 95.988396,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 414.14399999999995,
+      "top": 4.4639999999999995,
+      "x1": 420.33599999999996,
+      "bottom": 9.648,
+      "confidence": 95.988396,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "life.",
+      "x0": 422.496,
+      "top": 4.4639999999999995,
+      "x1": 433.296,
+      "bottom": 9.648,
+      "confidence": 93.210716,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "'A'",
+      "x0": 436.032,
+      "top": 4.4639999999999995,
+      "x1": 443.08799999999997,
+      "bottom": 9.504,
+      "confidence": 30.947014,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is:",
+      "x0": 445.67999999999995,
+      "top": 4.608,
+      "x1": 451.72799999999995,
+      "bottom": 9.648,
+      "confidence": 97.01088,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "asf",
+      "x0": 43.343999999999994,
+      "top": 14.975999999999999,
+      "x1": 87.55199999999999,
+      "bottom": 28.368,
+      "confidence": 51.747303,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "rd",
+      "x0": 73.008,
+      "top": 37.151999999999994,
+      "x1": 86.544,
+      "bottom": 49.535999999999994,
+      "confidence": 44.018555,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "x",
+      "x0": 73.008,
+      "top": 58.464,
+      "x1": 86.544,
+      "bottom": 70.99199999999999,
+      "confidence": 75.283707,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "rd",
+      "x0": 73.008,
+      "top": 79.91999999999999,
+      "x1": 86.544,
+      "bottom": 92.30399999999999,
+      "confidence": 44.018555,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "1.",
+      "x0": 88.55999999999999,
+      "top": 26.208,
+      "x1": 93.02399999999999,
+      "bottom": 30.959999999999997,
+      "confidence": 96.575233,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "entitled",
+      "x0": 95.616,
+      "top": 25.776,
+      "x1": 118.512,
+      "bottom": 30.96,
+      "confidence": 96.63147,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 120.96,
+      "top": 26.496,
+      "x1": 126.86399999999999,
+      "bottom": 30.959999999999997,
+      "confidence": 96.394958,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "reimbursement",
+      "x0": 129.456,
+      "top": 25.776,
+      "x1": 176.112,
+      "bottom": 30.96,
+      "confidence": 96.527351,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "from",
+      "x0": 178.128,
+      "top": 25.776,
+      "x1": 192.384,
+      "bottom": 30.96,
+      "confidence": 96.157021,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "B's",
+      "x0": 195.26399999999998,
+      "top": 25.776,
+      "x1": 202.896,
+      "bottom": 30.96,
+      "confidence": 95.812531,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "property.",
+      "x0": 205.48799999999997,
+      "top": 26.496,
+      "x1": 232.99199999999996,
+      "bottom": 32.256,
+      "confidence": 96.54142,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2.",
+      "x0": 88.27199999999999,
+      "top": 47.519999999999996,
+      "x1": 93.02399999999999,
+      "bottom": 52.272,
+      "confidence": 96.063629,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "entitled",
+      "x0": 95.616,
+      "top": 47.232,
+      "x1": 118.512,
+      "bottom": 52.272,
+      "confidence": 96.493507,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "to",
+      "x0": 120.96,
+      "top": 47.952,
+      "x1": 126.86399999999999,
+      "bottom": 52.272,
+      "confidence": 96.821732,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "partial",
+      "x0": 129.456,
+      "top": 47.232,
+      "x1": 148.176,
+      "bottom": 53.568,
+      "confidence": 96.495964,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "reimbursement",
+      "x0": 150.91199999999998,
+      "top": 47.232,
+      "x1": 197.56799999999998,
+      "bottom": 52.272,
+      "confidence": 96.273651,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "only.",
+      "x0": 199.72799999999998,
+      "top": 47.232,
+      "x1": 213.83999999999997,
+      "bottom": 53.568,
+      "confidence": 94.969528,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "3.",
+      "x0": 88.27199999999999,
+      "top": 68.832,
+      "x1": 93.02399999999999,
+      "bottom": 73.728,
+      "confidence": 95.529724,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "not",
+      "x0": 95.904,
+      "top": 69.264,
+      "x1": 105.408,
+      "bottom": 73.728,
+      "confidence": 96.627914,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "entitled",
+      "x0": 107.71199999999999,
+      "top": 68.544,
+      "x1": 130.60799999999998,
+      "bottom": 73.728,
+      "confidence": 95.438309,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "to",
+      "x0": 133.05599999999998,
+      "top": 69.264,
+      "x1": 139.10399999999998,
+      "bottom": 73.728,
+      "confidence": 95.438309,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "any",
+      "x0": 141.408,
+      "top": 70.128,
+      "x1": 151.77599999999998,
+      "bottom": 74.88,
+      "confidence": 96.981316,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "reimbursement.",
+      "x0": 154.224,
+      "top": 68.544,
+      "x1": 202.464,
+      "bottom": 73.728,
+      "confidence": 96.27581,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "4.",
+      "x0": 88.128,
+      "top": 90.288,
+      "x1": 93.024,
+      "bottom": 95.03999999999999,
+      "confidence": 92.262283,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "entitled",
+      "x0": 95.616,
+      "top": 89.856,
+      "x1": 118.512,
+      "bottom": 95.03999999999999,
+      "confidence": 95.930962,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 120.96,
+      "top": 90.576,
+      "x1": 126.86399999999999,
+      "bottom": 95.03999999999999,
+      "confidence": 96.18679,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "reimbursement",
+      "x0": 129.456,
+      "top": 89.856,
+      "x1": 176.112,
+      "bottom": 95.03999999999999,
+      "confidence": 96.18679,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "at",
+      "x0": 178.416,
+      "top": 90.576,
+      "x1": 183.888,
+      "bottom": 95.03999999999999,
+      "confidence": 96.596428,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 186.04799999999997,
+      "top": 89.856,
+      "x1": 195.69599999999997,
+      "bottom": 95.03999999999999,
+      "confidence": 96.596428,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "discretion",
+      "x0": 198.14399999999998,
+      "top": 89.856,
+      "x1": 227.37599999999998,
+      "bottom": 95.03999999999999,
+      "confidence": 96.48027,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 229.968,
+      "top": 89.856,
+      "x1": 236.016,
+      "bottom": 95.03999999999999,
+      "confidence": 93.152481,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "'B'.",
+      "x0": 238.176,
+      "top": 89.856,
+      "x1": 246.384,
+      "bottom": 95.03999999999999,
+      "confidence": 86.433807,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

@@ -1,0 +1,733 @@
+{
+  "pdf_page": 399,
+  "crop_top": 233.20136000000002,
+  "crop_bottom": 334.08136,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0399:l0013:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.49 Which one of the following is not an essential element of the defence of fair comment in tort of defamation?",
+      "bbox": [
+        41.903999999999996,
+        4.4639999999999995,
+        400.89599999999996,
+        10.799999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "\"4",
+      "bbox": [
+        73.728,
+        14.399999999999999,
+        87.696,
+        28.943999999999996
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "Ans",
+      "bbox": [
+        43.343999999999994,
+        17.567999999999998,
+        54.57599999999999,
+        22.319999999999997
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "1. The comment must be an assertion of fact.",
+      "bbox": [
+        88.55999999999999,
+        25.776,
+        225.504,
+        30.96
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "x",
+      "bbox": [
+        73.008,
+        37.151999999999994,
+        86.544,
+        49.67999999999999
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "2. The comment must be fair.",
+      "bbox": [
+        88.27199999999999,
+        47.232,
+        177.26399999999998,
+        52.272
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "x,",
+      "bbox": [
+        73.008,
+        58.608,
+        93.024,
+        73.728
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "The matter commented on must be of public interest.",
+      "bbox": [
+        95.32799999999999,
+        68.544,
+        258.768,
+        75.024
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "x,",
+      "bbox": [
+        73.008,
+        79.91999999999999,
+        92.88,
+        95.03999999999999
+      ]
+    },
+    {
+      "line_id": "l0009",
+      "text": "The comment must not be malicious.",
+      "bbox": [
+        95.32799999999999,
+        89.856,
+        207.93599999999998,
+        95.03999999999999
+      ]
+    }
+  ],
+  "text": "Q.49 Which one of the following is not an essential element of the defence of fair comment in tort of defamation?\n\"4\nAns\n1. The comment must be an assertion of fact.\nx\n2. The comment must be fair.\nx,\nThe matter commented on must be of public interest.\nx,\nThe comment must not be malicious.",
+  "ocr_words": [
+    {
+      "text": "Q.49",
+      "x0": 41.903999999999996,
+      "top": 4.752,
+      "x1": 56.01599999999999,
+      "bottom": 10.367999999999999,
+      "confidence": 92.515305,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Which",
+      "x0": 62.495999999999995,
+      "top": 4.4639999999999995,
+      "x1": 81.792,
+      "bottom": 9.648,
+      "confidence": 96.660507,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "one",
+      "x0": 84.24,
+      "top": 5.904,
+      "x1": 95.472,
+      "bottom": 9.648,
+      "confidence": 95.95166,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 97.63199999999999,
+      "top": 4.4639999999999995,
+      "x1": 103.82399999999998,
+      "bottom": 9.648,
+      "confidence": 96.597458,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 105.55199999999999,
+      "top": 4.4639999999999995,
+      "x1": 115.63199999999999,
+      "bottom": 9.648,
+      "confidence": 96.597458,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 117.648,
+      "top": 4.4639999999999995,
+      "x1": 146.59199999999998,
+      "bottom": 10.799999999999999,
+      "confidence": 96.082848,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 148.75199999999998,
+      "top": 4.608,
+      "x1": 153.07199999999997,
+      "bottom": 9.648,
+      "confidence": 96.657433,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "not",
+      "x0": 155.37599999999998,
+      "top": 5.183999999999999,
+      "x1": 165.456,
+      "bottom": 9.648,
+      "confidence": 96.657433,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "an",
+      "x0": 167.61599999999999,
+      "top": 5.904,
+      "x1": 174.528,
+      "bottom": 9.648,
+      "confidence": 96.361374,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "essential",
+      "x0": 176.976,
+      "top": 4.4639999999999995,
+      "x1": 203.76,
+      "bottom": 9.648,
+      "confidence": 95.844521,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "element",
+      "x0": 206.208,
+      "top": 4.4639999999999995,
+      "x1": 231.696,
+      "bottom": 9.648,
+      "confidence": 96.44989,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 233.856,
+      "top": 4.4639999999999995,
+      "x1": 240.048,
+      "bottom": 9.648,
+      "confidence": 96.760582,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 241.77599999999998,
+      "top": 4.4639999999999995,
+      "x1": 251.712,
+      "bottom": 9.648,
+      "confidence": 96.857346,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "defence",
+      "x0": 254.016,
+      "top": 4.4639999999999995,
+      "x1": 278.352,
+      "bottom": 9.648,
+      "confidence": 96.504311,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 280.656,
+      "top": 4.4639999999999995,
+      "x1": 286.848,
+      "bottom": 9.648,
+      "confidence": 96.519867,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "fair",
+      "x0": 288.57599999999996,
+      "top": 4.4639999999999995,
+      "x1": 298.94399999999996,
+      "bottom": 9.648,
+      "confidence": 96.253754,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "comment",
+      "x0": 300.96,
+      "top": 5.183999999999999,
+      "x1": 330.33599999999996,
+      "bottom": 9.648,
+      "confidence": 96.480713,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 332.64,
+      "top": 4.608,
+      "x1": 337.68,
+      "bottom": 9.504,
+      "confidence": 96.641022,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "tort",
+      "x0": 339.84,
+      "top": 5.183999999999999,
+      "x1": 351.50399999999996,
+      "bottom": 9.648,
+      "confidence": 95.704132,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 353.664,
+      "top": 4.4639999999999995,
+      "x1": 359.856,
+      "bottom": 9.648,
+      "confidence": 96.346619,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "defamation?",
+      "x0": 361.72799999999995,
+      "top": 4.4639999999999995,
+      "x1": 400.89599999999996,
+      "bottom": 9.648,
+      "confidence": 96.338928,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.343999999999994,
+      "top": 17.567999999999998,
+      "x1": 54.57599999999999,
+      "bottom": 22.319999999999997,
+      "confidence": 96.087769,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "\"4",
+      "x0": 73.728,
+      "top": 14.399999999999999,
+      "x1": 87.696,
+      "bottom": 28.943999999999996,
+      "confidence": 15.017235,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 88.55999999999999,
+      "top": 26.208,
+      "x1": 93.02399999999999,
+      "bottom": 30.959999999999997,
+      "confidence": 95.289185,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "The",
+      "x0": 95.32799999999999,
+      "top": 25.776,
+      "x1": 106.27199999999999,
+      "bottom": 30.96,
+      "confidence": 96.719002,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "comment",
+      "x0": 108.576,
+      "top": 26.496,
+      "x1": 137.37599999999998,
+      "bottom": 30.959999999999997,
+      "confidence": 96.442421,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "must",
+      "x0": 139.82399999999998,
+      "top": 26.496,
+      "x1": 154.368,
+      "bottom": 30.959999999999997,
+      "confidence": 96.483795,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "be",
+      "x0": 156.95999999999998,
+      "top": 25.776,
+      "x1": 163.72799999999998,
+      "bottom": 30.96,
+      "confidence": 96.23867,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "an",
+      "x0": 166.03199999999998,
+      "top": 27.36,
+      "x1": 172.65599999999998,
+      "bottom": 30.96,
+      "confidence": 96.23867,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "assertion",
+      "x0": 175.248,
+      "top": 26.063999999999997,
+      "x1": 202.32,
+      "bottom": 30.959999999999997,
+      "confidence": 95.335663,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 204.91199999999998,
+      "top": 25.776,
+      "x1": 210.95999999999998,
+      "bottom": 30.96,
+      "confidence": 97.000587,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "fact.",
+      "x0": 212.688,
+      "top": 25.776,
+      "x1": 225.504,
+      "bottom": 30.96,
+      "confidence": 96.242058,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "x",
+      "x0": 73.008,
+      "top": 37.151999999999994,
+      "x1": 86.544,
+      "bottom": 49.67999999999999,
+      "confidence": 75.283707,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "2.",
+      "x0": 88.27199999999999,
+      "top": 47.519999999999996,
+      "x1": 93.02399999999999,
+      "bottom": 52.272,
+      "confidence": 96.816391,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "The",
+      "x0": 95.32799999999999,
+      "top": 47.232,
+      "x1": 106.27199999999999,
+      "bottom": 52.272,
+      "confidence": 96.17276,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "comment",
+      "x0": 108.576,
+      "top": 47.952,
+      "x1": 137.37599999999998,
+      "bottom": 52.272,
+      "confidence": 96.349319,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "must",
+      "x0": 139.82399999999998,
+      "top": 47.952,
+      "x1": 154.368,
+      "bottom": 52.272,
+      "confidence": 96.211182,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "be",
+      "x0": 156.95999999999998,
+      "top": 47.232,
+      "x1": 163.72799999999998,
+      "bottom": 52.272,
+      "confidence": 96.211182,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "fair.",
+      "x0": 165.88799999999998,
+      "top": 47.232,
+      "x1": 177.26399999999998,
+      "bottom": 52.272,
+      "confidence": 96.411339,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "x,",
+      "x0": 73.008,
+      "top": 58.608,
+      "x1": 93.024,
+      "bottom": 73.728,
+      "confidence": 58.215164,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "The",
+      "x0": 95.32799999999999,
+      "top": 68.544,
+      "x1": 106.27199999999999,
+      "bottom": 73.728,
+      "confidence": 96.848846,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "matter",
+      "x0": 108.86399999999999,
+      "top": 69.264,
+      "x1": 129.16799999999998,
+      "bottom": 73.728,
+      "confidence": 96.216759,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "commented",
+      "x0": 131.328,
+      "top": 68.544,
+      "x1": 167.328,
+      "bottom": 73.728,
+      "confidence": 96.216759,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "on",
+      "x0": 169.92,
+      "top": 70.128,
+      "x1": 176.976,
+      "bottom": 73.728,
+      "confidence": 96.240982,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "must",
+      "x0": 179.712,
+      "top": 69.264,
+      "x1": 194.39999999999998,
+      "bottom": 73.728,
+      "confidence": 96.240982,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "be",
+      "x0": 196.84799999999998,
+      "top": 68.544,
+      "x1": 203.61599999999999,
+      "bottom": 73.728,
+      "confidence": 96.600632,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "of",
+      "x0": 206.064,
+      "top": 68.544,
+      "x1": 211.968,
+      "bottom": 73.728,
+      "confidence": 96.783241,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "public",
+      "x0": 214.128,
+      "top": 68.544,
+      "x1": 231.83999999999997,
+      "bottom": 75.024,
+      "confidence": 96.510315,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "interest.",
+      "x0": 234.28799999999998,
+      "top": 68.832,
+      "x1": 258.768,
+      "bottom": 73.728,
+      "confidence": 96.145081,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "x,",
+      "x0": 73.008,
+      "top": 79.91999999999999,
+      "x1": 92.88,
+      "bottom": 95.03999999999999,
+      "confidence": 35.731209,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "The",
+      "x0": 95.32799999999999,
+      "top": 89.856,
+      "x1": 106.27199999999999,
+      "bottom": 95.03999999999999,
+      "confidence": 96.440887,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "comment",
+      "x0": 108.576,
+      "top": 90.576,
+      "x1": 137.37599999999998,
+      "bottom": 95.03999999999999,
+      "confidence": 95.848999,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "must",
+      "x0": 139.82399999999998,
+      "top": 90.576,
+      "x1": 154.368,
+      "bottom": 95.03999999999999,
+      "confidence": 96.076035,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "not",
+      "x0": 156.95999999999998,
+      "top": 90.576,
+      "x1": 166.60799999999998,
+      "bottom": 95.03999999999999,
+      "confidence": 96.141403,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "be",
+      "x0": 169.05599999999998,
+      "top": 89.856,
+      "x1": 175.82399999999998,
+      "bottom": 95.03999999999999,
+      "confidence": 96.11338,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "malicious.",
+      "x0": 178.416,
+      "top": 89.856,
+      "x1": 207.93599999999998,
+      "bottom": 95.03999999999999,
+      "confidence": 96.11338,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

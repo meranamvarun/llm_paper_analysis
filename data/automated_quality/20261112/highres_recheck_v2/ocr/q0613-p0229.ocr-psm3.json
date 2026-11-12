@@ -1,0 +1,517 @@
+{
+  "pdf_page": 229,
+  "crop_top": 656.7719999999999,
+  "crop_bottom": 756.232,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0229:l0039:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "7. Which of the following statements regarding human liberty is untrue?",
+      "bbox": [
+        72.53999999999999,
+        5.22,
+        427.14,
+        16.2
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "(A) Liberty is a precious constitutional right.",
+      "bbox": [
+        100.44,
+        21.24,
+        315.90000000000003,
+        32.04
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(B) Liberty is a limited fundamental right.",
+      "bbox": [
+        100.44,
+        36.36,
+        305.1,
+        47.34
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(C) Liberty is a fragile concept.",
+      "bbox": [
+        100.44,
+        52.559999999999995,
+        253.98,
+        63.36
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(D) Liberty is an infrangible concept.",
+      "bbox": [
+        100.44,
+        68.39999999999999,
+        281.88,
+        79.38
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "CORRECT OPTION: D",
+      "bbox": [
+        72.53999999999999,
+        84.78,
+        197.45999999999998,
+        93.24
+      ]
+    }
+  ],
+  "text": "7. Which of the following statements regarding human liberty is untrue?\n(A) Liberty is a precious constitutional right.\n(B) Liberty is a limited fundamental right.\n(C) Liberty is a fragile concept.\n(D) Liberty is an infrangible concept.\nCORRECT OPTION: D",
+  "ocr_words": [
+    {
+      "text": "7.",
+      "x0": 72.53999999999999,
+      "top": 5.58,
+      "x1": 79.55999999999999,
+      "bottom": 13.68,
+      "confidence": 57.529137,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Which",
+      "x0": 93.78,
+      "top": 5.22,
+      "x1": 125.64,
+      "bottom": 13.68,
+      "confidence": 57.529137,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 128.88,
+      "top": 5.22,
+      "x1": 139.85999999999999,
+      "bottom": 13.68,
+      "confidence": 96.353851,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 142.01999999999998,
+      "top": 5.22,
+      "x1": 156.23999999999998,
+      "bottom": 13.68,
+      "confidence": 96.956696,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 159.66,
+      "top": 5.22,
+      "x1": 206.82,
+      "bottom": 16.2,
+      "confidence": 95.745422,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "statements",
+      "x0": 209.88,
+      "top": 6.4799999999999995,
+      "x1": 259.56,
+      "bottom": 13.68,
+      "confidence": 96.581032,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "regarding",
+      "x0": 262.62,
+      "top": 5.22,
+      "x1": 308.16,
+      "bottom": 16.2,
+      "confidence": 96.204643,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "human",
+      "x0": 310.5,
+      "top": 5.22,
+      "x1": 343.98,
+      "bottom": 13.68,
+      "confidence": 95.619987,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "liberty",
+      "x0": 346.68,
+      "top": 5.22,
+      "x1": 377.64,
+      "bottom": 16.2,
+      "confidence": 95.619987,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 380.7,
+      "top": 5.22,
+      "x1": 387.9,
+      "bottom": 13.68,
+      "confidence": 85.390221,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "untrue?",
+      "x0": 390.96,
+      "top": 5.3999999999999995,
+      "x1": 427.14,
+      "bottom": 13.68,
+      "confidence": 96.073738,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 100.44,
+      "top": 21.24,
+      "x1": 113.39999999999999,
+      "bottom": 32.04,
+      "confidence": 93.08197,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Liberty",
+      "x0": 122.03999999999999,
+      "top": 21.24,
+      "x1": 156.95999999999998,
+      "bottom": 32.04,
+      "confidence": 96.191032,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "is",
+      "x0": 160.2,
+      "top": 21.24,
+      "x1": 167.39999999999998,
+      "bottom": 29.699999999999996,
+      "confidence": 96.191032,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "a",
+      "x0": 171.35999999999999,
+      "top": 23.939999999999998,
+      "x1": 176.21999999999997,
+      "bottom": 29.699999999999996,
+      "confidence": 96.910316,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "precious",
+      "x0": 179.28,
+      "top": 21.24,
+      "x1": 220.5,
+      "bottom": 32.04,
+      "confidence": 96.162239,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "constitutional",
+      "x0": 224.82,
+      "top": 21.24,
+      "x1": 289.62,
+      "bottom": 29.699999999999996,
+      "confidence": 96.730934,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "right.",
+      "x0": 291.24,
+      "top": 21.24,
+      "x1": 315.90000000000003,
+      "bottom": 32.04,
+      "confidence": 96.528671,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(B)",
+      "x0": 100.44,
+      "top": 36.54,
+      "x1": 112.86,
+      "bottom": 47.16,
+      "confidence": 91.337189,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Liberty",
+      "x0": 122.03999999999999,
+      "top": 36.36,
+      "x1": 156.95999999999998,
+      "bottom": 47.34,
+      "confidence": 96.354874,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "is",
+      "x0": 160.2,
+      "top": 36.36,
+      "x1": 167.39999999999998,
+      "bottom": 44.82,
+      "confidence": 96.413544,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "a",
+      "x0": 171.35999999999999,
+      "top": 39.24,
+      "x1": 176.21999999999997,
+      "bottom": 44.82,
+      "confidence": 96.661713,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "limited",
+      "x0": 179.64,
+      "top": 36.36,
+      "x1": 213.29999999999998,
+      "bottom": 44.82,
+      "confidence": 95.692635,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "fundamental",
+      "x0": 216.72,
+      "top": 36.36,
+      "x1": 278.1,
+      "bottom": 44.82,
+      "confidence": 96.530434,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "right.",
+      "x0": 280.44,
+      "top": 36.36,
+      "x1": 305.1,
+      "bottom": 47.34,
+      "confidence": 96.354897,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(C)",
+      "x0": 100.44,
+      "top": 52.559999999999995,
+      "x1": 112.86,
+      "bottom": 63.35999999999999,
+      "confidence": 91.794472,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Liberty",
+      "x0": 121.86,
+      "top": 52.559999999999995,
+      "x1": 156.96,
+      "bottom": 63.35999999999999,
+      "confidence": 95.746979,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "is",
+      "x0": 160.2,
+      "top": 52.559999999999995,
+      "x1": 167.39999999999998,
+      "bottom": 61.019999999999996,
+      "confidence": 96.383492,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "a",
+      "x0": 171.35999999999999,
+      "top": 55.26,
+      "x1": 176.21999999999997,
+      "bottom": 61.019999999999996,
+      "confidence": 96.878723,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "fragile",
+      "x0": 179.82,
+      "top": 52.559999999999995,
+      "x1": 210.23999999999998,
+      "bottom": 63.35999999999999,
+      "confidence": 96.213921,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "concept.",
+      "x0": 213.29999999999998,
+      "top": 53.64,
+      "x1": 253.98,
+      "bottom": 63.36,
+      "confidence": 96.847076,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(D)",
+      "x0": 100.44,
+      "top": 68.58,
+      "x1": 113.39999999999999,
+      "bottom": 79.38,
+      "confidence": 90.841393,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Liberty",
+      "x0": 122.03999999999999,
+      "top": 68.39999999999999,
+      "x1": 156.95999999999998,
+      "bottom": 79.38,
+      "confidence": 96.820351,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "is",
+      "x0": 160.2,
+      "top": 68.39999999999999,
+      "x1": 167.39999999999998,
+      "bottom": 77.03999999999999,
+      "confidence": 96.913567,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "an",
+      "x0": 171.35999999999999,
+      "top": 71.28,
+      "x1": 182.16,
+      "bottom": 76.86,
+      "confidence": 93.271286,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "infrangible",
+      "x0": 185.94,
+      "top": 68.39999999999999,
+      "x1": 238.85999999999999,
+      "bottom": 79.38,
+      "confidence": 92.066193,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "concept.",
+      "x0": 242.1,
+      "top": 69.66,
+      "x1": 281.88,
+      "bottom": 79.38,
+      "confidence": 96.149933,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "CORRECT",
+      "x0": 72.53999999999999,
+      "top": 84.78,
+      "x1": 131.57999999999998,
+      "bottom": 93.24,
+      "confidence": 95.77298,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "OPTION:",
+      "x0": 135.54,
+      "top": 84.96,
+      "x1": 185.22,
+      "bottom": 93.24,
+      "confidence": 92.61409,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "D",
+      "x0": 189.54,
+      "top": 84.96,
+      "x1": 197.45999999999998,
+      "bottom": 93.05999999999999,
+      "confidence": 92.483299,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

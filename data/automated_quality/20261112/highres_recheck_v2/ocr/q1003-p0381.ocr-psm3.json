@@ -1,0 +1,514 @@
+{
+  "pdf_page": 381,
+  "crop_top": 452.08135999999996,
+  "crop_bottom": 552.96136,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0381:l0028:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.2. Who defined ‘administration of justice’ as the ‘maintenance of right within a political community by means of the physical force of the State’?",
+      "bbox": [
+        43.739999999999995,
+        4.5,
+        503.09999999999997,
+        10.98
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "ms OK",
+      "bbox": [
+        43.379999999999995,
+        15.84,
+        86.75999999999999,
+        28.439999999999998
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "1. Duguit",
+      "bbox": [
+        88.56,
+        26.099999999999998,
+        115.38,
+        32.4
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "x",
+      "bbox": [
+        73.08,
+        37.26,
+        86.75999999999999,
+        49.68
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "2. Keeton",
+      "bbox": [
+        88.38,
+        47.339999999999996,
+        116.46,
+        52.379999999999995
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "x",
+      "bbox": [
+        73.08,
+        58.5,
+        86.75999999999999,
+        71.1
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "3. Ihering",
+      "bbox": [
+        88.2,
+        68.58,
+        116.46,
+        75.06
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "v",
+      "bbox": [
+        73.8,
+        79.02,
+        87.66,
+        92.52
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "4. Salmond",
+      "bbox": [
+        88.02,
+        90.0,
+        121.32,
+        95.22
+      ]
+    }
+  ],
+  "text": "Q.2. Who defined ‘administration of justice’ as the ‘maintenance of right within a political community by means of the physical force of the State’?\nms OK\n1. Duguit\nx\n2. Keeton\nx\n3. Ihering\nv\n4. Salmond",
+  "ocr_words": [
+    {
+      "text": "Q.2.",
+      "x0": 43.739999999999995,
+      "top": 4.68,
+      "x1": 54.17999999999999,
+      "bottom": 10.44,
+      "confidence": 2.430771,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Who",
+      "x0": 62.64,
+      "top": 4.5,
+      "x1": 77.03999999999999,
+      "bottom": 9.719999999999999,
+      "confidence": 96.193893,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "defined",
+      "x0": 79.2,
+      "top": 4.5,
+      "x1": 102.24000000000001,
+      "bottom": 9.719999999999999,
+      "confidence": 96.261765,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "‘administration",
+      "x0": 104.94,
+      "top": 4.5,
+      "x1": 151.74,
+      "bottom": 9.719999999999999,
+      "confidence": 73.429077,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 154.07999999999998,
+      "top": 4.5,
+      "x1": 159.29999999999998,
+      "bottom": 9.719999999999999,
+      "confidence": 96.839584,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "justice’",
+      "x0": 161.82,
+      "top": 4.5,
+      "x1": 183.6,
+      "bottom": 10.98,
+      "confidence": 34.153366,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "as",
+      "x0": 185.94,
+      "top": 5.9399999999999995,
+      "x1": 192.24,
+      "bottom": 9.719999999999999,
+      "confidence": 96.362503,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 194.22,
+      "top": 4.5,
+      "x1": 204.3,
+      "bottom": 9.719999999999999,
+      "confidence": 96.416107,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "‘maintenance",
+      "x0": 206.64,
+      "top": 4.5,
+      "x1": 248.39999999999998,
+      "bottom": 9.719999999999999,
+      "confidence": 34.608025,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 250.56,
+      "top": 4.5,
+      "x1": 256.86,
+      "bottom": 9.719999999999999,
+      "confidence": 96.743385,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "right",
+      "x0": 258.84,
+      "top": 4.5,
+      "x1": 273.05999999999995,
+      "bottom": 10.98,
+      "confidence": 96.6306,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "within",
+      "x0": 275.03999999999996,
+      "top": 4.5,
+      "x1": 294.29999999999995,
+      "bottom": 9.719999999999999,
+      "confidence": 96.597328,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 296.64,
+      "top": 5.9399999999999995,
+      "x1": 299.7,
+      "bottom": 9.719999999999999,
+      "confidence": 96.926697,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "political",
+      "x0": 302.21999999999997,
+      "top": 4.5,
+      "x1": 326.34,
+      "bottom": 10.98,
+      "confidence": 95.962341,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "community",
+      "x0": 328.68,
+      "top": 4.68,
+      "x1": 363.78000000000003,
+      "bottom": 10.98,
+      "confidence": 96.291618,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "by",
+      "x0": 365.94,
+      "top": 4.5,
+      "x1": 372.96,
+      "bottom": 10.98,
+      "confidence": 96.530548,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "means",
+      "x0": 375.3,
+      "top": 5.9399999999999995,
+      "x1": 395.1,
+      "bottom": 9.719999999999999,
+      "confidence": 96.571541,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 397.26,
+      "top": 4.5,
+      "x1": 403.56,
+      "bottom": 9.719999999999999,
+      "confidence": 96.571541,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 405.18,
+      "top": 4.5,
+      "x1": 415.26,
+      "bottom": 9.719999999999999,
+      "confidence": 96.589447,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "physical",
+      "x0": 417.78,
+      "top": 4.5,
+      "x1": 441.9,
+      "bottom": 10.98,
+      "confidence": 96.353523,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "force",
+      "x0": 444.24,
+      "top": 4.5,
+      "x1": 459.72,
+      "bottom": 9.719999999999999,
+      "confidence": 96.778877,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 462.06,
+      "top": 4.5,
+      "x1": 468.18,
+      "bottom": 9.719999999999999,
+      "confidence": 96.795784,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 469.97999999999996,
+      "top": 4.5,
+      "x1": 480.05999999999995,
+      "bottom": 9.719999999999999,
+      "confidence": 96.283081,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "State’?",
+      "x0": 482.21999999999997,
+      "top": 4.5,
+      "x1": 503.09999999999997,
+      "bottom": 9.719999999999999,
+      "confidence": 6.076569,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "ms",
+      "x0": 43.379999999999995,
+      "top": 17.64,
+      "x1": 54.53999999999999,
+      "bottom": 22.5,
+      "confidence": 34.770172,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "OK",
+      "x0": 73.08,
+      "top": 15.84,
+      "x1": 86.75999999999999,
+      "bottom": 28.439999999999998,
+      "confidence": 34.022644,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1.",
+      "x0": 88.56,
+      "top": 26.279999999999998,
+      "x1": 93.06,
+      "bottom": 30.959999999999997,
+      "confidence": 91.398331,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Duguit",
+      "x0": 95.94,
+      "top": 26.099999999999998,
+      "x1": 115.38,
+      "bottom": 32.4,
+      "confidence": 91.398331,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "x",
+      "x0": 73.08,
+      "top": 37.26,
+      "x1": 86.75999999999999,
+      "bottom": 49.68,
+      "confidence": 80.446167,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "x",
+      "x0": 73.08,
+      "top": 58.5,
+      "x1": 86.75999999999999,
+      "bottom": 71.1,
+      "confidence": 53.812408,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "v",
+      "x0": 73.8,
+      "top": 79.02,
+      "x1": 87.66,
+      "bottom": 92.52,
+      "confidence": 66.380661,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "2.",
+      "x0": 88.38,
+      "top": 47.339999999999996,
+      "x1": 93.06,
+      "bottom": 52.199999999999996,
+      "confidence": 96.166122,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Keeton",
+      "x0": 95.94,
+      "top": 47.519999999999996,
+      "x1": 116.46,
+      "bottom": 52.379999999999995,
+      "confidence": 96.166122,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "3.",
+      "x0": 88.2,
+      "top": 68.75999999999999,
+      "x1": 93.06,
+      "bottom": 73.8,
+      "confidence": 96.043304,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ihering",
+      "x0": 95.94,
+      "top": 68.58,
+      "x1": 116.46,
+      "bottom": 75.06,
+      "confidence": 94.131592,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "4.",
+      "x0": 88.02,
+      "top": 90.36,
+      "x1": 93.06,
+      "bottom": 95.03999999999999,
+      "confidence": 96.607719,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Salmond",
+      "x0": 95.58,
+      "top": 90.0,
+      "x1": 121.32,
+      "bottom": 95.22,
+      "confidence": 95.956795,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

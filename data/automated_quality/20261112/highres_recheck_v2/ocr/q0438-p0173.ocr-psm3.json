@@ -1,0 +1,897 @@
+{
+  "pdf_page": 173,
+  "crop_top": 561.908,
+  "crop_bottom": 700.5186,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0173:l0024:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "76. What reason did A Rajan give for selling his shares in the company about which",
+      "bbox": [
+        96.47999999999999,
+        4.68,
+        527.76,
+        14.94
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "he had UPSI?",
+      "bbox": [
+        117.17999999999999,
+        19.439999999999998,
+        186.65999999999997,
+        27.72
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(A) He expected huge rise in the share price of GIPL the disclosure of the",
+      "bbox": [
+        115.38,
+        38.16,
+        527.58,
+        48.599999999999994
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "a upon",
+      "bbox": [
+        201.78,
+        41.22,
+        421.92,
+        48.42
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "UPSI in his possession.",
+      "bbox": [
+        136.26,
+        53.1,
+        253.98,
+        63.18
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "(B) It was a compulsory requirement under the shareholders’ agreement",
+      "bbox": [
+        115.38,
+        71.82,
+        485.09999999999997,
+        82.08
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "with SIL.",
+      "bbox": [
+        136.26,
+        86.58,
+        183.06,
+        94.86
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "(C) He needed funds to buy the securities of SIL.",
+      "bbox": [
+        115.38,
+        105.47999999999999,
+        363.42,
+        115.74
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "(D) He needed funds to honour CDR package.",
+      "bbox": [
+        114.83999999999999,
+        124.19999999999999,
+        356.4,
+        134.46
+      ]
+    },
+    {
+      "line_id": "l0009",
+      "text": "a",
+      "bbox": [
+        276.65999999999997,
+        127.25999999999999,
+        281.88,
+        132.48
+      ]
+    }
+  ],
+  "text": "76. What reason did A Rajan give for selling his shares in the company about which\nhe had UPSI?\n(A) He expected huge rise in the share price of GIPL the disclosure of the\na upon\nUPSI in his possession.\n(B) It was a compulsory requirement under the shareholders’ agreement\nwith SIL.\n(C) He needed funds to buy the securities of SIL.\n(D) He needed funds to honour CDR package.\na",
+  "ocr_words": [
+    {
+      "text": "76.",
+      "x0": 96.47999999999999,
+      "top": 5.22,
+      "x1": 110.16,
+      "bottom": 12.959999999999999,
+      "confidence": 95.901855,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "What",
+      "x0": 117.17999999999999,
+      "top": 4.68,
+      "x1": 144.72,
+      "bottom": 12.959999999999999,
+      "confidence": 96.414742,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "reason",
+      "x0": 148.5,
+      "top": 7.56,
+      "x1": 181.8,
+      "bottom": 12.959999999999999,
+      "confidence": 96.776009,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "did",
+      "x0": 185.94,
+      "top": 4.68,
+      "x1": 201.24,
+      "bottom": 12.78,
+      "confidence": 95.815369,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A",
+      "x0": 204.29999999999998,
+      "top": 4.859999999999999,
+      "x1": 212.39999999999998,
+      "bottom": 12.78,
+      "confidence": 96.914917,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Rajan",
+      "x0": 215.82,
+      "top": 4.859999999999999,
+      "x1": 246.42,
+      "bottom": 14.94,
+      "confidence": 96.547707,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "give",
+      "x0": 250.56,
+      "top": 4.68,
+      "x1": 270.54,
+      "bottom": 14.94,
+      "confidence": 95.684914,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "for",
+      "x0": 274.5,
+      "top": 4.68,
+      "x1": 288.0,
+      "bottom": 12.959999999999999,
+      "confidence": 95.684914,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "selling",
+      "x0": 292.14,
+      "top": 4.68,
+      "x1": 325.08,
+      "bottom": 14.94,
+      "confidence": 96.633392,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "his",
+      "x0": 328.68,
+      "top": 4.68,
+      "x1": 343.26,
+      "bottom": 12.959999999999999,
+      "confidence": 96.777443,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "shares",
+      "x0": 347.58,
+      "top": 4.68,
+      "x1": 379.97999999999996,
+      "bottom": 12.959999999999999,
+      "confidence": 96.353088,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 383.94,
+      "top": 4.68,
+      "x1": 393.65999999999997,
+      "bottom": 12.78,
+      "confidence": 96.373886,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 397.62,
+      "top": 4.68,
+      "x1": 413.28000000000003,
+      "bottom": 12.959999999999999,
+      "confidence": 96.448097,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "company",
+      "x0": 417.41999999999996,
+      "top": 7.56,
+      "x1": 462.23999999999995,
+      "bottom": 14.94,
+      "confidence": 96.12146,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "about",
+      "x0": 466.2,
+      "top": 4.68,
+      "x1": 494.09999999999997,
+      "bottom": 12.959999999999999,
+      "confidence": 95.952843,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "which",
+      "x0": 497.88,
+      "top": 4.68,
+      "x1": 527.76,
+      "bottom": 12.959999999999999,
+      "confidence": 95.952843,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "he",
+      "x0": 117.17999999999999,
+      "top": 19.62,
+      "x1": 128.88,
+      "bottom": 27.72,
+      "confidence": 95.2024,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "had",
+      "x0": 132.48,
+      "top": 19.439999999999998,
+      "x1": 151.2,
+      "bottom": 27.72,
+      "confidence": 92.71405,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "UPSI?",
+      "x0": 154.79999999999998,
+      "top": 19.439999999999998,
+      "x1": 186.65999999999997,
+      "bottom": 27.72,
+      "confidence": 91.663666,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 115.38,
+      "top": 38.16,
+      "x1": 129.24,
+      "bottom": 48.419999999999995,
+      "confidence": 95.956459,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "He",
+      "x0": 136.44,
+      "top": 38.339999999999996,
+      "x1": 150.3,
+      "bottom": 46.44,
+      "confidence": 95.569801,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "expected",
+      "x0": 154.26,
+      "top": 38.339999999999996,
+      "x1": 197.82,
+      "bottom": 48.419999999999995,
+      "confidence": 96.577911,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "a",
+      "x0": 201.78,
+      "top": 41.22,
+      "x1": 207.0,
+      "bottom": 46.44,
+      "confidence": 96.84877,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "huge",
+      "x0": 210.78,
+      "top": 38.339999999999996,
+      "x1": 235.08,
+      "bottom": 48.599999999999994,
+      "confidence": 96.807335,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "rise",
+      "x0": 238.85999999999999,
+      "top": 38.339999999999996,
+      "x1": 257.21999999999997,
+      "bottom": 46.44,
+      "confidence": 96.39045,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "in",
+      "x0": 261.0,
+      "top": 38.339999999999996,
+      "x1": 270.72,
+      "bottom": 46.44,
+      "confidence": 96.625404,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 274.5,
+      "top": 38.339999999999996,
+      "x1": 290.16,
+      "bottom": 46.44,
+      "confidence": 96.838074,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "share",
+      "x0": 294.47999999999996,
+      "top": 38.339999999999996,
+      "x1": 321.65999999999997,
+      "bottom": 46.44,
+      "confidence": 96.024216,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "price",
+      "x0": 325.62,
+      "top": 38.339999999999996,
+      "x1": 349.92,
+      "bottom": 48.419999999999995,
+      "confidence": 95.682541,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 354.06,
+      "top": 38.16,
+      "x1": 363.6,
+      "bottom": 46.44,
+      "confidence": 91.983887,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "GIPL",
+      "x0": 366.47999999999996,
+      "top": 38.16,
+      "x1": 393.47999999999996,
+      "bottom": 46.62,
+      "confidence": 91.069885,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "upon",
+      "x0": 397.26,
+      "top": 41.22,
+      "x1": 421.92,
+      "bottom": 48.42,
+      "confidence": 96.817596,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 425.52,
+      "top": 38.339999999999996,
+      "x1": 441.35999999999996,
+      "bottom": 46.44,
+      "confidence": 96.460014,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "disclosure",
+      "x0": 445.68,
+      "top": 38.339999999999996,
+      "x1": 495.54,
+      "bottom": 46.44,
+      "confidence": 96.202431,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 499.5,
+      "top": 38.16,
+      "x1": 509.04,
+      "bottom": 46.44,
+      "confidence": 96.79393,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 511.74,
+      "top": 38.339999999999996,
+      "x1": 527.58,
+      "bottom": 46.44,
+      "confidence": 96.531448,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "UPSI",
+      "x0": 136.26,
+      "top": 53.1,
+      "x1": 163.26,
+      "bottom": 61.38,
+      "confidence": 92.126465,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 167.04,
+      "top": 53.1,
+      "x1": 176.76,
+      "bottom": 61.2,
+      "confidence": 92.900436,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "his",
+      "x0": 180.18,
+      "top": 53.1,
+      "x1": 194.76000000000002,
+      "bottom": 61.38,
+      "confidence": 95.300644,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "possession.",
+      "x0": 198.72,
+      "top": 53.1,
+      "x1": 253.98,
+      "bottom": 63.18,
+      "confidence": 96.097351,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(B)",
+      "x0": 115.38,
+      "top": 71.82,
+      "x1": 129.24,
+      "bottom": 82.08,
+      "confidence": 92.44294,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "It",
+      "x0": 136.44,
+      "top": 72.0,
+      "x1": 144.54,
+      "bottom": 80.1,
+      "confidence": 95.510506,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "was",
+      "x0": 148.14,
+      "top": 74.7,
+      "x1": 167.04,
+      "bottom": 80.10000000000001,
+      "confidence": 96.701088,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 171.18,
+      "top": 74.7,
+      "x1": 176.4,
+      "bottom": 80.10000000000001,
+      "confidence": 95.741295,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "compulsory",
+      "x0": 180.18,
+      "top": 72.0,
+      "x1": 237.78,
+      "bottom": 82.08,
+      "confidence": 95.741295,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "requirement",
+      "x0": 241.2,
+      "top": 72.0,
+      "x1": 304.02,
+      "bottom": 82.08,
+      "confidence": 96.447052,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "under",
+      "x0": 307.62,
+      "top": 72.0,
+      "x1": 337.32,
+      "bottom": 80.1,
+      "confidence": 95.965088,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 340.74,
+      "top": 72.0,
+      "x1": 356.58,
+      "bottom": 80.1,
+      "confidence": 95.965088,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "shareholders’",
+      "x0": 360.71999999999997,
+      "top": 71.82,
+      "x1": 427.67999999999995,
+      "bottom": 80.1,
+      "confidence": 95.777382,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "agreement",
+      "x0": 431.64,
+      "top": 72.89999999999999,
+      "x1": 485.09999999999997,
+      "bottom": 82.07999999999998,
+      "confidence": 96.027092,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "with",
+      "x0": 136.26,
+      "top": 86.75999999999999,
+      "x1": 158.76,
+      "bottom": 94.85999999999999,
+      "confidence": 95.697487,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "SIL.",
+      "x0": 162.72,
+      "top": 86.58,
+      "x1": 183.06,
+      "bottom": 94.86,
+      "confidence": 96.72139,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(C)",
+      "x0": 115.38,
+      "top": 105.47999999999999,
+      "x1": 129.24,
+      "bottom": 115.74,
+      "confidence": 92.918129,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "He",
+      "x0": 136.44,
+      "top": 105.66,
+      "x1": 150.3,
+      "bottom": 113.75999999999999,
+      "confidence": 95.649422,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "needed",
+      "x0": 154.07999999999998,
+      "top": 105.47999999999999,
+      "x1": 189.35999999999999,
+      "bottom": 113.75999999999999,
+      "confidence": 96.519569,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "funds",
+      "x0": 192.78,
+      "top": 105.47999999999999,
+      "x1": 220.68,
+      "bottom": 113.75999999999999,
+      "confidence": 95.379089,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "to",
+      "x0": 224.45999999999998,
+      "top": 106.56,
+      "x1": 233.64,
+      "bottom": 113.76,
+      "confidence": 95.379089,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "buy",
+      "x0": 237.06,
+      "top": 105.47999999999999,
+      "x1": 255.6,
+      "bottom": 115.74,
+      "confidence": 95.983696,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 259.02,
+      "top": 105.47999999999999,
+      "x1": 274.85999999999996,
+      "bottom": 113.75999999999999,
+      "confidence": 95.983696,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "securities",
+      "x0": 279.0,
+      "top": 105.47999999999999,
+      "x1": 326.88,
+      "bottom": 113.75999999999999,
+      "confidence": 96.21225,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 330.65999999999997,
+      "top": 105.47999999999999,
+      "x1": 340.2,
+      "bottom": 113.75999999999999,
+      "confidence": 96.500008,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "SIL.",
+      "x0": 343.26,
+      "top": 105.47999999999999,
+      "x1": 363.42,
+      "bottom": 113.75999999999999,
+      "confidence": 95.550667,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(D)",
+      "x0": 114.83999999999999,
+      "top": 124.38,
+      "x1": 129.23999999999998,
+      "bottom": 134.46,
+      "confidence": 91.070343,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "He",
+      "x0": 136.44,
+      "top": 124.38,
+      "x1": 150.3,
+      "bottom": 132.48,
+      "confidence": 96.658577,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "needed",
+      "x0": 154.07999999999998,
+      "top": 124.38,
+      "x1": 189.35999999999999,
+      "bottom": 132.48,
+      "confidence": 96.280647,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "funds",
+      "x0": 192.78,
+      "top": 124.19999999999999,
+      "x1": 220.68,
+      "bottom": 132.48,
+      "confidence": 96.428612,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "to",
+      "x0": 224.45999999999998,
+      "top": 125.28,
+      "x1": 233.64,
+      "bottom": 132.48,
+      "confidence": 96.517494,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "honour",
+      "x0": 237.23999999999998,
+      "top": 124.38,
+      "x1": 272.88,
+      "bottom": 132.48,
+      "confidence": 95.833801,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "a",
+      "x0": 276.65999999999997,
+      "top": 127.25999999999999,
+      "x1": 281.88,
+      "bottom": 132.48,
+      "confidence": 96.178665,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "CDR",
+      "x0": 286.02,
+      "top": 124.19999999999999,
+      "x1": 309.59999999999997,
+      "bottom": 132.48,
+      "confidence": 96.178665,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "package.",
+      "x0": 313.2,
+      "top": 124.38,
+      "x1": 356.4,
+      "bottom": 134.46,
+      "confidence": 95.237587,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

@@ -1,0 +1,614 @@
+{
+  "pdf_page": 374,
+  "crop_top": 546.88136,
+  "crop_bottom": 647.76136,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0374:l0034:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.15 Which case is popularly known as \"Cash for Question\" case?",
+      "bbox": [
+        41.903999999999996,
+        4.4639999999999995,
+        248.97599999999997,
+        10.943999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Ans a",
+      "bbox": [
+        43.343999999999994,
+        15.839999999999998,
+        86.544,
+        28.367999999999995
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "1. Rajnath Singh v. Hon'ble Speaker Lok Sabha (2008)",
+      "bbox": [
+        88.55999999999999,
+        25.776,
+        248.832,
+        32.256
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "x,",
+      "bbox": [
+        73.008,
+        37.296,
+        92.88,
+        52.416
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "In re Keshav Singh case (1965)",
+      "bbox": [
+        95.904,
+        47.232,
+        186.624,
+        53.711999999999996
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "x,",
+      "bbox": [
+        73.008,
+        58.608,
+        93.024,
+        73.728
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "Amrinder Singh v. Punjab Vidhan Sabha (2010)",
+      "bbox": [
+        95.472,
+        68.544,
+        236.44799999999998,
+        75.024
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "4. Raja Ram Pal v. Hon'ble Speaker Lok Sabha (2007)",
+      "bbox": [
+        88.128,
+        89.856,
+        246.384,
+        96.47999999999999
+      ]
+    }
+  ],
+  "text": "Q.15 Which case is popularly known as \"Cash for Question\" case?\nAns a\n1. Rajnath Singh v. Hon'ble Speaker Lok Sabha (2008)\nx,\nIn re Keshav Singh case (1965)\nx,\nAmrinder Singh v. Punjab Vidhan Sabha (2010)\n4. Raja Ram Pal v. Hon'ble Speaker Lok Sabha (2007)",
+  "ocr_words": [
+    {
+      "text": "Q.15",
+      "x0": 41.903999999999996,
+      "top": 4.896,
+      "x1": 56.01599999999999,
+      "bottom": 10.512,
+      "confidence": 90.881332,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Which",
+      "x0": 62.495999999999995,
+      "top": 4.608,
+      "x1": 81.792,
+      "bottom": 9.648,
+      "confidence": 96.011047,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "case",
+      "x0": 84.24,
+      "top": 6.047999999999999,
+      "x1": 97.19999999999999,
+      "bottom": 9.648,
+      "confidence": 96.722481,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 99.648,
+      "top": 4.752,
+      "x1": 103.824,
+      "bottom": 9.648,
+      "confidence": 96.340797,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "popularly",
+      "x0": 106.12799999999999,
+      "top": 4.608,
+      "x1": 135.35999999999999,
+      "bottom": 10.943999999999999,
+      "confidence": 95.666618,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "known",
+      "x0": 137.51999999999998,
+      "top": 4.608,
+      "x1": 157.968,
+      "bottom": 9.648,
+      "confidence": 95.666618,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "as",
+      "x0": 160.272,
+      "top": 6.047999999999999,
+      "x1": 166.464,
+      "bottom": 9.648,
+      "confidence": 95.190529,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "\"Cash",
+      "x0": 168.91199999999998,
+      "top": 4.4639999999999995,
+      "x1": 185.90399999999997,
+      "bottom": 9.648,
+      "confidence": 96.661812,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "for",
+      "x0": 188.208,
+      "top": 4.4639999999999995,
+      "x1": 197.136,
+      "bottom": 9.648,
+      "confidence": 96.357582,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Question\"",
+      "x0": 199.152,
+      "top": 4.608,
+      "x1": 229.968,
+      "bottom": 10.512,
+      "confidence": 95.691986,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "case?",
+      "x0": 232.55999999999997,
+      "top": 4.608,
+      "x1": 248.97599999999997,
+      "bottom": 9.648,
+      "confidence": 96.175148,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.343999999999994,
+      "top": 17.567999999999998,
+      "x1": 54.57599999999999,
+      "bottom": 22.464,
+      "confidence": 96.93869,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "a",
+      "x0": 73.008,
+      "top": 15.839999999999998,
+      "x1": 86.544,
+      "bottom": 28.367999999999995,
+      "confidence": 48.983654,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 88.55999999999999,
+      "top": 26.208,
+      "x1": 93.02399999999999,
+      "bottom": 30.959999999999997,
+      "confidence": 93.267075,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Rajnath",
+      "x0": 95.904,
+      "top": 25.919999999999998,
+      "x1": 118.22399999999999,
+      "bottom": 32.256,
+      "confidence": 91.706177,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Singh",
+      "x0": 120.672,
+      "top": 25.919999999999998,
+      "x1": 136.512,
+      "bottom": 32.256,
+      "confidence": 93.277008,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "v.",
+      "x0": 138.816,
+      "top": 27.503999999999998,
+      "x1": 143.424,
+      "bottom": 30.959999999999997,
+      "confidence": 93.193039,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Hon'ble",
+      "x0": 146.304,
+      "top": 25.919999999999998,
+      "x1": 168.912,
+      "bottom": 31.104,
+      "confidence": 95.939568,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Speaker",
+      "x0": 171.21599999999998,
+      "top": 25.919999999999998,
+      "x1": 195.408,
+      "bottom": 32.256,
+      "confidence": 96.188805,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Lok",
+      "x0": 197.856,
+      "top": 25.919999999999998,
+      "x1": 207.504,
+      "bottom": 31.104,
+      "confidence": 96.399239,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Sabha",
+      "x0": 209.664,
+      "top": 25.919999999999998,
+      "x1": 227.37599999999998,
+      "bottom": 31.104,
+      "confidence": 96.56134,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(2008)",
+      "x0": 230.112,
+      "top": 25.776,
+      "x1": 248.832,
+      "bottom": 32.256,
+      "confidence": 96.273689,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "x,",
+      "x0": 73.008,
+      "top": 37.296,
+      "x1": 92.88,
+      "bottom": 52.416,
+      "confidence": 47.901062,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "In",
+      "x0": 95.904,
+      "top": 47.663999999999994,
+      "x1": 100.512,
+      "bottom": 52.416,
+      "confidence": 95.983917,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "re",
+      "x0": 103.392,
+      "top": 48.815999999999995,
+      "x1": 108.72,
+      "bottom": 52.416,
+      "confidence": 96.646332,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Keshav",
+      "x0": 111.45599999999999,
+      "top": 47.232,
+      "x1": 132.19199999999998,
+      "bottom": 52.416,
+      "confidence": 96.551033,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Singh",
+      "x0": 134.352,
+      "top": 47.232,
+      "x1": 150.048,
+      "bottom": 53.711999999999996,
+      "confidence": 96.477356,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "case",
+      "x0": 152.64,
+      "top": 48.815999999999995,
+      "x1": 165.31199999999998,
+      "bottom": 52.416,
+      "confidence": 96.213226,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(1965)",
+      "x0": 167.904,
+      "top": 47.232,
+      "x1": 186.624,
+      "bottom": 53.568,
+      "confidence": 95.76841,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "x,",
+      "x0": 73.008,
+      "top": 58.608,
+      "x1": 93.024,
+      "bottom": 73.728,
+      "confidence": 60.490643,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Amrinder",
+      "x0": 95.472,
+      "top": 68.68799999999999,
+      "x1": 123.984,
+      "bottom": 73.728,
+      "confidence": 91.870033,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Singh",
+      "x0": 126.14399999999999,
+      "top": 68.68799999999999,
+      "x1": 141.83999999999997,
+      "bottom": 75.02399999999999,
+      "confidence": 93.290794,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "v.",
+      "x0": 144.28799999999998,
+      "top": 70.27199999999999,
+      "x1": 148.896,
+      "bottom": 73.728,
+      "confidence": 91.276993,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Punjab",
+      "x0": 151.77599999999998,
+      "top": 68.68799999999999,
+      "x1": 171.79199999999997,
+      "bottom": 75.02399999999999,
+      "confidence": 96.233887,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Vidhan",
+      "x0": 174.09599999999998,
+      "top": 68.68799999999999,
+      "x1": 194.688,
+      "bottom": 73.728,
+      "confidence": 96.1194,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Sabha",
+      "x0": 197.27999999999997,
+      "top": 68.68799999999999,
+      "x1": 214.99199999999996,
+      "bottom": 73.728,
+      "confidence": 96.1194,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "(2010)",
+      "x0": 217.72799999999998,
+      "top": 68.544,
+      "x1": 236.44799999999998,
+      "bottom": 75.024,
+      "confidence": 94.919189,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "4.",
+      "x0": 88.128,
+      "top": 90.288,
+      "x1": 93.024,
+      "bottom": 95.184,
+      "confidence": 88.312607,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Raja",
+      "x0": 95.904,
+      "top": 90.288,
+      "x1": 107.71199999999999,
+      "bottom": 96.47999999999999,
+      "confidence": 95.93161,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Ram",
+      "x0": 110.59199999999998,
+      "top": 90.43199999999999,
+      "x1": 123.11999999999998,
+      "bottom": 95.18399999999998,
+      "confidence": 95.93161,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Pal",
+      "x0": 125.99999999999999,
+      "top": 90.0,
+      "x1": 134.064,
+      "bottom": 95.184,
+      "confidence": 93.061157,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "v.",
+      "x0": 136.368,
+      "top": 91.58399999999999,
+      "x1": 140.976,
+      "bottom": 95.18399999999998,
+      "confidence": 92.578423,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Hon'ble",
+      "x0": 143.856,
+      "top": 90.0,
+      "x1": 166.464,
+      "bottom": 95.184,
+      "confidence": 94.86808,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Speaker",
+      "x0": 168.768,
+      "top": 90.0,
+      "x1": 192.96,
+      "bottom": 96.336,
+      "confidence": 95.842796,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Lok",
+      "x0": 195.408,
+      "top": 90.0,
+      "x1": 205.05599999999998,
+      "bottom": 95.184,
+      "confidence": 96.483444,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Sabha",
+      "x0": 207.21599999999998,
+      "top": 90.0,
+      "x1": 224.92799999999997,
+      "bottom": 95.184,
+      "confidence": 96.312538,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "(2007)",
+      "x0": 227.664,
+      "top": 89.856,
+      "x1": 246.384,
+      "bottom": 96.336,
+      "confidence": 96.649284,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

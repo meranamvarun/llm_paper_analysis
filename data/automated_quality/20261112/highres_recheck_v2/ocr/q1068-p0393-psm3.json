@@ -1,0 +1,482 @@
+{
+  "pdf_page": 393,
+  "crop_top": 370.24136,
+  "crop_bottom": 471.12136,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0393:l0022:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.17_ In his definition of 'Law of Tort', Winfield supports the principle given in the maxim:",
+      "bbox": [
+        41.94,
+        4.32,
+        322.38,
+        10.98
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Ans x,",
+      "bbox": [
+        43.379999999999995,
+        15.84,
+        93.06,
+        30.96
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "Ubi remedium ibi jus",
+      "bbox": [
+        95.94,
+        25.2,
+        158.22,
+        33.12
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "ss",
+      "bbox": [
+        76.14,
+        41.04,
+        80.64,
+        54.72
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "2. Ubi jus ibi remedium",
+      "bbox": [
+        88.38,
+        46.62,
+        158.04,
+        54.72
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "3. Respondeat superior",
+      "bbox": [
+        88.2,
+        68.58,
+        158.58,
+        75.06
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        79.92,
+        93.06,
+        95.04
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "Damnum sine injuria",
+      "bbox": [
+        95.94,
+        90.17999999999999,
+        157.86,
+        96.47999999999999
+      ]
+    }
+  ],
+  "text": "Q.17_ In his definition of 'Law of Tort', Winfield supports the principle given in the maxim:\nAns x,\nUbi remedium ibi jus\nss\n2. Ubi jus ibi remedium\n3. Respondeat superior\nx,\nDamnum sine injuria",
+  "ocr_words": [
+    {
+      "text": "Q.17_",
+      "x0": 41.94,
+      "top": 4.68,
+      "x1": 55.98,
+      "bottom": 10.44,
+      "confidence": 25.883835,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "In",
+      "x0": 62.82,
+      "top": 4.859999999999999,
+      "x1": 68.04,
+      "bottom": 9.54,
+      "confidence": 22.141937,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "his",
+      "x0": 70.56,
+      "top": 4.5,
+      "x1": 78.66,
+      "bottom": 9.719999999999999,
+      "confidence": 22.141937,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "definition",
+      "x0": 80.82,
+      "top": 4.5,
+      "x1": 110.69999999999999,
+      "bottom": 9.719999999999999,
+      "confidence": 96.057594,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 113.03999999999999,
+      "top": 4.32,
+      "x1": 119.16,
+      "bottom": 9.719999999999999,
+      "confidence": 93.271996,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "'Law",
+      "x0": 121.32,
+      "top": 4.5,
+      "x1": 134.82,
+      "bottom": 9.719999999999999,
+      "confidence": 87.66433,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 136.98,
+      "top": 4.5,
+      "x1": 143.1,
+      "bottom": 9.719999999999999,
+      "confidence": 93.22525,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Tort',",
+      "x0": 144.9,
+      "top": 4.5,
+      "x1": 161.1,
+      "bottom": 10.620000000000001,
+      "confidence": 87.783569,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Winfield",
+      "x0": 163.44,
+      "top": 4.5,
+      "x1": 189.35999999999999,
+      "bottom": 9.719999999999999,
+      "confidence": 96.447487,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "supports",
+      "x0": 191.7,
+      "top": 5.04,
+      "x1": 218.51999999999998,
+      "bottom": 10.98,
+      "confidence": 95.896217,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 220.5,
+      "top": 4.5,
+      "x1": 230.58,
+      "bottom": 9.719999999999999,
+      "confidence": 96.321304,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "principle",
+      "x0": 233.1,
+      "top": 4.5,
+      "x1": 259.56,
+      "bottom": 10.98,
+      "confidence": 96.268517,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "given",
+      "x0": 261.53999999999996,
+      "top": 4.68,
+      "x1": 277.91999999999996,
+      "bottom": 10.98,
+      "confidence": 96.812485,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 280.26,
+      "top": 4.68,
+      "x1": 285.48,
+      "bottom": 9.54,
+      "confidence": 96.495102,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 287.64,
+      "top": 4.5,
+      "x1": 297.53999999999996,
+      "bottom": 9.719999999999999,
+      "confidence": 96.288231,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "maxim:",
+      "x0": 300.06,
+      "top": 4.68,
+      "x1": 322.38,
+      "bottom": 9.719999999999999,
+      "confidence": 96.563538,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.379999999999995,
+      "top": 17.64,
+      "x1": 54.53999999999999,
+      "bottom": 22.5,
+      "confidence": 96.933205,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 15.84,
+      "x1": 93.06,
+      "bottom": 30.96,
+      "confidence": 63.348583,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Ubi",
+      "x0": 95.94,
+      "top": 25.919999999999998,
+      "x1": 105.3,
+      "bottom": 31.139999999999997,
+      "confidence": 91.697495,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "remedium",
+      "x0": 108.0,
+      "top": 25.919999999999998,
+      "x1": 138.6,
+      "bottom": 31.139999999999997,
+      "confidence": 91.697495,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "ibi",
+      "x0": 138.78,
+      "top": 25.2,
+      "x1": 146.16,
+      "bottom": 33.12,
+      "confidence": 90.243187,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "jus",
+      "x0": 146.88,
+      "top": 26.099999999999998,
+      "x1": 158.22,
+      "bottom": 32.4,
+      "confidence": 96.838852,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "ss",
+      "x0": 76.14,
+      "top": 41.04,
+      "x1": 80.64,
+      "bottom": 54.72,
+      "confidence": 0.0,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "2.",
+      "x0": 88.38,
+      "top": 47.519999999999996,
+      "x1": 93.06,
+      "bottom": 52.379999999999995,
+      "confidence": 96.708359,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Ubi",
+      "x0": 96.3,
+      "top": 46.62,
+      "x1": 105.3,
+      "bottom": 54.72,
+      "confidence": 95.777954,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "jus",
+      "x0": 107.82,
+      "top": 47.519999999999996,
+      "x1": 115.74,
+      "bottom": 53.81999999999999,
+      "confidence": 93.304886,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "ibi",
+      "x0": 118.25999999999999,
+      "top": 47.339999999999996,
+      "x1": 124.74,
+      "bottom": 52.559999999999995,
+      "confidence": 90.005295,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "remedium",
+      "x0": 127.44,
+      "top": 47.339999999999996,
+      "x1": 158.04,
+      "bottom": 52.559999999999995,
+      "confidence": 92.149223,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 79.92,
+      "x1": 93.06,
+      "bottom": 95.04,
+      "confidence": 43.534241,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Damnum",
+      "x0": 95.94,
+      "top": 90.36,
+      "x1": 122.75999999999999,
+      "bottom": 95.22,
+      "confidence": 75.055847,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "sine",
+      "x0": 125.28,
+      "top": 90.17999999999999,
+      "x1": 136.98,
+      "bottom": 95.22,
+      "confidence": 92.518417,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "injuria",
+      "x0": 139.5,
+      "top": 90.17999999999999,
+      "x1": 157.86,
+      "bottom": 96.47999999999999,
+      "confidence": 88.468971,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "3.",
+      "x0": 88.2,
+      "top": 68.75999999999999,
+      "x1": 93.06,
+      "bottom": 73.8,
+      "confidence": 93.263344,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Respondeat",
+      "x0": 95.94,
+      "top": 68.58,
+      "x1": 131.4,
+      "bottom": 75.06,
+      "confidence": 92.71653,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "superior",
+      "x0": 133.56,
+      "top": 68.75999999999999,
+      "x1": 158.58,
+      "bottom": 75.05999999999999,
+      "confidence": 96.80629,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

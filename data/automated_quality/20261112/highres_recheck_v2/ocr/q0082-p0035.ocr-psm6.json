@@ -1,0 +1,808 @@
+{
+  "pdf_page": 35,
+  "crop_top": 291.28985599999976,
+  "crop_bottom": 401.77058799999975,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0035:l0011:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "83. Which of the following is NOT related to constitutional tort:",
+      "bbox": [
+        57.419999999999995,
+        4.5,
+        417.78,
+        14.76
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "cases",
+      "bbox": [
+        202.14,
+        7.56,
+        228.05999999999997,
+        12.78
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(A) Kaushal Kishor State of Uttar Pradesh 2023 INSC 4.",
+      "bbox": [
+        85.86,
+        23.58,
+        391.5,
+        33.839999999999996
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "v",
+      "bbox": [
+        196.56,
+        26.64,
+        202.32,
+        31.86
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(B) Bombay Hospital & Medical Research Centre Asha Jaiswal 2021 INSC 801.",
+      "bbox": [
+        85.86,
+        42.839999999999996,
+        506.34,
+        53.099999999999994
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "v",
+      "bbox": [
+        347.21999999999997,
+        45.9,
+        352.79999999999995,
+        51.12
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "(C) Municipal Corporation of Delhi, Delhi Uphaar Tragedy Victims Association",
+      "bbox": [
+        85.86,
+        61.919999999999995,
+        538.56,
+        72.17999999999999
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "v",
+      "bbox": [
+        330.84,
+        64.98,
+        333.53999999999996,
+        70.2
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "(2011) 14 SCC 481.",
+      "bbox": [
+        114.11999999999999,
+        76.86,
+        209.88,
+        87.11999999999999
+      ]
+    },
+    {
+      "line_id": "l0009",
+      "text": "(D) DK Basu State of WB [(1997) SCC 1 416.",
+      "bbox": [
+        85.86,
+        95.39999999999999,
+        329.58,
+        106.91999999999999
+      ]
+    },
+    {
+      "line_id": "l0010",
+      "text": "v",
+      "bbox": [
+        162.54,
+        99.17999999999999,
+        168.29999999999998,
+        104.39999999999999
+      ]
+    }
+  ],
+  "text": "83. Which of the following is NOT related to constitutional tort:\ncases\n(A) Kaushal Kishor State of Uttar Pradesh 2023 INSC 4.\nv\n(B) Bombay Hospital & Medical Research Centre Asha Jaiswal 2021 INSC 801.\nv\n(C) Municipal Corporation of Delhi, Delhi Uphaar Tragedy Victims Association\nv\n(2011) 14 SCC 481.\n(D) DK Basu State of WB [(1997) SCC 1 416.\nv",
+  "ocr_words": [
+    {
+      "text": "83.",
+      "x0": 57.419999999999995,
+      "top": 5.04,
+      "x1": 71.1,
+      "bottom": 12.78,
+      "confidence": 93.571777,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Which",
+      "x0": 85.32,
+      "top": 4.68,
+      "x1": 117.35999999999999,
+      "bottom": 12.78,
+      "confidence": 93.571777,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 121.14,
+      "top": 4.5,
+      "x1": 130.68,
+      "bottom": 12.78,
+      "confidence": 95.990959,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 133.2,
+      "top": 4.68,
+      "x1": 149.04,
+      "bottom": 12.78,
+      "confidence": 96.859161,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 152.82,
+      "top": 4.5,
+      "x1": 198.72,
+      "bottom": 14.76,
+      "confidence": 96.541245,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "cases",
+      "x0": 202.14,
+      "top": 7.56,
+      "x1": 228.05999999999997,
+      "bottom": 12.78,
+      "confidence": 96.109299,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 231.84,
+      "top": 4.68,
+      "x1": 239.76,
+      "bottom": 12.78,
+      "confidence": 96.186668,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "NOT",
+      "x0": 243.72,
+      "top": 4.5,
+      "x1": 267.84,
+      "bottom": 12.959999999999999,
+      "confidence": 95.656242,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "related",
+      "x0": 271.44,
+      "top": 4.68,
+      "x1": 307.08,
+      "bottom": 12.78,
+      "confidence": 96.432236,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 310.5,
+      "top": 5.58,
+      "x1": 319.68,
+      "bottom": 12.78,
+      "confidence": 95.623444,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "constitutional",
+      "x0": 323.46,
+      "top": 4.68,
+      "x1": 393.29999999999995,
+      "bottom": 12.78,
+      "confidence": 95.623444,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "tort:",
+      "x0": 396.9,
+      "top": 5.58,
+      "x1": 417.78,
+      "bottom": 12.78,
+      "confidence": 96.258408,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 85.86,
+      "top": 23.58,
+      "x1": 99.72,
+      "bottom": 33.839999999999996,
+      "confidence": 95.364487,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Kaushal",
+      "x0": 113.94,
+      "top": 23.759999999999998,
+      "x1": 155.88,
+      "bottom": 31.86,
+      "confidence": 93.176208,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Kishor",
+      "x0": 159.66,
+      "top": 23.759999999999998,
+      "x1": 193.32,
+      "bottom": 31.86,
+      "confidence": 93.29422,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "v",
+      "x0": 196.56,
+      "top": 26.64,
+      "x1": 202.32,
+      "bottom": 31.86,
+      "confidence": 92.957619,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "State",
+      "x0": 206.1,
+      "top": 23.58,
+      "x1": 232.2,
+      "bottom": 31.86,
+      "confidence": 96.649437,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 235.98,
+      "top": 23.58,
+      "x1": 245.51999999999998,
+      "bottom": 31.86,
+      "confidence": 96.833839,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Uttar",
+      "x0": 248.04,
+      "top": 23.759999999999998,
+      "x1": 276.12,
+      "bottom": 31.86,
+      "confidence": 96.060814,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Pradesh",
+      "x0": 279.71999999999997,
+      "top": 23.759999999999998,
+      "x1": 321.11999999999995,
+      "bottom": 31.86,
+      "confidence": 96.626228,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "2023",
+      "x0": 324.9,
+      "top": 24.119999999999997,
+      "x1": 348.29999999999995,
+      "bottom": 31.859999999999996,
+      "confidence": 93.275314,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "INSC",
+      "x0": 352.26,
+      "top": 23.58,
+      "x1": 379.62,
+      "bottom": 32.04,
+      "confidence": 90.96917,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "4.",
+      "x0": 383.76,
+      "top": 24.3,
+      "x1": 391.5,
+      "bottom": 31.86,
+      "confidence": 96.816864,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(B)",
+      "x0": 85.86,
+      "top": 42.839999999999996,
+      "x1": 99.72,
+      "bottom": 52.919999999999995,
+      "confidence": 92.452797,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Bombay",
+      "x0": 113.94,
+      "top": 42.839999999999996,
+      "x1": 154.62,
+      "bottom": 53.099999999999994,
+      "confidence": 95.648766,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Hospital",
+      "x0": 158.4,
+      "top": 42.839999999999996,
+      "x1": 200.88,
+      "bottom": 52.919999999999995,
+      "confidence": 92.972641,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "&",
+      "x0": 205.01999999999998,
+      "top": 42.839999999999996,
+      "x1": 212.76,
+      "bottom": 51.12,
+      "confidence": 92.972641,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Medical",
+      "x0": 216.54,
+      "top": 42.839999999999996,
+      "x1": 256.14,
+      "bottom": 51.12,
+      "confidence": 96.70356,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Research",
+      "x0": 259.74,
+      "top": 42.839999999999996,
+      "x1": 305.82,
+      "bottom": 51.12,
+      "confidence": 96.113777,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Centre",
+      "x0": 309.96,
+      "top": 42.839999999999996,
+      "x1": 343.62,
+      "bottom": 51.12,
+      "confidence": 93.216385,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "v",
+      "x0": 347.21999999999997,
+      "top": 45.9,
+      "x1": 352.79999999999995,
+      "bottom": 51.12,
+      "confidence": 92.691521,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Asha",
+      "x0": 355.86,
+      "top": 42.839999999999996,
+      "x1": 381.6,
+      "bottom": 51.12,
+      "confidence": 96.874985,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Jaiswal",
+      "x0": 385.02,
+      "top": 42.839999999999996,
+      "x1": 423.53999999999996,
+      "bottom": 51.12,
+      "confidence": 96.439056,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "2021",
+      "x0": 427.32,
+      "top": 43.379999999999995,
+      "x1": 450.53999999999996,
+      "bottom": 51.12,
+      "confidence": 92.180496,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "INSC",
+      "x0": 454.85999999999996,
+      "top": 42.839999999999996,
+      "x1": 482.21999999999997,
+      "bottom": 51.12,
+      "confidence": 92.180496,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "801.",
+      "x0": 486.35999999999996,
+      "top": 43.379999999999995,
+      "x1": 506.34,
+      "bottom": 51.12,
+      "confidence": 96.566895,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(C)",
+      "x0": 85.86,
+      "top": 61.919999999999995,
+      "x1": 99.72,
+      "bottom": 72.0,
+      "confidence": 91.62075,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Municipal",
+      "x0": 113.58,
+      "top": 61.919999999999995,
+      "x1": 164.7,
+      "bottom": 72.0,
+      "confidence": 93.660011,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Corporation",
+      "x0": 172.44,
+      "top": 61.919999999999995,
+      "x1": 232.56,
+      "bottom": 72.0,
+      "confidence": 96.211983,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "of",
+      "x0": 240.12,
+      "top": 61.919999999999995,
+      "x1": 249.66,
+      "bottom": 70.19999999999999,
+      "confidence": 96.925171,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Delhi,",
+      "x0": 256.14,
+      "top": 61.919999999999995,
+      "x1": 285.65999999999997,
+      "bottom": 71.82,
+      "confidence": 96.682037,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Delhi",
+      "x0": 293.58,
+      "top": 61.919999999999995,
+      "x1": 320.76,
+      "bottom": 70.19999999999999,
+      "confidence": 92.008331,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "v",
+      "x0": 330.84,
+      "top": 64.98,
+      "x1": 333.53999999999996,
+      "bottom": 70.2,
+      "confidence": 92.008331,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Uphaar",
+      "x0": 340.74,
+      "top": 61.919999999999995,
+      "x1": 379.44,
+      "bottom": 72.0,
+      "confidence": 91.441711,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Tragedy",
+      "x0": 386.64,
+      "top": 61.919999999999995,
+      "x1": 428.21999999999997,
+      "bottom": 72.17999999999999,
+      "confidence": 96.439606,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Victims",
+      "x0": 435.06,
+      "top": 61.919999999999995,
+      "x1": 473.58,
+      "bottom": 70.19999999999999,
+      "confidence": 96.321922,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Association",
+      "x0": 480.59999999999997,
+      "top": 61.919999999999995,
+      "x1": 538.56,
+      "bottom": 70.19999999999999,
+      "confidence": 96.053795,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(2011)",
+      "x0": 114.11999999999999,
+      "top": 77.03999999999999,
+      "x1": 144.54,
+      "bottom": 87.11999999999999,
+      "confidence": 96.136314,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "14",
+      "x0": 149.4,
+      "top": 77.58,
+      "x1": 160.20000000000002,
+      "bottom": 84.96,
+      "confidence": 95.046883,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "SCC",
+      "x0": 164.16,
+      "top": 76.86,
+      "x1": 185.76,
+      "bottom": 85.32,
+      "confidence": 96.496086,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "481.",
+      "x0": 189.9,
+      "top": 77.39999999999999,
+      "x1": 209.88,
+      "bottom": 85.13999999999999,
+      "confidence": 95.642799,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "(D)",
+      "x0": 85.86,
+      "top": 96.11999999999999,
+      "x1": 100.25999999999999,
+      "bottom": 106.19999999999999,
+      "confidence": 89.907753,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "DK",
+      "x0": 113.75999999999999,
+      "top": 96.3,
+      "x1": 130.67999999999998,
+      "bottom": 104.22,
+      "confidence": 96.280411,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Basu",
+      "x0": 134.1,
+      "top": 96.3,
+      "x1": 159.12,
+      "bottom": 104.39999999999999,
+      "confidence": 93.271004,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "v",
+      "x0": 162.54,
+      "top": 99.17999999999999,
+      "x1": 168.29999999999998,
+      "bottom": 104.39999999999999,
+      "confidence": 93.04174,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "State",
+      "x0": 172.07999999999998,
+      "top": 96.11999999999999,
+      "x1": 198.17999999999998,
+      "bottom": 104.39999999999999,
+      "confidence": 96.522293,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "of",
+      "x0": 201.95999999999998,
+      "top": 96.11999999999999,
+      "x1": 211.49999999999997,
+      "bottom": 104.39999999999999,
+      "confidence": 95.831993,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "WB",
+      "x0": 214.01999999999998,
+      "top": 96.3,
+      "x1": 232.2,
+      "bottom": 104.39999999999999,
+      "confidence": 91.841736,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "[(1997)",
+      "x0": 236.88,
+      "top": 96.11999999999999,
+      "x1": 270.36,
+      "bottom": 106.19999999999999,
+      "confidence": 91.841736,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "SCC",
+      "x0": 274.68,
+      "top": 96.11999999999999,
+      "x1": 296.28000000000003,
+      "bottom": 104.39999999999999,
+      "confidence": 95.623695,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "1",
+      "x0": 298.26,
+      "top": 95.39999999999999,
+      "x1": 303.12,
+      "bottom": 106.91999999999999,
+      "confidence": 95.101608,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "416.",
+      "x0": 309.59999999999997,
+      "top": 96.66,
+      "x1": 329.58,
+      "bottom": 104.39999999999999,
+      "confidence": 95.101608,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

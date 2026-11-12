@@ -1,0 +1,536 @@
+{
+  "pdf_page": 380,
+  "crop_top": 96.16136000000006,
+  "crop_bottom": 197.04135999999994,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0380:l0004:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.44 In which case the Supreme Court upheld the use of Aadhaar Card for certain government schemes?",
+      "bbox": [
+        41.94,
+        4.32,
+        370.61999999999995,
+        10.98
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Ans A",
+      "bbox": [
+        43.379999999999995,
+        14.94,
+        87.66,
+        28.439999999999998
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "1. K. S. Puttaswamy v. UOI",
+      "bbox": [
+        88.56,
+        25.919999999999998,
+        167.22,
+        32.22
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        37.26,
+        93.06,
+        52.199999999999996
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "Sandeep v. UOI",
+      "bbox": [
+        95.58,
+        47.16,
+        141.29999999999998,
+        53.63999999999999
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        58.68,
+        93.06,
+        73.8
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "M. C. Mehta v. UOI",
+      "bbox": [
+        95.94,
+        68.58,
+        152.82,
+        73.8
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        79.92,
+        93.06,
+        94.86
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "PUDR v. UOI",
+      "bbox": [
+        95.94,
+        90.0,
+        132.3,
+        95.04
+      ]
+    }
+  ],
+  "text": "Q.44 In which case the Supreme Court upheld the use of Aadhaar Card for certain government schemes?\nAns A\n1. K. S. Puttaswamy v. UOI\nx,\nSandeep v. UOI\nx,\nM. C. Mehta v. UOI\nx,\nPUDR v. UOI",
+  "ocr_words": [
+    {
+      "text": "Q.44",
+      "x0": 41.94,
+      "top": 4.68,
+      "x1": 56.16,
+      "bottom": 10.44,
+      "confidence": 56.939819,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "In",
+      "x0": 62.82,
+      "top": 4.859999999999999,
+      "x1": 68.04,
+      "bottom": 9.54,
+      "confidence": 52.669212,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "which",
+      "x0": 70.2,
+      "top": 4.5,
+      "x1": 88.38,
+      "bottom": 9.719999999999999,
+      "confidence": 81.683067,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "case",
+      "x0": 90.72,
+      "top": 5.9399999999999995,
+      "x1": 103.67999999999999,
+      "bottom": 9.719999999999999,
+      "confidence": 96.638107,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 105.83999999999999,
+      "top": 4.5,
+      "x1": 115.74,
+      "bottom": 9.719999999999999,
+      "confidence": 96.395866,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Supreme",
+      "x0": 118.08,
+      "top": 4.68,
+      "x1": 145.44,
+      "bottom": 10.98,
+      "confidence": 95.967018,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Court",
+      "x0": 147.6,
+      "top": 4.68,
+      "x1": 164.51999999999998,
+      "bottom": 9.719999999999999,
+      "confidence": 96.7211,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "upheld",
+      "x0": 166.85999999999999,
+      "top": 4.5,
+      "x1": 187.73999999999998,
+      "bottom": 10.98,
+      "confidence": 96.115875,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 189.9,
+      "top": 4.5,
+      "x1": 199.98000000000002,
+      "bottom": 9.719999999999999,
+      "confidence": 96.496872,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "use",
+      "x0": 202.32,
+      "top": 5.9399999999999995,
+      "x1": 212.4,
+      "bottom": 9.719999999999999,
+      "confidence": 96.496872,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 214.73999999999998,
+      "top": 4.32,
+      "x1": 220.85999999999999,
+      "bottom": 9.719999999999999,
+      "confidence": 93.057541,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Aadhaar",
+      "x0": 222.66,
+      "top": 4.5,
+      "x1": 248.76,
+      "bottom": 9.719999999999999,
+      "confidence": 91.988159,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Card",
+      "x0": 250.92,
+      "top": 4.5,
+      "x1": 264.41999999999996,
+      "bottom": 9.719999999999999,
+      "confidence": 96.368782,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "for",
+      "x0": 266.76,
+      "top": 4.5,
+      "x1": 275.58,
+      "bottom": 9.719999999999999,
+      "confidence": 96.365059,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "certain",
+      "x0": 277.74,
+      "top": 4.68,
+      "x1": 298.8,
+      "bottom": 9.719999999999999,
+      "confidence": 96.346222,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "government",
+      "x0": 300.96,
+      "top": 5.04,
+      "x1": 338.76,
+      "bottom": 10.98,
+      "confidence": 96.643433,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "schemes?",
+      "x0": 340.91999999999996,
+      "top": 4.5,
+      "x1": 370.61999999999995,
+      "bottom": 9.719999999999999,
+      "confidence": 96.555016,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.379999999999995,
+      "top": 17.46,
+      "x1": 54.53999999999999,
+      "bottom": 22.32,
+      "confidence": 96.179474,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "A",
+      "x0": 73.8,
+      "top": 14.94,
+      "x1": 87.66,
+      "bottom": 28.439999999999998,
+      "confidence": 30.108795,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 88.56,
+      "top": 26.099999999999998,
+      "x1": 93.06,
+      "bottom": 30.779999999999998,
+      "confidence": 82.016068,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "K.",
+      "x0": 95.94,
+      "top": 26.099999999999998,
+      "x1": 100.44,
+      "bottom": 30.779999999999998,
+      "confidence": 69.528938,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "S.",
+      "x0": 102.96,
+      "top": 25.919999999999998,
+      "x1": 107.46,
+      "bottom": 30.959999999999997,
+      "confidence": 69.528938,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Puttaswamy",
+      "x0": 110.33999999999999,
+      "top": 26.099999999999998,
+      "x1": 147.42,
+      "bottom": 32.22,
+      "confidence": 91.213242,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "v.",
+      "x0": 149.4,
+      "top": 27.36,
+      "x1": 153.9,
+      "bottom": 30.78,
+      "confidence": 91.937485,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "UOI",
+      "x0": 156.78,
+      "top": 25.919999999999998,
+      "x1": 167.22,
+      "bottom": 30.959999999999997,
+      "confidence": 70.027794,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 37.26,
+      "x1": 93.06,
+      "bottom": 52.199999999999996,
+      "confidence": 57.725319,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Sandeep",
+      "x0": 95.58,
+      "top": 47.16,
+      "x1": 121.32,
+      "bottom": 53.63999999999999,
+      "confidence": 93.264511,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "v.",
+      "x0": 123.47999999999999,
+      "top": 48.78,
+      "x1": 127.97999999999999,
+      "bottom": 52.2,
+      "confidence": 91.746162,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "UOI",
+      "x0": 130.85999999999999,
+      "top": 47.339999999999996,
+      "x1": 141.29999999999998,
+      "bottom": 52.379999999999995,
+      "confidence": 48.205246,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 58.68,
+      "x1": 93.06,
+      "bottom": 73.8,
+      "confidence": 51.109241,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "M.",
+      "x0": 95.94,
+      "top": 68.94,
+      "x1": 102.96,
+      "bottom": 73.62,
+      "confidence": 89.753044,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "C.",
+      "x0": 105.66,
+      "top": 68.75999999999999,
+      "x1": 110.52,
+      "bottom": 73.8,
+      "confidence": 90.955338,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Mehta",
+      "x0": 113.39999999999999,
+      "top": 68.58,
+      "x1": 132.48,
+      "bottom": 73.8,
+      "confidence": 93.218788,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "v.",
+      "x0": 134.82,
+      "top": 70.2,
+      "x1": 139.5,
+      "bottom": 73.62,
+      "confidence": 91.00119,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "UOI",
+      "x0": 142.38,
+      "top": 68.75999999999999,
+      "x1": 152.82,
+      "bottom": 73.8,
+      "confidence": 64.559624,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 79.92,
+      "x1": 93.06,
+      "bottom": 94.86,
+      "confidence": 45.357315,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "PUDR",
+      "x0": 95.94,
+      "top": 90.17999999999999,
+      "x1": 112.32,
+      "bottom": 95.03999999999999,
+      "confidence": 92.409508,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "v.",
+      "x0": 114.47999999999999,
+      "top": 91.44,
+      "x1": 118.97999999999999,
+      "bottom": 94.86,
+      "confidence": 92.05307,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "UOI",
+      "x0": 121.86,
+      "top": 90.0,
+      "x1": 132.3,
+      "bottom": 95.04,
+      "confidence": 46.982719,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

@@ -1,0 +1,998 @@
+{
+  "pdf_page": 39,
+  "crop_top": 642.1755199999998,
+  "crop_bottom": 768.31138,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0039:l0036:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "96. What is the central, long-term temperature goal of the Paris Agreement?",
+      "bbox": [
+        57.312,
+        4.608,
+        455.03999999999996,
+        14.975999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "(A) To limit the global temperature increase to exactly 1.5 degrees",
+      "bbox": [
+        85.824,
+        17.855999999999998,
+        430.70399999999995,
+        28.08
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(B) To hold the increase in the global average temperature to well below 2 degrees",
+      "bbox": [
+        85.824,
+        31.104,
+        538.4159999999999,
+        41.327999999999996
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "above pre-industrial levels and to pursue efforts to limit it to 1.5 degrees.",
+      "bbox": [
+        113.904,
+        44.352,
+        483.84,
+        54.576
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(C) To reduce the global average temperature to pre-industrial levels by the year 2100.",
+      "bbox": [
+        85.824,
+        57.599999999999994,
+        534.6719999999999,
+        67.824
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "(D) To limit the global temperature increase to 3 degrees above pre-industrial levels.",
+      "bbox": [
+        85.824,
+        70.848,
+        523.2959999999999,
+        80.928
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "PG 2026 39",
+      "bbox": [
+        57.312,
+        110.01599999999999,
+        303.55199999999996,
+        120.09599999999999
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "p",
+      "bbox": [
+        533.808,
+        113.32799999999999,
+        539.712,
+        123.11999999999999
+      ]
+    }
+  ],
+  "text": "96. What is the central, long-term temperature goal of the Paris Agreement?\n(A) To limit the global temperature increase to exactly 1.5 degrees\n(B) To hold the increase in the global average temperature to well below 2 degrees\nabove pre-industrial levels and to pursue efforts to limit it to 1.5 degrees.\n(C) To reduce the global average temperature to pre-industrial levels by the year 2100.\n(D) To limit the global temperature increase to 3 degrees above pre-industrial levels.\nPG 2026 39\np",
+  "ocr_words": [
+    {
+      "text": "96.",
+      "x0": 57.312,
+      "top": 5.183999999999999,
+      "x1": 71.136,
+      "bottom": 12.959999999999999,
+      "confidence": 96.062035,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "What",
+      "x0": 85.24799999999999,
+      "top": 4.752,
+      "x1": 112.75199999999998,
+      "bottom": 12.96,
+      "confidence": 90.409805,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 116.35199999999999,
+      "top": 4.752,
+      "x1": 124.12799999999999,
+      "bottom": 12.96,
+      "confidence": 94.483185,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 127.87199999999999,
+      "top": 4.752,
+      "x1": 143.712,
+      "bottom": 12.96,
+      "confidence": 95.817841,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "central,",
+      "x0": 147.6,
+      "top": 4.752,
+      "x1": 185.32799999999997,
+      "bottom": 14.544,
+      "confidence": 95.683136,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "long-term",
+      "x0": 189.504,
+      "top": 4.752,
+      "x1": 238.464,
+      "bottom": 14.975999999999999,
+      "confidence": 96.475433,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "temperature",
+      "x0": 242.20799999999997,
+      "top": 5.76,
+      "x1": 305.28,
+      "bottom": 14.831999999999999,
+      "confidence": 96.159767,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "goal",
+      "x0": 309.31199999999995,
+      "top": 4.752,
+      "x1": 329.472,
+      "bottom": 14.975999999999999,
+      "confidence": 96.083229,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 333.21599999999995,
+      "top": 4.608,
+      "x1": 342.71999999999997,
+      "bottom": 12.959999999999997,
+      "confidence": 96.083229,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 345.31199999999995,
+      "top": 4.752,
+      "x1": 361.15199999999993,
+      "bottom": 12.96,
+      "confidence": 96.615311,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Paris",
+      "x0": 365.03999999999996,
+      "top": 4.752,
+      "x1": 390.96,
+      "bottom": 12.96,
+      "confidence": 96.661781,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Agreement?",
+      "x0": 394.416,
+      "top": 4.608,
+      "x1": 455.03999999999996,
+      "bottom": 14.975999999999999,
+      "confidence": 96.135559,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 85.824,
+      "top": 17.855999999999998,
+      "x1": 99.648,
+      "bottom": 28.08,
+      "confidence": 97.009491,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(B)",
+      "x0": 85.824,
+      "top": 31.104,
+      "x1": 99.648,
+      "bottom": 41.184,
+      "confidence": 92.69223,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(C)",
+      "x0": 85.824,
+      "top": 57.599999999999994,
+      "x1": 99.648,
+      "bottom": 67.67999999999999,
+      "confidence": 93.022247,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(D)",
+      "x0": 85.824,
+      "top": 70.848,
+      "x1": 100.22399999999999,
+      "bottom": 80.928,
+      "confidence": 89.717682,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "PG",
+      "x0": 57.312,
+      "top": 111.74399999999999,
+      "x1": 74.01599999999999,
+      "bottom": 120.09599999999999,
+      "confidence": 95.900208,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2026",
+      "x0": 78.04799999999999,
+      "top": 112.32,
+      "x1": 102.09599999999999,
+      "bottom": 120.09599999999999,
+      "confidence": 95.71138,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "To",
+      "x0": 113.75999999999999,
+      "top": 18.0,
+      "x1": 125.856,
+      "bottom": 26.064,
+      "confidence": 95.91716,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "limit",
+      "x0": 129.6,
+      "top": 18.0,
+      "x1": 153.504,
+      "bottom": 26.064,
+      "confidence": 61.628777,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 157.10399999999998,
+      "top": 18.0,
+      "x1": 172.944,
+      "bottom": 26.064,
+      "confidence": 96.696136,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "global",
+      "x0": 176.976,
+      "top": 18.0,
+      "x1": 206.784,
+      "bottom": 28.08,
+      "confidence": 95.520996,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "temperature",
+      "x0": 210.384,
+      "top": 18.863999999999997,
+      "x1": 273.45599999999996,
+      "bottom": 28.08,
+      "confidence": 95.520996,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "increase",
+      "x0": 277.2,
+      "top": 18.0,
+      "x1": 318.67199999999997,
+      "bottom": 26.064,
+      "confidence": 96.078888,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 322.416,
+      "top": 18.863999999999997,
+      "x1": 331.488,
+      "bottom": 26.063999999999997,
+      "confidence": 96.796776,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "exactly",
+      "x0": 335.376,
+      "top": 18.0,
+      "x1": 370.94399999999996,
+      "bottom": 28.08,
+      "confidence": 95.912918,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1.5",
+      "x0": 375.26399999999995,
+      "top": 18.432,
+      "x1": 388.94399999999996,
+      "bottom": 26.064,
+      "confidence": 96.463882,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "degrees",
+      "x0": 392.97599999999994,
+      "top": 18.0,
+      "x1": 430.70399999999995,
+      "bottom": 28.08,
+      "confidence": 96.20195,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "To",
+      "x0": 113.75999999999999,
+      "top": 31.247999999999998,
+      "x1": 125.856,
+      "bottom": 39.312,
+      "confidence": 96.916435,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "hold",
+      "x0": 131.61599999999999,
+      "top": 31.104,
+      "x1": 153.21599999999998,
+      "bottom": 39.312,
+      "confidence": 96.503784,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 158.832,
+      "top": 31.104,
+      "x1": 174.528,
+      "bottom": 39.312,
+      "confidence": 96.503784,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "increase",
+      "x0": 180.432,
+      "top": 31.104,
+      "x1": 221.904,
+      "bottom": 39.312,
+      "confidence": 96.676903,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 227.664,
+      "top": 31.104,
+      "x1": 237.456,
+      "bottom": 39.168,
+      "confidence": 95.424866,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 242.92799999999997,
+      "top": 31.104,
+      "x1": 258.768,
+      "bottom": 39.312,
+      "confidence": 95.424866,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "global",
+      "x0": 264.816,
+      "top": 31.104,
+      "x1": 294.62399999999997,
+      "bottom": 41.327999999999996,
+      "confidence": 95.816269,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "average",
+      "x0": 300.52799999999996,
+      "top": 33.839999999999996,
+      "x1": 339.40799999999996,
+      "bottom": 41.327999999999996,
+      "confidence": 96.646324,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "temperature",
+      "x0": 345.31199999999995,
+      "top": 32.111999999999995,
+      "x1": 408.38399999999996,
+      "bottom": 41.184,
+      "confidence": 96.616333,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 414.14399999999995,
+      "top": 32.111999999999995,
+      "x1": 423.21599999999995,
+      "bottom": 39.312,
+      "confidence": 96.182938,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "well",
+      "x0": 428.97599999999994,
+      "top": 31.104,
+      "x1": 449.4239999999999,
+      "bottom": 39.312,
+      "confidence": 96.330185,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "below",
+      "x0": 454.89599999999996,
+      "top": 31.104,
+      "x1": 483.69599999999997,
+      "bottom": 39.312,
+      "confidence": 96.268158,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2",
+      "x0": 489.45599999999996,
+      "top": 31.535999999999998,
+      "x1": 494.496,
+      "bottom": 39.168,
+      "confidence": 96.895828,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "degrees",
+      "x0": 500.688,
+      "top": 31.104,
+      "x1": 538.4159999999999,
+      "bottom": 41.327999999999996,
+      "confidence": 96.925102,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "above",
+      "x0": 113.904,
+      "top": 44.352,
+      "x1": 142.128,
+      "bottom": 52.559999999999995,
+      "confidence": 96.644363,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "pre-industrial",
+      "x0": 145.87199999999999,
+      "top": 44.352,
+      "x1": 216.28799999999998,
+      "bottom": 54.57599999999999,
+      "confidence": 95.858582,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "levels",
+      "x0": 219.88799999999998,
+      "top": 44.352,
+      "x1": 248.11199999999997,
+      "bottom": 52.559999999999995,
+      "confidence": 95.910164,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "and",
+      "x0": 252.14399999999998,
+      "top": 44.352,
+      "x1": 270.57599999999996,
+      "bottom": 52.559999999999995,
+      "confidence": 96.689865,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "to",
+      "x0": 274.032,
+      "top": 45.36,
+      "x1": 283.248,
+      "bottom": 52.56,
+      "confidence": 96.553352,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "pursue",
+      "x0": 286.99199999999996,
+      "top": 47.232,
+      "x1": 321.40799999999996,
+      "bottom": 54.576,
+      "confidence": 96.572739,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "efforts",
+      "x0": 325.44,
+      "top": 44.352,
+      "x1": 357.12,
+      "bottom": 52.559999999999995,
+      "confidence": 96.871529,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "to",
+      "x0": 360.864,
+      "top": 45.36,
+      "x1": 370.08,
+      "bottom": 52.56,
+      "confidence": 96.947266,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "limit",
+      "x0": 373.67999999999995,
+      "top": 44.352,
+      "x1": 397.58399999999995,
+      "bottom": 52.559999999999995,
+      "confidence": 95.358124,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "it",
+      "x0": 401.18399999999997,
+      "top": 44.352,
+      "x1": 408.52799999999996,
+      "bottom": 52.559999999999995,
+      "confidence": 96.165909,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "to",
+      "x0": 411.984,
+      "top": 45.36,
+      "x1": 421.2,
+      "bottom": 52.56,
+      "confidence": 96.496445,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.5",
+      "x0": 425.808,
+      "top": 44.928,
+      "x1": 439.344,
+      "bottom": 52.559999999999995,
+      "confidence": 96.201859,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "degrees.",
+      "x0": 443.52,
+      "top": 44.352,
+      "x1": 483.84,
+      "bottom": 54.57599999999999,
+      "confidence": 96.822533,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "To",
+      "x0": 113.75999999999999,
+      "top": 57.74399999999999,
+      "x1": 125.856,
+      "bottom": 65.80799999999999,
+      "confidence": 95.888718,
+      "ocr_block": "5",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "reduce",
+      "x0": 129.6,
+      "top": 57.599999999999994,
+      "x1": 162.72,
+      "bottom": 65.80799999999999,
+      "confidence": 96.605545,
+      "ocr_block": "5",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 166.464,
+      "top": 57.599999999999994,
+      "x1": 182.304,
+      "bottom": 65.80799999999999,
+      "confidence": 96.744293,
+      "ocr_block": "5",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "global",
+      "x0": 186.33599999999998,
+      "top": 57.599999999999994,
+      "x1": 215.99999999999997,
+      "bottom": 67.824,
+      "confidence": 96.138321,
+      "ocr_block": "5",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "average",
+      "x0": 219.88799999999998,
+      "top": 60.336,
+      "x1": 258.912,
+      "bottom": 67.824,
+      "confidence": 96.333008,
+      "ocr_block": "5",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "temperature",
+      "x0": 262.656,
+      "top": 58.608,
+      "x1": 325.728,
+      "bottom": 67.67999999999999,
+      "confidence": 95.873268,
+      "ocr_block": "5",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 329.472,
+      "top": 58.608,
+      "x1": 338.544,
+      "bottom": 65.80799999999999,
+      "confidence": 96.976982,
+      "ocr_block": "5",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "pre-industrial",
+      "x0": 342.28799999999995,
+      "top": 57.599999999999994,
+      "x1": 412.55999999999995,
+      "bottom": 67.67999999999999,
+      "confidence": 95.753029,
+      "ocr_block": "5",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "levels",
+      "x0": 416.15999999999997,
+      "top": 57.599999999999994,
+      "x1": 444.38399999999996,
+      "bottom": 65.80799999999999,
+      "confidence": 95.798645,
+      "ocr_block": "5",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "by",
+      "x0": 447.984,
+      "top": 57.599999999999994,
+      "x1": 459.792,
+      "bottom": 67.824,
+      "confidence": 96.419922,
+      "ocr_block": "5",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 463.248,
+      "top": 57.599999999999994,
+      "x1": 479.08799999999997,
+      "bottom": 65.80799999999999,
+      "confidence": 96.758202,
+      "ocr_block": "5",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "year",
+      "x0": 482.83199999999994,
+      "top": 60.48,
+      "x1": 504.8639999999999,
+      "bottom": 67.824,
+      "confidence": 95.844116,
+      "ocr_block": "5",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2100.",
+      "x0": 508.60799999999995,
+      "top": 58.032,
+      "x1": 534.6719999999999,
+      "bottom": 65.80799999999999,
+      "confidence": 95.844116,
+      "ocr_block": "5",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "To",
+      "x0": 113.75999999999999,
+      "top": 70.848,
+      "x1": 125.856,
+      "bottom": 79.056,
+      "confidence": 96.146118,
+      "ocr_block": "5",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "limit",
+      "x0": 129.6,
+      "top": 70.848,
+      "x1": 153.504,
+      "bottom": 78.912,
+      "confidence": 95.714638,
+      "ocr_block": "5",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 157.10399999999998,
+      "top": 70.848,
+      "x1": 172.944,
+      "bottom": 79.056,
+      "confidence": 95.714638,
+      "ocr_block": "5",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "global",
+      "x0": 176.976,
+      "top": 70.848,
+      "x1": 206.784,
+      "bottom": 80.928,
+      "confidence": 95.928398,
+      "ocr_block": "5",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "temperature",
+      "x0": 210.384,
+      "top": 71.71199999999999,
+      "x1": 273.45599999999996,
+      "bottom": 80.92799999999998,
+      "confidence": 96.361641,
+      "ocr_block": "5",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "increase",
+      "x0": 277.2,
+      "top": 70.848,
+      "x1": 318.67199999999997,
+      "bottom": 79.056,
+      "confidence": 84.925995,
+      "ocr_block": "5",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "to",
+      "x0": 322.416,
+      "top": 71.71199999999999,
+      "x1": 331.488,
+      "bottom": 79.05599999999998,
+      "confidence": 96.625504,
+      "ocr_block": "5",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "3",
+      "x0": 335.664,
+      "top": 71.28,
+      "x1": 340.56,
+      "bottom": 79.056,
+      "confidence": 96.444054,
+      "ocr_block": "5",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "degrees",
+      "x0": 344.736,
+      "top": 70.848,
+      "x1": 382.32,
+      "bottom": 80.928,
+      "confidence": 96.55719,
+      "ocr_block": "5",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "above",
+      "x0": 386.496,
+      "top": 70.848,
+      "x1": 414.57599999999996,
+      "bottom": 79.056,
+      "confidence": 96.277328,
+      "ocr_block": "5",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "pre-industrial",
+      "x0": 418.46399999999994,
+      "top": 70.848,
+      "x1": 488.73599999999993,
+      "bottom": 80.928,
+      "confidence": 96.058929,
+      "ocr_block": "5",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "levels.",
+      "x0": 492.33599999999996,
+      "top": 70.848,
+      "x1": 523.2959999999999,
+      "bottom": 79.056,
+      "confidence": 96.825027,
+      "ocr_block": "5",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "39",
+      "x0": 292.176,
+      "top": 110.01599999999999,
+      "x1": 303.55199999999996,
+      "bottom": 117.93599999999999,
+      "confidence": 96.505989,
+      "ocr_block": "6",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "p",
+      "x0": 533.808,
+      "top": 113.32799999999999,
+      "x1": 539.712,
+      "bottom": 123.11999999999999,
+      "confidence": 83.952591,
+      "ocr_block": "6",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

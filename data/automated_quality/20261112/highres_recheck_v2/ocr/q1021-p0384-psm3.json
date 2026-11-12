@@ -1,0 +1,351 @@
+{
+  "pdf_page": 384,
+  "crop_top": 644.08136,
+  "crop_bottom": 744.96136,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0384:l0040:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.20 Who said that the task of law is 'social engineering’?",
+      "bbox": [
+        41.94,
+        4.32,
+        224.64,
+        10.98
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Ans xXKRX",
+      "bbox": [
+        43.379999999999995,
+        15.84,
+        87.66,
+        71.1
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "1. Durkheim",
+      "bbox": [
+        88.56,
+        25.919999999999998,
+        124.56,
+        31.139999999999997
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "2. Roscoe Pound",
+      "bbox": [
+        88.38,
+        47.16,
+        137.88,
+        52.379999999999995
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "3. Henry Marne",
+      "bbox": [
+        88.2,
+        68.75999999999999,
+        135.18,
+        75.06
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "x",
+      "bbox": [
+        73.08,
+        79.92,
+        86.75999999999999,
+        92.52
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "4. Ehrlich",
+      "bbox": [
+        88.02,
+        90.0,
+        115.56,
+        95.22
+      ]
+    }
+  ],
+  "text": "Q.20 Who said that the task of law is 'social engineering’?\nAns xXKRX\n1. Durkheim\n2. Roscoe Pound\n3. Henry Marne\nx\n4. Ehrlich",
+  "ocr_words": [
+    {
+      "text": "Q.20",
+      "x0": 41.94,
+      "top": 4.68,
+      "x1": 56.16,
+      "bottom": 10.44,
+      "confidence": 92.514725,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Who",
+      "x0": 62.64,
+      "top": 4.5,
+      "x1": 77.03999999999999,
+      "bottom": 9.719999999999999,
+      "confidence": 94.55925,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "said",
+      "x0": 79.2,
+      "top": 4.5,
+      "x1": 91.08,
+      "bottom": 9.719999999999999,
+      "confidence": 94.55925,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "that",
+      "x0": 93.24,
+      "top": 4.5,
+      "x1": 105.83999999999999,
+      "bottom": 9.719999999999999,
+      "confidence": 96.120979,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 107.82,
+      "top": 4.5,
+      "x1": 117.89999999999999,
+      "bottom": 9.719999999999999,
+      "confidence": 96.016037,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "task",
+      "x0": 119.88,
+      "top": 4.5,
+      "x1": 132.66,
+      "bottom": 9.719999999999999,
+      "confidence": 96.930496,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 134.64,
+      "top": 4.32,
+      "x1": 140.94,
+      "bottom": 9.719999999999999,
+      "confidence": 96.938507,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "law",
+      "x0": 142.92,
+      "top": 4.5,
+      "x1": 153.54,
+      "bottom": 9.719999999999999,
+      "confidence": 93.706215,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 155.7,
+      "top": 4.68,
+      "x1": 160.01999999999998,
+      "bottom": 9.719999999999999,
+      "confidence": 93.187309,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "'social",
+      "x0": 162.35999999999999,
+      "top": 4.32,
+      "x1": 180.71999999999997,
+      "bottom": 9.719999999999999,
+      "confidence": 92.028122,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "engineering’?",
+      "x0": 183.06,
+      "top": 4.32,
+      "x1": 224.64,
+      "bottom": 10.98,
+      "confidence": 0.0,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.379999999999995,
+      "top": 17.64,
+      "x1": 54.53999999999999,
+      "bottom": 22.5,
+      "confidence": 96.933205,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 88.56,
+      "top": 26.279999999999998,
+      "x1": 93.06,
+      "bottom": 30.959999999999997,
+      "confidence": 96.124779,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Durkheim",
+      "x0": 95.94,
+      "top": 25.919999999999998,
+      "x1": 124.56,
+      "bottom": 31.139999999999997,
+      "confidence": 95.971588,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "2.",
+      "x0": 88.38,
+      "top": 47.339999999999996,
+      "x1": 93.06,
+      "bottom": 52.199999999999996,
+      "confidence": 96.489182,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Roscoe",
+      "x0": 95.94,
+      "top": 47.519999999999996,
+      "x1": 116.64,
+      "bottom": 52.379999999999995,
+      "confidence": 95.518082,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Pound",
+      "x0": 119.33999999999999,
+      "top": 47.16,
+      "x1": 137.88,
+      "bottom": 52.379999999999995,
+      "confidence": 96.111336,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "3.",
+      "x0": 88.2,
+      "top": 68.75999999999999,
+      "x1": 93.06,
+      "bottom": 73.8,
+      "confidence": 96.78849,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Henry",
+      "x0": 95.94,
+      "top": 68.94,
+      "x1": 113.4,
+      "bottom": 75.06,
+      "confidence": 96.253708,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Marne",
+      "x0": 115.92,
+      "top": 68.94,
+      "x1": 135.18,
+      "bottom": 73.8,
+      "confidence": 96.688217,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "x",
+      "x0": 73.08,
+      "top": 79.92,
+      "x1": 86.75999999999999,
+      "bottom": 92.52,
+      "confidence": 21.307968,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "xXKRX",
+      "x0": 73.08,
+      "top": 15.84,
+      "x1": 87.66,
+      "bottom": 71.1,
+      "confidence": 20.860512,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "4.",
+      "x0": 88.02,
+      "top": 90.36,
+      "x1": 93.06,
+      "bottom": 95.03999999999999,
+      "confidence": 95.648865,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ehrlich",
+      "x0": 95.94,
+      "top": 90.0,
+      "x1": 115.56,
+      "bottom": 95.22,
+      "confidence": 95.97345,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

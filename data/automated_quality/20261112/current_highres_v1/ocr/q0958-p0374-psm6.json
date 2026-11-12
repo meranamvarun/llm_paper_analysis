@@ -1,0 +1,570 @@
+{
+  "pdf_page": 374,
+  "crop_top": 409.84135999999995,
+  "crop_bottom": 510.72136,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0374:l0025:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.14 The Constitution (One Hundredth Amendment) Act, 2015 gave effect to the exchange of:",
+      "bbox": [
+        41.903999999999996,
+        4.319999999999999,
+        337.68,
+        10.8
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Ans ya",
+      "bbox": [
+        43.343999999999994,
+        15.264,
+        86.54399999999998,
+        28.799999999999997
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "1.51 Bangladeshi and 51 Indian enclaves.",
+      "bbox": [
+        88.55999999999999,
+        25.776,
+        213.696,
+        32.256
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "x,",
+      "bbox": [
+        73.008,
+        37.151999999999994,
+        93.024,
+        52.27199999999999
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "111 Indian and 111 Bangladeshi Enclaves.",
+      "bbox": [
+        95.904,
+        47.232,
+        221.32799999999997,
+        53.568
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "3. 51 Bangladeshi and 111 Indian Enclaves.",
+      "bbox": [
+        88.27199999999999,
+        68.544,
+        217.43999999999997,
+        74.88
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "x,",
+      "bbox": [
+        73.008,
+        79.91999999999999,
+        93.024,
+        95.03999999999999
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "111 Bangladeshi and 51 Indian Enclaves.",
+      "bbox": [
+        95.904,
+        89.856,
+        217.43999999999997,
+        96.336
+      ]
+    }
+  ],
+  "text": "Q.14 The Constitution (One Hundredth Amendment) Act, 2015 gave effect to the exchange of:\nAns ya\n1.51 Bangladeshi and 51 Indian enclaves.\nx,\n111 Indian and 111 Bangladeshi Enclaves.\n3. 51 Bangladeshi and 111 Indian Enclaves.\nx,\n111 Bangladeshi and 51 Indian Enclaves.",
+  "ocr_words": [
+    {
+      "text": "Q.14",
+      "x0": 41.903999999999996,
+      "top": 4.752,
+      "x1": 56.16,
+      "bottom": 10.367999999999999,
+      "confidence": 91.655701,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 62.495999999999995,
+      "top": 4.4639999999999995,
+      "x1": 73.58399999999999,
+      "bottom": 9.648,
+      "confidence": 95.854073,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Constitution",
+      "x0": 75.88799999999999,
+      "top": 4.608,
+      "x1": 113.75999999999999,
+      "bottom": 9.648,
+      "confidence": 95.92746,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(One",
+      "x0": 116.20799999999998,
+      "top": 4.319999999999999,
+      "x1": 130.75199999999998,
+      "bottom": 10.799999999999999,
+      "confidence": 92.491814,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Hundredth",
+      "x0": 133.344,
+      "top": 4.4639999999999995,
+      "x1": 166.176,
+      "bottom": 9.648,
+      "confidence": 92.491814,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Amendment)",
+      "x0": 168.48,
+      "top": 4.319999999999999,
+      "x1": 209.23199999999997,
+      "bottom": 10.799999999999999,
+      "confidence": 96.335274,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Act,",
+      "x0": 211.392,
+      "top": 4.752,
+      "x1": 223.2,
+      "bottom": 10.512,
+      "confidence": 96.726013,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2015",
+      "x0": 225.504,
+      "top": 4.752,
+      "x1": 240.048,
+      "bottom": 9.648,
+      "confidence": 96.350594,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "gave",
+      "x0": 242.20799999999997,
+      "top": 5.904,
+      "x1": 256.32,
+      "bottom": 10.8,
+      "confidence": 96.911392,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "effect",
+      "x0": 258.62399999999997,
+      "top": 4.4639999999999995,
+      "x1": 276.19199999999995,
+      "bottom": 9.648,
+      "confidence": 96.836182,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 278.20799999999997,
+      "top": 5.183999999999999,
+      "x1": 284.4,
+      "bottom": 9.648,
+      "confidence": 96.836182,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 286.56,
+      "top": 4.4639999999999995,
+      "x1": 296.496,
+      "bottom": 9.648,
+      "confidence": 96.426353,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "exchange",
+      "x0": 298.79999999999995,
+      "top": 4.4639999999999995,
+      "x1": 327.59999999999997,
+      "bottom": 10.799999999999999,
+      "confidence": 96.853043,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of:",
+      "x0": 329.904,
+      "top": 4.4639999999999995,
+      "x1": 337.68,
+      "bottom": 9.648,
+      "confidence": 96.423569,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.343999999999994,
+      "top": 17.567999999999998,
+      "x1": 54.57599999999999,
+      "bottom": 22.319999999999997,
+      "confidence": 96.925316,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "ya",
+      "x0": 72.43199999999999,
+      "top": 15.264,
+      "x1": 86.54399999999998,
+      "bottom": 28.799999999999997,
+      "confidence": 31.997589,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.51",
+      "x0": 88.55999999999999,
+      "top": 26.063999999999997,
+      "x1": 102.52799999999999,
+      "bottom": 30.959999999999997,
+      "confidence": 89.798241,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Bangladeshi",
+      "x0": 105.264,
+      "top": 25.776,
+      "x1": 140.832,
+      "bottom": 32.256,
+      "confidence": 96.121811,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "and",
+      "x0": 143.28,
+      "top": 25.776,
+      "x1": 153.936,
+      "bottom": 30.96,
+      "confidence": 95.988754,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "51",
+      "x0": 156.528,
+      "top": 26.063999999999997,
+      "x1": 163.296,
+      "bottom": 30.959999999999997,
+      "confidence": 95.376862,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Indian",
+      "x0": 166.03199999999998,
+      "top": 25.776,
+      "x1": 183.88799999999998,
+      "bottom": 30.96,
+      "confidence": 95.376862,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "enclaves.",
+      "x0": 186.48,
+      "top": 25.776,
+      "x1": 213.696,
+      "bottom": 30.96,
+      "confidence": 96.568016,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "x,",
+      "x0": 73.008,
+      "top": 37.151999999999994,
+      "x1": 93.024,
+      "bottom": 52.27199999999999,
+      "confidence": 61.51852,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "111",
+      "x0": 95.904,
+      "top": 47.519999999999996,
+      "x1": 106.27199999999999,
+      "bottom": 52.272,
+      "confidence": 94.789894,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Indian",
+      "x0": 109.008,
+      "top": 47.232,
+      "x1": 126.86399999999999,
+      "bottom": 52.272,
+      "confidence": 94.789894,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "and",
+      "x0": 129.456,
+      "top": 47.232,
+      "x1": 139.968,
+      "bottom": 52.272,
+      "confidence": 96.300179,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "111",
+      "x0": 142.84799999999998,
+      "top": 47.519999999999996,
+      "x1": 153.21599999999998,
+      "bottom": 52.272,
+      "confidence": 96.580177,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Bangladeshi",
+      "x0": 155.952,
+      "top": 47.232,
+      "x1": 191.664,
+      "bottom": 53.568,
+      "confidence": 93.298859,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Enclaves.",
+      "x0": 194.39999999999998,
+      "top": 47.232,
+      "x1": 221.32799999999997,
+      "bottom": 52.272,
+      "confidence": 91.25238,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "3.",
+      "x0": 88.27199999999999,
+      "top": 68.832,
+      "x1": 93.02399999999999,
+      "bottom": 73.728,
+      "confidence": 87.903358,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "51",
+      "x0": 95.616,
+      "top": 68.832,
+      "x1": 102.52799999999999,
+      "bottom": 73.728,
+      "confidence": 87.903358,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Bangladeshi",
+      "x0": 105.264,
+      "top": 68.544,
+      "x1": 140.832,
+      "bottom": 74.88,
+      "confidence": 95.373787,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "and",
+      "x0": 143.28,
+      "top": 68.544,
+      "x1": 153.936,
+      "bottom": 73.728,
+      "confidence": 95.78492,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "111",
+      "x0": 156.81599999999997,
+      "top": 68.832,
+      "x1": 167.18399999999997,
+      "bottom": 73.58399999999999,
+      "confidence": 96.696953,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Indian",
+      "x0": 169.92,
+      "top": 68.544,
+      "x1": 187.77599999999998,
+      "bottom": 73.728,
+      "confidence": 93.27153,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Enclaves.",
+      "x0": 190.65599999999998,
+      "top": 68.544,
+      "x1": 217.43999999999997,
+      "bottom": 73.728,
+      "confidence": 91.057961,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "x,",
+      "x0": 73.008,
+      "top": 79.91999999999999,
+      "x1": 93.024,
+      "bottom": 95.03999999999999,
+      "confidence": 54.446869,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "111",
+      "x0": 95.904,
+      "top": 90.288,
+      "x1": 106.27199999999999,
+      "bottom": 95.03999999999999,
+      "confidence": 96.776619,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Bangladeshi",
+      "x0": 109.008,
+      "top": 89.856,
+      "x1": 144.576,
+      "bottom": 96.336,
+      "confidence": 95.521873,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "and",
+      "x0": 147.16799999999998,
+      "top": 89.856,
+      "x1": 157.67999999999998,
+      "bottom": 95.03999999999999,
+      "confidence": 96.859306,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "51",
+      "x0": 160.272,
+      "top": 90.288,
+      "x1": 167.184,
+      "bottom": 95.03999999999999,
+      "confidence": 96.359001,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Indian",
+      "x0": 169.92,
+      "top": 89.856,
+      "x1": 187.77599999999998,
+      "bottom": 95.03999999999999,
+      "confidence": 93.278496,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Enclaves.",
+      "x0": 190.65599999999998,
+      "top": 89.856,
+      "x1": 217.43999999999997,
+      "bottom": 95.03999999999999,
+      "confidence": 90.645409,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

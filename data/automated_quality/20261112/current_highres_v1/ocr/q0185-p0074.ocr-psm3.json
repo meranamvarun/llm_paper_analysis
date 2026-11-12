@@ -1,0 +1,688 @@
+{
+  "pdf_page": 74,
+  "crop_top": 226.0095,
+  "crop_bottom": 339.0095,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0074:l0008:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "66. In which of the following cases, the term “Epistolary Jurisdiction” was first used in",
+      "bbox": [
+        105.264,
+        4.608,
+        551.808,
+        14.831999999999997
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "India?",
+      "bbox": [
+        126.43199999999999,
+        18.575999999999997,
+        157.536,
+        26.784
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(A) Fertilizer Corporation Kamgar Union Union of India,1981 SC",
+      "bbox": [
+        125.42399999999999,
+        38.592,
+        472.75199999999995,
+        48.815999999999995
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "v.",
+      "bbox": [
+        342.28799999999995,
+        41.616,
+        350.20799999999997,
+        46.8
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(B) Mumbai Kamgar Sabha Abdul Bhai, 1976 SC",
+      "bbox": [
+        125.42399999999999,
+        58.608,
+        390.96,
+        68.832
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "v.",
+      "bbox": [
+        273.31199999999995,
+        61.632,
+        281.23199999999997,
+        66.816
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "(C) ADM Jabalpur Shivkant Shukla, 1976 SC",
+      "bbox": [
+        125.42399999999999,
+        78.624,
+        373.104,
+        88.848
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "v.",
+      "bbox": [
+        226.944,
+        81.648,
+        234.86399999999998,
+        86.832
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "(D) Amba Devi Union of India, 1984 SC",
+      "bbox": [
+        124.84799999999998,
+        98.496,
+        341.28,
+        108.71999999999998
+      ]
+    },
+    {
+      "line_id": "l0009",
+      "text": "v.",
+      "bbox": [
+        207.648,
+        101.66399999999999,
+        215.56799999999998,
+        106.84799999999998
+      ]
+    }
+  ],
+  "text": "66. In which of the following cases, the term “Epistolary Jurisdiction” was first used in\nIndia?\n(A) Fertilizer Corporation Kamgar Union Union of India,1981 SC\nv.\n(B) Mumbai Kamgar Sabha Abdul Bhai, 1976 SC\nv.\n(C) ADM Jabalpur Shivkant Shukla, 1976 SC\nv.\n(D) Amba Devi Union of India, 1984 SC\nv.",
+  "ocr_words": [
+    {
+      "text": "66.",
+      "x0": 105.264,
+      "top": 5.04,
+      "x1": 119.088,
+      "bottom": 12.815999999999999,
+      "confidence": 96.878609,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "In",
+      "x0": 126.43199999999999,
+      "top": 4.752,
+      "x1": 136.944,
+      "bottom": 12.671999999999999,
+      "confidence": 96.166138,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "which",
+      "x0": 140.832,
+      "top": 4.608,
+      "x1": 170.784,
+      "bottom": 12.815999999999999,
+      "confidence": 96.243469,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 174.81599999999997,
+      "top": 4.608,
+      "x1": 184.31999999999996,
+      "bottom": 12.815999999999999,
+      "confidence": 96.407318,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 187.2,
+      "top": 4.608,
+      "x1": 203.04,
+      "bottom": 12.815999999999999,
+      "confidence": 96.477432,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 207.07199999999997,
+      "top": 4.608,
+      "x1": 253.00799999999998,
+      "bottom": 14.831999999999997,
+      "confidence": 95.428787,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "cases,",
+      "x0": 256.89599999999996,
+      "top": 7.4879999999999995,
+      "x1": 285.40799999999996,
+      "bottom": 14.543999999999999,
+      "confidence": 95.428787,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 290.01599999999996,
+      "top": 4.608,
+      "x1": 305.85599999999994,
+      "bottom": 12.815999999999999,
+      "confidence": 96.799522,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "term",
+      "x0": 309.888,
+      "top": 5.616,
+      "x1": 333.64799999999997,
+      "bottom": 12.815999999999999,
+      "confidence": 91.287651,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "“Epistolary",
+      "x0": 337.96799999999996,
+      "top": 4.608,
+      "x1": 394.70399999999995,
+      "bottom": 14.831999999999997,
+      "confidence": 91.287651,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Jurisdiction”",
+      "x0": 398.304,
+      "top": 4.608,
+      "x1": 462.96,
+      "bottom": 12.815999999999999,
+      "confidence": 96.051216,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "was",
+      "x0": 467.13599999999997,
+      "top": 7.4879999999999995,
+      "x1": 486.14399999999995,
+      "bottom": 12.815999999999999,
+      "confidence": 96.682632,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "first",
+      "x0": 490.176,
+      "top": 4.608,
+      "x1": 511.056,
+      "bottom": 12.815999999999999,
+      "confidence": 96.655586,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "used",
+      "x0": 515.088,
+      "top": 4.608,
+      "x1": 538.2719999999999,
+      "bottom": 12.815999999999999,
+      "confidence": 96.693466,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 542.016,
+      "top": 4.608,
+      "x1": 551.808,
+      "bottom": 12.672,
+      "confidence": 94.739471,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "India?",
+      "x0": 126.43199999999999,
+      "top": 18.575999999999997,
+      "x1": 157.536,
+      "bottom": 26.784,
+      "confidence": 95.968361,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(A)",
+      "x0": 125.42399999999999,
+      "top": 38.592,
+      "x1": 139.248,
+      "bottom": 48.815999999999995,
+      "confidence": 94.186646,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Fertilizer",
+      "x0": 148.60799999999998,
+      "top": 38.592,
+      "x1": 195.83999999999997,
+      "bottom": 46.8,
+      "confidence": 94.186646,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Corporation",
+      "x0": 199.87199999999999,
+      "top": 38.592,
+      "x1": 260.06399999999996,
+      "bottom": 48.815999999999995,
+      "confidence": 92.634987,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Kamgar",
+      "x0": 263.664,
+      "top": 38.736,
+      "x1": 304.416,
+      "bottom": 48.815999999999995,
+      "confidence": 92.284035,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Union",
+      "x0": 308.01599999999996,
+      "top": 38.592,
+      "x1": 338.83199999999994,
+      "bottom": 46.8,
+      "confidence": 92.80806,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "v.",
+      "x0": 342.28799999999995,
+      "top": 41.616,
+      "x1": 350.20799999999997,
+      "bottom": 46.8,
+      "confidence": 92.59407,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Union",
+      "x0": 354.38399999999996,
+      "top": 38.592,
+      "x1": 385.34399999999994,
+      "bottom": 46.8,
+      "confidence": 96.678535,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 388.94399999999996,
+      "top": 38.592,
+      "x1": 398.448,
+      "bottom": 46.8,
+      "confidence": 93.277168,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "India,1981",
+      "x0": 401.18399999999997,
+      "top": 38.592,
+      "x1": 454.60799999999995,
+      "bottom": 48.528,
+      "confidence": 91.103218,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "SC",
+      "x0": 459.21599999999995,
+      "top": 38.592,
+      "x1": 472.75199999999995,
+      "bottom": 46.943999999999996,
+      "confidence": 96.319962,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(B)",
+      "x0": 125.42399999999999,
+      "top": 58.608,
+      "x1": 139.248,
+      "bottom": 68.832,
+      "confidence": 91.155098,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Mumbai",
+      "x0": 148.176,
+      "top": 58.608,
+      "x1": 190.368,
+      "bottom": 66.816,
+      "confidence": 92.193489,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Kamgar",
+      "x0": 194.112,
+      "top": 58.751999999999995,
+      "x1": 234.86399999999998,
+      "bottom": 68.832,
+      "confidence": 90.979546,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Sabha",
+      "x0": 238.75199999999998,
+      "top": 58.608,
+      "x1": 269.712,
+      "bottom": 66.816,
+      "confidence": 92.990349,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "v.",
+      "x0": 273.31199999999995,
+      "top": 61.632,
+      "x1": 281.23199999999997,
+      "bottom": 66.816,
+      "confidence": 92.563095,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Abdul",
+      "x0": 285.12,
+      "top": 58.608,
+      "x1": 315.504,
+      "bottom": 66.816,
+      "confidence": 95.476585,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Bhai,",
+      "x0": 319.248,
+      "top": 58.608,
+      "x1": 345.168,
+      "bottom": 68.544,
+      "confidence": 95.80027,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "1976",
+      "x0": 350.352,
+      "top": 59.03999999999999,
+      "x1": 373.248,
+      "bottom": 66.81599999999999,
+      "confidence": 95.80027,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "SC",
+      "x0": 377.28,
+      "top": 58.608,
+      "x1": 390.96,
+      "bottom": 66.96,
+      "confidence": 95.385826,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(C)",
+      "x0": 125.42399999999999,
+      "top": 78.624,
+      "x1": 139.248,
+      "bottom": 88.848,
+      "confidence": 90.49054,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "ADM",
+      "x0": 147.88799999999998,
+      "top": 78.624,
+      "x1": 174.52799999999996,
+      "bottom": 86.68799999999999,
+      "confidence": 96.774651,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Jabalpur",
+      "x0": 178.128,
+      "top": 78.624,
+      "x1": 223.63199999999998,
+      "bottom": 88.704,
+      "confidence": 92.987411,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "v.",
+      "x0": 226.944,
+      "top": 81.648,
+      "x1": 234.86399999999998,
+      "bottom": 86.832,
+      "confidence": 92.839806,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Shivkant",
+      "x0": 239.61599999999999,
+      "top": 78.624,
+      "x1": 285.264,
+      "bottom": 86.832,
+      "confidence": 88.328789,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Shukla,",
+      "x0": 289.296,
+      "top": 78.624,
+      "x1": 327.312,
+      "bottom": 88.56,
+      "confidence": 95.257698,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "1976",
+      "x0": 332.352,
+      "top": 79.056,
+      "x1": 355.248,
+      "bottom": 86.832,
+      "confidence": 96.666885,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "SC",
+      "x0": 359.424,
+      "top": 78.624,
+      "x1": 373.104,
+      "bottom": 86.832,
+      "confidence": 95.775742,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "(D)",
+      "x0": 124.84799999999998,
+      "top": 98.63999999999999,
+      "x1": 139.248,
+      "bottom": 108.71999999999998,
+      "confidence": 91.58757,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Amba",
+      "x0": 147.88799999999998,
+      "top": 98.63999999999999,
+      "x1": 177.69599999999997,
+      "bottom": 106.84799999999998,
+      "confidence": 96.652664,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Devi",
+      "x0": 181.44,
+      "top": 98.63999999999999,
+      "x1": 204.192,
+      "bottom": 106.84799999999998,
+      "confidence": 92.983734,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "v.",
+      "x0": 207.648,
+      "top": 101.66399999999999,
+      "x1": 215.56799999999998,
+      "bottom": 106.84799999999998,
+      "confidence": 92.128372,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Union",
+      "x0": 219.74399999999997,
+      "top": 98.63999999999999,
+      "x1": 250.70399999999998,
+      "bottom": 106.84799999999998,
+      "confidence": 95.392532,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 254.30399999999997,
+      "top": 98.496,
+      "x1": 263.808,
+      "bottom": 106.848,
+      "confidence": 95.392532,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "India,",
+      "x0": 266.544,
+      "top": 98.63999999999999,
+      "x1": 295.488,
+      "bottom": 108.43199999999999,
+      "confidence": 96.335167,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1984",
+      "x0": 300.52799999999996,
+      "top": 99.07199999999999,
+      "x1": 323.568,
+      "bottom": 106.84799999999998,
+      "confidence": 96.584091,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "SC",
+      "x0": 327.59999999999997,
+      "top": 98.63999999999999,
+      "x1": 341.28,
+      "bottom": 106.84799999999998,
+      "confidence": 96.316559,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

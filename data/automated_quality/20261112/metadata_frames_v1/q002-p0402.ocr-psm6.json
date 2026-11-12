@@ -1,0 +1,1269 @@
+{
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0402:l0025:question",
+  "year_label": 2017,
+  "number": "8",
+  "pdf_page": 402,
+  "crop_top": 415.28,
+  "crop_bottom": 569.4399999999999,
+  "start_anchor": {
+    "pdf_page": 402,
+    "line_id": "l0025",
+    "bbox": [
+      37.68,
+      419.28,
+      573.8399999999999,
+      427.68
+    ]
+  },
+  "following_anchor": {
+    "pdf_page": 402,
+    "line_id": "l0038",
+    "bbox": [
+      37.68,
+      571.4399999999999,
+      573.8399999999999,
+      579.8399999999999
+    ]
+  },
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Question Number : 8 Question Id : 461139378 Question Type: MCQ Option Shuffling : Yes Display Question Number : Yes Single",
+      "bbox": [
+        37.872,
+        3.888,
+        573.8399999999999,
+        12.24
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Line Question Option : No Option Orientation : Vertical",
+      "bbox": [
+        37.583999999999996,
+        13.248,
+        266.4,
+        21.599999999999998
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "Correct : 1 Wrong : 0.25",
+      "bbox": [
+        37.872,
+        26.496,
+        138.096,
+        34.559999999999995
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "Protection from double jeopardy means:",
+      "bbox": [
+        37.583999999999996,
+        39.023999999999994,
+        230.112,
+        49.248
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "Options :",
+      "bbox": [
+        37.872,
+        56.16,
+        73.87199999999999,
+        64.22399999999999
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "1. ® No shall be prosecuted for the offence than",
+      "bbox": [
+        39.023999999999994,
+        68.68799999999999,
+        363.888,
+        80.352
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "person same more once",
+      "bbox": [
+        80.64,
+        72.288,
+        388.944,
+        80.352
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "2. “ No shall be prosecuted and punished for the offence than",
+      "bbox": [
+        38.303999999999995,
+        86.68799999999999,
+        433.584,
+        98.352
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "person same more once",
+      "bbox": [
+        80.64,
+        90.288,
+        458.784,
+        98.352
+      ]
+    },
+    {
+      "line_id": "l0009",
+      "text": "3. ® No shall be punished for the offence than",
+      "bbox": [
+        38.303999999999995,
+        104.544,
+        355.968,
+        116.208
+      ]
+    },
+    {
+      "line_id": "l0010",
+      "text": "person same more once",
+      "bbox": [
+        80.64,
+        108.14399999999999,
+        381.168,
+        116.208
+      ]
+    },
+    {
+      "line_id": "l0011",
+      "text": "4. ® No shall be prosecuted punished for different offence again.",
+      "bbox": [
+        38.303999999999995,
+        122.544,
+        403.34399999999994,
+        134.208
+      ]
+    },
+    {
+      "line_id": "l0012",
+      "text": "person or",
+      "bbox": [
+        80.64,
+        126.14399999999999,
+        222.33599999999996,
+        134.208
+      ]
+    }
+  ],
+  "text": "Question Number : 8 Question Id : 461139378 Question Type: MCQ Option Shuffling : Yes Display Question Number : Yes Single\nLine Question Option : No Option Orientation : Vertical\nCorrect : 1 Wrong : 0.25\nProtection from double jeopardy means:\nOptions :\n1. ® No shall be prosecuted for the offence than\nperson same more once\n2. “ No shall be prosecuted and punished for the offence than\nperson same more once\n3. ® No shall be punished for the offence than\nperson same more once\n4. ® No shall be prosecuted punished for different offence again.\nperson or",
+  "ocr_words": [
+    {
+      "text": "Question",
+      "x0": 37.872,
+      "top": 3.888,
+      "x1": 73.15199999999999,
+      "bottom": 11.952,
+      "confidence": 96.444412,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Number",
+      "x0": 75.88799999999999,
+      "top": 4.032,
+      "x1": 109.15199999999999,
+      "bottom": 10.367999999999999,
+      "confidence": 91.788719,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 112.32,
+      "top": 5.76,
+      "x1": 113.75999999999999,
+      "bottom": 10.367999999999999,
+      "confidence": 89.574066,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "8",
+      "x0": 117.50399999999999,
+      "top": 3.888,
+      "x1": 121.392,
+      "bottom": 10.367999999999999,
+      "confidence": 96.593262,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Question",
+      "x0": 127.008,
+      "top": 3.888,
+      "x1": 162.144,
+      "bottom": 11.952,
+      "confidence": 95.190025,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Id",
+      "x0": 165.16799999999998,
+      "top": 4.032,
+      "x1": 173.51999999999998,
+      "bottom": 10.367999999999999,
+      "confidence": 90.611679,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 176.976,
+      "top": 5.76,
+      "x1": 178.416,
+      "bottom": 10.367999999999999,
+      "confidence": 90.611679,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "461139378",
+      "x0": 181.87199999999999,
+      "top": 3.888,
+      "x1": 223.63199999999998,
+      "bottom": 10.367999999999999,
+      "confidence": 95.817169,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Question",
+      "x0": 229.10399999999998,
+      "top": 3.888,
+      "x1": 264.38399999999996,
+      "bottom": 11.952,
+      "confidence": 95.817169,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Type:",
+      "x0": 267.55199999999996,
+      "top": 4.032,
+      "x1": 292.032,
+      "bottom": 12.24,
+      "confidence": 87.923058,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "MCQ",
+      "x0": 295.488,
+      "top": 3.888,
+      "x1": 317.952,
+      "bottom": 11.952,
+      "confidence": 89.558647,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Option",
+      "x0": 323.424,
+      "top": 3.888,
+      "x1": 350.928,
+      "bottom": 12.239999999999998,
+      "confidence": 92.718803,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Shuffling",
+      "x0": 354.09599999999995,
+      "top": 3.888,
+      "x1": 390.38399999999996,
+      "bottom": 12.239999999999998,
+      "confidence": 90.572182,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 393.84,
+      "top": 5.76,
+      "x1": 395.28,
+      "bottom": 10.367999999999999,
+      "confidence": 91.028664,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Yes",
+      "x0": 398.592,
+      "top": 4.032,
+      "x1": 412.84799999999996,
+      "bottom": 10.367999999999999,
+      "confidence": 96.775757,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Display",
+      "x0": 417.888,
+      "top": 3.888,
+      "x1": 447.984,
+      "bottom": 12.239999999999998,
+      "confidence": 96.456009,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Question",
+      "x0": 451.008,
+      "top": 3.888,
+      "x1": 486.144,
+      "bottom": 11.952,
+      "confidence": 96.287697,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Number",
+      "x0": 489.02399999999994,
+      "top": 4.032,
+      "x1": 522.1439999999999,
+      "bottom": 10.367999999999999,
+      "confidence": 92.109215,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 525.4559999999999,
+      "top": 5.76,
+      "x1": 526.896,
+      "bottom": 10.367999999999999,
+      "confidence": 91.536232,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Yes",
+      "x0": 530.352,
+      "top": 4.032,
+      "x1": 544.4639999999999,
+      "bottom": 10.367999999999999,
+      "confidence": 94.835487,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Single",
+      "x0": 550.0799999999999,
+      "top": 3.888,
+      "x1": 573.8399999999999,
+      "bottom": 12.239999999999998,
+      "confidence": 96.356148,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Line",
+      "x0": 37.583999999999996,
+      "top": 13.248,
+      "x1": 55.44,
+      "bottom": 19.727999999999998,
+      "confidence": 96.825043,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Question",
+      "x0": 58.464,
+      "top": 13.248,
+      "x1": 93.744,
+      "bottom": 21.311999999999998,
+      "confidence": 96.524101,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Option",
+      "x0": 96.91199999999999,
+      "top": 13.248,
+      "x1": 124.416,
+      "bottom": 21.599999999999998,
+      "confidence": 92.485855,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": ":",
+      "x0": 128.59199999999998,
+      "top": 15.12,
+      "x1": 129.31199999999998,
+      "bottom": 19.727999999999998,
+      "confidence": 91.416138,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "No",
+      "x0": 132.624,
+      "top": 13.392,
+      "x1": 143.56799999999998,
+      "bottom": 19.727999999999998,
+      "confidence": 95.103996,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Option",
+      "x0": 149.184,
+      "top": 13.248,
+      "x1": 176.54399999999998,
+      "bottom": 21.599999999999998,
+      "confidence": 96.365837,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Orientation",
+      "x0": 179.712,
+      "top": 13.248,
+      "x1": 225.93599999999998,
+      "bottom": 19.727999999999998,
+      "confidence": 93.264732,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": ":",
+      "x0": 229.53599999999997,
+      "top": 15.12,
+      "x1": 230.97599999999997,
+      "bottom": 19.727999999999998,
+      "confidence": 90.533981,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Vertical",
+      "x0": 234.28799999999998,
+      "top": 13.248,
+      "x1": 266.4,
+      "bottom": 19.727999999999998,
+      "confidence": 96.236526,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Correct",
+      "x0": 37.872,
+      "top": 26.496,
+      "x1": 68.544,
+      "bottom": 32.976,
+      "confidence": 86.788033,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 71.856,
+      "top": 28.368,
+      "x1": 73.29599999999999,
+      "bottom": 32.976,
+      "confidence": 86.765259,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1",
+      "x0": 79.344,
+      "top": 26.496,
+      "x1": 80.496,
+      "bottom": 32.832,
+      "confidence": 90.758171,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Wrong",
+      "x0": 86.112,
+      "top": 26.639999999999997,
+      "x1": 113.904,
+      "bottom": 34.559999999999995,
+      "confidence": 88.955978,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 117.35999999999999,
+      "top": 28.368,
+      "x1": 118.79999999999998,
+      "bottom": 32.976,
+      "confidence": 83.82795,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "0.25",
+      "x0": 122.39999999999999,
+      "top": 26.496,
+      "x1": 138.096,
+      "bottom": 32.976,
+      "confidence": 96.688995,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Protection",
+      "x0": 37.583999999999996,
+      "top": 39.744,
+      "x1": 84.96,
+      "bottom": 46.944,
+      "confidence": 95.447983,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "from",
+      "x0": 89.27999999999999,
+      "top": 39.023999999999994,
+      "x1": 112.32,
+      "bottom": 46.943999999999996,
+      "confidence": 94.983673,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "double",
+      "x0": 115.19999999999999,
+      "top": 39.744,
+      "x1": 147.6,
+      "bottom": 46.944,
+      "confidence": 95.243744,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "jeopardy",
+      "x0": 150.48,
+      "top": 39.744,
+      "x1": 193.536,
+      "bottom": 49.248,
+      "confidence": 95.068977,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "means:",
+      "x0": 197.136,
+      "top": 41.184,
+      "x1": 230.112,
+      "bottom": 46.943999999999996,
+      "confidence": 72.074715,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Options",
+      "x0": 37.872,
+      "top": 56.16,
+      "x1": 68.832,
+      "bottom": 64.22399999999999,
+      "confidence": 93.118164,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 72.43199999999999,
+      "top": 58.032,
+      "x1": 73.87199999999999,
+      "bottom": 62.63999999999999,
+      "confidence": 93.118164,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1.",
+      "x0": 39.023999999999994,
+      "top": 70.848,
+      "x1": 45.50399999999999,
+      "bottom": 78.048,
+      "confidence": 88.617317,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "®",
+      "x0": 51.983999999999995,
+      "top": 68.68799999999999,
+      "x1": 58.46399999999999,
+      "bottom": 75.16799999999999,
+      "confidence": 81.330383,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "No",
+      "x0": 64.22399999999999,
+      "top": 70.848,
+      "x1": 77.03999999999999,
+      "bottom": 78.048,
+      "confidence": 94.397194,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "person",
+      "x0": 80.64,
+      "top": 72.288,
+      "x1": 113.03999999999999,
+      "bottom": 80.352,
+      "confidence": 94.397194,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "shall",
+      "x0": 116.63999999999999,
+      "top": 70.848,
+      "x1": 138.95999999999998,
+      "bottom": 78.048,
+      "confidence": 95.130287,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "be",
+      "x0": 142.56,
+      "top": 70.848,
+      "x1": 153.216,
+      "bottom": 78.048,
+      "confidence": 96.437904,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "prosecuted",
+      "x0": 156.81599999999997,
+      "top": 70.848,
+      "x1": 209.37599999999998,
+      "bottom": 80.352,
+      "confidence": 96.600624,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "for",
+      "x0": 213.696,
+      "top": 70.128,
+      "x1": 226.656,
+      "bottom": 78.048,
+      "confidence": 96.483246,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 230.112,
+      "top": 70.848,
+      "x1": 244.512,
+      "bottom": 78.048,
+      "confidence": 96.585732,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "same",
+      "x0": 248.112,
+      "top": 72.288,
+      "x1": 272.592,
+      "bottom": 78.048,
+      "confidence": 96.218864,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "offence",
+      "x0": 276.192,
+      "top": 70.128,
+      "x1": 311.328,
+      "bottom": 78.048,
+      "confidence": 96.498894,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "more",
+      "x0": 314.928,
+      "top": 72.288,
+      "x1": 338.688,
+      "bottom": 78.048,
+      "confidence": 96.325356,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "than",
+      "x0": 342.28799999999995,
+      "top": 70.848,
+      "x1": 363.888,
+      "bottom": 78.048,
+      "confidence": 96.325356,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "once",
+      "x0": 367.488,
+      "top": 72.288,
+      "x1": 388.944,
+      "bottom": 78.048,
+      "confidence": 96.492447,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2.",
+      "x0": 38.303999999999995,
+      "top": 88.848,
+      "x1": 45.50399999999999,
+      "bottom": 96.048,
+      "confidence": 87.468674,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "“",
+      "x0": 53.711999999999996,
+      "top": 86.68799999999999,
+      "x1": 58.032,
+      "bottom": 94.60799999999999,
+      "confidence": 0.0,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "No",
+      "x0": 64.22399999999999,
+      "top": 88.848,
+      "x1": 77.03999999999999,
+      "bottom": 96.048,
+      "confidence": 95.86174,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "person",
+      "x0": 80.64,
+      "top": 90.288,
+      "x1": 113.03999999999999,
+      "bottom": 98.352,
+      "confidence": 95.904312,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "shall",
+      "x0": 116.63999999999999,
+      "top": 88.848,
+      "x1": 138.95999999999998,
+      "bottom": 96.048,
+      "confidence": 95.942055,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "be",
+      "x0": 142.56,
+      "top": 88.848,
+      "x1": 153.216,
+      "bottom": 96.048,
+      "confidence": 96.929024,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "prosecuted",
+      "x0": 156.81599999999997,
+      "top": 88.848,
+      "x1": 209.37599999999998,
+      "bottom": 98.352,
+      "confidence": 96.602875,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 212.97599999999997,
+      "top": 88.848,
+      "x1": 230.83199999999997,
+      "bottom": 96.048,
+      "confidence": 96.201347,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "punished",
+      "x0": 234.432,
+      "top": 88.848,
+      "x1": 279.072,
+      "bottom": 98.352,
+      "confidence": 96.412514,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "for",
+      "x0": 283.392,
+      "top": 88.128,
+      "x1": 296.352,
+      "bottom": 96.048,
+      "confidence": 95.852928,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 299.952,
+      "top": 88.848,
+      "x1": 314.20799999999997,
+      "bottom": 96.048,
+      "confidence": 95.852928,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "same",
+      "x0": 317.808,
+      "top": 90.288,
+      "x1": 342.288,
+      "bottom": 96.048,
+      "confidence": 82.057159,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "offence",
+      "x0": 345.888,
+      "top": 88.128,
+      "x1": 381.16799999999995,
+      "bottom": 96.048,
+      "confidence": 96.329628,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "more",
+      "x0": 384.62399999999997,
+      "top": 90.288,
+      "x1": 408.38399999999996,
+      "bottom": 96.048,
+      "confidence": 96.718636,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "than",
+      "x0": 411.984,
+      "top": 88.848,
+      "x1": 433.584,
+      "bottom": 96.048,
+      "confidence": 95.796402,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "once",
+      "x0": 437.18399999999997,
+      "top": 90.288,
+      "x1": 458.784,
+      "bottom": 96.048,
+      "confidence": 95.796402,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "3.",
+      "x0": 38.303999999999995,
+      "top": 106.704,
+      "x1": 45.50399999999999,
+      "bottom": 114.04799999999999,
+      "confidence": 89.733765,
+      "ocr_block": "1",
+      "ocr_paragraph": "7",
+      "ocr_line": "1"
+    },
+    {
+      "text": "®",
+      "x0": 51.983999999999995,
+      "top": 104.544,
+      "x1": 58.46399999999999,
+      "bottom": 111.16799999999999,
+      "confidence": 72.488266,
+      "ocr_block": "1",
+      "ocr_paragraph": "7",
+      "ocr_line": "1"
+    },
+    {
+      "text": "No",
+      "x0": 64.22399999999999,
+      "top": 106.704,
+      "x1": 77.03999999999999,
+      "bottom": 114.04799999999999,
+      "confidence": 96.306305,
+      "ocr_block": "1",
+      "ocr_paragraph": "7",
+      "ocr_line": "1"
+    },
+    {
+      "text": "person",
+      "x0": 80.64,
+      "top": 108.14399999999999,
+      "x1": 113.03999999999999,
+      "bottom": 116.208,
+      "confidence": 95.897881,
+      "ocr_block": "1",
+      "ocr_paragraph": "7",
+      "ocr_line": "1"
+    },
+    {
+      "text": "shall",
+      "x0": 116.63999999999999,
+      "top": 106.704,
+      "x1": 138.95999999999998,
+      "bottom": 114.04799999999999,
+      "confidence": 96.437355,
+      "ocr_block": "1",
+      "ocr_paragraph": "7",
+      "ocr_line": "1"
+    },
+    {
+      "text": "be",
+      "x0": 142.56,
+      "top": 106.704,
+      "x1": 153.216,
+      "bottom": 114.04799999999999,
+      "confidence": 96.618851,
+      "ocr_block": "1",
+      "ocr_paragraph": "7",
+      "ocr_line": "1"
+    },
+    {
+      "text": "punished",
+      "x0": 156.81599999999997,
+      "top": 106.704,
+      "x1": 201.45599999999996,
+      "bottom": 116.208,
+      "confidence": 96.452011,
+      "ocr_block": "1",
+      "ocr_paragraph": "7",
+      "ocr_line": "1"
+    },
+    {
+      "text": "for",
+      "x0": 205.77599999999998,
+      "top": 105.984,
+      "x1": 218.736,
+      "bottom": 114.048,
+      "confidence": 96.821922,
+      "ocr_block": "1",
+      "ocr_paragraph": "7",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 222.33599999999998,
+      "top": 106.704,
+      "x1": 236.59199999999998,
+      "bottom": 114.04799999999999,
+      "confidence": 96.791603,
+      "ocr_block": "1",
+      "ocr_paragraph": "7",
+      "ocr_line": "1"
+    },
+    {
+      "text": "same",
+      "x0": 240.19199999999998,
+      "top": 108.14399999999999,
+      "x1": 264.67199999999997,
+      "bottom": 114.04799999999999,
+      "confidence": 95.632835,
+      "ocr_block": "1",
+      "ocr_paragraph": "7",
+      "ocr_line": "1"
+    },
+    {
+      "text": "offence",
+      "x0": 268.272,
+      "top": 105.984,
+      "x1": 303.55199999999996,
+      "bottom": 114.048,
+      "confidence": 96.593674,
+      "ocr_block": "1",
+      "ocr_paragraph": "7",
+      "ocr_line": "1"
+    },
+    {
+      "text": "more",
+      "x0": 307.008,
+      "top": 108.14399999999999,
+      "x1": 330.768,
+      "bottom": 114.04799999999999,
+      "confidence": 96.90519,
+      "ocr_block": "1",
+      "ocr_paragraph": "7",
+      "ocr_line": "1"
+    },
+    {
+      "text": "than",
+      "x0": 334.368,
+      "top": 106.704,
+      "x1": 355.968,
+      "bottom": 114.04799999999999,
+      "confidence": 96.420685,
+      "ocr_block": "1",
+      "ocr_paragraph": "7",
+      "ocr_line": "1"
+    },
+    {
+      "text": "once",
+      "x0": 359.568,
+      "top": 108.14399999999999,
+      "x1": 381.168,
+      "bottom": 114.04799999999999,
+      "confidence": 95.91494,
+      "ocr_block": "1",
+      "ocr_paragraph": "7",
+      "ocr_line": "1"
+    },
+    {
+      "text": "4.",
+      "x0": 38.303999999999995,
+      "top": 124.704,
+      "x1": 45.50399999999999,
+      "bottom": 131.904,
+      "confidence": 78.951622,
+      "ocr_block": "1",
+      "ocr_paragraph": "8",
+      "ocr_line": "1"
+    },
+    {
+      "text": "®",
+      "x0": 51.983999999999995,
+      "top": 122.544,
+      "x1": 58.46399999999999,
+      "bottom": 129.024,
+      "confidence": 57.241379,
+      "ocr_block": "1",
+      "ocr_paragraph": "8",
+      "ocr_line": "1"
+    },
+    {
+      "text": "No",
+      "x0": 64.22399999999999,
+      "top": 124.704,
+      "x1": 77.03999999999999,
+      "bottom": 131.904,
+      "confidence": 89.115723,
+      "ocr_block": "1",
+      "ocr_paragraph": "8",
+      "ocr_line": "1"
+    },
+    {
+      "text": "person",
+      "x0": 80.64,
+      "top": 126.14399999999999,
+      "x1": 113.03999999999999,
+      "bottom": 134.208,
+      "confidence": 95.03286,
+      "ocr_block": "1",
+      "ocr_paragraph": "8",
+      "ocr_line": "1"
+    },
+    {
+      "text": "shall",
+      "x0": 116.63999999999999,
+      "top": 124.704,
+      "x1": 138.95999999999998,
+      "bottom": 131.904,
+      "confidence": 95.760315,
+      "ocr_block": "1",
+      "ocr_paragraph": "8",
+      "ocr_line": "1"
+    },
+    {
+      "text": "be",
+      "x0": 142.56,
+      "top": 124.704,
+      "x1": 153.216,
+      "bottom": 131.904,
+      "confidence": 96.759727,
+      "ocr_block": "1",
+      "ocr_paragraph": "8",
+      "ocr_line": "1"
+    },
+    {
+      "text": "prosecuted",
+      "x0": 156.81599999999997,
+      "top": 124.704,
+      "x1": 209.37599999999998,
+      "bottom": 134.208,
+      "confidence": 96.392448,
+      "ocr_block": "1",
+      "ocr_paragraph": "8",
+      "ocr_line": "1"
+    },
+    {
+      "text": "or",
+      "x0": 212.97599999999997,
+      "top": 126.14399999999999,
+      "x1": 222.33599999999996,
+      "bottom": 131.904,
+      "confidence": 96.627357,
+      "ocr_block": "1",
+      "ocr_paragraph": "8",
+      "ocr_line": "1"
+    },
+    {
+      "text": "punished",
+      "x0": 225.93599999999998,
+      "top": 124.704,
+      "x1": 270.43199999999996,
+      "bottom": 134.208,
+      "confidence": 96.593414,
+      "ocr_block": "1",
+      "ocr_paragraph": "8",
+      "ocr_line": "1"
+    },
+    {
+      "text": "for",
+      "x0": 274.75199999999995,
+      "top": 123.984,
+      "x1": 287.71199999999993,
+      "bottom": 131.904,
+      "confidence": 96.785118,
+      "ocr_block": "1",
+      "ocr_paragraph": "8",
+      "ocr_line": "1"
+    },
+    {
+      "text": "different",
+      "x0": 291.31199999999995,
+      "top": 123.984,
+      "x1": 332.92799999999994,
+      "bottom": 131.904,
+      "confidence": 96.532616,
+      "ocr_block": "1",
+      "ocr_paragraph": "8",
+      "ocr_line": "1"
+    },
+    {
+      "text": "offence",
+      "x0": 336.52799999999996,
+      "top": 123.984,
+      "x1": 371.80799999999994,
+      "bottom": 131.904,
+      "confidence": 96.087563,
+      "ocr_block": "1",
+      "ocr_paragraph": "8",
+      "ocr_line": "1"
+    },
+    {
+      "text": "again.",
+      "x0": 375.40799999999996,
+      "top": 124.704,
+      "x1": 403.34399999999994,
+      "bottom": 134.208,
+      "confidence": 95.921913,
+      "ocr_block": "1",
+      "ocr_paragraph": "8",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

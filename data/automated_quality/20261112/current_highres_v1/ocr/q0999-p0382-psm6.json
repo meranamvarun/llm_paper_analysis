@@ -1,0 +1,734 @@
+{
+  "pdf_page": 382,
+  "crop_top": 96.16136000000006,
+  "crop_bottom": 206.16135999999995,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0382:l0004:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.5 While differentiating between judicial and legislative creativity, it was stated that \"the creative power of the courts is limited by existing legal material at",
+      "bbox": [
+        43.775999999999996,
+        4.4639999999999995,
+        538.848,
+        10.943999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "their command. They find the material and shape it. The legislature may manufacture entirely new material\". Who made this statement?",
+      "bbox": [
+        62.495999999999995,
+        13.536,
+        489.168,
+        20.016
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "Ans a",
+      "bbox": [
+        43.343999999999994,
+        25.2,
+        86.544,
+        37.583999999999996
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "1. Savigny",
+      "bbox": [
+        88.55999999999999,
+        35.279999999999994,
+        118.08,
+        41.327999999999996
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "2. Allen",
+      "bbox": [
+        88.27199999999999,
+        56.303999999999995,
+        110.16,
+        61.488
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "rad",
+      "bbox": [
+        72.43199999999999,
+        67.24799999999999,
+        87.11999999999999,
+        84.81599999999999
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "3. Salmond",
+      "bbox": [
+        88.27199999999999,
+        77.75999999999999,
+        121.24799999999999,
+        82.8
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "rd",
+      "bbox": [
+        72.43199999999999,
+        88.704,
+        86.54399999999998,
+        106.12799999999999
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "4. Austin",
+      "bbox": [
+        88.128,
+        99.36,
+        114.04799999999999,
+        104.256
+      ]
+    }
+  ],
+  "text": "Q.5 While differentiating between judicial and legislative creativity, it was stated that \"the creative power of the courts is limited by existing legal material at\ntheir command. They find the material and shape it. The legislature may manufacture entirely new material\". Who made this statement?\nAns a\n1. Savigny\n2. Allen\nrad\n3. Salmond\nrd\n4. Austin",
+  "ocr_words": [
+    {
+      "text": "Q.5",
+      "x0": 43.775999999999996,
+      "top": 4.752,
+      "x1": 54.14399999999999,
+      "bottom": 10.367999999999999,
+      "confidence": 92.805382,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "While",
+      "x0": 62.495999999999995,
+      "top": 4.4639999999999995,
+      "x1": 80.35199999999999,
+      "bottom": 9.648,
+      "confidence": 96.086159,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "differentiating",
+      "x0": 82.65599999999999,
+      "top": 4.4639999999999995,
+      "x1": 127.29599999999999,
+      "bottom": 10.943999999999999,
+      "confidence": 96.287308,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "between",
+      "x0": 129.6,
+      "top": 4.4639999999999995,
+      "x1": 156.23999999999998,
+      "bottom": 9.648,
+      "confidence": 95.853935,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "judicial",
+      "x0": 158.256,
+      "top": 4.4639999999999995,
+      "x1": 180.288,
+      "bottom": 10.943999999999999,
+      "confidence": 96.528206,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 182.736,
+      "top": 4.4639999999999995,
+      "x1": 193.67999999999998,
+      "bottom": 9.648,
+      "confidence": 96.528206,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "legislative",
+      "x0": 196.272,
+      "top": 4.4639999999999995,
+      "x1": 226.944,
+      "bottom": 10.943999999999999,
+      "confidence": 96.452423,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "creativity,",
+      "x0": 229.10399999999998,
+      "top": 4.608,
+      "x1": 259.77599999999995,
+      "bottom": 10.943999999999999,
+      "confidence": 96.671204,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "it",
+      "x0": 262.224,
+      "top": 4.608,
+      "x1": 265.96799999999996,
+      "bottom": 9.648,
+      "confidence": 96.068901,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "was",
+      "x0": 268.128,
+      "top": 6.047999999999999,
+      "x1": 279.936,
+      "bottom": 9.648,
+      "confidence": 96.253716,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "stated",
+      "x0": 282.23999999999995,
+      "top": 4.4639999999999995,
+      "x1": 301.1039999999999,
+      "bottom": 9.648,
+      "confidence": 96.634109,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "that",
+      "x0": 303.40799999999996,
+      "top": 4.4639999999999995,
+      "x1": 316.08,
+      "bottom": 9.648,
+      "confidence": 96.794571,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "\"the",
+      "x0": 318.38399999999996,
+      "top": 4.4639999999999995,
+      "x1": 331.34399999999994,
+      "bottom": 9.648,
+      "confidence": 96.31469,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "creative",
+      "x0": 333.64799999999997,
+      "top": 4.608,
+      "x1": 358.128,
+      "bottom": 9.648,
+      "confidence": 96.693718,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "power",
+      "x0": 360.57599999999996,
+      "top": 6.047999999999999,
+      "x1": 380.01599999999996,
+      "bottom": 10.943999999999999,
+      "confidence": 96.252899,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 382.176,
+      "top": 4.4639999999999995,
+      "x1": 388.368,
+      "bottom": 9.648,
+      "confidence": 96.351997,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 390.09599999999995,
+      "top": 4.4639999999999995,
+      "x1": 400.0319999999999,
+      "bottom": 9.648,
+      "confidence": 96.535507,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "courts",
+      "x0": 402.33599999999996,
+      "top": 5.183999999999999,
+      "x1": 421.34399999999994,
+      "bottom": 9.648,
+      "confidence": 96.698914,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 423.64799999999997,
+      "top": 4.608,
+      "x1": 427.82399999999996,
+      "bottom": 9.648,
+      "confidence": 96.09314,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "limited",
+      "x0": 430.272,
+      "top": 4.4639999999999995,
+      "x1": 451.296,
+      "bottom": 9.648,
+      "confidence": 96.628044,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "by",
+      "x0": 453.888,
+      "top": 4.4639999999999995,
+      "x1": 460.79999999999995,
+      "bottom": 10.943999999999999,
+      "confidence": 96.955116,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "existing",
+      "x0": 462.96,
+      "top": 4.608,
+      "x1": 486.57599999999996,
+      "bottom": 10.943999999999999,
+      "confidence": 96.580505,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "legal",
+      "x0": 488.87999999999994,
+      "top": 4.4639999999999995,
+      "x1": 502.70399999999995,
+      "bottom": 10.943999999999999,
+      "confidence": 96.75322,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "material",
+      "x0": 505.29599999999994,
+      "top": 4.4639999999999995,
+      "x1": 530.64,
+      "bottom": 9.648,
+      "confidence": 96.790382,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "at",
+      "x0": 533.088,
+      "top": 5.183999999999999,
+      "x1": 538.848,
+      "bottom": 9.648,
+      "confidence": 96.767487,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "their",
+      "x0": 62.495999999999995,
+      "top": 13.68,
+      "x1": 77.184,
+      "bottom": 18.72,
+      "confidence": 96.694496,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "command.",
+      "x0": 79.19999999999999,
+      "top": 13.68,
+      "x1": 111.6,
+      "bottom": 18.72,
+      "confidence": 96.273033,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "They",
+      "x0": 113.904,
+      "top": 13.68,
+      "x1": 128.736,
+      "bottom": 20.016,
+      "confidence": 96.517349,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "find",
+      "x0": 130.608,
+      "top": 13.536,
+      "x1": 142.416,
+      "bottom": 18.72,
+      "confidence": 96.6633,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 144.576,
+      "top": 13.68,
+      "x1": 154.656,
+      "bottom": 18.72,
+      "confidence": 96.143738,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "material",
+      "x0": 157.10399999999998,
+      "top": 13.68,
+      "x1": 182.44799999999998,
+      "bottom": 18.72,
+      "confidence": 96.010681,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "and",
+      "x0": 184.75199999999998,
+      "top": 13.68,
+      "x1": 195.83999999999997,
+      "bottom": 18.72,
+      "confidence": 96.972008,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "shape",
+      "x0": 198.28799999999998,
+      "top": 13.68,
+      "x1": 216.14399999999998,
+      "bottom": 20.016,
+      "confidence": 96.566231,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "it.",
+      "x0": 218.59199999999998,
+      "top": 13.68,
+      "x1": 224.20799999999997,
+      "bottom": 18.72,
+      "confidence": 96.626793,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "The",
+      "x0": 226.368,
+      "top": 13.68,
+      "x1": 237.456,
+      "bottom": 18.72,
+      "confidence": 96.538643,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "legislature",
+      "x0": 240.04799999999997,
+      "top": 13.68,
+      "x1": 271.87199999999996,
+      "bottom": 20.016,
+      "confidence": 96.503052,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "may",
+      "x0": 274.32,
+      "top": 15.12,
+      "x1": 287.13599999999997,
+      "bottom": 20.016,
+      "confidence": 96.745987,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "manufacture",
+      "x0": 289.296,
+      "top": 13.536,
+      "x1": 328.752,
+      "bottom": 18.72,
+      "confidence": 96.37336,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "entirely",
+      "x0": 330.912,
+      "top": 13.68,
+      "x1": 354.67199999999997,
+      "bottom": 20.016,
+      "confidence": 96.136101,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "new",
+      "x0": 356.976,
+      "top": 15.12,
+      "x1": 369.648,
+      "bottom": 18.72,
+      "confidence": 96.333359,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "material\".",
+      "x0": 371.952,
+      "top": 13.536,
+      "x1": 402.624,
+      "bottom": 18.72,
+      "confidence": 95.541298,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Who",
+      "x0": 405.07199999999995,
+      "top": 13.68,
+      "x1": 419.4719999999999,
+      "bottom": 18.72,
+      "confidence": 96.129715,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "made",
+      "x0": 421.91999999999996,
+      "top": 13.68,
+      "x1": 438.768,
+      "bottom": 18.72,
+      "confidence": 96.365379,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "this",
+      "x0": 440.784,
+      "top": 13.68,
+      "x1": 451.872,
+      "bottom": 18.72,
+      "confidence": 95.886154,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "statement?",
+      "x0": 454.176,
+      "top": 13.68,
+      "x1": 489.168,
+      "bottom": 18.72,
+      "confidence": 96.263176,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.343999999999994,
+      "top": 26.639999999999997,
+      "x1": 54.57599999999999,
+      "bottom": 31.535999999999998,
+      "confidence": 96.543983,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "a",
+      "x0": 73.008,
+      "top": 25.2,
+      "x1": 86.544,
+      "bottom": 37.583999999999996,
+      "confidence": 48.427025,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "1.",
+      "x0": 88.55999999999999,
+      "top": 35.279999999999994,
+      "x1": 93.02399999999999,
+      "bottom": 40.032,
+      "confidence": 92.178589,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Savigny",
+      "x0": 95.616,
+      "top": 35.279999999999994,
+      "x1": 118.08,
+      "bottom": 41.327999999999996,
+      "confidence": 91.015823,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "2.",
+      "x0": 88.27199999999999,
+      "top": 56.592,
+      "x1": 93.02399999999999,
+      "bottom": 61.488,
+      "confidence": 96.519638,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Allen",
+      "x0": 95.472,
+      "top": 56.303999999999995,
+      "x1": 110.16,
+      "bottom": 61.48799999999999,
+      "confidence": 96.56382,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "rad",
+      "x0": 72.43199999999999,
+      "top": 67.24799999999999,
+      "x1": 87.11999999999999,
+      "bottom": 84.81599999999999,
+      "confidence": 56.093941,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "3.",
+      "x0": 88.27199999999999,
+      "top": 78.04799999999999,
+      "x1": 93.02399999999999,
+      "bottom": 82.79999999999998,
+      "confidence": 94.897346,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Salmond",
+      "x0": 95.616,
+      "top": 77.75999999999999,
+      "x1": 121.24799999999999,
+      "bottom": 82.8,
+      "confidence": 96.308807,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "rd",
+      "x0": 72.43199999999999,
+      "top": 88.704,
+      "x1": 86.54399999999998,
+      "bottom": 106.12799999999999,
+      "confidence": 51.84993,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "4.",
+      "x0": 88.128,
+      "top": 99.36,
+      "x1": 93.024,
+      "bottom": 104.112,
+      "confidence": 94.969055,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "Austin",
+      "x0": 95.472,
+      "top": 99.36,
+      "x1": 114.04799999999999,
+      "bottom": 104.256,
+      "confidence": 96.286667,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

@@ -1,0 +1,746 @@
+{
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0421:l0037:question",
+  "year_label": 2017,
+  "number": "99",
+  "pdf_page": 421,
+  "crop_top": 652.64,
+  "crop_bottom": 792.0,
+  "start_anchor": {
+    "pdf_page": 421,
+    "line_id": "l0037",
+    "bbox": [
+      37.68,
+      656.64,
+      548.88,
+      665.04
+    ]
+  },
+  "following_anchor": {
+    "pdf_page": 422,
+    "line_id": "l0001",
+    "bbox": [
+      37.68,
+      47.28,
+      553.68,
+      55.68
+    ]
+  },
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Question Number : 99 Question Id : 461139470 Question Type: MCQ Option Shuffling : Yes Display Question Number : Yes",
+      "bbox": [
+        37.872,
+        3.888,
+        549.0719999999999,
+        12.24
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Single Line Question Option : No Option Orientation : Vertical",
+      "bbox": [
+        37.872,
+        13.392,
+        293.328,
+        21.744
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "Correct : 1 Wrong : 0.25",
+      "bbox": [
+        37.872,
+        26.639999999999997,
+        138.096,
+        34.704
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "Who classified sources of law into binding and persuasive sources?",
+      "bbox": [
+        37.583999999999996,
+        39.023999999999994,
+        361.008,
+        49.248
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "Options :",
+      "bbox": [
+        37.872,
+        56.303999999999995,
+        73.87199999999999,
+        64.368
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "1. “ Keeton",
+      "bbox": [
+        39.023999999999994,
+        68.832,
+        96.47999999999999,
+        78.192
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "2. ® Salmond",
+      "bbox": [
+        38.303999999999995,
+        86.68799999999999,
+        105.83999999999997,
+        96.192
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "3. ® Duguit",
+      "bbox": [
+        38.303999999999995,
+        104.68799999999999,
+        96.47999999999999,
+        116.352
+      ]
+    }
+  ],
+  "text": "Question Number : 99 Question Id : 461139470 Question Type: MCQ Option Shuffling : Yes Display Question Number : Yes\nSingle Line Question Option : No Option Orientation : Vertical\nCorrect : 1 Wrong : 0.25\nWho classified sources of law into binding and persuasive sources?\nOptions :\n1. “ Keeton\n2. ® Salmond\n3. ® Duguit",
+  "ocr_words": [
+    {
+      "text": "Question",
+      "x0": 37.872,
+      "top": 3.888,
+      "x1": 73.15199999999999,
+      "bottom": 11.952,
+      "confidence": 96.684685,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Number",
+      "x0": 75.88799999999999,
+      "top": 4.032,
+      "x1": 109.15199999999999,
+      "bottom": 10.367999999999999,
+      "confidence": 93.28418,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 112.32,
+      "top": 5.76,
+      "x1": 113.75999999999999,
+      "bottom": 10.367999999999999,
+      "confidence": 92.942322,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "99",
+      "x0": 117.35999999999999,
+      "top": 3.888,
+      "x1": 125.99999999999999,
+      "bottom": 10.367999999999999,
+      "confidence": 95.775009,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Question",
+      "x0": 131.61599999999999,
+      "top": 3.888,
+      "x1": 166.896,
+      "bottom": 11.952,
+      "confidence": 96.760002,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Id",
+      "x0": 169.92,
+      "top": 4.032,
+      "x1": 178.272,
+      "bottom": 10.367999999999999,
+      "confidence": 92.664154,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 181.58399999999997,
+      "top": 5.76,
+      "x1": 183.02399999999997,
+      "bottom": 10.367999999999999,
+      "confidence": 83.899612,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "461139470",
+      "x0": 186.624,
+      "top": 3.888,
+      "x1": 228.24,
+      "bottom": 10.367999999999999,
+      "confidence": 96.448631,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Question",
+      "x0": 233.712,
+      "top": 3.888,
+      "x1": 269.13599999999997,
+      "bottom": 11.952,
+      "confidence": 96.170593,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Type:",
+      "x0": 272.15999999999997,
+      "top": 4.032,
+      "x1": 296.784,
+      "bottom": 12.24,
+      "confidence": 89.272858,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "MCQ",
+      "x0": 300.23999999999995,
+      "top": 3.888,
+      "x1": 322.55999999999995,
+      "bottom": 11.952,
+      "confidence": 89.272858,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Option",
+      "x0": 328.032,
+      "top": 3.888,
+      "x1": 355.536,
+      "bottom": 12.239999999999998,
+      "confidence": 93.198952,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Shuffling",
+      "x0": 358.84799999999996,
+      "top": 3.888,
+      "x1": 395.13599999999997,
+      "bottom": 12.239999999999998,
+      "confidence": 90.141396,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 398.592,
+      "top": 5.76,
+      "x1": 400.032,
+      "bottom": 10.367999999999999,
+      "confidence": 91.895248,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Yes",
+      "x0": 403.344,
+      "top": 4.032,
+      "x1": 417.456,
+      "bottom": 10.367999999999999,
+      "confidence": 96.378136,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Display",
+      "x0": 422.784,
+      "top": 3.888,
+      "x1": 452.592,
+      "bottom": 12.239999999999998,
+      "confidence": 95.940155,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Question",
+      "x0": 455.616,
+      "top": 3.888,
+      "x1": 490.89599999999996,
+      "bottom": 11.952,
+      "confidence": 95.97525,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Number",
+      "x0": 493.77599999999995,
+      "top": 4.032,
+      "x1": 526.896,
+      "bottom": 10.367999999999999,
+      "confidence": 93.278076,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 530.208,
+      "top": 5.76,
+      "x1": 531.648,
+      "bottom": 10.367999999999999,
+      "confidence": 92.442154,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Yes",
+      "x0": 535.1039999999999,
+      "top": 4.032,
+      "x1": 549.0719999999999,
+      "bottom": 10.367999999999999,
+      "confidence": 96.576492,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Single",
+      "x0": 37.872,
+      "top": 13.392,
+      "x1": 61.632,
+      "bottom": 21.744,
+      "confidence": 96.381859,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Line",
+      "x0": 64.368,
+      "top": 13.392,
+      "x1": 82.368,
+      "bottom": 19.872,
+      "confidence": 95.210312,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Question",
+      "x0": 85.392,
+      "top": 13.392,
+      "x1": 120.672,
+      "bottom": 21.456,
+      "confidence": 95.210312,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Option",
+      "x0": 123.83999999999999,
+      "top": 13.392,
+      "x1": 151.2,
+      "bottom": 21.744,
+      "confidence": 92.860863,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": ":",
+      "x0": 155.37599999999998,
+      "top": 15.264,
+      "x1": 156.09599999999998,
+      "bottom": 19.872,
+      "confidence": 92.835464,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "No",
+      "x0": 159.552,
+      "top": 13.536,
+      "x1": 170.64,
+      "bottom": 19.872,
+      "confidence": 96.436874,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Option",
+      "x0": 176.112,
+      "top": 13.392,
+      "x1": 203.61599999999999,
+      "bottom": 21.744,
+      "confidence": 96.436874,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Orientation",
+      "x0": 206.64,
+      "top": 13.392,
+      "x1": 252.86399999999998,
+      "bottom": 19.872,
+      "confidence": 93.033646,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": ":",
+      "x0": 256.32,
+      "top": 15.264,
+      "x1": 257.76,
+      "bottom": 19.872,
+      "confidence": 92.625671,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Vertical",
+      "x0": 261.216,
+      "top": 13.392,
+      "x1": 293.328,
+      "bottom": 19.872,
+      "confidence": 96.351891,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Correct",
+      "x0": 37.872,
+      "top": 26.639999999999997,
+      "x1": 68.544,
+      "bottom": 33.12,
+      "confidence": 86.788033,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 71.856,
+      "top": 28.511999999999997,
+      "x1": 73.29599999999999,
+      "bottom": 33.12,
+      "confidence": 86.765259,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1",
+      "x0": 79.344,
+      "top": 26.639999999999997,
+      "x1": 80.496,
+      "bottom": 32.976,
+      "confidence": 90.758171,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Wrong",
+      "x0": 86.112,
+      "top": 26.784,
+      "x1": 113.904,
+      "bottom": 34.704,
+      "confidence": 88.955978,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 117.35999999999999,
+      "top": 28.511999999999997,
+      "x1": 118.79999999999998,
+      "bottom": 33.12,
+      "confidence": 83.82795,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "0.25",
+      "x0": 122.39999999999999,
+      "top": 26.639999999999997,
+      "x1": 138.096,
+      "bottom": 33.12,
+      "confidence": 96.688995,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Who",
+      "x0": 37.583999999999996,
+      "top": 39.744,
+      "x1": 58.464,
+      "bottom": 47.088,
+      "confidence": 94.748451,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "classified",
+      "x0": 62.06399999999999,
+      "top": 39.023999999999994,
+      "x1": 106.55999999999999,
+      "bottom": 47.087999999999994,
+      "confidence": 95.82959,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "sources",
+      "x0": 110.16,
+      "top": 41.184,
+      "x1": 146.16,
+      "bottom": 47.087999999999994,
+      "confidence": 95.520378,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 149.76,
+      "top": 39.023999999999994,
+      "x1": 159.696,
+      "bottom": 47.087999999999994,
+      "confidence": 96.635666,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "law",
+      "x0": 162.576,
+      "top": 39.744,
+      "x1": 179.136,
+      "bottom": 47.088,
+      "confidence": 93.603912,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "into",
+      "x0": 182.016,
+      "top": 39.744,
+      "x1": 200.016,
+      "bottom": 47.088,
+      "confidence": 88.341034,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "binding",
+      "x0": 203.61599999999999,
+      "top": 39.744,
+      "x1": 240.19199999999998,
+      "bottom": 49.248,
+      "confidence": 95.925537,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 243.79199999999997,
+      "top": 39.744,
+      "x1": 261.792,
+      "bottom": 47.088,
+      "confidence": 95.837585,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "persuasive",
+      "x0": 265.392,
+      "top": 39.744,
+      "x1": 316.368,
+      "bottom": 49.248,
+      "confidence": 95.659622,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "sources?",
+      "x0": 319.96799999999996,
+      "top": 39.744,
+      "x1": 361.008,
+      "bottom": 47.088,
+      "confidence": 95.659622,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Options",
+      "x0": 37.872,
+      "top": 56.303999999999995,
+      "x1": 68.832,
+      "bottom": 64.368,
+      "confidence": 93.118164,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 72.43199999999999,
+      "top": 58.175999999999995,
+      "x1": 73.87199999999999,
+      "bottom": 62.78399999999999,
+      "confidence": 93.118164,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1.",
+      "x0": 39.023999999999994,
+      "top": 70.99199999999999,
+      "x1": 45.50399999999999,
+      "bottom": 78.192,
+      "confidence": 87.764069,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "“",
+      "x0": 54.288,
+      "top": 68.832,
+      "x1": 58.608,
+      "bottom": 76.752,
+      "confidence": 0.0,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Keeton",
+      "x0": 64.22399999999999,
+      "top": 70.99199999999999,
+      "x1": 96.47999999999999,
+      "bottom": 78.192,
+      "confidence": 94.838089,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2.",
+      "x0": 38.303999999999995,
+      "top": 88.848,
+      "x1": 45.50399999999999,
+      "bottom": 96.192,
+      "confidence": 89.273582,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "®",
+      "x0": 51.983999999999995,
+      "top": 86.68799999999999,
+      "x1": 58.46399999999999,
+      "bottom": 93.31199999999998,
+      "confidence": 76.874954,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Salmond",
+      "x0": 64.94399999999999,
+      "top": 88.848,
+      "x1": 105.83999999999997,
+      "bottom": 96.192,
+      "confidence": 96.297913,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "3.",
+      "x0": 38.303999999999995,
+      "top": 106.848,
+      "x1": 45.50399999999999,
+      "bottom": 114.048,
+      "confidence": 79.495743,
+      "ocr_block": "1",
+      "ocr_paragraph": "7",
+      "ocr_line": "1"
+    },
+    {
+      "text": "®",
+      "x0": 51.983999999999995,
+      "top": 104.68799999999999,
+      "x1": 58.46399999999999,
+      "bottom": 111.16799999999999,
+      "confidence": 60.827766,
+      "ocr_block": "1",
+      "ocr_paragraph": "7",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Duguit",
+      "x0": 64.22399999999999,
+      "top": 106.848,
+      "x1": 96.47999999999999,
+      "bottom": 116.352,
+      "confidence": 83.205719,
+      "ocr_block": "1",
+      "ocr_paragraph": "7",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

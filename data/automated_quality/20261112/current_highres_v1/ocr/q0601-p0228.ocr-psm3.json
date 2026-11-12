@@ -1,0 +1,516 @@
+{
+  "pdf_page": 228,
+  "crop_top": 544.692,
+  "crop_bottom": 644.132,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0228:l0031:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "2. The prevailing method of the practical science of law is the method whichis",
+      "bbox": [
+        72.288,
+        5.183999999999999,
+        466.128,
+        16.128
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "|",
+      "bbox": [
+        493.48799999999994,
+        15.552,
+        499.82399999999996,
+        16.128
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(A) Employed by judges for application of law.",
+      "bbox": [
+        100.51199999999999,
+        21.168,
+        329.472,
+        32.111999999999995
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(B) Indicated in law books.",
+      "bbox": [
+        100.51199999999999,
+        37.296,
+        233.85599999999997,
+        48.096
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(C) Abstraction of social mind.",
+      "bbox": [
+        100.51199999999999,
+        52.416,
+        252.14399999999998,
+        63.35999999999999
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "(D) Legal optimism.",
+      "bbox": [
+        100.51199999999999,
+        68.39999999999999,
+        199.58399999999997,
+        79.344
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "CORRECT OPTION: A",
+      "bbox": [
+        72.43199999999999,
+        84.81599999999999,
+        197.856,
+        93.16799999999999
+      ]
+    }
+  ],
+  "text": "2. The prevailing method of the practical science of law is the method whichis\n|\n(A) Employed by judges for application of law.\n(B) Indicated in law books.\n(C) Abstraction of social mind.\n(D) Legal optimism.\nCORRECT OPTION: A",
+  "ocr_words": [
+    {
+      "text": "2.",
+      "x0": 72.288,
+      "top": 5.4719999999999995,
+      "x1": 79.63199999999999,
+      "bottom": 13.68,
+      "confidence": 78.415039,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 94.032,
+      "top": 5.183999999999999,
+      "x1": 111.88799999999999,
+      "bottom": 13.679999999999998,
+      "confidence": 76.487602,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "prevailing",
+      "x0": 115.19999999999999,
+      "top": 5.183999999999999,
+      "x1": 164.59199999999998,
+      "bottom": 16.128,
+      "confidence": 95.785042,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "method",
+      "x0": 168.19199999999998,
+      "top": 5.183999999999999,
+      "x1": 204.62399999999997,
+      "bottom": 13.679999999999998,
+      "confidence": 96.420242,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 208.368,
+      "top": 5.183999999999999,
+      "x1": 219.31199999999998,
+      "bottom": 13.679999999999998,
+      "confidence": 96.420242,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 221.61599999999999,
+      "top": 5.183999999999999,
+      "x1": 235.72799999999998,
+      "bottom": 13.679999999999998,
+      "confidence": 96.6399,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "practical",
+      "x0": 239.04,
+      "top": 5.183999999999999,
+      "x1": 280.08,
+      "bottom": 16.128,
+      "confidence": 95.781578,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "science",
+      "x0": 283.96799999999996,
+      "top": 5.183999999999999,
+      "x1": 319.24799999999993,
+      "bottom": 13.679999999999998,
+      "confidence": 95.425522,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 323.28,
+      "top": 5.183999999999999,
+      "x1": 334.224,
+      "bottom": 13.679999999999998,
+      "confidence": 96.030655,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "law",
+      "x0": 336.96,
+      "top": 5.183999999999999,
+      "x1": 353.808,
+      "bottom": 13.679999999999998,
+      "confidence": 94.132935,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 357.26399999999995,
+      "top": 5.183999999999999,
+      "x1": 364.46399999999994,
+      "bottom": 13.679999999999998,
+      "confidence": 94.132935,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 367.91999999999996,
+      "top": 5.183999999999999,
+      "x1": 382.17599999999993,
+      "bottom": 13.679999999999998,
+      "confidence": 96.677689,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "method",
+      "x0": 385.63199999999995,
+      "top": 5.183999999999999,
+      "x1": 422.20799999999997,
+      "bottom": 13.679999999999998,
+      "confidence": 96.407089,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "whichis",
+      "x0": 425.52,
+      "top": 5.183999999999999,
+      "x1": 466.128,
+      "bottom": 13.679999999999998,
+      "confidence": 57.08638,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "|",
+      "x0": 493.48799999999994,
+      "top": 15.552,
+      "x1": 499.82399999999996,
+      "bottom": 16.128,
+      "confidence": 44.102448,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 100.51199999999999,
+      "top": 21.168,
+      "x1": 113.47199999999998,
+      "bottom": 31.967999999999996,
+      "confidence": 96.668358,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Employed",
+      "x0": 121.96799999999999,
+      "top": 21.168,
+      "x1": 171.93599999999998,
+      "bottom": 32.111999999999995,
+      "confidence": 96.692825,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "by",
+      "x0": 174.81599999999997,
+      "top": 21.168,
+      "x1": 187.19999999999996,
+      "bottom": 32.111999999999995,
+      "confidence": 96.692825,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "judges",
+      "x0": 188.928,
+      "top": 21.168,
+      "x1": 220.896,
+      "bottom": 32.111999999999995,
+      "confidence": 96.542198,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "for",
+      "x0": 224.35199999999998,
+      "top": 21.168,
+      "x1": 238.60799999999998,
+      "bottom": 29.663999999999998,
+      "confidence": 96.500862,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "application",
+      "x0": 241.77599999999998,
+      "top": 21.168,
+      "x1": 294.62399999999997,
+      "bottom": 32.111999999999995,
+      "confidence": 96.541618,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 297.792,
+      "top": 21.168,
+      "x1": 308.736,
+      "bottom": 29.663999999999998,
+      "confidence": 95.899544,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "law.",
+      "x0": 310.464,
+      "top": 21.168,
+      "x1": 329.472,
+      "bottom": 29.663999999999998,
+      "confidence": 96.143967,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(B)",
+      "x0": 100.51199999999999,
+      "top": 37.296,
+      "x1": 112.89599999999999,
+      "bottom": 48.096,
+      "confidence": 92.340927,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Indicated",
+      "x0": 121.96799999999999,
+      "top": 37.296,
+      "x1": 167.04,
+      "bottom": 45.792,
+      "confidence": 96.122635,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "in",
+      "x0": 170.64,
+      "top": 37.296,
+      "x1": 179.56799999999998,
+      "bottom": 45.647999999999996,
+      "confidence": 95.72937,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "law",
+      "x0": 183.02399999999997,
+      "top": 37.296,
+      "x1": 199.87199999999996,
+      "bottom": 45.792,
+      "confidence": 96.281128,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "books.",
+      "x0": 201.88799999999998,
+      "top": 37.296,
+      "x1": 233.85599999999997,
+      "bottom": 45.792,
+      "confidence": 95.969017,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(C)",
+      "x0": 100.51199999999999,
+      "top": 52.559999999999995,
+      "x1": 112.89599999999999,
+      "bottom": 63.35999999999999,
+      "confidence": 92.832047,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Abstraction",
+      "x0": 121.82399999999998,
+      "top": 52.416,
+      "x1": 177.55199999999996,
+      "bottom": 61.056,
+      "confidence": 96.585297,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 181.00799999999998,
+      "top": 52.559999999999995,
+      "x1": 191.95199999999997,
+      "bottom": 61.056,
+      "confidence": 96.089989,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "social",
+      "x0": 194.688,
+      "top": 52.416,
+      "x1": 222.33599999999998,
+      "bottom": 61.056,
+      "confidence": 96.924103,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "mind.",
+      "x0": 224.92799999999997,
+      "top": 52.416,
+      "x1": 252.14399999999998,
+      "bottom": 61.056,
+      "confidence": 96.742897,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(D)",
+      "x0": 100.51199999999999,
+      "top": 68.544,
+      "x1": 113.47199999999998,
+      "bottom": 79.344,
+      "confidence": 91.218323,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Legal",
+      "x0": 121.96799999999999,
+      "top": 68.39999999999999,
+      "x1": 148.60799999999998,
+      "bottom": 79.344,
+      "confidence": 96.160446,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "optimism.",
+      "x0": 152.35199999999998,
+      "top": 68.39999999999999,
+      "x1": 199.58399999999997,
+      "bottom": 79.344,
+      "confidence": 96.191284,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "CORRECT",
+      "x0": 72.43199999999999,
+      "top": 84.81599999999999,
+      "x1": 131.61599999999999,
+      "bottom": 93.16799999999999,
+      "confidence": 96.0951,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "OPTION:",
+      "x0": 135.504,
+      "top": 84.96,
+      "x1": 185.184,
+      "bottom": 93.16799999999999,
+      "confidence": 96.221443,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "A",
+      "x0": 189.504,
+      "top": 84.96,
+      "x1": 197.856,
+      "bottom": 93.024,
+      "confidence": 96.552917,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

@@ -1,0 +1,448 @@
+{
+  "pdf_page": 386,
+  "crop_top": 537.52136,
+  "crop_bottom": 638.64136,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0386:l0033:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.30 Savigny, Salmond and Dicey were the main supporters of which theory of personality?",
+      "bbox": [
+        41.94,
+        4.5,
+        330.48,
+        10.98
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Ans a",
+      "bbox": [
+        43.379999999999995,
+        16.02,
+        86.75999999999999,
+        28.439999999999998
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "1. Organic theory",
+      "bbox": [
+        88.56,
+        26.099999999999998,
+        140.57999999999998,
+        32.58
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "x",
+      "bbox": [
+        73.08,
+        37.26,
+        86.75999999999999,
+        49.86
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "2. Concession theory",
+      "bbox": [
+        88.38,
+        47.339999999999996,
+        151.20000000000002,
+        53.81999999999999
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "x",
+      "bbox": [
+        73.08,
+        58.68,
+        86.75999999999999,
+        71.28
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "3. Bracket theory",
+      "bbox": [
+        88.2,
+        68.75999999999999,
+        140.04,
+        75.24
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "v",
+      "bbox": [
+        73.8,
+        79.2,
+        87.66,
+        92.7
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "4. Fiction theory",
+      "bbox": [
+        88.02,
+        90.17999999999999,
+        137.51999999999998,
+        96.66
+      ]
+    }
+  ],
+  "text": "Q.30 Savigny, Salmond and Dicey were the main supporters of which theory of personality?\nAns a\n1. Organic theory\nx\n2. Concession theory\nx\n3. Bracket theory\nv\n4. Fiction theory",
+  "ocr_words": [
+    {
+      "text": "Q.30",
+      "x0": 41.94,
+      "top": 4.68,
+      "x1": 56.16,
+      "bottom": 10.44,
+      "confidence": 91.410553,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Savigny,",
+      "x0": 62.64,
+      "top": 4.68,
+      "x1": 87.66,
+      "bottom": 10.98,
+      "confidence": 91.422279,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Salmond",
+      "x0": 90.0,
+      "top": 4.5,
+      "x1": 116.64,
+      "bottom": 9.719999999999999,
+      "confidence": 96.52739,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 118.97999999999999,
+      "top": 4.5,
+      "x1": 129.95999999999998,
+      "bottom": 9.719999999999999,
+      "confidence": 95.044235,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Dicey",
+      "x0": 132.66,
+      "top": 4.68,
+      "x1": 149.22,
+      "bottom": 10.98,
+      "confidence": 96.613564,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "were",
+      "x0": 151.01999999999998,
+      "top": 5.9399999999999995,
+      "x1": 166.49999999999997,
+      "bottom": 9.719999999999999,
+      "confidence": 96.638855,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 168.48,
+      "top": 4.5,
+      "x1": 178.56,
+      "bottom": 9.719999999999999,
+      "confidence": 95.732353,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "main",
+      "x0": 180.9,
+      "top": 4.68,
+      "x1": 195.84,
+      "bottom": 9.719999999999999,
+      "confidence": 95.732353,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "supporters",
+      "x0": 198.18,
+      "top": 5.04,
+      "x1": 231.48000000000002,
+      "bottom": 10.98,
+      "confidence": 96.135529,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 233.64,
+      "top": 4.5,
+      "x1": 239.76,
+      "bottom": 9.719999999999999,
+      "confidence": 96.613319,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "which",
+      "x0": 241.56,
+      "top": 4.5,
+      "x1": 259.74,
+      "bottom": 9.719999999999999,
+      "confidence": 96.244438,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "theory",
+      "x0": 261.9,
+      "top": 4.5,
+      "x1": 282.41999999999996,
+      "bottom": 10.98,
+      "confidence": 96.244438,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 284.4,
+      "top": 4.5,
+      "x1": 290.52,
+      "bottom": 9.719999999999999,
+      "confidence": 96.380333,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "personality?",
+      "x0": 292.68,
+      "top": 4.5,
+      "x1": 330.48,
+      "bottom": 10.98,
+      "confidence": 96.438683,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.379999999999995,
+      "top": 17.82,
+      "x1": 54.53999999999999,
+      "bottom": 22.68,
+      "confidence": 96.807602,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 73.08,
+      "top": 16.02,
+      "x1": 86.75999999999999,
+      "bottom": 28.439999999999998,
+      "confidence": 54.666435,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "x",
+      "x0": 73.08,
+      "top": 37.26,
+      "x1": 86.75999999999999,
+      "bottom": 49.86,
+      "confidence": 81.577194,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "x",
+      "x0": 73.08,
+      "top": 58.68,
+      "x1": 86.75999999999999,
+      "bottom": 71.28,
+      "confidence": 81.577194,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "v",
+      "x0": 73.8,
+      "top": 79.2,
+      "x1": 87.66,
+      "bottom": 92.7,
+      "confidence": 67.00531,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "1.",
+      "x0": 88.56,
+      "top": 26.459999999999997,
+      "x1": 93.06,
+      "bottom": 31.139999999999997,
+      "confidence": 96.849678,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Organic",
+      "x0": 95.58,
+      "top": 26.279999999999998,
+      "x1": 118.62,
+      "bottom": 32.58,
+      "confidence": 96.649864,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "theory",
+      "x0": 120.6,
+      "top": 26.099999999999998,
+      "x1": 140.57999999999998,
+      "bottom": 32.58,
+      "confidence": 96.689316,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2.",
+      "x0": 88.38,
+      "top": 47.519999999999996,
+      "x1": 93.06,
+      "bottom": 52.379999999999995,
+      "confidence": 96.085411,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Concession",
+      "x0": 95.58,
+      "top": 47.519999999999996,
+      "x1": 129.06,
+      "bottom": 52.559999999999995,
+      "confidence": 95.670692,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "theory",
+      "x0": 131.4,
+      "top": 47.339999999999996,
+      "x1": 151.20000000000002,
+      "bottom": 53.81999999999999,
+      "confidence": 95.670692,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "3.",
+      "x0": 88.2,
+      "top": 68.94,
+      "x1": 93.06,
+      "bottom": 73.98,
+      "confidence": 96.712738,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Bracket",
+      "x0": 95.94,
+      "top": 68.75999999999999,
+      "x1": 118.08,
+      "bottom": 73.97999999999999,
+      "confidence": 96.625893,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "theory",
+      "x0": 120.24,
+      "top": 68.75999999999999,
+      "x1": 140.04,
+      "bottom": 75.24,
+      "confidence": 96.755989,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "4.",
+      "x0": 88.02,
+      "top": 90.53999999999999,
+      "x1": 93.06,
+      "bottom": 95.22,
+      "confidence": 96.11821,
+      "ocr_block": "6",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Fiction",
+      "x0": 95.94,
+      "top": 90.36,
+      "x1": 115.19999999999999,
+      "bottom": 95.4,
+      "confidence": 95.86599,
+      "ocr_block": "6",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "theory",
+      "x0": 117.53999999999999,
+      "top": 90.17999999999999,
+      "x1": 137.51999999999998,
+      "bottom": 96.66,
+      "confidence": 96.649475,
+      "ocr_block": "6",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

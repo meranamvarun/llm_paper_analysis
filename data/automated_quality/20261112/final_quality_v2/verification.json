@@ -1,0 +1,47 @@
+{
+  "status": "PASS",
+  "source_sha256": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b",
+  "current_input_hashes_verified": 6351,
+  "current_output_hashes_verified_before_report": 8,
+  "unique_active_records": 1395,
+  "formats": {
+    "mcq": 1387,
+    "essay": 5,
+    "omitted_for_valuation": 3
+  },
+  "surviving_ids_unchanged": true,
+  "false_candidates_retained_with_dispositions": 8,
+  "new_source_records": 6,
+  "all_disposition_targets_resolve": true,
+  "all_six_accepted_decision_metadata_retained": true,
+  "all_review_statuses_unreviewed": true,
+  "no_source_text_reclassified_as_human_gold": true,
+  "every_target_hash_and_strict_comparison_passes": true,
+  "all_current_queues_empty": true,
+  "synthetic_detector_challenge": {
+    "seed": 20261111,
+    "cases": 600,
+    "known_defects": 500,
+    "defects_flagged": 500,
+    "clean_cases": 100,
+    "clean_cases_flagged": 0,
+    "scope": "Synthetic detector regression only, not an empirical corpus error rate"
+  },
+  "extraction_tests": {
+    "passed": 78
+  },
+  "harness_tests": {
+    "passed_suite": true,
+    "total": 16,
+    "skipped": 6
+  },
+  "harness_check": {
+    "errors": 0,
+    "warnings": 0
+  },
+  "limits": [
+    "Not independent human validation or an empirical error rate",
+    "Source completeness, rights, attribution and legal coding remain unverified",
+    "Historical extractor issues remain provenance rather than current regenerated flags"
+  ]
+}

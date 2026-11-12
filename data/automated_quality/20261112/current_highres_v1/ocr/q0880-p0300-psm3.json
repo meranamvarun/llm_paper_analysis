@@ -1,0 +1,397 @@
+{
+  "pdf_page": 300,
+  "crop_top": 670.7328,
+  "crop_bottom": 770.7927999999999,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0300:l0029:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "41. “The Courts are the capitals of law’s empire, and judges are its princes’ wrote:",
+      "bbox": [
+        46.8,
+        4.896,
+        467.712,
+        15.119999999999997
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "(A) H.L.A. Hart (B) Ronald Dworkin",
+      "bbox": [
+        75.312,
+        24.191999999999997,
+        413.13599999999997,
+        34.416
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(C) Robert Nozick (D) John Rawls",
+      "bbox": [
+        75.312,
+        43.343999999999994,
+        388.8,
+        53.711999999999996
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "PG 2019",
+      "bbox": [
+        46.943999999999996,
+        81.79199999999999,
+        91.728,
+        90.14399999999999
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "3",
+      "bbox": [
+        295.77599999999995,
+        86.39999999999999,
+        300.96,
+        94.17599999999999
+      ]
+    }
+  ],
+  "text": "41. “The Courts are the capitals of law’s empire, and judges are its princes’ wrote:\n(A) H.L.A. Hart (B) Ronald Dworkin\n(C) Robert Nozick (D) John Rawls\nPG 2019\n3",
+  "ocr_words": [
+    {
+      "text": "41.",
+      "x0": 46.8,
+      "top": 5.4719999999999995,
+      "x1": 60.623999999999995,
+      "bottom": 13.104,
+      "confidence": 95.846336,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "“The",
+      "x0": 75.024,
+      "top": 4.896,
+      "x1": 96.048,
+      "bottom": 13.104,
+      "confidence": 88.33493,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Courts",
+      "x0": 100.22399999999999,
+      "top": 4.896,
+      "x1": 133.488,
+      "bottom": 13.247999999999998,
+      "confidence": 95.944321,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "are",
+      "x0": 137.51999999999998,
+      "top": 7.776,
+      "x1": 153.07199999999997,
+      "bottom": 13.104,
+      "confidence": 96.892929,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 156.81599999999997,
+      "top": 4.896,
+      "x1": 172.65599999999998,
+      "bottom": 13.104,
+      "confidence": 96.454704,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "capitals",
+      "x0": 176.39999999999998,
+      "top": 4.896,
+      "x1": 215.42399999999998,
+      "bottom": 15.119999999999997,
+      "confidence": 96.287666,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 219.31199999999998,
+      "top": 4.896,
+      "x1": 228.81599999999997,
+      "bottom": 13.104,
+      "confidence": 91.239227,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "law’s",
+      "x0": 231.408,
+      "top": 4.896,
+      "x1": 256.176,
+      "bottom": 13.104,
+      "confidence": 91.239227,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "empire,",
+      "x0": 260.20799999999997,
+      "top": 4.896,
+      "x1": 297.35999999999996,
+      "bottom": 15.119999999999997,
+      "confidence": 96.565651,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 301.82399999999996,
+      "top": 4.896,
+      "x1": 320.11199999999997,
+      "bottom": 13.104,
+      "confidence": 96.765236,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "judges",
+      "x0": 322.99199999999996,
+      "top": 4.896,
+      "x1": 355.67999999999995,
+      "bottom": 15.119999999999997,
+      "confidence": 96.654739,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "are",
+      "x0": 359.856,
+      "top": 7.776,
+      "x1": 375.264,
+      "bottom": 13.104,
+      "confidence": 95.43808,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "its",
+      "x0": 379.152,
+      "top": 4.896,
+      "x1": 391.104,
+      "bottom": 13.104,
+      "confidence": 95.43808,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "princes’",
+      "x0": 394.99199999999996,
+      "top": 4.896,
+      "x1": 433.43999999999994,
+      "bottom": 15.119999999999997,
+      "confidence": 96.284981,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "wrote:",
+      "x0": 437.03999999999996,
+      "top": 5.904,
+      "x1": 467.712,
+      "bottom": 13.104,
+      "confidence": 96.680923,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 75.312,
+      "top": 24.191999999999997,
+      "x1": 89.136,
+      "bottom": 34.416,
+      "confidence": 82.144272,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "H.L.A.",
+      "x0": 103.392,
+      "top": 24.191999999999997,
+      "x1": 135.648,
+      "bottom": 32.544,
+      "confidence": 85.826965,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Hart",
+      "x0": 140.112,
+      "top": 24.336,
+      "x1": 163.728,
+      "bottom": 32.544,
+      "confidence": 96.282669,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(B)",
+      "x0": 302.11199999999997,
+      "top": 24.191999999999997,
+      "x1": 316.08,
+      "bottom": 34.416,
+      "confidence": 91.573524,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Ronald",
+      "x0": 330.19199999999995,
+      "top": 24.336,
+      "x1": 365.90399999999994,
+      "bottom": 32.544,
+      "confidence": 93.83374,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Dworkin",
+      "x0": 369.35999999999996,
+      "top": 24.336,
+      "x1": 413.13599999999997,
+      "bottom": 32.544,
+      "confidence": 96.125763,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(C)",
+      "x0": 75.312,
+      "top": 43.343999999999994,
+      "x1": 89.136,
+      "bottom": 53.56799999999999,
+      "confidence": 91.648651,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Robert",
+      "x0": 103.104,
+      "top": 43.488,
+      "x1": 136.944,
+      "bottom": 51.696,
+      "confidence": 92.740723,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Nozick",
+      "x0": 140.688,
+      "top": 43.488,
+      "x1": 174.67199999999997,
+      "bottom": 51.696,
+      "confidence": 92.493233,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(D)",
+      "x0": 302.11199999999997,
+      "top": 43.488,
+      "x1": 316.65599999999995,
+      "bottom": 53.711999999999996,
+      "confidence": 91.245094,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "John",
+      "x0": 330.048,
+      "top": 43.488,
+      "x1": 354.816,
+      "bottom": 51.696,
+      "confidence": 96.123047,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Rawls",
+      "x0": 358.416,
+      "top": 43.488,
+      "x1": 388.8,
+      "bottom": 51.696,
+      "confidence": 96.47728,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "PG",
+      "x0": 46.943999999999996,
+      "top": 81.79199999999999,
+      "x1": 63.50399999999999,
+      "bottom": 90.14399999999999,
+      "confidence": 96.865463,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2019",
+      "x0": 67.67999999999999,
+      "top": 82.22399999999999,
+      "x1": 91.728,
+      "bottom": 90.14399999999999,
+      "confidence": 96.958298,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "3",
+      "x0": 295.77599999999995,
+      "top": 86.39999999999999,
+      "x1": 300.96,
+      "bottom": 94.17599999999999,
+      "confidence": 39.662342,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

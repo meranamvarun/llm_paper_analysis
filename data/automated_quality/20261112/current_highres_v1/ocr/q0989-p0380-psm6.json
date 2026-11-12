@@ -1,0 +1,778 @@
+{
+  "pdf_page": 380,
+  "crop_top": 233.20136000000002,
+  "crop_bottom": 343.20135999999997,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0380:l0013:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.45 Under which Article of the Constitution the Prime Minister is duty bound to furnish information to the President regarding all decisions of Council of",
+      "bbox": [
+        41.903999999999996,
+        4.4639999999999995,
+        523.584,
+        10.799999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Ministers relating to the administration of the affairs of the Union and proposals for legislation as the President may call for?",
+      "bbox": [
+        62.928,
+        13.536,
+        450.864,
+        20.016
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "Ans ya",
+      "bbox": [
+        43.343999999999994,
+        24.479999999999997,
+        86.54399999999998,
+        38.016
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "1. Article 76",
+      "bbox": [
+        88.55999999999999,
+        34.992,
+        124.12799999999999,
+        40.032
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "2. Article 78",
+      "bbox": [
+        88.27199999999999,
+        56.303999999999995,
+        124.12799999999999,
+        61.488
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "rd",
+      "bbox": [
+        72.43199999999999,
+        67.24799999999999,
+        86.54399999999998,
+        84.81599999999999
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "3. Article 79",
+      "bbox": [
+        88.27199999999999,
+        77.616,
+        123.984,
+        82.8
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "x,",
+      "bbox": [
+        73.008,
+        89.136,
+        93.024,
+        104.112
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "Article 77",
+      "bbox": [
+        95.472,
+        99.07199999999999,
+        123.984,
+        104.112
+      ]
+    }
+  ],
+  "text": "Q.45 Under which Article of the Constitution the Prime Minister is duty bound to furnish information to the President regarding all decisions of Council of\nMinisters relating to the administration of the affairs of the Union and proposals for legislation as the President may call for?\nAns ya\n1. Article 76\n2. Article 78\nrd\n3. Article 79\nx,\nArticle 77",
+  "ocr_words": [
+    {
+      "text": "Q.45",
+      "x0": 41.903999999999996,
+      "top": 4.752,
+      "x1": 56.01599999999999,
+      "bottom": 10.367999999999999,
+      "confidence": 90.148186,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Under",
+      "x0": 62.928,
+      "top": 4.4639999999999995,
+      "x1": 81.648,
+      "bottom": 9.648,
+      "confidence": 95.536659,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "which",
+      "x0": 83.66399999999999,
+      "top": 4.4639999999999995,
+      "x1": 101.66399999999999,
+      "bottom": 9.648,
+      "confidence": 96.845383,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Article",
+      "x0": 103.824,
+      "top": 4.4639999999999995,
+      "x1": 123.84,
+      "bottom": 9.648,
+      "confidence": 96.446732,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 126.14399999999999,
+      "top": 4.4639999999999995,
+      "x1": 132.33599999999998,
+      "bottom": 9.648,
+      "confidence": 95.970413,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 134.064,
+      "top": 4.4639999999999995,
+      "x1": 144.144,
+      "bottom": 9.648,
+      "confidence": 96.55587,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Constitution",
+      "x0": 146.304,
+      "top": 4.608,
+      "x1": 184.176,
+      "bottom": 9.648,
+      "confidence": 96.314041,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 186.48,
+      "top": 4.4639999999999995,
+      "x1": 196.416,
+      "bottom": 9.648,
+      "confidence": 96.811852,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Prime",
+      "x0": 199.00799999999998,
+      "top": 4.608,
+      "x1": 216.432,
+      "bottom": 9.648,
+      "confidence": 96.041161,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Minister",
+      "x0": 219.02399999999997,
+      "top": 4.608,
+      "x1": 244.65599999999998,
+      "bottom": 9.648,
+      "confidence": 96.319786,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 246.81599999999997,
+      "top": 4.608,
+      "x1": 251.13599999999997,
+      "bottom": 9.648,
+      "confidence": 96.054749,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "duty",
+      "x0": 253.296,
+      "top": 4.4639999999999995,
+      "x1": 267.12,
+      "bottom": 10.799999999999999,
+      "confidence": 95.838379,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "bound",
+      "x0": 269.424,
+      "top": 4.4639999999999995,
+      "x1": 288.57599999999996,
+      "bottom": 9.648,
+      "confidence": 96.477028,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 290.88,
+      "top": 5.183999999999999,
+      "x1": 297.072,
+      "bottom": 9.648,
+      "confidence": 96.893784,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "furnish",
+      "x0": 299.23199999999997,
+      "top": 4.4639999999999995,
+      "x1": 320.544,
+      "bottom": 9.648,
+      "confidence": 96.013168,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "information",
+      "x0": 323.13599999999997,
+      "top": 4.4639999999999995,
+      "x1": 359.424,
+      "bottom": 9.648,
+      "confidence": 95.693817,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 361.72799999999995,
+      "top": 5.183999999999999,
+      "x1": 367.91999999999996,
+      "bottom": 9.648,
+      "confidence": 95.457108,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 370.08,
+      "top": 4.4639999999999995,
+      "x1": 380.01599999999996,
+      "bottom": 9.648,
+      "confidence": 96.118729,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "President",
+      "x0": 382.60799999999995,
+      "top": 4.4639999999999995,
+      "x1": 411.55199999999996,
+      "bottom": 9.648,
+      "confidence": 96.123215,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "regarding",
+      "x0": 413.856,
+      "top": 4.4639999999999995,
+      "x1": 443.08799999999997,
+      "bottom": 10.799999999999999,
+      "confidence": 96.822884,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "all",
+      "x0": 445.248,
+      "top": 4.4639999999999995,
+      "x1": 452.01599999999996,
+      "bottom": 9.648,
+      "confidence": 96.904175,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "decisions",
+      "x0": 454.32,
+      "top": 4.4639999999999995,
+      "x1": 482.544,
+      "bottom": 9.648,
+      "confidence": 96.532227,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 484.70399999999995,
+      "top": 4.4639999999999995,
+      "x1": 490.89599999999996,
+      "bottom": 9.648,
+      "confidence": 95.666786,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Council",
+      "x0": 492.912,
+      "top": 4.4639999999999995,
+      "x1": 514.944,
+      "bottom": 9.648,
+      "confidence": 95.666786,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 517.3919999999999,
+      "top": 4.4639999999999995,
+      "x1": 523.584,
+      "bottom": 9.648,
+      "confidence": 96.700356,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ministers",
+      "x0": 62.928,
+      "top": 13.68,
+      "x1": 91.44,
+      "bottom": 18.72,
+      "confidence": 96.604485,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "relating",
+      "x0": 93.88799999999999,
+      "top": 13.536,
+      "x1": 117.216,
+      "bottom": 20.016,
+      "confidence": 96.052895,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "to",
+      "x0": 119.088,
+      "top": 14.255999999999998,
+      "x1": 125.42399999999999,
+      "bottom": 18.72,
+      "confidence": 95.768028,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 127.43999999999998,
+      "top": 13.536,
+      "x1": 137.51999999999998,
+      "bottom": 18.72,
+      "confidence": 96.837257,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "administration",
+      "x0": 139.67999999999998,
+      "top": 13.536,
+      "x1": 185.03999999999996,
+      "bottom": 18.72,
+      "confidence": 96.342392,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 187.344,
+      "top": 13.536,
+      "x1": 193.536,
+      "bottom": 18.72,
+      "confidence": 96.657158,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 195.408,
+      "top": 13.536,
+      "x1": 205.344,
+      "bottom": 18.72,
+      "confidence": 96.493301,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "affairs",
+      "x0": 207.648,
+      "top": 13.536,
+      "x1": 226.79999999999998,
+      "bottom": 18.72,
+      "confidence": 96.493301,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 228.95999999999998,
+      "top": 13.536,
+      "x1": 235.152,
+      "bottom": 18.72,
+      "confidence": 96.407059,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 236.88,
+      "top": 13.536,
+      "x1": 246.816,
+      "bottom": 18.72,
+      "confidence": 96.13147,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Union",
+      "x0": 249.408,
+      "top": 13.68,
+      "x1": 267.264,
+      "bottom": 18.72,
+      "confidence": 95.744537,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "and",
+      "x0": 269.712,
+      "top": 13.536,
+      "x1": 280.656,
+      "bottom": 18.72,
+      "confidence": 95.744537,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "proposals",
+      "x0": 283.248,
+      "top": 13.536,
+      "x1": 312.912,
+      "bottom": 20.016,
+      "confidence": 95.658821,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "for",
+      "x0": 314.928,
+      "top": 13.536,
+      "x1": 323.856,
+      "bottom": 18.72,
+      "confidence": 95.092789,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "legislation",
+      "x0": 326.01599999999996,
+      "top": 13.536,
+      "x1": 357.11999999999995,
+      "bottom": 20.016,
+      "confidence": 96.296066,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "as",
+      "x0": 359.568,
+      "top": 15.12,
+      "x1": 365.76,
+      "bottom": 18.72,
+      "confidence": 96.524216,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 367.77599999999995,
+      "top": 13.536,
+      "x1": 377.85599999999994,
+      "bottom": 18.72,
+      "confidence": 96.55616,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "President",
+      "x0": 380.304,
+      "top": 13.536,
+      "x1": 409.248,
+      "bottom": 18.72,
+      "confidence": 96.38797,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "may",
+      "x0": 411.69599999999997,
+      "top": 15.12,
+      "x1": 424.51199999999994,
+      "bottom": 20.016,
+      "confidence": 95.567879,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "call",
+      "x0": 426.52799999999996,
+      "top": 13.536,
+      "x1": 436.31999999999994,
+      "bottom": 18.72,
+      "confidence": 96.505928,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "for?",
+      "x0": 438.62399999999997,
+      "top": 13.536,
+      "x1": 450.864,
+      "bottom": 18.72,
+      "confidence": 96.505928,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.343999999999994,
+      "top": 26.639999999999997,
+      "x1": 54.57599999999999,
+      "bottom": 31.535999999999998,
+      "confidence": 96.523674,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "ya",
+      "x0": 72.43199999999999,
+      "top": 24.479999999999997,
+      "x1": 86.54399999999998,
+      "bottom": 38.016,
+      "confidence": 31.997589,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "1.",
+      "x0": 88.55999999999999,
+      "top": 35.279999999999994,
+      "x1": 93.02399999999999,
+      "bottom": 40.032,
+      "confidence": 96.50666,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Article",
+      "x0": 95.472,
+      "top": 34.992,
+      "x1": 114.768,
+      "bottom": 40.032,
+      "confidence": 96.479912,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "76",
+      "x0": 117.216,
+      "top": 35.279999999999994,
+      "x1": 124.12799999999999,
+      "bottom": 40.032,
+      "confidence": 96.883858,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "2.",
+      "x0": 88.27199999999999,
+      "top": 56.592,
+      "x1": 93.02399999999999,
+      "bottom": 61.488,
+      "confidence": 96.784363,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Article",
+      "x0": 95.472,
+      "top": 56.303999999999995,
+      "x1": 114.768,
+      "bottom": 61.48799999999999,
+      "confidence": 95.934143,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "78",
+      "x0": 117.216,
+      "top": 56.592,
+      "x1": 124.12799999999999,
+      "bottom": 61.488,
+      "confidence": 95.934143,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "rd",
+      "x0": 72.43199999999999,
+      "top": 67.24799999999999,
+      "x1": 86.54399999999998,
+      "bottom": 84.81599999999999,
+      "confidence": 45.634235,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "3.",
+      "x0": 88.27199999999999,
+      "top": 77.904,
+      "x1": 93.02399999999999,
+      "bottom": 82.8,
+      "confidence": 96.934975,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Article",
+      "x0": 95.472,
+      "top": 77.616,
+      "x1": 114.768,
+      "bottom": 82.8,
+      "confidence": 96.3386,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "79",
+      "x0": 117.216,
+      "top": 77.904,
+      "x1": 123.984,
+      "bottom": 82.8,
+      "confidence": 96.782188,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "x,",
+      "x0": 73.008,
+      "top": 89.136,
+      "x1": 93.024,
+      "bottom": 104.112,
+      "confidence": 47.983063,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "Article",
+      "x0": 95.472,
+      "top": 99.07199999999999,
+      "x1": 114.768,
+      "bottom": 104.112,
+      "confidence": 96.675812,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "77",
+      "x0": 117.216,
+      "top": 99.36,
+      "x1": 123.984,
+      "bottom": 104.112,
+      "confidence": 96.890999,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

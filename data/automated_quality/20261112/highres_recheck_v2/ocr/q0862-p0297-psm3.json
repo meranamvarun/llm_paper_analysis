@@ -1,0 +1,372 @@
+{
+  "pdf_page": 297,
+  "crop_top": 161.4928,
+  "crop_bottom": 269.3627999999999,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0297:l0003:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "16. Every promise and set of promises, forming the consideration for each other is known",
+      "bbox": [
+        47.339999999999996,
+        4.68,
+        549.9,
+        15.12
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "every",
+      "bbox": [
+        176.4,
+        7.739999999999999,
+        203.58,
+        15.12
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "as",
+      "bbox": [
+        75.06,
+        22.32,
+        85.32000000000001,
+        27.72
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(A) Consideration",
+      "bbox": [
+        75.24,
+        37.98,
+        174.42,
+        48.059999999999995
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(B) Agreement",
+      "bbox": [
+        75.24,
+        56.339999999999996,
+        158.76,
+        66.6
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "(C) Contract",
+      "bbox": [
+        75.24,
+        75.06,
+        147.42,
+        85.32000000000001
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "(D) Reciprocal Promises",
+      "bbox": [
+        75.24,
+        93.6,
+        205.2,
+        103.86
+      ]
+    }
+  ],
+  "text": "16. Every promise and set of promises, forming the consideration for each other is known\nevery\nas\n(A) Consideration\n(B) Agreement\n(C) Contract\n(D) Reciprocal Promises",
+  "ocr_words": [
+    {
+      "text": "16.",
+      "x0": 47.339999999999996,
+      "top": 5.22,
+      "x1": 60.66,
+      "bottom": 13.14,
+      "confidence": 92.399338,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Every",
+      "x0": 75.24,
+      "top": 4.859999999999999,
+      "x1": 104.58,
+      "bottom": 15.12,
+      "confidence": 89.507362,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "promise",
+      "x0": 108.89999999999999,
+      "top": 4.859999999999999,
+      "x1": 148.85999999999999,
+      "bottom": 14.94,
+      "confidence": 96.435852,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 153.54,
+      "top": 4.859999999999999,
+      "x1": 172.07999999999998,
+      "bottom": 13.139999999999999,
+      "confidence": 96.800102,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "every",
+      "x0": 176.4,
+      "top": 7.739999999999999,
+      "x1": 203.58,
+      "bottom": 15.12,
+      "confidence": 96.305611,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "set",
+      "x0": 208.07999999999998,
+      "top": 5.76,
+      "x1": 222.29999999999998,
+      "bottom": 13.14,
+      "confidence": 96.435577,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 226.62,
+      "top": 4.68,
+      "x1": 236.16,
+      "bottom": 13.139999999999999,
+      "confidence": 96.2995,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "promises,",
+      "x0": 239.57999999999998,
+      "top": 4.859999999999999,
+      "x1": 287.09999999999997,
+      "bottom": 14.94,
+      "confidence": 96.034813,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "forming",
+      "x0": 291.96,
+      "top": 4.68,
+      "x1": 331.56,
+      "bottom": 15.12,
+      "confidence": 96.128174,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 335.7,
+      "top": 4.859999999999999,
+      "x1": 351.53999999999996,
+      "bottom": 13.139999999999999,
+      "confidence": 96.270729,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "consideration",
+      "x0": 356.03999999999996,
+      "top": 4.859999999999999,
+      "x1": 424.0799999999999,
+      "bottom": 13.139999999999999,
+      "confidence": 96.452843,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "for",
+      "x0": 428.21999999999997,
+      "top": 4.68,
+      "x1": 441.9,
+      "bottom": 13.139999999999999,
+      "confidence": 96.182198,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "each",
+      "x0": 446.21999999999997,
+      "top": 4.859999999999999,
+      "x1": 468.9,
+      "bottom": 13.139999999999999,
+      "confidence": 96.182198,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "other",
+      "x0": 473.4,
+      "top": 4.859999999999999,
+      "x1": 499.67999999999995,
+      "bottom": 13.139999999999999,
+      "confidence": 96.602272,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 504.0,
+      "top": 4.859999999999999,
+      "x1": 511.74,
+      "bottom": 13.139999999999999,
+      "confidence": 96.622284,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "known",
+      "x0": 516.24,
+      "top": 4.859999999999999,
+      "x1": 549.9,
+      "bottom": 13.139999999999999,
+      "confidence": 96.417824,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "as",
+      "x0": 75.06,
+      "top": 22.32,
+      "x1": 85.32000000000001,
+      "bottom": 27.72,
+      "confidence": 96.403877,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(A)",
+      "x0": 75.24,
+      "top": 37.98,
+      "x1": 89.1,
+      "bottom": 48.059999999999995,
+      "confidence": 92.807152,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Consideration",
+      "x0": 103.67999999999999,
+      "top": 37.98,
+      "x1": 174.42,
+      "bottom": 46.26,
+      "confidence": 91.441597,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(B)",
+      "x0": 75.24,
+      "top": 56.339999999999996,
+      "x1": 89.1,
+      "bottom": 66.6,
+      "confidence": 92.013107,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Agreement",
+      "x0": 102.78,
+      "top": 56.339999999999996,
+      "x1": 158.76,
+      "bottom": 66.6,
+      "confidence": 96.548798,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(C)",
+      "x0": 75.24,
+      "top": 75.06,
+      "x1": 89.1,
+      "bottom": 85.32000000000001,
+      "confidence": 92.475616,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Contract",
+      "x0": 103.67999999999999,
+      "top": 75.06,
+      "x1": 147.42,
+      "bottom": 83.34,
+      "confidence": 95.337898,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(D)",
+      "x0": 75.24,
+      "top": 93.6,
+      "x1": 89.82,
+      "bottom": 103.86,
+      "confidence": 91.051804,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Reciprocal",
+      "x0": 103.14,
+      "top": 93.6,
+      "x1": 155.7,
+      "bottom": 103.86,
+      "confidence": 96.10379,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Promises",
+      "x0": 159.48,
+      "top": 93.6,
+      "x1": 205.2,
+      "bottom": 101.88,
+      "confidence": 96.481079,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

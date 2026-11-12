@@ -1,0 +1,639 @@
+{
+  "pdf_page": 184,
+  "crop_top": 424.919,
+  "crop_bottom": 487.81899999999996,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0184:l0019:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "113. Company A 1s incorporated in FY 2020-21, Company Bis incorporated in FY 2019-20,",
+      "bbox": [
+        90.86399999999999,
+        4.608,
+        527.184,
+        14.832
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "and Company C is incorporated in FY 2018-19. Which is covered under",
+      "bbox": [
+        117.50399999999999,
+        18.288,
+        527.76,
+        29.808
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "company",
+      "bbox": [
+        396.14399999999995,
+        21.887999999999998,
+        440.92799999999994,
+        29.232
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "Section 135(1) of the Companies Act, 2013 for CSR in FY 2020-21?",
+      "bbox": [
+        117.648,
+        33.263999999999996,
+        452.304,
+        43.48799999999999
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(A) Company A (B) Company B- (C) Company C (D) All the above",
+      "bbox": [
+        115.48799999999999,
+        48.528,
+        504.14399999999995,
+        58.751999999999995
+      ]
+    }
+  ],
+  "text": "113. Company A 1s incorporated in FY 2020-21, Company Bis incorporated in FY 2019-20,\nand Company C is incorporated in FY 2018-19. Which is covered under\ncompany\nSection 135(1) of the Companies Act, 2013 for CSR in FY 2020-21?\n(A) Company A (B) Company B- (C) Company C (D) All the above",
+  "ocr_words": [
+    {
+      "text": "113.",
+      "x0": 90.86399999999999,
+      "top": 5.183999999999999,
+      "x1": 110.16,
+      "bottom": 12.959999999999999,
+      "confidence": 92.303444,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Company",
+      "x0": 117.79199999999999,
+      "top": 4.608,
+      "x1": 164.15999999999997,
+      "bottom": 14.831999999999997,
+      "confidence": 96.726898,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A",
+      "x0": 166.176,
+      "top": 4.608,
+      "x1": 174.23999999999998,
+      "bottom": 12.815999999999999,
+      "confidence": 54.356117,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1s",
+      "x0": 176.39999999999998,
+      "top": 4.752,
+      "x1": 184.03199999999998,
+      "bottom": 12.96,
+      "confidence": 54.356117,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "incorporated",
+      "x0": 186.624,
+      "top": 4.752,
+      "x1": 248.54399999999998,
+      "bottom": 14.832,
+      "confidence": 93.518867,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 250.992,
+      "top": 4.752,
+      "x1": 260.496,
+      "bottom": 12.815999999999999,
+      "confidence": 94.992531,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "FY",
+      "x0": 263.23199999999997,
+      "top": 4.752,
+      "x1": 277.63199999999995,
+      "bottom": 12.815999999999999,
+      "confidence": 94.992531,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2020-21,",
+      "x0": 279.936,
+      "top": 5.183999999999999,
+      "x1": 320.832,
+      "bottom": 14.543999999999999,
+      "confidence": 95.919052,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Company",
+      "x0": 324.28799999999995,
+      "top": 4.608,
+      "x1": 370.65599999999995,
+      "bottom": 14.831999999999997,
+      "confidence": 96.387062,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Bis",
+      "x0": 373.104,
+      "top": 4.752,
+      "x1": 390.38399999999996,
+      "bottom": 12.96,
+      "confidence": 59.420708,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "incorporated",
+      "x0": 393.11999999999995,
+      "top": 4.752,
+      "x1": 455.03999999999996,
+      "bottom": 14.832,
+      "confidence": 95.059738,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 457.34399999999994,
+      "top": 4.752,
+      "x1": 466.84799999999996,
+      "bottom": 12.815999999999999,
+      "confidence": 95.693344,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "FY",
+      "x0": 469.58399999999995,
+      "top": 4.752,
+      "x1": 483.9839999999999,
+      "bottom": 12.815999999999999,
+      "confidence": 94.586212,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2019-20,",
+      "x0": 486.28799999999995,
+      "top": 5.183999999999999,
+      "x1": 527.184,
+      "bottom": 14.543999999999999,
+      "confidence": 96.52861,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 117.50399999999999,
+      "top": 19.008,
+      "x1": 135.93599999999998,
+      "bottom": 27.216,
+      "confidence": 96.366615,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Company",
+      "x0": 140.112,
+      "top": 18.863999999999997,
+      "x1": 187.632,
+      "bottom": 29.231999999999996,
+      "confidence": 92.973534,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "C",
+      "x0": 188.928,
+      "top": 18.288,
+      "x1": 193.82399999999998,
+      "bottom": 29.808,
+      "confidence": 92.973534,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "is",
+      "x0": 202.464,
+      "top": 19.008,
+      "x1": 210.24,
+      "bottom": 27.216,
+      "confidence": 94.794876,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "incorporated",
+      "x0": 214.272,
+      "top": 19.008,
+      "x1": 278.06399999999996,
+      "bottom": 29.088,
+      "confidence": 94.716125,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "in",
+      "x0": 281.808,
+      "top": 19.008,
+      "x1": 291.456,
+      "bottom": 27.072,
+      "confidence": 94.716125,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "FY",
+      "x0": 295.488,
+      "top": 19.151999999999997,
+      "x1": 310.176,
+      "bottom": 27.071999999999996,
+      "confidence": 96.093628,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "2018-19.",
+      "x0": 313.77599999999995,
+      "top": 19.439999999999998,
+      "x1": 355.82399999999996,
+      "bottom": 27.215999999999998,
+      "confidence": 96.395668,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Which",
+      "x0": 360.14399999999995,
+      "top": 19.008,
+      "x1": 392.4,
+      "bottom": 27.216,
+      "confidence": 96.367775,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "company",
+      "x0": 396.14399999999995,
+      "top": 21.887999999999998,
+      "x1": 440.92799999999994,
+      "bottom": 29.232,
+      "confidence": 96.223351,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "is",
+      "x0": 444.52799999999996,
+      "top": 19.008,
+      "x1": 452.448,
+      "bottom": 27.216,
+      "confidence": 96.223351,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "covered",
+      "x0": 456.47999999999996,
+      "top": 19.008,
+      "x1": 494.496,
+      "bottom": 27.216,
+      "confidence": 96.829758,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "under",
+      "x0": 498.09599999999995,
+      "top": 19.008,
+      "x1": 527.76,
+      "bottom": 27.216,
+      "confidence": 96.407486,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Section",
+      "x0": 117.648,
+      "top": 33.263999999999996,
+      "x1": 154.07999999999998,
+      "bottom": 41.471999999999994,
+      "confidence": 92.847382,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "135(1)",
+      "x0": 158.54399999999998,
+      "top": 33.263999999999996,
+      "x1": 188.35199999999998,
+      "bottom": 43.48799999999999,
+      "confidence": 84.017235,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 192.528,
+      "top": 33.263999999999996,
+      "x1": 202.03199999999998,
+      "bottom": 41.471999999999994,
+      "confidence": 93.905525,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "the",
+      "x0": 204.624,
+      "top": 33.263999999999996,
+      "x1": 220.464,
+      "bottom": 41.471999999999994,
+      "confidence": 93.905525,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Companies",
+      "x0": 224.92799999999997,
+      "top": 33.263999999999996,
+      "x1": 279.64799999999997,
+      "bottom": 43.343999999999994,
+      "confidence": 95.731216,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Act,",
+      "x0": 282.52799999999996,
+      "top": 33.407999999999994,
+      "x1": 301.53599999999994,
+      "bottom": 42.91199999999999,
+      "confidence": 95.731216,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "2013",
+      "x0": 306.14399999999995,
+      "top": 33.696,
+      "x1": 330.19199999999995,
+      "bottom": 41.471999999999994,
+      "confidence": 95.546188,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "for",
+      "x0": 333.35999999999996,
+      "top": 33.263999999999996,
+      "x1": 347.03999999999996,
+      "bottom": 41.471999999999994,
+      "confidence": 96.367157,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "CSR",
+      "x0": 351.07199999999995,
+      "top": 33.263999999999996,
+      "x1": 372.8159999999999,
+      "bottom": 41.61599999999999,
+      "confidence": 91.845863,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "in",
+      "x0": 376.416,
+      "top": 33.263999999999996,
+      "x1": 386.064,
+      "bottom": 41.327999999999996,
+      "confidence": 91.845863,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "FY",
+      "x0": 389.952,
+      "top": 33.407999999999994,
+      "x1": 404.64,
+      "bottom": 41.327999999999996,
+      "confidence": 96.880898,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "2020-21?",
+      "x0": 408.09599999999995,
+      "top": 33.263999999999996,
+      "x1": 452.304,
+      "bottom": 41.471999999999994,
+      "confidence": 94.253174,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(A)",
+      "x0": 115.48799999999999,
+      "top": 48.528,
+      "x1": 129.31199999999998,
+      "bottom": 58.751999999999995,
+      "confidence": 96.365967,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Company",
+      "x0": 136.79999999999998,
+      "top": 48.528,
+      "x1": 184.176,
+      "bottom": 58.751999999999995,
+      "confidence": 95.857071,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A",
+      "x0": 191.664,
+      "top": 48.528,
+      "x1": 195.408,
+      "bottom": 56.592,
+      "confidence": 49.577591,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(B)",
+      "x0": 213.408,
+      "top": 48.528,
+      "x1": 227.23199999999997,
+      "bottom": 58.751999999999995,
+      "confidence": 85.717934,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Company",
+      "x0": 234.71999999999997,
+      "top": 48.528,
+      "x1": 282.09599999999995,
+      "bottom": 58.751999999999995,
+      "confidence": 88.416824,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "B-",
+      "x0": 285.84,
+      "top": 48.672,
+      "x1": 292.89599999999996,
+      "bottom": 56.592,
+      "confidence": 0.93335,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(C)",
+      "x0": 306.43199999999996,
+      "top": 48.528,
+      "x1": 320.256,
+      "bottom": 58.751999999999995,
+      "confidence": 87.750999,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Company",
+      "x0": 327.74399999999997,
+      "top": 48.528,
+      "x1": 375.11999999999995,
+      "bottom": 58.751999999999995,
+      "confidence": 92.704544,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "C",
+      "x0": 379.152,
+      "top": 48.528,
+      "x1": 385.776,
+      "bottom": 56.879999999999995,
+      "confidence": 92.471977,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(D)",
+      "x0": 416.88,
+      "top": 48.528,
+      "x1": 431.28,
+      "bottom": 58.751999999999995,
+      "confidence": 91.447563,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "All",
+      "x0": 437.90399999999994,
+      "top": 48.528,
+      "x1": 452.5919999999999,
+      "bottom": 56.592,
+      "confidence": 96.657913,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 456.19199999999995,
+      "top": 48.672,
+      "x1": 472.0319999999999,
+      "bottom": 56.736,
+      "confidence": 96.71714,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "above",
+      "x0": 476.06399999999996,
+      "top": 48.672,
+      "x1": 504.14399999999995,
+      "bottom": 56.736,
+      "confidence": 96.372269,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

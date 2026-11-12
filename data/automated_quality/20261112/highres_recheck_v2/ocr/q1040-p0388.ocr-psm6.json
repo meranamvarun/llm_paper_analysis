@@ -1,0 +1,1018 @@
+{
+  "pdf_page": 388,
+  "crop_top": 254.56136000000004,
+  "crop_bottom": 364.56136,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0388:l0014:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.39 X was allowed to put her goods in certain rooms in Y's house. X sent them by agent, who locked them in the rooms allotted for that purpose in Y's house by",
+      "bbox": [
+        41.94,
+        4.5,
+        546.12,
+        10.98
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Y, and took away the key.",
+      "bbox": [
+        62.46,
+        13.5,
+        142.2,
+        19.98
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "YA",
+      "bbox": [
+        73.08,
+        23.4,
+        87.66,
+        38.339999999999996
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "Ans",
+      "bbox": [
+        43.379999999999995,
+        26.64,
+        54.53999999999999,
+        31.5
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "1. X was in possession of the rooms",
+      "bbox": [
+        88.56,
+        34.92,
+        195.48,
+        41.4
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        46.26,
+        93.06,
+        61.379999999999995
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "The agent of 'X' was in possession of the rooms",
+      "bbox": [
+        95.39999999999999,
+        56.339999999999996,
+        238.67999999999998,
+        62.81999999999999
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        67.67999999999999,
+        93.06,
+        82.8
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "The agent of 'X' and 'Y' were in possession of the rooms.",
+      "bbox": [
+        95.39999999999999,
+        77.58,
+        265.85999999999996,
+        84.05999999999999
+      ]
+    },
+    {
+      "line_id": "l0009",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        89.1,
+        93.06,
+        104.03999999999999
+      ]
+    },
+    {
+      "line_id": "l0010",
+      "text": "'Y' was in possession of the rooms",
+      "bbox": [
+        95.75999999999999,
+        99.0,
+        198.54,
+        105.47999999999999
+      ]
+    }
+  ],
+  "text": "Q.39 X was allowed to put her goods in certain rooms in Y's house. X sent them by agent, who locked them in the rooms allotted for that purpose in Y's house by\nY, and took away the key.\nYA\nAns\n1. X was in possession of the rooms\nx,\nThe agent of 'X' was in possession of the rooms\nx,\nThe agent of 'X' and 'Y' were in possession of the rooms.\nx,\n'Y' was in possession of the rooms",
+  "ocr_words": [
+    {
+      "text": "Q.39",
+      "x0": 41.94,
+      "top": 4.68,
+      "x1": 55.98,
+      "bottom": 10.44,
+      "confidence": 90.457039,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "X",
+      "x0": 62.46,
+      "top": 4.859999999999999,
+      "x1": 66.42,
+      "bottom": 9.54,
+      "confidence": 90.457039,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "was",
+      "x0": 68.39999999999999,
+      "top": 5.9399999999999995,
+      "x1": 80.27999999999999,
+      "bottom": 9.719999999999999,
+      "confidence": 96.321739,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "allowed",
+      "x0": 82.44,
+      "top": 4.5,
+      "x1": 106.56,
+      "bottom": 9.719999999999999,
+      "confidence": 95.549461,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 108.72,
+      "top": 5.04,
+      "x1": 115.02,
+      "bottom": 9.719999999999999,
+      "confidence": 96.338493,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "put",
+      "x0": 117.36,
+      "top": 5.04,
+      "x1": 127.44,
+      "bottom": 10.98,
+      "confidence": 96.084465,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "her",
+      "x0": 129.78,
+      "top": 4.5,
+      "x1": 139.68,
+      "bottom": 9.719999999999999,
+      "confidence": 95.766228,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "goods",
+      "x0": 141.66,
+      "top": 4.5,
+      "x1": 160.01999999999998,
+      "bottom": 10.98,
+      "confidence": 95.394577,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 162.18,
+      "top": 4.68,
+      "x1": 167.22,
+      "bottom": 9.54,
+      "confidence": 95.394577,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "certain",
+      "x0": 169.73999999999998,
+      "top": 4.68,
+      "x1": 190.61999999999998,
+      "bottom": 9.719999999999999,
+      "confidence": 96.16713,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "rooms",
+      "x0": 193.32,
+      "top": 5.9399999999999995,
+      "x1": 212.39999999999998,
+      "bottom": 9.719999999999999,
+      "confidence": 96.444923,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 214.73999999999998,
+      "top": 4.68,
+      "x1": 219.77999999999997,
+      "bottom": 9.54,
+      "confidence": 95.130165,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Y's",
+      "x0": 222.12,
+      "top": 4.5,
+      "x1": 230.4,
+      "bottom": 9.719999999999999,
+      "confidence": 95.130165,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "house.",
+      "x0": 232.73999999999998,
+      "top": 4.5,
+      "x1": 252.71999999999997,
+      "bottom": 9.719999999999999,
+      "confidence": 93.077118,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "X",
+      "x0": 254.88,
+      "top": 4.859999999999999,
+      "x1": 258.84,
+      "bottom": 9.54,
+      "confidence": 92.047195,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "sent",
+      "x0": 261.0,
+      "top": 5.04,
+      "x1": 273.78,
+      "bottom": 9.719999999999999,
+      "confidence": 95.291031,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "them",
+      "x0": 275.76,
+      "top": 4.5,
+      "x1": 291.78,
+      "bottom": 9.719999999999999,
+      "confidence": 95.291031,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "by",
+      "x0": 294.3,
+      "top": 4.5,
+      "x1": 301.5,
+      "bottom": 10.98,
+      "confidence": 96.971436,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "agent,",
+      "x0": 303.47999999999996,
+      "top": 5.04,
+      "x1": 322.55999999999995,
+      "bottom": 10.98,
+      "confidence": 96.270103,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "who",
+      "x0": 324.71999999999997,
+      "top": 4.5,
+      "x1": 337.85999999999996,
+      "bottom": 9.719999999999999,
+      "confidence": 96.626411,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "locked",
+      "x0": 340.38,
+      "top": 4.5,
+      "x1": 359.82,
+      "bottom": 9.719999999999999,
+      "confidence": 96.148613,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "them",
+      "x0": 361.97999999999996,
+      "top": 4.5,
+      "x1": 377.99999999999994,
+      "bottom": 9.719999999999999,
+      "confidence": 96.815285,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 380.52,
+      "top": 4.68,
+      "x1": 385.56,
+      "bottom": 9.54,
+      "confidence": 96.215324,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 387.9,
+      "top": 4.5,
+      "x1": 397.79999999999995,
+      "bottom": 9.719999999999999,
+      "confidence": 96.441383,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "rooms",
+      "x0": 400.32,
+      "top": 5.9399999999999995,
+      "x1": 419.4,
+      "bottom": 9.719999999999999,
+      "confidence": 96.469505,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "allotted",
+      "x0": 421.56,
+      "top": 4.5,
+      "x1": 445.32,
+      "bottom": 9.719999999999999,
+      "confidence": 96.132973,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "for",
+      "x0": 447.65999999999997,
+      "top": 4.5,
+      "x1": 456.47999999999996,
+      "bottom": 9.719999999999999,
+      "confidence": 96.132973,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "that",
+      "x0": 458.28,
+      "top": 4.5,
+      "x1": 471.05999999999995,
+      "bottom": 9.719999999999999,
+      "confidence": 96.531311,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "purpose",
+      "x0": 473.4,
+      "top": 5.9399999999999995,
+      "x1": 498.23999999999995,
+      "bottom": 10.98,
+      "confidence": 95.409775,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 500.58,
+      "top": 4.68,
+      "x1": 505.62,
+      "bottom": 9.54,
+      "confidence": 95.409775,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Y's",
+      "x0": 507.78,
+      "top": 4.5,
+      "x1": 516.06,
+      "bottom": 9.719999999999999,
+      "confidence": 94.17868,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "house",
+      "x0": 518.4,
+      "top": 4.5,
+      "x1": 536.5799999999999,
+      "bottom": 9.719999999999999,
+      "confidence": 96.326416,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "by",
+      "x0": 539.1,
+      "top": 4.5,
+      "x1": 546.12,
+      "bottom": 10.98,
+      "confidence": 96.558998,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Y,",
+      "x0": 62.46,
+      "top": 13.86,
+      "x1": 67.86,
+      "bottom": 19.619999999999997,
+      "confidence": 93.015984,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "and",
+      "x0": 70.2,
+      "top": 13.5,
+      "x1": 81.18,
+      "bottom": 18.72,
+      "confidence": 96.160194,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "took",
+      "x0": 83.34,
+      "top": 13.5,
+      "x1": 97.56,
+      "bottom": 18.72,
+      "confidence": 96.904633,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "away",
+      "x0": 99.53999999999999,
+      "top": 14.94,
+      "x1": 115.74,
+      "bottom": 19.98,
+      "confidence": 96.215164,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 117.53999999999999,
+      "top": 13.5,
+      "x1": 127.61999999999999,
+      "bottom": 18.72,
+      "confidence": 96.485207,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "key.",
+      "x0": 130.14,
+      "top": 13.5,
+      "x1": 142.2,
+      "bottom": 19.98,
+      "confidence": 96.130608,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.379999999999995,
+      "top": 26.64,
+      "x1": 54.53999999999999,
+      "bottom": 31.5,
+      "confidence": 96.933205,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "YA",
+      "x0": 73.08,
+      "top": 23.4,
+      "x1": 87.66,
+      "bottom": 38.339999999999996,
+      "confidence": 15.682007,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "1.",
+      "x0": 88.56,
+      "top": 35.28,
+      "x1": 93.06,
+      "bottom": 39.96,
+      "confidence": 92.616966,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "X",
+      "x0": 95.39999999999999,
+      "top": 35.28,
+      "x1": 98.99999999999999,
+      "bottom": 39.96,
+      "confidence": 92.616966,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "was",
+      "x0": 100.97999999999999,
+      "top": 36.36,
+      "x1": 112.49999999999999,
+      "bottom": 40.14,
+      "confidence": 96.521301,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "in",
+      "x0": 114.83999999999999,
+      "top": 35.1,
+      "x1": 119.51999999999998,
+      "bottom": 39.96,
+      "confidence": 95.604408,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "possession",
+      "x0": 122.39999999999999,
+      "top": 35.1,
+      "x1": 154.26,
+      "bottom": 41.4,
+      "confidence": 95.604408,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "of",
+      "x0": 156.78,
+      "top": 34.92,
+      "x1": 162.72,
+      "bottom": 40.14,
+      "confidence": 96.723259,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "the",
+      "x0": 164.51999999999998,
+      "top": 34.92,
+      "x1": 174.23999999999998,
+      "bottom": 40.14,
+      "confidence": 96.723259,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "rooms",
+      "x0": 176.94,
+      "top": 36.36,
+      "x1": 195.48,
+      "bottom": 40.14,
+      "confidence": 96.620842,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 46.26,
+      "x1": 93.06,
+      "bottom": 61.379999999999995,
+      "confidence": 79.885254,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "The",
+      "x0": 95.39999999999999,
+      "top": 56.339999999999996,
+      "x1": 106.19999999999999,
+      "bottom": 61.559999999999995,
+      "confidence": 96.693336,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "agent",
+      "x0": 108.53999999999999,
+      "top": 56.879999999999995,
+      "x1": 125.46,
+      "bottom": 62.81999999999999,
+      "confidence": 96.693336,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "of",
+      "x0": 127.61999999999999,
+      "top": 56.339999999999996,
+      "x1": 133.56,
+      "bottom": 61.559999999999995,
+      "confidence": 91.914261,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "'X'",
+      "x0": 135.72,
+      "top": 56.339999999999996,
+      "x1": 142.02,
+      "bottom": 61.379999999999995,
+      "confidence": 89.17424,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "was",
+      "x0": 144.35999999999999,
+      "top": 57.78,
+      "x1": 155.7,
+      "bottom": 61.56,
+      "confidence": 96.416763,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "in",
+      "x0": 158.22,
+      "top": 56.519999999999996,
+      "x1": 162.9,
+      "bottom": 61.379999999999995,
+      "confidence": 96.233887,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "possession",
+      "x0": 165.6,
+      "top": 56.519999999999996,
+      "x1": 197.45999999999998,
+      "bottom": 62.81999999999999,
+      "confidence": 96.076164,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "of",
+      "x0": 200.16,
+      "top": 56.339999999999996,
+      "x1": 206.1,
+      "bottom": 61.559999999999995,
+      "confidence": 96.754288,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "the",
+      "x0": 207.9,
+      "top": 56.339999999999996,
+      "x1": 217.62,
+      "bottom": 61.559999999999995,
+      "confidence": 96.809593,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "rooms",
+      "x0": 220.14,
+      "top": 57.78,
+      "x1": 238.67999999999998,
+      "bottom": 61.56,
+      "confidence": 96.419594,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 67.67999999999999,
+      "x1": 93.06,
+      "bottom": 82.8,
+      "confidence": 53.525543,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "The",
+      "x0": 95.39999999999999,
+      "top": 77.58,
+      "x1": 106.19999999999999,
+      "bottom": 82.8,
+      "confidence": 95.34906,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "agent",
+      "x0": 108.53999999999999,
+      "top": 78.11999999999999,
+      "x1": 125.46,
+      "bottom": 84.05999999999999,
+      "confidence": 96.442871,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "of",
+      "x0": 127.61999999999999,
+      "top": 77.58,
+      "x1": 133.56,
+      "bottom": 82.8,
+      "confidence": 92.954796,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "'X'",
+      "x0": 135.72,
+      "top": 77.58,
+      "x1": 142.02,
+      "bottom": 82.62,
+      "confidence": 89.641602,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "and",
+      "x0": 144.54,
+      "top": 77.58,
+      "x1": 154.98,
+      "bottom": 82.8,
+      "confidence": 93.26326,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "'Y'",
+      "x0": 157.85999999999999,
+      "top": 77.58,
+      "x1": 163.79999999999998,
+      "bottom": 82.62,
+      "confidence": 92.987976,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "were",
+      "x0": 166.14,
+      "top": 79.02,
+      "x1": 181.07999999999998,
+      "bottom": 82.8,
+      "confidence": 96.846092,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "in",
+      "x0": 183.6,
+      "top": 77.75999999999999,
+      "x1": 188.28,
+      "bottom": 82.61999999999999,
+      "confidence": 96.807129,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "possession",
+      "x0": 190.98,
+      "top": 77.75999999999999,
+      "x1": 222.83999999999997,
+      "bottom": 84.05999999999999,
+      "confidence": 96.400146,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "of",
+      "x0": 225.54,
+      "top": 77.58,
+      "x1": 231.48,
+      "bottom": 82.8,
+      "confidence": 96.798889,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "the",
+      "x0": 233.28,
+      "top": 77.58,
+      "x1": 243.0,
+      "bottom": 82.8,
+      "confidence": 96.798889,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "rooms.",
+      "x0": 245.51999999999998,
+      "top": 79.02,
+      "x1": 265.85999999999996,
+      "bottom": 82.8,
+      "confidence": 96.133514,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 89.1,
+      "x1": 93.06,
+      "bottom": 104.03999999999999,
+      "confidence": 43.452652,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "'Y'",
+      "x0": 95.75999999999999,
+      "top": 99.0,
+      "x1": 101.69999999999999,
+      "bottom": 104.04,
+      "confidence": 75.046661,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "was",
+      "x0": 104.03999999999999,
+      "top": 100.44,
+      "x1": 115.55999999999999,
+      "bottom": 104.22,
+      "confidence": 96.455276,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "in",
+      "x0": 118.08,
+      "top": 99.17999999999999,
+      "x1": 122.58,
+      "bottom": 104.03999999999999,
+      "confidence": 96.250839,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "possession",
+      "x0": 125.46,
+      "top": 99.17999999999999,
+      "x1": 157.32,
+      "bottom": 105.47999999999999,
+      "confidence": 96.22081,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "of",
+      "x0": 159.84,
+      "top": 99.0,
+      "x1": 165.78,
+      "bottom": 104.22,
+      "confidence": 96.184929,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "the",
+      "x0": 167.57999999999998,
+      "top": 99.0,
+      "x1": 177.29999999999998,
+      "bottom": 104.22,
+      "confidence": 96.878426,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "rooms",
+      "x0": 180.0,
+      "top": 100.44,
+      "x1": 198.54,
+      "bottom": 104.22,
+      "confidence": 96.246346,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

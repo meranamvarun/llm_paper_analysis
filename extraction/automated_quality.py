@@ -7,6 +7,7 @@ from difflib import SequenceMatcher
 import hashlib
 import json
 import re
+import unicodedata
 from pathlib import Path
 
 from .run import ocr_page
@@ -17,6 +18,8 @@ TOKEN = re.compile(r"[^\W_]+(?:['\u2019][^\W_]+)*", re.UNICODE)
 
 
 def tokens(text):
+    text=unicodedata.normalize('NFKC',text)
+    text=re.sub(r"(?<=\w)[\u2018\u2019\u201b\u201f\uff07](?=\w)","'",text)
     return [m.group().casefold() for m in TOKEN.finditer(text)]
 
 

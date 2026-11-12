@@ -1,0 +1,81 @@
+{
+  "pdf_page": 384,
+  "crop_top": 781.12137,
+  "crop_bottom": 796.56137,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0384:l0049:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.21 \"Ignorantia facit execusat\" means:",
+      "bbox": [
+        41.94,
+        4.5,
+        169.56,
+        10.98
+      ]
+    }
+  ],
+  "text": "Q.21 \"Ignorantia facit execusat\" means:",
+  "ocr_words": [
+    {
+      "text": "Q.21",
+      "x0": 41.94,
+      "top": 4.68,
+      "x1": 55.98,
+      "bottom": 10.44,
+      "confidence": 62.32518,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "\"Ignorantia",
+      "x0": 62.82,
+      "top": 4.5,
+      "x1": 97.38,
+      "bottom": 10.98,
+      "confidence": 62.32518,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "facit",
+      "x0": 99.53999999999999,
+      "top": 4.5,
+      "x1": 113.03999999999999,
+      "bottom": 9.719999999999999,
+      "confidence": 93.081337,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "execusat\"",
+      "x0": 115.19999999999999,
+      "top": 4.5,
+      "x1": 144.89999999999998,
+      "bottom": 9.719999999999999,
+      "confidence": 90.316803,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "means:",
+      "x0": 147.78,
+      "top": 5.9399999999999995,
+      "x1": 169.56,
+      "bottom": 9.719999999999999,
+      "confidence": 96.614136,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

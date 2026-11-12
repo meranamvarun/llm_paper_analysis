@@ -1,0 +1,338 @@
+{
+  "pdf_page": 382,
+  "crop_top": 242.32136000000003,
+  "crop_bottom": 343.20135999999997,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0382:l0014:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.6 Find out the odd man out among the following:",
+      "bbox": [
+        43.739999999999995,
+        4.32,
+        209.51999999999998,
+        10.98
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Ans A",
+      "bbox": [
+        43.379999999999995,
+        14.94,
+        87.66,
+        28.439999999999998
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "1. Comte",
+      "bbox": [
+        88.56,
+        25.919999999999998,
+        115.02,
+        30.959999999999997
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "x",
+      "bbox": [
+        73.08,
+        37.26,
+        86.75999999999999,
+        49.68
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "2. Hegel",
+      "bbox": [
+        88.38,
+        47.16,
+        112.14,
+        53.63999999999999
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        58.5,
+        93.06,
+        73.8
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "Savigny",
+      "bbox": [
+        95.58,
+        68.75999999999999,
+        118.08,
+        75.05999999999999
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        79.92,
+        93.06,
+        94.86
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "Puchta",
+      "bbox": [
+        95.94,
+        89.82,
+        115.74,
+        95.03999999999999
+      ]
+    }
+  ],
+  "text": "Q.6 Find out the odd man out among the following:\nAns A\n1. Comte\nx\n2. Hegel\nx,\nSavigny\nx,\nPuchta",
+  "ocr_words": [
+    {
+      "text": "Q.6",
+      "x0": 43.739999999999995,
+      "top": 4.68,
+      "x1": 54.17999999999999,
+      "bottom": 10.44,
+      "confidence": 51.088314,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Find",
+      "x0": 62.82,
+      "top": 4.5,
+      "x1": 75.24,
+      "bottom": 9.719999999999999,
+      "confidence": 51.088314,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "out",
+      "x0": 77.58,
+      "top": 5.04,
+      "x1": 87.84,
+      "bottom": 9.719999999999999,
+      "confidence": 96.728256,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 89.82,
+      "top": 4.5,
+      "x1": 99.89999999999999,
+      "bottom": 9.719999999999999,
+      "confidence": 95.703011,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "odd",
+      "x0": 102.06,
+      "top": 4.5,
+      "x1": 113.4,
+      "bottom": 9.719999999999999,
+      "confidence": 95.510887,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "man",
+      "x0": 116.1,
+      "top": 5.9399999999999995,
+      "x1": 129.06,
+      "bottom": 9.719999999999999,
+      "confidence": 95.510887,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "out",
+      "x0": 131.4,
+      "top": 5.04,
+      "x1": 141.66,
+      "bottom": 9.719999999999999,
+      "confidence": 96.175018,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "among",
+      "x0": 143.64,
+      "top": 5.9399999999999995,
+      "x1": 164.7,
+      "bottom": 10.98,
+      "confidence": 96.754799,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 166.68,
+      "top": 4.5,
+      "x1": 176.76000000000002,
+      "bottom": 9.719999999999999,
+      "confidence": 96.339767,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following:",
+      "x0": 178.73999999999998,
+      "top": 4.32,
+      "x1": 209.51999999999998,
+      "bottom": 10.98,
+      "confidence": 95.976112,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.379999999999995,
+      "top": 17.46,
+      "x1": 54.53999999999999,
+      "bottom": 22.32,
+      "confidence": 96.179474,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "A",
+      "x0": 73.8,
+      "top": 14.94,
+      "x1": 87.66,
+      "bottom": 28.439999999999998,
+      "confidence": 30.108795,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 88.56,
+      "top": 26.099999999999998,
+      "x1": 93.06,
+      "bottom": 30.779999999999998,
+      "confidence": 94.952011,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Comte",
+      "x0": 95.58,
+      "top": 25.919999999999998,
+      "x1": 115.02,
+      "bottom": 30.959999999999997,
+      "confidence": 94.952011,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "x",
+      "x0": 73.08,
+      "top": 37.26,
+      "x1": 86.75999999999999,
+      "bottom": 49.68,
+      "confidence": 84.068367,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "2.",
+      "x0": 88.38,
+      "top": 47.339999999999996,
+      "x1": 93.06,
+      "bottom": 52.199999999999996,
+      "confidence": 95.516975,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Hegel",
+      "x0": 95.94,
+      "top": 47.16,
+      "x1": 112.14,
+      "bottom": 53.63999999999999,
+      "confidence": 95.516975,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 58.5,
+      "x1": 93.06,
+      "bottom": 73.8,
+      "confidence": 64.360756,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Savigny",
+      "x0": 95.58,
+      "top": 68.75999999999999,
+      "x1": 118.08,
+      "bottom": 75.05999999999999,
+      "confidence": 91.404793,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 79.92,
+      "x1": 93.06,
+      "bottom": 94.86,
+      "confidence": 38.014835,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Puchta",
+      "x0": 95.94,
+      "top": 89.82,
+      "x1": 115.74,
+      "bottom": 95.03999999999999,
+      "confidence": 91.552437,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

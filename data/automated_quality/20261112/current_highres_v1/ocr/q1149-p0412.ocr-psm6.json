@@ -1,0 +1,868 @@
+{
+  "pdf_page": 412,
+  "crop_top": 696.8,
+  "crop_bottom": 777.76,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0412:l0044:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Question Number : 55 Question Id : 461139426 Question Type: MCQ Option Shuffling : Yes Display Question Number : Yes",
+      "bbox": [
+        37.872,
+        4.032,
+        549.0719999999999,
+        12.384
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Single Line Question Option : No Option Orientation : Vertical",
+      "bbox": [
+        37.872,
+        13.392,
+        293.328,
+        21.744
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "Correct : 1 Wrong : 0.25",
+      "bbox": [
+        37.872,
+        26.639999999999997,
+        138.096,
+        34.704
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "An essay entitled ‘On the Vocation of our Age for Legislation and Jurisprudence’ was written with which, in the",
+      "bbox": [
+        37.583999999999996,
+        39.023999999999994,
+        569.376,
+        49.104
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "words of Ihering, a new jurisprudence was born. Who was the author of this essay?",
+      "bbox": [
+        37.583999999999996,
+        51.407999999999994,
+        438.62399999999997,
+        61.48799999999999
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "Options :",
+      "bbox": [
+        37.872,
+        68.39999999999999,
+        73.87199999999999,
+        76.752
+      ]
+    }
+  ],
+  "text": "Question Number : 55 Question Id : 461139426 Question Type: MCQ Option Shuffling : Yes Display Question Number : Yes\nSingle Line Question Option : No Option Orientation : Vertical\nCorrect : 1 Wrong : 0.25\nAn essay entitled ‘On the Vocation of our Age for Legislation and Jurisprudence’ was written with which, in the\nwords of Ihering, a new jurisprudence was born. Who was the author of this essay?\nOptions :",
+  "ocr_words": [
+    {
+      "text": "Question",
+      "x0": 37.872,
+      "top": 4.032,
+      "x1": 73.15199999999999,
+      "bottom": 12.096,
+      "confidence": 96.467102,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Number",
+      "x0": 75.88799999999999,
+      "top": 4.175999999999999,
+      "x1": 109.15199999999999,
+      "bottom": 10.511999999999999,
+      "confidence": 91.422348,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 112.32,
+      "top": 5.904,
+      "x1": 113.75999999999999,
+      "bottom": 10.512,
+      "confidence": 91.422348,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "55",
+      "x0": 117.50399999999999,
+      "top": 4.175999999999999,
+      "x1": 125.99999999999999,
+      "bottom": 10.511999999999999,
+      "confidence": 88.748108,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Question",
+      "x0": 131.61599999999999,
+      "top": 4.032,
+      "x1": 166.896,
+      "bottom": 12.096,
+      "confidence": 95.867554,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Id",
+      "x0": 169.92,
+      "top": 4.175999999999999,
+      "x1": 178.272,
+      "bottom": 10.511999999999999,
+      "confidence": 91.258575,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 181.58399999999997,
+      "top": 5.904,
+      "x1": 183.02399999999997,
+      "bottom": 10.512,
+      "confidence": 90.818184,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "461139426",
+      "x0": 186.624,
+      "top": 4.032,
+      "x1": 228.384,
+      "bottom": 10.512,
+      "confidence": 95.730652,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Question",
+      "x0": 233.712,
+      "top": 4.032,
+      "x1": 269.13599999999997,
+      "bottom": 12.096,
+      "confidence": 96.670441,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Type:",
+      "x0": 272.15999999999997,
+      "top": 4.175999999999999,
+      "x1": 296.784,
+      "bottom": 12.384,
+      "confidence": 84.120789,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "MCQ",
+      "x0": 300.23999999999995,
+      "top": 4.032,
+      "x1": 322.55999999999995,
+      "bottom": 12.096,
+      "confidence": 89.506851,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Option",
+      "x0": 328.032,
+      "top": 4.032,
+      "x1": 355.536,
+      "bottom": 12.383999999999999,
+      "confidence": 92.864799,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Shuffling",
+      "x0": 358.84799999999996,
+      "top": 4.032,
+      "x1": 395.13599999999997,
+      "bottom": 12.383999999999999,
+      "confidence": 90.594788,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 398.592,
+      "top": 5.904,
+      "x1": 400.032,
+      "bottom": 10.512,
+      "confidence": 91.764099,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Yes",
+      "x0": 403.344,
+      "top": 4.175999999999999,
+      "x1": 417.456,
+      "bottom": 10.511999999999999,
+      "confidence": 96.145142,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Display",
+      "x0": 422.784,
+      "top": 4.032,
+      "x1": 452.592,
+      "bottom": 12.383999999999999,
+      "confidence": 96.658875,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Question",
+      "x0": 455.616,
+      "top": 4.032,
+      "x1": 490.89599999999996,
+      "bottom": 12.096,
+      "confidence": 95.339287,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Number",
+      "x0": 493.77599999999995,
+      "top": 4.175999999999999,
+      "x1": 526.896,
+      "bottom": 10.511999999999999,
+      "confidence": 92.817368,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 530.208,
+      "top": 5.904,
+      "x1": 531.648,
+      "bottom": 10.512,
+      "confidence": 92.817368,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Yes",
+      "x0": 535.1039999999999,
+      "top": 4.175999999999999,
+      "x1": 549.0719999999999,
+      "bottom": 10.511999999999999,
+      "confidence": 96.305618,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Single",
+      "x0": 37.872,
+      "top": 13.392,
+      "x1": 61.632,
+      "bottom": 21.744,
+      "confidence": 96.381859,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Line",
+      "x0": 64.368,
+      "top": 13.392,
+      "x1": 82.368,
+      "bottom": 19.872,
+      "confidence": 95.210312,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Question",
+      "x0": 85.392,
+      "top": 13.392,
+      "x1": 120.672,
+      "bottom": 21.456,
+      "confidence": 95.210312,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Option",
+      "x0": 123.83999999999999,
+      "top": 13.392,
+      "x1": 151.2,
+      "bottom": 21.744,
+      "confidence": 92.860863,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": ":",
+      "x0": 155.37599999999998,
+      "top": 15.264,
+      "x1": 156.09599999999998,
+      "bottom": 19.872,
+      "confidence": 92.835464,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "No",
+      "x0": 159.552,
+      "top": 13.536,
+      "x1": 170.64,
+      "bottom": 19.872,
+      "confidence": 96.436874,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Option",
+      "x0": 176.112,
+      "top": 13.392,
+      "x1": 203.61599999999999,
+      "bottom": 21.744,
+      "confidence": 96.436874,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Orientation",
+      "x0": 206.64,
+      "top": 13.392,
+      "x1": 252.86399999999998,
+      "bottom": 19.872,
+      "confidence": 93.033646,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": ":",
+      "x0": 256.32,
+      "top": 15.264,
+      "x1": 257.76,
+      "bottom": 19.872,
+      "confidence": 92.625671,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Vertical",
+      "x0": 261.216,
+      "top": 13.392,
+      "x1": 293.328,
+      "bottom": 19.872,
+      "confidence": 96.351891,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Correct",
+      "x0": 37.872,
+      "top": 26.639999999999997,
+      "x1": 68.544,
+      "bottom": 33.12,
+      "confidence": 86.788033,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 71.856,
+      "top": 28.511999999999997,
+      "x1": 73.29599999999999,
+      "bottom": 33.12,
+      "confidence": 86.765259,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1",
+      "x0": 79.344,
+      "top": 26.639999999999997,
+      "x1": 80.496,
+      "bottom": 32.976,
+      "confidence": 90.758171,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Wrong",
+      "x0": 86.112,
+      "top": 26.784,
+      "x1": 113.904,
+      "bottom": 34.704,
+      "confidence": 88.955978,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 117.35999999999999,
+      "top": 28.511999999999997,
+      "x1": 118.79999999999998,
+      "bottom": 33.12,
+      "confidence": 83.82795,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "0.25",
+      "x0": 122.39999999999999,
+      "top": 26.639999999999997,
+      "x1": 138.096,
+      "bottom": 33.12,
+      "confidence": 96.688995,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "An",
+      "x0": 37.583999999999996,
+      "top": 39.744,
+      "x1": 50.544,
+      "bottom": 46.944,
+      "confidence": 91.778511,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "essay",
+      "x0": 54.144,
+      "top": 41.184,
+      "x1": 79.92,
+      "bottom": 49.104,
+      "confidence": 91.778511,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "entitled",
+      "x0": 83.52,
+      "top": 39.744,
+      "x1": 118.79999999999998,
+      "bottom": 46.944,
+      "confidence": 94.70546,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "‘On",
+      "x0": 123.11999999999999,
+      "top": 39.744,
+      "x1": 138.95999999999998,
+      "bottom": 46.944,
+      "confidence": 94.70546,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 142.56,
+      "top": 39.744,
+      "x1": 156.816,
+      "bottom": 46.944,
+      "confidence": 96.668182,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Vocation",
+      "x0": 160.416,
+      "top": 39.744,
+      "x1": 202.176,
+      "bottom": 46.944,
+      "confidence": 66.764519,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 205.77599999999998,
+      "top": 39.023999999999994,
+      "x1": 215.856,
+      "bottom": 46.943999999999996,
+      "confidence": 96.517456,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "our",
+      "x0": 218.736,
+      "top": 41.184,
+      "x1": 234.432,
+      "bottom": 46.943999999999996,
+      "confidence": 95.513321,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Age",
+      "x0": 238.03199999999998,
+      "top": 39.744,
+      "x1": 255.31199999999998,
+      "bottom": 49.104,
+      "confidence": 94.960281,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "for",
+      "x0": 259.632,
+      "top": 39.023999999999994,
+      "x1": 272.592,
+      "bottom": 46.943999999999996,
+      "confidence": 94.960281,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Legislation",
+      "x0": 276.192,
+      "top": 39.744,
+      "x1": 327.168,
+      "bottom": 49.104,
+      "confidence": 95.796562,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 330.768,
+      "top": 39.744,
+      "x1": 348.768,
+      "bottom": 46.944,
+      "confidence": 96.439957,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Jurisprudence’",
+      "x0": 352.368,
+      "top": 39.744,
+      "x1": 422.06399999999996,
+      "bottom": 49.104,
+      "confidence": 93.287781,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "was",
+      "x0": 426.38399999999996,
+      "top": 41.184,
+      "x1": 444.38399999999996,
+      "bottom": 46.943999999999996,
+      "confidence": 95.235313,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "written",
+      "x0": 447.984,
+      "top": 39.744,
+      "x1": 480.96,
+      "bottom": 46.944,
+      "confidence": 95.301308,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "with",
+      "x0": 484.55999999999995,
+      "top": 39.744,
+      "x1": 504.71999999999997,
+      "bottom": 46.944,
+      "confidence": 96.435638,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "which,",
+      "x0": 508.31999999999994,
+      "top": 39.744,
+      "x1": 538.56,
+      "bottom": 48.384,
+      "confidence": 95.365471,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 542.736,
+      "top": 39.744,
+      "x1": 551.376,
+      "bottom": 46.944,
+      "confidence": 95.705368,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 554.976,
+      "top": 39.744,
+      "x1": 569.376,
+      "bottom": 46.944,
+      "confidence": 96.895142,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "words",
+      "x0": 37.583999999999996,
+      "top": 52.12799999999999,
+      "x1": 66.38399999999999,
+      "bottom": 59.32799999999999,
+      "confidence": 96.442635,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 69.984,
+      "top": 51.407999999999994,
+      "x1": 79.91999999999999,
+      "bottom": 59.327999999999996,
+      "confidence": 95.252327,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Ihering,",
+      "x0": 82.8,
+      "top": 52.12799999999999,
+      "x1": 118.8,
+      "bottom": 61.48799999999999,
+      "confidence": 69.364861,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "a",
+      "x0": 123.11999999999999,
+      "top": 53.568,
+      "x1": 128.16,
+      "bottom": 59.327999999999996,
+      "confidence": 93.62677,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "new",
+      "x0": 131.76,
+      "top": 53.568,
+      "x1": 151.05599999999998,
+      "bottom": 59.327999999999996,
+      "confidence": 73.834335,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "jurisprudence",
+      "x0": 153.21599999999998,
+      "top": 52.12799999999999,
+      "x1": 220.89599999999996,
+      "bottom": 61.48799999999999,
+      "confidence": 95.767059,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "was",
+      "x0": 224.49599999999998,
+      "top": 53.568,
+      "x1": 242.35199999999998,
+      "bottom": 59.327999999999996,
+      "confidence": 95.917358,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "born.",
+      "x0": 245.95199999999997,
+      "top": 52.12799999999999,
+      "x1": 270.43199999999996,
+      "bottom": 59.32799999999999,
+      "confidence": 93.698593,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Who",
+      "x0": 274.75199999999995,
+      "top": 52.12799999999999,
+      "x1": 295.63199999999995,
+      "bottom": 59.32799999999999,
+      "confidence": 95.601738,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "was",
+      "x0": 299.23199999999997,
+      "top": 53.568,
+      "x1": 317.08799999999997,
+      "bottom": 59.327999999999996,
+      "confidence": 96.099457,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 320.688,
+      "top": 52.12799999999999,
+      "x1": 335.08799999999997,
+      "bottom": 59.32799999999999,
+      "confidence": 96.099457,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "author",
+      "x0": 338.688,
+      "top": 52.12799999999999,
+      "x1": 370.368,
+      "bottom": 59.32799999999999,
+      "confidence": 96.414963,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 373.96799999999996,
+      "top": 51.407999999999994,
+      "x1": 383.90399999999994,
+      "bottom": 59.327999999999996,
+      "confidence": 96.346909,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "this",
+      "x0": 386.784,
+      "top": 52.12799999999999,
+      "x1": 404.06399999999996,
+      "bottom": 59.32799999999999,
+      "confidence": 96.443527,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "essay?",
+      "x0": 407.664,
+      "top": 52.12799999999999,
+      "x1": 438.62399999999997,
+      "bottom": 61.48799999999999,
+      "confidence": 95.940483,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Options",
+      "x0": 37.872,
+      "top": 68.39999999999999,
+      "x1": 68.832,
+      "bottom": 76.752,
+      "confidence": 93.131912,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 72.43199999999999,
+      "top": 70.27199999999999,
+      "x1": 73.87199999999999,
+      "bottom": 74.88,
+      "confidence": 93.131912,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

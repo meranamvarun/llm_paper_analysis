@@ -1,0 +1,459 @@
+{
+  "pdf_page": 376,
+  "crop_top": 36.16136000000006,
+  "crop_bottom": 124.32136000000003,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0375:l0050:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "X",
+      "bbox": [
+        73.08,
+        3.06,
+        86.75999999999999,
+        15.66
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "1. the Constitution (Ninety-second Amendment) Act, 2003",
+      "bbox": [
+        88.56,
+        12.959999999999999,
+        264.96,
+        19.619999999999997
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "XK",
+      "bbox": [
+        72.17999999999999,
+        23.759999999999998,
+        92.16,
+        35.64
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "2. the Constitution ( Eighty-fifth Amendment) Act, 2001",
+      "bbox": [
+        88.38,
+        34.379999999999995,
+        256.5,
+        41.03999999999999
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "XK",
+      "bbox": [
+        72.17999999999999,
+        45.9,
+        92.16,
+        57.239999999999995
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "3. the Constitution (Forty-second Amendment) Act, 1976",
+      "bbox": [
+        88.2,
+        55.8,
+        261.0,
+        62.459999999999994
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "q",
+      "bbox": [
+        73.8,
+        66.42,
+        87.66,
+        79.74000000000001
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "4. the Constitution (Eighty-sixth Amendment) Act, 2002",
+      "bbox": [
+        88.02,
+        77.03999999999999,
+        256.32,
+        83.69999999999999
+      ]
+    }
+  ],
+  "text": "X\n1. the Constitution (Ninety-second Amendment) Act, 2003\nXK\n2. the Constitution ( Eighty-fifth Amendment) Act, 2001\nXK\n3. the Constitution (Forty-second Amendment) Act, 1976\nq\n4. the Constitution (Eighty-sixth Amendment) Act, 2002",
+  "ocr_words": [
+    {
+      "text": "q",
+      "x0": 73.8,
+      "top": 66.42,
+      "x1": 87.66,
+      "bottom": 79.74000000000001,
+      "confidence": 82.711815,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "XK",
+      "x0": 72.17999999999999,
+      "top": 45.9,
+      "x1": 92.16,
+      "bottom": 57.239999999999995,
+      "confidence": 62.196983,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "XK",
+      "x0": 72.17999999999999,
+      "top": 23.759999999999998,
+      "x1": 92.16,
+      "bottom": 35.64,
+      "confidence": 62.196983,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "X",
+      "x0": 73.08,
+      "top": 3.06,
+      "x1": 86.75999999999999,
+      "bottom": 15.66,
+      "confidence": 77.573608,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1.",
+      "x0": 88.56,
+      "top": 13.5,
+      "x1": 93.06,
+      "bottom": 18.18,
+      "confidence": 96.64222,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 95.39999999999999,
+      "top": 13.139999999999999,
+      "x1": 105.11999999999999,
+      "bottom": 18.36,
+      "confidence": 96.354431,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Constitution",
+      "x0": 107.46,
+      "top": 13.32,
+      "x1": 144.35999999999999,
+      "bottom": 18.36,
+      "confidence": 93.292625,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(Ninety-second",
+      "x0": 147.06,
+      "top": 12.959999999999999,
+      "x1": 192.24,
+      "bottom": 19.619999999999997,
+      "confidence": 91.429764,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Amendment)",
+      "x0": 194.76,
+      "top": 12.959999999999999,
+      "x1": 234.54,
+      "bottom": 19.439999999999998,
+      "confidence": 96.583549,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Act,",
+      "x0": 236.7,
+      "top": 13.5,
+      "x1": 248.04,
+      "bottom": 19.259999999999998,
+      "confidence": 95.475998,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2003",
+      "x0": 250.73999999999998,
+      "top": 13.32,
+      "x1": 264.96,
+      "bottom": 18.36,
+      "confidence": 95.475998,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2.",
+      "x0": 88.38,
+      "top": 34.74,
+      "x1": 93.06,
+      "bottom": 39.6,
+      "confidence": 96.882195,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 95.39999999999999,
+      "top": 34.56,
+      "x1": 105.11999999999999,
+      "bottom": 39.78,
+      "confidence": 96.700218,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Constitution",
+      "x0": 107.46,
+      "top": 34.74,
+      "x1": 144.35999999999999,
+      "bottom": 39.78,
+      "confidence": 93.259636,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(",
+      "x0": 147.06,
+      "top": 34.379999999999995,
+      "x1": 148.32,
+      "bottom": 40.85999999999999,
+      "confidence": 86.52729,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Eighty-fifth",
+      "x0": 151.01999999999998,
+      "top": 34.379999999999995,
+      "x1": 183.77999999999997,
+      "bottom": 41.03999999999999,
+      "confidence": 86.52729,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Amendment)",
+      "x0": 186.12,
+      "top": 34.56,
+      "x1": 225.9,
+      "bottom": 40.86,
+      "confidence": 96.408836,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Act,",
+      "x0": 228.23999999999998,
+      "top": 34.92,
+      "x1": 239.39999999999998,
+      "bottom": 40.68,
+      "confidence": 95.477478,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2001",
+      "x0": 242.1,
+      "top": 34.74,
+      "x1": 256.5,
+      "bottom": 39.78,
+      "confidence": 95.477478,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "3.",
+      "x0": 88.2,
+      "top": 56.16,
+      "x1": 93.06,
+      "bottom": 61.199999999999996,
+      "confidence": 96.852119,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 95.39999999999999,
+      "top": 55.98,
+      "x1": 105.11999999999999,
+      "bottom": 61.199999999999996,
+      "confidence": 96.573059,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Constitution",
+      "x0": 107.46,
+      "top": 56.16,
+      "x1": 144.35999999999999,
+      "bottom": 61.199999999999996,
+      "confidence": 96.751877,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(Forty-second",
+      "x0": 147.06,
+      "top": 55.8,
+      "x1": 188.1,
+      "bottom": 62.459999999999994,
+      "confidence": 96.510307,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Amendment)",
+      "x0": 190.44,
+      "top": 55.8,
+      "x1": 230.22,
+      "bottom": 62.279999999999994,
+      "confidence": 96.043144,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Act,",
+      "x0": 232.56,
+      "top": 56.339999999999996,
+      "x1": 243.9,
+      "bottom": 62.099999999999994,
+      "confidence": 96.592056,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1976",
+      "x0": 246.6,
+      "top": 56.16,
+      "x1": 261.0,
+      "bottom": 61.199999999999996,
+      "confidence": 96.747726,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "4.",
+      "x0": 88.02,
+      "top": 77.58,
+      "x1": 93.06,
+      "bottom": 82.25999999999999,
+      "confidence": 96.75634,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 95.39999999999999,
+      "top": 77.22,
+      "x1": 105.11999999999999,
+      "bottom": 82.44,
+      "confidence": 96.782654,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Constitution",
+      "x0": 107.46,
+      "top": 77.39999999999999,
+      "x1": 144.35999999999999,
+      "bottom": 82.44,
+      "confidence": 93.268364,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(Eighty-sixth",
+      "x0": 147.06,
+      "top": 77.03999999999999,
+      "x1": 183.6,
+      "bottom": 83.69999999999999,
+      "confidence": 92.323975,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Amendment)",
+      "x0": 185.94,
+      "top": 77.03999999999999,
+      "x1": 225.72,
+      "bottom": 83.52,
+      "confidence": 96.100624,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Act,",
+      "x0": 228.06,
+      "top": 77.58,
+      "x1": 239.4,
+      "bottom": 83.34,
+      "confidence": 96.100624,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2002",
+      "x0": 241.92,
+      "top": 77.39999999999999,
+      "x1": 256.32,
+      "bottom": 82.44,
+      "confidence": 96.548485,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

@@ -1,0 +1,942 @@
+{
+  "pdf_page": 251,
+  "crop_top": 613.932,
+  "crop_bottom": 727.072,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0251:l0036:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "96. Which of the following public interest litigations 1s related to proper maintenance of",
+      "bbox": [
+        72.43199999999999,
+        5.183999999999999,
+        503.28,
+        16.128
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "cultural heritage of India as also the ecology in the surrounding areas of Taj Mahal?",
+      "bbox": [
+        94.032,
+        18.863999999999997,
+        494.928,
+        29.807999999999996
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(A) M.C. Mehta Union of India, (1999) 6 SCC 237.",
+      "bbox": [
+        100.51199999999999,
+        34.704,
+        361.72799999999995,
+        45.647999999999996
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "v.",
+      "bbox": [
+        183.16799999999998,
+        37.727999999999994,
+        191.23199999999997,
+        43.199999999999996
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(B) M.C. Mehta v. Union of India, (2008) 1 SCC 407.",
+      "bbox": [
+        100.51199999999999,
+        50.831999999999994,
+        361.72799999999995,
+        61.63199999999999
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "(C) M.C. Mehta v. Union of India, (1991) 2 SCC 137.",
+      "bbox": [
+        100.51199999999999,
+        66.09599999999999,
+        361.72799999999995,
+        76.89599999999999
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "(D) M.C. Mehta Union of India, (2016) 4 SCC 269.",
+      "bbox": [
+        100.51199999999999,
+        81.93599999999999,
+        362.01599999999996,
+        92.88
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "v.",
+      "bbox": [
+        183.16799999999998,
+        84.96,
+        191.23199999999997,
+        90.43199999999999
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "CORRECT OPTION: B",
+      "bbox": [
+        72.43199999999999,
+        98.496,
+        196.992,
+        106.848
+      ]
+    }
+  ],
+  "text": "96. Which of the following public interest litigations 1s related to proper maintenance of\ncultural heritage of India as also the ecology in the surrounding areas of Taj Mahal?\n(A) M.C. Mehta Union of India, (1999) 6 SCC 237.\nv.\n(B) M.C. Mehta v. Union of India, (2008) 1 SCC 407.\n(C) M.C. Mehta v. Union of India, (1991) 2 SCC 137.\n(D) M.C. Mehta Union of India, (2016) 4 SCC 269.\nv.\nCORRECT OPTION: B",
+  "ocr_words": [
+    {
+      "text": "96.",
+      "x0": 72.43199999999999,
+      "top": 5.4719999999999995,
+      "x1": 84.95999999999998,
+      "bottom": 13.68,
+      "confidence": 95.280762,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Which",
+      "x0": 93.744,
+      "top": 5.183999999999999,
+      "x1": 125.568,
+      "bottom": 13.679999999999998,
+      "confidence": 95.280762,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 129.024,
+      "top": 5.183999999999999,
+      "x1": 139.968,
+      "bottom": 13.679999999999998,
+      "confidence": 96.659027,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 142.128,
+      "top": 5.183999999999999,
+      "x1": 156.23999999999998,
+      "bottom": 13.679999999999998,
+      "confidence": 96.185669,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 160.128,
+      "top": 5.183999999999999,
+      "x1": 207.35999999999999,
+      "bottom": 16.128,
+      "confidence": 96.288231,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "public",
+      "x0": 210.81599999999997,
+      "top": 5.183999999999999,
+      "x1": 241.05599999999998,
+      "bottom": 16.128,
+      "confidence": 96.264519,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "interest",
+      "x0": 245.088,
+      "top": 5.183999999999999,
+      "x1": 279.792,
+      "bottom": 13.679999999999998,
+      "confidence": 96.264519,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "litigations",
+      "x0": 283.248,
+      "top": 5.183999999999999,
+      "x1": 330.48,
+      "bottom": 16.128,
+      "confidence": 96.297829,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1s",
+      "x0": 334.224,
+      "top": 5.183999999999999,
+      "x1": 341.424,
+      "bottom": 13.679999999999998,
+      "confidence": 71.149872,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "related",
+      "x0": 345.024,
+      "top": 5.183999999999999,
+      "x1": 377.424,
+      "bottom": 13.679999999999998,
+      "confidence": 96.232285,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 380.592,
+      "top": 6.335999999999999,
+      "x1": 389.376,
+      "bottom": 13.68,
+      "confidence": 96.502792,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "proper",
+      "x0": 392.832,
+      "top": 7.919999999999999,
+      "x1": 425.23199999999997,
+      "bottom": 16.128,
+      "confidence": 96.675636,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "maintenance",
+      "x0": 428.832,
+      "top": 5.183999999999999,
+      "x1": 488.736,
+      "bottom": 13.679999999999998,
+      "confidence": 96.289726,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 492.62399999999997,
+      "top": 5.183999999999999,
+      "x1": 503.28,
+      "bottom": 13.679999999999998,
+      "confidence": 96.739487,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "cultural",
+      "x0": 94.032,
+      "top": 18.863999999999997,
+      "x1": 130.752,
+      "bottom": 27.359999999999996,
+      "confidence": 96.035767,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "heritage",
+      "x0": 133.63199999999998,
+      "top": 18.863999999999997,
+      "x1": 171.50399999999996,
+      "bottom": 29.807999999999996,
+      "confidence": 96.90937,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 175.10399999999998,
+      "top": 18.863999999999997,
+      "x1": 186.04799999999997,
+      "bottom": 27.359999999999996,
+      "confidence": 96.42942,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "India",
+      "x0": 188.784,
+      "top": 18.863999999999997,
+      "x1": 213.552,
+      "bottom": 27.359999999999996,
+      "confidence": 95.989059,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "as",
+      "x0": 217.00799999999998,
+      "top": 21.744,
+      "x1": 226.224,
+      "bottom": 27.36,
+      "confidence": 96.820564,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "also",
+      "x0": 229.82399999999998,
+      "top": 18.863999999999997,
+      "x1": 248.25599999999997,
+      "bottom": 27.359999999999996,
+      "confidence": 96.579269,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 251.712,
+      "top": 18.863999999999997,
+      "x1": 265.96799999999996,
+      "bottom": 27.359999999999996,
+      "confidence": 96.679764,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "ecology",
+      "x0": 269.424,
+      "top": 18.863999999999997,
+      "x1": 307.008,
+      "bottom": 29.807999999999996,
+      "confidence": 95.897331,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "in",
+      "x0": 310.032,
+      "top": 18.863999999999997,
+      "x1": 318.96,
+      "bottom": 27.215999999999994,
+      "confidence": 91.791191,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 321.984,
+      "top": 18.863999999999997,
+      "x1": 336.38399999999996,
+      "bottom": 27.359999999999996,
+      "confidence": 96.807289,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "surrounding",
+      "x0": 339.984,
+      "top": 18.863999999999997,
+      "x1": 397.296,
+      "bottom": 29.807999999999996,
+      "confidence": 94.87011,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "areas",
+      "x0": 400.032,
+      "top": 21.599999999999998,
+      "x1": 424.224,
+      "bottom": 27.36,
+      "confidence": 94.87011,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 427.96799999999996,
+      "top": 18.863999999999997,
+      "x1": 438.912,
+      "bottom": 27.359999999999996,
+      "confidence": 96.924286,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Taj",
+      "x0": 441.50399999999996,
+      "top": 18.863999999999997,
+      "x1": 456.19199999999995,
+      "bottom": 29.807999999999996,
+      "confidence": 96.003777,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Mahal?",
+      "x0": 459.792,
+      "top": 18.863999999999997,
+      "x1": 494.928,
+      "bottom": 27.359999999999996,
+      "confidence": 96.003777,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(A)",
+      "x0": 100.51199999999999,
+      "top": 34.704,
+      "x1": 113.47199999999998,
+      "bottom": 45.647999999999996,
+      "confidence": 92.958153,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "M.C.",
+      "x0": 121.96799999999999,
+      "top": 34.848,
+      "x1": 145.584,
+      "bottom": 43.199999999999996,
+      "confidence": 90.651695,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Mehta",
+      "x0": 150.048,
+      "top": 34.704,
+      "x1": 180.432,
+      "bottom": 43.2,
+      "confidence": 89.483414,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "v.",
+      "x0": 183.16799999999998,
+      "top": 37.727999999999994,
+      "x1": 191.23199999999997,
+      "bottom": 43.199999999999996,
+      "confidence": 89.483414,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Union",
+      "x0": 194.976,
+      "top": 34.704,
+      "x1": 225.35999999999999,
+      "bottom": 43.2,
+      "confidence": 96.468338,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 228.67199999999997,
+      "top": 34.704,
+      "x1": 239.61599999999996,
+      "bottom": 43.2,
+      "confidence": 96.717903,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "India,",
+      "x0": 242.064,
+      "top": 34.704,
+      "x1": 269.13599999999997,
+      "bottom": 45.072,
+      "confidence": 96.443604,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(1999)",
+      "x0": 272.88,
+      "top": 34.704,
+      "x1": 303.984,
+      "bottom": 45.504,
+      "confidence": 96.039932,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "6",
+      "x0": 307.44,
+      "top": 34.992,
+      "x1": 312.48,
+      "bottom": 43.199999999999996,
+      "confidence": 96.294868,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "SCC",
+      "x0": 316.368,
+      "top": 34.848,
+      "x1": 337.968,
+      "bottom": 43.199999999999996,
+      "confidence": 96.068138,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "237.",
+      "x0": 341.13599999999997,
+      "top": 34.992,
+      "x1": 361.72799999999995,
+      "bottom": 43.199999999999996,
+      "confidence": 96.13575,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(B)",
+      "x0": 100.51199999999999,
+      "top": 50.831999999999994,
+      "x1": 112.89599999999999,
+      "bottom": 61.63199999999999,
+      "confidence": 88.855011,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "M.C.",
+      "x0": 121.96799999999999,
+      "top": 50.976,
+      "x1": 145.584,
+      "bottom": 59.327999999999996,
+      "confidence": 90.703705,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Mehta",
+      "x0": 150.048,
+      "top": 50.831999999999994,
+      "x1": 180.432,
+      "bottom": 59.32799999999999,
+      "confidence": 92.280731,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "v.",
+      "x0": 183.16799999999998,
+      "top": 53.711999999999996,
+      "x1": 191.23199999999997,
+      "bottom": 59.327999999999996,
+      "confidence": 92.719254,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Union",
+      "x0": 194.976,
+      "top": 50.831999999999994,
+      "x1": 225.35999999999999,
+      "bottom": 59.32799999999999,
+      "confidence": 96.09996,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 228.67199999999997,
+      "top": 50.831999999999994,
+      "x1": 239.61599999999996,
+      "bottom": 59.32799999999999,
+      "confidence": 96.09996,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "India,",
+      "x0": 242.064,
+      "top": 50.831999999999994,
+      "x1": 269.13599999999997,
+      "bottom": 61.05599999999999,
+      "confidence": 95.733421,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(2008)",
+      "x0": 272.88,
+      "top": 50.831999999999994,
+      "x1": 303.984,
+      "bottom": 61.63199999999999,
+      "confidence": 95.733421,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1",
+      "x0": 308.304,
+      "top": 50.976,
+      "x1": 311.472,
+      "bottom": 59.184,
+      "confidence": 96.358543,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "SCC",
+      "x0": 316.368,
+      "top": 50.976,
+      "x1": 337.968,
+      "bottom": 59.327999999999996,
+      "confidence": 95.650299,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "407.",
+      "x0": 341.13599999999997,
+      "top": 50.976,
+      "x1": 361.72799999999995,
+      "bottom": 59.327999999999996,
+      "confidence": 96.184425,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(C)",
+      "x0": 100.51199999999999,
+      "top": 66.09599999999999,
+      "x1": 112.89599999999999,
+      "bottom": 76.89599999999999,
+      "confidence": 90.185867,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "M.C.",
+      "x0": 121.96799999999999,
+      "top": 66.24,
+      "x1": 145.584,
+      "bottom": 74.592,
+      "confidence": 90.080307,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Mehta",
+      "x0": 150.048,
+      "top": 66.09599999999999,
+      "x1": 180.432,
+      "bottom": 74.59199999999998,
+      "confidence": 88.969391,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "v.",
+      "x0": 183.16799999999998,
+      "top": 68.976,
+      "x1": 191.23199999999997,
+      "bottom": 74.592,
+      "confidence": 88.969391,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Union",
+      "x0": 194.976,
+      "top": 66.09599999999999,
+      "x1": 225.35999999999999,
+      "bottom": 74.59199999999998,
+      "confidence": 95.700508,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 228.67199999999997,
+      "top": 66.09599999999999,
+      "x1": 239.61599999999996,
+      "bottom": 74.59199999999998,
+      "confidence": 95.700508,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "India,",
+      "x0": 242.064,
+      "top": 66.09599999999999,
+      "x1": 269.13599999999997,
+      "bottom": 76.32,
+      "confidence": 95.940285,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(1991)",
+      "x0": 272.88,
+      "top": 66.09599999999999,
+      "x1": 303.984,
+      "bottom": 76.89599999999999,
+      "confidence": 94.017715,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2",
+      "x0": 307.152,
+      "top": 66.24,
+      "x1": 312.336,
+      "bottom": 74.304,
+      "confidence": 94.017715,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "SCC",
+      "x0": 316.368,
+      "top": 66.24,
+      "x1": 337.968,
+      "bottom": 74.592,
+      "confidence": 96.081512,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "137.",
+      "x0": 342.28799999999995,
+      "top": 66.24,
+      "x1": 361.72799999999995,
+      "bottom": 74.592,
+      "confidence": 96.460533,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(D)",
+      "x0": 100.51199999999999,
+      "top": 82.08,
+      "x1": 113.47199999999998,
+      "bottom": 92.88,
+      "confidence": 86.967415,
+      "ocr_block": "2",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "M.C.",
+      "x0": 121.96799999999999,
+      "top": 82.22399999999999,
+      "x1": 145.584,
+      "bottom": 90.576,
+      "confidence": 91.528114,
+      "ocr_block": "2",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Mehta",
+      "x0": 150.048,
+      "top": 81.93599999999999,
+      "x1": 180.432,
+      "bottom": 90.43199999999999,
+      "confidence": 89.986946,
+      "ocr_block": "2",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "v.",
+      "x0": 183.16799999999998,
+      "top": 84.96,
+      "x1": 191.23199999999997,
+      "bottom": 90.43199999999999,
+      "confidence": 89.986946,
+      "ocr_block": "2",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Union",
+      "x0": 194.976,
+      "top": 81.93599999999999,
+      "x1": 225.35999999999999,
+      "bottom": 90.576,
+      "confidence": 96.353348,
+      "ocr_block": "2",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 228.67199999999997,
+      "top": 81.93599999999999,
+      "x1": 239.61599999999996,
+      "bottom": 90.43199999999999,
+      "confidence": 96.508202,
+      "ocr_block": "2",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "India,",
+      "x0": 242.064,
+      "top": 81.93599999999999,
+      "x1": 269.424,
+      "bottom": 92.30399999999999,
+      "confidence": 96.094833,
+      "ocr_block": "2",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(2016)",
+      "x0": 273.31199999999995,
+      "top": 82.08,
+      "x1": 304.27199999999993,
+      "bottom": 92.88,
+      "confidence": 94.931709,
+      "ocr_block": "2",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "4",
+      "x0": 310.032,
+      "top": 82.22399999999999,
+      "x1": 312.768,
+      "bottom": 90.28799999999998,
+      "confidence": 94.931709,
+      "ocr_block": "2",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "SCC",
+      "x0": 316.65599999999995,
+      "top": 82.22399999999999,
+      "x1": 338.256,
+      "bottom": 90.576,
+      "confidence": 95.810333,
+      "ocr_block": "2",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "269.",
+      "x0": 341.424,
+      "top": 82.22399999999999,
+      "x1": 362.01599999999996,
+      "bottom": 90.43199999999999,
+      "confidence": 96.497871,
+      "ocr_block": "2",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "CORRECT",
+      "x0": 72.43199999999999,
+      "top": 98.496,
+      "x1": 131.61599999999999,
+      "bottom": 106.848,
+      "confidence": 96.170326,
+      "ocr_block": "2",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "OPTION:",
+      "x0": 135.504,
+      "top": 98.63999999999999,
+      "x1": 185.184,
+      "bottom": 106.84799999999998,
+      "confidence": 92.756889,
+      "ocr_block": "2",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "B",
+      "x0": 189.648,
+      "top": 98.78399999999999,
+      "x1": 196.992,
+      "bottom": 106.704,
+      "confidence": 91.777878,
+      "ocr_block": "2",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

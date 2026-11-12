@@ -1,0 +1,699 @@
+{
+  "pdf_page": 390,
+  "crop_top": 674.08136,
+  "crop_bottom": 784.08137,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0390:l0042:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.3_ A, being executor to the will of a deceased person, dishonestly disobeys the law which directs him to divide the assets according to the will, and appropriates",
+      "bbox": [
+        43.775999999999996,
+        4.4639999999999995,
+        551.52,
+        10.943999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "the assets to his own use. A commits:",
+      "bbox": [
+        62.495999999999995,
+        13.536,
+        178.56,
+        18.72
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "\"4",
+      "bbox": [
+        73.728,
+        23.616,
+        87.696,
+        38.16
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "Ans",
+      "bbox": [
+        43.343999999999994,
+        26.639999999999997,
+        54.57599999999999,
+        31.535999999999998
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "1. criminal breach of trust",
+      "bbox": [
+        88.55999999999999,
+        34.992,
+        166.32,
+        40.175999999999995
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "x",
+      "bbox": [
+        73.008,
+        46.367999999999995,
+        86.544,
+        58.895999999999994
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "2. theft",
+      "bbox": [
+        88.27199999999999,
+        56.303999999999995,
+        110.01599999999999,
+        61.488
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "x",
+      "bbox": [
+        73.008,
+        67.824,
+        86.544,
+        80.208
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "3. cheating",
+      "bbox": [
+        88.27199999999999,
+        77.75999999999999,
+        121.24799999999999,
+        84.09599999999999
+      ]
+    },
+    {
+      "line_id": "l0009",
+      "text": "ra",
+      "bbox": [
+        72.43199999999999,
+        88.55999999999999,
+        86.54399999999998,
+        105.83999999999999
+      ]
+    },
+    {
+      "line_id": "l0010",
+      "text": "4. forgery",
+      "bbox": [
+        88.128,
+        99.07199999999999,
+        117.216,
+        105.40799999999999
+      ]
+    }
+  ],
+  "text": "Q.3_ A, being executor to the will of a deceased person, dishonestly disobeys the law which directs him to divide the assets according to the will, and appropriates\nthe assets to his own use. A commits:\n\"4\nAns\n1. criminal breach of trust\nx\n2. theft\nx\n3. cheating\nra\n4. forgery",
+  "ocr_words": [
+    {
+      "text": "Q.3_",
+      "x0": 43.775999999999996,
+      "top": 4.752,
+      "x1": 54.14399999999999,
+      "bottom": 10.367999999999999,
+      "confidence": 7.886314,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A,",
+      "x0": 62.495999999999995,
+      "top": 4.752,
+      "x1": 68.544,
+      "bottom": 10.655999999999999,
+      "confidence": 93.412903,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "being",
+      "x0": 70.99199999999999,
+      "top": 4.4639999999999995,
+      "x1": 87.69599999999998,
+      "bottom": 10.943999999999999,
+      "confidence": 95.980011,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "executor",
+      "x0": 89.71199999999999,
+      "top": 5.183999999999999,
+      "x1": 116.78399999999999,
+      "bottom": 9.648,
+      "confidence": 95.979752,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 118.65599999999999,
+      "top": 5.183999999999999,
+      "x1": 124.99199999999999,
+      "bottom": 9.648,
+      "confidence": 95.753273,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 127.008,
+      "top": 4.4639999999999995,
+      "x1": 137.088,
+      "bottom": 9.648,
+      "confidence": 96.737579,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "will",
+      "x0": 139.248,
+      "top": 4.4639999999999995,
+      "x1": 149.76,
+      "bottom": 9.504,
+      "confidence": 94.809311,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 152.208,
+      "top": 4.4639999999999995,
+      "x1": 158.4,
+      "bottom": 9.648,
+      "confidence": 96.758392,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 162.72,
+      "top": 5.904,
+      "x1": 163.152,
+      "bottom": 9.648,
+      "confidence": 95.931938,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "deceased",
+      "x0": 165.6,
+      "top": 4.4639999999999995,
+      "x1": 194.112,
+      "bottom": 9.648,
+      "confidence": 96.745872,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "person,",
+      "x0": 196.70399999999998,
+      "top": 5.904,
+      "x1": 219.31199999999998,
+      "bottom": 10.8,
+      "confidence": 93.303436,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "dishonestly",
+      "x0": 221.76,
+      "top": 4.4639999999999995,
+      "x1": 257.03999999999996,
+      "bottom": 10.799999999999999,
+      "confidence": 93.002556,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "disobeys",
+      "x0": 259.056,
+      "top": 4.4639999999999995,
+      "x1": 285.84,
+      "bottom": 10.799999999999999,
+      "confidence": 92.107758,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 287.856,
+      "top": 4.4639999999999995,
+      "x1": 297.792,
+      "bottom": 9.648,
+      "confidence": 96.378624,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "law",
+      "x0": 300.23999999999995,
+      "top": 4.4639999999999995,
+      "x1": 310.75199999999995,
+      "bottom": 9.648,
+      "confidence": 96.349625,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "which",
+      "x0": 312.768,
+      "top": 4.4639999999999995,
+      "x1": 330.768,
+      "bottom": 9.648,
+      "confidence": 96.198776,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "directs",
+      "x0": 333.21599999999995,
+      "top": 4.4639999999999995,
+      "x1": 353.80799999999994,
+      "bottom": 9.648,
+      "confidence": 96.177864,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "him",
+      "x0": 356.11199999999997,
+      "top": 4.4639999999999995,
+      "x1": 367.2,
+      "bottom": 9.504,
+      "confidence": 96.354218,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 369.50399999999996,
+      "top": 5.183999999999999,
+      "x1": 375.69599999999997,
+      "bottom": 9.648,
+      "confidence": 96.871811,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "divide",
+      "x0": 377.99999999999994,
+      "top": 4.4639999999999995,
+      "x1": 396.43199999999996,
+      "bottom": 9.648,
+      "confidence": 96.304443,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 398.592,
+      "top": 4.4639999999999995,
+      "x1": 408.52799999999996,
+      "bottom": 9.648,
+      "confidence": 96.871788,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "assets",
+      "x0": 410.832,
+      "top": 5.183999999999999,
+      "x1": 429.408,
+      "bottom": 9.648,
+      "confidence": 96.835609,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "according",
+      "x0": 431.568,
+      "top": 4.4639999999999995,
+      "x1": 461.23199999999997,
+      "bottom": 10.943999999999999,
+      "confidence": 96.321678,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 463.248,
+      "top": 5.183999999999999,
+      "x1": 469.44,
+      "bottom": 9.648,
+      "confidence": 95.894753,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 471.59999999999997,
+      "top": 4.4639999999999995,
+      "x1": 481.53599999999994,
+      "bottom": 9.648,
+      "confidence": 96.56443,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "will,",
+      "x0": 483.69599999999997,
+      "top": 4.4639999999999995,
+      "x1": 496.224,
+      "bottom": 10.655999999999999,
+      "confidence": 96.580147,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 498.52799999999996,
+      "top": 4.4639999999999995,
+      "x1": 509.616,
+      "bottom": 9.648,
+      "confidence": 96.184044,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "appropriates",
+      "x0": 512.064,
+      "top": 4.608,
+      "x1": 551.52,
+      "bottom": 10.799999999999999,
+      "confidence": 96.184044,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 62.495999999999995,
+      "top": 13.536,
+      "x1": 72.43199999999999,
+      "bottom": 18.72,
+      "confidence": 96.781693,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "assets",
+      "x0": 74.73599999999999,
+      "top": 14.255999999999998,
+      "x1": 93.31199999999998,
+      "bottom": 18.72,
+      "confidence": 96.67231,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "to",
+      "x0": 95.32799999999999,
+      "top": 14.255999999999998,
+      "x1": 101.51999999999998,
+      "bottom": 18.72,
+      "confidence": 96.630272,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "his",
+      "x0": 103.96799999999999,
+      "top": 13.536,
+      "x1": 112.17599999999999,
+      "bottom": 18.72,
+      "confidence": 96.630272,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "own",
+      "x0": 114.33599999999998,
+      "top": 15.12,
+      "x1": 127.29599999999998,
+      "bottom": 18.72,
+      "confidence": 95.969124,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "use.",
+      "x0": 129.88799999999998,
+      "top": 15.12,
+      "x1": 141.83999999999997,
+      "bottom": 18.72,
+      "confidence": 95.802864,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "A",
+      "x0": 144.0,
+      "top": 13.967999999999998,
+      "x1": 148.32,
+      "bottom": 18.72,
+      "confidence": 96.528305,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "commits:",
+      "x0": 150.48,
+      "top": 13.68,
+      "x1": 178.56,
+      "bottom": 18.72,
+      "confidence": 96.528305,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.343999999999994,
+      "top": 26.639999999999997,
+      "x1": 54.57599999999999,
+      "bottom": 31.535999999999998,
+      "confidence": 96.858086,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "\"4",
+      "x0": 73.728,
+      "top": 23.616,
+      "x1": 87.696,
+      "bottom": 38.16,
+      "confidence": 15.017235,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "1.",
+      "x0": 88.55999999999999,
+      "top": 35.279999999999994,
+      "x1": 93.02399999999999,
+      "bottom": 40.032,
+      "confidence": 95.770187,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "criminal",
+      "x0": 95.616,
+      "top": 34.992,
+      "x1": 119.232,
+      "bottom": 40.032,
+      "confidence": 95.770187,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "breach",
+      "x0": 121.96799999999999,
+      "top": 34.992,
+      "x1": 141.83999999999997,
+      "bottom": 40.175999999999995,
+      "confidence": 96.022453,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "of",
+      "x0": 144.432,
+      "top": 34.992,
+      "x1": 150.48,
+      "bottom": 40.175999999999995,
+      "confidence": 96.501167,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "trust",
+      "x0": 152.208,
+      "top": 35.711999999999996,
+      "x1": 166.32,
+      "bottom": 40.175999999999995,
+      "confidence": 96.606552,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "x",
+      "x0": 73.008,
+      "top": 46.367999999999995,
+      "x1": 86.544,
+      "bottom": 58.895999999999994,
+      "confidence": 75.283707,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "2.",
+      "x0": 88.27199999999999,
+      "top": 56.592,
+      "x1": 93.02399999999999,
+      "bottom": 61.488,
+      "confidence": 96.505035,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "theft",
+      "x0": 95.472,
+      "top": 56.303999999999995,
+      "x1": 110.01599999999999,
+      "bottom": 61.48799999999999,
+      "confidence": 96.643875,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "x",
+      "x0": 73.008,
+      "top": 67.824,
+      "x1": 86.544,
+      "bottom": 80.208,
+      "confidence": 74.235466,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "3.",
+      "x0": 88.27199999999999,
+      "top": 78.04799999999999,
+      "x1": 93.02399999999999,
+      "bottom": 82.79999999999998,
+      "confidence": 95.073166,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "cheating",
+      "x0": 95.616,
+      "top": 77.75999999999999,
+      "x1": 121.24799999999999,
+      "bottom": 84.09599999999999,
+      "confidence": 96.283226,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "ra",
+      "x0": 72.43199999999999,
+      "top": 88.55999999999999,
+      "x1": 86.54399999999998,
+      "bottom": 105.83999999999999,
+      "confidence": 32.814278,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "4.",
+      "x0": 88.128,
+      "top": 99.36,
+      "x1": 93.024,
+      "bottom": 104.112,
+      "confidence": 96.398392,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "forgery",
+      "x0": 95.472,
+      "top": 99.07199999999999,
+      "x1": 117.216,
+      "bottom": 105.40799999999999,
+      "confidence": 96.840607,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

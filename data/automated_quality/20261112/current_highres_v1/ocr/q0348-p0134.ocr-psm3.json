@@ -1,0 +1,1357 @@
+{
+  "pdf_page": 134,
+  "crop_top": 94.3193,
+  "crop_bottom": 289.3193,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0134:l0001:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "109. Consider the given statements.",
+      "bbox": [
+        90.72,
+        3.7439999999999998,
+        267.69599999999997,
+        14.255999999999998
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "|. An immunity granted to a person from prosecution shall stand withdrawn if such person",
+      "bbox": [
+        124.84799999999998,
+        19.008,
+        551.232,
+        29.519999999999996
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "fails to pay any sum specified in the settlement order.",
+      "bbox": [
+        136.07999999999998,
+        32.256,
+        394.272,
+        42.623999999999995
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "Il. Settlement Commission cannot grant immunity from prosecution where the proceedings",
+      "bbox": [
+        121.82399999999998,
+        47.376,
+        551.664,
+        57.888
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "for the prosecution have been instituted before the date of receipt of the application",
+      "bbox": [
+        136.07999999999998,
+        60.623999999999995,
+        551.232,
+        70.848
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "under section 245C.",
+      "bbox": [
+        136.79999999999998,
+        73.728,
+        233.42399999999998,
+        82.08
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "Ill. An immunity from prosecution once granted by the Settlement Commission cannot be",
+      "bbox": [
+        118.8,
+        88.848,
+        551.5199999999999,
+        99.50399999999999
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "withdrawn on any ground.",
+      "bbox": [
+        136.224,
+        102.38399999999999,
+        260.928,
+        112.60799999999999
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "Choose the correct answer from the Code given below.",
+      "bbox": [
+        117.50399999999999,
+        118.94399999999999,
+        384.47999999999996,
+        129.456
+      ]
+    },
+    {
+      "line_id": "l0009",
+      "text": "(A) Only | is true.",
+      "bbox": [
+        116.064,
+        133.488,
+        199.87199999999999,
+        145.296
+      ]
+    },
+    {
+      "line_id": "l0010",
+      "text": "(B) | and Il are true but III is not true.",
+      "bbox": [
+        116.064,
+        149.32799999999997,
+        294.62399999999997,
+        159.69599999999997
+      ]
+    },
+    {
+      "line_id": "l0011",
+      "text": "(C) Il and Ill are true.",
+      "bbox": [
+        115.48799999999999,
+        164.44799999999998,
+        218.88,
+        174.95999999999998
+      ]
+    },
+    {
+      "line_id": "l0012",
+      "text": "(D) All are true.",
+      "bbox": [
+        115.48799999999999,
+        179.712,
+        191.23199999999997,
+        190.07999999999998
+      ]
+    }
+  ],
+  "text": "109. Consider the given statements.\n|. An immunity granted to a person from prosecution shall stand withdrawn if such person\nfails to pay any sum specified in the settlement order.\nIl. Settlement Commission cannot grant immunity from prosecution where the proceedings\nfor the prosecution have been instituted before the date of receipt of the application\nunder section 245C.\nIll. An immunity from prosecution once granted by the Settlement Commission cannot be\nwithdrawn on any ground.\nChoose the correct answer from the Code given below.\n(A) Only | is true.\n(B) | and Il are true but III is not true.\n(C) Il and Ill are true.\n(D) All are true.",
+  "ocr_words": [
+    {
+      "text": "109.",
+      "x0": 90.72,
+      "top": 4.032,
+      "x1": 110.01599999999999,
+      "bottom": 12.096,
+      "confidence": 96.434647,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Consider",
+      "x0": 117.50399999999999,
+      "top": 3.7439999999999998,
+      "x1": 160.992,
+      "bottom": 12.095999999999998,
+      "confidence": 96.161644,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 164.16,
+      "top": 3.888,
+      "x1": 178.992,
+      "bottom": 11.952,
+      "confidence": 96.161644,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "given",
+      "x0": 182.88,
+      "top": 3.888,
+      "x1": 207.93599999999998,
+      "bottom": 14.255999999999998,
+      "confidence": 96.021805,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "statements.",
+      "x0": 212.112,
+      "top": 4.4639999999999995,
+      "x1": 267.69599999999997,
+      "bottom": 11.951999999999998,
+      "confidence": 96.307976,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "|.",
+      "x0": 124.84799999999998,
+      "top": 19.151999999999997,
+      "x1": 129.02399999999997,
+      "bottom": 27.071999999999996,
+      "confidence": 87.474976,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "An",
+      "x0": 136.224,
+      "top": 19.151999999999997,
+      "x1": 148.75199999999998,
+      "bottom": 27.071999999999996,
+      "confidence": 89.453873,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "immunity",
+      "x0": 152.64,
+      "top": 19.151999999999997,
+      "x1": 195.69599999999997,
+      "bottom": 29.375999999999998,
+      "confidence": 89.453873,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "granted",
+      "x0": 198.86399999999998,
+      "top": 19.151999999999997,
+      "x1": 235.00799999999998,
+      "bottom": 29.519999999999996,
+      "confidence": 95.965561,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 238.32,
+      "top": 19.727999999999998,
+      "x1": 246.95999999999998,
+      "bottom": 27.215999999999998,
+      "confidence": 95.965561,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 250.128,
+      "top": 21.168,
+      "x1": 255.6,
+      "bottom": 27.215999999999998,
+      "confidence": 96.591446,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "person",
+      "x0": 259.056,
+      "top": 21.168,
+      "x1": 291.312,
+      "bottom": 29.375999999999998,
+      "confidence": 96.653664,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "from",
+      "x0": 294.62399999999997,
+      "top": 19.008,
+      "x1": 315.792,
+      "bottom": 27.216,
+      "confidence": 96.384392,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "prosecution",
+      "x0": 319.536,
+      "top": 19.151999999999997,
+      "x1": 375.12,
+      "bottom": 29.375999999999998,
+      "confidence": 95.629372,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "shall",
+      "x0": 378.57599999999996,
+      "top": 19.151999999999997,
+      "x1": 400.176,
+      "bottom": 27.215999999999998,
+      "confidence": 95.629372,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "stand",
+      "x0": 403.63199999999995,
+      "top": 19.151999999999997,
+      "x1": 429.55199999999996,
+      "bottom": 27.215999999999998,
+      "confidence": 96.62397,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "withdrawn",
+      "x0": 432.864,
+      "top": 19.151999999999997,
+      "x1": 481.53599999999994,
+      "bottom": 27.215999999999998,
+      "confidence": 96.158249,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "if",
+      "x0": 485.424,
+      "top": 19.008,
+      "x1": 490.032,
+      "bottom": 27.072,
+      "confidence": 96.365837,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "such",
+      "x0": 493.056,
+      "top": 19.151999999999997,
+      "x1": 515.232,
+      "bottom": 27.215999999999998,
+      "confidence": 96.576187,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "person",
+      "x0": 518.976,
+      "top": 21.168,
+      "x1": 551.232,
+      "bottom": 29.375999999999998,
+      "confidence": 96.48204,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "fails",
+      "x0": 136.07999999999998,
+      "top": 32.256,
+      "x1": 155.23199999999997,
+      "bottom": 40.32,
+      "confidence": 96.703354,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "to",
+      "x0": 158.832,
+      "top": 32.832,
+      "x1": 167.47199999999998,
+      "bottom": 40.32,
+      "confidence": 96.839821,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "pay",
+      "x0": 171.504,
+      "top": 34.272,
+      "x1": 188.35199999999998,
+      "bottom": 42.623999999999995,
+      "confidence": 96.887993,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "any",
+      "x0": 192.09599999999998,
+      "top": 34.272,
+      "x1": 209.23199999999997,
+      "bottom": 42.623999999999995,
+      "confidence": 96.332321,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "sum",
+      "x0": 212.832,
+      "top": 34.272,
+      "x1": 232.56,
+      "bottom": 40.32,
+      "confidence": 96.332321,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "specified",
+      "x0": 236.59199999999998,
+      "top": 32.256,
+      "x1": 279.072,
+      "bottom": 42.48,
+      "confidence": 96.593201,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "in",
+      "x0": 283.392,
+      "top": 32.4,
+      "x1": 290.592,
+      "bottom": 40.176,
+      "confidence": 95.22065,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 294.47999999999996,
+      "top": 32.4,
+      "x1": 309.16799999999995,
+      "bottom": 40.32,
+      "confidence": 96.893333,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "settlement",
+      "x0": 313.056,
+      "top": 32.4,
+      "x1": 363.168,
+      "bottom": 40.32,
+      "confidence": 95.391693,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "order.",
+      "x0": 366.912,
+      "top": 32.4,
+      "x1": 394.272,
+      "bottom": 40.32,
+      "confidence": 96.50502,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Il.",
+      "x0": 121.82399999999998,
+      "top": 47.519999999999996,
+      "x1": 129.02399999999997,
+      "bottom": 55.44,
+      "confidence": 76.779099,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Settlement",
+      "x0": 136.512,
+      "top": 47.376,
+      "x1": 187.92,
+      "bottom": 55.583999999999996,
+      "confidence": 92.679779,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Commission",
+      "x0": 190.79999999999998,
+      "top": 47.376,
+      "x1": 249.69599999999997,
+      "bottom": 55.583999999999996,
+      "confidence": 96.052361,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "cannot",
+      "x0": 253.00799999999998,
+      "top": 48.096,
+      "x1": 285.264,
+      "bottom": 55.583999999999996,
+      "confidence": 96.478271,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "grant",
+      "x0": 288.144,
+      "top": 48.096,
+      "x1": 312.336,
+      "bottom": 57.888,
+      "confidence": 95.522415,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "immunity",
+      "x0": 315.50399999999996,
+      "top": 47.519999999999996,
+      "x1": 358.27199999999993,
+      "bottom": 57.74399999999999,
+      "confidence": 94.603363,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "from",
+      "x0": 360.71999999999997,
+      "top": 47.376,
+      "x1": 381.74399999999997,
+      "bottom": 55.583999999999996,
+      "confidence": 96.404228,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "prosecution",
+      "x0": 385.344,
+      "top": 47.519999999999996,
+      "x1": 440.352,
+      "bottom": 57.74399999999999,
+      "confidence": 96.064781,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "where",
+      "x0": 443.376,
+      "top": 47.519999999999996,
+      "x1": 472.60799999999995,
+      "bottom": 55.583999999999996,
+      "confidence": 96.805733,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 475.34399999999994,
+      "top": 47.519999999999996,
+      "x1": 490.0319999999999,
+      "bottom": 55.583999999999996,
+      "confidence": 96.404579,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "proceedings",
+      "x0": 493.34399999999994,
+      "top": 47.519999999999996,
+      "x1": 551.664,
+      "bottom": 57.88799999999999,
+      "confidence": 96.163528,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "for",
+      "x0": 136.07999999999998,
+      "top": 60.623999999999995,
+      "x1": 148.896,
+      "bottom": 68.832,
+      "confidence": 96.423019,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 152.928,
+      "top": 60.767999999999994,
+      "x1": 167.61599999999999,
+      "bottom": 68.832,
+      "confidence": 96.481712,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "prosecution",
+      "x0": 172.65599999999998,
+      "top": 60.767999999999994,
+      "x1": 228.23999999999998,
+      "bottom": 70.848,
+      "confidence": 96.282959,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "have",
+      "x0": 233.56799999999998,
+      "top": 60.767999999999994,
+      "x1": 256.32,
+      "bottom": 68.832,
+      "confidence": 96.809937,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "been",
+      "x0": 261.35999999999996,
+      "top": 60.767999999999994,
+      "x1": 284.4,
+      "bottom": 68.832,
+      "confidence": 96.363327,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "instituted",
+      "x0": 289.87199999999996,
+      "top": 60.767999999999994,
+      "x1": 332.496,
+      "bottom": 68.832,
+      "confidence": 95.802322,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "before",
+      "x0": 337.82399999999996,
+      "top": 60.623999999999995,
+      "x1": 367.91999999999996,
+      "bottom": 68.832,
+      "confidence": 96.932251,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 372.38399999999996,
+      "top": 60.767999999999994,
+      "x1": 387.07199999999995,
+      "bottom": 68.832,
+      "confidence": 96.474869,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "date",
+      "x0": 391.96799999999996,
+      "top": 60.767999999999994,
+      "x1": 412.55999999999995,
+      "bottom": 68.832,
+      "confidence": 96.634392,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 417.31199999999995,
+      "top": 60.623999999999995,
+      "x1": 425.95199999999994,
+      "bottom": 68.832,
+      "confidence": 96.756485,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "receipt",
+      "x0": 430.84799999999996,
+      "top": 60.767999999999994,
+      "x1": 462.816,
+      "bottom": 70.848,
+      "confidence": 96.147453,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 467.424,
+      "top": 60.623999999999995,
+      "x1": 476.06399999999996,
+      "bottom": 68.832,
+      "confidence": 96.941277,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 480.23999999999995,
+      "top": 60.767999999999994,
+      "x1": 494.92799999999994,
+      "bottom": 68.832,
+      "confidence": 96.608505,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "application",
+      "x0": 499.82399999999996,
+      "top": 60.767999999999994,
+      "x1": 551.232,
+      "bottom": 70.848,
+      "confidence": 96.591461,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "under",
+      "x0": 136.79999999999998,
+      "top": 73.872,
+      "x1": 164.15999999999997,
+      "bottom": 81.936,
+      "confidence": 96.208786,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "section",
+      "x0": 167.61599999999999,
+      "top": 73.872,
+      "x1": 201.31199999999998,
+      "bottom": 81.936,
+      "confidence": 91.444275,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "245C.",
+      "x0": 205.344,
+      "top": 73.728,
+      "x1": 233.42399999999998,
+      "bottom": 82.08,
+      "confidence": 90.981468,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Ill.",
+      "x0": 118.8,
+      "top": 89.136,
+      "x1": 129.024,
+      "bottom": 97.056,
+      "confidence": 62.319656,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "An",
+      "x0": 136.224,
+      "top": 89.136,
+      "x1": 148.75199999999998,
+      "bottom": 97.056,
+      "confidence": 95.294922,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "immunity",
+      "x0": 153.21599999999998,
+      "top": 89.136,
+      "x1": 196.272,
+      "bottom": 99.36,
+      "confidence": 95.294922,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "from",
+      "x0": 199.58399999999997,
+      "top": 88.99199999999999,
+      "x1": 220.75199999999998,
+      "bottom": 97.19999999999999,
+      "confidence": 96.244408,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "prosecution",
+      "x0": 225.21599999999998,
+      "top": 89.136,
+      "x1": 280.65599999999995,
+      "bottom": 99.36,
+      "confidence": 95.934349,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "once",
+      "x0": 284.832,
+      "top": 91.15199999999999,
+      "x1": 307.872,
+      "bottom": 97.19999999999999,
+      "confidence": 95.617401,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "granted",
+      "x0": 311.76,
+      "top": 89.136,
+      "x1": 347.904,
+      "bottom": 99.50399999999999,
+      "confidence": 96.231956,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "by",
+      "x0": 352.224,
+      "top": 89.136,
+      "x1": 363.024,
+      "bottom": 99.36,
+      "confidence": 96.654121,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 366.47999999999996,
+      "top": 89.136,
+      "x1": 381.16799999999995,
+      "bottom": 97.19999999999999,
+      "confidence": 96.44297,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Settlement",
+      "x0": 385.056,
+      "top": 88.848,
+      "x1": 436.89599999999996,
+      "bottom": 97.2,
+      "confidence": 96.469856,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Commission",
+      "x0": 440.64,
+      "top": 88.848,
+      "x1": 499.96799999999996,
+      "bottom": 97.2,
+      "confidence": 96.617722,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "cannot",
+      "x0": 503.99999999999994,
+      "top": 89.71199999999999,
+      "x1": 536.544,
+      "bottom": 97.19999999999999,
+      "confidence": 96.482597,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "be",
+      "x0": 540.4319999999999,
+      "top": 89.136,
+      "x1": 551.5199999999999,
+      "bottom": 97.19999999999999,
+      "confidence": 96.875488,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "withdrawn",
+      "x0": 136.224,
+      "top": 102.38399999999999,
+      "x1": 184.75199999999998,
+      "bottom": 110.44799999999998,
+      "confidence": 96.349243,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "on",
+      "x0": 188.928,
+      "top": 104.25599999999999,
+      "x1": 200.16,
+      "bottom": 110.44799999999998,
+      "confidence": 95.390106,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "any",
+      "x0": 204.19199999999998,
+      "top": 104.25599999999999,
+      "x1": 221.47199999999998,
+      "bottom": 112.60799999999999,
+      "confidence": 96.236481,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "ground.",
+      "x0": 225.07199999999997,
+      "top": 102.38399999999999,
+      "x1": 260.928,
+      "bottom": 112.60799999999999,
+      "confidence": 96.513016,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Choose",
+      "x0": 117.50399999999999,
+      "top": 118.94399999999999,
+      "x1": 154.512,
+      "bottom": 127.29599999999999,
+      "confidence": 96.614487,
+      "ocr_block": "4",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 158.112,
+      "top": 119.088,
+      "x1": 172.79999999999998,
+      "bottom": 127.15199999999999,
+      "confidence": 95.925934,
+      "ocr_block": "4",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "correct",
+      "x0": 176.688,
+      "top": 119.66399999999999,
+      "x1": 209.664,
+      "bottom": 127.15199999999999,
+      "confidence": 95.925934,
+      "ocr_block": "4",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "answer",
+      "x0": 213.408,
+      "top": 121.10399999999998,
+      "x1": 248.39999999999998,
+      "bottom": 127.15199999999999,
+      "confidence": 96.497589,
+      "ocr_block": "4",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "from",
+      "x0": 251.712,
+      "top": 119.088,
+      "x1": 272.736,
+      "bottom": 127.15199999999999,
+      "confidence": 96.71254,
+      "ocr_block": "4",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 276.768,
+      "top": 119.088,
+      "x1": 291.45599999999996,
+      "bottom": 127.15199999999999,
+      "confidence": 96.403687,
+      "ocr_block": "4",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Code",
+      "x0": 295.344,
+      "top": 118.94399999999999,
+      "x1": 320.688,
+      "bottom": 127.29599999999999,
+      "confidence": 95.709419,
+      "ocr_block": "4",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "given",
+      "x0": 324.71999999999997,
+      "top": 119.088,
+      "x1": 349.77599999999995,
+      "bottom": 129.456,
+      "confidence": 96.166512,
+      "ocr_block": "4",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "below.",
+      "x0": 354.23999999999995,
+      "top": 119.088,
+      "x1": 384.47999999999996,
+      "bottom": 127.15199999999999,
+      "confidence": 96.466682,
+      "ocr_block": "4",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 116.064,
+      "top": 134.208,
+      "x1": 129.31199999999998,
+      "bottom": 144.576,
+      "confidence": 96.251572,
+      "ocr_block": "4",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Only",
+      "x0": 136.368,
+      "top": 134.064,
+      "x1": 158.4,
+      "bottom": 144.576,
+      "confidence": 95.570435,
+      "ocr_block": "4",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "|",
+      "x0": 158.688,
+      "top": 133.488,
+      "x1": 162.72,
+      "bottom": 145.296,
+      "confidence": 89.113937,
+      "ocr_block": "4",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 168.48,
+      "top": 134.352,
+      "x1": 175.392,
+      "bottom": 142.416,
+      "confidence": 89.113937,
+      "ocr_block": "4",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "true.",
+      "x0": 178.992,
+      "top": 134.928,
+      "x1": 199.87199999999999,
+      "bottom": 142.416,
+      "confidence": 95.563812,
+      "ocr_block": "4",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(B)",
+      "x0": 116.064,
+      "top": 149.32799999999997,
+      "x1": 129.31199999999998,
+      "bottom": 159.69599999999997,
+      "confidence": 93.243629,
+      "ocr_block": "4",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "|",
+      "x0": 136.944,
+      "top": 149.47199999999998,
+      "x1": 138.09599999999998,
+      "bottom": 157.39199999999997,
+      "confidence": 88.499535,
+      "ocr_block": "4",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 142.56,
+      "top": 149.47199999999998,
+      "x1": 159.84,
+      "bottom": 157.53599999999997,
+      "confidence": 94.346619,
+      "ocr_block": "4",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Il",
+      "x0": 164.44799999999998,
+      "top": 149.47199999999998,
+      "x1": 168.62399999999997,
+      "bottom": 157.39199999999997,
+      "confidence": 67.315445,
+      "ocr_block": "4",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "are",
+      "x0": 173.088,
+      "top": 151.488,
+      "x1": 188.208,
+      "bottom": 157.536,
+      "confidence": 96.366653,
+      "ocr_block": "4",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "true",
+      "x0": 191.808,
+      "top": 150.048,
+      "x1": 210.096,
+      "bottom": 157.536,
+      "confidence": 96.171143,
+      "ocr_block": "4",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "but",
+      "x0": 214.272,
+      "top": 149.47199999999998,
+      "x1": 228.672,
+      "bottom": 157.53599999999997,
+      "confidence": 95.268669,
+      "ocr_block": "4",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "III",
+      "x0": 232.992,
+      "top": 149.47199999999998,
+      "x1": 240.19199999999998,
+      "bottom": 157.39199999999997,
+      "confidence": 53.745544,
+      "ocr_block": "4",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 244.944,
+      "top": 149.47199999999998,
+      "x1": 251.856,
+      "bottom": 157.53599999999997,
+      "confidence": 95.290756,
+      "ocr_block": "4",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "not",
+      "x0": 255.88799999999998,
+      "top": 150.048,
+      "x1": 270.28799999999995,
+      "bottom": 157.536,
+      "confidence": 96.350296,
+      "ocr_block": "4",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "true.",
+      "x0": 273.74399999999997,
+      "top": 150.048,
+      "x1": 294.62399999999997,
+      "bottom": 157.536,
+      "confidence": 96.21302,
+      "ocr_block": "4",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(C)",
+      "x0": 115.48799999999999,
+      "top": 164.44799999999998,
+      "x1": 129.31199999999998,
+      "bottom": 174.95999999999998,
+      "confidence": 92.955002,
+      "ocr_block": "4",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Il",
+      "x0": 136.944,
+      "top": 164.736,
+      "x1": 141.11999999999998,
+      "bottom": 172.65599999999998,
+      "confidence": 76.3116,
+      "ocr_block": "4",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 145.584,
+      "top": 164.736,
+      "x1": 162.864,
+      "bottom": 172.79999999999998,
+      "confidence": 86.366058,
+      "ocr_block": "4",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ill",
+      "x0": 167.61599999999999,
+      "top": 164.736,
+      "x1": 174.81599999999997,
+      "bottom": 172.65599999999998,
+      "confidence": 68.723518,
+      "ocr_block": "4",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "are",
+      "x0": 179.136,
+      "top": 166.75199999999998,
+      "x1": 194.256,
+      "bottom": 172.79999999999998,
+      "confidence": 96.2789,
+      "ocr_block": "4",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "true.",
+      "x0": 197.856,
+      "top": 165.31199999999998,
+      "x1": 218.88,
+      "bottom": 172.79999999999998,
+      "confidence": 96.534599,
+      "ocr_block": "4",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(D)",
+      "x0": 115.48799999999999,
+      "top": 179.712,
+      "x1": 129.31199999999998,
+      "bottom": 190.07999999999998,
+      "confidence": 93.133064,
+      "ocr_block": "4",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "All",
+      "x0": 136.224,
+      "top": 180.0,
+      "x1": 147.456,
+      "bottom": 187.776,
+      "confidence": 94.318436,
+      "ocr_block": "4",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "are",
+      "x0": 151.63199999999998,
+      "top": 181.87199999999999,
+      "x1": 166.75199999999998,
+      "bottom": 187.92,
+      "confidence": 94.318436,
+      "ocr_block": "4",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "true.",
+      "x0": 170.35199999999998,
+      "top": 180.432,
+      "x1": 191.23199999999997,
+      "bottom": 187.92,
+      "confidence": 96.244301,
+      "ocr_block": "4",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

@@ -1,0 +1,360 @@
+{
+  "pdf_page": 382,
+  "crop_top": 516.1613600000001,
+  "crop_bottom": 617.28136,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0382:l0032:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.8 Which of the following is said to be \"Nine Points in Law\"?",
+      "bbox": [
+        43.739999999999995,
+        4.32,
+        240.65999999999997,
+        10.98
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "ans x",
+      "bbox": [
+        43.379999999999995,
+        16.02,
+        86.75999999999999,
+        28.619999999999997
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "1. Ownership",
+      "bbox": [
+        88.56,
+        26.099999999999998,
+        128.16,
+        32.58
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        37.44,
+        93.06,
+        52.559999999999995
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "Right",
+      "bbox": [
+        95.94,
+        47.519999999999996,
+        110.88,
+        53.99999999999999
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "Vv,",
+      "bbox": [
+        73.08,
+        57.239999999999995,
+        93.06,
+        76.32
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "Possession",
+      "bbox": [
+        95.94,
+        68.22,
+        127.62,
+        76.32
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        80.1,
+        93.06,
+        95.22
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "Might",
+      "bbox": [
+        95.94,
+        89.46,
+        113.22,
+        97.55999999999999
+      ]
+    }
+  ],
+  "text": "Q.8 Which of the following is said to be \"Nine Points in Law\"?\nans x\n1. Ownership\nx,\nRight\nVv,\nPossession\nx,\nMight",
+  "ocr_words": [
+    {
+      "text": "Q.8",
+      "x0": 43.739999999999995,
+      "top": 4.68,
+      "x1": 54.17999999999999,
+      "bottom": 10.44,
+      "confidence": 91.179153,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Which",
+      "x0": 62.64,
+      "top": 4.5,
+      "x1": 81.72,
+      "bottom": 9.719999999999999,
+      "confidence": 95.442139,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 84.06,
+      "top": 4.32,
+      "x1": 90.36,
+      "bottom": 9.719999999999999,
+      "confidence": 95.442139,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 91.97999999999999,
+      "top": 4.5,
+      "x1": 102.05999999999999,
+      "bottom": 9.719999999999999,
+      "confidence": 96.724953,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 104.22,
+      "top": 4.32,
+      "x1": 133.01999999999998,
+      "bottom": 10.98,
+      "confidence": 95.95047,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 135.18,
+      "top": 4.68,
+      "x1": 139.5,
+      "bottom": 9.719999999999999,
+      "confidence": 96.922951,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "said",
+      "x0": 141.66,
+      "top": 4.5,
+      "x1": 153.54,
+      "bottom": 9.719999999999999,
+      "confidence": 96.046364,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 155.7,
+      "top": 5.04,
+      "x1": 162.0,
+      "bottom": 9.719999999999999,
+      "confidence": 96.439339,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "be",
+      "x0": 164.34,
+      "top": 4.5,
+      "x1": 171.54,
+      "bottom": 9.719999999999999,
+      "confidence": 96.439339,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "\"Nine",
+      "x0": 173.88,
+      "top": 4.32,
+      "x1": 190.98,
+      "bottom": 9.719999999999999,
+      "confidence": 96.283287,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Points",
+      "x0": 193.5,
+      "top": 4.68,
+      "x1": 212.22,
+      "bottom": 9.719999999999999,
+      "confidence": 96.522491,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 214.56,
+      "top": 4.68,
+      "x1": 219.6,
+      "bottom": 9.54,
+      "confidence": 96.522491,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Law\"?",
+      "x0": 222.29999999999998,
+      "top": 4.32,
+      "x1": 240.65999999999997,
+      "bottom": 9.719999999999999,
+      "confidence": 96.421379,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "ans",
+      "x0": 43.379999999999995,
+      "top": 17.82,
+      "x1": 54.53999999999999,
+      "bottom": 22.68,
+      "confidence": 73.330658,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "x",
+      "x0": 73.08,
+      "top": 16.02,
+      "x1": 86.75999999999999,
+      "bottom": 28.619999999999997,
+      "confidence": 83.559105,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1.",
+      "x0": 88.56,
+      "top": 26.459999999999997,
+      "x1": 93.06,
+      "bottom": 31.139999999999997,
+      "confidence": 96.635262,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ownership",
+      "x0": 95.58,
+      "top": 26.099999999999998,
+      "x1": 128.16,
+      "bottom": 32.58,
+      "confidence": 95.821533,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 37.44,
+      "x1": 93.06,
+      "bottom": 52.559999999999995,
+      "confidence": 61.030811,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Right",
+      "x0": 95.94,
+      "top": 47.519999999999996,
+      "x1": 110.88,
+      "bottom": 53.99999999999999,
+      "confidence": 96.399292,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Vv,",
+      "x0": 73.08,
+      "top": 57.239999999999995,
+      "x1": 93.06,
+      "bottom": 76.32,
+      "confidence": 17.873878,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Possession",
+      "x0": 95.94,
+      "top": 68.22,
+      "x1": 127.62,
+      "bottom": 76.32,
+      "confidence": 96.866043,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 80.1,
+      "x1": 93.06,
+      "bottom": 95.22,
+      "confidence": 43.534241,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Might",
+      "x0": 95.94,
+      "top": 89.46,
+      "x1": 113.22,
+      "bottom": 97.55999999999999,
+      "confidence": 96.598129,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

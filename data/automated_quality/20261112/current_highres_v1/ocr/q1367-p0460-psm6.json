@@ -1,0 +1,519 @@
+{
+  "pdf_page": 460,
+  "crop_top": 56.960000000000036,
+  "crop_bottom": 122.94000000000005,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0459:l0026:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "C. The company is not liable because the driver had disobeyed the company's",
+      "bbox": [
+        144.576,
+        4.896,
+        535.3919999999999,
+        15.264
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "instructions and thereby acted outside the course of employment.",
+      "bbox": [
+        171.79199999999997,
+        20.304,
+        493.63199999999995,
+        30.528
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "D. The company is not liable because the driver had not acted for the benefit",
+      "bbox": [
+        145.00799999999998,
+        35.568,
+        531.6479999999999,
+        45.93599999999999
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "of the employer, the company.",
+      "bbox": [
+        171.504,
+        50.831999999999994,
+        323.856,
+        61.2
+      ]
+    }
+  ],
+  "text": "C. The company is not liable because the driver had disobeyed the company's\ninstructions and thereby acted outside the course of employment.\nD. The company is not liable because the driver had not acted for the benefit\nof the employer, the company.",
+  "ocr_words": [
+    {
+      "text": "C.",
+      "x0": 144.576,
+      "top": 5.4719999999999995,
+      "x1": 152.49599999999998,
+      "bottom": 13.104,
+      "confidence": 92.065094,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 171.07199999999997,
+      "top": 4.896,
+      "x1": 188.64,
+      "bottom": 13.247999999999998,
+      "confidence": 70.89238,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "company",
+      "x0": 192.528,
+      "top": 7.343999999999999,
+      "x1": 236.59199999999998,
+      "bottom": 15.264,
+      "confidence": 70.89238,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 240.04799999999997,
+      "top": 5.327999999999999,
+      "x1": 246.23999999999998,
+      "bottom": 13.247999999999998,
+      "confidence": 95.927414,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "not",
+      "x0": 250.41599999999997,
+      "top": 6.047999999999999,
+      "x1": 265.82399999999996,
+      "bottom": 13.247999999999998,
+      "confidence": 96.447495,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "liable",
+      "x0": 269.712,
+      "top": 4.896,
+      "x1": 294.47999999999996,
+      "bottom": 13.247999999999998,
+      "confidence": 95.995079,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "because",
+      "x0": 298.79999999999995,
+      "top": 4.896,
+      "x1": 337.24799999999993,
+      "bottom": 13.247999999999998,
+      "confidence": 96.654861,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 340.70399999999995,
+      "top": 4.896,
+      "x1": 356.4,
+      "bottom": 13.247999999999998,
+      "confidence": 96.451576,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "driver",
+      "x0": 360.14399999999995,
+      "top": 4.896,
+      "x1": 388.0799999999999,
+      "bottom": 13.247999999999998,
+      "confidence": 96.229645,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "had",
+      "x0": 391.96799999999996,
+      "top": 4.896,
+      "x1": 408.52799999999996,
+      "bottom": 13.247999999999998,
+      "confidence": 96.32019,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "disobeyed",
+      "x0": 412.70399999999995,
+      "top": 4.896,
+      "x1": 461.23199999999997,
+      "bottom": 15.264,
+      "confidence": 95.651291,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 464.97599999999994,
+      "top": 4.896,
+      "x1": 480.52799999999996,
+      "bottom": 13.247999999999998,
+      "confidence": 96.692841,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "company's",
+      "x0": 484.41599999999994,
+      "top": 4.896,
+      "x1": 535.3919999999999,
+      "bottom": 15.264,
+      "confidence": 94.606445,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "instructions",
+      "x0": 171.79199999999997,
+      "top": 20.592,
+      "x1": 228.09599999999998,
+      "bottom": 28.511999999999997,
+      "confidence": 95.548599,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "and",
+      "x0": 231.69599999999997,
+      "top": 20.304,
+      "x1": 248.54399999999998,
+      "bottom": 28.512,
+      "confidence": 96.420235,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "thereby",
+      "x0": 252.432,
+      "top": 20.304,
+      "x1": 290.304,
+      "bottom": 30.528,
+      "confidence": 96.654259,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "acted",
+      "x0": 293.616,
+      "top": 20.304,
+      "x1": 319.392,
+      "bottom": 28.512,
+      "confidence": 96.661552,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "outside",
+      "x0": 323.424,
+      "top": 20.304,
+      "x1": 358.70399999999995,
+      "bottom": 28.512,
+      "confidence": 96.56366,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 362.15999999999997,
+      "top": 20.304,
+      "x1": 377.712,
+      "bottom": 28.512,
+      "confidence": 96.677177,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "course",
+      "x0": 381.59999999999997,
+      "top": 22.752,
+      "x1": 412.99199999999996,
+      "bottom": 28.512,
+      "confidence": 96.480812,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 416.736,
+      "top": 20.304,
+      "x1": 426.384,
+      "bottom": 28.512,
+      "confidence": 95.337761,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "employment.",
+      "x0": 429.69599999999997,
+      "top": 20.304,
+      "x1": 493.63199999999995,
+      "bottom": 30.528,
+      "confidence": 95.337761,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "D.",
+      "x0": 145.00799999999998,
+      "top": 36.288,
+      "x1": 153.64799999999997,
+      "bottom": 43.919999999999995,
+      "confidence": 89.612823,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 171.07199999999997,
+      "top": 35.711999999999996,
+      "x1": 188.64,
+      "bottom": 43.919999999999995,
+      "confidence": 59.492992,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "company",
+      "x0": 192.528,
+      "top": 38.16,
+      "x1": 236.59199999999998,
+      "bottom": 45.93599999999999,
+      "confidence": 59.492992,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 240.04799999999997,
+      "top": 36.0,
+      "x1": 246.23999999999998,
+      "bottom": 43.92,
+      "confidence": 96.205872,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "not",
+      "x0": 250.41599999999997,
+      "top": 36.864,
+      "x1": 265.82399999999996,
+      "bottom": 43.919999999999995,
+      "confidence": 94.357254,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "liable",
+      "x0": 269.712,
+      "top": 35.711999999999996,
+      "x1": 294.47999999999996,
+      "bottom": 43.919999999999995,
+      "confidence": 94.357254,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "because",
+      "x0": 298.79999999999995,
+      "top": 35.711999999999996,
+      "x1": 337.24799999999993,
+      "bottom": 43.919999999999995,
+      "confidence": 96.276634,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 340.70399999999995,
+      "top": 35.711999999999996,
+      "x1": 356.4,
+      "bottom": 43.919999999999995,
+      "confidence": 95.923973,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "driver",
+      "x0": 360.14399999999995,
+      "top": 35.711999999999996,
+      "x1": 388.0799999999999,
+      "bottom": 43.919999999999995,
+      "confidence": 95.923973,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "had",
+      "x0": 391.96799999999996,
+      "top": 35.711999999999996,
+      "x1": 408.52799999999996,
+      "bottom": 43.919999999999995,
+      "confidence": 96.631584,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "not",
+      "x0": 412.99199999999996,
+      "top": 36.864,
+      "x1": 428.256,
+      "bottom": 43.919999999999995,
+      "confidence": 96.781509,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "acted",
+      "x0": 431.99999999999994,
+      "top": 35.711999999999996,
+      "x1": 457.63199999999995,
+      "bottom": 43.919999999999995,
+      "confidence": 96.141998,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "for",
+      "x0": 461.52,
+      "top": 35.568,
+      "x1": 475.344,
+      "bottom": 43.919999999999995,
+      "confidence": 96.432899,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 478.36799999999994,
+      "top": 35.711999999999996,
+      "x1": 493.77599999999995,
+      "bottom": 43.919999999999995,
+      "confidence": 96.432899,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "benefit",
+      "x0": 497.95199999999994,
+      "top": 35.568,
+      "x1": 531.6479999999999,
+      "bottom": 43.919999999999995,
+      "confidence": 96.52005,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 171.504,
+      "top": 50.831999999999994,
+      "x1": 181.152,
+      "bottom": 59.18399999999999,
+      "confidence": 94.228989,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 183.88799999999998,
+      "top": 50.831999999999994,
+      "x1": 199.58399999999997,
+      "bottom": 59.18399999999999,
+      "confidence": 96.692558,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "employer,",
+      "x0": 203.32799999999997,
+      "top": 50.831999999999994,
+      "x1": 251.42399999999998,
+      "bottom": 61.19999999999999,
+      "confidence": 96.851425,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 257.904,
+      "top": 50.831999999999994,
+      "x1": 273.456,
+      "bottom": 59.18399999999999,
+      "confidence": 96.523666,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "company.",
+      "x0": 277.344,
+      "top": 53.424,
+      "x1": 323.856,
+      "bottom": 61.2,
+      "confidence": 96.175491,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

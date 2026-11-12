@@ -1,0 +1,623 @@
+{
+  "pdf_page": 380,
+  "crop_top": 379.36136,
+  "crop_bottom": 480.24136,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0380:l0023:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.46 President can appoint distinguished jurist as a Judge:",
+      "bbox": [
+        41.94,
+        4.5,
+        226.44,
+        10.98
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Ans x",
+      "bbox": [
+        43.379999999999995,
+        15.84,
+        86.75999999999999,
+        28.439999999999998
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "1. of the High Court only",
+      "bbox": [
+        88.56,
+        25.919999999999998,
+        162.17999999999998,
+        32.4
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "x",
+      "bbox": [
+        73.08,
+        37.26,
+        86.75999999999999,
+        49.68
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "2. of the High Court as well as Supreme Court",
+      "bbox": [
+        88.38,
+        47.16,
+        225.89999999999998,
+        53.63999999999999
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "x",
+      "bbox": [
+        73.08,
+        58.5,
+        86.75999999999999,
+        71.1
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "3. neither of the High Court nor of the Supreme Court",
+      "bbox": [
+        88.2,
+        67.86,
+        251.28,
+        75.78
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "v",
+      "bbox": [
+        73.8,
+        79.02,
+        87.66,
+        92.52
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "4. of the Supreme Court only",
+      "bbox": [
+        88.02,
+        90.0,
+        175.85999999999999,
+        96.48
+      ]
+    }
+  ],
+  "text": "Q.46 President can appoint distinguished jurist as a Judge:\nAns x\n1. of the High Court only\nx\n2. of the High Court as well as Supreme Court\nx\n3. neither of the High Court nor of the Supreme Court\nv\n4. of the Supreme Court only",
+  "ocr_words": [
+    {
+      "text": "Q.46",
+      "x0": 41.94,
+      "top": 4.68,
+      "x1": 56.16,
+      "bottom": 10.44,
+      "confidence": 92.683029,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "President",
+      "x0": 62.82,
+      "top": 4.5,
+      "x1": 91.8,
+      "bottom": 9.719999999999999,
+      "confidence": 94.872086,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "can",
+      "x0": 93.96,
+      "top": 5.9399999999999995,
+      "x1": 104.22,
+      "bottom": 9.719999999999999,
+      "confidence": 96.189774,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "appoint",
+      "x0": 106.56,
+      "top": 4.68,
+      "x1": 130.32,
+      "bottom": 10.98,
+      "confidence": 96.189774,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "distinguished",
+      "x0": 132.48,
+      "top": 4.5,
+      "x1": 173.33999999999997,
+      "bottom": 10.98,
+      "confidence": 96.367455,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "jurist",
+      "x0": 175.32,
+      "top": 4.68,
+      "x1": 191.34,
+      "bottom": 10.98,
+      "confidence": 96.773613,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "as",
+      "x0": 193.5,
+      "top": 5.9399999999999995,
+      "x1": 199.62,
+      "bottom": 9.719999999999999,
+      "confidence": 96.94558,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 201.78,
+      "top": 5.9399999999999995,
+      "x1": 204.84,
+      "bottom": 9.719999999999999,
+      "confidence": 96.683662,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Judge:",
+      "x0": 207.0,
+      "top": 4.5,
+      "x1": 226.44,
+      "bottom": 10.98,
+      "confidence": 96.921707,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.379999999999995,
+      "top": 17.64,
+      "x1": 54.53999999999999,
+      "bottom": 22.5,
+      "confidence": 96.882599,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "x",
+      "x0": 73.08,
+      "top": 15.84,
+      "x1": 86.75999999999999,
+      "bottom": 28.439999999999998,
+      "confidence": 83.559105,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 88.56,
+      "top": 26.279999999999998,
+      "x1": 93.06,
+      "bottom": 30.959999999999997,
+      "confidence": 96.736923,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 95.58,
+      "top": 25.919999999999998,
+      "x1": 101.52,
+      "bottom": 31.139999999999997,
+      "confidence": 97.009483,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 103.32,
+      "top": 25.919999999999998,
+      "x1": 113.03999999999999,
+      "bottom": 31.139999999999997,
+      "confidence": 96.148163,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "High",
+      "x0": 115.74,
+      "top": 25.919999999999998,
+      "x1": 128.51999999999998,
+      "bottom": 32.4,
+      "confidence": 96.662285,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Court",
+      "x0": 131.04,
+      "top": 26.099999999999998,
+      "x1": 147.42,
+      "bottom": 31.139999999999997,
+      "confidence": 96.795837,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "only",
+      "x0": 149.76,
+      "top": 25.919999999999998,
+      "x1": 162.17999999999998,
+      "bottom": 32.4,
+      "confidence": 95.808113,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "x",
+      "x0": 73.08,
+      "top": 37.26,
+      "x1": 86.75999999999999,
+      "bottom": 49.68,
+      "confidence": 84.487442,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "x",
+      "x0": 73.08,
+      "top": 58.5,
+      "x1": 86.75999999999999,
+      "bottom": 71.1,
+      "confidence": 81.577194,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "v",
+      "x0": 73.8,
+      "top": 79.02,
+      "x1": 87.66,
+      "bottom": 92.52,
+      "confidence": 66.421371,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "2.",
+      "x0": 88.38,
+      "top": 47.339999999999996,
+      "x1": 93.06,
+      "bottom": 52.199999999999996,
+      "confidence": 96.834892,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 95.58,
+      "top": 47.16,
+      "x1": 101.52,
+      "bottom": 52.379999999999995,
+      "confidence": 96.927544,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 103.32,
+      "top": 47.16,
+      "x1": 113.03999999999999,
+      "bottom": 52.379999999999995,
+      "confidence": 96.523056,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "High",
+      "x0": 115.74,
+      "top": 47.16,
+      "x1": 128.51999999999998,
+      "bottom": 53.63999999999999,
+      "confidence": 96.743973,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Court",
+      "x0": 131.04,
+      "top": 47.339999999999996,
+      "x1": 147.42,
+      "bottom": 52.379999999999995,
+      "confidence": 96.743973,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "as",
+      "x0": 149.76,
+      "top": 48.6,
+      "x1": 155.7,
+      "bottom": 52.38,
+      "confidence": 95.890511,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "well",
+      "x0": 157.85999999999999,
+      "top": 47.16,
+      "x1": 169.55999999999997,
+      "bottom": 52.379999999999995,
+      "confidence": 96.502129,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "as",
+      "x0": 172.07999999999998,
+      "top": 48.6,
+      "x1": 178.01999999999998,
+      "bottom": 52.38,
+      "confidence": 96.29837,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Supreme",
+      "x0": 180.35999999999999,
+      "top": 47.339999999999996,
+      "x1": 207.0,
+      "bottom": 53.63999999999999,
+      "confidence": 96.350853,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Court",
+      "x0": 209.51999999999998,
+      "top": 47.339999999999996,
+      "x1": 225.89999999999998,
+      "bottom": 52.379999999999995,
+      "confidence": 96.640297,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "3.",
+      "x0": 88.2,
+      "top": 68.75999999999999,
+      "x1": 93.06,
+      "bottom": 73.8,
+      "confidence": 96.684578,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "neither",
+      "x0": 95.75999999999999,
+      "top": 68.58,
+      "x1": 117.35999999999999,
+      "bottom": 73.8,
+      "confidence": 96.244553,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 119.52,
+      "top": 68.58,
+      "x1": 125.46,
+      "bottom": 73.8,
+      "confidence": 96.939949,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 127.25999999999999,
+      "top": 68.58,
+      "x1": 136.98,
+      "bottom": 73.8,
+      "confidence": 96.798058,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "High",
+      "x0": 139.68,
+      "top": 68.58,
+      "x1": 152.28,
+      "bottom": 75.06,
+      "confidence": 96.132362,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Court",
+      "x0": 154.98,
+      "top": 68.75999999999999,
+      "x1": 171.35999999999999,
+      "bottom": 73.8,
+      "confidence": 96.520798,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "nor",
+      "x0": 173.88,
+      "top": 70.02,
+      "x1": 183.6,
+      "bottom": 73.8,
+      "confidence": 96.520798,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 185.76,
+      "top": 68.58,
+      "x1": 191.88,
+      "bottom": 73.8,
+      "confidence": 96.391106,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 194.94,
+      "top": 67.86,
+      "x1": 203.22,
+      "bottom": 75.78,
+      "confidence": 96.451118,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Supreme",
+      "x0": 205.56,
+      "top": 68.75999999999999,
+      "x1": 232.38,
+      "bottom": 75.05999999999999,
+      "confidence": 96.223915,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Court",
+      "x0": 234.72,
+      "top": 68.75999999999999,
+      "x1": 251.28,
+      "bottom": 73.8,
+      "confidence": 96.223915,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "4.",
+      "x0": 88.02,
+      "top": 90.36,
+      "x1": 93.06,
+      "bottom": 95.03999999999999,
+      "confidence": 96.554588,
+      "ocr_block": "6",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 95.58,
+      "top": 90.0,
+      "x1": 101.52,
+      "bottom": 95.22,
+      "confidence": 96.258186,
+      "ocr_block": "6",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 103.32,
+      "top": 90.0,
+      "x1": 113.03999999999999,
+      "bottom": 95.22,
+      "confidence": 96.198341,
+      "ocr_block": "6",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Supreme",
+      "x0": 115.38,
+      "top": 90.17999999999999,
+      "x1": 142.2,
+      "bottom": 96.47999999999999,
+      "confidence": 95.236794,
+      "ocr_block": "6",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Court",
+      "x0": 144.54,
+      "top": 90.17999999999999,
+      "x1": 160.92,
+      "bottom": 95.22,
+      "confidence": 96.648849,
+      "ocr_block": "6",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "only",
+      "x0": 163.26,
+      "top": 90.0,
+      "x1": 175.85999999999999,
+      "bottom": 96.48,
+      "confidence": 96.14373,
+      "ocr_block": "6",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "pdf_page": 389,
+  "crop_top": 733.60137,
+  "crop_bottom": 792.00137,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0389:l0046:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.48 Whois the author of the famous book \"The Concept of Law\"?",
+      "bbox": [
+        41.903999999999996,
+        4.4639999999999995,
+        253.44,
+        10.943999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Ans a",
+      "bbox": [
+        43.343999999999994,
+        15.983999999999998,
+        86.544,
+        28.511999999999997
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "1. Kelsen",
+      "bbox": [
+        88.55999999999999,
+        26.208,
+        114.624,
+        31.247999999999998
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "x,",
+      "bbox": [
+        73.008,
+        37.44,
+        93.024,
+        52.559999999999995
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "Upendra Baxi",
+      "bbox": [
+        95.904,
+        47.519999999999996,
+        135.648,
+        53.855999999999995
+      ]
+    }
+  ],
+  "text": "Q.48 Whois the author of the famous book \"The Concept of Law\"?\nAns a\n1. Kelsen\nx,\nUpendra Baxi",
+  "ocr_words": [
+    {
+      "text": "Q.48",
+      "x0": 41.903999999999996,
+      "top": 4.752,
+      "x1": 56.16,
+      "bottom": 10.512,
+      "confidence": 91.149529,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Whois",
+      "x0": 62.495999999999995,
+      "top": 4.608,
+      "x1": 83.52,
+      "bottom": 9.648,
+      "confidence": 82.698166,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 85.53599999999999,
+      "top": 4.608,
+      "x1": 95.61599999999999,
+      "bottom": 9.648,
+      "confidence": 95.733406,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "author",
+      "x0": 97.776,
+      "top": 4.608,
+      "x1": 118.512,
+      "bottom": 9.648,
+      "confidence": 96.308075,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 120.52799999999999,
+      "top": 4.4639999999999995,
+      "x1": 126.71999999999998,
+      "bottom": 9.648,
+      "confidence": 96.204376,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 128.44799999999998,
+      "top": 4.608,
+      "x1": 138.528,
+      "bottom": 9.648,
+      "confidence": 96.133385,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "famous",
+      "x0": 140.54399999999998,
+      "top": 4.4639999999999995,
+      "x1": 163.43999999999997,
+      "bottom": 9.648,
+      "confidence": 96.133385,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "book",
+      "x0": 165.88799999999998,
+      "top": 4.608,
+      "x1": 180.86399999999998,
+      "bottom": 9.648,
+      "confidence": 95.695015,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "\"The",
+      "x0": 183.16799999999998,
+      "top": 4.4639999999999995,
+      "x1": 197.27999999999997,
+      "bottom": 9.648,
+      "confidence": 96.681915,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Concept",
+      "x0": 199.58399999999997,
+      "top": 4.752,
+      "x1": 224.64,
+      "bottom": 10.943999999999999,
+      "confidence": 96.562813,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 226.79999999999998,
+      "top": 4.4639999999999995,
+      "x1": 232.992,
+      "bottom": 9.648,
+      "confidence": 96.47863,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Law\"?",
+      "x0": 235.152,
+      "top": 4.4639999999999995,
+      "x1": 253.44,
+      "bottom": 9.648,
+      "confidence": 96.400299,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.343999999999994,
+      "top": 17.855999999999998,
+      "x1": 54.57599999999999,
+      "bottom": 22.607999999999997,
+      "confidence": 96.36277,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "a",
+      "x0": 73.008,
+      "top": 15.983999999999998,
+      "x1": 86.544,
+      "bottom": 28.511999999999997,
+      "confidence": 48.983654,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 88.55999999999999,
+      "top": 26.496,
+      "x1": 93.02399999999999,
+      "bottom": 31.247999999999998,
+      "confidence": 92.29747,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Kelsen",
+      "x0": 95.904,
+      "top": 26.208,
+      "x1": 114.624,
+      "bottom": 31.247999999999998,
+      "confidence": 90.977577,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "x,",
+      "x0": 73.008,
+      "top": 37.44,
+      "x1": 93.024,
+      "bottom": 52.559999999999995,
+      "confidence": 61.389786,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Upendra",
+      "x0": 95.904,
+      "top": 47.519999999999996,
+      "x1": 121.24799999999999,
+      "bottom": 53.855999999999995,
+      "confidence": 96.324997,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Baxi",
+      "x0": 124.12799999999999,
+      "top": 47.808,
+      "x1": 135.648,
+      "bottom": 52.704,
+      "confidence": 96.723587,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

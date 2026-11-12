@@ -1,0 +1,736 @@
+{
+  "pdf_page": 454,
+  "crop_top": 320.53,
+  "crop_bottom": 428.37,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0454:l0013:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "3. Which one of the following statements with regard to the Lokpal and Lokayuktas Act, 2013",
+      "bbox": [
+        72.53999999999999,
+        4.859999999999999,
+        531.0,
+        15.3
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "is not correct?",
+      "bbox": [
+        90.72,
+        19.8,
+        159.48,
+        27.9
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "Pp UO It makes certain amendments to the Code of Criminal Procedure, 1973.",
+      "bbox": [
+        125.46,
+        48.78,
+        490.14,
+        100.97999999999999
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "It contains detailed provisions for the appointment of Lokayuktas in States.",
+      "bbox": [
+        144.9,
+        63.54,
+        517.68,
+        73.8
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "It confers supervisory jurisdiction Delhi Special Police Establishment.",
+      "bbox": [
+        145.07999999999998,
+        77.39999999999999,
+        491.76,
+        89.27999999999999
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "on",
+      "bbox": [
+        309.24,
+        80.64,
+        320.40000000000003,
+        86.4
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "It extends to the whole of India.",
+      "bbox": [
+        145.07999999999998,
+        92.7,
+        298.79999999999995,
+        101.16
+      ]
+    }
+  ],
+  "text": "3. Which one of the following statements with regard to the Lokpal and Lokayuktas Act, 2013\nis not correct?\nPp UO It makes certain amendments to the Code of Criminal Procedure, 1973.\nIt contains detailed provisions for the appointment of Lokayuktas in States.\nIt confers supervisory jurisdiction Delhi Special Police Establishment.\non\nIt extends to the whole of India.",
+  "ocr_words": [
+    {
+      "text": "3.",
+      "x0": 72.53999999999999,
+      "top": 5.3999999999999995,
+      "x1": 80.27999999999999,
+      "bottom": 13.32,
+      "confidence": 87.499641,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Which",
+      "x0": 90.36,
+      "top": 5.04,
+      "x1": 120.24,
+      "bottom": 13.32,
+      "confidence": 87.499641,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "one",
+      "x0": 124.56,
+      "top": 7.38,
+      "x1": 142.02,
+      "bottom": 13.32,
+      "confidence": 95.009163,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 145.62,
+      "top": 4.859999999999999,
+      "x1": 155.34,
+      "bottom": 13.319999999999999,
+      "confidence": 96.373978,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 158.04,
+      "top": 5.04,
+      "x1": 173.51999999999998,
+      "bottom": 13.32,
+      "confidence": 96.840996,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 177.12,
+      "top": 4.859999999999999,
+      "x1": 221.58,
+      "bottom": 15.299999999999999,
+      "confidence": 95.721046,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "statements",
+      "x0": 225.17999999999998,
+      "top": 6.12,
+      "x1": 279.17999999999995,
+      "bottom": 13.32,
+      "confidence": 96.44606,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "with",
+      "x0": 282.59999999999997,
+      "top": 5.04,
+      "x1": 303.11999999999995,
+      "bottom": 13.32,
+      "confidence": 96.576843,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "regard",
+      "x0": 307.44,
+      "top": 5.04,
+      "x1": 337.68,
+      "bottom": 15.3,
+      "confidence": 96.325142,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 341.64,
+      "top": 6.12,
+      "x1": 351.18,
+      "bottom": 13.32,
+      "confidence": 95.520561,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 354.59999999999997,
+      "top": 5.04,
+      "x1": 370.08,
+      "bottom": 13.32,
+      "confidence": 92.913879,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Lokpal",
+      "x0": 374.4,
+      "top": 5.04,
+      "x1": 404.09999999999997,
+      "bottom": 15.3,
+      "confidence": 92.913879,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 408.41999999999996,
+      "top": 5.04,
+      "x1": 425.15999999999997,
+      "bottom": 13.32,
+      "confidence": 93.298981,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Lokayuktas",
+      "x0": 429.84,
+      "top": 5.04,
+      "x1": 482.4,
+      "bottom": 15.3,
+      "confidence": 91.780121,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Act,",
+      "x0": 485.82,
+      "top": 5.58,
+      "x1": 503.82,
+      "bottom": 14.76,
+      "confidence": 96.630737,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2013",
+      "x0": 507.96,
+      "top": 5.3999999999999995,
+      "x1": 531.0,
+      "bottom": 13.32,
+      "confidence": 96.251106,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 90.72,
+      "top": 19.98,
+      "x1": 97.02,
+      "bottom": 27.9,
+      "confidence": 96.450813,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "not",
+      "x0": 101.16,
+      "top": 20.7,
+      "x1": 116.46,
+      "bottom": 27.9,
+      "confidence": 96.280281,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "correct?",
+      "x0": 120.24,
+      "top": 19.8,
+      "x1": 159.48,
+      "bottom": 27.9,
+      "confidence": 96.295952,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "It",
+      "x0": 145.07999999999998,
+      "top": 49.5,
+      "x1": 150.66,
+      "bottom": 57.24,
+      "confidence": 90.868851,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "makes",
+      "x0": 154.79999999999998,
+      "top": 48.96,
+      "x1": 184.85999999999999,
+      "bottom": 57.24,
+      "confidence": 96.461472,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "certain",
+      "x0": 188.64,
+      "top": 49.32,
+      "x1": 221.21999999999997,
+      "bottom": 57.24,
+      "confidence": 96.423309,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "amendments",
+      "x0": 225.17999999999998,
+      "top": 48.96,
+      "x1": 288.71999999999997,
+      "bottom": 57.24,
+      "confidence": 96.372101,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 292.14,
+      "top": 50.04,
+      "x1": 301.68,
+      "bottom": 57.239999999999995,
+      "confidence": 96.081703,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 305.09999999999997,
+      "top": 48.96,
+      "x1": 320.58,
+      "bottom": 57.24,
+      "confidence": 96.575478,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Code",
+      "x0": 324.53999999999996,
+      "top": 48.96,
+      "x1": 348.29999999999995,
+      "bottom": 57.24,
+      "confidence": 96.272758,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 352.08,
+      "top": 48.78,
+      "x1": 361.79999999999995,
+      "bottom": 57.24,
+      "confidence": 96.272758,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Criminal",
+      "x0": 365.03999999999996,
+      "top": 48.96,
+      "x1": 403.91999999999996,
+      "bottom": 57.24,
+      "confidence": 96.443878,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Procedure,",
+      "x0": 408.59999999999997,
+      "top": 48.96,
+      "x1": 460.26,
+      "bottom": 58.68,
+      "confidence": 95.983818,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1973.",
+      "x0": 464.76,
+      "top": 49.32,
+      "x1": 490.14,
+      "bottom": 57.24,
+      "confidence": 96.547295,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "It",
+      "x0": 144.9,
+      "top": 64.08,
+      "x1": 151.02,
+      "bottom": 71.82,
+      "confidence": 91.124756,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "contains",
+      "x0": 154.62,
+      "top": 63.72,
+      "x1": 195.84,
+      "bottom": 71.82,
+      "confidence": 96.245186,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "detailed",
+      "x0": 199.44,
+      "top": 63.54,
+      "x1": 239.22,
+      "bottom": 71.82,
+      "confidence": 96.182938,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "provisions",
+      "x0": 243.35999999999999,
+      "top": 63.72,
+      "x1": 293.4,
+      "bottom": 73.8,
+      "confidence": 96.431961,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "for",
+      "x0": 296.64,
+      "top": 63.54,
+      "x1": 310.68,
+      "bottom": 71.82,
+      "confidence": 96.250069,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 313.74,
+      "top": 63.54,
+      "x1": 329.94,
+      "bottom": 71.82,
+      "confidence": 95.525421,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "appointment",
+      "x0": 333.53999999999996,
+      "top": 63.72,
+      "x1": 397.79999999999995,
+      "bottom": 73.8,
+      "confidence": 96.272789,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 401.4,
+      "top": 63.54,
+      "x1": 411.12,
+      "bottom": 71.82,
+      "confidence": 93.227501,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Lokayuktas",
+      "x0": 414.71999999999997,
+      "top": 63.54,
+      "x1": 469.43999999999994,
+      "bottom": 73.8,
+      "confidence": 91.842102,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 473.21999999999997,
+      "top": 63.72,
+      "x1": 481.14,
+      "bottom": 71.64,
+      "confidence": 96.745773,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "States.",
+      "x0": 484.91999999999996,
+      "top": 63.9,
+      "x1": 517.68,
+      "bottom": 71.82,
+      "confidence": 96.471992,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "It",
+      "x0": 145.07999999999998,
+      "top": 78.66,
+      "x1": 150.66,
+      "bottom": 86.39999999999999,
+      "confidence": 86.526352,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "confers",
+      "x0": 154.44,
+      "top": 78.11999999999999,
+      "x1": 189.54,
+      "bottom": 86.39999999999999,
+      "confidence": 96.147964,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "supervisory",
+      "x0": 194.76,
+      "top": 77.39999999999999,
+      "x1": 246.42,
+      "bottom": 89.27999999999999,
+      "confidence": 96.46769,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "jurisdiction",
+      "x0": 251.45999999999998,
+      "top": 77.39999999999999,
+      "x1": 305.28,
+      "bottom": 89.27999999999999,
+      "confidence": 96.443962,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "on",
+      "x0": 309.24,
+      "top": 80.64,
+      "x1": 320.40000000000003,
+      "bottom": 86.4,
+      "confidence": 96.34726,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Delhi",
+      "x0": 325.08,
+      "top": 78.11999999999999,
+      "x1": 348.47999999999996,
+      "bottom": 86.39999999999999,
+      "confidence": 96.662834,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Special",
+      "x0": 352.44,
+      "top": 78.11999999999999,
+      "x1": 385.2,
+      "bottom": 88.38,
+      "confidence": 96.771797,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Police",
+      "x0": 389.7,
+      "top": 78.11999999999999,
+      "x1": 417.24,
+      "bottom": 86.39999999999999,
+      "confidence": 96.686302,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Establishment.",
+      "x0": 421.56,
+      "top": 78.11999999999999,
+      "x1": 491.76,
+      "bottom": 86.39999999999999,
+      "confidence": 96.572166,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "It",
+      "x0": 145.07999999999998,
+      "top": 93.42,
+      "x1": 150.66,
+      "bottom": 101.16,
+      "confidence": 85.47599,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "extends",
+      "x0": 154.44,
+      "top": 92.88,
+      "x1": 191.88,
+      "bottom": 101.16,
+      "confidence": 96.695824,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 195.12,
+      "top": 93.96,
+      "x1": 204.84,
+      "bottom": 101.16,
+      "confidence": 96.756485,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 208.26,
+      "top": 92.88,
+      "x1": 223.92,
+      "bottom": 101.16,
+      "confidence": 96.753159,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "whole",
+      "x0": 227.51999999999998,
+      "top": 92.88,
+      "x1": 256.5,
+      "bottom": 101.16,
+      "confidence": 96.239906,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 260.28,
+      "top": 92.7,
+      "x1": 269.82,
+      "bottom": 101.16,
+      "confidence": 96.541893,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "India.",
+      "x0": 273.59999999999997,
+      "top": 92.88,
+      "x1": 298.79999999999995,
+      "bottom": 101.16,
+      "confidence": 96.410728,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "UO",
+      "x0": 126.17999999999999,
+      "top": 49.5,
+      "x1": 135.54,
+      "bottom": 100.97999999999999,
+      "confidence": 2.616112,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Pp",
+      "x0": 125.46,
+      "top": 48.78,
+      "x1": 138.42,
+      "bottom": 57.42,
+      "confidence": 10.243179,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "pdf_page": 436,
+  "crop_top": 56.960000000000036,
+  "crop_bottom": 150.17999999999995,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0435:l0031:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "National Human Rights Commission",
+      "bbox": [
+        145.00799999999998,
+        4.896,
+        317.52,
+        15.264
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "(i), (ii) and (iii) only",
+      "bbox": [
+        144.86399999999998,
+        34.128,
+        235.152,
+        44.495999999999995
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(i) and (iii) only",
+      "bbox": [
+        144.576,
+        48.672,
+        219.02399999999997,
+        59.184
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(i), (ii), (iii) and (iv)",
+      "bbox": [
+        144.86399999999998,
+        63.35999999999999,
+        232.272,
+        73.728
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(i) only",
+      "bbox": [
+        144.86399999999998,
+        78.04799999999999,
+        177.408,
+        88.416
+      ]
+    }
+  ],
+  "text": "National Human Rights Commission\n(i), (ii) and (iii) only\n(i) and (iii) only\n(i), (ii), (iii) and (iv)\n(i) only",
+  "ocr_words": [
+    {
+      "text": "National",
+      "x0": 145.00799999999998,
+      "top": 4.896,
+      "x1": 184.60799999999998,
+      "bottom": 13.247999999999998,
+      "confidence": 95.672035,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Human",
+      "x0": 189.21599999999998,
+      "top": 5.4719999999999995,
+      "x1": 222.76799999999997,
+      "bottom": 13.248,
+      "confidence": 96.093697,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Rights",
+      "x0": 227.37599999999998,
+      "top": 4.896,
+      "x1": 255.88799999999998,
+      "bottom": 15.264,
+      "confidence": 96.093697,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Commission",
+      "x0": 259.632,
+      "top": 5.327999999999999,
+      "x1": 317.52,
+      "bottom": 13.247999999999998,
+      "confidence": 96.556595,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(i),",
+      "x0": 144.86399999999998,
+      "top": 34.128,
+      "x1": 156.09599999999998,
+      "bottom": 44.352,
+      "confidence": 96.850739,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(ii)",
+      "x0": 160.55999999999997,
+      "top": 34.128,
+      "x1": 171.64799999999997,
+      "bottom": 44.352,
+      "confidence": 94.850327,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 175.67999999999998,
+      "top": 34.272,
+      "x1": 192.67199999999997,
+      "bottom": 42.48,
+      "confidence": 96.821251,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(iii)",
+      "x0": 197.136,
+      "top": 34.128,
+      "x1": 211.10399999999998,
+      "bottom": 44.352,
+      "confidence": 94.925148,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "only",
+      "x0": 215.136,
+      "top": 34.272,
+      "x1": 235.152,
+      "bottom": 44.495999999999995,
+      "confidence": 96.650887,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(i)",
+      "x0": 144.576,
+      "top": 48.672,
+      "x1": 153.792,
+      "bottom": 59.03999999999999,
+      "confidence": 96.847992,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "and",
+      "x0": 157.67999999999998,
+      "top": 48.815999999999995,
+      "x1": 175.248,
+      "bottom": 57.16799999999999,
+      "confidence": 96.203735,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(iii)",
+      "x0": 179.42399999999998,
+      "top": 48.672,
+      "x1": 194.39999999999998,
+      "bottom": 59.03999999999999,
+      "confidence": 96.203735,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "only",
+      "x0": 198.14399999999998,
+      "top": 48.815999999999995,
+      "x1": 219.02399999999997,
+      "bottom": 59.184,
+      "confidence": 96.537781,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(i),",
+      "x0": 144.86399999999998,
+      "top": 63.35999999999999,
+      "x1": 156.09599999999998,
+      "bottom": 73.728,
+      "confidence": 96.87841,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(ii),",
+      "x0": 160.55999999999997,
+      "top": 63.35999999999999,
+      "x1": 174.67199999999997,
+      "bottom": 73.728,
+      "confidence": 95.458031,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(iii)",
+      "x0": 178.992,
+      "top": 63.35999999999999,
+      "x1": 192.95999999999998,
+      "bottom": 73.728,
+      "confidence": 92.954933,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 196.992,
+      "top": 63.504,
+      "x1": 213.98399999999998,
+      "bottom": 71.712,
+      "confidence": 96.746765,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(iv)",
+      "x0": 218.44799999999998,
+      "top": 63.35999999999999,
+      "x1": 232.272,
+      "bottom": 73.728,
+      "confidence": 96.079048,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(i)",
+      "x0": 144.86399999999998,
+      "top": 78.04799999999999,
+      "x1": 153.21599999999998,
+      "bottom": 88.27199999999999,
+      "confidence": 96.723175,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "only",
+      "x0": 157.248,
+      "top": 78.192,
+      "x1": 177.408,
+      "bottom": 88.416,
+      "confidence": 96.831139,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

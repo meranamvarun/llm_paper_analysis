@@ -1,0 +1,537 @@
+{
+  "pdf_page": 244,
+  "crop_top": 659.412,
+  "crop_bottom": 773.992,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0244:l0041:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "67. India has the United Nations Convention Against Torture and other Cruel,",
+      "bbox": [
+        72.576,
+        5.183999999999999,
+        522.1439999999999,
+        16.128
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "_—_—s",
+      "bbox": [
+        145.152,
+        15.552,
+        189.64799999999997,
+        16.128
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "Inhuman or Degrading Treatment or Punishment (1987).",
+      "bbox": [
+        93.88799999999999,
+        18.863999999999997,
+        365.03999999999996,
+        29.807999999999996
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(A) Signed and ratified",
+      "bbox": [
+        100.51199999999999,
+        33.983999999999995,
+        213.696,
+        44.928
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(B) Signed but notratified",
+      "bbox": [
+        100.51199999999999,
+        48.38399999999999,
+        228.81599999999997,
+        59.32799999999999
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "(C) Not signed",
+      "bbox": [
+        100.51199999999999,
+        63.791999999999994,
+        173.664,
+        74.73599999999999
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "(D) Passed a resolution to ratify",
+      "bbox": [
+        100.51199999999999,
+        78.04799999999999,
+        254.44799999999998,
+        88.99199999999999
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "CORRECT OPTION: B",
+      "bbox": [
+        72.576,
+        99.93599999999999,
+        196.992,
+        108.288
+      ]
+    }
+  ],
+  "text": "67. India has the United Nations Convention Against Torture and other Cruel,\n_—_—s\nInhuman or Degrading Treatment or Punishment (1987).\n(A) Signed and ratified\n(B) Signed but notratified\n(C) Not signed\n(D) Passed a resolution to ratify\nCORRECT OPTION: B",
+  "ocr_words": [
+    {
+      "text": "67.",
+      "x0": 72.576,
+      "top": 5.327999999999999,
+      "x1": 84.96,
+      "bottom": 13.679999999999998,
+      "confidence": 96.444695,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "India",
+      "x0": 93.88799999999999,
+      "top": 5.183999999999999,
+      "x1": 118.51199999999999,
+      "bottom": 13.679999999999998,
+      "confidence": 87.87999,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "has",
+      "x0": 123.69599999999998,
+      "top": 5.183999999999999,
+      "x1": 139.67999999999998,
+      "bottom": 13.679999999999998,
+      "confidence": 55.001701,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "_—_—s",
+      "x0": 145.152,
+      "top": 15.552,
+      "x1": 189.64799999999997,
+      "bottom": 16.128,
+      "confidence": 9.780891,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 195.11999999999998,
+      "top": 5.183999999999999,
+      "x1": 209.23199999999997,
+      "bottom": 13.679999999999998,
+      "confidence": 50.868454,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "United",
+      "x0": 214.272,
+      "top": 5.183999999999999,
+      "x1": 246.95999999999998,
+      "bottom": 13.679999999999998,
+      "confidence": 86.053101,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Nations",
+      "x0": 251.56799999999998,
+      "top": 5.183999999999999,
+      "x1": 289.296,
+      "bottom": 13.679999999999998,
+      "confidence": 96.169273,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Convention",
+      "x0": 295.2,
+      "top": 5.183999999999999,
+      "x1": 351.792,
+      "bottom": 13.679999999999998,
+      "confidence": 96.111809,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Against",
+      "x0": 357.11999999999995,
+      "top": 5.183999999999999,
+      "x1": 394.12799999999993,
+      "bottom": 16.128,
+      "confidence": 96.383636,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Torture",
+      "x0": 399.45599999999996,
+      "top": 5.616,
+      "x1": 434.592,
+      "bottom": 13.68,
+      "confidence": 95.844322,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 440.20799999999997,
+      "top": 5.183999999999999,
+      "x1": 457.48799999999994,
+      "bottom": 13.679999999999998,
+      "confidence": 95.666389,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "other",
+      "x0": 463.39199999999994,
+      "top": 5.183999999999999,
+      "x1": 488.1599999999999,
+      "bottom": 13.679999999999998,
+      "confidence": 96.771759,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Cruel,",
+      "x0": 493.48799999999994,
+      "top": 5.183999999999999,
+      "x1": 522.1439999999999,
+      "bottom": 15.407999999999998,
+      "confidence": 96.156929,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Inhuman",
+      "x0": 93.88799999999999,
+      "top": 18.863999999999997,
+      "x1": 137.37599999999998,
+      "bottom": 27.359999999999996,
+      "confidence": 94.855362,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "or",
+      "x0": 140.976,
+      "top": 21.599999999999998,
+      "x1": 150.768,
+      "bottom": 27.36,
+      "confidence": 93.295639,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Degrading",
+      "x0": 153.35999999999999,
+      "top": 18.863999999999997,
+      "x1": 203.47199999999998,
+      "bottom": 29.807999999999996,
+      "confidence": 91.781822,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Treatment",
+      "x0": 206.064,
+      "top": 19.296,
+      "x1": 255.88799999999998,
+      "bottom": 27.36,
+      "confidence": 96.599716,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "or",
+      "x0": 258.768,
+      "top": 21.599999999999998,
+      "x1": 268.55999999999995,
+      "bottom": 27.36,
+      "confidence": 96.762337,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Punishment",
+      "x0": 271.152,
+      "top": 18.863999999999997,
+      "x1": 327.74399999999997,
+      "bottom": 27.359999999999996,
+      "confidence": 96.307938,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(1987).",
+      "x0": 330.62399999999997,
+      "top": 18.863999999999997,
+      "x1": 365.03999999999996,
+      "bottom": 29.663999999999994,
+      "confidence": 95.616959,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(A)",
+      "x0": 100.51199999999999,
+      "top": 33.983999999999995,
+      "x1": 113.47199999999998,
+      "bottom": 44.78399999999999,
+      "confidence": 96.900391,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Signed",
+      "x0": 122.39999999999999,
+      "top": 33.983999999999995,
+      "x1": 154.944,
+      "bottom": 44.928,
+      "confidence": 96.665619,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "and",
+      "x0": 158.39999999999998,
+      "top": 33.983999999999995,
+      "x1": 175.67999999999998,
+      "bottom": 42.47999999999999,
+      "confidence": 96.067253,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "ratified",
+      "x0": 178.416,
+      "top": 33.983999999999995,
+      "x1": 213.696,
+      "bottom": 42.47999999999999,
+      "confidence": 96.14135,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(B)",
+      "x0": 100.51199999999999,
+      "top": 48.38399999999999,
+      "x1": 112.89599999999999,
+      "bottom": 59.32799999999999,
+      "confidence": 90.331215,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Signed",
+      "x0": 122.39999999999999,
+      "top": 48.38399999999999,
+      "x1": 154.944,
+      "bottom": 59.32799999999999,
+      "confidence": 96.161034,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "but",
+      "x0": 157.968,
+      "top": 48.38399999999999,
+      "x1": 173.664,
+      "bottom": 56.879999999999995,
+      "confidence": 93.298485,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "notratified",
+      "x0": 177.26399999999998,
+      "top": 48.38399999999999,
+      "x1": 228.81599999999997,
+      "bottom": 56.879999999999995,
+      "confidence": 91.296188,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(C)",
+      "x0": 100.51199999999999,
+      "top": 63.791999999999994,
+      "x1": 112.89599999999999,
+      "bottom": 74.592,
+      "confidence": 92.816475,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Not",
+      "x0": 121.53599999999999,
+      "top": 64.08,
+      "x1": 139.82399999999998,
+      "bottom": 72.288,
+      "confidence": 35.071281,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "signed",
+      "x0": 142.992,
+      "top": 63.791999999999994,
+      "x1": 173.664,
+      "bottom": 74.73599999999999,
+      "confidence": 35.071281,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "(D)",
+      "x0": 100.51199999999999,
+      "top": 78.04799999999999,
+      "x1": 113.47199999999998,
+      "bottom": 88.84799999999998,
+      "confidence": 90.094429,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Passed",
+      "x0": 121.96799999999999,
+      "top": 78.04799999999999,
+      "x1": 154.368,
+      "bottom": 86.54399999999998,
+      "confidence": 96.445206,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "a",
+      "x0": 157.82399999999998,
+      "top": 80.78399999999999,
+      "x1": 162.71999999999997,
+      "bottom": 86.544,
+      "confidence": 96.642548,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "resolution",
+      "x0": 165.744,
+      "top": 78.04799999999999,
+      "x1": 213.552,
+      "bottom": 86.54399999999998,
+      "confidence": 96.379242,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "to",
+      "x0": 216.71999999999997,
+      "top": 79.19999999999999,
+      "x1": 225.50399999999996,
+      "bottom": 86.54399999999998,
+      "confidence": 96.130554,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "ratify",
+      "x0": 228.09599999999998,
+      "top": 78.04799999999999,
+      "x1": 254.44799999999998,
+      "bottom": 88.99199999999999,
+      "confidence": 96.923981,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "CORRECT",
+      "x0": 72.576,
+      "top": 99.93599999999999,
+      "x1": 131.76,
+      "bottom": 108.288,
+      "confidence": 95.756935,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "OPTION:",
+      "x0": 135.648,
+      "top": 100.08,
+      "x1": 185.328,
+      "bottom": 108.288,
+      "confidence": 92.885559,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "B",
+      "x0": 189.648,
+      "top": 100.08,
+      "x1": 196.992,
+      "bottom": 108.144,
+      "confidence": 92.885559,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

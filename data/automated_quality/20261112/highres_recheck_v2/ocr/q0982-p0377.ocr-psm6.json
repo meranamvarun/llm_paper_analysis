@@ -1,0 +1,733 @@
+{
+  "pdf_page": 377,
+  "crop_top": 549.76136,
+  "crop_bottom": 650.88136,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0377:l0033:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.31_ In which case the Supreme Court declared Clauses (4) and (5) of Article 368 of the Constitution as unconstitutional?",
+      "bbox": [
+        41.94,
+        4.32,
+        420.65999999999997,
+        10.98
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "YA",
+      "bbox": [
+        73.08,
+        14.399999999999999,
+        87.66,
+        29.339999999999996
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "Ans",
+      "bbox": [
+        43.379999999999995,
+        17.46,
+        54.53999999999999,
+        22.32
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "1. Minerva Mills Ltd. v. Union of India (1980)",
+      "bbox": [
+        88.56,
+        25.74,
+        222.84,
+        32.04
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        37.26,
+        93.06,
+        52.199999999999996
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "I.R. Coelho v. Union of India (2007)",
+      "bbox": [
+        95.94,
+        47.16,
+        200.88,
+        53.459999999999994
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        58.68,
+        93.06,
+        73.8
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "Indira Nehru Gandhi v. Raj Narain (1976)",
+      "bbox": [
+        95.94,
+        68.58,
+        218.34,
+        75.05999999999999
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        80.1,
+        93.06,
+        95.22
+      ]
+    },
+    {
+      "line_id": "l0009",
+      "text": "L. Chandra Kumar v. Union of India (1997)",
+      "bbox": [
+        95.94,
+        90.17999999999999,
+        222.12,
+        96.47999999999999
+      ]
+    }
+  ],
+  "text": "Q.31_ In which case the Supreme Court declared Clauses (4) and (5) of Article 368 of the Constitution as unconstitutional?\nYA\nAns\n1. Minerva Mills Ltd. v. Union of India (1980)\nx,\nI.R. Coelho v. Union of India (2007)\nx,\nIndira Nehru Gandhi v. Raj Narain (1976)\nx,\nL. Chandra Kumar v. Union of India (1997)",
+  "ocr_words": [
+    {
+      "text": "Q.31_",
+      "x0": 41.94,
+      "top": 4.68,
+      "x1": 55.98,
+      "bottom": 10.44,
+      "confidence": 20.647461,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "In",
+      "x0": 62.82,
+      "top": 4.859999999999999,
+      "x1": 67.86,
+      "bottom": 9.54,
+      "confidence": 78.470566,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "which",
+      "x0": 70.2,
+      "top": 4.5,
+      "x1": 88.2,
+      "bottom": 9.719999999999999,
+      "confidence": 94.550713,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "case",
+      "x0": 90.72,
+      "top": 5.9399999999999995,
+      "x1": 103.67999999999999,
+      "bottom": 9.719999999999999,
+      "confidence": 96.411804,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 105.83999999999999,
+      "top": 4.5,
+      "x1": 115.74,
+      "bottom": 9.719999999999999,
+      "confidence": 96.319092,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Supreme",
+      "x0": 118.08,
+      "top": 4.68,
+      "x1": 145.44,
+      "bottom": 10.98,
+      "confidence": 96.114532,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Court",
+      "x0": 147.78,
+      "top": 4.68,
+      "x1": 164.52,
+      "bottom": 9.719999999999999,
+      "confidence": 96.114532,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "declared",
+      "x0": 166.68,
+      "top": 4.5,
+      "x1": 192.96,
+      "bottom": 9.719999999999999,
+      "confidence": 96.644363,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Clauses",
+      "x0": 195.29999999999998,
+      "top": 4.5,
+      "x1": 218.15999999999997,
+      "bottom": 9.719999999999999,
+      "confidence": 96.644363,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(4)",
+      "x0": 220.5,
+      "top": 4.32,
+      "x1": 228.06,
+      "bottom": 10.8,
+      "confidence": 96.876221,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 230.57999999999998,
+      "top": 4.5,
+      "x1": 241.55999999999997,
+      "bottom": 9.719999999999999,
+      "confidence": 95.908127,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(5)",
+      "x0": 244.07999999999998,
+      "top": 4.32,
+      "x1": 251.82,
+      "bottom": 10.8,
+      "confidence": 95.908127,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 254.16,
+      "top": 4.5,
+      "x1": 260.28,
+      "bottom": 9.719999999999999,
+      "confidence": 96.880157,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Article",
+      "x0": 262.08,
+      "top": 4.5,
+      "x1": 282.06,
+      "bottom": 9.719999999999999,
+      "confidence": 96.484818,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "368",
+      "x0": 284.4,
+      "top": 4.68,
+      "x1": 295.2,
+      "bottom": 9.719999999999999,
+      "confidence": 96.832687,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 297.36,
+      "top": 4.5,
+      "x1": 303.66,
+      "bottom": 9.719999999999999,
+      "confidence": 96.039383,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 305.28,
+      "top": 4.5,
+      "x1": 315.35999999999996,
+      "bottom": 9.719999999999999,
+      "confidence": 96.894669,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Constitution",
+      "x0": 317.7,
+      "top": 4.68,
+      "x1": 355.5,
+      "bottom": 9.719999999999999,
+      "confidence": 96.58638,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "as",
+      "x0": 357.84,
+      "top": 5.9399999999999995,
+      "x1": 364.14,
+      "bottom": 9.719999999999999,
+      "confidence": 96.852417,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "unconstitutional?",
+      "x0": 366.47999999999996,
+      "top": 4.5,
+      "x1": 420.65999999999997,
+      "bottom": 9.719999999999999,
+      "confidence": 96.009933,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.379999999999995,
+      "top": 17.46,
+      "x1": 54.53999999999999,
+      "bottom": 22.32,
+      "confidence": 96.946815,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "YA",
+      "x0": 73.08,
+      "top": 14.399999999999999,
+      "x1": 87.66,
+      "bottom": 29.339999999999996,
+      "confidence": 15.682007,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 88.56,
+      "top": 26.099999999999998,
+      "x1": 93.06,
+      "bottom": 30.779999999999998,
+      "confidence": 96.435387,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Minerva",
+      "x0": 95.94,
+      "top": 25.919999999999998,
+      "x1": 120.06,
+      "bottom": 30.959999999999997,
+      "confidence": 96.168182,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Mills",
+      "x0": 122.94,
+      "top": 25.74,
+      "x1": 136.62,
+      "bottom": 30.959999999999997,
+      "confidence": 96.528946,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Ltd.",
+      "x0": 139.14,
+      "top": 25.74,
+      "x1": 149.57999999999998,
+      "bottom": 30.959999999999997,
+      "confidence": 93.252762,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "v.",
+      "x0": 151.92,
+      "top": 27.36,
+      "x1": 156.42,
+      "bottom": 30.78,
+      "confidence": 92.883934,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Union",
+      "x0": 159.29999999999998,
+      "top": 25.919999999999998,
+      "x1": 176.57999999999998,
+      "bottom": 30.959999999999997,
+      "confidence": 96.44088,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 179.1,
+      "top": 25.74,
+      "x1": 185.04,
+      "bottom": 30.959999999999997,
+      "confidence": 96.530342,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "India",
+      "x0": 187.38,
+      "top": 25.74,
+      "x1": 201.24,
+      "bottom": 30.959999999999997,
+      "confidence": 96.359245,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(1980)",
+      "x0": 203.94,
+      "top": 25.74,
+      "x1": 222.84,
+      "bottom": 32.04,
+      "confidence": 95.937943,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 37.26,
+      "x1": 93.06,
+      "bottom": 52.199999999999996,
+      "confidence": 58.940388,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "I.R.",
+      "x0": 95.94,
+      "top": 47.519999999999996,
+      "x1": 104.39999999999999,
+      "bottom": 52.199999999999996,
+      "confidence": 34.28894,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Coelho",
+      "x0": 107.1,
+      "top": 47.16,
+      "x1": 127.61999999999999,
+      "bottom": 52.379999999999995,
+      "confidence": 93.256287,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "v.",
+      "x0": 129.78,
+      "top": 48.78,
+      "x1": 134.46,
+      "bottom": 52.2,
+      "confidence": 93.239426,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Union",
+      "x0": 137.34,
+      "top": 47.339999999999996,
+      "x1": 154.44,
+      "bottom": 52.379999999999995,
+      "confidence": 95.95742,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "of",
+      "x0": 157.14,
+      "top": 47.16,
+      "x1": 163.07999999999998,
+      "bottom": 52.379999999999995,
+      "confidence": 95.95742,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "India",
+      "x0": 165.23999999999998,
+      "top": 47.16,
+      "x1": 179.27999999999997,
+      "bottom": 52.379999999999995,
+      "confidence": 95.78521,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(2007)",
+      "x0": 181.98,
+      "top": 47.16,
+      "x1": 200.88,
+      "bottom": 53.459999999999994,
+      "confidence": 95.325508,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 58.68,
+      "x1": 93.06,
+      "bottom": 73.8,
+      "confidence": 56.642792,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Indira",
+      "x0": 95.94,
+      "top": 68.58,
+      "x1": 112.5,
+      "bottom": 73.8,
+      "confidence": 96.744438,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Nehru",
+      "x0": 115.19999999999999,
+      "top": 68.58,
+      "x1": 133.2,
+      "bottom": 73.8,
+      "confidence": 96.677422,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Gandhi",
+      "x0": 135.72,
+      "top": 68.58,
+      "x1": 156.78,
+      "bottom": 73.8,
+      "confidence": 91.893204,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "v.",
+      "x0": 159.12,
+      "top": 70.2,
+      "x1": 163.8,
+      "bottom": 73.62,
+      "confidence": 93.177452,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Raj",
+      "x0": 166.5,
+      "top": 68.75999999999999,
+      "x1": 174.96,
+      "bottom": 75.05999999999999,
+      "confidence": 95.802139,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Narain",
+      "x0": 177.66,
+      "top": 68.75999999999999,
+      "x1": 196.92,
+      "bottom": 73.8,
+      "confidence": 96.720367,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "(1976)",
+      "x0": 199.62,
+      "top": 68.58,
+      "x1": 218.34,
+      "bottom": 74.88,
+      "confidence": 96.595932,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 80.1,
+      "x1": 93.06,
+      "bottom": 95.22,
+      "confidence": 43.035507,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "L.",
+      "x0": 95.94,
+      "top": 90.53999999999999,
+      "x1": 99.72,
+      "bottom": 95.22,
+      "confidence": 92.712486,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Chandra",
+      "x0": 102.42,
+      "top": 90.17999999999999,
+      "x1": 127.08,
+      "bottom": 95.39999999999999,
+      "confidence": 95.629326,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Kumar",
+      "x0": 129.96,
+      "top": 90.53999999999999,
+      "x1": 149.22,
+      "bottom": 95.39999999999999,
+      "confidence": 89.887596,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "v.",
+      "x0": 151.2,
+      "top": 91.8,
+      "x1": 155.7,
+      "bottom": 95.22,
+      "confidence": 89.887596,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Union",
+      "x0": 158.57999999999998,
+      "top": 90.36,
+      "x1": 175.85999999999999,
+      "bottom": 95.4,
+      "confidence": 96.403099,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "of",
+      "x0": 178.38,
+      "top": 90.17999999999999,
+      "x1": 184.5,
+      "bottom": 95.39999999999999,
+      "confidence": 96.443901,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "India",
+      "x0": 186.66,
+      "top": 90.17999999999999,
+      "x1": 200.7,
+      "bottom": 95.39999999999999,
+      "confidence": 95.373734,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "(1997)",
+      "x0": 203.4,
+      "top": 90.17999999999999,
+      "x1": 222.12,
+      "bottom": 96.47999999999999,
+      "confidence": 95.920647,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

@@ -1,0 +1,373 @@
+{
+  "pdf_page": 396,
+  "crop_top": 717.28136,
+  "crop_bottom": 796.80137,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0396:l0045:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.36 As per The Copyright Act 1957, who is not included in the definition of Performer?",
+      "bbox": [
+        41.903999999999996,
+        4.4639999999999995,
+        317.376,
+        10.943999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "ans rd",
+      "bbox": [
+        43.343999999999994,
+        15.408,
+        86.54399999999998,
+        33.12
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "1. Snake charmer",
+      "bbox": [
+        88.55999999999999,
+        25.776,
+        140.688,
+        30.96
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "rad",
+      "bbox": [
+        72.43199999999999,
+        36.72,
+        87.11999999999999,
+        54.288
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "2. Acrobat",
+      "bbox": [
+        88.27199999999999,
+        47.232,
+        119.232,
+        52.416
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "v,",
+      "bbox": [
+        73.728,
+        57.888,
+        93.024,
+        73.728
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "Cobbler",
+      "bbox": [
+        95.616,
+        67.96799999999999,
+        119.088,
+        75.88799999999999
+      ]
+    }
+  ],
+  "text": "Q.36 As per The Copyright Act 1957, who is not included in the definition of Performer?\nans rd\n1. Snake charmer\nrad\n2. Acrobat\nv,\nCobbler",
+  "ocr_words": [
+    {
+      "text": "Q.36",
+      "x0": 41.903999999999996,
+      "top": 4.752,
+      "x1": 56.16,
+      "bottom": 10.367999999999999,
+      "confidence": 91.826447,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "As",
+      "x0": 62.495999999999995,
+      "top": 4.752,
+      "x1": 69.696,
+      "bottom": 9.648,
+      "confidence": 94.176331,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "per",
+      "x0": 72.14399999999999,
+      "top": 5.904,
+      "x1": 81.93599999999999,
+      "bottom": 10.943999999999999,
+      "confidence": 94.727272,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 83.80799999999999,
+      "top": 4.4639999999999995,
+      "x1": 95.03999999999999,
+      "bottom": 9.648,
+      "confidence": 96.201965,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Copyright",
+      "x0": 97.344,
+      "top": 4.4639999999999995,
+      "x1": 127.008,
+      "bottom": 10.943999999999999,
+      "confidence": 95.798401,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Act",
+      "x0": 129.024,
+      "top": 4.752,
+      "x1": 138.96,
+      "bottom": 9.648,
+      "confidence": 96.84156,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1957,",
+      "x0": 141.408,
+      "top": 4.752,
+      "x1": 157.67999999999998,
+      "bottom": 10.655999999999999,
+      "confidence": 96.481682,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "who",
+      "x0": 159.83999999999997,
+      "top": 4.4639999999999995,
+      "x1": 173.08799999999997,
+      "bottom": 9.648,
+      "confidence": 96.821915,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 175.53599999999997,
+      "top": 4.608,
+      "x1": 179.71199999999996,
+      "bottom": 9.648,
+      "confidence": 95.685555,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "not",
+      "x0": 182.016,
+      "top": 5.183999999999999,
+      "x1": 192.096,
+      "bottom": 9.648,
+      "confidence": 95.890594,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "included",
+      "x0": 194.39999999999998,
+      "top": 4.4639999999999995,
+      "x1": 220.176,
+      "bottom": 9.648,
+      "confidence": 95.44632,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 222.76799999999997,
+      "top": 4.608,
+      "x1": 227.80799999999996,
+      "bottom": 9.648,
+      "confidence": 96.054291,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 229.968,
+      "top": 4.4639999999999995,
+      "x1": 240.048,
+      "bottom": 9.648,
+      "confidence": 96.399117,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "definition",
+      "x0": 242.35199999999998,
+      "top": 4.4639999999999995,
+      "x1": 272.01599999999996,
+      "bottom": 9.648,
+      "confidence": 96.140068,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 274.32,
+      "top": 4.4639999999999995,
+      "x1": 280.512,
+      "bottom": 9.648,
+      "confidence": 96.731186,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Performer?",
+      "x0": 282.67199999999997,
+      "top": 4.4639999999999995,
+      "x1": 317.376,
+      "bottom": 9.648,
+      "confidence": 96.369835,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "ans",
+      "x0": 43.343999999999994,
+      "top": 17.567999999999998,
+      "x1": 54.57599999999999,
+      "bottom": 22.319999999999997,
+      "confidence": 76.354607,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "rd",
+      "x0": 72.43199999999999,
+      "top": 15.408,
+      "x1": 86.54399999999998,
+      "bottom": 33.12,
+      "confidence": 64.763062,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 88.55999999999999,
+      "top": 26.208,
+      "x1": 93.02399999999999,
+      "bottom": 30.959999999999997,
+      "confidence": 96.66951,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Snake",
+      "x0": 95.616,
+      "top": 25.919999999999998,
+      "x1": 113.03999999999999,
+      "bottom": 30.959999999999997,
+      "confidence": 96.551918,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "charmer",
+      "x0": 115.48799999999999,
+      "top": 25.776,
+      "x1": 140.688,
+      "bottom": 30.96,
+      "confidence": 96.755013,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "rad",
+      "x0": 72.43199999999999,
+      "top": 36.72,
+      "x1": 87.11999999999999,
+      "bottom": 54.288,
+      "confidence": 36.767387,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2.",
+      "x0": 88.27199999999999,
+      "top": 47.519999999999996,
+      "x1": 93.02399999999999,
+      "bottom": 52.272,
+      "confidence": 96.063431,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Acrobat",
+      "x0": 95.472,
+      "top": 47.232,
+      "x1": 119.232,
+      "bottom": 52.416,
+      "confidence": 96.058182,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "v,",
+      "x0": 73.728,
+      "top": 57.888,
+      "x1": 93.024,
+      "bottom": 73.728,
+      "confidence": 61.07058,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Cobbler",
+      "x0": 95.616,
+      "top": 67.96799999999999,
+      "x1": 119.088,
+      "bottom": 75.88799999999999,
+      "confidence": 96.747246,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

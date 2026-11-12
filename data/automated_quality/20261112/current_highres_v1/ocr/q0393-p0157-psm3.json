@@ -1,0 +1,778 @@
+{
+  "pdf_page": 157,
+  "crop_top": 252.68899999999996,
+  "crop_bottom": 349.7,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0157:l0010:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "34. Article 355 of the Constitution of India casts duty the Union to protect",
+      "bbox": [
+        96.47999999999999,
+        4.608,
+        497.952,
+        14.832
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "a upon every",
+      "bbox": [
+        338.11199999999997,
+        7.632,
+        527.904,
+        14.831999999999999
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "state against, inter alia, internal disturbance. The Supreme Court has noted that",
+      "bbox": [
+        117.648,
+        18.575999999999997,
+        527.76,
+        28.943999999999996
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "the Sarkaria Commission recognised range of situations which could amount to",
+      "bbox": [
+        117.216,
+        32.544,
+        527.616,
+        42.912
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "a",
+      "bbox": [
+        306.864,
+        35.568,
+        312.19199999999995,
+        40.896
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "internal disturbance, including:",
+      "bbox": [
+        117.216,
+        46.656,
+        277.344,
+        56.879999999999995
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "(A) Situations of financial exigencies (B) Breaches of public peace",
+      "bbox": [
+        115.48799999999999,
+        64.65599999999999,
+        463.824,
+        74.88
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "(C) Inefficient administration (D) None of the above",
+      "bbox": [
+        115.48799999999999,
+        82.65599999999999,
+        431.568,
+        92.88
+      ]
+    }
+  ],
+  "text": "34. Article 355 of the Constitution of India casts duty the Union to protect\na upon every\nstate against, inter alia, internal disturbance. The Supreme Court has noted that\nthe Sarkaria Commission recognised range of situations which could amount to\na\ninternal disturbance, including:\n(A) Situations of financial exigencies (B) Breaches of public peace\n(C) Inefficient administration (D) None of the above",
+  "ocr_words": [
+    {
+      "text": "34.",
+      "x0": 96.47999999999999,
+      "top": 5.183999999999999,
+      "x1": 110.16,
+      "bottom": 12.959999999999999,
+      "confidence": 94.746506,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Article",
+      "x0": 116.928,
+      "top": 4.608,
+      "x1": 150.768,
+      "bottom": 12.959999999999997,
+      "confidence": 96.117683,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "355",
+      "x0": 154.224,
+      "top": 5.183999999999999,
+      "x1": 171.21599999999998,
+      "bottom": 12.959999999999999,
+      "confidence": 95.966667,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 174.384,
+      "top": 4.608,
+      "x1": 183.88799999999998,
+      "bottom": 12.959999999999997,
+      "confidence": 95.966667,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 185.61599999999999,
+      "top": 4.752,
+      "x1": 201.31199999999998,
+      "bottom": 12.96,
+      "confidence": 96.814934,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Constitution",
+      "x0": 204.91199999999998,
+      "top": 4.608,
+      "x1": 266.256,
+      "bottom": 12.959999999999997,
+      "confidence": 96.852959,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 269.13599999999997,
+      "top": 4.608,
+      "x1": 279.07199999999995,
+      "bottom": 14.831999999999997,
+      "confidence": 96.574173,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "India",
+      "x0": 280.224,
+      "top": 4.752,
+      "x1": 307.728,
+      "bottom": 12.96,
+      "confidence": 94.898338,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "casts",
+      "x0": 310.464,
+      "top": 5.616,
+      "x1": 334.944,
+      "bottom": 12.959999999999999,
+      "confidence": 96.878296,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 338.11199999999997,
+      "top": 7.632,
+      "x1": 343.43999999999994,
+      "bottom": 12.959999999999999,
+      "confidence": 96.600273,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "duty",
+      "x0": 346.60799999999995,
+      "top": 4.752,
+      "x1": 368.92799999999994,
+      "bottom": 14.832,
+      "confidence": 95.751335,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "upon",
+      "x0": 371.664,
+      "top": 7.632,
+      "x1": 396.288,
+      "bottom": 14.831999999999999,
+      "confidence": 96.731018,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 399.02399999999994,
+      "top": 4.752,
+      "x1": 414.7199999999999,
+      "bottom": 12.96,
+      "confidence": 96.773071,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Union",
+      "x0": 417.59999999999997,
+      "top": 4.752,
+      "x1": 448.41599999999994,
+      "bottom": 12.96,
+      "confidence": 96.781418,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 451.152,
+      "top": 5.616,
+      "x1": 460.224,
+      "bottom": 12.959999999999999,
+      "confidence": 96.020279,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "protect",
+      "x0": 463.104,
+      "top": 5.616,
+      "x1": 497.952,
+      "bottom": 14.831999999999999,
+      "confidence": 96.747559,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "every",
+      "x0": 500.97599999999994,
+      "top": 7.632,
+      "x1": 527.904,
+      "bottom": 14.831999999999999,
+      "confidence": 96.266258,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "state",
+      "x0": 117.648,
+      "top": 19.727999999999998,
+      "x1": 141.84,
+      "bottom": 26.927999999999997,
+      "confidence": 96.68837,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "against,",
+      "x0": 145.72799999999998,
+      "top": 18.72,
+      "x1": 185.03999999999996,
+      "bottom": 28.943999999999996,
+      "confidence": 96.260323,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "inter",
+      "x0": 189.504,
+      "top": 18.863999999999997,
+      "x1": 212.832,
+      "bottom": 26.927999999999997,
+      "confidence": 96.538895,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "alia,",
+      "x0": 215.99999999999997,
+      "top": 18.72,
+      "x1": 237.88799999999998,
+      "bottom": 28.656,
+      "confidence": 96.347755,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "internal",
+      "x0": 241.77599999999998,
+      "top": 18.72,
+      "x1": 282.38399999999996,
+      "bottom": 26.927999999999997,
+      "confidence": 96.013596,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "disturbance.",
+      "x0": 286.128,
+      "top": 18.72,
+      "x1": 347.76,
+      "bottom": 26.927999999999997,
+      "confidence": 96.154526,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "The",
+      "x0": 351.792,
+      "top": 18.72,
+      "x1": 370.65599999999995,
+      "bottom": 26.927999999999997,
+      "confidence": 95.824883,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Supreme",
+      "x0": 374.688,
+      "top": 18.575999999999997,
+      "x1": 419.18399999999997,
+      "bottom": 28.799999999999997,
+      "confidence": 96.266014,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Court",
+      "x0": 423.21599999999995,
+      "top": 18.575999999999997,
+      "x1": 451.58399999999995,
+      "bottom": 26.927999999999997,
+      "confidence": 96.649109,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "has",
+      "x0": 454.89599999999996,
+      "top": 18.72,
+      "x1": 472.032,
+      "bottom": 26.927999999999997,
+      "confidence": 94.74781,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "noted",
+      "x0": 475.77599999999995,
+      "top": 18.72,
+      "x1": 503.5679999999999,
+      "bottom": 26.927999999999997,
+      "confidence": 96.861794,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "that",
+      "x0": 506.87999999999994,
+      "top": 18.72,
+      "x1": 527.76,
+      "bottom": 26.927999999999997,
+      "confidence": 96.228363,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 117.216,
+      "top": 32.687999999999995,
+      "x1": 133.05599999999998,
+      "bottom": 40.895999999999994,
+      "confidence": 93.219696,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Sarkaria",
+      "x0": 137.088,
+      "top": 32.687999999999995,
+      "x1": 181.152,
+      "bottom": 40.895999999999994,
+      "confidence": 91.104492,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Commission",
+      "x0": 185.184,
+      "top": 32.687999999999995,
+      "x1": 246.528,
+      "bottom": 40.895999999999994,
+      "confidence": 96.890854,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "recognised",
+      "x0": 249.83999999999997,
+      "top": 32.687999999999995,
+      "x1": 303.26399999999995,
+      "bottom": 42.91199999999999,
+      "confidence": 96.626633,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "a",
+      "x0": 306.864,
+      "top": 35.568,
+      "x1": 312.19199999999995,
+      "bottom": 40.896,
+      "confidence": 96.630493,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "range",
+      "x0": 315.64799999999997,
+      "top": 35.424,
+      "x1": 344.01599999999996,
+      "bottom": 42.912,
+      "confidence": 96.738922,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 347.76,
+      "top": 32.544,
+      "x1": 357.264,
+      "bottom": 40.895999999999994,
+      "confidence": 96.472206,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "situations",
+      "x0": 360.0,
+      "top": 32.687999999999995,
+      "x1": 409.68,
+      "bottom": 40.895999999999994,
+      "confidence": 95.547333,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "which",
+      "x0": 413.424,
+      "top": 32.687999999999995,
+      "x1": 443.23199999999997,
+      "bottom": 40.895999999999994,
+      "confidence": 96.623215,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "could",
+      "x0": 446.688,
+      "top": 32.687999999999995,
+      "x1": 473.03999999999996,
+      "bottom": 40.895999999999994,
+      "confidence": 96.384636,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "amount",
+      "x0": 476.64,
+      "top": 33.696,
+      "x1": 515.088,
+      "bottom": 40.896,
+      "confidence": 96.535667,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "to",
+      "x0": 518.4,
+      "top": 33.696,
+      "x1": 527.616,
+      "bottom": 40.896,
+      "confidence": 96.924873,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "internal",
+      "x0": 117.216,
+      "top": 46.656,
+      "x1": 157.968,
+      "bottom": 54.864,
+      "confidence": 96.118576,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "disturbance,",
+      "x0": 161.856,
+      "top": 46.656,
+      "x1": 223.488,
+      "bottom": 56.592,
+      "confidence": 95.734184,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "including:",
+      "x0": 227.664,
+      "top": 46.656,
+      "x1": 277.344,
+      "bottom": 56.879999999999995,
+      "confidence": 92.211899,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 115.48799999999999,
+      "top": 64.65599999999999,
+      "x1": 129.31199999999998,
+      "bottom": 74.88,
+      "confidence": 96.853767,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Situations",
+      "x0": 136.65599999999998,
+      "top": 64.65599999999999,
+      "x1": 188.06399999999996,
+      "bottom": 72.86399999999999,
+      "confidence": 96.405624,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 191.952,
+      "top": 64.65599999999999,
+      "x1": 201.456,
+      "bottom": 72.86399999999999,
+      "confidence": 96.850914,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "financial",
+      "x0": 204.04799999999997,
+      "top": 64.65599999999999,
+      "x1": 248.25599999999997,
+      "bottom": 72.86399999999999,
+      "confidence": 96.601089,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "exigencies",
+      "x0": 251.99999999999997,
+      "top": 64.65599999999999,
+      "x1": 302.976,
+      "bottom": 74.88,
+      "confidence": 85.131866,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(B)",
+      "x0": 318.38399999999996,
+      "top": 64.65599999999999,
+      "x1": 332.352,
+      "bottom": 74.88,
+      "confidence": 85.131866,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Breaches",
+      "x0": 340.56,
+      "top": 64.65599999999999,
+      "x1": 386.20799999999997,
+      "bottom": 72.86399999999999,
+      "confidence": 95.449951,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 390.09599999999995,
+      "top": 64.65599999999999,
+      "x1": 399.59999999999997,
+      "bottom": 72.86399999999999,
+      "confidence": 96.789665,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "public",
+      "x0": 402.19199999999995,
+      "top": 64.65599999999999,
+      "x1": 432.57599999999996,
+      "bottom": 74.88,
+      "confidence": 96.605171,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "peace",
+      "x0": 436.32,
+      "top": 67.536,
+      "x1": 463.824,
+      "bottom": 74.88,
+      "confidence": 96.797958,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(C)",
+      "x0": 115.48799999999999,
+      "top": 82.65599999999999,
+      "x1": 129.31199999999998,
+      "bottom": 92.88,
+      "confidence": 90.819855,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Inefficient",
+      "x0": 136.368,
+      "top": 82.65599999999999,
+      "x1": 188.064,
+      "bottom": 90.86399999999999,
+      "confidence": 96.488991,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "administration",
+      "x0": 191.952,
+      "top": 82.65599999999999,
+      "x1": 267.408,
+      "bottom": 90.86399999999999,
+      "confidence": 96.393501,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(D)",
+      "x0": 317.808,
+      "top": 82.65599999999999,
+      "x1": 332.352,
+      "bottom": 92.88,
+      "confidence": 91.30275,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "None",
+      "x0": 341.712,
+      "top": 82.8,
+      "x1": 367.632,
+      "bottom": 90.864,
+      "confidence": 93.463463,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 371.376,
+      "top": 82.65599999999999,
+      "x1": 381.024,
+      "bottom": 90.86399999999999,
+      "confidence": 93.463463,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 383.616,
+      "top": 82.65599999999999,
+      "x1": 399.312,
+      "bottom": 90.86399999999999,
+      "confidence": 95.211494,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "above",
+      "x0": 403.344,
+      "top": 82.65599999999999,
+      "x1": 431.568,
+      "bottom": 90.86399999999999,
+      "confidence": 96.546669,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

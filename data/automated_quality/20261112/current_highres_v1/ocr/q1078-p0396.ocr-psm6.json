@@ -1,0 +1,711 @@
+{
+  "pdf_page": 396,
+  "crop_top": 443.44136,
+  "crop_bottom": 544.3213599999999,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0396:l0027:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.34 The maxim ‘qui facit per alium facit per se' means:",
+      "bbox": [
+        41.903999999999996,
+        4.4639999999999995,
+        218.44799999999998,
+        10.943999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "\"4",
+      "bbox": [
+        73.728,
+        14.399999999999999,
+        87.696,
+        28.943999999999996
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "Ans",
+      "bbox": [
+        43.343999999999994,
+        17.567999999999998,
+        54.57599999999999,
+        22.319999999999997
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "1. he who acts through others is deemed in law as doing it himself.",
+      "bbox": [
+        88.55999999999999,
+        25.776,
+        290.448,
+        32.256
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "rad",
+      "bbox": [
+        72.43199999999999,
+        36.576,
+        87.11999999999999,
+        54.144
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "2. responsibility must not be that of the superior.",
+      "bbox": [
+        88.27199999999999,
+        47.232,
+        237.168,
+        53.568
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "x,",
+      "bbox": [
+        73.008,
+        58.608,
+        93.024,
+        73.728
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "a person is responsible for his wrongful acts.",
+      "bbox": [
+        95.616,
+        68.544,
+        229.96799999999996,
+        75.024
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "x,",
+      "bbox": [
+        73.008,
+        79.91999999999999,
+        93.024,
+        95.03999999999999
+      ]
+    },
+    {
+      "line_id": "l0009",
+      "text": "an agent is not liable to principal.",
+      "bbox": [
+        95.616,
+        90.0,
+        195.984,
+        96.336
+      ]
+    }
+  ],
+  "text": "Q.34 The maxim ‘qui facit per alium facit per se' means:\n\"4\nAns\n1. he who acts through others is deemed in law as doing it himself.\nrad\n2. responsibility must not be that of the superior.\nx,\na person is responsible for his wrongful acts.\nx,\nan agent is not liable to principal.",
+  "ocr_words": [
+    {
+      "text": "Q.34",
+      "x0": 41.903999999999996,
+      "top": 4.752,
+      "x1": 56.16,
+      "bottom": 10.367999999999999,
+      "confidence": 91.280396,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 62.495999999999995,
+      "top": 4.4639999999999995,
+      "x1": 73.58399999999999,
+      "bottom": 9.648,
+      "confidence": 96.2612,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "maxim",
+      "x0": 76.032,
+      "top": 4.608,
+      "x1": 96.336,
+      "bottom": 9.648,
+      "confidence": 95.806107,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "‘qui",
+      "x0": 98.928,
+      "top": 4.4639999999999995,
+      "x1": 109.728,
+      "bottom": 10.943999999999999,
+      "confidence": 85.541016,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "facit",
+      "x0": 111.88799999999999,
+      "top": 4.4639999999999995,
+      "x1": 125.27999999999999,
+      "bottom": 9.648,
+      "confidence": 91.284309,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "per",
+      "x0": 127.58399999999999,
+      "top": 6.047999999999999,
+      "x1": 137.51999999999998,
+      "bottom": 10.943999999999999,
+      "confidence": 93.203789,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "alium",
+      "x0": 139.536,
+      "top": 4.4639999999999995,
+      "x1": 156.38400000000001,
+      "bottom": 9.648,
+      "confidence": 91.859261,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "facit",
+      "x0": 158.688,
+      "top": 4.4639999999999995,
+      "x1": 171.93599999999998,
+      "bottom": 9.648,
+      "confidence": 92.69931,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "per",
+      "x0": 174.384,
+      "top": 6.047999999999999,
+      "x1": 184.176,
+      "bottom": 10.943999999999999,
+      "confidence": 93.035629,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "se'",
+      "x0": 186.33599999999998,
+      "top": 4.4639999999999995,
+      "x1": 194.112,
+      "bottom": 9.648,
+      "confidence": 73.836311,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "means:",
+      "x0": 196.70399999999998,
+      "top": 6.047999999999999,
+      "x1": 218.44799999999998,
+      "bottom": 9.648,
+      "confidence": 96.499153,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.343999999999994,
+      "top": 17.567999999999998,
+      "x1": 54.57599999999999,
+      "bottom": 22.319999999999997,
+      "confidence": 96.201401,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "\"4",
+      "x0": 73.728,
+      "top": 14.399999999999999,
+      "x1": 87.696,
+      "bottom": 28.943999999999996,
+      "confidence": 15.017235,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 88.55999999999999,
+      "top": 26.208,
+      "x1": 93.02399999999999,
+      "bottom": 30.959999999999997,
+      "confidence": 96.448738,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "he",
+      "x0": 95.904,
+      "top": 25.919999999999998,
+      "x1": 102.52799999999999,
+      "bottom": 30.959999999999997,
+      "confidence": 96.448738,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "who",
+      "x0": 104.832,
+      "top": 25.919999999999998,
+      "x1": 117.50399999999999,
+      "bottom": 30.959999999999997,
+      "confidence": 96.748764,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "acts",
+      "x0": 119.95199999999998,
+      "top": 26.639999999999997,
+      "x1": 131.47199999999998,
+      "bottom": 30.959999999999997,
+      "confidence": 96.81266,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "through",
+      "x0": 133.63199999999998,
+      "top": 25.919999999999998,
+      "x1": 157.39199999999997,
+      "bottom": 32.256,
+      "confidence": 95.816048,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "others",
+      "x0": 159.98399999999998,
+      "top": 25.919999999999998,
+      "x1": 178.992,
+      "bottom": 30.959999999999997,
+      "confidence": 96.231049,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "is",
+      "x0": 181.44,
+      "top": 26.063999999999997,
+      "x1": 185.328,
+      "bottom": 30.959999999999997,
+      "confidence": 96.35025,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "deemed",
+      "x0": 187.77599999999998,
+      "top": 25.919999999999998,
+      "x1": 211.82399999999998,
+      "bottom": 30.959999999999997,
+      "confidence": 94.770584,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "in",
+      "x0": 214.55999999999997,
+      "top": 26.063999999999997,
+      "x1": 219.31199999999998,
+      "bottom": 30.959999999999997,
+      "confidence": 94.770584,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "law",
+      "x0": 222.04799999999997,
+      "top": 25.919999999999998,
+      "x1": 231.98399999999998,
+      "bottom": 30.959999999999997,
+      "confidence": 96.90213,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "as",
+      "x0": 234.14399999999998,
+      "top": 27.36,
+      "x1": 240.04799999999997,
+      "bottom": 30.96,
+      "confidence": 95.386269,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "doing",
+      "x0": 242.49599999999998,
+      "top": 25.919999999999998,
+      "x1": 258.912,
+      "bottom": 32.256,
+      "confidence": 95.386269,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "it",
+      "x0": 261.35999999999996,
+      "top": 26.063999999999997,
+      "x1": 264.816,
+      "bottom": 30.959999999999997,
+      "confidence": 96.117104,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "himself.",
+      "x0": 267.40799999999996,
+      "top": 25.776,
+      "x1": 290.448,
+      "bottom": 30.96,
+      "confidence": 96.646515,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "rad",
+      "x0": 72.43199999999999,
+      "top": 36.576,
+      "x1": 87.11999999999999,
+      "bottom": 54.144,
+      "confidence": 36.767387,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "2.",
+      "x0": 88.27199999999999,
+      "top": 47.519999999999996,
+      "x1": 93.02399999999999,
+      "bottom": 52.272,
+      "confidence": 95.688339,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "responsibility",
+      "x0": 95.904,
+      "top": 47.232,
+      "x1": 135.93599999999998,
+      "bottom": 53.568,
+      "confidence": 96.524689,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "must",
+      "x0": 138.23999999999998,
+      "top": 47.952,
+      "x1": 152.92799999999997,
+      "bottom": 52.416,
+      "confidence": 96.81472,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "not",
+      "x0": 155.37599999999998,
+      "top": 47.952,
+      "x1": 165.02399999999997,
+      "bottom": 52.416,
+      "confidence": 95.854378,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "be",
+      "x0": 167.47199999999998,
+      "top": 47.232,
+      "x1": 174.23999999999998,
+      "bottom": 52.416,
+      "confidence": 96.082939,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "that",
+      "x0": 176.39999999999998,
+      "top": 47.232,
+      "x1": 188.64,
+      "bottom": 52.416,
+      "confidence": 96.082939,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "of",
+      "x0": 190.944,
+      "top": 47.232,
+      "x1": 196.84799999999998,
+      "bottom": 52.416,
+      "confidence": 96.404724,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "the",
+      "x0": 198.576,
+      "top": 47.232,
+      "x1": 208.368,
+      "bottom": 52.416,
+      "confidence": 96.938721,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "superior.",
+      "x0": 210.672,
+      "top": 47.519999999999996,
+      "x1": 237.168,
+      "bottom": 53.568,
+      "confidence": 96.524673,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "x,",
+      "x0": 73.008,
+      "top": 58.608,
+      "x1": 93.024,
+      "bottom": 73.728,
+      "confidence": 58.334736,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "a",
+      "x0": 95.616,
+      "top": 70.128,
+      "x1": 98.352,
+      "bottom": 73.728,
+      "confidence": 95.880081,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "person",
+      "x0": 101.088,
+      "top": 70.128,
+      "x1": 121.10399999999998,
+      "bottom": 75.024,
+      "confidence": 94.984802,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "is",
+      "x0": 123.83999999999999,
+      "top": 68.832,
+      "x1": 127.728,
+      "bottom": 73.728,
+      "confidence": 94.984802,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "responsible",
+      "x0": 130.32,
+      "top": 68.544,
+      "x1": 164.44799999999998,
+      "bottom": 75.024,
+      "confidence": 96.45993,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "for",
+      "x0": 166.75199999999998,
+      "top": 68.544,
+      "x1": 175.248,
+      "bottom": 73.728,
+      "confidence": 96.738281,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "his",
+      "x0": 177.696,
+      "top": 68.544,
+      "x1": 185.472,
+      "bottom": 73.728,
+      "confidence": 96.753723,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "wrongful",
+      "x0": 187.63199999999998,
+      "top": 68.544,
+      "x1": 214.27199999999996,
+      "bottom": 75.024,
+      "confidence": 96.383324,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "acts.",
+      "x0": 216.86399999999998,
+      "top": 69.264,
+      "x1": 229.96799999999996,
+      "bottom": 73.728,
+      "confidence": 96.989479,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "x,",
+      "x0": 73.008,
+      "top": 79.91999999999999,
+      "x1": 93.024,
+      "bottom": 95.03999999999999,
+      "confidence": 52.774849,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "an",
+      "x0": 95.616,
+      "top": 91.44,
+      "x1": 102.24,
+      "bottom": 95.03999999999999,
+      "confidence": 96.102509,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "agent",
+      "x0": 104.832,
+      "top": 90.72,
+      "x1": 121.53599999999999,
+      "bottom": 96.336,
+      "confidence": 96.484421,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "is",
+      "x0": 123.984,
+      "top": 90.14399999999999,
+      "x1": 127.872,
+      "bottom": 95.03999999999999,
+      "confidence": 96.708794,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "not",
+      "x0": 130.464,
+      "top": 90.72,
+      "x1": 140.112,
+      "bottom": 95.03999999999999,
+      "confidence": 96.937309,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "liable",
+      "x0": 142.56,
+      "top": 90.0,
+      "x1": 157.968,
+      "bottom": 95.04,
+      "confidence": 95.558525,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "to",
+      "x0": 160.272,
+      "top": 90.72,
+      "x1": 166.176,
+      "bottom": 95.03999999999999,
+      "confidence": 96.682587,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "principal.",
+      "x0": 168.768,
+      "top": 90.0,
+      "x1": 195.984,
+      "bottom": 96.336,
+      "confidence": 95.484756,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

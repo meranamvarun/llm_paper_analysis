@@ -1,0 +1,329 @@
+{
+  "pdf_page": 425,
+  "crop_top": 9.68,
+  "crop_bottom": 110.8,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0424:l0051:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "An agreement not enforceable by law is:",
+      "bbox": [
+        37.583999999999996,
+        4.032,
+        228.672,
+        14.256
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Options :",
+      "bbox": [
+        37.872,
+        21.168,
+        73.87199999999999,
+        29.375999999999998
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "1. ¥ yoid",
+      "bbox": [
+        39.023999999999994,
+        33.696,
+        84.23999999999998,
+        43.056
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "2. ® yoidable",
+      "bbox": [
+        38.303999999999995,
+        51.696,
+        104.39999999999998,
+        61.056
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "3. ® yalid",
+      "bbox": [
+        38.303999999999995,
+        69.55199999999999,
+        87.11999999999999,
+        79.05599999999998
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "4 ® contract",
+      "bbox": [
+        38.303999999999995,
+        87.55199999999999,
+        111.6,
+        96.91199999999999
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "a",
+      "bbox": [
+        64.22399999999999,
+        91.15199999999999,
+        69.264,
+        96.91199999999999
+      ]
+    }
+  ],
+  "text": "An agreement not enforceable by law is:\nOptions :\n1. ¥ yoid\n2. ® yoidable\n3. ® yalid\n4 ® contract\na",
+  "ocr_words": [
+    {
+      "text": "An",
+      "x0": 37.583999999999996,
+      "top": 4.752,
+      "x1": 50.544,
+      "bottom": 11.951999999999998,
+      "confidence": 90.802933,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "agreement",
+      "x0": 54.144,
+      "top": 5.4719999999999995,
+      "x1": 103.67999999999999,
+      "bottom": 14.255999999999998,
+      "confidence": 71.099777,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "not",
+      "x0": 107.27999999999999,
+      "top": 5.4719999999999995,
+      "x1": 122.39999999999999,
+      "bottom": 11.951999999999998,
+      "confidence": 95.77594,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "enforceable",
+      "x0": 125.99999999999999,
+      "top": 4.032,
+      "x1": 181.296,
+      "bottom": 11.951999999999998,
+      "confidence": 31.752022,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "by",
+      "x0": 184.896,
+      "top": 4.752,
+      "x1": 196.416,
+      "bottom": 14.256,
+      "confidence": 95.557518,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "law",
+      "x0": 200.016,
+      "top": 4.752,
+      "x1": 216.576,
+      "bottom": 11.951999999999998,
+      "confidence": 96.027428,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is:",
+      "x0": 219.456,
+      "top": 4.752,
+      "x1": 228.672,
+      "bottom": 11.951999999999998,
+      "confidence": 95.943153,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Options",
+      "x0": 37.872,
+      "top": 21.168,
+      "x1": 68.832,
+      "bottom": 29.375999999999998,
+      "confidence": 93.211594,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": ":",
+      "x0": 72.43199999999999,
+      "top": 23.04,
+      "x1": 73.87199999999999,
+      "bottom": 27.648,
+      "confidence": 93.201317,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 39.023999999999994,
+      "top": 35.855999999999995,
+      "x1": 45.50399999999999,
+      "bottom": 43.056,
+      "confidence": 86.276375,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "¥",
+      "x0": 50.544,
+      "top": 33.696,
+      "x1": 60.623999999999995,
+      "bottom": 41.616,
+      "confidence": 74.210312,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "yoid",
+      "x0": 64.22399999999999,
+      "top": 35.855999999999995,
+      "x1": 84.23999999999998,
+      "bottom": 43.056,
+      "confidence": 74.560616,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2.",
+      "x0": 38.303999999999995,
+      "top": 53.855999999999995,
+      "x1": 45.50399999999999,
+      "bottom": 61.056,
+      "confidence": 74.688759,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "®",
+      "x0": 51.983999999999995,
+      "top": 51.696,
+      "x1": 58.46399999999999,
+      "bottom": 58.175999999999995,
+      "confidence": 60.147385,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "yoidable",
+      "x0": 64.22399999999999,
+      "top": 53.855999999999995,
+      "x1": 104.39999999999998,
+      "bottom": 61.056,
+      "confidence": 79.689941,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "3.",
+      "x0": 38.303999999999995,
+      "top": 71.71199999999999,
+      "x1": 45.50399999999999,
+      "bottom": 79.05599999999998,
+      "confidence": 79.428062,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "®",
+      "x0": 51.983999999999995,
+      "top": 69.55199999999999,
+      "x1": 58.46399999999999,
+      "bottom": 76.17599999999999,
+      "confidence": 53.191456,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "yalid",
+      "x0": 64.22399999999999,
+      "top": 71.71199999999999,
+      "x1": 87.11999999999999,
+      "bottom": 79.05599999999998,
+      "confidence": 84.031151,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "4",
+      "x0": 38.303999999999995,
+      "top": 89.71199999999999,
+      "x1": 45.50399999999999,
+      "bottom": 96.91199999999999,
+      "confidence": 84.117432,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "®",
+      "x0": 51.983999999999995,
+      "top": 87.55199999999999,
+      "x1": 58.46399999999999,
+      "bottom": 94.032,
+      "confidence": 69.666183,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 64.22399999999999,
+      "top": 91.15199999999999,
+      "x1": 69.264,
+      "bottom": 96.91199999999999,
+      "confidence": 64.417023,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "contract",
+      "x0": 72.86399999999999,
+      "top": 90.43199999999999,
+      "x1": 111.6,
+      "bottom": 96.91199999999999,
+      "confidence": 84.622116,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

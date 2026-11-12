@@ -1,0 +1,265 @@
+{
+  "pdf_page": 307,
+  "crop_top": 477.3827999999999,
+  "crop_bottom": 530.5028,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0307:l0018:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "98. ‘Jus gentium’is body of:",
+      "bbox": [
+        46.8,
+        4.68,
+        204.29999999999998,
+        15.12
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "a",
+      "bbox": [
+        157.32,
+        7.739999999999999,
+        162.72,
+        13.139999999999999
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(A) International Statutes (B) Decisions of ICJ",
+      "bbox": [
+        75.24,
+        23.4,
+        411.84,
+        33.66
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(C) International Conventions (D) International Customs",
+      "bbox": [
+        75.24,
+        38.879999999999995,
+        445.32,
+        49.13999999999999
+      ]
+    }
+  ],
+  "text": "98. ‘Jus gentium’is body of:\na\n(A) International Statutes (B) Decisions of ICJ\n(C) International Conventions (D) International Customs",
+  "ocr_words": [
+    {
+      "text": "98.",
+      "x0": 46.8,
+      "top": 5.22,
+      "x1": 60.66,
+      "bottom": 13.14,
+      "confidence": 93.359482,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "‘Jus",
+      "x0": 75.96,
+      "top": 4.859999999999999,
+      "x1": 94.85999999999999,
+      "bottom": 13.139999999999999,
+      "confidence": 72.645302,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "gentium’is",
+      "x0": 97.92,
+      "top": 4.859999999999999,
+      "x1": 153.36,
+      "bottom": 15.12,
+      "confidence": 89.728325,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 157.32,
+      "top": 7.739999999999999,
+      "x1": 162.72,
+      "bottom": 13.139999999999999,
+      "confidence": 94.002457,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "body",
+      "x0": 166.14,
+      "top": 4.859999999999999,
+      "x1": 189.71999999999997,
+      "bottom": 15.12,
+      "confidence": 96.332718,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of:",
+      "x0": 193.14,
+      "top": 4.68,
+      "x1": 204.29999999999998,
+      "bottom": 13.139999999999999,
+      "confidence": 96.891678,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 75.24,
+      "top": 23.4,
+      "x1": 89.1,
+      "bottom": 33.66,
+      "confidence": 89.905098,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "International",
+      "x0": 103.32,
+      "top": 23.4,
+      "x1": 171.0,
+      "bottom": 31.68,
+      "confidence": 89.905098,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Statutes",
+      "x0": 174.95999999999998,
+      "top": 23.4,
+      "x1": 217.07999999999998,
+      "bottom": 31.68,
+      "confidence": 96.114265,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(B)",
+      "x0": 302.21999999999997,
+      "top": 23.4,
+      "x1": 316.08,
+      "bottom": 33.66,
+      "confidence": 91.962852,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Decisions",
+      "x0": 330.3,
+      "top": 23.4,
+      "x1": 377.82,
+      "bottom": 31.68,
+      "confidence": 88.18959,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 381.78,
+      "top": 23.4,
+      "x1": 391.14,
+      "bottom": 31.68,
+      "confidence": 93.26741,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "ICJ",
+      "x0": 394.02,
+      "top": 23.4,
+      "x1": 411.84,
+      "bottom": 31.68,
+      "confidence": 89.108658,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(C)",
+      "x0": 75.24,
+      "top": 38.879999999999995,
+      "x1": 89.1,
+      "bottom": 49.13999999999999,
+      "confidence": 92.698692,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "International",
+      "x0": 103.32,
+      "top": 38.879999999999995,
+      "x1": 171.0,
+      "bottom": 47.16,
+      "confidence": 91.723648,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Conventions",
+      "x0": 175.14,
+      "top": 38.879999999999995,
+      "x1": 237.23999999999998,
+      "bottom": 47.16,
+      "confidence": 96.282875,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(D)",
+      "x0": 302.21999999999997,
+      "top": 38.879999999999995,
+      "x1": 316.61999999999995,
+      "bottom": 49.13999999999999,
+      "confidence": 89.872612,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "International",
+      "x0": 330.3,
+      "top": 38.879999999999995,
+      "x1": 398.16,
+      "bottom": 47.16,
+      "confidence": 93.741302,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Customs",
+      "x0": 402.12,
+      "top": 38.879999999999995,
+      "x1": 445.32,
+      "bottom": 47.16,
+      "confidence": 96.402039,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

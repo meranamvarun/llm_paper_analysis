@@ -1,0 +1,539 @@
+{
+  "pdf_page": 387,
+  "crop_top": 733.60137,
+  "crop_bottom": 801.12137,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0387:l0046:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.37_ Who summarized Austin's thesis by stating that \"this, at first sight, looks like a circular reasoning. Law is law since it is made by the Sovereign. The Sovereign",
+      "bbox": [
+        41.903999999999996,
+        4.4639999999999995,
+        548.928,
+        10.943999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "is Sovereign because he makes the law\"?",
+      "bbox": [
+        62.78399999999999,
+        13.823999999999998,
+        189.504,
+        20.304
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "Ans",
+      "bbox": [
+        43.343999999999994,
+        26.927999999999997,
+        54.57599999999999,
+        31.823999999999998
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "1. Fuller",
+      "bbox": [
+        88.55999999999999,
+        35.279999999999994,
+        112.32,
+        40.46399999999999
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": ".",
+      "bbox": [
+        76.896,
+        51.12,
+        80.496,
+        59.184
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "2. Buckland",
+      "bbox": [
+        88.27199999999999,
+        56.592,
+        122.544,
+        61.775999999999996
+      ]
+    }
+  ],
+  "text": "Q.37_ Who summarized Austin's thesis by stating that \"this, at first sight, looks like a circular reasoning. Law is law since it is made by the Sovereign. The Sovereign\nis Sovereign because he makes the law\"?\nAns\n1. Fuller\n.\n2. Buckland",
+  "ocr_words": [
+    {
+      "text": "Q.37_",
+      "x0": 41.903999999999996,
+      "top": 4.752,
+      "x1": 56.01599999999999,
+      "bottom": 10.512,
+      "confidence": 0.0,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Who",
+      "x0": 62.495999999999995,
+      "top": 4.608,
+      "x1": 76.89599999999999,
+      "bottom": 9.648,
+      "confidence": 95.452515,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "summarized",
+      "x0": 79.19999999999999,
+      "top": 4.608,
+      "x1": 116.63999999999999,
+      "bottom": 9.648,
+      "confidence": 95.452515,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Austin's",
+      "x0": 118.94399999999999,
+      "top": 4.4639999999999995,
+      "x1": 143.42399999999998,
+      "bottom": 9.648,
+      "confidence": 96.357117,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "thesis",
+      "x0": 145.44,
+      "top": 4.608,
+      "x1": 163.296,
+      "bottom": 9.648,
+      "confidence": 96.801033,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "by",
+      "x0": 165.744,
+      "top": 4.608,
+      "x1": 172.8,
+      "bottom": 10.943999999999999,
+      "confidence": 96.201889,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "stating",
+      "x0": 174.81599999999997,
+      "top": 4.608,
+      "x1": 195.69599999999997,
+      "bottom": 10.943999999999999,
+      "confidence": 96.090294,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "that",
+      "x0": 197.56799999999998,
+      "top": 4.608,
+      "x1": 210.23999999999998,
+      "bottom": 9.648,
+      "confidence": 96.200371,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "\"this,",
+      "x0": 212.54399999999998,
+      "top": 4.4639999999999995,
+      "x1": 228.528,
+      "bottom": 10.655999999999999,
+      "confidence": 96.417641,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "at",
+      "x0": 230.832,
+      "top": 5.183999999999999,
+      "x1": 236.59199999999998,
+      "bottom": 9.648,
+      "confidence": 97.010666,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "first",
+      "x0": 238.60799999999998,
+      "top": 4.4639999999999995,
+      "x1": 250.84799999999998,
+      "bottom": 9.648,
+      "confidence": 96.984108,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "sight,",
+      "x0": 253.00799999999998,
+      "top": 4.608,
+      "x1": 269.28,
+      "bottom": 10.943999999999999,
+      "confidence": 96.770973,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "looks",
+      "x0": 271.87199999999996,
+      "top": 4.608,
+      "x1": 287.568,
+      "bottom": 9.648,
+      "confidence": 96.781982,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "like",
+      "x0": 290.01599999999996,
+      "top": 4.608,
+      "x1": 300.38399999999996,
+      "bottom": 9.648,
+      "confidence": 96.871468,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 302.544,
+      "top": 6.047999999999999,
+      "x1": 305.568,
+      "bottom": 9.648,
+      "confidence": 96.820961,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "circular",
+      "x0": 308.01599999999996,
+      "top": 4.608,
+      "x1": 330.62399999999997,
+      "bottom": 9.648,
+      "confidence": 96.286125,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "reasoning.",
+      "x0": 332.928,
+      "top": 4.608,
+      "x1": 364.608,
+      "bottom": 10.943999999999999,
+      "confidence": 96.532387,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Law",
+      "x0": 367.344,
+      "top": 4.896,
+      "x1": 379.152,
+      "bottom": 9.648,
+      "confidence": 96.85479,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 381.31199999999995,
+      "top": 4.608,
+      "x1": 385.48799999999994,
+      "bottom": 9.648,
+      "confidence": 96.132355,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "law",
+      "x0": 387.936,
+      "top": 4.608,
+      "x1": 398.448,
+      "bottom": 9.648,
+      "confidence": 96.132355,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "since",
+      "x0": 400.60799999999995,
+      "top": 4.608,
+      "x1": 415.72799999999995,
+      "bottom": 9.648,
+      "confidence": 95.594818,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "it",
+      "x0": 418.176,
+      "top": 4.608,
+      "x1": 422.06399999999996,
+      "bottom": 9.648,
+      "confidence": 96.275604,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 424.368,
+      "top": 4.608,
+      "x1": 428.544,
+      "bottom": 9.648,
+      "confidence": 96.410973,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "made",
+      "x0": 430.99199999999996,
+      "top": 4.608,
+      "x1": 447.69599999999997,
+      "bottom": 9.648,
+      "confidence": 96.552696,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "by",
+      "x0": 450.14399999999995,
+      "top": 4.608,
+      "x1": 457.19999999999993,
+      "bottom": 10.943999999999999,
+      "confidence": 96.600517,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 459.07199999999995,
+      "top": 4.608,
+      "x1": 469.0079999999999,
+      "bottom": 9.648,
+      "confidence": 96.180824,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Sovereign.",
+      "x0": 471.31199999999995,
+      "top": 4.608,
+      "x1": 503.28,
+      "bottom": 10.943999999999999,
+      "confidence": 96.2472,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 505.58399999999995,
+      "top": 4.608,
+      "x1": 516.6719999999999,
+      "bottom": 9.648,
+      "confidence": 96.820206,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Sovereign",
+      "x0": 518.976,
+      "top": 4.608,
+      "x1": 548.928,
+      "bottom": 10.943999999999999,
+      "confidence": 96.435921,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 62.78399999999999,
+      "top": 13.967999999999998,
+      "x1": 66.96,
+      "bottom": 19.008,
+      "confidence": 95.950508,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Sovereign",
+      "x0": 69.11999999999999,
+      "top": 13.967999999999998,
+      "x1": 99.21599999999998,
+      "bottom": 20.304,
+      "confidence": 95.950508,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "because",
+      "x0": 101.80799999999999,
+      "top": 13.967999999999998,
+      "x1": 126.43199999999999,
+      "bottom": 19.008,
+      "confidence": 96.312004,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "he",
+      "x0": 128.88,
+      "top": 13.967999999999998,
+      "x1": 135.936,
+      "bottom": 19.008,
+      "confidence": 96.012672,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "makes",
+      "x0": 138.384,
+      "top": 13.967999999999998,
+      "x1": 157.968,
+      "bottom": 19.008,
+      "confidence": 96.169365,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 159.98399999999998,
+      "top": 13.967999999999998,
+      "x1": 169.92,
+      "bottom": 19.008,
+      "confidence": 94.506042,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "law\"?",
+      "x0": 172.368,
+      "top": 13.823999999999998,
+      "x1": 189.504,
+      "bottom": 19.007999999999996,
+      "confidence": 94.970329,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.343999999999994,
+      "top": 26.927999999999997,
+      "x1": 54.57599999999999,
+      "bottom": 31.823999999999998,
+      "confidence": 96.34977,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1.",
+      "x0": 88.55999999999999,
+      "top": 35.568,
+      "x1": 93.02399999999999,
+      "bottom": 40.32,
+      "confidence": 96.647629,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Fuller",
+      "x0": 95.904,
+      "top": 35.279999999999994,
+      "x1": 112.32,
+      "bottom": 40.46399999999999,
+      "confidence": 96.739159,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": ".",
+      "x0": 76.896,
+      "top": 51.12,
+      "x1": 80.496,
+      "bottom": 59.184,
+      "confidence": 0.0,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2.",
+      "x0": 88.27199999999999,
+      "top": 56.879999999999995,
+      "x1": 93.02399999999999,
+      "bottom": 61.775999999999996,
+      "confidence": 96.662117,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Buckland",
+      "x0": 95.904,
+      "top": 56.592,
+      "x1": 122.544,
+      "bottom": 61.775999999999996,
+      "confidence": 95.921806,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

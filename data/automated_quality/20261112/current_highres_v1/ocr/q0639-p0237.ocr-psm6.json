@@ -1,0 +1,999 @@
+{
+  "pdf_page": 237,
+  "crop_top": 625.332,
+  "crop_bottom": 751.9119999999999,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0237:l0036:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "40. Based on the given excerpt, which of the following 1s correct?",
+      "bbox": [
+        72.14399999999999,
+        5.183999999999999,
+        391.53599999999994,
+        16.128
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "(A) Ifthe acceptance is conditional, offer can be withdrawn at any moment until absolute",
+      "bbox": [
+        100.51199999999999,
+        20.447999999999997,
+        521.136,
+        31.392
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "acceptance has taken place.",
+      "bbox": [
+        122.112,
+        34.128,
+        254.16,
+        46.224
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(B) If the acceptance 1s conditional or 1s not final, then there is a concluded contract.",
+      "bbox": [
+        100.51199999999999,
+        49.967999999999996,
+        506.73599999999993,
+        60.912
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(C) If there is no concluded contract, still the liability to pay damages may arise.",
+      "bbox": [
+        100.51199999999999,
+        65.952,
+        487.584,
+        76.896
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "(D) If the acceptance is conditional, offer cannot be withdrawn at any moment until",
+      "bbox": [
+        100.51199999999999,
+        81.93599999999999,
+        512.64,
+        92.88
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "absolute acceptance has takenplace.",
+      "bbox": [
+        122.112,
+        95.616,
+        296.496,
+        106.56
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "CORRECT OPTION: A",
+      "bbox": [
+        72.43199999999999,
+        112.032,
+        197.856,
+        120.384
+      ]
+    }
+  ],
+  "text": "40. Based on the given excerpt, which of the following 1s correct?\n(A) Ifthe acceptance is conditional, offer can be withdrawn at any moment until absolute\nacceptance has taken place.\n(B) If the acceptance 1s conditional or 1s not final, then there is a concluded contract.\n(C) If there is no concluded contract, still the liability to pay damages may arise.\n(D) If the acceptance is conditional, offer cannot be withdrawn at any moment until\nabsolute acceptance has takenplace.\nCORRECT OPTION: A",
+  "ocr_words": [
+    {
+      "text": "40.",
+      "x0": 72.14399999999999,
+      "top": 5.4719999999999995,
+      "x1": 84.96,
+      "bottom": 13.68,
+      "confidence": 93.605682,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Based",
+      "x0": 94.60799999999999,
+      "top": 5.183999999999999,
+      "x1": 124.12799999999999,
+      "bottom": 13.679999999999998,
+      "confidence": 93.605682,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "on",
+      "x0": 127.43999999999998,
+      "top": 8.064,
+      "x1": 139.10399999999998,
+      "bottom": 13.68,
+      "confidence": 96.77713,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 142.128,
+      "top": 5.183999999999999,
+      "x1": 156.384,
+      "bottom": 13.679999999999998,
+      "confidence": 96.382812,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "given",
+      "x0": 159.83999999999997,
+      "top": 5.183999999999999,
+      "x1": 186.04799999999997,
+      "bottom": 16.128,
+      "confidence": 96.50135,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "excerpt,",
+      "x0": 189.21599999999998,
+      "top": 6.4799999999999995,
+      "x1": 227.51999999999998,
+      "bottom": 16.128,
+      "confidence": 95.771912,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "which",
+      "x0": 230.97599999999997,
+      "top": 5.183999999999999,
+      "x1": 260.64,
+      "bottom": 13.679999999999998,
+      "confidence": 96.492531,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 263.952,
+      "top": 5.183999999999999,
+      "x1": 274.896,
+      "bottom": 13.679999999999998,
+      "confidence": 95.704056,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 276.33599999999996,
+      "top": 5.183999999999999,
+      "x1": 290.448,
+      "bottom": 13.679999999999998,
+      "confidence": 95.704056,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 293.904,
+      "top": 5.183999999999999,
+      "x1": 339.984,
+      "bottom": 16.128,
+      "confidence": 96.300903,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1s",
+      "x0": 342.57599999999996,
+      "top": 5.183999999999999,
+      "x1": 349.77599999999995,
+      "bottom": 13.679999999999998,
+      "confidence": 75.670906,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "correct?",
+      "x0": 353.23199999999997,
+      "top": 5.4719999999999995,
+      "x1": 391.53599999999994,
+      "bottom": 13.68,
+      "confidence": 96.888916,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 100.51199999999999,
+      "top": 20.447999999999997,
+      "x1": 113.61599999999999,
+      "bottom": 31.247999999999998,
+      "confidence": 92.465866,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Ifthe",
+      "x0": 121.96799999999999,
+      "top": 20.447999999999997,
+      "x1": 146.44799999999998,
+      "bottom": 28.943999999999996,
+      "confidence": 92.465866,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "acceptance",
+      "x0": 149.184,
+      "top": 21.599999999999998,
+      "x1": 202.896,
+      "bottom": 31.391999999999996,
+      "confidence": 94.33242,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "is",
+      "x0": 205.92,
+      "top": 20.447999999999997,
+      "x1": 213.26399999999998,
+      "bottom": 28.943999999999996,
+      "confidence": 93.235199,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "conditional,",
+      "x0": 215.99999999999997,
+      "top": 20.447999999999997,
+      "x1": 273.31199999999995,
+      "bottom": 30.815999999999995,
+      "confidence": 96.464188,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "offer",
+      "x0": 275.616,
+      "top": 20.447999999999997,
+      "x1": 299.664,
+      "bottom": 28.943999999999996,
+      "confidence": 96.090248,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "can",
+      "x0": 304.56,
+      "top": 23.328,
+      "x1": 318.528,
+      "bottom": 28.944,
+      "confidence": 84.421638,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "be",
+      "x0": 321.69599999999997,
+      "top": 20.447999999999997,
+      "x1": 331.2,
+      "bottom": 28.943999999999996,
+      "confidence": 84.421638,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "withdrawn",
+      "x0": 333.792,
+      "top": 20.447999999999997,
+      "x1": 385.056,
+      "bottom": 28.943999999999996,
+      "confidence": 96.583221,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "at",
+      "x0": 387.64799999999997,
+      "top": 21.599999999999998,
+      "x1": 395.856,
+      "bottom": 28.943999999999996,
+      "confidence": 96.122787,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "any",
+      "x0": 398.01599999999996,
+      "top": 23.328,
+      "x1": 415.43999999999994,
+      "bottom": 31.392,
+      "confidence": 96.365265,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "moment",
+      "x0": 417.74399999999997,
+      "top": 21.599999999999998,
+      "x1": 457.48799999999994,
+      "bottom": 28.943999999999996,
+      "confidence": 96.428452,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "until",
+      "x0": 459.35999999999996,
+      "top": 20.447999999999997,
+      "x1": 481.1039999999999,
+      "bottom": 28.943999999999996,
+      "confidence": 96.5168,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "absolute",
+      "x0": 483.26399999999995,
+      "top": 20.447999999999997,
+      "x1": 521.136,
+      "bottom": 28.943999999999996,
+      "confidence": 96.203094,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "acceptance",
+      "x0": 122.112,
+      "top": 36.0,
+      "x1": 175.82399999999998,
+      "bottom": 45.647999999999996,
+      "confidence": 96.487854,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "has",
+      "x0": 179.712,
+      "top": 34.704,
+      "x1": 195.408,
+      "bottom": 43.2,
+      "confidence": 96.591507,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "taken",
+      "x0": 199.58399999999997,
+      "top": 34.128,
+      "x1": 222.33599999999998,
+      "bottom": 46.224,
+      "confidence": 79.890594,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "place.",
+      "x0": 226.368,
+      "top": 34.128,
+      "x1": 254.16,
+      "bottom": 46.224,
+      "confidence": 79.890594,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(B)",
+      "x0": 100.51199999999999,
+      "top": 49.967999999999996,
+      "x1": 112.89599999999999,
+      "bottom": 60.91199999999999,
+      "confidence": 91.557861,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "If",
+      "x0": 121.96799999999999,
+      "top": 49.967999999999996,
+      "x1": 130.75199999999998,
+      "bottom": 58.31999999999999,
+      "confidence": 73.392624,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "the",
+      "x0": 132.91199999999998,
+      "top": 49.967999999999996,
+      "x1": 147.02399999999997,
+      "bottom": 58.464,
+      "confidence": 73.392624,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "acceptance",
+      "x0": 150.624,
+      "top": 51.12,
+      "x1": 204.33599999999998,
+      "bottom": 60.912,
+      "confidence": 96.266258,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "1s",
+      "x0": 208.07999999999998,
+      "top": 49.967999999999996,
+      "x1": 215.27999999999997,
+      "bottom": 58.464,
+      "confidence": 84.396362,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "conditional",
+      "x0": 218.59199999999998,
+      "top": 49.967999999999996,
+      "x1": 272.01599999999996,
+      "bottom": 58.464,
+      "confidence": 95.91156,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "or",
+      "x0": 274.89599999999996,
+      "top": 52.848,
+      "x1": 284.68799999999993,
+      "bottom": 58.464,
+      "confidence": 96.950455,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "1s",
+      "x0": 287.568,
+      "top": 49.967999999999996,
+      "x1": 294.768,
+      "bottom": 58.464,
+      "confidence": 85.56353,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "not",
+      "x0": 297.936,
+      "top": 51.12,
+      "x1": 313.63199999999995,
+      "bottom": 58.464,
+      "confidence": 96.685974,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "final,",
+      "x0": 316.65599999999995,
+      "top": 49.967999999999996,
+      "x1": 340.99199999999996,
+      "bottom": 60.19199999999999,
+      "confidence": 96.651268,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "then",
+      "x0": 344.592,
+      "top": 49.967999999999996,
+      "x1": 365.328,
+      "bottom": 58.464,
+      "confidence": 96.418221,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "there",
+      "x0": 368.64,
+      "top": 49.967999999999996,
+      "x1": 392.11199999999997,
+      "bottom": 58.464,
+      "confidence": 96.932518,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "is",
+      "x0": 395.424,
+      "top": 49.967999999999996,
+      "x1": 402.62399999999997,
+      "bottom": 58.464,
+      "confidence": 96.131508,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "a",
+      "x0": 405.936,
+      "top": 52.848,
+      "x1": 410.832,
+      "bottom": 58.464,
+      "confidence": 96.824875,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "concluded",
+      "x0": 413.99999999999994,
+      "top": 49.967999999999996,
+      "x1": 463.67999999999995,
+      "bottom": 58.464,
+      "confidence": 96.414436,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "contract.",
+      "x0": 466.41599999999994,
+      "top": 51.12,
+      "x1": 506.73599999999993,
+      "bottom": 58.464,
+      "confidence": 96.045921,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(C)",
+      "x0": 100.51199999999999,
+      "top": 65.952,
+      "x1": 112.89599999999999,
+      "bottom": 76.752,
+      "confidence": 92.509872,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "If",
+      "x0": 121.96799999999999,
+      "top": 65.952,
+      "x1": 130.75199999999998,
+      "bottom": 74.304,
+      "confidence": 56.752323,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "there",
+      "x0": 132.91199999999998,
+      "top": 65.952,
+      "x1": 156.384,
+      "bottom": 74.448,
+      "confidence": 56.752323,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "is",
+      "x0": 159.696,
+      "top": 65.952,
+      "x1": 167.04,
+      "bottom": 74.448,
+      "confidence": 94.058365,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "no",
+      "x0": 170.064,
+      "top": 68.68799999999999,
+      "x1": 181.584,
+      "bottom": 74.448,
+      "confidence": 96.816765,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "concluded",
+      "x0": 185.32799999999997,
+      "top": 65.952,
+      "x1": 236.01599999999996,
+      "bottom": 74.448,
+      "confidence": 96.370392,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "contract,",
+      "x0": 239.47199999999998,
+      "top": 67.104,
+      "x1": 279.936,
+      "bottom": 76.176,
+      "confidence": 96.564995,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "still",
+      "x0": 283.536,
+      "top": 65.952,
+      "x1": 300.816,
+      "bottom": 74.448,
+      "confidence": 96.406609,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "the",
+      "x0": 303.55199999999996,
+      "top": 65.952,
+      "x1": 317.80799999999994,
+      "bottom": 74.448,
+      "confidence": 96.406609,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "liability",
+      "x0": 321.11999999999995,
+      "top": 65.952,
+      "x1": 358.12799999999993,
+      "bottom": 76.896,
+      "confidence": 96.375244,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "to",
+      "x0": 360.864,
+      "top": 67.104,
+      "x1": 369.792,
+      "bottom": 74.448,
+      "confidence": 96.403061,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "pay",
+      "x0": 372.816,
+      "top": 68.68799999999999,
+      "x1": 390.67199999999997,
+      "bottom": 76.89599999999999,
+      "confidence": 96.403061,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "damages",
+      "x0": 393.984,
+      "top": 65.952,
+      "x1": 435.59999999999997,
+      "bottom": 76.896,
+      "confidence": 90.504318,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "may",
+      "x0": 438.912,
+      "top": 68.68799999999999,
+      "x1": 459.936,
+      "bottom": 76.89599999999999,
+      "confidence": 96.736313,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "arise.",
+      "x0": 462.96,
+      "top": 65.952,
+      "x1": 487.584,
+      "bottom": 74.448,
+      "confidence": 96.390022,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "(D)",
+      "x0": 100.51199999999999,
+      "top": 81.93599999999999,
+      "x1": 113.61599999999999,
+      "bottom": 92.73599999999999,
+      "confidence": 92.818565,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "If",
+      "x0": 121.96799999999999,
+      "top": 81.93599999999999,
+      "x1": 130.75199999999998,
+      "bottom": 90.288,
+      "confidence": 87.62529,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "the",
+      "x0": 132.768,
+      "top": 81.93599999999999,
+      "x1": 146.88,
+      "bottom": 90.43199999999999,
+      "confidence": 87.62529,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "acceptance",
+      "x0": 150.624,
+      "top": 83.088,
+      "x1": 204.33599999999998,
+      "bottom": 92.88,
+      "confidence": 96.459045,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "is",
+      "x0": 208.65599999999998,
+      "top": 81.93599999999999,
+      "x1": 215.85599999999997,
+      "bottom": 90.43199999999999,
+      "confidence": 94.708824,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "conditional,",
+      "x0": 219.74399999999997,
+      "top": 81.93599999999999,
+      "x1": 276.62399999999997,
+      "bottom": 92.16,
+      "confidence": 96.254906,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "offer",
+      "x0": 281.08799999999997,
+      "top": 81.93599999999999,
+      "x1": 305.424,
+      "bottom": 90.43199999999999,
+      "confidence": 96.369141,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "cannot",
+      "x0": 309.59999999999997,
+      "top": 83.088,
+      "x1": 341.568,
+      "bottom": 90.43199999999999,
+      "confidence": 96.555656,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "be",
+      "x0": 345.024,
+      "top": 81.93599999999999,
+      "x1": 356.112,
+      "bottom": 90.43199999999999,
+      "confidence": 96.84465,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "withdrawn",
+      "x0": 359.856,
+      "top": 81.93599999999999,
+      "x1": 410.976,
+      "bottom": 90.43199999999999,
+      "confidence": 96.554733,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "at",
+      "x0": 414.43199999999996,
+      "top": 83.088,
+      "x1": 422.64,
+      "bottom": 90.43199999999999,
+      "confidence": 96.242729,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "any",
+      "x0": 426.38399999999996,
+      "top": 84.672,
+      "x1": 443.80799999999994,
+      "bottom": 92.88,
+      "confidence": 96.433449,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "moment",
+      "x0": 447.11999999999995,
+      "top": 83.088,
+      "x1": 487.43999999999994,
+      "bottom": 90.43199999999999,
+      "confidence": 96.315292,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "until",
+      "x0": 491.03999999999996,
+      "top": 81.93599999999999,
+      "x1": 512.64,
+      "bottom": 90.43199999999999,
+      "confidence": 96.455811,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "absolute",
+      "x0": 122.112,
+      "top": 95.616,
+      "x1": 162.144,
+      "bottom": 104.112,
+      "confidence": 96.041779,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "acceptance",
+      "x0": 166.03199999999998,
+      "top": 96.76799999999999,
+      "x1": 218.59199999999998,
+      "bottom": 106.55999999999999,
+      "confidence": 96.597038,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "has",
+      "x0": 222.48,
+      "top": 95.616,
+      "x1": 237.88799999999998,
+      "bottom": 104.112,
+      "confidence": 92.240257,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "takenplace.",
+      "x0": 241.48799999999997,
+      "top": 95.616,
+      "x1": 296.496,
+      "bottom": 106.56,
+      "confidence": 93.029091,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "CORRECT",
+      "x0": 72.43199999999999,
+      "top": 112.032,
+      "x1": 131.61599999999999,
+      "bottom": 120.384,
+      "confidence": 96.360687,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "OPTION:",
+      "x0": 135.504,
+      "top": 112.032,
+      "x1": 185.184,
+      "bottom": 120.384,
+      "confidence": 95.704483,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "A",
+      "x0": 189.504,
+      "top": 112.032,
+      "x1": 197.856,
+      "bottom": 120.096,
+      "confidence": 95.704483,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

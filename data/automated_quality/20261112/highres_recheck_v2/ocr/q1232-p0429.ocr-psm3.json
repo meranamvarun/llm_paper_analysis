@@ -1,0 +1,135 @@
+{
+  "pdf_page": 429,
+  "crop_top": 9.68,
+  "crop_bottom": 47.44,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0428:l0040:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "7",
+      "bbox": [
+        54.0,
+        3.2399999999999998,
+        58.68,
+        12.06
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "3. January, 1989",
+      "bbox": [
+        38.339999999999996,
+        6.3,
+        133.92,
+        15.84
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "4. * January, 2001",
+      "bbox": [
+        38.339999999999996,
+        22.14,
+        133.2,
+        33.84
+      ]
+    }
+  ],
+  "text": "7\n3. January, 1989\n4. * January, 2001",
+  "ocr_words": [
+    {
+      "text": "3.",
+      "x0": 38.339999999999996,
+      "top": 6.3,
+      "x1": 45.53999999999999,
+      "bottom": 13.5,
+      "confidence": 89.362411,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "7",
+      "x0": 54.0,
+      "top": 3.2399999999999998,
+      "x1": 58.68,
+      "bottom": 12.06,
+      "confidence": 43.063831,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "January,",
+      "x0": 64.25999999999999,
+      "top": 6.3,
+      "x1": 104.39999999999999,
+      "bottom": 15.84,
+      "confidence": 95.089027,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1989",
+      "x0": 110.16,
+      "top": 6.3,
+      "x1": 133.92,
+      "bottom": 13.5,
+      "confidence": 95.754066,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "4.",
+      "x0": 38.339999999999996,
+      "top": 24.3,
+      "x1": 45.53999999999999,
+      "bottom": 31.5,
+      "confidence": 39.607658,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "*",
+      "x0": 52.019999999999996,
+      "top": 22.14,
+      "x1": 58.49999999999999,
+      "bottom": 28.62,
+      "confidence": 39.607658,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "January,",
+      "x0": 64.25999999999999,
+      "top": 24.3,
+      "x1": 104.39999999999999,
+      "bottom": 33.84,
+      "confidence": 95.63279,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "2001",
+      "x0": 109.44,
+      "top": 24.3,
+      "x1": 133.2,
+      "bottom": 31.5,
+      "confidence": 95.394684,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

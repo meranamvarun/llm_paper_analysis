@@ -1,0 +1,295 @@
+{
+  "pdf_page": 383,
+  "crop_top": 36.16136000000006,
+  "crop_bottom": 124.32136000000003,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0382:l0050:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Ans a",
+      "bbox": [
+        43.379999999999995,
+        3.06,
+        86.75999999999999,
+        15.66
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "1. A righteous claim",
+      "bbox": [
+        88.56,
+        13.139999999999999,
+        147.6,
+        19.619999999999997
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "v,",
+      "bbox": [
+        73.8,
+        23.759999999999998,
+        93.06,
+        39.599999999999994
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "A legal claim",
+      "bbox": [
+        94.67999999999999,
+        33.839999999999996,
+        133.01999999999998,
+        41.94
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        45.9,
+        93.06,
+        61.199999999999996
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "A just claim",
+      "bbox": [
+        95.39999999999999,
+        55.98,
+        129.78,
+        62.459999999999994
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        67.14,
+        93.06,
+        82.26
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "A moral claim",
+      "bbox": [
+        95.39999999999999,
+        77.22,
+        136.62,
+        82.44
+      ]
+    }
+  ],
+  "text": "Ans a\n1. A righteous claim\nv,\nA legal claim\nx,\nA just claim\nx,\nA moral claim",
+  "ocr_words": [
+    {
+      "text": "Ans",
+      "x0": 43.379999999999995,
+      "top": 4.859999999999999,
+      "x1": 54.53999999999999,
+      "bottom": 9.719999999999999,
+      "confidence": 96.613808,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 73.08,
+      "top": 3.06,
+      "x1": 86.75999999999999,
+      "bottom": 15.66,
+      "confidence": 54.025227,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1.",
+      "x0": 88.56,
+      "top": 13.5,
+      "x1": 93.06,
+      "bottom": 18.18,
+      "confidence": 96.776726,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "A",
+      "x0": 95.39999999999999,
+      "top": 13.5,
+      "x1": 99.53999999999999,
+      "bottom": 18.18,
+      "confidence": 93.431297,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "righteous",
+      "x0": 101.88,
+      "top": 13.139999999999999,
+      "x1": 129.95999999999998,
+      "bottom": 19.619999999999997,
+      "confidence": 93.431297,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "claim",
+      "x0": 132.12,
+      "top": 13.139999999999999,
+      "x1": 147.6,
+      "bottom": 18.36,
+      "confidence": 96.046143,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "v,",
+      "x0": 73.8,
+      "top": 23.759999999999998,
+      "x1": 93.06,
+      "bottom": 39.599999999999994,
+      "confidence": 42.567997,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "A",
+      "x0": 94.67999999999999,
+      "top": 33.839999999999996,
+      "x1": 97.38,
+      "bottom": 41.94,
+      "confidence": 96.638031,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "legal",
+      "x0": 101.88,
+      "top": 34.56,
+      "x1": 115.02,
+      "bottom": 41.04,
+      "confidence": 96.638031,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "claim",
+      "x0": 117.53999999999999,
+      "top": 34.56,
+      "x1": 133.01999999999998,
+      "bottom": 39.78,
+      "confidence": 96.750008,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 45.9,
+      "x1": 93.06,
+      "bottom": 61.199999999999996,
+      "confidence": 61.451077,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "A",
+      "x0": 95.39999999999999,
+      "top": 56.339999999999996,
+      "x1": 98.1,
+      "bottom": 61.019999999999996,
+      "confidence": 93.601097,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "just",
+      "x0": 101.16,
+      "top": 56.16,
+      "x1": 112.32,
+      "bottom": 62.459999999999994,
+      "confidence": 93.601097,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "claim",
+      "x0": 114.47999999999999,
+      "top": 55.98,
+      "x1": 129.78,
+      "bottom": 61.199999999999996,
+      "confidence": 96.476204,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 67.14,
+      "x1": 93.06,
+      "bottom": 82.26,
+      "confidence": 73.773705,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "A",
+      "x0": 95.39999999999999,
+      "top": 77.58,
+      "x1": 99.53999999999999,
+      "bottom": 82.25999999999999,
+      "confidence": 92.40007,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "moral",
+      "x0": 101.88,
+      "top": 77.22,
+      "x1": 118.61999999999999,
+      "bottom": 82.44,
+      "confidence": 92.40007,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "claim",
+      "x0": 121.14,
+      "top": 77.22,
+      "x1": 136.62,
+      "bottom": 82.44,
+      "confidence": 96.081627,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

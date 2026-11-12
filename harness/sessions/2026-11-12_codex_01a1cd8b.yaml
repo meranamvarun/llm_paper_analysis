@@ -1,0 +1,40 @@
+# Harness session retro (schema 1), written by `harness.py retro`. See harness/README.md.
+schema: 1
+primary_researcher: "TO CONFIRM"
+session_id: "01a1cd8b-5bd5-7530-a8d4-0f9661fa87a8"
+tool: "codex"
+date: "2026-11-12"
+branch: "main"
+task_type: "tooling"
+task: "Clear extraction flags with source based repairs and retained evidence"
+outcome: "completed"
+urgent: false
+metrics:
+  source: "transcript"
+  api_calls: 149
+  input: 445685
+  cache_write: 0
+  cache_read: 24822272
+  output: 154648
+  total: 25422605
+  weighted: 4165096
+  peak_context: 326329
+  tool_calls: 147
+  tool_errors: 0
+  user_turns: 4
+  minutes: 978
+quality:
+  self_score: 4
+  user_score: null
+  user_note: ""
+  corrections: 0
+  rework: 3
+  checks: "Full corpus gate passed with no current flags; extraction tests and synthetic detector challenge and manifest verification passed"
+waste: "Initial crop registry included duplicate cache files and full page text included export boilerplate"
+lessons:
+  - tag: "quality"
+    rule: "Resolve source field boundaries and export metadata before evaluating text agreement"
+    evidence: "Metadata created spurious negation flags"
+rules_helped: ["T1", "T2", "Q1", "Q4", "Q5", "C1", "C2"]
+rules_missed: []
+handoff: "Final derived view and audit report ready; provenance and research coding remain separate work"

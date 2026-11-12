@@ -1,0 +1,438 @@
+{
+  "pdf_page": 398,
+  "crop_top": 36.16136000000006,
+  "crop_bottom": 124.32136000000003,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0397:l0049:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "'X' alone as legal representative",
+      "bbox": [
+        95.75999999999999,
+        12.959999999999999,
+        191.37599999999998,
+        19.439999999999998
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": ".",
+      "bbox": [
+        92.30399999999999,
+        17.279999999999998,
+        93.02399999999999,
+        18.144
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "'Y' alone as legal representative",
+      "bbox": [
+        95.75999999999999,
+        34.416,
+        191.08799999999997,
+        40.752
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": ".",
+      "bbox": [
+        92.30399999999999,
+        38.592,
+        93.02399999999999,
+        39.455999999999996
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "'X', 'Y' and the husband of Y as legal representatives",
+      "bbox": [
+        95.75999999999999,
+        55.151999999999994,
+        252.57599999999996,
+        62.78399999999999
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": ".",
+      "bbox": [
+        92.30399999999999,
+        60.047999999999995,
+        93.02399999999999,
+        60.91199999999999
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "'X' and 'Y' both, as legal representatives",
+      "bbox": [
+        95.75999999999999,
+        77.03999999999999,
+        215.424,
+        83.52
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": ".",
+      "bbox": [
+        92.30399999999999,
+        81.36,
+        93.02399999999999,
+        82.224
+      ]
+    }
+  ],
+  "text": "'X' alone as legal representative\n.\n'Y' alone as legal representative\n.\n'X', 'Y' and the husband of Y as legal representatives\n.\n'X' and 'Y' both, as legal representatives\n.",
+  "ocr_words": [
+    {
+      "text": ".",
+      "x0": 92.30399999999999,
+      "top": 17.279999999999998,
+      "x1": 93.02399999999999,
+      "bottom": 18.144,
+      "confidence": 61.398048,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "'X'",
+      "x0": 95.75999999999999,
+      "top": 12.959999999999999,
+      "x1": 101.95199999999998,
+      "bottom": 18.144,
+      "confidence": 61.398048,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "alone",
+      "x0": 104.544,
+      "top": 13.104,
+      "x1": 120.816,
+      "bottom": 18.144,
+      "confidence": 96.713493,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "as",
+      "x0": 123.11999999999999,
+      "top": 14.543999999999999,
+      "x1": 129.024,
+      "bottom": 18.144,
+      "confidence": 96.797729,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "legal",
+      "x0": 131.61599999999999,
+      "top": 13.104,
+      "x1": 144.86399999999998,
+      "bottom": 19.439999999999998,
+      "confidence": 96.426468,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "representative",
+      "x0": 147.6,
+      "top": 13.248,
+      "x1": 191.37599999999998,
+      "bottom": 19.439999999999998,
+      "confidence": 96.633698,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ".",
+      "x0": 92.30399999999999,
+      "top": 38.592,
+      "x1": 93.02399999999999,
+      "bottom": 39.455999999999996,
+      "confidence": 48.229591,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "'Y'",
+      "x0": 95.75999999999999,
+      "top": 34.416,
+      "x1": 101.80799999999999,
+      "bottom": 39.455999999999996,
+      "confidence": 48.229591,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "alone",
+      "x0": 104.25599999999999,
+      "top": 34.416,
+      "x1": 120.52799999999999,
+      "bottom": 39.599999999999994,
+      "confidence": 96.256271,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "as",
+      "x0": 122.97599999999998,
+      "top": 36.0,
+      "x1": 128.736,
+      "bottom": 39.6,
+      "confidence": 96.042763,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "legal",
+      "x0": 131.328,
+      "top": 34.416,
+      "x1": 144.576,
+      "bottom": 40.751999999999995,
+      "confidence": 96.765411,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "representative",
+      "x0": 147.31199999999998,
+      "top": 34.704,
+      "x1": 191.08799999999997,
+      "bottom": 40.752,
+      "confidence": 96.154205,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ".",
+      "x0": 92.30399999999999,
+      "top": 60.047999999999995,
+      "x1": 93.02399999999999,
+      "bottom": 60.91199999999999,
+      "confidence": 5.040909,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "'X',",
+      "x0": 95.75999999999999,
+      "top": 55.727999999999994,
+      "x1": 103.82399999999998,
+      "bottom": 61.919999999999995,
+      "confidence": 5.040909,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "'Y'",
+      "x0": 106.55999999999999,
+      "top": 55.727999999999994,
+      "x1": 112.46399999999998,
+      "bottom": 60.91199999999999,
+      "confidence": 88.181023,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 115.056,
+      "top": 55.727999999999994,
+      "x1": 125.568,
+      "bottom": 60.91199999999999,
+      "confidence": 96.53212,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 128.016,
+      "top": 55.727999999999994,
+      "x1": 137.664,
+      "bottom": 60.91199999999999,
+      "confidence": 96.054626,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "husband",
+      "x0": 140.39999999999998,
+      "top": 55.727999999999994,
+      "x1": 165.45599999999996,
+      "bottom": 60.91199999999999,
+      "confidence": 96.665138,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 166.03199999999998,
+      "top": 55.151999999999994,
+      "x1": 171.35999999999999,
+      "bottom": 62.78399999999999,
+      "confidence": 91.347015,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Y",
+      "x0": 174.95999999999998,
+      "top": 55.727999999999994,
+      "x1": 177.69599999999997,
+      "bottom": 60.91199999999999,
+      "confidence": 91.347015,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "as",
+      "x0": 181.296,
+      "top": 57.312,
+      "x1": 187.2,
+      "bottom": 60.912,
+      "confidence": 96.958832,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "legal",
+      "x0": 189.79199999999997,
+      "top": 55.727999999999994,
+      "x1": 203.03999999999996,
+      "bottom": 62.20799999999999,
+      "confidence": 96.584122,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "representatives",
+      "x0": 205.77599999999998,
+      "top": 56.016,
+      "x1": 252.57599999999996,
+      "bottom": 62.208,
+      "confidence": 96.394913,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ".",
+      "x0": 92.30399999999999,
+      "top": 81.36,
+      "x1": 93.02399999999999,
+      "bottom": 82.224,
+      "confidence": 52.588486,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "'X'",
+      "x0": 95.75999999999999,
+      "top": 77.03999999999999,
+      "x1": 101.95199999999998,
+      "bottom": 82.22399999999999,
+      "confidence": 52.588486,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 104.544,
+      "top": 77.184,
+      "x1": 115.056,
+      "bottom": 82.224,
+      "confidence": 89.782524,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "'Y'",
+      "x0": 117.93599999999999,
+      "top": 77.03999999999999,
+      "x1": 123.83999999999999,
+      "bottom": 82.22399999999999,
+      "confidence": 82.916824,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "both,",
+      "x0": 126.576,
+      "top": 77.184,
+      "x1": 141.696,
+      "bottom": 83.232,
+      "confidence": 96.717339,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "as",
+      "x0": 144.28799999999998,
+      "top": 78.624,
+      "x1": 150.19199999999998,
+      "bottom": 82.22399999999999,
+      "confidence": 96.591965,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "legal",
+      "x0": 152.784,
+      "top": 77.184,
+      "x1": 165.88799999999998,
+      "bottom": 83.52,
+      "confidence": 96.62513,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "representatives",
+      "x0": 168.768,
+      "top": 77.32799999999999,
+      "x1": 215.424,
+      "bottom": 83.51999999999998,
+      "confidence": 96.434402,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

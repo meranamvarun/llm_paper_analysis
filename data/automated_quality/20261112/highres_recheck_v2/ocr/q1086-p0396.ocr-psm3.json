@@ -1,0 +1,393 @@
+{
+  "pdf_page": 396,
+  "crop_top": 580.24136,
+  "crop_bottom": 681.36136,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0396:l0036:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.35 The International Criminal Court was established by:",
+      "bbox": [
+        41.94,
+        4.5,
+        225.18,
+        10.98
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Ans",
+      "bbox": [
+        43.379999999999995,
+        17.82,
+        54.53999999999999,
+        22.68
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "1. Rome Statute, 1998",
+      "bbox": [
+        88.56,
+        26.279999999999998,
+        155.52,
+        32.22
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        37.44,
+        93.06,
+        52.559999999999995
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "UN Charter, 1945",
+      "bbox": [
+        95.94,
+        47.519999999999996,
+        147.96,
+        53.63999999999999
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        58.86,
+        93.06,
+        74.16
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "League of Nations, 1919",
+      "bbox": [
+        95.94,
+        68.94,
+        168.48,
+        75.42
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        80.1,
+        93.06,
+        95.22
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "Hague Conference, 1907",
+      "bbox": [
+        95.94,
+        90.17999999999999,
+        169.92,
+        96.66
+      ]
+    }
+  ],
+  "text": "Q.35 The International Criminal Court was established by:\nAns\n1. Rome Statute, 1998\nx,\nUN Charter, 1945\nx,\nLeague of Nations, 1919\nx,\nHague Conference, 1907",
+  "ocr_words": [
+    {
+      "text": "Q.35",
+      "x0": 41.94,
+      "top": 4.68,
+      "x1": 55.98,
+      "bottom": 10.44,
+      "confidence": 92.752449,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 62.46,
+      "top": 4.5,
+      "x1": 73.62,
+      "bottom": 9.719999999999999,
+      "confidence": 96.502228,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "International",
+      "x0": 76.14,
+      "top": 4.5,
+      "x1": 115.92,
+      "bottom": 9.719999999999999,
+      "confidence": 95.726738,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Criminal",
+      "x0": 118.25999999999999,
+      "top": 4.5,
+      "x1": 143.64,
+      "bottom": 9.719999999999999,
+      "confidence": 96.3983,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Court",
+      "x0": 145.98,
+      "top": 4.68,
+      "x1": 162.89999999999998,
+      "bottom": 9.719999999999999,
+      "confidence": 95.667526,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "was",
+      "x0": 164.88,
+      "top": 5.9399999999999995,
+      "x1": 176.76,
+      "bottom": 9.719999999999999,
+      "confidence": 96.264191,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "established",
+      "x0": 178.92,
+      "top": 4.5,
+      "x1": 213.83999999999997,
+      "bottom": 9.719999999999999,
+      "confidence": 96.766098,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "by:",
+      "x0": 216.54,
+      "top": 4.5,
+      "x1": 225.18,
+      "bottom": 10.98,
+      "confidence": 96.039284,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.379999999999995,
+      "top": 17.82,
+      "x1": 54.53999999999999,
+      "bottom": 22.68,
+      "confidence": 96.662811,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 88.56,
+      "top": 26.459999999999997,
+      "x1": 93.06,
+      "bottom": 31.139999999999997,
+      "confidence": 95.673492,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Rome",
+      "x0": 95.94,
+      "top": 26.459999999999997,
+      "x1": 112.67999999999999,
+      "bottom": 31.319999999999997,
+      "confidence": 95.673492,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Statute,",
+      "x0": 115.02,
+      "top": 26.279999999999998,
+      "x1": 138.42,
+      "bottom": 32.22,
+      "confidence": 94.438652,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1998",
+      "x0": 141.12,
+      "top": 26.279999999999998,
+      "x1": 155.52,
+      "bottom": 31.319999999999997,
+      "confidence": 96.346085,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 37.44,
+      "x1": 93.06,
+      "bottom": 52.559999999999995,
+      "confidence": 63.019958,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "UN",
+      "x0": 95.94,
+      "top": 47.879999999999995,
+      "x1": 104.22,
+      "bottom": 52.739999999999995,
+      "confidence": 96.222214,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Charter,",
+      "x0": 106.92,
+      "top": 47.519999999999996,
+      "x1": 131.04,
+      "bottom": 53.63999999999999,
+      "confidence": 96.222214,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1945",
+      "x0": 133.74,
+      "top": 47.699999999999996,
+      "x1": 147.96,
+      "bottom": 52.739999999999995,
+      "confidence": 95.46022,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 58.86,
+      "x1": 93.06,
+      "bottom": 74.16,
+      "confidence": 71.5802,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "League",
+      "x0": 95.94,
+      "top": 69.3,
+      "x1": 116.64,
+      "bottom": 75.42,
+      "confidence": 96.380798,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 118.97999999999999,
+      "top": 68.94,
+      "x1": 124.91999999999999,
+      "bottom": 74.16,
+      "confidence": 96.380798,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Nations,",
+      "x0": 127.25999999999999,
+      "top": 69.12,
+      "x1": 151.56,
+      "bottom": 75.06,
+      "confidence": 96.341156,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1919",
+      "x0": 154.26,
+      "top": 69.12,
+      "x1": 168.48,
+      "bottom": 74.16000000000001,
+      "confidence": 96.341156,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 80.1,
+      "x1": 93.06,
+      "bottom": 95.22,
+      "confidence": 49.991737,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Hague",
+      "x0": 95.94,
+      "top": 90.53999999999999,
+      "x1": 114.3,
+      "bottom": 96.66,
+      "confidence": 96.803528,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Conference,",
+      "x0": 116.82,
+      "top": 90.17999999999999,
+      "x1": 153.0,
+      "bottom": 96.3,
+      "confidence": 95.871559,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1907",
+      "x0": 155.7,
+      "top": 90.36,
+      "x1": 169.92,
+      "bottom": 95.4,
+      "confidence": 96.314796,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

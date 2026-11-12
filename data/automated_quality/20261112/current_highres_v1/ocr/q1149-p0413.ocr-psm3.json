@@ -1,0 +1,199 @@
+{
+  "pdf_page": 413,
+  "crop_top": 9.68,
+  "crop_bottom": 81.03999999999999,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0412:l0044:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "1. * Puchta",
+      "bbox": [
+        39.023999999999994,
+        4.032,
+        96.47999999999999,
+        13.392
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "2. ® Fuller",
+      "bbox": [
+        38.303999999999995,
+        22.032,
+        90.71999999999998,
+        31.391999999999996
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "7",
+      "bbox": [
+        53.568,
+        39.168,
+        57.168,
+        47.952
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "3. Savigny",
+      "bbox": [
+        38.303999999999995,
+        42.192,
+        101.51999999999998,
+        51.696
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "4. ® Salmond",
+      "bbox": [
+        38.303999999999995,
+        57.888,
+        105.83999999999997,
+        67.392
+      ]
+    }
+  ],
+  "text": "1. * Puchta\n2. ® Fuller\n7\n3. Savigny\n4. ® Salmond",
+  "ocr_words": [
+    {
+      "text": "1.",
+      "x0": 39.023999999999994,
+      "top": 6.191999999999999,
+      "x1": 45.50399999999999,
+      "bottom": 13.392,
+      "confidence": 89.565155,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "*",
+      "x0": 51.983999999999995,
+      "top": 4.032,
+      "x1": 58.46399999999999,
+      "bottom": 10.512,
+      "confidence": 71.573776,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Puchta",
+      "x0": 64.22399999999999,
+      "top": 6.191999999999999,
+      "x1": 96.47999999999999,
+      "bottom": 13.392,
+      "confidence": 91.295677,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2.",
+      "x0": 38.303999999999995,
+      "top": 24.191999999999997,
+      "x1": 45.50399999999999,
+      "bottom": 31.391999999999996,
+      "confidence": 83.843826,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "®",
+      "x0": 51.983999999999995,
+      "top": 22.032,
+      "x1": 58.46399999999999,
+      "bottom": 28.512,
+      "confidence": 34.809128,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Fuller",
+      "x0": 64.22399999999999,
+      "top": 24.191999999999997,
+      "x1": 90.71999999999998,
+      "bottom": 31.391999999999996,
+      "confidence": 95.577217,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "3.",
+      "x0": 38.303999999999995,
+      "top": 42.192,
+      "x1": 45.50399999999999,
+      "bottom": 49.391999999999996,
+      "confidence": 67.297104,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "7",
+      "x0": 53.568,
+      "top": 39.168,
+      "x1": 57.168,
+      "bottom": 47.952,
+      "confidence": 63.466911,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Savigny",
+      "x0": 64.94399999999999,
+      "top": 42.192,
+      "x1": 101.51999999999998,
+      "bottom": 51.696,
+      "confidence": 88.083603,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "4.",
+      "x0": 38.303999999999995,
+      "top": 60.047999999999995,
+      "x1": 45.50399999999999,
+      "bottom": 67.392,
+      "confidence": 62.394081,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "®",
+      "x0": 51.983999999999995,
+      "top": 57.888,
+      "x1": 58.46399999999999,
+      "bottom": 64.512,
+      "confidence": 36.328091,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Salmond",
+      "x0": 64.94399999999999,
+      "top": 60.047999999999995,
+      "x1": 105.83999999999997,
+      "bottom": 67.392,
+      "confidence": 96.480965,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "pdf_page": 417,
+  "crop_top": 10.399999999999999,
+  "crop_bottom": 94.24,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0416:l0041:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Options :",
+      "bbox": [
+        37.8,
+        3.96,
+        73.8,
+        12.239999999999998
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "1. ® Bentham",
+      "bbox": [
+        39.059999999999995,
+        16.56,
+        107.27999999999999,
+        26.099999999999998
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "2. ® Salmond",
+      "bbox": [
+        38.339999999999996,
+        34.56,
+        105.84,
+        43.92
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "3. * Allen",
+      "bbox": [
+        38.339999999999996,
+        52.559999999999995,
+        87.83999999999999,
+        61.92
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "4.7 Austin",
+      "bbox": [
+        38.339999999999996,
+        69.66,
+        95.03999999999999,
+        79.92
+      ]
+    }
+  ],
+  "text": "Options :\n1. ® Bentham\n2. ® Salmond\n3. * Allen\n4.7 Austin",
+  "ocr_words": [
+    {
+      "text": "Options",
+      "x0": 37.8,
+      "top": 3.96,
+      "x1": 68.94,
+      "bottom": 12.239999999999998,
+      "confidence": 93.149933,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 72.53999999999999,
+      "top": 5.9399999999999995,
+      "x1": 73.8,
+      "bottom": 10.44,
+      "confidence": 89.422379,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1.",
+      "x0": 39.059999999999995,
+      "top": 18.72,
+      "x1": 45.53999999999999,
+      "bottom": 26.099999999999998,
+      "confidence": 91.260727,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "®",
+      "x0": 52.019999999999996,
+      "top": 16.56,
+      "x1": 58.49999999999999,
+      "bottom": 23.22,
+      "confidence": 63.765705,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Bentham",
+      "x0": 64.25999999999999,
+      "top": 18.72,
+      "x1": 107.27999999999999,
+      "bottom": 26.099999999999998,
+      "confidence": 95.361809,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2.",
+      "x0": 38.339999999999996,
+      "top": 36.72,
+      "x1": 45.53999999999999,
+      "bottom": 43.92,
+      "confidence": 83.695778,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "®",
+      "x0": 52.019999999999996,
+      "top": 34.56,
+      "x1": 58.49999999999999,
+      "bottom": 41.04,
+      "confidence": 69.229919,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Salmond",
+      "x0": 64.98,
+      "top": 36.72,
+      "x1": 105.84,
+      "bottom": 43.92,
+      "confidence": 73.321747,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "3.",
+      "x0": 38.339999999999996,
+      "top": 54.72,
+      "x1": 45.53999999999999,
+      "bottom": 61.92,
+      "confidence": 84.736641,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "3"
+    },
+    {
+      "text": "*",
+      "x0": 52.019999999999996,
+      "top": 52.559999999999995,
+      "x1": 58.49999999999999,
+      "bottom": 59.03999999999999,
+      "confidence": 48.70739,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Allen",
+      "x0": 64.25999999999999,
+      "top": 54.72,
+      "x1": 87.83999999999999,
+      "bottom": 61.92,
+      "confidence": 90.734756,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "3"
+    },
+    {
+      "text": "4.7",
+      "x0": 38.339999999999996,
+      "top": 69.66,
+      "x1": 60.66,
+      "bottom": 79.92,
+      "confidence": 43.481842,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Austin",
+      "x0": 64.25999999999999,
+      "top": 72.53999999999999,
+      "x1": 95.03999999999999,
+      "bottom": 79.91999999999999,
+      "confidence": 76.510498,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "4"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

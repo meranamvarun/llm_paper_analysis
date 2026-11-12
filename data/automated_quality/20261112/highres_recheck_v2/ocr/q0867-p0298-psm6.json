@@ -1,0 +1,844 @@
+{
+  "pdf_page": 298,
+  "crop_top": 154.89279999999997,
+  "crop_bottom": 273.3227999999999,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0298:l0004:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "21. <A takes a life insurance policy making a false statement about his health and does not",
+      "bbox": [
+        46.8,
+        4.859999999999999,
+        549.9,
+        15.12
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "disclose the fact that he has been treated for serious illness. In this which of the",
+      "bbox": [
+        75.06,
+        18.72,
+        549.7199999999999,
+        27.0
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "a case one",
+      "bbox": [
+        311.21999999999997,
+        21.779999999999998,
+        516.24,
+        26.999999999999996
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "following statements is correct:",
+      "bbox": [
+        74.88,
+        32.58,
+        232.38,
+        42.839999999999996
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(A) The Contract is void",
+      "bbox": [
+        75.24,
+        50.58,
+        205.92,
+        60.839999999999996
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "(B) The Contract is valid",
+      "bbox": [
+        75.24,
+        68.39999999999999,
+        210.06,
+        78.66
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "(C) Contract is voidable on the ground of fraud",
+      "bbox": [
+        75.24,
+        86.39999999999999,
+        321.48,
+        96.66
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "(D) Contract is voidable on the ground of misrepresentation",
+      "bbox": [
+        75.24,
+        104.22,
+        386.82,
+        114.48
+      ]
+    }
+  ],
+  "text": "21. <A takes a life insurance policy making a false statement about his health and does not\ndisclose the fact that he has been treated for serious illness. In this which of the\na case one\nfollowing statements is correct:\n(A) The Contract is void\n(B) The Contract is valid\n(C) Contract is voidable on the ground of fraud\n(D) Contract is voidable on the ground of misrepresentation",
+  "ocr_words": [
+    {
+      "text": "21.",
+      "x0": 46.8,
+      "top": 5.3999999999999995,
+      "x1": 60.66,
+      "bottom": 13.139999999999999,
+      "confidence": 92.919281,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "<A",
+      "x0": 74.52,
+      "top": 4.859999999999999,
+      "x1": 82.61999999999999,
+      "bottom": 12.959999999999999,
+      "confidence": 78.714935,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "takes",
+      "x0": 88.2,
+      "top": 4.859999999999999,
+      "x1": 115.2,
+      "bottom": 13.139999999999999,
+      "confidence": 94.409958,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 121.86,
+      "top": 7.739999999999999,
+      "x1": 127.08,
+      "bottom": 13.139999999999999,
+      "confidence": 96.919556,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "life",
+      "x0": 133.2,
+      "top": 4.859999999999999,
+      "x1": 148.67999999999998,
+      "bottom": 13.139999999999999,
+      "confidence": 96.76181,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "insurance",
+      "x0": 154.79999999999998,
+      "top": 4.859999999999999,
+      "x1": 204.11999999999998,
+      "bottom": 13.139999999999999,
+      "confidence": 96.563309,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "policy",
+      "x0": 210.42,
+      "top": 4.859999999999999,
+      "x1": 239.76,
+      "bottom": 15.12,
+      "confidence": 96.170418,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "making",
+      "x0": 245.88,
+      "top": 4.859999999999999,
+      "x1": 283.86,
+      "bottom": 15.12,
+      "confidence": 96.332336,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 289.8,
+      "top": 7.739999999999999,
+      "x1": 295.2,
+      "bottom": 13.139999999999999,
+      "confidence": 96.205246,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "false",
+      "x0": 301.14,
+      "top": 4.859999999999999,
+      "x1": 324.36,
+      "bottom": 13.139999999999999,
+      "confidence": 95.494888,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "statement",
+      "x0": 330.84,
+      "top": 5.9399999999999995,
+      "x1": 381.59999999999997,
+      "bottom": 13.139999999999999,
+      "confidence": 96.599297,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "about",
+      "x0": 387.9,
+      "top": 4.859999999999999,
+      "x1": 415.97999999999996,
+      "bottom": 13.139999999999999,
+      "confidence": 96.441727,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "his",
+      "x0": 421.91999999999996,
+      "top": 4.859999999999999,
+      "x1": 436.49999999999994,
+      "bottom": 13.139999999999999,
+      "confidence": 96.241364,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "health",
+      "x0": 442.62,
+      "top": 4.859999999999999,
+      "x1": 475.2,
+      "bottom": 13.139999999999999,
+      "confidence": 96.241364,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 481.5,
+      "top": 4.859999999999999,
+      "x1": 499.86,
+      "bottom": 13.139999999999999,
+      "confidence": 96.402687,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "does",
+      "x0": 506.15999999999997,
+      "top": 4.859999999999999,
+      "x1": 527.5799999999999,
+      "bottom": 13.139999999999999,
+      "confidence": 95.688347,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "not",
+      "x0": 533.88,
+      "top": 5.9399999999999995,
+      "x1": 549.9,
+      "bottom": 13.139999999999999,
+      "confidence": 95.688347,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "disclose",
+      "x0": 75.06,
+      "top": 18.9,
+      "x1": 113.58,
+      "bottom": 27.0,
+      "confidence": 96.702499,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 118.08,
+      "top": 18.9,
+      "x1": 134.1,
+      "bottom": 27.0,
+      "confidence": 96.071747,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "fact",
+      "x0": 138.6,
+      "top": 18.72,
+      "x1": 156.95999999999998,
+      "bottom": 27.0,
+      "confidence": 96.400696,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "that",
+      "x0": 161.28,
+      "top": 18.9,
+      "x1": 182.34,
+      "bottom": 27.0,
+      "confidence": 96.719635,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "he",
+      "x0": 186.66,
+      "top": 18.9,
+      "x1": 198.0,
+      "bottom": 27.0,
+      "confidence": 96.485138,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "has",
+      "x0": 202.67999999999998,
+      "top": 18.9,
+      "x1": 219.95999999999998,
+      "bottom": 27.0,
+      "confidence": 96.485138,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "been",
+      "x0": 224.28,
+      "top": 18.9,
+      "x1": 248.04,
+      "bottom": 27.0,
+      "confidence": 96.819183,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "treated",
+      "x0": 252.17999999999998,
+      "top": 18.9,
+      "x1": 288.71999999999997,
+      "bottom": 27.0,
+      "confidence": 96.33902,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "for",
+      "x0": 293.03999999999996,
+      "top": 18.72,
+      "x1": 306.53999999999996,
+      "bottom": 27.0,
+      "confidence": 96.010658,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "a",
+      "x0": 311.21999999999997,
+      "top": 21.779999999999998,
+      "x1": 316.44,
+      "bottom": 26.999999999999996,
+      "confidence": 96.010658,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "serious",
+      "x0": 321.3,
+      "top": 18.9,
+      "x1": 356.58000000000004,
+      "bottom": 27.0,
+      "confidence": 95.800507,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "illness.",
+      "x0": 361.08,
+      "top": 18.9,
+      "x1": 395.82,
+      "bottom": 27.0,
+      "confidence": 95.642097,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "In",
+      "x0": 401.03999999999996,
+      "top": 18.9,
+      "x1": 411.65999999999997,
+      "bottom": 26.82,
+      "confidence": 96.529808,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "this",
+      "x0": 415.97999999999996,
+      "top": 18.9,
+      "x1": 434.69999999999993,
+      "bottom": 27.0,
+      "confidence": 96.916489,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "case",
+      "x0": 439.56,
+      "top": 21.779999999999998,
+      "x1": 460.44,
+      "bottom": 26.999999999999996,
+      "confidence": 96.703804,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "which",
+      "x0": 464.94,
+      "top": 18.9,
+      "x1": 494.82,
+      "bottom": 27.0,
+      "confidence": 96.549454,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "one",
+      "x0": 499.32,
+      "top": 21.779999999999998,
+      "x1": 516.24,
+      "bottom": 26.999999999999996,
+      "confidence": 95.668678,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 520.92,
+      "top": 18.72,
+      "x1": 530.4599999999999,
+      "bottom": 27.0,
+      "confidence": 95.668678,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 533.6999999999999,
+      "top": 18.9,
+      "x1": 549.7199999999999,
+      "bottom": 27.0,
+      "confidence": 96.25164,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "following",
+      "x0": 74.88,
+      "top": 32.58,
+      "x1": 120.96,
+      "bottom": 42.839999999999996,
+      "confidence": 96.141953,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "statements",
+      "x0": 124.56,
+      "top": 33.66,
+      "x1": 180.18,
+      "bottom": 40.86,
+      "confidence": 96.214684,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "is",
+      "x0": 183.95999999999998,
+      "top": 32.58,
+      "x1": 191.7,
+      "bottom": 40.86,
+      "confidence": 96.307457,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "correct:",
+      "x0": 195.48,
+      "top": 33.66,
+      "x1": 232.38,
+      "bottom": 40.86,
+      "confidence": 96.427322,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(A)",
+      "x0": 75.24,
+      "top": 50.58,
+      "x1": 89.1,
+      "bottom": 60.839999999999996,
+      "confidence": 88.28167,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 103.14,
+      "top": 50.58,
+      "x1": 122.03999999999999,
+      "bottom": 58.86,
+      "confidence": 88.28167,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Contract",
+      "x0": 126.36,
+      "top": 50.58,
+      "x1": 169.92,
+      "bottom": 58.86,
+      "confidence": 95.038864,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 173.51999999999998,
+      "top": 50.58,
+      "x1": 181.26,
+      "bottom": 58.86,
+      "confidence": 96.107437,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "void",
+      "x0": 185.04,
+      "top": 50.58,
+      "x1": 205.92,
+      "bottom": 58.86,
+      "confidence": 96.68943,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(B)",
+      "x0": 75.24,
+      "top": 68.39999999999999,
+      "x1": 89.1,
+      "bottom": 78.66,
+      "confidence": 92.54705,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 103.14,
+      "top": 68.58,
+      "x1": 122.03999999999999,
+      "bottom": 76.67999999999999,
+      "confidence": 94.667747,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Contract",
+      "x0": 126.36,
+      "top": 68.39999999999999,
+      "x1": 169.92,
+      "bottom": 76.85999999999999,
+      "confidence": 96.055779,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 173.51999999999998,
+      "top": 68.58,
+      "x1": 181.26,
+      "bottom": 76.67999999999999,
+      "confidence": 96.501915,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "valid",
+      "x0": 185.04,
+      "top": 68.58,
+      "x1": 210.06,
+      "bottom": 76.67999999999999,
+      "confidence": 96.248848,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(C)",
+      "x0": 75.24,
+      "top": 86.39999999999999,
+      "x1": 89.1,
+      "bottom": 96.66,
+      "confidence": 92.552307,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Contract",
+      "x0": 103.67999999999999,
+      "top": 86.39999999999999,
+      "x1": 147.42,
+      "bottom": 94.67999999999999,
+      "confidence": 94.716606,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 150.84,
+      "top": 86.39999999999999,
+      "x1": 158.76,
+      "bottom": 94.67999999999999,
+      "confidence": 90.925194,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "voidable",
+      "x0": 162.35999999999999,
+      "top": 86.39999999999999,
+      "x1": 204.29999999999998,
+      "bottom": 94.67999999999999,
+      "confidence": 90.925194,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "on",
+      "x0": 208.07999999999998,
+      "top": 89.28,
+      "x1": 219.77999999999997,
+      "bottom": 94.68,
+      "confidence": 96.109215,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 223.2,
+      "top": 86.39999999999999,
+      "x1": 239.04,
+      "bottom": 94.67999999999999,
+      "confidence": 96.48127,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "ground",
+      "x0": 243.17999999999998,
+      "top": 86.39999999999999,
+      "x1": 278.46,
+      "bottom": 96.66,
+      "confidence": 96.714584,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 282.06,
+      "top": 86.39999999999999,
+      "x1": 291.6,
+      "bottom": 94.67999999999999,
+      "confidence": 96.437767,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "fraud",
+      "x0": 294.12,
+      "top": 86.39999999999999,
+      "x1": 321.48,
+      "bottom": 94.67999999999999,
+      "confidence": 95.868385,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(D)",
+      "x0": 75.24,
+      "top": 104.22,
+      "x1": 89.82,
+      "bottom": 114.48,
+      "confidence": 90.774506,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Contract",
+      "x0": 103.67999999999999,
+      "top": 104.22,
+      "x1": 147.42,
+      "bottom": 112.5,
+      "confidence": 94.045082,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 150.84,
+      "top": 104.22,
+      "x1": 158.76,
+      "bottom": 112.5,
+      "confidence": 91.760254,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "voidable",
+      "x0": 162.35999999999999,
+      "top": 104.22,
+      "x1": 204.29999999999998,
+      "bottom": 112.5,
+      "confidence": 91.022392,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "on",
+      "x0": 208.07999999999998,
+      "top": 107.1,
+      "x1": 219.77999999999997,
+      "bottom": 112.5,
+      "confidence": 96.856628,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 223.2,
+      "top": 104.22,
+      "x1": 239.04,
+      "bottom": 112.5,
+      "confidence": 96.876022,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "ground",
+      "x0": 243.17999999999998,
+      "top": 104.22,
+      "x1": 278.46,
+      "bottom": 114.48,
+      "confidence": 96.101112,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 282.06,
+      "top": 104.22,
+      "x1": 291.6,
+      "bottom": 112.5,
+      "confidence": 92.881027,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "misrepresentation",
+      "x0": 294.3,
+      "top": 104.22,
+      "x1": 386.82,
+      "bottom": 114.48,
+      "confidence": 91.950508,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

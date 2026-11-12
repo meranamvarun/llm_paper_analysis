@@ -1,0 +1,505 @@
+{
+  "pdf_page": 215,
+  "crop_top": 642.2042961972501,
+  "crop_bottom": 747.63845679825,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0215:l0029:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "371.",
+      "bbox": [
+        129.78,
+        5.04,
+        149.4,
+        12.78
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "(B) Tata Housing Development Co. Ltd. v. Aalok Jagga, (2020) 15 SCC 784.",
+      "bbox": [
+        111.06,
+        20.7,
+        473.03999999999996,
+        30.96
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(C) Manorama Sachan v. Lucknow Development Authority, (2005) 9 SCC 425.",
+      "bbox": [
+        110.33999999999999,
+        36.9,
+        481.86,
+        46.98
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(D) Maharashtra Land Development Corporation v. State of Maharashtra, (2011) 15",
+      "bbox": [
+        110.33999999999999,
+        52.919999999999995,
+        513.18,
+        63.0
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "SCC 616.",
+      "bbox": [
+        129.96,
+        68.94,
+        174.96,
+        77.03999999999999
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "26",
+      "bbox": [
+        292.5,
+        92.7,
+        302.76,
+        99.72
+      ]
+    }
+  ],
+  "text": "371.\n(B) Tata Housing Development Co. Ltd. v. Aalok Jagga, (2020) 15 SCC 784.\n(C) Manorama Sachan v. Lucknow Development Authority, (2005) 9 SCC 425.\n(D) Maharashtra Land Development Corporation v. State of Maharashtra, (2011) 15\nSCC 616.\n26",
+  "ocr_words": [
+    {
+      "text": "371.",
+      "x0": 129.78,
+      "top": 5.04,
+      "x1": 149.4,
+      "bottom": 12.78,
+      "confidence": 92.864845,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(B)",
+      "x0": 111.06,
+      "top": 20.88,
+      "x1": 123.84,
+      "bottom": 30.96,
+      "confidence": 92.188087,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Tata",
+      "x0": 129.6,
+      "top": 21.06,
+      "x1": 150.48,
+      "bottom": 28.799999999999997,
+      "confidence": 96.700623,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Housing",
+      "x0": 154.62,
+      "top": 21.06,
+      "x1": 192.42000000000002,
+      "bottom": 30.96,
+      "confidence": 96.232796,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Development",
+      "x0": 196.92,
+      "top": 21.06,
+      "x1": 258.84,
+      "bottom": 30.96,
+      "confidence": 95.797173,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Co.",
+      "x0": 262.44,
+      "top": 20.7,
+      "x1": 277.92,
+      "bottom": 28.979999999999997,
+      "confidence": 96.301285,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ltd.",
+      "x0": 282.42,
+      "top": 21.06,
+      "x1": 298.62,
+      "bottom": 28.799999999999997,
+      "confidence": 93.219261,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "v.",
+      "x0": 302.58,
+      "top": 23.04,
+      "x1": 309.96,
+      "bottom": 28.799999999999997,
+      "confidence": 91.243759,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Aalok",
+      "x0": 313.92,
+      "top": 21.06,
+      "x1": 340.56,
+      "bottom": 28.799999999999997,
+      "confidence": 91.651047,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Jagga,",
+      "x0": 343.8,
+      "top": 21.06,
+      "x1": 374.76,
+      "bottom": 30.96,
+      "confidence": 92.337173,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(2020)",
+      "x0": 379.44,
+      "top": 20.88,
+      "x1": 408.78,
+      "bottom": 30.96,
+      "confidence": 96.832458,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "15",
+      "x0": 413.64,
+      "top": 21.06,
+      "x1": 424.08,
+      "bottom": 28.799999999999997,
+      "confidence": 95.478973,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "SCC",
+      "x0": 427.85999999999996,
+      "top": 20.7,
+      "x1": 449.63999999999993,
+      "bottom": 28.979999999999997,
+      "confidence": 95.478973,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "784.",
+      "x0": 453.41999999999996,
+      "top": 21.24,
+      "x1": 473.03999999999996,
+      "bottom": 28.799999999999997,
+      "confidence": 96.786102,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(C)",
+      "x0": 110.33999999999999,
+      "top": 36.9,
+      "x1": 123.83999999999999,
+      "bottom": 46.98,
+      "confidence": 92.977341,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Manorama",
+      "x0": 130.14,
+      "top": 37.08,
+      "x1": 180.35999999999999,
+      "bottom": 44.82,
+      "confidence": 90.666649,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Sachan",
+      "x0": 183.95999999999998,
+      "top": 36.9,
+      "x1": 219.05999999999997,
+      "bottom": 45.0,
+      "confidence": 92.441643,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "v.",
+      "x0": 223.01999999999998,
+      "top": 39.059999999999995,
+      "x1": 230.21999999999997,
+      "bottom": 44.81999999999999,
+      "confidence": 92.31282,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Lucknow",
+      "x0": 234.89999999999998,
+      "top": 37.08,
+      "x1": 276.12,
+      "bottom": 44.82,
+      "confidence": 96.699921,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Development",
+      "x0": 280.08,
+      "top": 37.08,
+      "x1": 342.17999999999995,
+      "bottom": 46.98,
+      "confidence": 96.676674,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Authority,",
+      "x0": 345.59999999999997,
+      "top": 37.08,
+      "x1": 389.52,
+      "bottom": 46.98,
+      "confidence": 96.298302,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(2005)",
+      "x0": 394.2,
+      "top": 36.9,
+      "x1": 423.71999999999997,
+      "bottom": 46.98,
+      "confidence": 95.653717,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "9",
+      "x0": 430.38,
+      "top": 37.26,
+      "x1": 432.9,
+      "bottom": 45.0,
+      "confidence": 95.653717,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "SCC",
+      "x0": 436.85999999999996,
+      "top": 36.9,
+      "x1": 458.46,
+      "bottom": 45.0,
+      "confidence": 96.017975,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "425.",
+      "x0": 462.24,
+      "top": 37.26,
+      "x1": 481.86,
+      "bottom": 45.0,
+      "confidence": 96.017975,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(D)",
+      "x0": 110.33999999999999,
+      "top": 52.919999999999995,
+      "x1": 123.83999999999999,
+      "bottom": 62.99999999999999,
+      "confidence": 92.927422,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Maharashtra",
+      "x0": 130.14,
+      "top": 53.1,
+      "x1": 189.17999999999998,
+      "bottom": 61.02,
+      "confidence": 94.981094,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Land",
+      "x0": 194.04,
+      "top": 53.1,
+      "x1": 216.35999999999999,
+      "bottom": 61.02,
+      "confidence": 96.41951,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Development",
+      "x0": 221.57999999999998,
+      "top": 53.1,
+      "x1": 283.5,
+      "bottom": 63.0,
+      "confidence": 96.295135,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Corporation",
+      "x0": 288.0,
+      "top": 52.919999999999995,
+      "x1": 342.72,
+      "bottom": 62.99999999999999,
+      "confidence": 93.288391,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "v.",
+      "x0": 347.21999999999997,
+      "top": 55.26,
+      "x1": 354.59999999999997,
+      "bottom": 60.839999999999996,
+      "confidence": 92.034248,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "State",
+      "x0": 359.64,
+      "top": 52.919999999999995,
+      "x1": 383.58,
+      "bottom": 61.019999999999996,
+      "confidence": 95.855011,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 388.08,
+      "top": 52.919999999999995,
+      "x1": 396.53999999999996,
+      "bottom": 61.019999999999996,
+      "confidence": 96.492393,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Maharashtra,",
+      "x0": 401.21999999999997,
+      "top": 53.1,
+      "x1": 462.59999999999997,
+      "bottom": 62.28,
+      "confidence": 95.623764,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(2011)",
+      "x0": 467.82,
+      "top": 52.919999999999995,
+      "x1": 497.34,
+      "bottom": 62.99999999999999,
+      "confidence": 95.623764,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "15",
+      "x0": 502.91999999999996,
+      "top": 53.28,
+      "x1": 513.18,
+      "bottom": 61.02,
+      "confidence": 96.785233,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "SCC",
+      "x0": 129.96,
+      "top": 68.94,
+      "x1": 151.56,
+      "bottom": 77.03999999999999,
+      "confidence": 96.05442,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "616.",
+      "x0": 155.34,
+      "top": 69.3,
+      "x1": 174.96,
+      "bottom": 77.03999999999999,
+      "confidence": 96.098511,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "26",
+      "x0": 292.5,
+      "top": 92.7,
+      "x1": 302.76,
+      "bottom": 99.72,
+      "confidence": 96.557335,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

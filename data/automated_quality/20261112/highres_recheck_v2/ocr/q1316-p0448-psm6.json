@@ -1,0 +1,92 @@
+{
+  "pdf_page": 448,
+  "crop_top": 56.960000000000036,
+  "crop_bottom": 76.96000000000004,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0447:l0027:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "D. The revival of Justinian’s Code",
+      "bbox": [
+        109.08,
+        4.859999999999999,
+        272.15999999999997,
+        13.14
+      ]
+    }
+  ],
+  "text": "D. The revival of Justinian’s Code",
+  "ocr_words": [
+    {
+      "text": "D.",
+      "x0": 109.08,
+      "top": 5.58,
+      "x1": 117.53999999999999,
+      "bottom": 13.14,
+      "confidence": 92.802734,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 126.17999999999999,
+      "top": 4.859999999999999,
+      "x1": 143.64,
+      "bottom": 13.139999999999999,
+      "confidence": 96.494026,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "revival",
+      "x0": 147.96,
+      "top": 4.859999999999999,
+      "x1": 178.38,
+      "bottom": 13.139999999999999,
+      "confidence": 95.031113,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 183.23999999999998,
+      "top": 4.859999999999999,
+      "x1": 191.7,
+      "bottom": 13.139999999999999,
+      "confidence": 92.469589,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Justinian’s",
+      "x0": 194.57999999999998,
+      "top": 4.859999999999999,
+      "x1": 244.44,
+      "bottom": 13.139999999999999,
+      "confidence": 89.91272,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Code",
+      "x0": 248.22,
+      "top": 4.859999999999999,
+      "x1": 272.15999999999997,
+      "bottom": 13.139999999999999,
+      "confidence": 96.455925,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

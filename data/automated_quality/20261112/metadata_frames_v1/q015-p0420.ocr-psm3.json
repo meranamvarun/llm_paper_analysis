@@ -1,0 +1,82 @@
+{
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0419:l0038:question",
+  "year_label": 2017,
+  "number": "89",
+  "pdf_page": 420,
+  "crop_top": 0,
+  "crop_bottom": 45.28,
+  "start_anchor": {
+    "pdf_page": 419,
+    "line_id": "l0038",
+    "bbox": [
+      37.68,
+      612.48,
+      548.88,
+      620.88
+    ]
+  },
+  "following_anchor": {
+    "pdf_page": 420,
+    "line_id": "l0001",
+    "bbox": [
+      37.68,
+      47.28,
+      548.88,
+      55.68
+    ]
+  },
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "4 *® Salmond",
+      "bbox": [
+        38.303999999999995,
+        13.68,
+        105.83999999999997,
+        23.04
+      ]
+    }
+  ],
+  "text": "4 *® Salmond",
+  "ocr_words": [
+    {
+      "text": "4",
+      "x0": 38.303999999999995,
+      "top": 15.839999999999998,
+      "x1": 45.50399999999999,
+      "bottom": 23.04,
+      "confidence": 75.66848,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "*®",
+      "x0": 51.983999999999995,
+      "top": 13.68,
+      "x1": 58.46399999999999,
+      "bottom": 20.16,
+      "confidence": 53.636703,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Salmond",
+      "x0": 64.94399999999999,
+      "top": 15.839999999999998,
+      "x1": 105.83999999999997,
+      "bottom": 23.04,
+      "confidence": 20.901772,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

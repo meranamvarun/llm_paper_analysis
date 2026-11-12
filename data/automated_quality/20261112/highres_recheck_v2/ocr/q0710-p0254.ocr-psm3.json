@@ -1,0 +1,362 @@
+{
+  "pdf_page": 254,
+  "crop_top": 177.77199999999993,
+  "crop_bottom": 276.52199999999993,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0254:l0007:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "104. Who can file application for cancellation of bail?",
+      "bbox": [
+        73.44,
+        5.22,
+        331.2,
+        16.02
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "(A) Public Prosecutor.",
+      "bbox": [
+        100.44,
+        20.34,
+        209.52,
+        31.14
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(B) Complainant.",
+      "bbox": [
+        100.44,
+        36.36,
+        187.01999999999998,
+        47.34
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(C) Both (A) and (B).",
+      "bbox": [
+        100.44,
+        52.379999999999995,
+        205.56,
+        63.17999999999999
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(D) None of these.",
+      "bbox": [
+        100.44,
+        68.39999999999999,
+        191.88,
+        79.38
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "CORRECT OPTION: C",
+      "bbox": [
+        72.53999999999999,
+        84.06,
+        197.46,
+        92.52
+      ]
+    }
+  ],
+  "text": "104. Who can file application for cancellation of bail?\n(A) Public Prosecutor.\n(B) Complainant.\n(C) Both (A) and (B).\n(D) None of these.\nCORRECT OPTION: C",
+  "ocr_words": [
+    {
+      "text": "104.",
+      "x0": 73.44,
+      "top": 5.3999999999999995,
+      "x1": 90.36,
+      "bottom": 13.68,
+      "confidence": 94.883446,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Who",
+      "x0": 97.02,
+      "top": 5.22,
+      "x1": 119.88,
+      "bottom": 13.68,
+      "confidence": 96.041328,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "can",
+      "x0": 123.47999999999999,
+      "top": 7.92,
+      "x1": 139.85999999999999,
+      "bottom": 13.68,
+      "confidence": 96.346664,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "file",
+      "x0": 143.1,
+      "top": 5.22,
+      "x1": 158.76,
+      "bottom": 13.68,
+      "confidence": 96.886276,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "application",
+      "x0": 162.18,
+      "top": 5.22,
+      "x1": 216.18,
+      "bottom": 16.02,
+      "confidence": 95.945061,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "for",
+      "x0": 219.6,
+      "top": 5.22,
+      "x1": 233.28,
+      "bottom": 13.68,
+      "confidence": 96.937759,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "cancellation",
+      "x0": 236.16,
+      "top": 5.22,
+      "x1": 293.58,
+      "bottom": 13.68,
+      "confidence": 96.166634,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 296.09999999999997,
+      "top": 5.22,
+      "x1": 307.08,
+      "bottom": 13.68,
+      "confidence": 96.166634,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "bail?",
+      "x0": 308.34,
+      "top": 5.22,
+      "x1": 331.2,
+      "bottom": 13.68,
+      "confidence": 96.152542,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 100.44,
+      "top": 20.34,
+      "x1": 113.39999999999999,
+      "bottom": 31.14,
+      "confidence": 96.631889,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Public",
+      "x0": 121.86,
+      "top": 20.34,
+      "x1": 152.1,
+      "bottom": 28.799999999999997,
+      "confidence": 96.725868,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Prosecutor.",
+      "x0": 155.34,
+      "top": 20.7,
+      "x1": 209.52,
+      "bottom": 28.799999999999997,
+      "confidence": 95.878288,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(B)",
+      "x0": 100.44,
+      "top": 36.36,
+      "x1": 112.86,
+      "bottom": 47.16,
+      "confidence": 91.957809,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Complainant.",
+      "x0": 122.22,
+      "top": 36.36,
+      "x1": 187.01999999999998,
+      "bottom": 47.34,
+      "confidence": 95.96402,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(C)",
+      "x0": 100.44,
+      "top": 52.379999999999995,
+      "x1": 112.86,
+      "bottom": 63.17999999999999,
+      "confidence": 91.92466,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Both",
+      "x0": 121.86,
+      "top": 52.379999999999995,
+      "x1": 144.9,
+      "bottom": 60.839999999999996,
+      "confidence": 96.446526,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(A)",
+      "x0": 148.5,
+      "top": 52.379999999999995,
+      "x1": 164.16,
+      "bottom": 63.17999999999999,
+      "confidence": 95.818726,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "and",
+      "x0": 167.94,
+      "top": 52.379999999999995,
+      "x1": 185.22,
+      "bottom": 60.839999999999996,
+      "confidence": 79.623535,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(B).",
+      "x0": 187.92,
+      "top": 52.379999999999995,
+      "x1": 205.56,
+      "bottom": 63.17999999999999,
+      "confidence": 79.623535,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(D)",
+      "x0": 100.44,
+      "top": 68.58,
+      "x1": 113.39999999999999,
+      "bottom": 79.38,
+      "confidence": 93.128685,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "None",
+      "x0": 121.5,
+      "top": 68.75999999999999,
+      "x1": 147.96,
+      "bottom": 77.03999999999999,
+      "confidence": 96.102936,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "of",
+      "x0": 152.28,
+      "top": 68.39999999999999,
+      "x1": 163.08,
+      "bottom": 77.03999999999999,
+      "confidence": 96.102936,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "these.",
+      "x0": 164.7,
+      "top": 68.39999999999999,
+      "x1": 191.88,
+      "bottom": 77.03999999999999,
+      "confidence": 96.470169,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "CORRECT",
+      "x0": 72.53999999999999,
+      "top": 84.06,
+      "x1": 131.57999999999998,
+      "bottom": 92.52,
+      "confidence": 96.064041,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "OPTION:",
+      "x0": 135.54,
+      "top": 84.24,
+      "x1": 185.22,
+      "bottom": 92.52,
+      "confidence": 91.535698,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "C",
+      "x0": 189.9,
+      "top": 84.06,
+      "x1": 197.46,
+      "bottom": 92.52,
+      "confidence": 91.535698,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

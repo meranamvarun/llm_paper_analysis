@@ -1,0 +1,614 @@
+{
+  "pdf_page": 19,
+  "crop_top": 448.4323220000003,
+  "crop_bottom": 572.7127180000003,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0019:l0018:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "43. As section 96 of the Transfer of Property Act, the provisions which apply to",
+      "bbox": [
+        57.239999999999995,
+        4.5,
+        538.3799999999999,
+        14.76
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "per",
+      "bbox": [
+        105.3,
+        7.56,
+        121.5,
+        14.759999999999998
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "shall, far be, apply to mortgage by deposit of title-deeds.",
+      "bbox": [
+        143.64,
+        22.32,
+        488.88,
+        32.58
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "so as may a",
+      "bbox": [
+        174.6,
+        25.38,
+        312.12,
+        32.58
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(A) Asimple mortgage.",
+      "bbox": [
+        85.86,
+        44.28,
+        211.14,
+        54.54
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "(B) A mortgage by conditional sale.",
+      "bbox": [
+        85.86,
+        66.06,
+        272.16,
+        76.32
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "(C) A usufructuary mortgage.",
+      "bbox": [
+        85.86,
+        88.02,
+        243.89999999999998,
+        98.28
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "(D) An English mortgage.",
+      "bbox": [
+        85.86,
+        109.8,
+        223.56,
+        120.06
+      ]
+    }
+  ],
+  "text": "43. As section 96 of the Transfer of Property Act, the provisions which apply to\nper\nshall, far be, apply to mortgage by deposit of title-deeds.\nso as may a\n(A) Asimple mortgage.\n(B) A mortgage by conditional sale.\n(C) A usufructuary mortgage.\n(D) An English mortgage.",
+  "ocr_words": [
+    {
+      "text": "43.",
+      "x0": 57.239999999999995,
+      "top": 5.04,
+      "x1": 71.1,
+      "bottom": 12.78,
+      "confidence": 95.118767,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "As",
+      "x0": 84.96,
+      "top": 4.5,
+      "x1": 97.55999999999999,
+      "bottom": 12.78,
+      "confidence": 56.372833,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "per",
+      "x0": 105.3,
+      "top": 7.56,
+      "x1": 121.5,
+      "bottom": 14.759999999999998,
+      "confidence": 96.80809,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "section",
+      "x0": 129.24,
+      "top": 4.68,
+      "x1": 163.8,
+      "bottom": 12.78,
+      "confidence": 96.694046,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "96",
+      "x0": 171.54,
+      "top": 5.04,
+      "x1": 182.88,
+      "bottom": 12.78,
+      "confidence": 96.888321,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 190.44,
+      "top": 4.5,
+      "x1": 199.98,
+      "bottom": 12.78,
+      "confidence": 96.985123,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 206.28,
+      "top": 4.68,
+      "x1": 222.12,
+      "bottom": 12.78,
+      "confidence": 97.010056,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Transfer",
+      "x0": 229.67999999999998,
+      "top": 4.5,
+      "x1": 273.41999999999996,
+      "bottom": 12.78,
+      "confidence": 96.581398,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 280.8,
+      "top": 4.5,
+      "x1": 290.34000000000003,
+      "bottom": 12.78,
+      "confidence": 96.634537,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Property",
+      "x0": 296.82,
+      "top": 4.68,
+      "x1": 340.92,
+      "bottom": 14.76,
+      "confidence": 96.156036,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Act,",
+      "x0": 347.76,
+      "top": 4.5,
+      "x1": 367.2,
+      "bottom": 14.58,
+      "confidence": 96.130592,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 375.12,
+      "top": 4.68,
+      "x1": 390.96,
+      "bottom": 12.78,
+      "confidence": 96.130592,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "provisions",
+      "x0": 398.52,
+      "top": 4.68,
+      "x1": 449.64,
+      "bottom": 14.76,
+      "confidence": 96.543549,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "which",
+      "x0": 457.2,
+      "top": 4.68,
+      "x1": 487.08,
+      "bottom": 12.78,
+      "confidence": 96.926132,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "apply",
+      "x0": 494.64,
+      "top": 4.68,
+      "x1": 522.0,
+      "bottom": 14.76,
+      "confidence": 95.889206,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 529.1999999999999,
+      "top": 5.58,
+      "x1": 538.3799999999999,
+      "bottom": 12.78,
+      "confidence": 96.202324,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "shall,",
+      "x0": 143.64,
+      "top": 22.5,
+      "x1": 170.1,
+      "bottom": 32.22,
+      "confidence": 96.101166,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "so",
+      "x0": 174.6,
+      "top": 25.38,
+      "x1": 184.32,
+      "bottom": 30.599999999999998,
+      "confidence": 96.101166,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "far",
+      "x0": 187.92,
+      "top": 22.32,
+      "x1": 202.14,
+      "bottom": 30.6,
+      "confidence": 94.759712,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "as",
+      "x0": 205.92,
+      "top": 25.38,
+      "x1": 216.17999999999998,
+      "bottom": 30.599999999999998,
+      "confidence": 94.759712,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "may",
+      "x0": 220.14,
+      "top": 25.38,
+      "x1": 241.38,
+      "bottom": 32.58,
+      "confidence": 96.573799,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "be,",
+      "x0": 244.62,
+      "top": 22.5,
+      "x1": 258.3,
+      "bottom": 32.4,
+      "confidence": 96.268837,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "apply",
+      "x0": 262.8,
+      "top": 22.5,
+      "x1": 290.34000000000003,
+      "bottom": 32.58,
+      "confidence": 96.36261,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 293.76,
+      "top": 23.4,
+      "x1": 302.76,
+      "bottom": 30.599999999999998,
+      "confidence": 96.24958,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 306.9,
+      "top": 25.38,
+      "x1": 312.12,
+      "bottom": 30.599999999999998,
+      "confidence": 96.0606,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "mortgage",
+      "x0": 316.08,
+      "top": 23.4,
+      "x1": 362.88,
+      "bottom": 32.58,
+      "confidence": 96.59951,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "by",
+      "x0": 366.47999999999996,
+      "top": 22.5,
+      "x1": 378.35999999999996,
+      "bottom": 32.58,
+      "confidence": 96.59951,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "deposit",
+      "x0": 382.14,
+      "top": 22.5,
+      "x1": 417.78,
+      "bottom": 32.58,
+      "confidence": 96.647621,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 421.38,
+      "top": 22.32,
+      "x1": 430.92,
+      "bottom": 30.6,
+      "confidence": 93.286522,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "title-deeds.",
+      "x0": 433.44,
+      "top": 22.5,
+      "x1": 488.88,
+      "bottom": 30.6,
+      "confidence": 91.168716,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 85.86,
+      "top": 44.28,
+      "x1": 99.72,
+      "bottom": 54.54,
+      "confidence": 92.399597,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Asimple",
+      "x0": 113.39999999999999,
+      "top": 44.28,
+      "x1": 157.68,
+      "bottom": 54.54,
+      "confidence": 90.088463,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "mortgage.",
+      "x0": 161.64,
+      "top": 45.36,
+      "x1": 211.14,
+      "bottom": 54.54,
+      "confidence": 96.806458,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(B)",
+      "x0": 85.86,
+      "top": 66.24,
+      "x1": 99.72,
+      "bottom": 76.32,
+      "confidence": 92.353958,
+      "ocr_block": "3",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A",
+      "x0": 113.39999999999999,
+      "top": 66.06,
+      "x1": 121.49999999999999,
+      "bottom": 74.34,
+      "confidence": 72.624901,
+      "ocr_block": "3",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "mortgage",
+      "x0": 124.92,
+      "top": 67.14,
+      "x1": 171.9,
+      "bottom": 76.32,
+      "confidence": 72.624901,
+      "ocr_block": "3",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "by",
+      "x0": 175.32,
+      "top": 66.24,
+      "x1": 187.2,
+      "bottom": 76.32,
+      "confidence": 95.249184,
+      "ocr_block": "3",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "conditional",
+      "x0": 190.79999999999998,
+      "top": 66.24,
+      "x1": 246.59999999999997,
+      "bottom": 74.33999999999999,
+      "confidence": 96.459381,
+      "ocr_block": "3",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "sale.",
+      "x0": 250.56,
+      "top": 66.24,
+      "x1": 272.16,
+      "bottom": 74.33999999999999,
+      "confidence": 96.751091,
+      "ocr_block": "3",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(C)",
+      "x0": 85.86,
+      "top": 88.02,
+      "x1": 99.53999999999999,
+      "bottom": 98.1,
+      "confidence": 91.403793,
+      "ocr_block": "3",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A",
+      "x0": 113.39999999999999,
+      "top": 88.02,
+      "x1": 121.32,
+      "bottom": 96.11999999999999,
+      "confidence": 66.970528,
+      "ocr_block": "3",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "usufructuary",
+      "x0": 124.74,
+      "top": 88.02,
+      "x1": 190.8,
+      "bottom": 98.28,
+      "confidence": 66.970528,
+      "ocr_block": "3",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "mortgage.",
+      "x0": 194.57999999999998,
+      "top": 88.92,
+      "x1": 243.89999999999998,
+      "bottom": 98.28,
+      "confidence": 95.892883,
+      "ocr_block": "3",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(D)",
+      "x0": 85.86,
+      "top": 109.97999999999999,
+      "x1": 100.25999999999999,
+      "bottom": 120.05999999999999,
+      "confidence": 91.759041,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "An",
+      "x0": 113.39999999999999,
+      "top": 109.8,
+      "x1": 127.79999999999998,
+      "bottom": 118.08,
+      "confidence": 96.193466,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "English",
+      "x0": 131.94,
+      "top": 109.97999999999999,
+      "x1": 170.1,
+      "bottom": 120.05999999999999,
+      "confidence": 95.848862,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "mortgage.",
+      "x0": 174.06,
+      "top": 110.88,
+      "x1": 223.56,
+      "bottom": 120.06,
+      "confidence": 96.553528,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

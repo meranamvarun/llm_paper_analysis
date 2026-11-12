@@ -1,0 +1,136 @@
+{
+  "pdf_page": 375,
+  "crop_top": 773.92137,
+  "crop_bottom": 789.36137,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0375:l0050:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.22 Article 21-A was inserted in the Indian Constitution by:",
+      "bbox": [
+        41.94,
+        4.5,
+        232.38,
+        10.98
+      ]
+    }
+  ],
+  "text": "Q.22 Article 21-A was inserted in the Indian Constitution by:",
+  "ocr_words": [
+    {
+      "text": "Q.22",
+      "x0": 41.94,
+      "top": 4.68,
+      "x1": 55.98,
+      "bottom": 10.44,
+      "confidence": 92.908882,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Article",
+      "x0": 62.46,
+      "top": 4.5,
+      "x1": 82.44,
+      "bottom": 9.719999999999999,
+      "confidence": 92.143997,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "21-A",
+      "x0": 84.78,
+      "top": 4.68,
+      "x1": 98.82,
+      "bottom": 9.54,
+      "confidence": 92.143997,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "was",
+      "x0": 100.8,
+      "top": 5.9399999999999995,
+      "x1": 112.67999999999999,
+      "bottom": 9.719999999999999,
+      "confidence": 96.2491,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "inserted",
+      "x0": 115.02,
+      "top": 4.5,
+      "x1": 139.85999999999999,
+      "bottom": 9.719999999999999,
+      "confidence": 95.057022,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 142.38,
+      "top": 4.68,
+      "x1": 147.42,
+      "bottom": 9.54,
+      "confidence": 95.057022,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 149.57999999999998,
+      "top": 4.5,
+      "x1": 159.66,
+      "bottom": 9.719999999999999,
+      "confidence": 96.73716,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Indian",
+      "x0": 162.18,
+      "top": 4.5,
+      "x1": 180.72,
+      "bottom": 9.719999999999999,
+      "confidence": 96.067619,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Constitution",
+      "x0": 183.23999999999998,
+      "top": 4.68,
+      "x1": 221.03999999999996,
+      "bottom": 9.719999999999999,
+      "confidence": 95.974228,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "by:",
+      "x0": 223.73999999999998,
+      "top": 4.5,
+      "x1": 232.38,
+      "bottom": 10.98,
+      "confidence": 95.974228,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

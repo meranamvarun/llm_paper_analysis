@@ -1,0 +1,393 @@
+{
+  "pdf_page": 398,
+  "crop_top": 160.24136,
+  "crop_bottom": 261.12136,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0398:l0008:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.43 Which one of the following essentials for seeking claim of patent is wrong?",
+      "bbox": [
+        41.94,
+        4.32,
+        295.2,
+        10.98
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Ans A",
+      "bbox": [
+        43.379999999999995,
+        14.94,
+        87.66,
+        28.439999999999998
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "1. Compulsory Licensing",
+      "bbox": [
+        88.56,
+        25.74,
+        161.1,
+        32.22
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        37.26,
+        92.88,
+        52.199999999999996
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "Non-obviousness",
+      "bbox": [
+        95.94,
+        47.16,
+        147.42,
+        52.379999999999995
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        58.68,
+        93.06,
+        73.8
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "Novelty",
+      "bbox": [
+        95.94,
+        67.86,
+        118.62,
+        75.78
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        79.92,
+        93.06,
+        94.86
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "Industrial Utility",
+      "bbox": [
+        95.94,
+        89.82,
+        144.0,
+        96.3
+      ]
+    }
+  ],
+  "text": "Q.43 Which one of the following essentials for seeking claim of patent is wrong?\nAns A\n1. Compulsory Licensing\nx,\nNon-obviousness\nx,\nNovelty\nx,\nIndustrial Utility",
+  "ocr_words": [
+    {
+      "text": "Q.43",
+      "x0": 41.94,
+      "top": 4.68,
+      "x1": 55.98,
+      "bottom": 10.44,
+      "confidence": 91.514465,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Which",
+      "x0": 62.64,
+      "top": 4.5,
+      "x1": 81.72,
+      "bottom": 9.719999999999999,
+      "confidence": 93.558479,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "one",
+      "x0": 84.06,
+      "top": 5.9399999999999995,
+      "x1": 95.4,
+      "bottom": 9.719999999999999,
+      "confidence": 95.813995,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 97.74,
+      "top": 4.32,
+      "x1": 103.86,
+      "bottom": 9.719999999999999,
+      "confidence": 96.871849,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 105.66,
+      "top": 4.5,
+      "x1": 115.56,
+      "bottom": 9.719999999999999,
+      "confidence": 95.884796,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 117.72,
+      "top": 4.5,
+      "x1": 146.51999999999998,
+      "bottom": 10.98,
+      "confidence": 96.25753,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "essentials",
+      "x0": 148.68,
+      "top": 4.5,
+      "x1": 178.74,
+      "bottom": 9.719999999999999,
+      "confidence": 96.392876,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "for",
+      "x0": 180.72,
+      "top": 4.32,
+      "x1": 189.54,
+      "bottom": 9.719999999999999,
+      "confidence": 95.879227,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "seeking",
+      "x0": 191.7,
+      "top": 4.5,
+      "x1": 214.92,
+      "bottom": 10.98,
+      "confidence": 96.240639,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "claim",
+      "x0": 216.9,
+      "top": 4.5,
+      "x1": 232.74,
+      "bottom": 9.719999999999999,
+      "confidence": 96.328743,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 235.26,
+      "top": 4.32,
+      "x1": 241.38,
+      "bottom": 9.719999999999999,
+      "confidence": 96.328743,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "patent",
+      "x0": 243.54,
+      "top": 5.04,
+      "x1": 263.52,
+      "bottom": 10.98,
+      "confidence": 95.912514,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 265.86,
+      "top": 4.68,
+      "x1": 270.18,
+      "bottom": 9.719999999999999,
+      "confidence": 96.757843,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "wrong?",
+      "x0": 272.15999999999997,
+      "top": 4.5,
+      "x1": 295.2,
+      "bottom": 10.98,
+      "confidence": 95.860046,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.379999999999995,
+      "top": 17.46,
+      "x1": 54.53999999999999,
+      "bottom": 22.32,
+      "confidence": 96.278236,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A",
+      "x0": 73.8,
+      "top": 14.94,
+      "x1": 87.66,
+      "bottom": 28.439999999999998,
+      "confidence": 30.108795,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1.",
+      "x0": 88.56,
+      "top": 26.099999999999998,
+      "x1": 93.06,
+      "bottom": 30.779999999999998,
+      "confidence": 96.86673,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Compulsory",
+      "x0": 95.58,
+      "top": 25.74,
+      "x1": 131.57999999999998,
+      "bottom": 32.22,
+      "confidence": 96.766945,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Licensing",
+      "x0": 134.1,
+      "top": 25.919999999999998,
+      "x1": 161.1,
+      "bottom": 32.22,
+      "confidence": 96.843712,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 37.26,
+      "x1": 92.88,
+      "bottom": 52.199999999999996,
+      "confidence": 63.108356,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Non-obviousness",
+      "x0": 95.94,
+      "top": 47.16,
+      "x1": 147.42,
+      "bottom": 52.379999999999995,
+      "confidence": 92.329597,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 58.68,
+      "x1": 93.06,
+      "bottom": 73.8,
+      "confidence": 51.109241,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Novelty",
+      "x0": 95.94,
+      "top": 67.86,
+      "x1": 118.62,
+      "bottom": 75.78,
+      "confidence": 96.327553,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 79.92,
+      "x1": 93.06,
+      "bottom": 94.86,
+      "confidence": 46.325058,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Industrial",
+      "x0": 95.94,
+      "top": 89.82,
+      "x1": 123.47999999999999,
+      "bottom": 95.03999999999999,
+      "confidence": 96.013367,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Utility",
+      "x0": 126.36,
+      "top": 89.82,
+      "x1": 144.0,
+      "bottom": 96.3,
+      "confidence": 96.8367,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

@@ -1,0 +1,998 @@
+{
+  "pdf_page": 459,
+  "crop_top": 556.11,
+  "crop_bottom": 701.776,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0459:l0026:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "26. A transport issued a circular to all its drivers that they should not compete",
+      "bbox": [
+        72.72,
+        4.14,
+        498.42,
+        16.02
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "company or",
+      "bbox": [
+        148.85999999999999,
+        7.38,
+        512.46,
+        15.3
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "obstruct other buses plying in the route. Driver A, in contravention of the express",
+      "bbox": [
+        90.53999999999999,
+        20.7,
+        485.64,
+        31.14
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "prohibition, obstructed another bus and while doing so met with an accident in which B was",
+      "bbox": [
+        90.89999999999999,
+        36.54,
+        537.66,
+        46.98
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "injured.",
+      "bbox": [
+        90.72,
+        52.379999999999995,
+        126.9,
+        62.63999999999999
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "A. The company is not liable as it had expressly prohibited the drivers from",
+      "bbox": [
+        144.18,
+        84.06,
+        521.8199999999999,
+        94.5
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "competing and obstructing other buses.",
+      "bbox": [
+        171.54,
+        99.72,
+        364.68,
+        109.98
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "B. The company is liable as the accident happened in the course of",
+      "bbox": [
+        144.9,
+        115.02,
+        488.69999999999993,
+        125.46
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "employment.",
+      "bbox": [
+        171.35999999999999,
+        130.68,
+        237.06,
+        140.94
+      ]
+    }
+  ],
+  "text": "26. A transport issued a circular to all its drivers that they should not compete\ncompany or\nobstruct other buses plying in the route. Driver A, in contravention of the express\nprohibition, obstructed another bus and while doing so met with an accident in which B was\ninjured.\nA. The company is not liable as it had expressly prohibited the drivers from\ncompeting and obstructing other buses.\nB. The company is liable as the accident happened in the course of\nemployment.",
+  "ocr_words": [
+    {
+      "text": "26.",
+      "x0": 72.72,
+      "top": 5.3999999999999995,
+      "x1": 86.4,
+      "bottom": 13.139999999999999,
+      "confidence": 96.044243,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A",
+      "x0": 90.17999999999999,
+      "top": 5.3999999999999995,
+      "x1": 96.83999999999999,
+      "bottom": 13.139999999999999,
+      "confidence": 85.037819,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "transport",
+      "x0": 99.89999999999999,
+      "top": 6.12,
+      "x1": 145.07999999999998,
+      "bottom": 15.3,
+      "confidence": 85.037819,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "company",
+      "x0": 148.85999999999999,
+      "top": 7.38,
+      "x1": 192.77999999999997,
+      "bottom": 15.3,
+      "confidence": 96.282166,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "issued",
+      "x0": 196.38,
+      "top": 4.859999999999999,
+      "x1": 225.54,
+      "bottom": 13.139999999999999,
+      "confidence": 96.515686,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 226.44,
+      "top": 4.14,
+      "x1": 231.48,
+      "bottom": 16.02,
+      "confidence": 96.913391,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "circular",
+      "x0": 238.14,
+      "top": 4.859999999999999,
+      "x1": 273.41999999999996,
+      "bottom": 13.139999999999999,
+      "confidence": 96.628342,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 276.48,
+      "top": 6.12,
+      "x1": 286.02000000000004,
+      "bottom": 13.14,
+      "confidence": 96.935471,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "all",
+      "x0": 289.97999999999996,
+      "top": 4.859999999999999,
+      "x1": 299.69999999999993,
+      "bottom": 13.139999999999999,
+      "confidence": 96.668236,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "its",
+      "x0": 304.02,
+      "top": 5.22,
+      "x1": 314.28,
+      "bottom": 13.14,
+      "confidence": 96.772377,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "drivers",
+      "x0": 318.06,
+      "top": 4.859999999999999,
+      "x1": 350.46,
+      "bottom": 13.139999999999999,
+      "confidence": 96.69825,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "that",
+      "x0": 353.88,
+      "top": 4.859999999999999,
+      "x1": 373.32,
+      "bottom": 13.139999999999999,
+      "confidence": 96.509338,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "they",
+      "x0": 376.56,
+      "top": 4.859999999999999,
+      "x1": 397.98,
+      "bottom": 15.299999999999999,
+      "confidence": 96.462463,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "should",
+      "x0": 401.4,
+      "top": 4.859999999999999,
+      "x1": 432.71999999999997,
+      "bottom": 13.139999999999999,
+      "confidence": 96.717438,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "not",
+      "x0": 437.03999999999996,
+      "top": 6.12,
+      "x1": 452.52,
+      "bottom": 13.14,
+      "confidence": 96.834503,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "compete",
+      "x0": 456.12,
+      "top": 6.12,
+      "x1": 498.42,
+      "bottom": 15.3,
+      "confidence": 96.347733,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "or",
+      "x0": 502.02,
+      "top": 7.38,
+      "x1": 512.46,
+      "bottom": 13.14,
+      "confidence": 96.681801,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "obstruct",
+      "x0": 90.53999999999999,
+      "top": 20.7,
+      "x1": 130.5,
+      "bottom": 28.979999999999997,
+      "confidence": 96.570274,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "other",
+      "x0": 134.1,
+      "top": 20.7,
+      "x1": 160.2,
+      "bottom": 28.979999999999997,
+      "confidence": 96.305153,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "buses",
+      "x0": 163.98,
+      "top": 20.7,
+      "x1": 190.79999999999998,
+      "bottom": 28.979999999999997,
+      "confidence": 96.875961,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "plying",
+      "x0": 194.76,
+      "top": 20.7,
+      "x1": 222.66,
+      "bottom": 31.14,
+      "confidence": 96.473061,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "in",
+      "x0": 226.44,
+      "top": 21.06,
+      "x1": 234.0,
+      "bottom": 28.979999999999997,
+      "confidence": 95.832779,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 237.6,
+      "top": 20.7,
+      "x1": 253.07999999999998,
+      "bottom": 28.979999999999997,
+      "confidence": 96.01606,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "route.",
+      "x0": 257.4,
+      "top": 21.96,
+      "x1": 285.29999999999995,
+      "bottom": 28.98,
+      "confidence": 96.01606,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Driver",
+      "x0": 289.97999999999996,
+      "top": 21.24,
+      "x1": 318.59999999999997,
+      "bottom": 28.979999999999997,
+      "confidence": 96.656677,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "A,",
+      "x0": 321.84,
+      "top": 21.24,
+      "x1": 330.65999999999997,
+      "bottom": 30.599999999999998,
+      "confidence": 95.665375,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "in",
+      "x0": 334.97999999999996,
+      "top": 21.06,
+      "x1": 342.35999999999996,
+      "bottom": 28.979999999999997,
+      "confidence": 95.567886,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "contravention",
+      "x0": 346.68,
+      "top": 21.24,
+      "x1": 413.82,
+      "bottom": 28.979999999999997,
+      "confidence": 96.281677,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 417.96,
+      "top": 20.7,
+      "x1": 427.5,
+      "bottom": 28.979999999999997,
+      "confidence": 96.560898,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 430.38,
+      "top": 20.7,
+      "x1": 445.86,
+      "bottom": 28.979999999999997,
+      "confidence": 96.878922,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "express",
+      "x0": 449.64,
+      "top": 23.22,
+      "x1": 485.64,
+      "bottom": 31.14,
+      "confidence": 96.407494,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "prohibition,",
+      "x0": 90.89999999999999,
+      "top": 36.54,
+      "x1": 146.51999999999998,
+      "bottom": 46.98,
+      "confidence": 96.023445,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "obstructed",
+      "x0": 150.66,
+      "top": 36.54,
+      "x1": 202.32,
+      "bottom": 44.82,
+      "confidence": 95.585442,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "another",
+      "x0": 206.45999999999998,
+      "top": 36.54,
+      "x1": 244.43999999999997,
+      "bottom": 44.82,
+      "confidence": 96.655396,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "bus",
+      "x0": 248.22,
+      "top": 36.54,
+      "x1": 264.24,
+      "bottom": 44.82,
+      "confidence": 96.89959,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "and",
+      "x0": 268.02,
+      "top": 36.54,
+      "x1": 284.76,
+      "bottom": 44.82,
+      "confidence": 95.117149,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "while",
+      "x0": 288.71999999999997,
+      "top": 36.54,
+      "x1": 314.28,
+      "bottom": 44.82,
+      "confidence": 95.9207,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "doing",
+      "x0": 318.06,
+      "top": 36.54,
+      "x1": 344.52,
+      "bottom": 46.98,
+      "confidence": 96.610077,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "so",
+      "x0": 348.12,
+      "top": 39.059999999999995,
+      "x1": 358.02,
+      "bottom": 44.81999999999999,
+      "confidence": 96.230652,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "met",
+      "x0": 362.34,
+      "top": 37.8,
+      "x1": 380.52,
+      "bottom": 44.81999999999999,
+      "confidence": 96.126129,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "with",
+      "x0": 383.94,
+      "top": 36.54,
+      "x1": 404.28,
+      "bottom": 44.82,
+      "confidence": 96.846764,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "an",
+      "x0": 408.41999999999996,
+      "top": 39.059999999999995,
+      "x1": 419.03999999999996,
+      "bottom": 44.81999999999999,
+      "confidence": 96.227669,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "accident",
+      "x0": 423.18,
+      "top": 36.54,
+      "x1": 463.5,
+      "bottom": 44.82,
+      "confidence": 96.076477,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "in",
+      "x0": 467.46,
+      "top": 37.08,
+      "x1": 474.65999999999997,
+      "bottom": 44.82,
+      "confidence": 96.124138,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "which",
+      "x0": 478.62,
+      "top": 36.54,
+      "x1": 506.52,
+      "bottom": 44.82,
+      "confidence": 92.202499,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "B",
+      "x0": 511.02,
+      "top": 37.26,
+      "x1": 516.06,
+      "bottom": 44.82,
+      "confidence": 92.202499,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "was",
+      "x0": 519.48,
+      "top": 39.059999999999995,
+      "x1": 537.66,
+      "bottom": 44.81999999999999,
+      "confidence": 96.181068,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "injured.",
+      "x0": 90.72,
+      "top": 52.379999999999995,
+      "x1": 126.9,
+      "bottom": 62.63999999999999,
+      "confidence": 96.245438,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "A.",
+      "x0": 144.18,
+      "top": 84.78,
+      "x1": 153.18,
+      "bottom": 92.34,
+      "confidence": 95.362396,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 171.18,
+      "top": 84.24,
+      "x1": 188.64000000000001,
+      "bottom": 92.52,
+      "confidence": 51.320042,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "company",
+      "x0": 192.42,
+      "top": 86.58,
+      "x1": 236.51999999999998,
+      "bottom": 94.5,
+      "confidence": 92.837631,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 240.12,
+      "top": 84.6,
+      "x1": 246.24,
+      "bottom": 92.52,
+      "confidence": 96.552673,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "not",
+      "x0": 250.38,
+      "top": 85.32,
+      "x1": 265.68,
+      "bottom": 92.52,
+      "confidence": 96.622299,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "liable",
+      "x0": 269.64,
+      "top": 84.24,
+      "x1": 294.47999999999996,
+      "bottom": 92.52,
+      "confidence": 96.602188,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "as",
+      "x0": 298.44,
+      "top": 86.58,
+      "x1": 307.8,
+      "bottom": 92.52,
+      "confidence": 96.92717,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "it",
+      "x0": 311.76,
+      "top": 84.6,
+      "x1": 317.34,
+      "bottom": 92.33999999999999,
+      "confidence": 96.079201,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "had",
+      "x0": 321.3,
+      "top": 84.24,
+      "x1": 337.86,
+      "bottom": 92.52,
+      "confidence": 96.794182,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "expressly",
+      "x0": 342.0,
+      "top": 84.24,
+      "x1": 386.46,
+      "bottom": 94.5,
+      "confidence": 96.497879,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "prohibited",
+      "x0": 390.24,
+      "top": 84.24,
+      "x1": 439.74,
+      "bottom": 94.5,
+      "confidence": 96.289307,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 443.52,
+      "top": 84.24,
+      "x1": 459.0,
+      "bottom": 92.52,
+      "confidence": 96.040657,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "drivers",
+      "x0": 462.78,
+      "top": 84.24,
+      "x1": 495.35999999999996,
+      "bottom": 92.52,
+      "confidence": 96.69268,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "from",
+      "x0": 498.96,
+      "top": 84.06,
+      "x1": 521.8199999999999,
+      "bottom": 92.52,
+      "confidence": 96.179184,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "competing",
+      "x0": 171.54,
+      "top": 100.08,
+      "x1": 222.66,
+      "bottom": 109.98,
+      "confidence": 96.113136,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "and",
+      "x0": 226.26,
+      "top": 99.72,
+      "x1": 243.17999999999998,
+      "bottom": 108.0,
+      "confidence": 96.82016,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "obstructing",
+      "x0": 247.32,
+      "top": 99.72,
+      "x1": 302.03999999999996,
+      "bottom": 109.98,
+      "confidence": 96.358711,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "other",
+      "x0": 305.64,
+      "top": 99.72,
+      "x1": 331.74,
+      "bottom": 108.0,
+      "confidence": 95.79705,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "buses.",
+      "x0": 335.52,
+      "top": 99.72,
+      "x1": 364.68,
+      "bottom": 108.0,
+      "confidence": 95.79705,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "B.",
+      "x0": 144.9,
+      "top": 115.74,
+      "x1": 153.18,
+      "bottom": 123.3,
+      "confidence": 91.755959,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 171.0,
+      "top": 115.19999999999999,
+      "x1": 189.0,
+      "bottom": 123.47999999999999,
+      "confidence": 75.561386,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "company",
+      "x0": 192.6,
+      "top": 117.53999999999999,
+      "x1": 237.78,
+      "bottom": 125.46,
+      "confidence": 75.561386,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 241.2,
+      "top": 115.38,
+      "x1": 248.04,
+      "bottom": 123.47999999999999,
+      "confidence": 95.458954,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "liable",
+      "x0": 251.64,
+      "top": 115.19999999999999,
+      "x1": 277.91999999999996,
+      "bottom": 123.47999999999999,
+      "confidence": 95.836823,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "as",
+      "x0": 281.52,
+      "top": 117.53999999999999,
+      "x1": 291.41999999999996,
+      "bottom": 123.47999999999999,
+      "confidence": 96.749428,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 294.47999999999996,
+      "top": 115.19999999999999,
+      "x1": 310.49999999999994,
+      "bottom": 123.47999999999999,
+      "confidence": 96.216705,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "accident",
+      "x0": 314.09999999999997,
+      "top": 115.19999999999999,
+      "x1": 355.31999999999994,
+      "bottom": 123.47999999999999,
+      "confidence": 96.454224,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "happened",
+      "x0": 359.09999999999997,
+      "top": 115.19999999999999,
+      "x1": 407.88,
+      "bottom": 125.46,
+      "confidence": 96.283974,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 411.84,
+      "top": 115.38,
+      "x1": 419.76,
+      "bottom": 123.3,
+      "confidence": 96.849564,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 423.35999999999996,
+      "top": 115.19999999999999,
+      "x1": 439.55999999999995,
+      "bottom": 123.47999999999999,
+      "confidence": 96.49073,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "course",
+      "x0": 442.97999999999996,
+      "top": 117.53999999999999,
+      "x1": 475.19999999999993,
+      "bottom": 123.47999999999999,
+      "confidence": 95.985565,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 478.79999999999995,
+      "top": 115.02,
+      "x1": 488.69999999999993,
+      "bottom": 123.47999999999999,
+      "confidence": 96.773758,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "employment.",
+      "x0": 171.35999999999999,
+      "top": 130.68,
+      "x1": 237.06,
+      "bottom": 140.94,
+      "confidence": 95.876083,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

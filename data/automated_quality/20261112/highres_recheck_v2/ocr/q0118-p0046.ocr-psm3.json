@@ -1,0 +1,844 @@
+{
+  "pdf_page": 46,
+  "crop_top": 386.27014999999966,
+  "crop_bottom": 493.98941199999973,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0046:l0015:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "119. A premises is defined as a \"factory\" under Section 2(m)(i) of the Factories Act, 1948, if:",
+      "bbox": [
+        57.96,
+        4.68,
+        522.9,
+        14.94
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "(A) Twenty workers working without the aid of",
+      "bbox": [
+        85.86,
+        23.22,
+        395.82,
+        33.48
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "or more are power.",
+      "bbox": [
+        155.16,
+        26.279999999999998,
+        431.09999999999997,
+        33.48
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(B) Ten workers working, and manufacturing is carried with",
+      "bbox": [
+        85.86,
+        41.76,
+        538.56,
+        52.019999999999996
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "or more are a process on",
+      "bbox": [
+        137.16,
+        44.82,
+        511.73999999999995,
+        52.019999999999996
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "the aid of power.",
+      "bbox": [
+        113.75999999999999,
+        56.339999999999996,
+        197.09999999999997,
+        66.6
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "(C) Less than ten workers are working, but the process involves hazardous substances.",
+      "bbox": [
+        85.86,
+        74.88,
+        535.3199999999999,
+        85.14
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "(D) Itisa hotel, restaurant, or eating place.",
+      "bbox": [
+        85.86,
+        93.42,
+        315.35999999999996,
+        103.68
+      ]
+    }
+  ],
+  "text": "119. A premises is defined as a \"factory\" under Section 2(m)(i) of the Factories Act, 1948, if:\n(A) Twenty workers working without the aid of\nor more are power.\n(B) Ten workers working, and manufacturing is carried with\nor more are a process on\nthe aid of power.\n(C) Less than ten workers are working, but the process involves hazardous substances.\n(D) Itisa hotel, restaurant, or eating place.",
+  "ocr_words": [
+    {
+      "text": "119.",
+      "x0": 57.96,
+      "top": 5.22,
+      "x1": 77.22,
+      "bottom": 12.959999999999999,
+      "confidence": 96.612114,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A",
+      "x0": 84.96,
+      "top": 4.68,
+      "x1": 93.05999999999999,
+      "bottom": 12.78,
+      "confidence": 95.631836,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "premises",
+      "x0": 96.3,
+      "top": 4.859999999999999,
+      "x1": 141.12,
+      "bottom": 14.94,
+      "confidence": 95.631836,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 144.9,
+      "top": 4.859999999999999,
+      "x1": 152.82,
+      "bottom": 12.959999999999999,
+      "confidence": 95.752281,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "defined",
+      "x0": 156.96,
+      "top": 4.68,
+      "x1": 193.68,
+      "bottom": 12.959999999999999,
+      "confidence": 96.032661,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "as",
+      "x0": 197.45999999999998,
+      "top": 7.56,
+      "x1": 207.54,
+      "bottom": 12.959999999999999,
+      "confidence": 95.881828,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 211.67999999999998,
+      "top": 7.56,
+      "x1": 216.89999999999998,
+      "bottom": 12.959999999999999,
+      "confidence": 95.407318,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "\"factory\"",
+      "x0": 220.85999999999999,
+      "top": 4.68,
+      "x1": 263.52,
+      "bottom": 14.94,
+      "confidence": 94.349159,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "under",
+      "x0": 267.48,
+      "top": 4.859999999999999,
+      "x1": 297.0,
+      "bottom": 12.959999999999999,
+      "confidence": 96.268257,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Section",
+      "x0": 300.96,
+      "top": 4.68,
+      "x1": 337.5,
+      "bottom": 12.959999999999999,
+      "confidence": 93.291611,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2(m)(i)",
+      "x0": 341.28,
+      "top": 4.68,
+      "x1": 374.03999999999996,
+      "bottom": 14.94,
+      "confidence": 86.810196,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 378.18,
+      "top": 4.68,
+      "x1": 387.72,
+      "bottom": 12.959999999999999,
+      "confidence": 96.37458,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 390.24,
+      "top": 4.859999999999999,
+      "x1": 406.08,
+      "bottom": 12.959999999999999,
+      "confidence": 96.382568,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Factories",
+      "x0": 410.21999999999997,
+      "top": 4.859999999999999,
+      "x1": 456.11999999999995,
+      "bottom": 12.959999999999999,
+      "confidence": 96.064575,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Act,",
+      "x0": 459.53999999999996,
+      "top": 4.68,
+      "x1": 478.97999999999996,
+      "bottom": 14.58,
+      "confidence": 96.789413,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1948,",
+      "x0": 484.2,
+      "top": 5.22,
+      "x1": 509.58,
+      "bottom": 14.579999999999998,
+      "confidence": 96.490479,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "if:",
+      "x0": 513.72,
+      "top": 4.68,
+      "x1": 522.9,
+      "bottom": 12.959999999999999,
+      "confidence": 96.462242,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 85.86,
+      "top": 23.22,
+      "x1": 99.72,
+      "bottom": 33.48,
+      "confidence": 91.194878,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Twenty",
+      "x0": 113.75999999999999,
+      "top": 23.4,
+      "x1": 151.56,
+      "bottom": 33.48,
+      "confidence": 91.194878,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "or",
+      "x0": 155.16,
+      "top": 26.279999999999998,
+      "x1": 164.88,
+      "bottom": 31.499999999999996,
+      "confidence": 96.509758,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "more",
+      "x0": 168.66,
+      "top": 26.279999999999998,
+      "x1": 193.32,
+      "bottom": 31.499999999999996,
+      "confidence": 94.897354,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "workers",
+      "x0": 197.1,
+      "top": 23.4,
+      "x1": 237.24,
+      "bottom": 31.5,
+      "confidence": 96.414963,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "are",
+      "x0": 241.38,
+      "top": 26.279999999999998,
+      "x1": 256.86,
+      "bottom": 31.499999999999996,
+      "confidence": 96.714287,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "working",
+      "x0": 260.64,
+      "top": 23.4,
+      "x1": 301.86,
+      "bottom": 33.48,
+      "confidence": 96.624832,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "without",
+      "x0": 305.28,
+      "top": 23.4,
+      "x1": 344.15999999999997,
+      "bottom": 31.5,
+      "confidence": 96.367897,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 347.76,
+      "top": 23.4,
+      "x1": 363.59999999999997,
+      "bottom": 31.5,
+      "confidence": 96.532516,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "aid",
+      "x0": 367.56,
+      "top": 23.4,
+      "x1": 382.68,
+      "bottom": 31.5,
+      "confidence": 96.532516,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 386.28,
+      "top": 23.22,
+      "x1": 395.82,
+      "bottom": 31.5,
+      "confidence": 96.831215,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "power.",
+      "x0": 398.52,
+      "top": 26.279999999999998,
+      "x1": 431.09999999999997,
+      "bottom": 33.48,
+      "confidence": 96.137138,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(B)",
+      "x0": 85.86,
+      "top": 41.94,
+      "x1": 99.72,
+      "bottom": 52.019999999999996,
+      "confidence": 92.621017,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ten",
+      "x0": 113.75999999999999,
+      "top": 41.94,
+      "x1": 132.66,
+      "bottom": 50.04,
+      "confidence": 95.556664,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "or",
+      "x0": 137.16,
+      "top": 44.82,
+      "x1": 147.06,
+      "bottom": 50.04,
+      "confidence": 95.752121,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "more",
+      "x0": 151.56,
+      "top": 44.82,
+      "x1": 176.22,
+      "bottom": 50.04,
+      "confidence": 95.818481,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "workers",
+      "x0": 180.72,
+      "top": 41.94,
+      "x1": 221.04,
+      "bottom": 50.04,
+      "confidence": 95.75428,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "are",
+      "x0": 225.9,
+      "top": 44.82,
+      "x1": 241.38,
+      "bottom": 50.04,
+      "confidence": 95.75428,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "working,",
+      "x0": 245.88,
+      "top": 41.94,
+      "x1": 289.44,
+      "bottom": 52.019999999999996,
+      "confidence": 96.324165,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 294.65999999999997,
+      "top": 41.94,
+      "x1": 313.02,
+      "bottom": 50.04,
+      "confidence": 95.05777,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 317.52,
+      "top": 44.82,
+      "x1": 322.74,
+      "bottom": 50.04,
+      "confidence": 96.937553,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "manufacturing",
+      "x0": 327.42,
+      "top": 41.76,
+      "x1": 402.66,
+      "bottom": 52.019999999999996,
+      "confidence": 96.349228,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "process",
+      "x0": 406.97999999999996,
+      "top": 44.82,
+      "x1": 443.34,
+      "bottom": 52.019999999999996,
+      "confidence": 96.248512,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 447.84,
+      "top": 41.94,
+      "x1": 455.76,
+      "bottom": 50.04,
+      "confidence": 95.817581,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "carried",
+      "x0": 460.26,
+      "top": 41.94,
+      "x1": 495.9,
+      "bottom": 50.04,
+      "confidence": 96.590988,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "on",
+      "x0": 500.21999999999997,
+      "top": 44.82,
+      "x1": 511.73999999999995,
+      "bottom": 50.04,
+      "confidence": 96.653168,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "with",
+      "x0": 516.06,
+      "top": 41.94,
+      "x1": 538.56,
+      "bottom": 50.04,
+      "confidence": 96.554451,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 113.75999999999999,
+      "top": 56.519999999999996,
+      "x1": 129.42,
+      "bottom": 64.61999999999999,
+      "confidence": 96.45079,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "aid",
+      "x0": 133.56,
+      "top": 56.519999999999996,
+      "x1": 148.68,
+      "bottom": 64.61999999999999,
+      "confidence": 96.591759,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 152.28,
+      "top": 56.339999999999996,
+      "x1": 161.82,
+      "bottom": 64.61999999999999,
+      "confidence": 96.357018,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "power.",
+      "x0": 164.51999999999998,
+      "top": 59.22,
+      "x1": 197.09999999999997,
+      "bottom": 66.6,
+      "confidence": 96.393364,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(C)",
+      "x0": 85.86,
+      "top": 74.88,
+      "x1": 99.72,
+      "bottom": 85.14,
+      "confidence": 92.587631,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Less",
+      "x0": 113.75999999999999,
+      "top": 75.06,
+      "x1": 135.89999999999998,
+      "bottom": 83.16,
+      "confidence": 89.221657,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "than",
+      "x0": 139.85999999999999,
+      "top": 75.06,
+      "x1": 163.07999999999998,
+      "bottom": 83.16,
+      "confidence": 96.617714,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "ten",
+      "x0": 166.68,
+      "top": 75.96,
+      "x1": 182.70000000000002,
+      "bottom": 83.16,
+      "confidence": 96.500237,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "workers",
+      "x0": 186.29999999999998,
+      "top": 75.06,
+      "x1": 226.44,
+      "bottom": 83.16,
+      "confidence": 95.6987,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "are",
+      "x0": 230.39999999999998,
+      "top": 77.75999999999999,
+      "x1": 246.05999999999997,
+      "bottom": 83.16,
+      "confidence": 95.6987,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "working,",
+      "x0": 249.84,
+      "top": 75.06,
+      "x1": 293.22,
+      "bottom": 85.14,
+      "confidence": 96.878937,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "but",
+      "x0": 297.18,
+      "top": 75.06,
+      "x1": 313.92,
+      "bottom": 83.16,
+      "confidence": 96.64315,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 317.52,
+      "top": 75.06,
+      "x1": 333.18,
+      "bottom": 83.16,
+      "confidence": 96.888237,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "process",
+      "x0": 337.14,
+      "top": 77.75999999999999,
+      "x1": 373.5,
+      "bottom": 85.13999999999999,
+      "confidence": 96.499733,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "involves",
+      "x0": 377.28,
+      "top": 75.06,
+      "x1": 418.14,
+      "bottom": 83.16,
+      "confidence": 96.26342,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "hazardous",
+      "x0": 421.91999999999996,
+      "top": 75.06,
+      "x1": 473.93999999999994,
+      "bottom": 83.16,
+      "confidence": 96.771652,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "substances.",
+      "x0": 478.08,
+      "top": 75.06,
+      "x1": 535.3199999999999,
+      "bottom": 83.16,
+      "confidence": 96.492195,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(D)",
+      "x0": 85.86,
+      "top": 93.42,
+      "x1": 100.25999999999999,
+      "bottom": 103.68,
+      "confidence": 86.301781,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Itisa",
+      "x0": 113.94,
+      "top": 93.6,
+      "x1": 142.74,
+      "bottom": 101.69999999999999,
+      "confidence": 86.301781,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "hotel,",
+      "x0": 146.34,
+      "top": 93.6,
+      "x1": 173.7,
+      "bottom": 103.32,
+      "confidence": 96.049957,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "restaurant,",
+      "x0": 178.01999999999998,
+      "top": 94.5,
+      "x1": 234.53999999999996,
+      "bottom": 103.32,
+      "confidence": 96.752739,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "or",
+      "x0": 238.67999999999998,
+      "top": 96.3,
+      "x1": 248.57999999999998,
+      "bottom": 101.7,
+      "confidence": 96.750778,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "eating",
+      "x0": 252.35999999999999,
+      "top": 93.6,
+      "x1": 283.68,
+      "bottom": 103.67999999999999,
+      "confidence": 96.189781,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "place.",
+      "x0": 287.09999999999997,
+      "top": 93.6,
+      "x1": 315.35999999999996,
+      "bottom": 103.67999999999999,
+      "confidence": 96.189781,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

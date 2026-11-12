@@ -1,0 +1,895 @@
+{
+  "pdf_page": 426,
+  "crop_top": 140.23999999999998,
+  "crop_bottom": 278.56,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0426:l0007:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Question Number : 118 Question Id : 461139490 Question Type : MCQ Option Shuffling : Yes Display Question Number : Yes",
+      "bbox": [
+        37.8,
+        3.96,
+        553.86,
+        12.419999999999998
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Single Line Question Option : No Option Orientation : Vertical",
+      "bbox": [
+        37.98,
+        13.32,
+        293.22,
+        21.78
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "Correct : 1 Wrong : 0.25",
+      "bbox": [
+        37.8,
+        26.459999999999997,
+        138.06,
+        34.56
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "Fraud was defined in a well known English case:",
+      "bbox": [
+        37.62,
+        39.059999999999995,
+        268.2,
+        49.32
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "Options :",
+      "bbox": [
+        37.8,
+        56.16,
+        73.8,
+        64.25999999999999
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "1. ¥ Derry Peek",
+      "bbox": [
+        39.059999999999995,
+        68.58,
+        127.43999999999998,
+        80.28
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "¥.",
+      "bbox": [
+        94.32,
+        72.89999999999999,
+        101.52,
+        77.94
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "2. ® Ashby White",
+      "bbox": [
+        38.339999999999996,
+        86.58,
+        136.07999999999998,
+        98.28
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "¥.",
+      "bbox": [
+        97.92,
+        90.89999999999999,
+        105.12,
+        95.94
+      ]
+    },
+    {
+      "line_id": "l0009",
+      "text": "3. ® Turner Green",
+      "bbox": [
+        38.339999999999996,
+        104.58,
+        138.95999999999998,
+        113.94
+      ]
+    },
+    {
+      "line_id": "l0010",
+      "text": "v.",
+      "bbox": [
+        100.08,
+        108.89999999999999,
+        107.28,
+        113.94
+      ]
+    },
+    {
+      "line_id": "l0011",
+      "text": "4. * Wath O’Flanagan",
+      "bbox": [
+        38.339999999999996,
+        122.58,
+        158.39999999999998,
+        134.28
+      ]
+    },
+    {
+      "line_id": "l0012",
+      "text": "v.",
+      "bbox": [
+        92.16,
+        126.89999999999999,
+        99.36,
+        131.94
+      ]
+    }
+  ],
+  "text": "Question Number : 118 Question Id : 461139490 Question Type : MCQ Option Shuffling : Yes Display Question Number : Yes\nSingle Line Question Option : No Option Orientation : Vertical\nCorrect : 1 Wrong : 0.25\nFraud was defined in a well known English case:\nOptions :\n1. ¥ Derry Peek\n¥.\n2. ® Ashby White\n¥.\n3. ® Turner Green\nv.\n4. * Wath O’Flanagan\nv.",
+  "ocr_words": [
+    {
+      "text": "Question",
+      "x0": 37.8,
+      "top": 3.96,
+      "x1": 73.08,
+      "bottom": 12.059999999999999,
+      "confidence": 96.050484,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Number",
+      "x0": 75.96,
+      "top": 4.14,
+      "x1": 109.07999999999998,
+      "bottom": 10.44,
+      "confidence": 93.226181,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 112.5,
+      "top": 5.9399999999999995,
+      "x1": 113.76,
+      "bottom": 10.44,
+      "confidence": 92.03933,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "118",
+      "x0": 117.72,
+      "top": 3.96,
+      "x1": 130.85999999999999,
+      "bottom": 10.44,
+      "confidence": 96.501328,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Question",
+      "x0": 136.44,
+      "top": 3.96,
+      "x1": 171.54,
+      "bottom": 12.059999999999999,
+      "confidence": 96.833176,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Id",
+      "x0": 174.6,
+      "top": 4.14,
+      "x1": 182.88,
+      "bottom": 10.44,
+      "confidence": 92.431564,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 186.48,
+      "top": 5.9399999999999995,
+      "x1": 187.73999999999998,
+      "bottom": 10.44,
+      "confidence": 92.431564,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "461139490",
+      "x0": 191.34,
+      "top": 3.96,
+      "x1": 232.92000000000002,
+      "bottom": 10.44,
+      "confidence": 96.664284,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Question",
+      "x0": 238.5,
+      "top": 3.96,
+      "x1": 273.6,
+      "bottom": 12.059999999999999,
+      "confidence": 96.630112,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Type",
+      "x0": 276.84,
+      "top": 4.14,
+      "x1": 296.46,
+      "bottom": 12.419999999999998,
+      "confidence": 84.988228,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 300.78,
+      "top": 5.9399999999999995,
+      "x1": 301.32,
+      "bottom": 10.44,
+      "confidence": 84.988228,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "MCQ",
+      "x0": 305.09999999999997,
+      "top": 3.96,
+      "x1": 327.23999999999995,
+      "bottom": 12.059999999999999,
+      "confidence": 90.961906,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Option",
+      "x0": 332.82,
+      "top": 3.96,
+      "x1": 360.18,
+      "bottom": 12.419999999999998,
+      "confidence": 93.30162,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Shuffling",
+      "x0": 363.41999999999996,
+      "top": 3.96,
+      "x1": 399.78,
+      "bottom": 12.419999999999998,
+      "confidence": 92.420235,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 404.09999999999997,
+      "top": 5.9399999999999995,
+      "x1": 404.64,
+      "bottom": 10.44,
+      "confidence": 89.838356,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Yes",
+      "x0": 408.06,
+      "top": 4.14,
+      "x1": 422.28,
+      "bottom": 10.44,
+      "confidence": 96.084473,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Display",
+      "x0": 427.32,
+      "top": 3.96,
+      "x1": 457.2,
+      "bottom": 12.419999999999998,
+      "confidence": 96.576447,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Question",
+      "x0": 460.44,
+      "top": 3.96,
+      "x1": 495.54,
+      "bottom": 12.059999999999999,
+      "confidence": 96.282219,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Number",
+      "x0": 498.41999999999996,
+      "top": 4.14,
+      "x1": 531.7199999999999,
+      "bottom": 10.44,
+      "confidence": 93.171722,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 534.96,
+      "top": 5.9399999999999995,
+      "x1": 536.22,
+      "bottom": 10.44,
+      "confidence": 90.583771,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Yes",
+      "x0": 539.64,
+      "top": 4.14,
+      "x1": 553.86,
+      "bottom": 10.44,
+      "confidence": 96.418396,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Single",
+      "x0": 37.98,
+      "top": 13.32,
+      "x1": 61.739999999999995,
+      "bottom": 21.78,
+      "confidence": 96.556381,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Line",
+      "x0": 64.44,
+      "top": 13.32,
+      "x1": 82.25999999999999,
+      "bottom": 19.8,
+      "confidence": 96.281441,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Question",
+      "x0": 85.32,
+      "top": 13.32,
+      "x1": 120.6,
+      "bottom": 21.42,
+      "confidence": 95.924667,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Option",
+      "x0": 123.83999999999999,
+      "top": 13.32,
+      "x1": 151.2,
+      "bottom": 21.78,
+      "confidence": 93.038239,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": ":",
+      "x0": 154.79999999999998,
+      "top": 15.299999999999999,
+      "x1": 156.05999999999997,
+      "bottom": 19.799999999999997,
+      "confidence": 92.245346,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "No",
+      "x0": 159.48,
+      "top": 13.5,
+      "x1": 170.45999999999998,
+      "bottom": 19.8,
+      "confidence": 96.573242,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Option",
+      "x0": 176.04,
+      "top": 13.32,
+      "x1": 203.39999999999998,
+      "bottom": 21.78,
+      "confidence": 96.08522,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Orientation",
+      "x0": 206.64,
+      "top": 13.32,
+      "x1": 252.71999999999997,
+      "bottom": 19.8,
+      "confidence": 93.243927,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": ":",
+      "x0": 256.5,
+      "top": 15.299999999999999,
+      "x1": 257.76,
+      "bottom": 19.799999999999997,
+      "confidence": 87.264488,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Vertical",
+      "x0": 261.18,
+      "top": 13.32,
+      "x1": 293.22,
+      "bottom": 19.8,
+      "confidence": 96.503334,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Correct",
+      "x0": 37.8,
+      "top": 26.459999999999997,
+      "x1": 68.58,
+      "bottom": 32.94,
+      "confidence": 82.834312,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 72.0,
+      "top": 28.439999999999998,
+      "x1": 73.26,
+      "bottom": 32.94,
+      "confidence": 82.834312,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1",
+      "x0": 79.2,
+      "top": 26.459999999999997,
+      "x1": 80.46000000000001,
+      "bottom": 32.76,
+      "confidence": 92.194679,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Wrong",
+      "x0": 86.03999999999999,
+      "top": 26.64,
+      "x1": 113.94,
+      "bottom": 34.56,
+      "confidence": 92.043961,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 117.53999999999999,
+      "top": 28.439999999999998,
+      "x1": 118.8,
+      "bottom": 32.94,
+      "confidence": 91.497711,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "0.25",
+      "x0": 122.39999999999999,
+      "top": 26.459999999999997,
+      "x1": 138.06,
+      "bottom": 32.94,
+      "confidence": 96.642929,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Fraud",
+      "x0": 37.62,
+      "top": 39.78,
+      "x1": 65.69999999999999,
+      "bottom": 46.980000000000004,
+      "confidence": 95.768837,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "was",
+      "x0": 69.3,
+      "top": 41.22,
+      "x1": 87.12,
+      "bottom": 46.98,
+      "confidence": 95.597031,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "defined",
+      "x0": 90.72,
+      "top": 39.059999999999995,
+      "x1": 126.72,
+      "bottom": 46.98,
+      "confidence": 83.708405,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 130.32,
+      "top": 39.78,
+      "x1": 138.95999999999998,
+      "bottom": 46.980000000000004,
+      "confidence": 88.589371,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 142.56,
+      "top": 41.22,
+      "x1": 147.6,
+      "bottom": 46.98,
+      "confidence": 88.589371,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "well",
+      "x0": 151.2,
+      "top": 39.78,
+      "x1": 169.2,
+      "bottom": 46.980000000000004,
+      "confidence": 96.36515,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "known",
+      "x0": 172.62,
+      "top": 39.78,
+      "x1": 204.3,
+      "bottom": 46.980000000000004,
+      "confidence": 59.082371,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "English",
+      "x0": 207.9,
+      "top": 39.78,
+      "x1": 242.46,
+      "bottom": 49.32,
+      "confidence": 96.247131,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "case:",
+      "x0": 246.06,
+      "top": 41.22,
+      "x1": 268.2,
+      "bottom": 46.98,
+      "confidence": 95.838646,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Options",
+      "x0": 37.8,
+      "top": 56.16,
+      "x1": 68.94,
+      "bottom": 64.25999999999999,
+      "confidence": 87.271988,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": ":",
+      "x0": 72.53999999999999,
+      "top": 58.14,
+      "x1": 73.8,
+      "bottom": 62.64,
+      "confidence": 87.271988,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 39.059999999999995,
+      "top": 70.74,
+      "x1": 45.53999999999999,
+      "bottom": 77.94,
+      "confidence": 70.544525,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "¥",
+      "x0": 53.64,
+      "top": 68.58,
+      "x1": 58.14,
+      "bottom": 76.5,
+      "confidence": 39.757042,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Derry",
+      "x0": 64.25999999999999,
+      "top": 70.74,
+      "x1": 90.71999999999998,
+      "bottom": 80.28,
+      "confidence": 92.549187,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "¥.",
+      "x0": 94.32,
+      "top": 72.89999999999999,
+      "x1": 101.52,
+      "bottom": 77.94,
+      "confidence": 37.338455,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Peek",
+      "x0": 105.83999999999999,
+      "top": 70.74,
+      "x1": 127.43999999999998,
+      "bottom": 77.94,
+      "confidence": 64.00795,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2.",
+      "x0": 38.339999999999996,
+      "top": 88.74,
+      "x1": 45.53999999999999,
+      "bottom": 95.94,
+      "confidence": 74.67485,
+      "ocr_block": "2",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "®",
+      "x0": 52.019999999999996,
+      "top": 86.58,
+      "x1": 58.49999999999999,
+      "bottom": 93.06,
+      "confidence": 68.467224,
+      "ocr_block": "2",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ashby",
+      "x0": 64.25999999999999,
+      "top": 88.74,
+      "x1": 94.32,
+      "bottom": 98.28,
+      "confidence": 92.928925,
+      "ocr_block": "2",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "¥.",
+      "x0": 97.92,
+      "top": 90.89999999999999,
+      "x1": 105.12,
+      "bottom": 95.94,
+      "confidence": 37.303322,
+      "ocr_block": "2",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "White",
+      "x0": 109.44,
+      "top": 88.74,
+      "x1": 136.07999999999998,
+      "bottom": 95.94,
+      "confidence": 96.87291,
+      "ocr_block": "2",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "3.",
+      "x0": 38.339999999999996,
+      "top": 106.74,
+      "x1": 45.53999999999999,
+      "bottom": 113.94,
+      "confidence": 90.513512,
+      "ocr_block": "2",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "®",
+      "x0": 52.019999999999996,
+      "top": 104.58,
+      "x1": 58.49999999999999,
+      "bottom": 111.06,
+      "confidence": 80.642464,
+      "ocr_block": "2",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Turner",
+      "x0": 64.25999999999999,
+      "top": 106.74,
+      "x1": 96.47999999999999,
+      "bottom": 113.94,
+      "confidence": 92.915527,
+      "ocr_block": "2",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "v.",
+      "x0": 100.08,
+      "top": 108.89999999999999,
+      "x1": 107.28,
+      "bottom": 113.94,
+      "confidence": 78.970169,
+      "ocr_block": "2",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Green",
+      "x0": 111.6,
+      "top": 106.74,
+      "x1": 138.95999999999998,
+      "bottom": 113.94,
+      "confidence": 96.755882,
+      "ocr_block": "2",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "4.",
+      "x0": 38.339999999999996,
+      "top": 124.74,
+      "x1": 45.53999999999999,
+      "bottom": 131.94,
+      "confidence": 80.727814,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "*",
+      "x0": 52.019999999999996,
+      "top": 122.58,
+      "x1": 58.49999999999999,
+      "bottom": 129.06,
+      "confidence": 39.017746,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Wath",
+      "x0": 64.25999999999999,
+      "top": 124.74,
+      "x1": 88.55999999999999,
+      "bottom": 131.94,
+      "confidence": 91.200829,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "v.",
+      "x0": 92.16,
+      "top": 126.89999999999999,
+      "x1": 99.36,
+      "bottom": 131.94,
+      "confidence": 73.176178,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "O’Flanagan",
+      "x0": 103.67999999999999,
+      "top": 124.74,
+      "x1": 158.39999999999998,
+      "bottom": 134.28,
+      "confidence": 16.478233,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

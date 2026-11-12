@@ -1,0 +1,381 @@
+{
+  "pdf_page": 389,
+  "crop_top": 185.68136000000004,
+  "crop_bottom": 286.80135999999993,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0389:l0010:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.44 Right to one's Reputation is a:",
+      "bbox": [
+        41.903999999999996,
+        4.4639999999999995,
+        155.23199999999997,
+        10.799999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "\"4",
+      "bbox": [
+        73.728,
+        14.687999999999999,
+        87.55199999999999,
+        29.087999999999997
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "Ans",
+      "bbox": [
+        43.343999999999994,
+        17.712,
+        54.57599999999999,
+        22.608
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "1. right in rem",
+      "bbox": [
+        88.55999999999999,
+        26.063999999999997,
+        130.464,
+        32.4
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "x,",
+      "bbox": [
+        73.008,
+        37.296,
+        93.024,
+        52.56
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "right in personam",
+      "bbox": [
+        95.904,
+        47.376,
+        148.75199999999998,
+        53.855999999999995
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "x,",
+      "bbox": [
+        73.008,
+        58.751999999999995,
+        93.024,
+        73.872
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "an easement right",
+      "bbox": [
+        95.616,
+        68.832,
+        150.48,
+        75.16799999999999
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "x,",
+      "bbox": [
+        73.008,
+        80.064,
+        93.024,
+        95.32799999999999
+      ]
+    },
+    {
+      "line_id": "l0009",
+      "text": "property right",
+      "bbox": [
+        95.904,
+        90.14399999999999,
+        137.808,
+        96.624
+      ]
+    }
+  ],
+  "text": "Q.44 Right to one's Reputation is a:\n\"4\nAns\n1. right in rem\nx,\nright in personam\nx,\nan easement right\nx,\nproperty right",
+  "ocr_words": [
+    {
+      "text": "Q.44",
+      "x0": 41.903999999999996,
+      "top": 4.752,
+      "x1": 56.16,
+      "bottom": 10.367999999999999,
+      "confidence": 91.124405,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Right",
+      "x0": 62.928,
+      "top": 4.4639999999999995,
+      "x1": 78.47999999999999,
+      "bottom": 10.799999999999999,
+      "confidence": 93.529938,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 80.35199999999999,
+      "top": 5.183999999999999,
+      "x1": 86.68799999999999,
+      "bottom": 9.648,
+      "confidence": 95.315941,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "one's",
+      "x0": 88.848,
+      "top": 4.4639999999999995,
+      "x1": 104.976,
+      "bottom": 9.648,
+      "confidence": 96.140816,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Reputation",
+      "x0": 107.42399999999999,
+      "top": 4.608,
+      "x1": 141.26399999999998,
+      "bottom": 10.799999999999999,
+      "confidence": 96.093124,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 143.856,
+      "top": 4.608,
+      "x1": 148.03199999999998,
+      "bottom": 9.648,
+      "confidence": 96.417076,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a:",
+      "x0": 150.19199999999998,
+      "top": 5.904,
+      "x1": 155.23199999999997,
+      "bottom": 9.648,
+      "confidence": 96.920311,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.343999999999994,
+      "top": 17.712,
+      "x1": 54.57599999999999,
+      "bottom": 22.608,
+      "confidence": 96.989586,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "\"4",
+      "x0": 73.728,
+      "top": 14.687999999999999,
+      "x1": 87.55199999999999,
+      "bottom": 29.087999999999997,
+      "confidence": 32.864723,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 88.55999999999999,
+      "top": 26.351999999999997,
+      "x1": 93.02399999999999,
+      "bottom": 31.103999999999996,
+      "confidence": 95.260323,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "right",
+      "x0": 95.904,
+      "top": 26.063999999999997,
+      "x1": 109.29599999999999,
+      "bottom": 32.4,
+      "confidence": 95.260323,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "in",
+      "x0": 111.74399999999999,
+      "top": 26.351999999999997,
+      "x1": 116.35199999999999,
+      "bottom": 31.103999999999996,
+      "confidence": 95.853607,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "rem",
+      "x0": 119.23199999999999,
+      "top": 27.647999999999996,
+      "x1": 130.464,
+      "bottom": 31.247999999999998,
+      "confidence": 95.853607,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "x,",
+      "x0": 73.008,
+      "top": 37.296,
+      "x1": 93.024,
+      "bottom": 52.56,
+      "confidence": 60.321999,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "right",
+      "x0": 95.904,
+      "top": 47.376,
+      "x1": 109.29599999999999,
+      "bottom": 53.855999999999995,
+      "confidence": 96.522171,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "in",
+      "x0": 111.74399999999999,
+      "top": 47.663999999999994,
+      "x1": 116.35199999999999,
+      "bottom": 52.559999999999995,
+      "confidence": 92.778847,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "personam",
+      "x0": 119.23199999999999,
+      "top": 48.959999999999994,
+      "x1": 148.75199999999998,
+      "bottom": 53.855999999999995,
+      "confidence": 92.263191,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "x,",
+      "x0": 73.008,
+      "top": 58.751999999999995,
+      "x1": 93.024,
+      "bottom": 73.872,
+      "confidence": 60.490643,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "an",
+      "x0": 95.616,
+      "top": 70.27199999999999,
+      "x1": 102.24,
+      "bottom": 73.87199999999999,
+      "confidence": 96.605133,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "easement",
+      "x0": 104.832,
+      "top": 69.55199999999999,
+      "x1": 134.49599999999998,
+      "bottom": 73.87199999999999,
+      "confidence": 96.339363,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "right",
+      "x0": 136.944,
+      "top": 68.832,
+      "x1": 150.48,
+      "bottom": 75.16799999999999,
+      "confidence": 96.608765,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "x,",
+      "x0": 73.008,
+      "top": 80.064,
+      "x1": 93.024,
+      "bottom": 95.32799999999999,
+      "confidence": 55.66153,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "property",
+      "x0": 95.904,
+      "top": 90.86399999999999,
+      "x1": 121.824,
+      "bottom": 96.47999999999999,
+      "confidence": 95.728745,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "right",
+      "x0": 124.27199999999999,
+      "top": 90.14399999999999,
+      "x1": 137.808,
+      "bottom": 96.624,
+      "confidence": 96.419456,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

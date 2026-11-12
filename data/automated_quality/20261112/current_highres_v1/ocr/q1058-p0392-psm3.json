@@ -1,0 +1,625 @@
+{
+  "pdf_page": 392,
+  "crop_top": 705.0413599999999,
+  "crop_bottom": 793.92137,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0392:l0044:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.14 An accused head master of a school threatens a lady teacher to sign certain blank papers and if she does not do so, he would defame her. The head master is",
+      "bbox": [
+        41.903999999999996,
+        4.4639999999999995,
+        550.224,
+        10.943999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "guilty of:",
+      "bbox": [
+        62.495999999999995,
+        13.536,
+        89.56799999999998,
+        20.016
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "Ans ya",
+      "bbox": [
+        43.343999999999994,
+        24.624,
+        86.54399999999998,
+        38.16
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "1. extortion",
+      "bbox": [
+        88.55999999999999,
+        35.424,
+        122.976,
+        40.32
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "ra",
+      "bbox": [
+        73.008,
+        46.51199999999999,
+        86.544,
+        58.895999999999994
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "2. attempt to commit defamation",
+      "bbox": [
+        88.27199999999999,
+        56.592,
+        189.64799999999997,
+        62.928
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "v",
+      "bbox": [
+        73.728,
+        67.104,
+        87.55199999999999,
+        80.496
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "3. criminal intimidation",
+      "bbox": [
+        88.27199999999999,
+        77.904,
+        158.112,
+        83.088
+      ]
+    }
+  ],
+  "text": "Q.14 An accused head master of a school threatens a lady teacher to sign certain blank papers and if she does not do so, he would defame her. The head master is\nguilty of:\nAns ya\n1. extortion\nra\n2. attempt to commit defamation\nv\n3. criminal intimidation",
+  "ocr_words": [
+    {
+      "text": "Q.14",
+      "x0": 41.903999999999996,
+      "top": 4.752,
+      "x1": 56.16,
+      "bottom": 10.367999999999999,
+      "confidence": 91.801308,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "An",
+      "x0": 62.495999999999995,
+      "top": 4.752,
+      "x1": 70.56,
+      "bottom": 9.648,
+      "confidence": 47.574463,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "accused",
+      "x0": 72.86399999999999,
+      "top": 4.4639999999999995,
+      "x1": 96.91199999999999,
+      "bottom": 9.648,
+      "confidence": 47.574463,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "head",
+      "x0": 99.648,
+      "top": 4.4639999999999995,
+      "x1": 114.192,
+      "bottom": 9.648,
+      "confidence": 96.799034,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "master",
+      "x0": 116.78399999999999,
+      "top": 5.183999999999999,
+      "x1": 138.096,
+      "bottom": 9.648,
+      "confidence": 96.275925,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 140.112,
+      "top": 4.4639999999999995,
+      "x1": 146.304,
+      "bottom": 9.648,
+      "confidence": 95.706184,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 148.32,
+      "top": 5.904,
+      "x1": 151.2,
+      "bottom": 9.648,
+      "confidence": 95.639221,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "school",
+      "x0": 153.648,
+      "top": 4.4639999999999995,
+      "x1": 172.944,
+      "bottom": 9.648,
+      "confidence": 96.183945,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "threatens",
+      "x0": 175.248,
+      "top": 4.4639999999999995,
+      "x1": 205.05599999999998,
+      "bottom": 9.648,
+      "confidence": 96.183945,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 207.21599999999998,
+      "top": 5.904,
+      "x1": 210.23999999999998,
+      "bottom": 9.648,
+      "confidence": 94.9804,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "lady",
+      "x0": 212.832,
+      "top": 4.4639999999999995,
+      "x1": 225.35999999999999,
+      "bottom": 10.943999999999999,
+      "confidence": 94.9804,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "teacher",
+      "x0": 227.37599999999998,
+      "top": 4.4639999999999995,
+      "x1": 250.84799999999998,
+      "bottom": 9.648,
+      "confidence": 95.855263,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 252.71999999999997,
+      "top": 5.183999999999999,
+      "x1": 258.912,
+      "bottom": 9.648,
+      "confidence": 95.855263,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "sign",
+      "x0": 261.216,
+      "top": 4.608,
+      "x1": 272.88,
+      "bottom": 10.943999999999999,
+      "confidence": 96.680931,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "certain",
+      "x0": 275.328,
+      "top": 4.608,
+      "x1": 296.352,
+      "bottom": 9.648,
+      "confidence": 96.286339,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "blank",
+      "x0": 298.94399999999996,
+      "top": 4.4639999999999995,
+      "x1": 315.50399999999996,
+      "bottom": 9.648,
+      "confidence": 96.614227,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "papers",
+      "x0": 317.808,
+      "top": 5.904,
+      "x1": 338.256,
+      "bottom": 10.943999999999999,
+      "confidence": 96.478516,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 340.56,
+      "top": 4.4639999999999995,
+      "x1": 351.504,
+      "bottom": 9.648,
+      "confidence": 96.78521,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "if",
+      "x0": 354.09599999999995,
+      "top": 4.4639999999999995,
+      "x1": 357.9839999999999,
+      "bottom": 9.648,
+      "confidence": 96.289101,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "she",
+      "x0": 359.856,
+      "top": 4.4639999999999995,
+      "x1": 370.08,
+      "bottom": 9.648,
+      "confidence": 96.319427,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "does",
+      "x0": 372.38399999999996,
+      "top": 4.4639999999999995,
+      "x1": 386.63999999999993,
+      "bottom": 9.648,
+      "confidence": 96.338684,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "not",
+      "x0": 389.08799999999997,
+      "top": 5.183999999999999,
+      "x1": 399.02399999999994,
+      "bottom": 9.648,
+      "confidence": 96.155327,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "do",
+      "x0": 401.18399999999997,
+      "top": 4.4639999999999995,
+      "x1": 408.67199999999997,
+      "bottom": 9.648,
+      "confidence": 96.479248,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "so,",
+      "x0": 410.97599999999994,
+      "top": 5.904,
+      "x1": 419.3279999999999,
+      "bottom": 10.655999999999999,
+      "confidence": 96.527824,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "he",
+      "x0": 421.77599999999995,
+      "top": 4.4639999999999995,
+      "x1": 428.83199999999994,
+      "bottom": 9.648,
+      "confidence": 96.856445,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "would",
+      "x0": 430.99199999999996,
+      "top": 4.4639999999999995,
+      "x1": 449.85599999999994,
+      "bottom": 9.648,
+      "confidence": 95.611969,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "defame",
+      "x0": 452.304,
+      "top": 4.4639999999999995,
+      "x1": 475.48799999999994,
+      "bottom": 9.648,
+      "confidence": 95.07502,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "her.",
+      "x0": 478.08,
+      "top": 4.4639999999999995,
+      "x1": 489.59999999999997,
+      "bottom": 9.648,
+      "confidence": 95.07502,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 491.76,
+      "top": 4.4639999999999995,
+      "x1": 502.848,
+      "bottom": 9.648,
+      "confidence": 96.468475,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "head",
+      "x0": 505.43999999999994,
+      "top": 4.4639999999999995,
+      "x1": 519.9839999999999,
+      "bottom": 9.648,
+      "confidence": 96.13131,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "master",
+      "x0": 522.5759999999999,
+      "top": 5.183999999999999,
+      "x1": 543.8879999999999,
+      "bottom": 9.648,
+      "confidence": 96.659592,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 546.048,
+      "top": 4.608,
+      "x1": 550.224,
+      "bottom": 9.648,
+      "confidence": 96.659592,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "guilty",
+      "x0": 62.495999999999995,
+      "top": 13.68,
+      "x1": 79.776,
+      "bottom": 20.016,
+      "confidence": 96.889732,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of:",
+      "x0": 81.79199999999999,
+      "top": 13.536,
+      "x1": 89.56799999999998,
+      "bottom": 18.72,
+      "confidence": 95.549454,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.343999999999994,
+      "top": 26.927999999999997,
+      "x1": 54.57599999999999,
+      "bottom": 31.679999999999996,
+      "confidence": 96.897842,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "ya",
+      "x0": 72.43199999999999,
+      "top": 24.624,
+      "x1": 86.54399999999998,
+      "bottom": 38.16,
+      "confidence": 31.997589,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "ra",
+      "x0": 73.008,
+      "top": 46.51199999999999,
+      "x1": 86.544,
+      "bottom": 58.895999999999994,
+      "confidence": 32.814278,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "v",
+      "x0": 73.728,
+      "top": 67.104,
+      "x1": 87.55199999999999,
+      "bottom": 80.496,
+      "confidence": 60.444042,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "1.",
+      "x0": 88.55999999999999,
+      "top": 35.568,
+      "x1": 93.02399999999999,
+      "bottom": 40.32,
+      "confidence": 95.99968,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "extortion",
+      "x0": 95.616,
+      "top": 35.424,
+      "x1": 122.976,
+      "bottom": 40.32,
+      "confidence": 95.99968,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2.",
+      "x0": 88.27199999999999,
+      "top": 56.879999999999995,
+      "x1": 93.02399999999999,
+      "bottom": 61.632,
+      "confidence": 95.783531,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "attempt",
+      "x0": 95.616,
+      "top": 57.312,
+      "x1": 119.80799999999999,
+      "bottom": 62.928,
+      "confidence": 95.783531,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 121.96799999999999,
+      "top": 57.312,
+      "x1": 127.87199999999999,
+      "bottom": 61.775999999999996,
+      "confidence": 96.086243,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "commit",
+      "x0": 130.32,
+      "top": 56.879999999999995,
+      "x1": 153.072,
+      "bottom": 61.775999999999996,
+      "confidence": 96.861687,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "defamation",
+      "x0": 155.37599999999998,
+      "top": 56.592,
+      "x1": 189.64799999999997,
+      "bottom": 61.775999999999996,
+      "confidence": 96.244385,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "3.",
+      "x0": 88.27199999999999,
+      "top": 78.192,
+      "x1": 93.02399999999999,
+      "bottom": 83.088,
+      "confidence": 96.418182,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "criminal",
+      "x0": 95.616,
+      "top": 77.904,
+      "x1": 119.232,
+      "bottom": 83.088,
+      "confidence": 96.356186,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "intimidation",
+      "x0": 121.96799999999999,
+      "top": 77.904,
+      "x1": 158.112,
+      "bottom": 83.088,
+      "confidence": 96.185677,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

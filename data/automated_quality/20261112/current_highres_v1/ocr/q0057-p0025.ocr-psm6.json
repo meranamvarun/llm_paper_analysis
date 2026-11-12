@@ -1,0 +1,930 @@
+{
+  "pdf_page": 25,
+  "crop_top": 86.0912239999999,
+  "crop_bottom": 288.43063600000005,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0025:l0000:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "58. Consider the following statements:",
+      "bbox": [
+        57.455999999999996,
+        4.608,
+        261.36,
+        14.831999999999997
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "I. A child born out of null and void marriage is considered legitimate by law",
+      "bbox": [
+        85.53599999999999,
+        21.744,
+        510.04799999999994,
+        32.111999999999995
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "a as",
+      "bbox": [
+        210.95999999999998,
+        24.767999999999997,
+        418.75199999999995,
+        30.095999999999997
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "Il. Conferment of legitimacy is irrespective of whether such child born before",
+      "bbox": [
+        85.53599999999999,
+        45.215999999999994,
+        523.872,
+        55.44
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "was or",
+      "bbox": [
+        441.936,
+        48.239999999999995,
+        538.704,
+        53.568
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "after the commencement of the Amending Act 1976",
+      "bbox": [
+        113.904,
+        64.8,
+        373.824,
+        75.024
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "Select the most appropriate option:",
+      "bbox": [
+        85.824,
+        89.136,
+        262.656,
+        99.35999999999999
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "(A) Only I is correct",
+      "bbox": [
+        85.824,
+        117.648,
+        194.83199999999997,
+        127.872
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "(B) Only II is correct",
+      "bbox": [
+        85.824,
+        141.11999999999998,
+        199.296,
+        151.34399999999997
+      ]
+    },
+    {
+      "line_id": "l0009",
+      "text": "(C) Both I and II are correct",
+      "bbox": [
+        85.824,
+        164.59199999999998,
+        236.87999999999997,
+        174.672
+      ]
+    },
+    {
+      "line_id": "l0010",
+      "text": "(D) Both I and II are incorrect",
+      "bbox": [
+        85.824,
+        188.064,
+        247.10399999999998,
+        198.144
+      ]
+    }
+  ],
+  "text": "58. Consider the following statements:\nI. A child born out of null and void marriage is considered legitimate by law\na as\nIl. Conferment of legitimacy is irrespective of whether such child born before\nwas or\nafter the commencement of the Amending Act 1976\nSelect the most appropriate option:\n(A) Only I is correct\n(B) Only II is correct\n(C) Both I and II are correct\n(D) Both I and II are incorrect",
+  "ocr_words": [
+    {
+      "text": "58.",
+      "x0": 57.455999999999996,
+      "top": 5.183999999999999,
+      "x1": 71.136,
+      "bottom": 12.959999999999999,
+      "confidence": 95.369919,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Consider",
+      "x0": 85.824,
+      "top": 4.608,
+      "x1": 130.32,
+      "bottom": 12.959999999999997,
+      "confidence": 94.285065,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 133.92,
+      "top": 4.752,
+      "x1": 149.61599999999999,
+      "bottom": 12.96,
+      "confidence": 96.243607,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 153.35999999999999,
+      "top": 4.608,
+      "x1": 199.296,
+      "bottom": 14.831999999999997,
+      "confidence": 96.688904,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "statements:",
+      "x0": 203.04,
+      "top": 5.616,
+      "x1": 261.36,
+      "bottom": 12.959999999999999,
+      "confidence": 96.300301,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "I.",
+      "x0": 85.53599999999999,
+      "top": 22.032,
+      "x1": 91.72799999999998,
+      "bottom": 30.096,
+      "confidence": 93.280441,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "A",
+      "x0": 113.32799999999999,
+      "top": 21.744,
+      "x1": 121.392,
+      "bottom": 29.951999999999998,
+      "confidence": 94.578262,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "child",
+      "x0": 124.704,
+      "top": 21.887999999999998,
+      "x1": 149.04,
+      "bottom": 30.095999999999997,
+      "confidence": 94.578262,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "born",
+      "x0": 152.35199999999998,
+      "top": 21.887999999999998,
+      "x1": 175.24799999999996,
+      "bottom": 30.095999999999997,
+      "confidence": 96.276321,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "out",
+      "x0": 178.992,
+      "top": 22.895999999999997,
+      "x1": 194.832,
+      "bottom": 30.095999999999997,
+      "confidence": 96.490875,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 198.576,
+      "top": 21.744,
+      "x1": 208.07999999999998,
+      "bottom": 30.095999999999997,
+      "confidence": 96.460663,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "a",
+      "x0": 210.95999999999998,
+      "top": 24.767999999999997,
+      "x1": 216.28799999999998,
+      "bottom": 30.095999999999997,
+      "confidence": 96.371315,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "null",
+      "x0": 219.88799999999998,
+      "top": 21.887999999999998,
+      "x1": 239.76,
+      "bottom": 29.951999999999998,
+      "confidence": 96.769226,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "and",
+      "x0": 243.504,
+      "top": 21.887999999999998,
+      "x1": 261.936,
+      "bottom": 30.095999999999997,
+      "confidence": 96.484917,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "void",
+      "x0": 265.392,
+      "top": 21.887999999999998,
+      "x1": 286.272,
+      "bottom": 30.095999999999997,
+      "confidence": 96.336647,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "marriage",
+      "x0": 290.01599999999996,
+      "top": 21.887999999999998,
+      "x1": 335.664,
+      "bottom": 32.111999999999995,
+      "confidence": 95.636391,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "is",
+      "x0": 339.40799999999996,
+      "top": 21.887999999999998,
+      "x1": 347.328,
+      "bottom": 30.095999999999997,
+      "confidence": 86.482826,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "considered",
+      "x0": 351.07199999999995,
+      "top": 21.887999999999998,
+      "x1": 404.78399999999993,
+      "bottom": 30.095999999999997,
+      "confidence": 96.265396,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "as",
+      "x0": 408.67199999999997,
+      "top": 24.767999999999997,
+      "x1": 418.75199999999995,
+      "bottom": 30.095999999999997,
+      "confidence": 96.66217,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "legitimate",
+      "x0": 422.64,
+      "top": 21.887999999999998,
+      "x1": 473.76,
+      "bottom": 32.111999999999995,
+      "confidence": 96.311401,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "by",
+      "x0": 477.21599999999995,
+      "top": 21.887999999999998,
+      "x1": 489.02399999999994,
+      "bottom": 32.111999999999995,
+      "confidence": 95.762054,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "law",
+      "x0": 492.47999999999996,
+      "top": 21.887999999999998,
+      "x1": 510.04799999999994,
+      "bottom": 30.095999999999997,
+      "confidence": 96.681595,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Il.",
+      "x0": 85.53599999999999,
+      "top": 45.504,
+      "x1": 96.19199999999998,
+      "bottom": 53.568,
+      "confidence": 58.063286,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Conferment",
+      "x0": 114.192,
+      "top": 45.215999999999994,
+      "x1": 173.51999999999998,
+      "bottom": 53.56799999999999,
+      "confidence": 86.25029,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 178.416,
+      "top": 45.215999999999994,
+      "x1": 188.064,
+      "bottom": 53.56799999999999,
+      "confidence": 96.975143,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "legitimacy",
+      "x0": 191.808,
+      "top": 45.36,
+      "x1": 244.224,
+      "bottom": 55.44,
+      "confidence": 96.681046,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "is",
+      "x0": 248.832,
+      "top": 45.36,
+      "x1": 256.608,
+      "bottom": 53.568,
+      "confidence": 96.552399,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "irrespective",
+      "x0": 261.64799999999997,
+      "top": 45.36,
+      "x1": 320.688,
+      "bottom": 55.44,
+      "confidence": 96.272881,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 325.72799999999995,
+      "top": 45.215999999999994,
+      "x1": 335.23199999999997,
+      "bottom": 53.56799999999999,
+      "confidence": 96.849274,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "whether",
+      "x0": 338.976,
+      "top": 45.36,
+      "x1": 380.592,
+      "bottom": 53.568,
+      "confidence": 96.322464,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "such",
+      "x0": 385.63199999999995,
+      "top": 45.36,
+      "x1": 408.23999999999995,
+      "bottom": 53.568,
+      "confidence": 96.213272,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "child",
+      "x0": 412.99199999999996,
+      "top": 45.36,
+      "x1": 437.328,
+      "bottom": 53.568,
+      "confidence": 96.826889,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "was",
+      "x0": 441.936,
+      "top": 48.239999999999995,
+      "x1": 460.94399999999996,
+      "bottom": 53.568,
+      "confidence": 96.069656,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "born",
+      "x0": 465.69599999999997,
+      "top": 45.36,
+      "x1": 488.592,
+      "bottom": 53.568,
+      "confidence": 96.069656,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "before",
+      "x0": 493.2,
+      "top": 45.215999999999994,
+      "x1": 523.872,
+      "bottom": 53.56799999999999,
+      "confidence": 96.592239,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "or",
+      "x0": 528.7679999999999,
+      "top": 48.239999999999995,
+      "x1": 538.704,
+      "bottom": 53.568,
+      "confidence": 96.592239,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "after",
+      "x0": 113.904,
+      "top": 64.8,
+      "x1": 137.664,
+      "bottom": 73.008,
+      "confidence": 95.89003,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "the",
+      "x0": 141.11999999999998,
+      "top": 64.8,
+      "x1": 156.95999999999998,
+      "bottom": 73.008,
+      "confidence": 96.038086,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "commencement",
+      "x0": 160.84799999999998,
+      "top": 65.80799999999999,
+      "x1": 239.03999999999996,
+      "bottom": 73.008,
+      "confidence": 96.030579,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "of",
+      "x0": 242.64,
+      "top": 64.8,
+      "x1": 252.28799999999998,
+      "bottom": 73.008,
+      "confidence": 95.565903,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "the",
+      "x0": 254.87999999999997,
+      "top": 64.8,
+      "x1": 270.57599999999996,
+      "bottom": 73.008,
+      "confidence": 95.473816,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Amending",
+      "x0": 274.032,
+      "top": 64.8,
+      "x1": 326.448,
+      "bottom": 75.024,
+      "confidence": 95.966331,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Act",
+      "x0": 329.472,
+      "top": 64.8,
+      "x1": 346.32,
+      "bottom": 73.008,
+      "confidence": 96.48539,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "1976",
+      "x0": 350.928,
+      "top": 65.232,
+      "x1": 373.824,
+      "bottom": 73.008,
+      "confidence": 96.48539,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Select",
+      "x0": 85.824,
+      "top": 89.136,
+      "x1": 115.344,
+      "bottom": 97.488,
+      "confidence": 96.118675,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "the",
+      "x0": 118.94399999999999,
+      "top": 89.27999999999999,
+      "x1": 134.784,
+      "bottom": 97.48799999999999,
+      "confidence": 96.439484,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "most",
+      "x0": 138.816,
+      "top": 90.288,
+      "x1": 162.72,
+      "bottom": 97.488,
+      "confidence": 96.439484,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "appropriate",
+      "x0": 166.464,
+      "top": 89.27999999999999,
+      "x1": 225.216,
+      "bottom": 99.35999999999999,
+      "confidence": 96.607658,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "option:",
+      "x0": 229.10399999999998,
+      "top": 89.27999999999999,
+      "x1": 262.656,
+      "bottom": 99.35999999999999,
+      "confidence": 96.394081,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "(A)",
+      "x0": 85.824,
+      "top": 117.648,
+      "x1": 99.648,
+      "bottom": 127.872,
+      "confidence": 91.676147,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Only",
+      "x0": 114.04799999999999,
+      "top": 117.648,
+      "x1": 137.952,
+      "bottom": 127.872,
+      "confidence": 91.676147,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "I",
+      "x0": 141.552,
+      "top": 117.79199999999999,
+      "x1": 145.152,
+      "bottom": 125.71199999999999,
+      "confidence": 88.363892,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "is",
+      "x0": 148.896,
+      "top": 117.648,
+      "x1": 156.81599999999997,
+      "bottom": 125.856,
+      "confidence": 88.363892,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "correct",
+      "x0": 160.55999999999997,
+      "top": 118.65599999999999,
+      "x1": 194.83199999999997,
+      "bottom": 125.856,
+      "confidence": 95.372513,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "(B)",
+      "x0": 85.824,
+      "top": 141.11999999999998,
+      "x1": 99.648,
+      "bottom": 151.34399999999997,
+      "confidence": 92.020905,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "Only",
+      "x0": 114.04799999999999,
+      "top": 141.11999999999998,
+      "x1": 137.952,
+      "bottom": 151.34399999999997,
+      "confidence": 95.483116,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "II",
+      "x0": 141.552,
+      "top": 141.26399999999998,
+      "x1": 149.61599999999999,
+      "bottom": 149.18399999999997,
+      "confidence": 56.441376,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "is",
+      "x0": 153.35999999999999,
+      "top": 141.11999999999998,
+      "x1": 161.27999999999997,
+      "bottom": 149.32799999999997,
+      "confidence": 90.673912,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "correct",
+      "x0": 165.024,
+      "top": 142.128,
+      "x1": 199.296,
+      "bottom": 149.32799999999997,
+      "confidence": 96.310638,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "(C)",
+      "x0": 85.824,
+      "top": 164.59199999999998,
+      "x1": 99.648,
+      "bottom": 174.672,
+      "confidence": 90.813309,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "Both",
+      "x0": 113.904,
+      "top": 164.59199999999998,
+      "x1": 137.664,
+      "bottom": 172.79999999999998,
+      "confidence": 61.24028,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "I",
+      "x0": 141.408,
+      "top": 164.736,
+      "x1": 145.00799999999998,
+      "bottom": 172.65599999999998,
+      "confidence": 54.27486,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "and",
+      "x0": 149.04,
+      "top": 164.59199999999998,
+      "x1": 167.47199999999998,
+      "bottom": 172.79999999999998,
+      "confidence": 54.27486,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "II",
+      "x0": 171.07199999999997,
+      "top": 164.736,
+      "x1": 179.27999999999997,
+      "bottom": 172.65599999999998,
+      "confidence": 94.21978,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "are",
+      "x0": 183.16799999999998,
+      "top": 167.47199999999998,
+      "x1": 198.71999999999997,
+      "bottom": 172.79999999999998,
+      "confidence": 94.661987,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "correct",
+      "x0": 202.60799999999998,
+      "top": 165.6,
+      "x1": 236.87999999999997,
+      "bottom": 172.79999999999998,
+      "confidence": 95.942009,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "(D)",
+      "x0": 85.824,
+      "top": 188.064,
+      "x1": 100.22399999999999,
+      "bottom": 198.144,
+      "confidence": 90.953178,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "9"
+    },
+    {
+      "text": "Both",
+      "x0": 113.904,
+      "top": 188.064,
+      "x1": 137.664,
+      "bottom": 196.272,
+      "confidence": 87.23262,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "9"
+    },
+    {
+      "text": "I",
+      "x0": 141.408,
+      "top": 188.208,
+      "x1": 145.00799999999998,
+      "bottom": 196.128,
+      "confidence": 86.385963,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "9"
+    },
+    {
+      "text": "and",
+      "x0": 149.04,
+      "top": 188.064,
+      "x1": 167.47199999999998,
+      "bottom": 196.272,
+      "confidence": 95.250725,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "9"
+    },
+    {
+      "text": "II",
+      "x0": 171.07199999999997,
+      "top": 188.208,
+      "x1": 179.27999999999997,
+      "bottom": 196.128,
+      "confidence": 92.386337,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "9"
+    },
+    {
+      "text": "are",
+      "x0": 183.31199999999998,
+      "top": 190.944,
+      "x1": 198.86399999999998,
+      "bottom": 196.272,
+      "confidence": 96.360947,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "9"
+    },
+    {
+      "text": "incorrect",
+      "x0": 202.60799999999998,
+      "top": 188.064,
+      "x1": 247.10399999999998,
+      "bottom": 196.272,
+      "confidence": 96.360947,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "9"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

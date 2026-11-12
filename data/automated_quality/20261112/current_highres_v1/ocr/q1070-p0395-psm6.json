@@ -1,0 +1,459 @@
+{
+  "pdf_page": 395,
+  "crop_top": 96.16136000000006,
+  "crop_bottom": 197.04135999999994,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0395:l0004:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.26 Under the Copyright Act, 1957 copyright can be granted to?",
+      "bbox": [
+        41.903999999999996,
+        4.4639999999999995,
+        247.392,
+        10.943999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Ans a",
+      "bbox": [
+        43.343999999999994,
+        15.983999999999998,
+        86.544,
+        28.511999999999997
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "1. invention",
+      "bbox": [
+        88.55999999999999,
+        26.063999999999997,
+        123.55199999999999,
+        30.959999999999997
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "x",
+      "bbox": [
+        73.008,
+        37.296,
+        86.544,
+        49.824
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "2. handicrafts",
+      "bbox": [
+        88.27199999999999,
+        47.232,
+        129.168,
+        52.416
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "rad",
+      "bbox": [
+        72.43199999999999,
+        58.032,
+        87.11999999999999,
+        75.6
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "3. design of a bottle",
+      "bbox": [
+        88.27199999999999,
+        68.544,
+        148.032,
+        75.024
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": ".",
+      "bbox": [
+        76.752,
+        84.52799999999999,
+        80.496,
+        92.59199999999998
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "4. literary, dramatic, musical and artistic work",
+      "bbox": [
+        88.128,
+        90.0,
+        226.944,
+        96.336
+      ]
+    }
+  ],
+  "text": "Q.26 Under the Copyright Act, 1957 copyright can be granted to?\nAns a\n1. invention\nx\n2. handicrafts\nrad\n3. design of a bottle\n.\n4. literary, dramatic, musical and artistic work",
+  "ocr_words": [
+    {
+      "text": "Q.26",
+      "x0": 41.903999999999996,
+      "top": 4.752,
+      "x1": 56.16,
+      "bottom": 10.367999999999999,
+      "confidence": 91.228287,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Under",
+      "x0": 62.928,
+      "top": 4.4639999999999995,
+      "x1": 81.648,
+      "bottom": 9.648,
+      "confidence": 94.46283,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 83.52,
+      "top": 4.4639999999999995,
+      "x1": 93.6,
+      "bottom": 9.648,
+      "confidence": 95.346046,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Copyright",
+      "x0": 95.904,
+      "top": 4.4639999999999995,
+      "x1": 125.568,
+      "bottom": 10.943999999999999,
+      "confidence": 96.055305,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Act,",
+      "x0": 127.58399999999999,
+      "top": 4.896,
+      "x1": 139.392,
+      "bottom": 10.655999999999999,
+      "confidence": 96.718048,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1957",
+      "x0": 141.98399999999998,
+      "top": 4.752,
+      "x1": 156.384,
+      "bottom": 9.648,
+      "confidence": 96.786835,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "copyright",
+      "x0": 158.54399999999998,
+      "top": 4.4639999999999995,
+      "x1": 187.63199999999998,
+      "bottom": 10.943999999999999,
+      "confidence": 96.345367,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "can",
+      "x0": 189.79199999999997,
+      "top": 6.047999999999999,
+      "x1": 199.87199999999999,
+      "bottom": 9.648,
+      "confidence": 96.00132,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "be",
+      "x0": 202.464,
+      "top": 4.4639999999999995,
+      "x1": 209.52,
+      "bottom": 9.648,
+      "confidence": 96.00132,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "granted",
+      "x0": 211.67999999999998,
+      "top": 4.4639999999999995,
+      "x1": 235.43999999999997,
+      "bottom": 10.943999999999999,
+      "confidence": 96.668144,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to?",
+      "x0": 237.6,
+      "top": 4.4639999999999995,
+      "x1": 247.392,
+      "bottom": 9.648,
+      "confidence": 96.691551,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.343999999999994,
+      "top": 17.567999999999998,
+      "x1": 54.57599999999999,
+      "bottom": 22.319999999999997,
+      "confidence": 96.481041,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "a",
+      "x0": 73.008,
+      "top": 15.983999999999998,
+      "x1": 86.544,
+      "bottom": 28.511999999999997,
+      "confidence": 46.141243,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 88.55999999999999,
+      "top": 26.208,
+      "x1": 93.02399999999999,
+      "bottom": 30.959999999999997,
+      "confidence": 95.70211,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "invention",
+      "x0": 95.75999999999999,
+      "top": 26.063999999999997,
+      "x1": 123.55199999999999,
+      "bottom": 30.959999999999997,
+      "confidence": 96.141563,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "x",
+      "x0": 73.008,
+      "top": 37.296,
+      "x1": 86.544,
+      "bottom": 49.824,
+      "confidence": 74.235466,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "2.",
+      "x0": 88.27199999999999,
+      "top": 47.519999999999996,
+      "x1": 93.02399999999999,
+      "bottom": 52.272,
+      "confidence": 95.576599,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "handicrafts",
+      "x0": 95.904,
+      "top": 47.232,
+      "x1": 129.168,
+      "bottom": 52.416,
+      "confidence": 95.950882,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "rad",
+      "x0": 72.43199999999999,
+      "top": 58.032,
+      "x1": 87.11999999999999,
+      "bottom": 75.6,
+      "confidence": 36.767387,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "3.",
+      "x0": 88.27199999999999,
+      "top": 68.832,
+      "x1": 93.02399999999999,
+      "bottom": 73.728,
+      "confidence": 96.528191,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "design",
+      "x0": 95.616,
+      "top": 68.544,
+      "x1": 114.47999999999999,
+      "bottom": 75.024,
+      "confidence": 95.996918,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "of",
+      "x0": 117.07199999999999,
+      "top": 68.544,
+      "x1": 123.11999999999999,
+      "bottom": 73.728,
+      "confidence": 96.35273,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "a",
+      "x0": 124.99199999999999,
+      "top": 70.128,
+      "x1": 127.728,
+      "bottom": 73.728,
+      "confidence": 96.812553,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "bottle",
+      "x0": 130.608,
+      "top": 68.544,
+      "x1": 148.032,
+      "bottom": 73.728,
+      "confidence": 96.865715,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": ".",
+      "x0": 76.752,
+      "top": 84.52799999999999,
+      "x1": 80.496,
+      "bottom": 92.59199999999998,
+      "confidence": 0.0,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "4.",
+      "x0": 88.128,
+      "top": 90.288,
+      "x1": 93.024,
+      "bottom": 95.03999999999999,
+      "confidence": 94.321968,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "literary,",
+      "x0": 95.904,
+      "top": 90.0,
+      "x1": 118.512,
+      "bottom": 96.336,
+      "confidence": 94.321968,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "dramatic,",
+      "x0": 121.10399999999998,
+      "top": 90.0,
+      "x1": 149.18399999999997,
+      "bottom": 96.048,
+      "confidence": 96.727455,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "musical",
+      "x0": 152.064,
+      "top": 90.0,
+      "x1": 173.952,
+      "bottom": 95.04,
+      "confidence": 95.765175,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "and",
+      "x0": 176.54399999999998,
+      "top": 90.0,
+      "x1": 187.05599999999998,
+      "bottom": 95.04,
+      "confidence": 96.539574,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "artistic",
+      "x0": 189.648,
+      "top": 90.14399999999999,
+      "x1": 209.952,
+      "bottom": 95.03999999999999,
+      "confidence": 96.233391,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "work",
+      "x0": 211.968,
+      "top": 90.0,
+      "x1": 226.944,
+      "bottom": 95.04,
+      "confidence": 96.927383,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

@@ -1,0 +1,591 @@
+{
+  "pdf_page": 390,
+  "crop_top": 537.0413599999999,
+  "crop_bottom": 637.92136,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0390:l0033:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.2. Article 51 of the UN Charter saves which of the following rights as being inherent?",
+      "bbox": [
+        43.739999999999995,
+        4.32,
+        317.34,
+        10.98
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Ans a",
+      "bbox": [
+        43.379999999999995,
+        16.02,
+        86.75999999999999,
+        28.439999999999998
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "1. Right to free trade with member-States",
+      "bbox": [
+        88.56,
+        25.919999999999998,
+        215.1,
+        32.4
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "ra",
+      "bbox": [
+        72.36,
+        36.72,
+        86.75999999999999,
+        54.54
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "2. Right to enter into relations with other States",
+      "bbox": [
+        88.38,
+        47.16,
+        233.46,
+        53.63999999999999
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "uf",
+      "bbox": [
+        75.78,
+        62.28,
+        80.82000000000001,
+        75.78
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "3. Right of self-defence",
+      "bbox": [
+        88.2,
+        68.58,
+        157.85999999999999,
+        75.06
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        80.1,
+        93.06,
+        95.03999999999999
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "Right of self-determination",
+      "bbox": [
+        95.94,
+        90.0,
+        177.12,
+        96.48
+      ]
+    }
+  ],
+  "text": "Q.2. Article 51 of the UN Charter saves which of the following rights as being inherent?\nAns a\n1. Right to free trade with member-States\nra\n2. Right to enter into relations with other States\nuf\n3. Right of self-defence\nx,\nRight of self-determination",
+  "ocr_words": [
+    {
+      "text": "Q.2.",
+      "x0": 43.739999999999995,
+      "top": 4.68,
+      "x1": 54.17999999999999,
+      "bottom": 10.44,
+      "confidence": 2.044662,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Article",
+      "x0": 62.46,
+      "top": 4.5,
+      "x1": 82.44,
+      "bottom": 9.719999999999999,
+      "confidence": 96.092339,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "51",
+      "x0": 84.78,
+      "top": 4.859999999999999,
+      "x1": 91.62,
+      "bottom": 9.719999999999999,
+      "confidence": 96.493843,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 93.96,
+      "top": 4.5,
+      "x1": 100.25999999999999,
+      "bottom": 9.719999999999999,
+      "confidence": 95.935471,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 101.88,
+      "top": 4.5,
+      "x1": 111.96,
+      "bottom": 9.719999999999999,
+      "confidence": 96.127151,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "UN",
+      "x0": 114.47999999999999,
+      "top": 4.859999999999999,
+      "x1": 123.29999999999998,
+      "bottom": 9.719999999999999,
+      "confidence": 96.988701,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Charter",
+      "x0": 125.82,
+      "top": 4.5,
+      "x1": 148.85999999999999,
+      "bottom": 9.719999999999999,
+      "confidence": 96.317406,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "saves",
+      "x0": 150.84,
+      "top": 5.9399999999999995,
+      "x1": 167.4,
+      "bottom": 9.719999999999999,
+      "confidence": 96.357735,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "which",
+      "x0": 169.38,
+      "top": 4.5,
+      "x1": 187.56,
+      "bottom": 9.719999999999999,
+      "confidence": 96.357735,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 189.9,
+      "top": 4.5,
+      "x1": 196.02,
+      "bottom": 9.719999999999999,
+      "confidence": 96.732346,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 197.82,
+      "top": 4.5,
+      "x1": 207.9,
+      "bottom": 9.719999999999999,
+      "confidence": 96.785995,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 209.88,
+      "top": 4.32,
+      "x1": 238.85999999999999,
+      "bottom": 10.98,
+      "confidence": 96.548042,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "rights",
+      "x0": 241.01999999999998,
+      "top": 4.5,
+      "x1": 258.12,
+      "bottom": 10.98,
+      "confidence": 96.667595,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "as",
+      "x0": 260.28,
+      "top": 5.9399999999999995,
+      "x1": 266.58,
+      "bottom": 9.719999999999999,
+      "confidence": 97.015762,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "being",
+      "x0": 268.92,
+      "top": 4.5,
+      "x1": 285.48,
+      "bottom": 10.98,
+      "confidence": 96.709358,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "inherent?",
+      "x0": 287.82,
+      "top": 4.5,
+      "x1": 317.34,
+      "bottom": 9.719999999999999,
+      "confidence": 96.520973,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.379999999999995,
+      "top": 17.64,
+      "x1": 54.53999999999999,
+      "bottom": 22.5,
+      "confidence": 96.925354,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "a",
+      "x0": 73.08,
+      "top": 16.02,
+      "x1": 86.75999999999999,
+      "bottom": 28.439999999999998,
+      "confidence": 54.666435,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 88.56,
+      "top": 26.279999999999998,
+      "x1": 93.06,
+      "bottom": 30.959999999999997,
+      "confidence": 96.789856,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Right",
+      "x0": 95.94,
+      "top": 25.919999999999998,
+      "x1": 110.88,
+      "bottom": 32.4,
+      "confidence": 96.563248,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "to",
+      "x0": 112.86,
+      "top": 26.459999999999997,
+      "x1": 118.8,
+      "bottom": 31.139999999999997,
+      "confidence": 96.086525,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "free",
+      "x0": 120.96,
+      "top": 25.919999999999998,
+      "x1": 132.84,
+      "bottom": 31.139999999999997,
+      "confidence": 96.828621,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "trade",
+      "x0": 135.18,
+      "top": 25.919999999999998,
+      "x1": 151.02,
+      "bottom": 31.139999999999997,
+      "confidence": 96.662735,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "with",
+      "x0": 153.18,
+      "top": 25.919999999999998,
+      "x1": 166.14000000000001,
+      "bottom": 31.139999999999997,
+      "confidence": 89.907349,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "member-States",
+      "x0": 168.84,
+      "top": 25.919999999999998,
+      "x1": 215.1,
+      "bottom": 31.139999999999997,
+      "confidence": 89.907349,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "ra",
+      "x0": 72.36,
+      "top": 36.72,
+      "x1": 86.75999999999999,
+      "bottom": 54.54,
+      "confidence": 41.642242,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "2.",
+      "x0": 88.38,
+      "top": 47.339999999999996,
+      "x1": 93.06,
+      "bottom": 52.199999999999996,
+      "confidence": 96.643044,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Right",
+      "x0": 95.94,
+      "top": 47.16,
+      "x1": 110.88,
+      "bottom": 53.63999999999999,
+      "confidence": 96.868767,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "to",
+      "x0": 112.86,
+      "top": 47.699999999999996,
+      "x1": 118.8,
+      "bottom": 52.379999999999995,
+      "confidence": 97.008247,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "enter",
+      "x0": 121.14,
+      "top": 47.699999999999996,
+      "x1": 137.34,
+      "bottom": 52.379999999999995,
+      "confidence": 95.522842,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "into",
+      "x0": 139.68,
+      "top": 47.339999999999996,
+      "x1": 150.84,
+      "bottom": 52.379999999999995,
+      "confidence": 96.057976,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "relations",
+      "x0": 153.54,
+      "top": 47.16,
+      "x1": 179.45999999999998,
+      "bottom": 52.379999999999995,
+      "confidence": 96.391533,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "with",
+      "x0": 181.62,
+      "top": 47.16,
+      "x1": 194.4,
+      "bottom": 52.379999999999995,
+      "confidence": 96.841713,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "other",
+      "x0": 196.92,
+      "top": 47.16,
+      "x1": 213.29999999999998,
+      "bottom": 52.379999999999995,
+      "confidence": 96.761864,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "States",
+      "x0": 215.28,
+      "top": 47.339999999999996,
+      "x1": 233.46,
+      "bottom": 52.379999999999995,
+      "confidence": 96.761864,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "uf",
+      "x0": 75.78,
+      "top": 62.28,
+      "x1": 80.82000000000001,
+      "bottom": 75.78,
+      "confidence": 52.161976,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "3.",
+      "x0": 88.2,
+      "top": 68.75999999999999,
+      "x1": 93.06,
+      "bottom": 73.8,
+      "confidence": 96.817062,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Right",
+      "x0": 95.94,
+      "top": 68.58,
+      "x1": 110.88,
+      "bottom": 75.06,
+      "confidence": 96.656837,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "of",
+      "x0": 113.03999999999999,
+      "top": 68.58,
+      "x1": 118.97999999999999,
+      "bottom": 73.8,
+      "confidence": 96.677544,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "self-defence",
+      "x0": 120.96,
+      "top": 68.58,
+      "x1": 157.85999999999999,
+      "bottom": 73.8,
+      "confidence": 96.221733,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 80.1,
+      "x1": 93.06,
+      "bottom": 95.03999999999999,
+      "confidence": 43.452652,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Right",
+      "x0": 95.94,
+      "top": 90.0,
+      "x1": 110.88,
+      "bottom": 96.48,
+      "confidence": 95.861061,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "of",
+      "x0": 113.03999999999999,
+      "top": 90.0,
+      "x1": 118.97999999999999,
+      "bottom": 95.22,
+      "confidence": 91.431519,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "self-determination",
+      "x0": 120.96,
+      "top": 90.0,
+      "x1": 177.12,
+      "bottom": 95.22,
+      "confidence": 91.431519,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

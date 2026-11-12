@@ -1,0 +1,660 @@
+{
+  "pdf_page": 450,
+  "crop_top": 507.63,
+  "crop_bottom": 595.0699999999999,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0450:l0023:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "35. Which of the following statements does not suit the Hohfeldian analysis of right?",
+      "bbox": [
+        72.576,
+        4.896,
+        483.69599999999997,
+        15.119999999999997
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "A. Power in ‘X’ means presence of liability upon ‘Y’",
+      "bbox": [
+        108.288,
+        21.744,
+        358.55999999999995,
+        32.111999999999995
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "B. Immunity in ‘X’ means absence of liability in ‘X’",
+      "bbox": [
+        109.008,
+        38.592,
+        354.096,
+        48.815999999999995
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "C. Right in ‘X’ means presence of ‘No-right’ in ‘Y’",
+      "bbox": [
+        108.43199999999999,
+        55.29599999999999,
+        353.08799999999997,
+        65.664
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "D. Liberty in ‘X’ means absence of duty in ‘X’",
+      "bbox": [
+        109.008,
+        72.288,
+        327.45599999999996,
+        82.65599999999999
+      ]
+    }
+  ],
+  "text": "35. Which of the following statements does not suit the Hohfeldian analysis of right?\nA. Power in ‘X’ means presence of liability upon ‘Y’\nB. Immunity in ‘X’ means absence of liability in ‘X’\nC. Right in ‘X’ means presence of ‘No-right’ in ‘Y’\nD. Liberty in ‘X’ means absence of duty in ‘X’",
+  "ocr_words": [
+    {
+      "text": "35.",
+      "x0": 72.576,
+      "top": 5.327999999999999,
+      "x1": 86.39999999999999,
+      "bottom": 13.104,
+      "confidence": 96.595276,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Which",
+      "x0": 90.43199999999999,
+      "top": 4.896,
+      "x1": 120.23999999999998,
+      "bottom": 13.104,
+      "confidence": 95.799194,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 124.416,
+      "top": 4.896,
+      "x1": 133.92,
+      "bottom": 13.104,
+      "confidence": 95.799194,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 136.65599999999998,
+      "top": 4.896,
+      "x1": 152.35199999999998,
+      "bottom": 13.104,
+      "confidence": 95.56089,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 155.808,
+      "top": 4.896,
+      "x1": 200.30399999999997,
+      "bottom": 15.119999999999997,
+      "confidence": 96.409027,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "statements",
+      "x0": 204.04799999999997,
+      "top": 6.047999999999999,
+      "x1": 258.04799999999994,
+      "bottom": 13.104,
+      "confidence": 96.589279,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "does",
+      "x0": 261.64799999999997,
+      "top": 4.896,
+      "x1": 283.96799999999996,
+      "bottom": 13.104,
+      "confidence": 96.244362,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "not",
+      "x0": 288.0,
+      "top": 6.047999999999999,
+      "x1": 303.408,
+      "bottom": 13.104,
+      "confidence": 96.805977,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "suit",
+      "x0": 307.008,
+      "top": 5.183999999999999,
+      "x1": 323.856,
+      "bottom": 13.104,
+      "confidence": 95.818253,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 327.16799999999995,
+      "top": 4.896,
+      "x1": 342.57599999999996,
+      "bottom": 13.104,
+      "confidence": 91.694267,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Hohfeldian",
+      "x0": 346.89599999999996,
+      "top": 4.896,
+      "x1": 398.592,
+      "bottom": 13.104,
+      "confidence": 90.835037,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "analysis",
+      "x0": 402.768,
+      "top": 4.896,
+      "x1": 439.91999999999996,
+      "bottom": 15.119999999999997,
+      "confidence": 96.328407,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 443.52,
+      "top": 4.896,
+      "x1": 453.168,
+      "bottom": 13.104,
+      "confidence": 96.737556,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "right?",
+      "x0": 456.62399999999997,
+      "top": 4.896,
+      "x1": 483.69599999999997,
+      "bottom": 15.119999999999997,
+      "confidence": 96.554131,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A.",
+      "x0": 108.288,
+      "top": 22.319999999999997,
+      "x1": 117.072,
+      "bottom": 29.951999999999998,
+      "confidence": 94.930283,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Power",
+      "x0": 127.008,
+      "top": 22.319999999999997,
+      "x1": 157.10399999999998,
+      "bottom": 30.095999999999997,
+      "confidence": 95.797768,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "in",
+      "x0": 160.84799999999998,
+      "top": 22.176,
+      "x1": 168.33599999999998,
+      "bottom": 29.951999999999998,
+      "confidence": 92.815948,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "‘X’",
+      "x0": 172.65599999999998,
+      "top": 21.744,
+      "x1": 183.16799999999998,
+      "bottom": 29.951999999999998,
+      "confidence": 87.526917,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "means",
+      "x0": 187.77599999999998,
+      "top": 24.191999999999997,
+      "x1": 218.59199999999998,
+      "bottom": 30.095999999999997,
+      "confidence": 96.236153,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "presence",
+      "x0": 222.76799999999997,
+      "top": 24.191999999999997,
+      "x1": 265.67999999999995,
+      "bottom": 32.111999999999995,
+      "confidence": 94.763802,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 269.568,
+      "top": 21.744,
+      "x1": 279.072,
+      "bottom": 30.095999999999997,
+      "confidence": 94.763802,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "liability",
+      "x0": 282.67199999999997,
+      "top": 21.744,
+      "x1": 316.79999999999995,
+      "bottom": 32.111999999999995,
+      "confidence": 96.452576,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "upon",
+      "x0": 320.544,
+      "top": 24.191999999999997,
+      "x1": 344.01599999999996,
+      "bottom": 32.111999999999995,
+      "confidence": 93.148003,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "‘Y’",
+      "x0": 348.33599999999996,
+      "top": 21.744,
+      "x1": 358.55999999999995,
+      "bottom": 29.951999999999998,
+      "confidence": 88.632919,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "B.",
+      "x0": 109.008,
+      "top": 39.168,
+      "x1": 116.64,
+      "bottom": 46.8,
+      "confidence": 92.045906,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Immunity",
+      "x0": 127.008,
+      "top": 39.023999999999994,
+      "x1": 172.944,
+      "bottom": 48.815999999999995,
+      "confidence": 94.267342,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "in",
+      "x0": 176.54399999999998,
+      "top": 39.023999999999994,
+      "x1": 184.03199999999998,
+      "bottom": 46.8,
+      "confidence": 92.463646,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "‘X’",
+      "x0": 188.35199999999998,
+      "top": 38.592,
+      "x1": 198.86399999999998,
+      "bottom": 46.8,
+      "confidence": 91.641777,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "means",
+      "x0": 203.47199999999998,
+      "top": 41.04,
+      "x1": 234.28799999999998,
+      "bottom": 46.8,
+      "confidence": 96.262932,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "absence",
+      "x0": 238.03199999999998,
+      "top": 38.592,
+      "x1": 276.912,
+      "bottom": 46.8,
+      "confidence": 96.065422,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 280.79999999999995,
+      "top": 38.592,
+      "x1": 290.304,
+      "bottom": 46.8,
+      "confidence": 96.847275,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "liability",
+      "x0": 293.76,
+      "top": 38.592,
+      "x1": 328.032,
+      "bottom": 48.815999999999995,
+      "confidence": 95.969559,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "in",
+      "x0": 331.63199999999995,
+      "top": 39.023999999999994,
+      "x1": 339.11999999999995,
+      "bottom": 46.8,
+      "confidence": 91.799263,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "‘X’",
+      "x0": 343.44,
+      "top": 38.592,
+      "x1": 354.096,
+      "bottom": 46.8,
+      "confidence": 79.957138,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "C.",
+      "x0": 108.43199999999999,
+      "top": 55.87199999999999,
+      "x1": 116.78399999999999,
+      "bottom": 63.647999999999996,
+      "confidence": 91.582123,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Right",
+      "x0": 126.86399999999999,
+      "top": 55.44,
+      "x1": 151.63199999999998,
+      "bottom": 65.664,
+      "confidence": 88.797554,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "in",
+      "x0": 155.37599999999998,
+      "top": 55.583999999999996,
+      "x1": 163.43999999999997,
+      "bottom": 63.647999999999996,
+      "confidence": 88.797554,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "‘X’",
+      "x0": 167.47199999999998,
+      "top": 55.29599999999999,
+      "x1": 178.992,
+      "bottom": 63.64799999999999,
+      "confidence": 86.316727,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "means",
+      "x0": 183.02399999999997,
+      "top": 57.74399999999999,
+      "x1": 214.84799999999996,
+      "bottom": 63.647999999999996,
+      "confidence": 95.959747,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "presence",
+      "x0": 218.736,
+      "top": 57.74399999999999,
+      "x1": 262.512,
+      "bottom": 65.66399999999999,
+      "confidence": 95.640144,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "of",
+      "x0": 266.11199999999997,
+      "top": 55.29599999999999,
+      "x1": 276.04799999999994,
+      "bottom": 63.64799999999999,
+      "confidence": 93.268959,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "‘No-right’",
+      "x0": 279.21599999999995,
+      "top": 55.29599999999999,
+      "x1": 325.87199999999996,
+      "bottom": 65.66399999999999,
+      "confidence": 90.798325,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "in",
+      "x0": 329.76,
+      "top": 55.583999999999996,
+      "x1": 337.824,
+      "bottom": 63.647999999999996,
+      "confidence": 92.648979,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "‘Y’",
+      "x0": 341.856,
+      "top": 55.29599999999999,
+      "x1": 353.08799999999997,
+      "bottom": 63.64799999999999,
+      "confidence": 91.280945,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "D.",
+      "x0": 109.008,
+      "top": 72.86399999999999,
+      "x1": 117.648,
+      "bottom": 80.496,
+      "confidence": 92.16169,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Liberty",
+      "x0": 127.008,
+      "top": 72.288,
+      "x1": 159.696,
+      "bottom": 82.65599999999999,
+      "confidence": 96.574211,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "in",
+      "x0": 163.296,
+      "top": 72.72,
+      "x1": 170.64,
+      "bottom": 80.496,
+      "confidence": 91.645897,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "‘X’",
+      "x0": 175.10399999999998,
+      "top": 72.288,
+      "x1": 185.61599999999999,
+      "bottom": 80.496,
+      "confidence": 89.131073,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "means",
+      "x0": 190.07999999999998,
+      "top": 74.73599999999999,
+      "x1": 221.04,
+      "bottom": 80.63999999999999,
+      "confidence": 95.523361,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "absence",
+      "x0": 224.784,
+      "top": 72.288,
+      "x1": 263.52,
+      "bottom": 80.64,
+      "confidence": 95.923668,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "of",
+      "x0": 267.40799999999996,
+      "top": 72.288,
+      "x1": 276.912,
+      "bottom": 80.64,
+      "confidence": 96.706535,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "duty",
+      "x0": 280.224,
+      "top": 72.288,
+      "x1": 301.536,
+      "bottom": 82.65599999999999,
+      "confidence": 96.70417,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "in",
+      "x0": 305.13599999999997,
+      "top": 72.72,
+      "x1": 312.47999999999996,
+      "bottom": 80.496,
+      "confidence": 92.973267,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "‘X’",
+      "x0": 316.94399999999996,
+      "top": 72.288,
+      "x1": 327.45599999999996,
+      "bottom": 80.496,
+      "confidence": 91.420776,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

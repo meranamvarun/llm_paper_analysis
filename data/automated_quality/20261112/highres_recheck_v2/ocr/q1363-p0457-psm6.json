@@ -1,0 +1,419 @@
+{
+  "pdf_page": 457,
+  "crop_top": 239.98000000000002,
+  "crop_bottom": 351.21,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0457:l0006:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "15. When a person dies intestate",
+      "bbox": [
+        73.08,
+        4.859999999999999,
+        232.38,
+        15.12
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "A. —_Hedies in his home in his estate.",
+      "bbox": [
+        144.18,
+        34.199999999999996,
+        329.40000000000003,
+        42.480000000000004
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "B. Hedies without leaving any property.",
+      "bbox": [
+        145.07999999999998,
+        54.9,
+        352.98,
+        65.16
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "C. He dies without leaving a will.",
+      "bbox": [
+        144.54,
+        75.42,
+        319.86,
+        85.86
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "D. Hedies by committing suicide.",
+      "bbox": [
+        145.07999999999998,
+        96.11999999999999,
+        318.78,
+        106.38
+      ]
+    }
+  ],
+  "text": "15. When a person dies intestate\nA. —_Hedies in his home in his estate.\nB. Hedies without leaving any property.\nC. He dies without leaving a will.\nD. Hedies by committing suicide.",
+  "ocr_words": [
+    {
+      "text": "15.",
+      "x0": 73.08,
+      "top": 5.3999999999999995,
+      "x1": 86.4,
+      "bottom": 13.139999999999999,
+      "confidence": 95.401917,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "When",
+      "x0": 90.36,
+      "top": 4.859999999999999,
+      "x1": 118.44,
+      "bottom": 13.139999999999999,
+      "confidence": 95.401917,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 122.58,
+      "top": 7.38,
+      "x1": 126.9,
+      "bottom": 13.14,
+      "confidence": 95.63884,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "person",
+      "x0": 131.4,
+      "top": 7.38,
+      "x1": 163.44,
+      "bottom": 15.12,
+      "confidence": 95.63884,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "dies",
+      "x0": 167.57999999999998,
+      "top": 4.859999999999999,
+      "x1": 186.11999999999998,
+      "bottom": 13.139999999999999,
+      "confidence": 96.196411,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "intestate",
+      "x0": 190.26,
+      "top": 5.22,
+      "x1": 232.38,
+      "bottom": 13.14,
+      "confidence": 95.914383,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A.",
+      "x0": 144.18,
+      "top": 34.74,
+      "x1": 153.18,
+      "bottom": 42.480000000000004,
+      "confidence": 90.144753,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "—_Hedies",
+      "x0": 172.07999999999998,
+      "top": 34.199999999999996,
+      "x1": 206.45999999999998,
+      "bottom": 42.48,
+      "confidence": 0.0,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "in",
+      "x0": 210.6,
+      "top": 34.56,
+      "x1": 217.79999999999998,
+      "bottom": 42.300000000000004,
+      "confidence": 95.498642,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "his",
+      "x0": 222.29999999999998,
+      "top": 34.199999999999996,
+      "x1": 234.71999999999997,
+      "bottom": 42.48,
+      "confidence": 96.0271,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "home",
+      "x0": 238.85999999999999,
+      "top": 34.199999999999996,
+      "x1": 265.5,
+      "bottom": 42.48,
+      "confidence": 96.131821,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "in",
+      "x0": 269.46,
+      "top": 34.56,
+      "x1": 277.02,
+      "bottom": 42.300000000000004,
+      "confidence": 96.41333,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "his",
+      "x0": 281.34,
+      "top": 34.199999999999996,
+      "x1": 293.76,
+      "bottom": 42.48,
+      "confidence": 96.418961,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "estate.",
+      "x0": 297.36,
+      "top": 35.28,
+      "x1": 329.40000000000003,
+      "bottom": 42.480000000000004,
+      "confidence": 96.254852,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "B.",
+      "x0": 145.07999999999998,
+      "top": 55.44,
+      "x1": 152.64,
+      "bottom": 63.0,
+      "confidence": 86.739624,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Hedies",
+      "x0": 172.07999999999998,
+      "top": 54.9,
+      "x1": 206.45999999999998,
+      "bottom": 63.18,
+      "confidence": 38.452377,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "without",
+      "x0": 210.06,
+      "top": 54.9,
+      "x1": 247.5,
+      "bottom": 63.18,
+      "confidence": 95.65892,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "leaving",
+      "x0": 251.45999999999998,
+      "top": 54.9,
+      "x1": 284.94,
+      "bottom": 65.16,
+      "confidence": 96.016663,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "any",
+      "x0": 288.36,
+      "top": 57.239999999999995,
+      "x1": 305.1,
+      "bottom": 65.16,
+      "confidence": 96.600517,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "property.",
+      "x0": 308.88,
+      "top": 55.98,
+      "x1": 352.98,
+      "bottom": 65.16,
+      "confidence": 95.786705,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "C.",
+      "x0": 144.54,
+      "top": 75.96,
+      "x1": 152.82,
+      "bottom": 83.69999999999999,
+      "confidence": 91.279312,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "He",
+      "x0": 171.9,
+      "top": 75.96,
+      "x1": 184.14000000000001,
+      "bottom": 83.69999999999999,
+      "confidence": 0.0,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "dies",
+      "x0": 187.73999999999998,
+      "top": 75.42,
+      "x1": 207.17999999999998,
+      "bottom": 83.7,
+      "confidence": 0.0,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "without",
+      "x0": 210.6,
+      "top": 75.42,
+      "x1": 249.48,
+      "bottom": 83.7,
+      "confidence": 95.482368,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "leaving",
+      "x0": 253.26,
+      "top": 75.42,
+      "x1": 288.0,
+      "bottom": 85.86,
+      "confidence": 95.482368,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "a",
+      "x0": 291.24,
+      "top": 77.94,
+      "x1": 295.92,
+      "bottom": 83.7,
+      "confidence": 96.594299,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "will.",
+      "x0": 299.7,
+      "top": 75.42,
+      "x1": 319.86,
+      "bottom": 83.7,
+      "confidence": 95.73175,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "D.",
+      "x0": 145.07999999999998,
+      "top": 96.66,
+      "x1": 153.54,
+      "bottom": 104.39999999999999,
+      "confidence": 90.671288,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Hedies",
+      "x0": 172.07999999999998,
+      "top": 96.11999999999999,
+      "x1": 206.45999999999998,
+      "bottom": 104.39999999999999,
+      "confidence": 84.253456,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "by",
+      "x0": 210.6,
+      "top": 96.11999999999999,
+      "x1": 221.22,
+      "bottom": 106.38,
+      "confidence": 95.659538,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "committing",
+      "x0": 224.64,
+      "top": 96.47999999999999,
+      "x1": 279.71999999999997,
+      "bottom": 106.38,
+      "confidence": 95.659538,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "suicide.",
+      "x0": 283.32,
+      "top": 96.11999999999999,
+      "x1": 318.78,
+      "bottom": 104.39999999999999,
+      "confidence": 95.744118,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

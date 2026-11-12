@@ -1,0 +1,327 @@
+{
+  "pdf_page": 390,
+  "crop_top": 117.52136000000007,
+  "crop_bottom": 218.40135999999995,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0390:l0005:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.49 Whois called the \"father of English Jurisprudence\"?",
+      "bbox": [
+        41.94,
+        4.32,
+        223.38,
+        10.98
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "ans x",
+      "bbox": [
+        43.379999999999995,
+        16.02,
+        86.75999999999999,
+        28.439999999999998
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "1. Kelsen",
+      "bbox": [
+        88.56,
+        25.919999999999998,
+        114.66,
+        31.139999999999997
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "v,",
+      "bbox": [
+        73.8,
+        36.54,
+        93.06,
+        52.379999999999995
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "John Austin",
+      "bbox": [
+        95.22,
+        47.339999999999996,
+        130.14,
+        52.559999999999995
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        58.68,
+        93.06,
+        73.8
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "Ihering",
+      "bbox": [
+        95.94,
+        68.58,
+        116.46,
+        75.06
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        80.1,
+        93.06,
+        95.03999999999999
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "Justice Holmes",
+      "bbox": [
+        95.22,
+        90.0,
+        140.04,
+        95.22
+      ]
+    }
+  ],
+  "text": "Q.49 Whois called the \"father of English Jurisprudence\"?\nans x\n1. Kelsen\nv,\nJohn Austin\nx,\nIhering\nx,\nJustice Holmes",
+  "ocr_words": [
+    {
+      "text": "Q.49",
+      "x0": 41.94,
+      "top": 4.68,
+      "x1": 55.98,
+      "bottom": 10.44,
+      "confidence": 92.173508,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Whois",
+      "x0": 62.64,
+      "top": 4.5,
+      "x1": 83.52,
+      "bottom": 9.719999999999999,
+      "confidence": 85.509422,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "called",
+      "x0": 85.67999999999999,
+      "top": 4.5,
+      "x1": 103.32,
+      "bottom": 9.719999999999999,
+      "confidence": 96.089531,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 105.47999999999999,
+      "top": 4.5,
+      "x1": 115.55999999999999,
+      "bottom": 9.719999999999999,
+      "confidence": 96.322334,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "\"father",
+      "x0": 117.89999999999999,
+      "top": 4.32,
+      "x1": 139.85999999999999,
+      "bottom": 9.719999999999999,
+      "confidence": 96.322334,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 141.84,
+      "top": 4.32,
+      "x1": 148.14000000000001,
+      "bottom": 9.719999999999999,
+      "confidence": 96.851372,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "English",
+      "x0": 150.29999999999998,
+      "top": 4.5,
+      "x1": 171.35999999999999,
+      "bottom": 10.98,
+      "confidence": 94.988869,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Jurisprudence\"?",
+      "x0": 173.34,
+      "top": 4.32,
+      "x1": 223.38,
+      "bottom": 10.98,
+      "confidence": 95.777634,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "ans",
+      "x0": 43.379999999999995,
+      "top": 17.64,
+      "x1": 54.53999999999999,
+      "bottom": 22.5,
+      "confidence": 73.330658,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "x",
+      "x0": 73.08,
+      "top": 16.02,
+      "x1": 86.75999999999999,
+      "bottom": 28.439999999999998,
+      "confidence": 84.068367,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 88.56,
+      "top": 26.279999999999998,
+      "x1": 93.06,
+      "bottom": 30.959999999999997,
+      "confidence": 93.236671,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Kelsen",
+      "x0": 95.94,
+      "top": 25.919999999999998,
+      "x1": 114.66,
+      "bottom": 31.139999999999997,
+      "confidence": 92.658661,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "v,",
+      "x0": 73.8,
+      "top": 36.54,
+      "x1": 93.06,
+      "bottom": 52.379999999999995,
+      "confidence": 36.734081,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "John",
+      "x0": 95.22,
+      "top": 47.339999999999996,
+      "x1": 108.9,
+      "bottom": 52.559999999999995,
+      "confidence": 96.640572,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Austin",
+      "x0": 111.24,
+      "top": 47.519999999999996,
+      "x1": 130.14,
+      "bottom": 52.559999999999995,
+      "confidence": 96.603355,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 58.68,
+      "x1": 93.06,
+      "bottom": 73.8,
+      "confidence": 48.323524,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ihering",
+      "x0": 95.94,
+      "top": 68.58,
+      "x1": 116.46,
+      "bottom": 75.06,
+      "confidence": 45.067055,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 80.1,
+      "x1": 93.06,
+      "bottom": 95.03999999999999,
+      "confidence": 43.452652,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Justice",
+      "x0": 95.22,
+      "top": 90.17999999999999,
+      "x1": 115.38,
+      "bottom": 95.22,
+      "confidence": 96.609436,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Holmes",
+      "x0": 117.89999999999999,
+      "top": 90.0,
+      "x1": 140.04,
+      "bottom": 95.22,
+      "confidence": 96.546585,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

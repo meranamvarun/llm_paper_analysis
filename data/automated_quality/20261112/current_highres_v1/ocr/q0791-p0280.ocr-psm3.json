@@ -1,0 +1,559 @@
+{
+  "pdf_page": 280,
+  "crop_top": 535.612,
+  "crop_bottom": 652.77672,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0280:l0030:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "72. ‘A’ does not repair the boundary wall for more than twenty-five years and does not stop",
+      "bbox": [
+        72.576,
+        5.183999999999999,
+        523.1519999999999,
+        16.128
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "the villagers from crossing his property. Now the villagers have:",
+      "bbox": [
+        72.14399999999999,
+        18.863999999999997,
+        380.01599999999996,
+        29.808
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "a) An immunity",
+      "bbox": [
+        72.43199999999999,
+        38.879999999999995,
+        154.224,
+        49.67999999999999
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "b) Aclaim",
+      "bbox": [
+        72.0,
+        52.559999999999995,
+        128.30399999999997,
+        63.35999999999999
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "c) A power",
+      "bbox": [
+        72.43199999999999,
+        66.52799999999999,
+        131.76,
+        77.328
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "d) A liberty",
+      "bbox": [
+        72.43199999999999,
+        79.488,
+        133.2,
+        91.728
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "CORRECT ANSWER : OPTION B",
+      "bbox": [
+        72.576,
+        100.8,
+        282.09599999999995,
+        110.448
+      ]
+    }
+  ],
+  "text": "72. ‘A’ does not repair the boundary wall for more than twenty-five years and does not stop\nthe villagers from crossing his property. Now the villagers have:\na) An immunity\nb) Aclaim\nc) A power\nd) A liberty\nCORRECT ANSWER : OPTION B",
+  "ocr_words": [
+    {
+      "text": "72.",
+      "x0": 72.576,
+      "top": 5.4719999999999995,
+      "x1": 86.256,
+      "bottom": 13.68,
+      "confidence": 96.321205,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "‘A’",
+      "x0": 91.872,
+      "top": 5.327999999999999,
+      "x1": 106.128,
+      "bottom": 13.536,
+      "confidence": 77.979355,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "does",
+      "x0": 111.312,
+      "top": 5.183999999999999,
+      "x1": 132.768,
+      "bottom": 13.679999999999998,
+      "confidence": 96.706635,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "not",
+      "x0": 136.944,
+      "top": 6.335999999999999,
+      "x1": 152.064,
+      "bottom": 13.68,
+      "confidence": 96.810844,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "repair",
+      "x0": 156.09599999999998,
+      "top": 5.183999999999999,
+      "x1": 183.59999999999997,
+      "bottom": 16.128,
+      "confidence": 95.713203,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 187.344,
+      "top": 5.183999999999999,
+      "x1": 201.456,
+      "bottom": 13.679999999999998,
+      "confidence": 95.713203,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "boundary",
+      "x0": 205.63199999999998,
+      "top": 5.183999999999999,
+      "x1": 251.13599999999997,
+      "bottom": 16.128,
+      "confidence": 95.995529,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "wall",
+      "x0": 254.59199999999998,
+      "top": 5.183999999999999,
+      "x1": 275.18399999999997,
+      "bottom": 13.679999999999998,
+      "confidence": 96.328598,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "for",
+      "x0": 279.50399999999996,
+      "top": 5.183999999999999,
+      "x1": 292.89599999999996,
+      "bottom": 13.679999999999998,
+      "confidence": 95.398804,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "more",
+      "x0": 296.928,
+      "top": 7.919999999999999,
+      "x1": 320.976,
+      "bottom": 13.68,
+      "confidence": 96.622101,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "than",
+      "x0": 324.864,
+      "top": 5.183999999999999,
+      "x1": 345.59999999999997,
+      "bottom": 13.679999999999998,
+      "confidence": 96.848541,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "twenty-five",
+      "x0": 349.056,
+      "top": 5.183999999999999,
+      "x1": 404.352,
+      "bottom": 16.128,
+      "confidence": 96.075256,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "years",
+      "x0": 408.67199999999997,
+      "top": 7.919999999999999,
+      "x1": 433.296,
+      "bottom": 16.128,
+      "confidence": 96.67041,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 437.90399999999994,
+      "top": 5.183999999999999,
+      "x1": 454.75199999999995,
+      "bottom": 13.679999999999998,
+      "confidence": 96.506454,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "does",
+      "x0": 458.64,
+      "top": 5.183999999999999,
+      "x1": 480.096,
+      "bottom": 13.679999999999998,
+      "confidence": 96.506454,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "not",
+      "x0": 484.272,
+      "top": 6.335999999999999,
+      "x1": 499.536,
+      "bottom": 13.68,
+      "confidence": 96.590019,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "stop",
+      "x0": 503.99999999999994,
+      "top": 6.335999999999999,
+      "x1": 523.1519999999999,
+      "bottom": 16.128,
+      "confidence": 96.662094,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 72.14399999999999,
+      "top": 18.863999999999997,
+      "x1": 86.39999999999999,
+      "bottom": 27.359999999999996,
+      "confidence": 96.778183,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "villagers",
+      "x0": 89.856,
+      "top": 18.863999999999997,
+      "x1": 130.464,
+      "bottom": 29.807999999999996,
+      "confidence": 96.613983,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "from",
+      "x0": 134.64,
+      "top": 18.863999999999997,
+      "x1": 157.392,
+      "bottom": 27.359999999999996,
+      "confidence": 96.430855,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "crossing",
+      "x0": 160.416,
+      "top": 18.863999999999997,
+      "x1": 199.87199999999999,
+      "bottom": 29.807999999999996,
+      "confidence": 96.385551,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "his",
+      "x0": 203.32799999999997,
+      "top": 18.863999999999997,
+      "x1": 216.57599999999996,
+      "bottom": 27.359999999999996,
+      "confidence": 96.52272,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "property.",
+      "x0": 219.88799999999998,
+      "top": 20.016,
+      "x1": 262.65599999999995,
+      "bottom": 29.808,
+      "confidence": 96.366501,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Now",
+      "x0": 266.544,
+      "top": 19.296,
+      "x1": 290.15999999999997,
+      "bottom": 27.36,
+      "confidence": 96.366501,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 293.18399999999997,
+      "top": 18.863999999999997,
+      "x1": 307.43999999999994,
+      "bottom": 27.359999999999996,
+      "confidence": 96.502022,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "villagers",
+      "x0": 310.89599999999996,
+      "top": 18.863999999999997,
+      "x1": 351.35999999999996,
+      "bottom": 29.807999999999996,
+      "confidence": 96.700325,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "have:",
+      "x0": 355.104,
+      "top": 18.863999999999997,
+      "x1": 380.01599999999996,
+      "bottom": 27.359999999999996,
+      "confidence": 96.584129,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "a)",
+      "x0": 72.43199999999999,
+      "top": 38.879999999999995,
+      "x1": 80.78399999999999,
+      "bottom": 49.67999999999999,
+      "confidence": 96.512199,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "An",
+      "x0": 90.14399999999999,
+      "top": 39.023999999999994,
+      "x1": 104.68799999999999,
+      "bottom": 47.087999999999994,
+      "confidence": 92.82444,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "immunity",
+      "x0": 108.14399999999999,
+      "top": 38.879999999999995,
+      "x1": 154.224,
+      "bottom": 49.67999999999999,
+      "confidence": 92.82444,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "b)",
+      "x0": 72.0,
+      "top": 52.559999999999995,
+      "x1": 81.36,
+      "bottom": 63.35999999999999,
+      "confidence": 87.198486,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Aclaim",
+      "x0": 90.14399999999999,
+      "top": 52.559999999999995,
+      "x1": 128.30399999999997,
+      "bottom": 61.056,
+      "confidence": 90.517181,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "c)",
+      "x0": 72.43199999999999,
+      "top": 66.52799999999999,
+      "x1": 80.78399999999999,
+      "bottom": 77.32799999999999,
+      "confidence": 92.43103,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A",
+      "x0": 90.14399999999999,
+      "top": 66.672,
+      "x1": 98.63999999999999,
+      "bottom": 74.73599999999999,
+      "confidence": 93.37587,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "power",
+      "x0": 101.52,
+      "top": 69.264,
+      "x1": 131.76,
+      "bottom": 77.328,
+      "confidence": 93.37587,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "d)",
+      "x0": 72.43199999999999,
+      "top": 80.064,
+      "x1": 81.50399999999999,
+      "bottom": 91.008,
+      "confidence": 91.602448,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A",
+      "x0": 88.128,
+      "top": 79.488,
+      "x1": 94.32,
+      "bottom": 91.728,
+      "confidence": 96.860649,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "liberty",
+      "x0": 102.24,
+      "top": 80.064,
+      "x1": 133.2,
+      "bottom": 91.008,
+      "confidence": 96.2267,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "CORRECT",
+      "x0": 72.576,
+      "top": 100.8,
+      "x1": 141.26399999999998,
+      "bottom": 110.448,
+      "confidence": 95.620476,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "ANSWER",
+      "x0": 145.584,
+      "top": 100.8,
+      "x1": 206.64,
+      "bottom": 110.448,
+      "confidence": 73.512146,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 211.392,
+      "top": 103.67999999999999,
+      "x1": 213.696,
+      "bottom": 110.448,
+      "confidence": 73.512146,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "OPTION",
+      "x0": 219.02399999999997,
+      "top": 100.8,
+      "x1": 269.568,
+      "bottom": 110.448,
+      "confidence": 93.075676,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "B",
+      "x0": 273.74399999999997,
+      "top": 101.088,
+      "x1": 282.09599999999995,
+      "bottom": 110.30399999999999,
+      "confidence": 93.075676,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

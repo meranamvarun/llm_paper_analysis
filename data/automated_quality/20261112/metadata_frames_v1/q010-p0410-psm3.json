@@ -1,0 +1,211 @@
+{
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0409:l0044:question",
+  "year_label": 2017,
+  "number": "43",
+  "pdf_page": 410,
+  "crop_top": 0,
+  "crop_bottom": 81.28,
+  "start_anchor": {
+    "pdf_page": 409,
+    "line_id": "l0044",
+    "bbox": [
+      37.68,
+      699.12,
+      548.88,
+      707.52
+    ]
+  },
+  "following_anchor": {
+    "pdf_page": 410,
+    "line_id": "l0003",
+    "bbox": [
+      37.68,
+      83.28,
+      548.88,
+      91.68
+    ]
+  },
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "W",
+      "bbox": [
+        50.544,
+        12.815999999999999,
+        60.623999999999995,
+        21.599999999999998
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "° article 142",
+      "bbox": [
+        38.303999999999995,
+        15.839999999999998,
+        116.64,
+        23.04
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "3. 8% article 145",
+      "bbox": [
+        38.303999999999995,
+        31.679999999999996,
+        116.64,
+        41.03999999999999
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "4 *® article 147",
+      "bbox": [
+        38.303999999999995,
+        49.68,
+        116.64,
+        59.03999999999999
+      ]
+    }
+  ],
+  "text": "W\n° article 142\n3. 8% article 145\n4 *® article 147",
+  "ocr_words": [
+    {
+      "text": "°",
+      "x0": 38.303999999999995,
+      "top": 15.839999999999998,
+      "x1": 45.50399999999999,
+      "bottom": 23.04,
+      "confidence": 0.0,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "W",
+      "x0": 50.544,
+      "top": 12.815999999999999,
+      "x1": 60.623999999999995,
+      "bottom": 21.599999999999998,
+      "confidence": 85.244293,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "article",
+      "x0": 64.22399999999999,
+      "top": 15.839999999999998,
+      "x1": 94.32,
+      "bottom": 23.04,
+      "confidence": 87.989136,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "142",
+      "x0": 99.36,
+      "top": 15.839999999999998,
+      "x1": 116.64,
+      "bottom": 23.04,
+      "confidence": 75.830551,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "3.",
+      "x0": 38.303999999999995,
+      "top": 33.839999999999996,
+      "x1": 45.50399999999999,
+      "bottom": 41.03999999999999,
+      "confidence": 71.05455,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "8%",
+      "x0": 51.983999999999995,
+      "top": 31.679999999999996,
+      "x1": 58.46399999999999,
+      "bottom": 38.16,
+      "confidence": 47.740665,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "article",
+      "x0": 64.22399999999999,
+      "top": 33.839999999999996,
+      "x1": 94.32,
+      "bottom": 41.03999999999999,
+      "confidence": 86.285988,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "145",
+      "x0": 99.36,
+      "top": 33.839999999999996,
+      "x1": 116.64,
+      "bottom": 41.03999999999999,
+      "confidence": 94.599716,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "4",
+      "x0": 38.303999999999995,
+      "top": 51.839999999999996,
+      "x1": 45.50399999999999,
+      "bottom": 59.03999999999999,
+      "confidence": 84.909981,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "*®",
+      "x0": 51.983999999999995,
+      "top": 49.68,
+      "x1": 58.46399999999999,
+      "bottom": 56.16,
+      "confidence": 39.228966,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "article",
+      "x0": 64.22399999999999,
+      "top": 51.839999999999996,
+      "x1": 94.32,
+      "bottom": 59.03999999999999,
+      "confidence": 91.35051,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "147",
+      "x0": 99.36,
+      "top": 51.839999999999996,
+      "x1": 116.64,
+      "bottom": 59.03999999999999,
+      "confidence": 96.106812,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

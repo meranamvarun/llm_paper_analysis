@@ -1,0 +1,426 @@
+{
+  "pdf_page": 305,
+  "crop_top": 256.68279999999993,
+  "crop_bottom": 345.6828,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0305:l0008:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "77. Match the incorrect entries.",
+      "bbox": [
+        47.16,
+        4.859999999999999,
+        215.27999999999997,
+        12.959999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "(A) Injuria sine damnum Ashby White",
+      "bbox": [
+        75.24,
+        22.14,
+        378.71999999999997,
+        32.4
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "v.",
+      "bbox": [
+        336.59999999999997,
+        25.2,
+        344.52,
+        30.419999999999998
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(B) Damnum sine injuria Gloucester’s Case",
+      "bbox": [
+        75.24,
+        39.6,
+        390.59999999999997,
+        50.04
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(C) Remoteness of Damage Rylands Fletcher",
+      "bbox": [
+        75.24,
+        57.239999999999995,
+        400.68,
+        67.5
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "v.",
+      "bbox": [
+        346.32,
+        60.3,
+        354.24,
+        65.52
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "(D) Negligence Donoghue Stevenson",
+      "bbox": [
+        75.24,
+        74.7,
+        419.76,
+        84.96000000000001
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "v.",
+      "bbox": [
+        356.03999999999996,
+        77.75999999999999,
+        363.78,
+        82.97999999999999
+      ]
+    }
+  ],
+  "text": "77. Match the incorrect entries.\n(A) Injuria sine damnum Ashby White\nv.\n(B) Damnum sine injuria Gloucester’s Case\n(C) Remoteness of Damage Rylands Fletcher\nv.\n(D) Negligence Donoghue Stevenson\nv.",
+  "ocr_words": [
+    {
+      "text": "77.",
+      "x0": 47.16,
+      "top": 5.3999999999999995,
+      "x1": 60.66,
+      "bottom": 12.959999999999999,
+      "confidence": 89.569847,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Match",
+      "x0": 74.7,
+      "top": 4.859999999999999,
+      "x1": 106.92,
+      "bottom": 12.959999999999999,
+      "confidence": 89.569847,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 110.33999999999999,
+      "top": 4.859999999999999,
+      "x1": 126.17999999999999,
+      "bottom": 12.959999999999999,
+      "confidence": 96.036674,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "incorrect",
+      "x0": 129.96,
+      "top": 4.859999999999999,
+      "x1": 174.42000000000002,
+      "bottom": 12.959999999999999,
+      "confidence": 96.180321,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "entries.",
+      "x0": 178.2,
+      "top": 4.859999999999999,
+      "x1": 215.27999999999997,
+      "bottom": 12.959999999999999,
+      "confidence": 95.905144,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 75.24,
+      "top": 22.14,
+      "x1": 89.1,
+      "bottom": 32.4,
+      "confidence": 96.976105,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(B)",
+      "x0": 75.24,
+      "top": 39.78,
+      "x1": 89.1,
+      "bottom": 49.86,
+      "confidence": 92.579468,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(C)",
+      "x0": 75.24,
+      "top": 57.239999999999995,
+      "x1": 89.1,
+      "bottom": 67.5,
+      "confidence": 93.101059,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(D)",
+      "x0": 75.24,
+      "top": 74.7,
+      "x1": 89.82,
+      "bottom": 84.96000000000001,
+      "confidence": 92.715111,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Injuria",
+      "x0": 103.32,
+      "top": 22.14,
+      "x1": 138.24,
+      "bottom": 32.4,
+      "confidence": 92.870811,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "sine",
+      "x0": 142.2,
+      "top": 22.14,
+      "x1": 162.17999999999998,
+      "bottom": 30.42,
+      "confidence": 96.418793,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "damnum",
+      "x0": 166.14,
+      "top": 22.14,
+      "x1": 210.6,
+      "bottom": 30.42,
+      "confidence": 81.081528,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Damnum",
+      "x0": 103.32,
+      "top": 39.78,
+      "x1": 150.29999999999998,
+      "bottom": 47.88,
+      "confidence": 85.043327,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "sine",
+      "x0": 154.26,
+      "top": 39.78,
+      "x1": 174.06,
+      "bottom": 47.88,
+      "confidence": 92.796028,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "injuria",
+      "x0": 177.84,
+      "top": 39.78,
+      "x1": 211.86,
+      "bottom": 50.04,
+      "confidence": 89.735298,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Remoteness",
+      "x0": 103.14,
+      "top": 57.419999999999995,
+      "x1": 163.44,
+      "bottom": 65.52,
+      "confidence": 92.351173,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 167.4,
+      "top": 57.239999999999995,
+      "x1": 176.76,
+      "bottom": 65.52,
+      "confidence": 96.428673,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Damage",
+      "x0": 179.45999999999998,
+      "top": 57.419999999999995,
+      "x1": 220.85999999999999,
+      "bottom": 67.5,
+      "confidence": 96.450455,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Negligence",
+      "x0": 103.32,
+      "top": 74.7,
+      "x1": 158.39999999999998,
+      "bottom": 84.96000000000001,
+      "confidence": 96.20034,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ashby",
+      "x0": 301.32,
+      "top": 22.14,
+      "x1": 333.18,
+      "bottom": 32.4,
+      "confidence": 93.303177,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "v.",
+      "x0": 336.59999999999997,
+      "top": 25.2,
+      "x1": 344.52,
+      "bottom": 30.419999999999998,
+      "confidence": 91.79303,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "White",
+      "x0": 348.65999999999997,
+      "top": 22.14,
+      "x1": 378.71999999999997,
+      "bottom": 30.42,
+      "confidence": 96.235039,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Gloucester’s",
+      "x0": 302.03999999999996,
+      "top": 39.6,
+      "x1": 362.69999999999993,
+      "bottom": 48.06,
+      "confidence": 91.976059,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Case",
+      "x0": 367.2,
+      "top": 39.6,
+      "x1": 390.59999999999997,
+      "bottom": 48.06,
+      "confidence": 96.062714,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Rylands",
+      "x0": 301.68,
+      "top": 57.239999999999995,
+      "x1": 342.54,
+      "bottom": 67.5,
+      "confidence": 91.060547,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "v.",
+      "x0": 346.32,
+      "top": 60.3,
+      "x1": 354.24,
+      "bottom": 65.52,
+      "confidence": 92.565689,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Fletcher",
+      "x0": 358.74,
+      "top": 57.239999999999995,
+      "x1": 400.68,
+      "bottom": 65.52,
+      "confidence": 96.212311,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Donoghue",
+      "x0": 301.86,
+      "top": 74.7,
+      "x1": 352.26,
+      "bottom": 84.96000000000001,
+      "confidence": 92.441589,
+      "ocr_block": "6",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "v.",
+      "x0": 356.03999999999996,
+      "top": 77.75999999999999,
+      "x1": 363.78,
+      "bottom": 82.97999999999999,
+      "confidence": 91.949188,
+      "ocr_block": "6",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Stevenson",
+      "x0": 368.46,
+      "top": 74.7,
+      "x1": 419.76,
+      "bottom": 82.98,
+      "confidence": 96.701378,
+      "ocr_block": "6",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

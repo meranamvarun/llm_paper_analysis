@@ -1,0 +1,428 @@
+{
+  "pdf_page": 432,
+  "crop_top": 10.16,
+  "crop_bottom": 123.03999999999999,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0431:l0048:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "In which year U.N. Cormimssion on Hurnan Rights, which has béen replaced by Hurnan Rights Council, was",
+      "bbox": [
+        37.62,
+        4.14,
+        552.06,
+        13.68
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "established?",
+      "bbox": [
+        37.62,
+        16.56,
+        96.47999999999999,
+        23.939999999999998
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "Options :",
+      "bbox": [
+        37.8,
+        32.94,
+        73.8,
+        41.22
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "1. * 1945",
+      "bbox": [
+        39.059999999999995,
+        45.54,
+        89.28,
+        54.89999999999999
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "2 W1946",
+      "bbox": [
+        38.339999999999996,
+        63.36,
+        89.28,
+        72.9
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "3. 8 2005",
+      "bbox": [
+        38.339999999999996,
+        81.36,
+        89.28,
+        90.72
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "4 *® 2006",
+      "bbox": [
+        38.339999999999996,
+        99.36,
+        89.28,
+        108.72
+      ]
+    }
+  ],
+  "text": "In which year U.N. Cormimssion on Hurnan Rights, which has béen replaced by Hurnan Rights Council, was\nestablished?\nOptions :\n1. * 1945\n2 W1946\n3. 8 2005\n4 *® 2006",
+  "ocr_words": [
+    {
+      "text": "In",
+      "x0": 37.62,
+      "top": 4.14,
+      "x1": 46.98,
+      "bottom": 11.52,
+      "confidence": 94.76857,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "which",
+      "x0": 50.58,
+      "top": 4.14,
+      "x1": 78.66,
+      "bottom": 11.52,
+      "confidence": 95.657928,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "year",
+      "x0": 82.08,
+      "top": 5.58,
+      "x1": 102.24,
+      "bottom": 13.68,
+      "confidence": 63.102436,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "U.N.",
+      "x0": 105.83999999999999,
+      "top": 4.14,
+      "x1": 125.27999999999999,
+      "bottom": 11.52,
+      "confidence": 86.733521,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Cormimssion",
+      "x0": 129.6,
+      "top": 4.14,
+      "x1": 188.45999999999998,
+      "bottom": 11.52,
+      "confidence": 20.349754,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "on",
+      "x0": 192.06,
+      "top": 5.58,
+      "x1": 203.58,
+      "bottom": 11.52,
+      "confidence": 92.40226,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Hurnan",
+      "x0": 207.17999999999998,
+      "top": 4.14,
+      "x1": 242.45999999999998,
+      "bottom": 11.52,
+      "confidence": 80.882416,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Rights,",
+      "x0": 246.06,
+      "top": 4.14,
+      "x1": 278.28,
+      "bottom": 13.68,
+      "confidence": 95.974648,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "which",
+      "x0": 282.59999999999997,
+      "top": 4.14,
+      "x1": 310.67999999999995,
+      "bottom": 11.52,
+      "confidence": 94.525528,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "has",
+      "x0": 314.28,
+      "top": 4.14,
+      "x1": 330.84,
+      "bottom": 11.52,
+      "confidence": 91.327133,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "béen",
+      "x0": 334.44,
+      "top": 4.14,
+      "x1": 356.58,
+      "bottom": 11.52,
+      "confidence": 90.536293,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "replaced",
+      "x0": 360.18,
+      "top": 4.14,
+      "x1": 400.5,
+      "bottom": 13.68,
+      "confidence": 88.848488,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "by",
+      "x0": 404.09999999999997,
+      "top": 4.14,
+      "x1": 415.61999999999995,
+      "bottom": 13.68,
+      "confidence": 93.251915,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Hurnan",
+      "x0": 419.21999999999997,
+      "top": 4.14,
+      "x1": 454.32,
+      "bottom": 11.52,
+      "confidence": 91.197495,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Rights",
+      "x0": 457.91999999999996,
+      "top": 4.14,
+      "x1": 488.15999999999997,
+      "bottom": 13.68,
+      "confidence": 94.544632,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Council,",
+      "x0": 491.76,
+      "top": 4.14,
+      "x1": 529.92,
+      "bottom": 12.96,
+      "confidence": 64.562218,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "was",
+      "x0": 534.06,
+      "top": 5.58,
+      "x1": 552.06,
+      "bottom": 11.52,
+      "confidence": 96.494347,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "established?",
+      "x0": 37.62,
+      "top": 16.56,
+      "x1": 96.47999999999999,
+      "bottom": 23.939999999999998,
+      "confidence": 96.326981,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Options",
+      "x0": 37.8,
+      "top": 32.94,
+      "x1": 68.94,
+      "bottom": 41.22,
+      "confidence": 92.781006,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 72.53999999999999,
+      "top": 34.92,
+      "x1": 73.8,
+      "bottom": 39.42,
+      "confidence": 92.708466,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1.",
+      "x0": 39.059999999999995,
+      "top": 47.699999999999996,
+      "x1": 45.53999999999999,
+      "bottom": 54.89999999999999,
+      "confidence": 84.845016,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "*",
+      "x0": 52.019999999999996,
+      "top": 45.54,
+      "x1": 58.49999999999999,
+      "bottom": 52.019999999999996,
+      "confidence": 84.163048,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1945",
+      "x0": 65.7,
+      "top": 47.699999999999996,
+      "x1": 89.28,
+      "bottom": 54.89999999999999,
+      "confidence": 96.234589,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2",
+      "x0": 38.339999999999996,
+      "top": 65.52,
+      "x1": 45.53999999999999,
+      "bottom": 72.89999999999999,
+      "confidence": 47.736176,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "W1946",
+      "x0": 50.58,
+      "top": 63.36,
+      "x1": 89.28,
+      "bottom": 72.9,
+      "confidence": 31.326256,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "3.",
+      "x0": 38.339999999999996,
+      "top": 83.52,
+      "x1": 45.53999999999999,
+      "bottom": 90.72,
+      "confidence": 88.991196,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "8",
+      "x0": 52.019999999999996,
+      "top": 81.36,
+      "x1": 58.49999999999999,
+      "bottom": 87.84,
+      "confidence": 19.4925,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2005",
+      "x0": 64.98,
+      "top": 83.52,
+      "x1": 89.28,
+      "bottom": 90.72,
+      "confidence": 95.139595,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "4",
+      "x0": 38.339999999999996,
+      "top": 101.52,
+      "x1": 45.53999999999999,
+      "bottom": 108.72,
+      "confidence": 66.382065,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "*®",
+      "x0": 52.019999999999996,
+      "top": 99.36,
+      "x1": 58.49999999999999,
+      "bottom": 105.84,
+      "confidence": 51.348763,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2006",
+      "x0": 64.98,
+      "top": 101.52,
+      "x1": 89.28,
+      "bottom": 108.72,
+      "confidence": 92.36824,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

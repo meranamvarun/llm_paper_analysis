@@ -1,0 +1,474 @@
+{
+  "pdf_page": 75,
+  "crop_top": 90.60950000000003,
+  "crop_bottom": 159.60950000000003,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0075:l0001:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "70. In India the ‘Absolute Liability’ theory the basis of injuries caused by the hazardous",
+      "bbox": [
+        105.55199999999999,
+        4.4639999999999995,
+        551.664,
+        14.831999999999997
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "on",
+      "bbox": [
+        318.096,
+        7.4879999999999995,
+        329.616,
+        12.815999999999999
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "industries was propounded by:",
+      "bbox": [
+        126.288,
+        18.575999999999997,
+        280.8,
+        28.799999999999997
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(A) V.R. Krishna Iyer, J. (B) P.N. Bhagwati, C.J.",
+      "bbox": [
+        125.42399999999999,
+        36.576,
+        435.024,
+        46.8
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(C) Kuldip Singh, J. (D) M.N. Venkatachaliah, C.J.",
+      "bbox": [
+        125.42399999999999,
+        54.57599999999999,
+        469.584,
+        64.8
+      ]
+    }
+  ],
+  "text": "70. In India the ‘Absolute Liability’ theory the basis of injuries caused by the hazardous\non\nindustries was propounded by:\n(A) V.R. Krishna Iyer, J. (B) P.N. Bhagwati, C.J.\n(C) Kuldip Singh, J. (D) M.N. Venkatachaliah, C.J.",
+  "ocr_words": [
+    {
+      "text": "70.",
+      "x0": 105.55199999999999,
+      "top": 5.04,
+      "x1": 119.088,
+      "bottom": 12.815999999999999,
+      "confidence": 96.034172,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "In",
+      "x0": 126.43199999999999,
+      "top": 4.752,
+      "x1": 136.944,
+      "bottom": 12.671999999999999,
+      "confidence": 94.678879,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "India",
+      "x0": 139.67999999999998,
+      "top": 4.608,
+      "x1": 165.88799999999998,
+      "bottom": 12.815999999999999,
+      "confidence": 94.678879,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 168.624,
+      "top": 4.608,
+      "x1": 184.32,
+      "bottom": 12.815999999999999,
+      "confidence": 95.710861,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "‘Absolute",
+      "x0": 187.344,
+      "top": 4.608,
+      "x1": 232.84799999999998,
+      "bottom": 12.815999999999999,
+      "confidence": 95.710861,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Liability’",
+      "x0": 235.87199999999999,
+      "top": 4.608,
+      "x1": 280.512,
+      "bottom": 14.831999999999997,
+      "confidence": 95.318169,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "theory",
+      "x0": 283.248,
+      "top": 4.608,
+      "x1": 315.36,
+      "bottom": 14.831999999999997,
+      "confidence": 96.32386,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "on",
+      "x0": 318.096,
+      "top": 7.4879999999999995,
+      "x1": 329.616,
+      "bottom": 12.815999999999999,
+      "confidence": 94.653427,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 332.352,
+      "top": 4.608,
+      "x1": 348.048,
+      "bottom": 12.815999999999999,
+      "confidence": 94.653427,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "basis",
+      "x0": 350.64,
+      "top": 4.608,
+      "x1": 375.84,
+      "bottom": 12.815999999999999,
+      "confidence": 96.401047,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 378.71999999999997,
+      "top": 4.4639999999999995,
+      "x1": 388.224,
+      "bottom": 12.815999999999999,
+      "confidence": 96.842484,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "injuries",
+      "x0": 389.952,
+      "top": 4.608,
+      "x1": 427.968,
+      "bottom": 14.831999999999997,
+      "confidence": 96.218498,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "caused",
+      "x0": 430.84799999999996,
+      "top": 4.608,
+      "x1": 464.68799999999993,
+      "bottom": 12.815999999999999,
+      "confidence": 96.475197,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "by",
+      "x0": 467.13599999999997,
+      "top": 4.608,
+      "x1": 478.94399999999996,
+      "bottom": 14.831999999999997,
+      "confidence": 96.475197,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 481.53599999999994,
+      "top": 4.608,
+      "x1": 497.23199999999997,
+      "bottom": 12.815999999999999,
+      "confidence": 95.971725,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "hazardous",
+      "x0": 499.96799999999996,
+      "top": 4.608,
+      "x1": 551.664,
+      "bottom": 12.815999999999999,
+      "confidence": 96.488281,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "industries",
+      "x0": 126.288,
+      "top": 18.575999999999997,
+      "x1": 177.12,
+      "bottom": 26.784,
+      "confidence": 96.17495,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "was",
+      "x0": 180.86399999999998,
+      "top": 21.456,
+      "x1": 199.87199999999999,
+      "bottom": 26.784,
+      "confidence": 96.692719,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "propounded",
+      "x0": 203.76,
+      "top": 18.575999999999997,
+      "x1": 263.376,
+      "bottom": 28.799999999999997,
+      "confidence": 95.870979,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "by:",
+      "x0": 266.688,
+      "top": 18.575999999999997,
+      "x1": 280.8,
+      "bottom": 28.799999999999997,
+      "confidence": 95.894394,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(A)",
+      "x0": 125.42399999999999,
+      "top": 36.576,
+      "x1": 139.248,
+      "bottom": 46.8,
+      "confidence": 93.206154,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "V.R.",
+      "x0": 147.88799999999998,
+      "top": 36.72,
+      "x1": 169.05599999999998,
+      "bottom": 44.784,
+      "confidence": 88.509232,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Krishna",
+      "x0": 173.51999999999998,
+      "top": 36.576,
+      "x1": 214.272,
+      "bottom": 44.784,
+      "confidence": 95.325401,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Iyer,",
+      "x0": 218.016,
+      "top": 36.72,
+      "x1": 240.624,
+      "bottom": 46.8,
+      "confidence": 7.469704,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "J.",
+      "x0": 244.65599999999998,
+      "top": 36.72,
+      "x1": 252.86399999999998,
+      "bottom": 44.784,
+      "confidence": 95.749886,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(B)",
+      "x0": 315.50399999999996,
+      "top": 36.576,
+      "x1": 329.328,
+      "bottom": 46.8,
+      "confidence": 91.099327,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "P.N.",
+      "x0": 335.376,
+      "top": 36.72,
+      "x1": 356.544,
+      "bottom": 44.784,
+      "confidence": 91.099327,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Bhagwati,",
+      "x0": 361.008,
+      "top": 36.576,
+      "x1": 411.84,
+      "bottom": 46.8,
+      "confidence": 96.467812,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "C.J.",
+      "x0": 416.448,
+      "top": 36.576,
+      "x1": 435.024,
+      "bottom": 44.928,
+      "confidence": 90.171043,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(C)",
+      "x0": 125.42399999999999,
+      "top": 54.57599999999999,
+      "x1": 139.248,
+      "bottom": 64.8,
+      "confidence": 91.212006,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Kuldip",
+      "x0": 148.464,
+      "top": 54.57599999999999,
+      "x1": 182.304,
+      "bottom": 64.8,
+      "confidence": 90.614449,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Singh,",
+      "x0": 186.624,
+      "top": 54.57599999999999,
+      "x1": 217.87199999999999,
+      "bottom": 64.8,
+      "confidence": 96.116829,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "J.",
+      "x0": 221.904,
+      "top": 54.72,
+      "x1": 230.112,
+      "bottom": 62.784,
+      "confidence": 96.66069,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(D)",
+      "x0": 314.784,
+      "top": 54.57599999999999,
+      "x1": 329.328,
+      "bottom": 64.8,
+      "confidence": 92.308861,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "M.N.",
+      "x0": 335.23199999999997,
+      "top": 54.72,
+      "x1": 359.568,
+      "bottom": 62.784,
+      "confidence": 92.584747,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Venkatachaliah,",
+      "x0": 363.45599999999996,
+      "top": 54.57599999999999,
+      "x1": 446.4,
+      "bottom": 64.512,
+      "confidence": 91.624077,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "C.J.",
+      "x0": 451.152,
+      "top": 54.57599999999999,
+      "x1": 469.584,
+      "bottom": 62.92799999999999,
+      "confidence": 87.702522,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "version": "0.1.0",
+  "records": 1397,
+  "in_scope": 1397,
+  "changed_questions": 43,
+  "structural_before": {
+    "option_structure": 184,
+    "empty_option": 27,
+    "passage_link_missing": 247,
+    "duplicate_number": 63,
+    "missing_number": 2,
+    "out_of_range_number": 3,
+    "configured_count_mismatch": 3
+  },
+  "structural_after": {
+    "option_structure": 141,
+    "empty_option": 17,
+    "passage_link_missing": 247,
+    "duplicate_number": 63,
+    "missing_number": 2,
+    "out_of_range_number": 3,
+    "configured_count_mismatch": 3
+  },
+  "ocr_exceptions": 755,
+  "strictly_supported": 642,
+  "automated_gate": "NEEDS_AUTOMATED_REPAIR",
+  "status": "machine_proposals_not_human_validation"
+}

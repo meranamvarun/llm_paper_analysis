@@ -1,0 +1,668 @@
+{
+  "pdf_page": 377,
+  "crop_top": 138.8813600000001,
+  "crop_bottom": 239.76135999999997,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0377:l0006:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.28 By which amendment the ground of \"armed rebellion\" for imposing national emergency was substituted for the ground \"internal disturbance\"?",
+      "bbox": [
+        41.94,
+        4.5,
+        509.58,
+        10.98
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Ans a",
+      "bbox": [
+        43.379999999999995,
+        16.02,
+        86.75999999999999,
+        28.439999999999998
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "1. The Constitution (Thirty-ninth Amendment) Act, 1975",
+      "bbox": [
+        88.56,
+        25.919999999999998,
+        258.29999999999995,
+        32.4
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        37.26,
+        93.06,
+        52.199999999999996
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "The Constitution (Forty-second Amendment) Act, 1976",
+      "bbox": [
+        95.39999999999999,
+        47.16,
+        262.08,
+        53.63999999999999
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        58.68,
+        93.06,
+        73.8
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "The Constitution (Fiftieth Amendment) Act, 1984",
+      "bbox": [
+        95.39999999999999,
+        68.58,
+        244.07999999999998,
+        74.88
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "uf",
+      "bbox": [
+        75.96,
+        83.7,
+        80.82,
+        97.2
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "4. The Constitution (Forty-fourth Amendment) Act, 1978",
+      "bbox": [
+        88.02,
+        90.0,
+        259.74,
+        96.48
+      ]
+    }
+  ],
+  "text": "Q.28 By which amendment the ground of \"armed rebellion\" for imposing national emergency was substituted for the ground \"internal disturbance\"?\nAns a\n1. The Constitution (Thirty-ninth Amendment) Act, 1975\nx,\nThe Constitution (Forty-second Amendment) Act, 1976\nx,\nThe Constitution (Fiftieth Amendment) Act, 1984\nuf\n4. The Constitution (Forty-fourth Amendment) Act, 1978",
+  "ocr_words": [
+    {
+      "text": "Q.28",
+      "x0": 41.94,
+      "top": 4.68,
+      "x1": 56.16,
+      "bottom": 10.44,
+      "confidence": 91.877235,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "By",
+      "x0": 62.82,
+      "top": 4.859999999999999,
+      "x1": 70.02,
+      "bottom": 10.98,
+      "confidence": 96.804649,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "which",
+      "x0": 72.0,
+      "top": 4.5,
+      "x1": 90.0,
+      "bottom": 9.719999999999999,
+      "confidence": 96.297112,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "amendment",
+      "x0": 92.34,
+      "top": 4.5,
+      "x1": 130.14,
+      "bottom": 9.719999999999999,
+      "confidence": 96.306145,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 132.12,
+      "top": 4.5,
+      "x1": 142.02,
+      "bottom": 9.719999999999999,
+      "confidence": 96.267296,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "ground",
+      "x0": 144.18,
+      "top": 4.5,
+      "x1": 165.96,
+      "bottom": 10.98,
+      "confidence": 95.717224,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 168.29999999999998,
+      "top": 4.5,
+      "x1": 174.6,
+      "bottom": 9.719999999999999,
+      "confidence": 96.862694,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "\"armed",
+      "x0": 176.57999999999998,
+      "top": 4.5,
+      "x1": 199.26,
+      "bottom": 9.719999999999999,
+      "confidence": 96.550049,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "rebellion\"",
+      "x0": 201.95999999999998,
+      "top": 4.5,
+      "x1": 231.83999999999997,
+      "bottom": 9.719999999999999,
+      "confidence": 96.18338,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "for",
+      "x0": 234.35999999999999,
+      "top": 4.5,
+      "x1": 243.17999999999998,
+      "bottom": 9.719999999999999,
+      "confidence": 96.864716,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "imposing",
+      "x0": 245.34,
+      "top": 4.68,
+      "x1": 273.24,
+      "bottom": 10.98,
+      "confidence": 96.15963,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "national",
+      "x0": 275.58,
+      "top": 4.5,
+      "x1": 300.41999999999996,
+      "bottom": 9.719999999999999,
+      "confidence": 96.273361,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "emergency",
+      "x0": 302.76,
+      "top": 5.9399999999999995,
+      "x1": 336.96,
+      "bottom": 10.98,
+      "confidence": 96.095932,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "was",
+      "x0": 338.76,
+      "top": 5.9399999999999995,
+      "x1": 350.64,
+      "bottom": 9.719999999999999,
+      "confidence": 96.271492,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "substituted",
+      "x0": 352.8,
+      "top": 4.5,
+      "x1": 387.72,
+      "bottom": 9.719999999999999,
+      "confidence": 96.271492,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "for",
+      "x0": 389.88,
+      "top": 4.5,
+      "x1": 398.88,
+      "bottom": 9.719999999999999,
+      "confidence": 96.204109,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 400.68,
+      "top": 4.5,
+      "x1": 410.76,
+      "bottom": 9.719999999999999,
+      "confidence": 96.968666,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "ground",
+      "x0": 412.74,
+      "top": 4.5,
+      "x1": 434.52,
+      "bottom": 10.98,
+      "confidence": 96.645653,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "\"internal",
+      "x0": 437.21999999999997,
+      "top": 4.5,
+      "x1": 464.03999999999996,
+      "bottom": 9.719999999999999,
+      "confidence": 96.628548,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "disturbance\"?",
+      "x0": 466.38,
+      "top": 4.5,
+      "x1": 509.58,
+      "bottom": 9.719999999999999,
+      "confidence": 95.553757,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.379999999999995,
+      "top": 17.64,
+      "x1": 54.53999999999999,
+      "bottom": 22.5,
+      "confidence": 96.492119,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "a",
+      "x0": 73.08,
+      "top": 16.02,
+      "x1": 86.75999999999999,
+      "bottom": 28.439999999999998,
+      "confidence": 54.666435,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 88.56,
+      "top": 26.279999999999998,
+      "x1": 93.06,
+      "bottom": 30.959999999999997,
+      "confidence": 96.606056,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 95.39999999999999,
+      "top": 25.919999999999998,
+      "x1": 106.19999999999999,
+      "bottom": 31.139999999999997,
+      "confidence": 96.247314,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Constitution",
+      "x0": 108.72,
+      "top": 26.099999999999998,
+      "x1": 145.44,
+      "bottom": 31.139999999999997,
+      "confidence": 91.3181,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(Thirty-ninth",
+      "x0": 148.14,
+      "top": 25.919999999999998,
+      "x1": 185.57999999999998,
+      "bottom": 32.4,
+      "confidence": 91.3181,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Amendment)",
+      "x0": 187.92,
+      "top": 25.919999999999998,
+      "x1": 227.7,
+      "bottom": 32.22,
+      "confidence": 96.204796,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Act,",
+      "x0": 230.04,
+      "top": 26.279999999999998,
+      "x1": 241.38,
+      "bottom": 32.04,
+      "confidence": 96.063164,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1975",
+      "x0": 244.07999999999998,
+      "top": 26.099999999999998,
+      "x1": 258.29999999999995,
+      "bottom": 31.139999999999997,
+      "confidence": 96.981766,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 37.26,
+      "x1": 93.06,
+      "bottom": 52.199999999999996,
+      "confidence": 59.990025,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "The",
+      "x0": 95.39999999999999,
+      "top": 47.16,
+      "x1": 106.19999999999999,
+      "bottom": 52.379999999999995,
+      "confidence": 95.498497,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Constitution",
+      "x0": 108.72,
+      "top": 47.339999999999996,
+      "x1": 145.44,
+      "bottom": 52.379999999999995,
+      "confidence": 95.421181,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(Forty-second",
+      "x0": 148.14,
+      "top": 47.16,
+      "x1": 189.17999999999998,
+      "bottom": 53.63999999999999,
+      "confidence": 95.779259,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Amendment)",
+      "x0": 191.7,
+      "top": 47.16,
+      "x1": 231.48,
+      "bottom": 53.459999999999994,
+      "confidence": 96.476845,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Act,",
+      "x0": 233.64,
+      "top": 47.519999999999996,
+      "x1": 244.98,
+      "bottom": 53.279999999999994,
+      "confidence": 96.514771,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1976",
+      "x0": 247.85999999999999,
+      "top": 47.339999999999996,
+      "x1": 262.08,
+      "bottom": 52.379999999999995,
+      "confidence": 96.880806,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 58.68,
+      "x1": 93.06,
+      "bottom": 73.8,
+      "confidence": 56.642792,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 95.39999999999999,
+      "top": 68.58,
+      "x1": 106.19999999999999,
+      "bottom": 73.8,
+      "confidence": 96.890617,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Constitution",
+      "x0": 108.72,
+      "top": 68.75999999999999,
+      "x1": 145.44,
+      "bottom": 73.8,
+      "confidence": 93.26619,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(Fiftieth",
+      "x0": 148.14,
+      "top": 68.58,
+      "x1": 171.17999999999998,
+      "bottom": 74.88,
+      "confidence": 88.747284,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Amendment)",
+      "x0": 173.7,
+      "top": 68.58,
+      "x1": 213.48,
+      "bottom": 74.88,
+      "confidence": 96.258072,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Act,",
+      "x0": 215.64,
+      "top": 68.94,
+      "x1": 226.98,
+      "bottom": 74.7,
+      "confidence": 95.352882,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1984",
+      "x0": 229.85999999999999,
+      "top": 68.75999999999999,
+      "x1": 244.07999999999998,
+      "bottom": 73.8,
+      "confidence": 96.944656,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "uf",
+      "x0": 75.96,
+      "top": 83.7,
+      "x1": 80.82,
+      "bottom": 97.2,
+      "confidence": 23.399414,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "4.",
+      "x0": 88.02,
+      "top": 90.36,
+      "x1": 93.06,
+      "bottom": 95.03999999999999,
+      "confidence": 96.029579,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 95.39999999999999,
+      "top": 90.0,
+      "x1": 106.19999999999999,
+      "bottom": 95.22,
+      "confidence": 96.630295,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Constitution",
+      "x0": 108.72,
+      "top": 90.17999999999999,
+      "x1": 145.44,
+      "bottom": 95.22,
+      "confidence": 93.215965,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(Forty-fourth",
+      "x0": 148.14,
+      "top": 90.0,
+      "x1": 186.83999999999997,
+      "bottom": 96.48,
+      "confidence": 91.206329,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Amendment)",
+      "x0": 189.18,
+      "top": 90.0,
+      "x1": 228.96,
+      "bottom": 96.3,
+      "confidence": 96.327545,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Act,",
+      "x0": 231.29999999999998,
+      "top": 90.36,
+      "x1": 242.64,
+      "bottom": 96.12,
+      "confidence": 96.706352,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1978",
+      "x0": 245.34,
+      "top": 90.17999999999999,
+      "x1": 259.74,
+      "bottom": 95.22,
+      "confidence": 96.944427,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

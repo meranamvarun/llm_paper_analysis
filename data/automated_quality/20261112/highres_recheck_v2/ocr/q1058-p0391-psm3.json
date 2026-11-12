@@ -1,0 +1,537 @@
+{
+  "pdf_page": 391,
+  "crop_top": 472.48136,
+  "crop_bottom": 573.36136,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0391:l0029:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.7 The Judges of International Court of Justice are elected for nine years and the court shall elect its President or Vice-President for a term of:",
+      "bbox": [
+        43.739999999999995,
+        4.5,
+        492.84,
+        10.98
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Ans a",
+      "bbox": [
+        43.379999999999995,
+        16.02,
+        86.75999999999999,
+        28.439999999999998
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "1. Nine years",
+      "bbox": [
+        88.56,
+        26.099999999999998,
+        127.26,
+        32.4
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "uf",
+      "bbox": [
+        75.96,
+        41.04,
+        80.82,
+        54.54
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "2. Three years",
+      "bbox": [
+        88.38,
+        47.339999999999996,
+        130.67999999999998,
+        53.82
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        58.68,
+        93.06,
+        73.8
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "Five years",
+      "bbox": [
+        95.94,
+        68.75999999999999,
+        125.28,
+        75.06
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "Seven years",
+      "bbox": [
+        95.58,
+        90.17999999999999,
+        131.22,
+        96.48
+      ]
+    }
+  ],
+  "text": "Q.7 The Judges of International Court of Justice are elected for nine years and the court shall elect its President or Vice-President for a term of:\nAns a\n1. Nine years\nuf\n2. Three years\nx,\nFive years\nSeven years",
+  "ocr_words": [
+    {
+      "text": "Q.7",
+      "x0": 43.739999999999995,
+      "top": 4.68,
+      "x1": 54.17999999999999,
+      "bottom": 10.44,
+      "confidence": 91.621056,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 62.46,
+      "top": 4.5,
+      "x1": 73.62,
+      "bottom": 9.719999999999999,
+      "confidence": 95.894539,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Judges",
+      "x0": 75.6,
+      "top": 4.5,
+      "x1": 96.3,
+      "bottom": 10.98,
+      "confidence": 95.536476,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 98.46,
+      "top": 4.5,
+      "x1": 104.58,
+      "bottom": 9.719999999999999,
+      "confidence": 95.536476,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "International",
+      "x0": 106.74,
+      "top": 4.5,
+      "x1": 146.7,
+      "bottom": 9.719999999999999,
+      "confidence": 95.776649,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Court",
+      "x0": 149.04,
+      "top": 4.68,
+      "x1": 165.95999999999998,
+      "bottom": 9.719999999999999,
+      "confidence": 95.776649,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 167.94,
+      "top": 4.5,
+      "x1": 174.24,
+      "bottom": 9.719999999999999,
+      "confidence": 96.260178,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Justice",
+      "x0": 175.85999999999999,
+      "top": 4.68,
+      "x1": 196.38,
+      "bottom": 9.719999999999999,
+      "confidence": 96.76947,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "are",
+      "x0": 198.72,
+      "top": 5.9399999999999995,
+      "x1": 208.26,
+      "bottom": 9.719999999999999,
+      "confidence": 96.593544,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "elected",
+      "x0": 210.42,
+      "top": 4.5,
+      "x1": 232.73999999999998,
+      "bottom": 9.719999999999999,
+      "confidence": 96.922913,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "for",
+      "x0": 234.89999999999998,
+      "top": 4.5,
+      "x1": 243.89999999999998,
+      "bottom": 9.719999999999999,
+      "confidence": 96.681816,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "nine",
+      "x0": 246.06,
+      "top": 4.68,
+      "x1": 259.02,
+      "bottom": 9.719999999999999,
+      "confidence": 96.674744,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "years",
+      "x0": 261.0,
+      "top": 5.9399999999999995,
+      "x1": 277.38,
+      "bottom": 10.98,
+      "confidence": 96.565636,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 279.53999999999996,
+      "top": 4.5,
+      "x1": 290.7,
+      "bottom": 9.719999999999999,
+      "confidence": 96.449883,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 292.86,
+      "top": 4.5,
+      "x1": 302.94,
+      "bottom": 9.719999999999999,
+      "confidence": 96.515556,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "court",
+      "x0": 305.09999999999997,
+      "top": 5.04,
+      "x1": 321.11999999999995,
+      "bottom": 9.719999999999999,
+      "confidence": 96.867874,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "shall",
+      "x0": 323.28,
+      "top": 4.5,
+      "x1": 336.96,
+      "bottom": 9.719999999999999,
+      "confidence": 96.260323,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "elect",
+      "x0": 339.47999999999996,
+      "top": 4.5,
+      "x1": 354.05999999999995,
+      "bottom": 9.719999999999999,
+      "confidence": 96.825859,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "its",
+      "x0": 356.4,
+      "top": 4.68,
+      "x1": 363.23999999999995,
+      "bottom": 9.719999999999999,
+      "confidence": 96.531769,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "President",
+      "x0": 365.58,
+      "top": 4.5,
+      "x1": 394.74,
+      "bottom": 9.719999999999999,
+      "confidence": 96.441086,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "or",
+      "x0": 396.9,
+      "top": 5.9399999999999995,
+      "x1": 403.2,
+      "bottom": 9.719999999999999,
+      "confidence": 96.371368,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Vice-President",
+      "x0": 405.0,
+      "top": 4.5,
+      "x1": 450.0,
+      "bottom": 9.719999999999999,
+      "confidence": 96.371368,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "for",
+      "x0": 451.97999999999996,
+      "top": 4.5,
+      "x1": 460.79999999999995,
+      "bottom": 9.719999999999999,
+      "confidence": 95.799423,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 462.78,
+      "top": 5.9399999999999995,
+      "x1": 465.84,
+      "bottom": 9.719999999999999,
+      "confidence": 95.799423,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "term",
+      "x0": 468.0,
+      "top": 5.04,
+      "x1": 482.76,
+      "bottom": 9.719999999999999,
+      "confidence": 96.433556,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of:",
+      "x0": 485.09999999999997,
+      "top": 4.5,
+      "x1": 492.84,
+      "bottom": 9.719999999999999,
+      "confidence": 95.127777,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.379999999999995,
+      "top": 17.64,
+      "x1": 54.53999999999999,
+      "bottom": 22.5,
+      "confidence": 96.492119,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 73.08,
+      "top": 16.02,
+      "x1": 86.75999999999999,
+      "bottom": 28.439999999999998,
+      "confidence": 54.666435,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1.",
+      "x0": 88.56,
+      "top": 26.279999999999998,
+      "x1": 93.06,
+      "bottom": 30.959999999999997,
+      "confidence": 96.718765,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Nine",
+      "x0": 95.94,
+      "top": 26.099999999999998,
+      "x1": 109.08,
+      "bottom": 31.139999999999997,
+      "confidence": 96.144829,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "years",
+      "x0": 111.42,
+      "top": 27.36,
+      "x1": 127.26,
+      "bottom": 32.4,
+      "confidence": 96.313553,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "uf",
+      "x0": 75.96,
+      "top": 41.04,
+      "x1": 80.82,
+      "bottom": 54.54,
+      "confidence": 23.399414,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2.",
+      "x0": 88.38,
+      "top": 47.519999999999996,
+      "x1": 93.06,
+      "bottom": 52.379999999999995,
+      "confidence": 96.026344,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Three",
+      "x0": 95.39999999999999,
+      "top": 47.339999999999996,
+      "x1": 112.49999999999999,
+      "bottom": 52.559999999999995,
+      "confidence": 96.692116,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "years",
+      "x0": 114.83999999999999,
+      "top": 48.78,
+      "x1": 130.67999999999998,
+      "bottom": 53.82,
+      "confidence": 96.444656,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 58.68,
+      "x1": 93.06,
+      "bottom": 73.8,
+      "confidence": 53.525543,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Five",
+      "x0": 95.94,
+      "top": 68.75999999999999,
+      "x1": 107.1,
+      "bottom": 73.8,
+      "confidence": 96.80999,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "years",
+      "x0": 109.44,
+      "top": 70.02,
+      "x1": 125.28,
+      "bottom": 75.06,
+      "confidence": 96.534164,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Seven",
+      "x0": 95.58,
+      "top": 90.17999999999999,
+      "x1": 112.86,
+      "bottom": 95.22,
+      "confidence": 96.978561,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "years",
+      "x0": 115.38,
+      "top": 91.44,
+      "x1": 131.22,
+      "bottom": 96.48,
+      "confidence": 94.543846,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

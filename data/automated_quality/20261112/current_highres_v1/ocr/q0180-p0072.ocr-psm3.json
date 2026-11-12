@@ -1,0 +1,766 @@
+{
+  "pdf_page": 72,
+  "crop_top": 597.1186,
+  "crop_bottom": 714.1186,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0072:l0035:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "61. What is the objective of United Nations Framework Convention on Climate Change",
+      "bbox": [
+        105.264,
+        4.608,
+        551.5199999999999,
+        14.831999999999997
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "(UNFCCC)?",
+      "bbox": [
+        126.71999999999998,
+        18.575999999999997,
+        186.91199999999998,
+        28.799999999999997
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(A) To enforce international environmental treaties climate change at national",
+      "bbox": [
+        125.42399999999999,
+        32.544,
+        551.664,
+        42.91199999999999
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "on",
+      "bbox": [
+        398.304,
+        35.568,
+        409.96799999999996,
+        40.896
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "level",
+      "bbox": [
+        148.32,
+        46.656,
+        171.648,
+        54.864
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "(B) To stabilize greenhouse gas concentrations in the atmosphere to prevent dangerous",
+      "bbox": [
+        125.42399999999999,
+        60.623999999999995,
+        551.52,
+        70.848
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "human-induced interference with climate change",
+      "bbox": [
+        148.176,
+        74.592,
+        397.29599999999994,
+        84.81599999999999
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "(C) To stabilize carbon footprints and global diversity protection efforts",
+      "bbox": [
+        125.42399999999999,
+        88.55999999999999,
+        530.928,
+        98.928
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "oversee",
+      "bbox": [
+        322.416,
+        91.58399999999999,
+        359.424,
+        96.91199999999999
+      ]
+    },
+    {
+      "line_id": "l0009",
+      "text": "(D) All of the above",
+      "bbox": [
+        124.84799999999998,
+        102.52799999999999,
+        226.51199999999997,
+        112.752
+      ]
+    }
+  ],
+  "text": "61. What is the objective of United Nations Framework Convention on Climate Change\n(UNFCCC)?\n(A) To enforce international environmental treaties climate change at national\non\nlevel\n(B) To stabilize greenhouse gas concentrations in the atmosphere to prevent dangerous\nhuman-induced interference with climate change\n(C) To stabilize carbon footprints and global diversity protection efforts\noversee\n(D) All of the above",
+  "ocr_words": [
+    {
+      "text": "61.",
+      "x0": 105.264,
+      "top": 5.183999999999999,
+      "x1": 119.088,
+      "bottom": 12.815999999999999,
+      "confidence": 96.480354,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "What",
+      "x0": 126.14399999999999,
+      "top": 4.752,
+      "x1": 153.648,
+      "bottom": 12.96,
+      "confidence": 95.273163,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 157.392,
+      "top": 4.752,
+      "x1": 165.168,
+      "bottom": 12.815999999999999,
+      "confidence": 95.273163,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 169.05599999999998,
+      "top": 4.752,
+      "x1": 184.896,
+      "bottom": 12.815999999999999,
+      "confidence": 96.350708,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "objective",
+      "x0": 188.928,
+      "top": 4.608,
+      "x1": 232.56,
+      "bottom": 14.831999999999997,
+      "confidence": 96.038834,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 236.44799999999998,
+      "top": 4.608,
+      "x1": 246.09599999999998,
+      "bottom": 12.815999999999999,
+      "confidence": 96.644341,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "United",
+      "x0": 248.832,
+      "top": 4.752,
+      "x1": 283.536,
+      "bottom": 12.815999999999999,
+      "confidence": 96.266487,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Nations",
+      "x0": 287.424,
+      "top": 4.752,
+      "x1": 326.592,
+      "bottom": 12.815999999999999,
+      "confidence": 95.134354,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Framework",
+      "x0": 330.768,
+      "top": 4.752,
+      "x1": 389.08799999999997,
+      "bottom": 12.815999999999999,
+      "confidence": 95.837143,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Convention",
+      "x0": 393.26399999999995,
+      "top": 4.608,
+      "x1": 450.57599999999996,
+      "bottom": 12.959999999999997,
+      "confidence": 96.534225,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "on",
+      "x0": 454.32,
+      "top": 7.4879999999999995,
+      "x1": 465.984,
+      "bottom": 12.815999999999999,
+      "confidence": 96.292099,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Climate",
+      "x0": 470.15999999999997,
+      "top": 4.608,
+      "x1": 509.472,
+      "bottom": 12.959999999999997,
+      "confidence": 96.248528,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Change",
+      "x0": 513.7919999999999,
+      "top": 4.608,
+      "x1": 551.5199999999999,
+      "bottom": 14.831999999999997,
+      "confidence": 96.881798,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(UNFCCC)?",
+      "x0": 126.71999999999998,
+      "top": 18.575999999999997,
+      "x1": 186.91199999999998,
+      "bottom": 28.799999999999997,
+      "confidence": 96.197685,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 125.42399999999999,
+      "top": 32.544,
+      "x1": 139.248,
+      "bottom": 42.767999999999994,
+      "confidence": 96.853798,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "To",
+      "x0": 148.32,
+      "top": 32.832,
+      "x1": 160.416,
+      "bottom": 40.896,
+      "confidence": 96.47966,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "enforce",
+      "x0": 165.16799999999998,
+      "top": 32.544,
+      "x1": 201.02399999999997,
+      "bottom": 40.895999999999994,
+      "confidence": 96.828865,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "international",
+      "x0": 205.63199999999998,
+      "top": 32.687999999999995,
+      "x1": 272.304,
+      "bottom": 40.895999999999994,
+      "confidence": 96.619209,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "environmental",
+      "x0": 276.912,
+      "top": 32.687999999999995,
+      "x1": 350.784,
+      "bottom": 40.895999999999994,
+      "confidence": 96.210709,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "treaties",
+      "x0": 355.248,
+      "top": 32.687999999999995,
+      "x1": 393.55199999999996,
+      "bottom": 40.895999999999994,
+      "confidence": 96.739853,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "on",
+      "x0": 398.304,
+      "top": 35.568,
+      "x1": 409.96799999999996,
+      "bottom": 40.896,
+      "confidence": 96.571625,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "climate",
+      "x0": 414.43199999999996,
+      "top": 32.687999999999995,
+      "x1": 451.15199999999993,
+      "bottom": 40.895999999999994,
+      "confidence": 96.420738,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "change",
+      "x0": 455.90399999999994,
+      "top": 32.687999999999995,
+      "x1": 490.89599999999996,
+      "bottom": 42.91199999999999,
+      "confidence": 96.420738,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "at",
+      "x0": 495.792,
+      "top": 33.696,
+      "x1": 505.44,
+      "bottom": 40.896,
+      "confidence": 96.583382,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "national",
+      "x0": 509.90399999999994,
+      "top": 32.687999999999995,
+      "x1": 551.664,
+      "bottom": 40.895999999999994,
+      "confidence": 96.534401,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "level",
+      "x0": 148.32,
+      "top": 46.656,
+      "x1": 171.648,
+      "bottom": 54.864,
+      "confidence": 96.071472,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(B)",
+      "x0": 125.42399999999999,
+      "top": 60.623999999999995,
+      "x1": 139.248,
+      "bottom": 70.848,
+      "confidence": 91.893295,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "To",
+      "x0": 148.32,
+      "top": 60.767999999999994,
+      "x1": 160.272,
+      "bottom": 68.832,
+      "confidence": 0.0,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "stabilize",
+      "x0": 163.296,
+      "top": 60.623999999999995,
+      "x1": 203.76,
+      "bottom": 68.832,
+      "confidence": 0.0,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "greenhouse",
+      "x0": 206.784,
+      "top": 60.623999999999995,
+      "x1": 262.512,
+      "bottom": 70.848,
+      "confidence": 96.129128,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "gas",
+      "x0": 265.392,
+      "top": 63.35999999999999,
+      "x1": 281.23199999999997,
+      "bottom": 70.84799999999998,
+      "confidence": 95.745201,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "concentrations",
+      "x0": 283.96799999999996,
+      "top": 60.623999999999995,
+      "x1": 355.67999999999995,
+      "bottom": 68.832,
+      "confidence": 96.183777,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 358.416,
+      "top": 60.623999999999995,
+      "x1": 367.92,
+      "bottom": 68.68799999999999,
+      "confidence": 93.888,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 370.368,
+      "top": 60.623999999999995,
+      "x1": 385.92,
+      "bottom": 68.832,
+      "confidence": 96.37487,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "atmosphere",
+      "x0": 388.94399999999996,
+      "top": 60.623999999999995,
+      "x1": 446.256,
+      "bottom": 70.848,
+      "confidence": 96.404129,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 448.84799999999996,
+      "top": 61.632,
+      "x1": 457.91999999999996,
+      "bottom": 68.832,
+      "confidence": 96.503075,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "prevent",
+      "x0": 460.51199999999994,
+      "top": 61.632,
+      "x1": 498.09599999999995,
+      "bottom": 70.848,
+      "confidence": 96.319061,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "dangerous",
+      "x0": 500.97599999999994,
+      "top": 60.623999999999995,
+      "x1": 551.52,
+      "bottom": 70.848,
+      "confidence": 95.967674,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "human-induced",
+      "x0": 148.176,
+      "top": 74.73599999999999,
+      "x1": 227.51999999999998,
+      "bottom": 82.94399999999999,
+      "confidence": 95.877586,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "interference",
+      "x0": 230.97599999999997,
+      "top": 74.592,
+      "x1": 291.74399999999997,
+      "bottom": 82.8,
+      "confidence": 96.464943,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "with",
+      "x0": 295.488,
+      "top": 74.73599999999999,
+      "x1": 318.096,
+      "bottom": 82.94399999999999,
+      "confidence": 96.8274,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "climate",
+      "x0": 321.69599999999997,
+      "top": 74.73599999999999,
+      "x1": 358.41599999999994,
+      "bottom": 82.94399999999999,
+      "confidence": 96.466621,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "change",
+      "x0": 362.15999999999997,
+      "top": 74.73599999999999,
+      "x1": 397.29599999999994,
+      "bottom": 84.81599999999999,
+      "confidence": 96.59053,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(C)",
+      "x0": 125.42399999999999,
+      "top": 88.55999999999999,
+      "x1": 139.248,
+      "bottom": 98.78399999999999,
+      "confidence": 92.957077,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "To",
+      "x0": 148.32,
+      "top": 88.704,
+      "x1": 160.416,
+      "bottom": 96.91199999999999,
+      "confidence": 96.145737,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "stabilize",
+      "x0": 164.44799999999998,
+      "top": 88.704,
+      "x1": 206.20799999999997,
+      "bottom": 96.91199999999999,
+      "confidence": 96.339043,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "carbon",
+      "x0": 210.09599999999998,
+      "top": 88.704,
+      "x1": 243.79199999999997,
+      "bottom": 96.91199999999999,
+      "confidence": 96.625046,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "footprints",
+      "x0": 247.248,
+      "top": 88.55999999999999,
+      "x1": 296.20799999999997,
+      "bottom": 98.78399999999999,
+      "confidence": 96.681854,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 300.38399999999996,
+      "top": 88.704,
+      "x1": 318.816,
+      "bottom": 96.91199999999999,
+      "confidence": 96.706001,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "oversee",
+      "x0": 322.416,
+      "top": 91.58399999999999,
+      "x1": 359.424,
+      "bottom": 96.91199999999999,
+      "confidence": 96.728134,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "global",
+      "x0": 363.45599999999996,
+      "top": 88.704,
+      "x1": 393.26399999999995,
+      "bottom": 98.928,
+      "confidence": 96.386276,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "diversity",
+      "x0": 397.152,
+      "top": 88.704,
+      "x1": 441.216,
+      "bottom": 98.928,
+      "confidence": 96.139854,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "protection",
+      "x0": 444.816,
+      "top": 88.704,
+      "x1": 495.50399999999996,
+      "bottom": 98.78399999999999,
+      "confidence": 96.530159,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "efforts",
+      "x0": 499.248,
+      "top": 88.55999999999999,
+      "x1": 530.928,
+      "bottom": 96.91199999999999,
+      "confidence": 96.848579,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(D)",
+      "x0": 124.84799999999998,
+      "top": 102.672,
+      "x1": 139.248,
+      "bottom": 112.752,
+      "confidence": 91.978439,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "All",
+      "x0": 147.88799999999998,
+      "top": 102.672,
+      "x1": 162.57599999999996,
+      "bottom": 110.73599999999999,
+      "confidence": 95.93074,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 166.32,
+      "top": 102.52799999999999,
+      "x1": 175.82399999999998,
+      "bottom": 110.88,
+      "confidence": 96.434372,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 178.416,
+      "top": 102.672,
+      "x1": 194.256,
+      "bottom": 110.88,
+      "confidence": 96.447563,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "above",
+      "x0": 198.28799999999998,
+      "top": 102.672,
+      "x1": 226.51199999999997,
+      "bottom": 110.88,
+      "confidence": 96.472717,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

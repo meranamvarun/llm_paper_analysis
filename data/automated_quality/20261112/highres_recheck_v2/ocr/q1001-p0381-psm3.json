@@ -1,0 +1,711 @@
+{
+  "pdf_page": 381,
+  "crop_top": 160.24136,
+  "crop_bottom": 270.24136,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0381:l0008:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.50 In which case the Supreme Court upheld the Haryana Panchayati Raj Act prescribing minimum educational qualifications for contesting elections of",
+      "bbox": [
+        41.94,
+        4.32,
+        520.38,
+        10.98
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Panchayats?",
+      "bbox": [
+        62.82,
+        13.5,
+        100.97999999999999,
+        19.98
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "Ans ra",
+      "bbox": [
+        43.199999999999996,
+        24.3,
+        86.75999999999999,
+        42.120000000000005
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "1. Chaudhry Ranbir Singh v. State of Haryana",
+      "bbox": [
+        88.56,
+        34.74,
+        223.56,
+        41.4
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "x",
+      "bbox": [
+        73.08,
+        46.26,
+        86.75999999999999,
+        59.04
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "2. Ravibala v. State of Haryana",
+      "bbox": [
+        88.2,
+        56.16,
+        179.82,
+        62.81999999999999
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "v",
+      "bbox": [
+        73.8,
+        66.78,
+        87.66,
+        80.28
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "3. Rajbala v. State of Haryana",
+      "bbox": [
+        88.2,
+        77.39999999999999,
+        176.58,
+        84.06
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        89.1,
+        93.06,
+        104.03999999999999
+      ]
+    },
+    {
+      "line_id": "l0009",
+      "text": "Chaudhry Ravi Singh v. State of Haryana",
+      "bbox": [
+        95.58,
+        98.82,
+        216.36,
+        105.48
+      ]
+    }
+  ],
+  "text": "Q.50 In which case the Supreme Court upheld the Haryana Panchayati Raj Act prescribing minimum educational qualifications for contesting elections of\nPanchayats?\nAns ra\n1. Chaudhry Ranbir Singh v. State of Haryana\nx\n2. Ravibala v. State of Haryana\nv\n3. Rajbala v. State of Haryana\nx,\nChaudhry Ravi Singh v. State of Haryana",
+  "ocr_words": [
+    {
+      "text": "Q.50",
+      "x0": 41.94,
+      "top": 4.68,
+      "x1": 56.16,
+      "bottom": 10.44,
+      "confidence": 92.80098,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "In",
+      "x0": 62.82,
+      "top": 4.859999999999999,
+      "x1": 68.04,
+      "bottom": 9.54,
+      "confidence": 56.812775,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "which",
+      "x0": 70.2,
+      "top": 4.5,
+      "x1": 88.38,
+      "bottom": 9.719999999999999,
+      "confidence": 56.812775,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "case",
+      "x0": 90.72,
+      "top": 5.9399999999999995,
+      "x1": 103.67999999999999,
+      "bottom": 9.719999999999999,
+      "confidence": 95.528679,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 105.83999999999999,
+      "top": 4.5,
+      "x1": 115.74,
+      "bottom": 9.719999999999999,
+      "confidence": 96.351891,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Supreme",
+      "x0": 118.08,
+      "top": 4.68,
+      "x1": 145.44,
+      "bottom": 10.98,
+      "confidence": 96.356125,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Court",
+      "x0": 147.6,
+      "top": 4.68,
+      "x1": 164.51999999999998,
+      "bottom": 9.719999999999999,
+      "confidence": 95.70993,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "upheld",
+      "x0": 166.85999999999999,
+      "top": 4.5,
+      "x1": 187.73999999999998,
+      "bottom": 10.98,
+      "confidence": 95.70993,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 189.9,
+      "top": 4.5,
+      "x1": 199.98000000000002,
+      "bottom": 9.719999999999999,
+      "confidence": 96.450897,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Haryana",
+      "x0": 202.5,
+      "top": 4.859999999999999,
+      "x1": 227.52,
+      "bottom": 10.98,
+      "confidence": 96.560181,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Panchayati",
+      "x0": 230.22,
+      "top": 4.5,
+      "x1": 263.7,
+      "bottom": 10.98,
+      "confidence": 96.319061,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Raj",
+      "x0": 266.21999999999997,
+      "top": 4.68,
+      "x1": 275.21999999999997,
+      "bottom": 10.98,
+      "confidence": 96.385872,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Act",
+      "x0": 277.38,
+      "top": 4.859999999999999,
+      "x1": 287.28,
+      "bottom": 9.719999999999999,
+      "confidence": 96.385872,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "prescribing",
+      "x0": 289.62,
+      "top": 4.5,
+      "x1": 323.64,
+      "bottom": 10.98,
+      "confidence": 96.227142,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "minimum",
+      "x0": 325.8,
+      "top": 4.68,
+      "x1": 354.96000000000004,
+      "bottom": 9.719999999999999,
+      "confidence": 96.425903,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "educational",
+      "x0": 357.47999999999996,
+      "top": 4.5,
+      "x1": 393.47999999999996,
+      "bottom": 9.719999999999999,
+      "confidence": 96.119949,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "qualifications",
+      "x0": 395.82,
+      "top": 4.32,
+      "x1": 437.21999999999997,
+      "bottom": 10.98,
+      "confidence": 96.206909,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "for",
+      "x0": 439.2,
+      "top": 4.32,
+      "x1": 448.2,
+      "bottom": 9.719999999999999,
+      "confidence": 96.580063,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "contesting",
+      "x0": 450.18,
+      "top": 4.68,
+      "x1": 482.4,
+      "bottom": 10.98,
+      "confidence": 96.584152,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "elections",
+      "x0": 484.56,
+      "top": 4.5,
+      "x1": 512.1,
+      "bottom": 9.719999999999999,
+      "confidence": 95.930344,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 514.26,
+      "top": 4.32,
+      "x1": 520.38,
+      "bottom": 9.719999999999999,
+      "confidence": 96.637917,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Panchayats?",
+      "x0": 62.82,
+      "top": 13.5,
+      "x1": 100.97999999999999,
+      "bottom": 19.98,
+      "confidence": 96.642052,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.199999999999996,
+      "top": 26.64,
+      "x1": 54.53999999999999,
+      "bottom": 31.5,
+      "confidence": 96.978752,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "ra",
+      "x0": 72.36,
+      "top": 24.3,
+      "x1": 86.75999999999999,
+      "bottom": 42.120000000000005,
+      "confidence": 48.101242,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 88.56,
+      "top": 35.28,
+      "x1": 93.06,
+      "bottom": 39.96,
+      "confidence": 95.921654,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Chaudhry",
+      "x0": 95.58,
+      "top": 34.92,
+      "x1": 124.56,
+      "bottom": 41.4,
+      "confidence": 95.582458,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Ranbir",
+      "x0": 126.89999999999999,
+      "top": 34.92,
+      "x1": 146.16,
+      "bottom": 40.14,
+      "confidence": 96.600998,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Singh",
+      "x0": 148.14,
+      "top": 34.92,
+      "x1": 163.98,
+      "bottom": 41.4,
+      "confidence": 93.234222,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "v.",
+      "x0": 166.32,
+      "top": 36.36,
+      "x1": 171.0,
+      "bottom": 39.96,
+      "confidence": 93.209869,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "State",
+      "x0": 173.34,
+      "top": 35.1,
+      "x1": 188.64000000000001,
+      "bottom": 40.14,
+      "confidence": 96.921509,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 190.98,
+      "top": 34.74,
+      "x1": 197.1,
+      "bottom": 40.14,
+      "confidence": 96.048668,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Haryana",
+      "x0": 199.26,
+      "top": 35.28,
+      "x1": 223.56,
+      "bottom": 41.4,
+      "confidence": 96.048668,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "x",
+      "x0": 73.08,
+      "top": 46.26,
+      "x1": 86.75999999999999,
+      "bottom": 59.04,
+      "confidence": 92.562141,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "v",
+      "x0": 73.8,
+      "top": 66.78,
+      "x1": 87.66,
+      "bottom": 80.28,
+      "confidence": 70.207291,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 89.1,
+      "x1": 93.06,
+      "bottom": 104.03999999999999,
+      "confidence": 38.014835,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Chaudhry",
+      "x0": 95.58,
+      "top": 99.0,
+      "x1": 124.56,
+      "bottom": 105.48,
+      "confidence": 96.693062,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ravi",
+      "x0": 126.89999999999999,
+      "top": 99.17999999999999,
+      "x1": 138.6,
+      "bottom": 104.22,
+      "confidence": 96.528137,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Singh",
+      "x0": 141.12,
+      "top": 99.0,
+      "x1": 156.78,
+      "bottom": 105.48,
+      "confidence": 93.135033,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "v.",
+      "x0": 159.12,
+      "top": 100.44,
+      "x1": 163.8,
+      "bottom": 104.03999999999999,
+      "confidence": 93.011238,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "State",
+      "x0": 166.32,
+      "top": 99.17999999999999,
+      "x1": 181.44,
+      "bottom": 104.22,
+      "confidence": 96.716164,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 183.78,
+      "top": 98.82,
+      "x1": 189.9,
+      "bottom": 104.22,
+      "confidence": 96.290428,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Haryana",
+      "x0": 192.06,
+      "top": 99.36,
+      "x1": 216.36,
+      "bottom": 105.48,
+      "confidence": 96.308426,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2.",
+      "x0": 88.2,
+      "top": 56.519999999999996,
+      "x1": 93.06,
+      "bottom": 61.379999999999995,
+      "confidence": 93.2752,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ravibala",
+      "x0": 95.94,
+      "top": 56.339999999999996,
+      "x1": 120.42,
+      "bottom": 61.559999999999995,
+      "confidence": 92.411476,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "v.",
+      "x0": 122.75999999999999,
+      "top": 57.78,
+      "x1": 127.25999999999999,
+      "bottom": 61.38,
+      "confidence": 93.102951,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "State",
+      "x0": 129.78,
+      "top": 56.519999999999996,
+      "x1": 144.9,
+      "bottom": 61.559999999999995,
+      "confidence": 96.868011,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 147.42,
+      "top": 56.16,
+      "x1": 153.35999999999999,
+      "bottom": 61.559999999999995,
+      "confidence": 96.654999,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Haryana",
+      "x0": 155.51999999999998,
+      "top": 56.699999999999996,
+      "x1": 179.82,
+      "bottom": 62.81999999999999,
+      "confidence": 96.410965,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "3.",
+      "x0": 88.2,
+      "top": 77.75999999999999,
+      "x1": 93.06,
+      "bottom": 82.8,
+      "confidence": 93.280617,
+      "ocr_block": "6",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Rajbala",
+      "x0": 95.94,
+      "top": 77.58,
+      "x1": 117.0,
+      "bottom": 84.06,
+      "confidence": 92.598534,
+      "ocr_block": "6",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "v.",
+      "x0": 119.33999999999999,
+      "top": 79.02,
+      "x1": 124.01999999999998,
+      "bottom": 82.61999999999999,
+      "confidence": 92.598534,
+      "ocr_block": "6",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "State",
+      "x0": 126.53999999999999,
+      "top": 77.75999999999999,
+      "x1": 141.66,
+      "bottom": 82.8,
+      "confidence": 96.060303,
+      "ocr_block": "6",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 144.0,
+      "top": 77.39999999999999,
+      "x1": 150.12,
+      "bottom": 82.8,
+      "confidence": 96.060303,
+      "ocr_block": "6",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Haryana",
+      "x0": 152.28,
+      "top": 77.94,
+      "x1": 176.58,
+      "bottom": 84.06,
+      "confidence": 96.097305,
+      "ocr_block": "6",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

@@ -1,0 +1,1041 @@
+{
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0425:l0026:question",
+  "year_label": 2017,
+  "number": "115",
+  "pdf_page": 425,
+  "crop_top": 443.84,
+  "crop_bottom": 610.48,
+  "start_anchor": {
+    "pdf_page": 425,
+    "line_id": "l0026",
+    "bbox": [
+      37.68,
+      447.84,
+      553.68,
+      456.24
+    ]
+  },
+  "following_anchor": {
+    "pdf_page": 425,
+    "line_id": "l0036",
+    "bbox": [
+      37.68,
+      612.48,
+      553.68,
+      620.88
+    ]
+  },
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Question Number : 115 Question Id : 461139487 Question Type : MCQ Option Shuffling : Yes Display Question Number : Yes",
+      "bbox": [
+        37.872,
+        3.888,
+        553.824,
+        12.24
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Single Line Question Option : No Option Orientation : Vertical",
+      "bbox": [
+        37.872,
+        13.248,
+        293.328,
+        21.599999999999998
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "Correct: 1 Wrong : 0.25",
+      "bbox": [
+        37.872,
+        26.496,
+        138.096,
+        34.70399999999999
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "A, aman enfeebled by disease or age, is induced by B's influence over hirn as his medical attendant, to agree",
+      "bbox": [
+        37.583999999999996,
+        38.879999999999995,
+        560.016,
+        49.104
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "to pay Ban unreasonable sum for his professional services, BE ernploys:",
+      "bbox": [
+        37.583999999999996,
+        51.263999999999996,
+        379.008,
+        61.488
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "Options :",
+      "bbox": [
+        37.872,
+        68.39999999999999,
+        73.87199999999999,
+        76.60799999999999
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "1. * coercion",
+      "bbox": [
+        39.023999999999994,
+        80.928,
+        103.67999999999998,
+        90.43199999999999
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "2. ¥ undue influence",
+      "bbox": [
+        38.303999999999995,
+        98.928,
+        141.83999999999997,
+        108.288
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "3. *® fraud",
+      "bbox": [
+        38.303999999999995,
+        116.78399999999999,
+        90.71999999999998,
+        126.28799999999998
+      ]
+    },
+    {
+      "line_id": "l0009",
+      "text": "4. ® misrepresentation",
+      "bbox": [
+        38.303999999999995,
+        134.784,
+        150.48,
+        146.44799999999998
+      ]
+    }
+  ],
+  "text": "Question Number : 115 Question Id : 461139487 Question Type : MCQ Option Shuffling : Yes Display Question Number : Yes\nSingle Line Question Option : No Option Orientation : Vertical\nCorrect: 1 Wrong : 0.25\nA, aman enfeebled by disease or age, is induced by B's influence over hirn as his medical attendant, to agree\nto pay Ban unreasonable sum for his professional services, BE ernploys:\nOptions :\n1. * coercion\n2. ¥ undue influence\n3. *® fraud\n4. ® misrepresentation",
+  "ocr_words": [
+    {
+      "text": "Question",
+      "x0": 37.872,
+      "top": 3.888,
+      "x1": 73.15199999999999,
+      "bottom": 11.952,
+      "confidence": 96.239525,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Number",
+      "x0": 75.88799999999999,
+      "top": 4.032,
+      "x1": 109.15199999999999,
+      "bottom": 10.367999999999999,
+      "confidence": 92.782661,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 112.32,
+      "top": 5.76,
+      "x1": 113.75999999999999,
+      "bottom": 10.367999999999999,
+      "confidence": 92.599754,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "115",
+      "x0": 117.93599999999999,
+      "top": 3.888,
+      "x1": 130.896,
+      "bottom": 10.367999999999999,
+      "confidence": 90.654373,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Question",
+      "x0": 136.368,
+      "top": 3.888,
+      "x1": 171.648,
+      "bottom": 11.952,
+      "confidence": 96.163406,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Id",
+      "x0": 174.528,
+      "top": 4.032,
+      "x1": 182.88,
+      "bottom": 10.367999999999999,
+      "confidence": 91.435638,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 186.33599999999998,
+      "top": 5.76,
+      "x1": 187.77599999999998,
+      "bottom": 10.367999999999999,
+      "confidence": 88.896881,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "461139487",
+      "x0": 191.232,
+      "top": 3.888,
+      "x1": 233.136,
+      "bottom": 10.367999999999999,
+      "confidence": 96.592346,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Question",
+      "x0": 238.46399999999997,
+      "top": 3.888,
+      "x1": 273.74399999999997,
+      "bottom": 11.952,
+      "confidence": 95.697273,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Type",
+      "x0": 276.912,
+      "top": 4.032,
+      "x1": 296.496,
+      "bottom": 12.24,
+      "confidence": 84.780159,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 300.96,
+      "top": 5.76,
+      "x1": 301.536,
+      "bottom": 10.367999999999999,
+      "confidence": 84.780159,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "MCQ",
+      "x0": 304.99199999999996,
+      "top": 3.888,
+      "x1": 327.31199999999995,
+      "bottom": 11.952,
+      "confidence": 91.991577,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Option",
+      "x0": 332.784,
+      "top": 3.888,
+      "x1": 360.288,
+      "bottom": 12.239999999999998,
+      "confidence": 92.609367,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Shuffling",
+      "x0": 363.45599999999996,
+      "top": 3.888,
+      "x1": 399.74399999999997,
+      "bottom": 12.239999999999998,
+      "confidence": 88.700577,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 403.2,
+      "top": 5.76,
+      "x1": 404.64,
+      "bottom": 10.367999999999999,
+      "confidence": 88.700577,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Yes",
+      "x0": 408.09599999999995,
+      "top": 4.032,
+      "x1": 422.20799999999997,
+      "bottom": 10.367999999999999,
+      "confidence": 96.749313,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Display",
+      "x0": 427.392,
+      "top": 3.888,
+      "x1": 457.344,
+      "bottom": 12.239999999999998,
+      "confidence": 96.454018,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Question",
+      "x0": 460.36799999999994,
+      "top": 3.888,
+      "x1": 495.6479999999999,
+      "bottom": 11.952,
+      "confidence": 95.840698,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Number",
+      "x0": 498.38399999999996,
+      "top": 4.032,
+      "x1": 531.6479999999999,
+      "bottom": 10.367999999999999,
+      "confidence": 93.164352,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 534.8159999999999,
+      "top": 5.76,
+      "x1": 536.256,
+      "bottom": 10.367999999999999,
+      "confidence": 90.031097,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Yes",
+      "x0": 539.712,
+      "top": 4.032,
+      "x1": 553.824,
+      "bottom": 10.367999999999999,
+      "confidence": 96.625168,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Single",
+      "x0": 37.872,
+      "top": 13.248,
+      "x1": 61.632,
+      "bottom": 21.599999999999998,
+      "confidence": 96.381859,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Line",
+      "x0": 64.368,
+      "top": 13.248,
+      "x1": 82.368,
+      "bottom": 19.727999999999998,
+      "confidence": 95.210312,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Question",
+      "x0": 85.392,
+      "top": 13.248,
+      "x1": 120.672,
+      "bottom": 21.311999999999998,
+      "confidence": 95.210312,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Option",
+      "x0": 123.83999999999999,
+      "top": 13.248,
+      "x1": 151.2,
+      "bottom": 21.599999999999998,
+      "confidence": 92.860863,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": ":",
+      "x0": 155.37599999999998,
+      "top": 15.12,
+      "x1": 156.09599999999998,
+      "bottom": 19.727999999999998,
+      "confidence": 92.835464,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "No",
+      "x0": 159.552,
+      "top": 13.392,
+      "x1": 170.64,
+      "bottom": 19.727999999999998,
+      "confidence": 96.436874,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Option",
+      "x0": 176.112,
+      "top": 13.248,
+      "x1": 203.61599999999999,
+      "bottom": 21.599999999999998,
+      "confidence": 96.436874,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Orientation",
+      "x0": 206.64,
+      "top": 13.248,
+      "x1": 252.86399999999998,
+      "bottom": 19.727999999999998,
+      "confidence": 93.033646,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": ":",
+      "x0": 256.32,
+      "top": 15.12,
+      "x1": 257.76,
+      "bottom": 19.727999999999998,
+      "confidence": 92.625671,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Vertical",
+      "x0": 261.216,
+      "top": 13.248,
+      "x1": 293.328,
+      "bottom": 19.727999999999998,
+      "confidence": 96.351891,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Correct:",
+      "x0": 37.872,
+      "top": 26.496,
+      "x1": 73.29599999999999,
+      "bottom": 32.976,
+      "confidence": 66.748123,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1",
+      "x0": 77.32799999999999,
+      "top": 26.496,
+      "x1": 80.496,
+      "bottom": 32.832,
+      "confidence": 92.466362,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Wrong",
+      "x0": 86.112,
+      "top": 26.639999999999997,
+      "x1": 113.904,
+      "bottom": 34.70399999999999,
+      "confidence": 90.489502,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 117.35999999999999,
+      "top": 28.368,
+      "x1": 118.79999999999998,
+      "bottom": 32.976,
+      "confidence": 88.906471,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "0.25",
+      "x0": 122.39999999999999,
+      "top": 26.496,
+      "x1": 138.096,
+      "bottom": 32.976,
+      "confidence": 94.20047,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A,",
+      "x0": 37.583999999999996,
+      "top": 39.599999999999994,
+      "x1": 46.224,
+      "bottom": 48.38399999999999,
+      "confidence": 89.991631,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "aman",
+      "x0": 50.544,
+      "top": 41.04,
+      "x1": 79.91999999999999,
+      "bottom": 46.944,
+      "confidence": 89.860313,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "enfeebled",
+      "x0": 83.52,
+      "top": 38.879999999999995,
+      "x1": 129.6,
+      "bottom": 46.943999999999996,
+      "confidence": 90.444679,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "by",
+      "x0": 133.2,
+      "top": 39.599999999999994,
+      "x1": 144.72,
+      "bottom": 49.10399999999999,
+      "confidence": 96.564102,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "disease",
+      "x0": 148.32,
+      "top": 39.599999999999994,
+      "x1": 182.736,
+      "bottom": 46.943999999999996,
+      "confidence": 95.649574,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "or",
+      "x0": 186.33599999999998,
+      "top": 41.04,
+      "x1": 195.69599999999997,
+      "bottom": 46.944,
+      "confidence": 96.355972,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "age,",
+      "x0": 199.296,
+      "top": 41.04,
+      "x1": 217.296,
+      "bottom": 49.104,
+      "confidence": 96.261162,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 221.61599999999999,
+      "top": 39.599999999999994,
+      "x1": 228.672,
+      "bottom": 46.943999999999996,
+      "confidence": 91.726913,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "induced",
+      "x0": 232.272,
+      "top": 39.599999999999994,
+      "x1": 270.432,
+      "bottom": 46.943999999999996,
+      "confidence": 68.562042,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "by",
+      "x0": 274.032,
+      "top": 39.599999999999994,
+      "x1": 285.55199999999996,
+      "bottom": 49.10399999999999,
+      "confidence": 96.125992,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "B's",
+      "x0": 289.152,
+      "top": 39.599999999999994,
+      "x1": 302.832,
+      "bottom": 46.943999999999996,
+      "confidence": 46.490879,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "influence",
+      "x0": 306.28799999999995,
+      "top": 38.879999999999995,
+      "x1": 350.20799999999997,
+      "bottom": 46.943999999999996,
+      "confidence": 86.403488,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "over",
+      "x0": 353.808,
+      "top": 41.04,
+      "x1": 373.968,
+      "bottom": 46.944,
+      "confidence": 92.768517,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "hirn",
+      "x0": 377.568,
+      "top": 39.599999999999994,
+      "x1": 396.144,
+      "bottom": 46.943999999999996,
+      "confidence": 90.21106,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "as",
+      "x0": 399.02399999999994,
+      "top": 41.04,
+      "x1": 409.1039999999999,
+      "bottom": 46.944,
+      "confidence": 96.130951,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "his",
+      "x0": 412.70399999999995,
+      "top": 39.599999999999994,
+      "x1": 426.38399999999996,
+      "bottom": 46.943999999999996,
+      "confidence": 96.064079,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "medical",
+      "x0": 429.984,
+      "top": 39.599999999999994,
+      "x1": 466.56,
+      "bottom": 46.943999999999996,
+      "confidence": 56.009045,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "attendant,",
+      "x0": 470.15999999999997,
+      "top": 39.599999999999994,
+      "x1": 518.4,
+      "bottom": 48.38399999999999,
+      "confidence": 96.197197,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 522.7199999999999,
+      "top": 40.32,
+      "x1": 531.3599999999999,
+      "bottom": 46.944,
+      "confidence": 94.515831,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "agree",
+      "x0": 534.9599999999999,
+      "top": 41.04,
+      "x1": 560.016,
+      "bottom": 49.104,
+      "confidence": 96.519356,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 37.583999999999996,
+      "top": 52.70399999999999,
+      "x1": 46.224,
+      "bottom": 59.327999999999996,
+      "confidence": 96.203415,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "pay",
+      "x0": 49.824,
+      "top": 53.424,
+      "x1": 67.104,
+      "bottom": 61.488,
+      "confidence": 94.932648,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Ban",
+      "x0": 70.704,
+      "top": 51.983999999999995,
+      "x1": 91.44,
+      "bottom": 59.327999999999996,
+      "confidence": 65.191078,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "unreasonable",
+      "x0": 95.03999999999999,
+      "top": 51.983999999999995,
+      "x1": 159.69599999999997,
+      "bottom": 59.327999999999996,
+      "confidence": 95.144699,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "sum",
+      "x0": 163.296,
+      "top": 53.424,
+      "x1": 184.176,
+      "bottom": 59.328,
+      "confidence": 95.795746,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "for",
+      "x0": 187.77599999999998,
+      "top": 51.263999999999996,
+      "x1": 200.736,
+      "bottom": 59.327999999999996,
+      "confidence": 95.104897,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "his",
+      "x0": 204.33599999999998,
+      "top": 51.983999999999995,
+      "x1": 218.016,
+      "bottom": 59.327999999999996,
+      "confidence": 96.455086,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "professional",
+      "x0": 221.61599999999999,
+      "top": 51.263999999999996,
+      "x1": 280.512,
+      "bottom": 61.48799999999999,
+      "confidence": 96.640114,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "services,",
+      "x0": 284.11199999999997,
+      "top": 51.983999999999995,
+      "x1": 323.568,
+      "bottom": 60.767999999999994,
+      "confidence": 96.239723,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "BE",
+      "x0": 327.888,
+      "top": 51.983999999999995,
+      "x1": 333.64799999999997,
+      "bottom": 59.327999999999996,
+      "confidence": 52.57954,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "ernploys:",
+      "x0": 337.248,
+      "top": 51.983999999999995,
+      "x1": 379.008,
+      "bottom": 61.48799999999999,
+      "confidence": 85.847504,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Options",
+      "x0": 37.872,
+      "top": 68.39999999999999,
+      "x1": 68.832,
+      "bottom": 76.60799999999999,
+      "confidence": 93.211594,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 72.43199999999999,
+      "top": 70.27199999999999,
+      "x1": 73.87199999999999,
+      "bottom": 74.88,
+      "confidence": 93.201317,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1.",
+      "x0": 39.023999999999994,
+      "top": 83.088,
+      "x1": 45.50399999999999,
+      "bottom": 90.43199999999999,
+      "confidence": 90.854729,
+      "ocr_block": "4",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "*",
+      "x0": 51.983999999999995,
+      "top": 80.928,
+      "x1": 58.46399999999999,
+      "bottom": 87.55199999999999,
+      "confidence": 32.975494,
+      "ocr_block": "4",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "coercion",
+      "x0": 64.22399999999999,
+      "top": 83.088,
+      "x1": 103.67999999999998,
+      "bottom": 90.43199999999999,
+      "confidence": 96.318336,
+      "ocr_block": "4",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2.",
+      "x0": 38.303999999999995,
+      "top": 101.088,
+      "x1": 45.50399999999999,
+      "bottom": 108.288,
+      "confidence": 78.676842,
+      "ocr_block": "4",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "¥",
+      "x0": 50.544,
+      "top": 98.928,
+      "x1": 60.623999999999995,
+      "bottom": 106.848,
+      "confidence": 41.660645,
+      "ocr_block": "4",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "undue",
+      "x0": 64.22399999999999,
+      "top": 101.088,
+      "x1": 94.32,
+      "bottom": 108.288,
+      "confidence": 65.023148,
+      "ocr_block": "4",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "influence",
+      "x0": 97.91999999999999,
+      "top": 100.368,
+      "x1": 141.83999999999997,
+      "bottom": 108.288,
+      "confidence": 94.979584,
+      "ocr_block": "4",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "3.",
+      "x0": 38.303999999999995,
+      "top": 118.94399999999999,
+      "x1": 45.50399999999999,
+      "bottom": 126.28799999999998,
+      "confidence": 86.211197,
+      "ocr_block": "4",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "*®",
+      "x0": 51.983999999999995,
+      "top": 116.78399999999999,
+      "x1": 58.46399999999999,
+      "bottom": 123.40799999999999,
+      "confidence": 36.372799,
+      "ocr_block": "4",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "fraud",
+      "x0": 64.94399999999999,
+      "top": 118.22399999999999,
+      "x1": 90.71999999999998,
+      "bottom": 126.28799999999998,
+      "confidence": 96.573761,
+      "ocr_block": "4",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "4.",
+      "x0": 38.303999999999995,
+      "top": 136.944,
+      "x1": 45.50399999999999,
+      "bottom": 144.14399999999998,
+      "confidence": 87.048302,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "®",
+      "x0": 51.983999999999995,
+      "top": 134.784,
+      "x1": 58.46399999999999,
+      "bottom": 141.26399999999998,
+      "confidence": 68.243195,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "misrepresentation",
+      "x0": 64.22399999999999,
+      "top": 136.944,
+      "x1": 150.48,
+      "bottom": 146.44799999999998,
+      "confidence": 90.555405,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

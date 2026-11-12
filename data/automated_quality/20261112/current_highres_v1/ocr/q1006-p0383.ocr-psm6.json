@@ -1,0 +1,394 @@
+{
+  "pdf_page": 383,
+  "crop_top": 297.28136000000006,
+  "crop_bottom": 398.16136,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0383:l0017:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.12 Rights in 're propria’ mean:",
+      "bbox": [
+        41.903999999999996,
+        4.4639999999999995,
+        146.44799999999998,
+        10.943999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Ans a",
+      "bbox": [
+        43.343999999999994,
+        15.839999999999998,
+        86.544,
+        28.367999999999995
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "1. Intangible rights",
+      "bbox": [
+        88.55999999999999,
+        25.776,
+        144.432,
+        32.256
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "2. Rights in one's own things",
+      "bbox": [
+        88.27199999999999,
+        47.232,
+        174.23999999999998,
+        53.568
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "x,",
+      "bbox": [
+        73.008,
+        58.608,
+        93.024,
+        73.728
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "Tangible rights",
+      "bbox": [
+        95.32799999999999,
+        68.544,
+        139.82399999999998,
+        75.024
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "x,",
+      "bbox": [
+        73.008,
+        79.91999999999999,
+        93.024,
+        95.03999999999999
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "Rights in the things of others",
+      "bbox": [
+        95.904,
+        89.856,
+        182.59199999999998,
+        96.336
+      ]
+    }
+  ],
+  "text": "Q.12 Rights in 're propria’ mean:\nAns a\n1. Intangible rights\n2. Rights in one's own things\nx,\nTangible rights\nx,\nRights in the things of others",
+  "ocr_words": [
+    {
+      "text": "Q.12",
+      "x0": 41.903999999999996,
+      "top": 4.752,
+      "x1": 56.01599999999999,
+      "bottom": 10.367999999999999,
+      "confidence": 91.406891,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Rights",
+      "x0": 62.928,
+      "top": 4.4639999999999995,
+      "x1": 81.36,
+      "bottom": 10.943999999999999,
+      "confidence": 92.540634,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 83.66399999999999,
+      "top": 4.608,
+      "x1": 88.704,
+      "bottom": 9.504,
+      "confidence": 80.210999,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "'re",
+      "x0": 91.29599999999999,
+      "top": 4.4639999999999995,
+      "x1": 98.78399999999999,
+      "bottom": 9.648,
+      "confidence": 80.210999,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "propria’",
+      "x0": 101.232,
+      "top": 4.4639999999999995,
+      "x1": 124.99199999999999,
+      "bottom": 10.799999999999999,
+      "confidence": 23.776627,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "mean:",
+      "x0": 127.58399999999999,
+      "top": 5.904,
+      "x1": 146.44799999999998,
+      "bottom": 9.648,
+      "confidence": 96.605247,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.343999999999994,
+      "top": 17.567999999999998,
+      "x1": 54.57599999999999,
+      "bottom": 22.319999999999997,
+      "confidence": 96.842606,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "a",
+      "x0": 73.008,
+      "top": 15.839999999999998,
+      "x1": 86.544,
+      "bottom": 28.367999999999995,
+      "confidence": 46.141243,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 88.55999999999999,
+      "top": 26.208,
+      "x1": 93.02399999999999,
+      "bottom": 30.959999999999997,
+      "confidence": 95.458397,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Intangible",
+      "x0": 95.904,
+      "top": 25.776,
+      "x1": 125.42399999999999,
+      "bottom": 32.256,
+      "confidence": 95.789749,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "rights",
+      "x0": 128.016,
+      "top": 25.776,
+      "x1": 144.432,
+      "bottom": 32.256,
+      "confidence": 96.319229,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "2.",
+      "x0": 88.27199999999999,
+      "top": 47.519999999999996,
+      "x1": 93.02399999999999,
+      "bottom": 52.272,
+      "confidence": 96.414146,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Rights",
+      "x0": 95.904,
+      "top": 47.232,
+      "x1": 113.616,
+      "bottom": 53.568,
+      "confidence": 96.713753,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "in",
+      "x0": 116.20799999999998,
+      "top": 47.376,
+      "x1": 120.81599999999999,
+      "bottom": 52.272,
+      "confidence": 95.682251,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "one's",
+      "x0": 123.40799999999999,
+      "top": 47.232,
+      "x1": 138.95999999999998,
+      "bottom": 52.416,
+      "confidence": 95.082596,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "own",
+      "x0": 141.26399999999998,
+      "top": 48.672,
+      "x1": 153.64799999999997,
+      "bottom": 52.416,
+      "confidence": 96.300163,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "things",
+      "x0": 156.09599999999998,
+      "top": 47.232,
+      "x1": 174.23999999999998,
+      "bottom": 53.568,
+      "confidence": 96.349831,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "x,",
+      "x0": 73.008,
+      "top": 58.608,
+      "x1": 93.024,
+      "bottom": 73.728,
+      "confidence": 63.179783,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Tangible",
+      "x0": 95.32799999999999,
+      "top": 68.544,
+      "x1": 120.81599999999999,
+      "bottom": 75.024,
+      "confidence": 96.590363,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "rights",
+      "x0": 123.40799999999999,
+      "top": 68.544,
+      "x1": 139.82399999999998,
+      "bottom": 75.024,
+      "confidence": 96.886719,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "x,",
+      "x0": 73.008,
+      "top": 79.91999999999999,
+      "x1": 93.024,
+      "bottom": 95.03999999999999,
+      "confidence": 46.83588,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Rights",
+      "x0": 95.904,
+      "top": 89.856,
+      "x1": 113.616,
+      "bottom": 96.336,
+      "confidence": 96.560928,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "in",
+      "x0": 116.20799999999998,
+      "top": 90.14399999999999,
+      "x1": 120.81599999999999,
+      "bottom": 95.03999999999999,
+      "confidence": 96.443909,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "the",
+      "x0": 123.11999999999999,
+      "top": 89.856,
+      "x1": 132.91199999999998,
+      "bottom": 95.03999999999999,
+      "confidence": 96.620224,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "things",
+      "x0": 135.072,
+      "top": 89.856,
+      "x1": 153.216,
+      "bottom": 96.336,
+      "confidence": 96.349747,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "of",
+      "x0": 155.51999999999998,
+      "top": 89.856,
+      "x1": 161.56799999999998,
+      "bottom": 95.03999999999999,
+      "confidence": 96.539207,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "others",
+      "x0": 163.44,
+      "top": 89.856,
+      "x1": 182.59199999999998,
+      "bottom": 95.03999999999999,
+      "confidence": 96.886879,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

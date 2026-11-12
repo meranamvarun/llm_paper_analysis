@@ -1,0 +1,344 @@
+{
+  "pdf_page": 182,
+  "crop_top": 93.519,
+  "crop_bottom": 142.91899999999998,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0182:l0001:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "103. Which one of the following is not part of the Plaintiff's claim for infringement in",
+      "bbox": [
+        90.86399999999999,
+        4.608,
+        527.76,
+        14.831999999999997
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "this case?",
+      "bbox": [
+        117.216,
+        17.712,
+        165.744,
+        26.064
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(A) trademark (B) tagline (C) patent (D) trade dress",
+      "bbox": [
+        115.48799999999999,
+        34.992,
+        494.64,
+        45.216
+      ]
+    }
+  ],
+  "text": "103. Which one of the following is not part of the Plaintiff's claim for infringement in\nthis case?\n(A) trademark (B) tagline (C) patent (D) trade dress",
+  "ocr_words": [
+    {
+      "text": "103.",
+      "x0": 90.86399999999999,
+      "top": 5.04,
+      "x1": 110.16,
+      "bottom": 12.815999999999999,
+      "confidence": 95.311501,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Which",
+      "x0": 117.216,
+      "top": 4.608,
+      "x1": 149.32799999999997,
+      "bottom": 12.815999999999999,
+      "confidence": 95.816162,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "one",
+      "x0": 153.35999999999999,
+      "top": 7.4879999999999995,
+      "x1": 170.35199999999998,
+      "bottom": 12.815999999999999,
+      "confidence": 95.982903,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 174.528,
+      "top": 4.608,
+      "x1": 184.176,
+      "bottom": 12.815999999999999,
+      "confidence": 95.982903,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 187.05599999999998,
+      "top": 4.608,
+      "x1": 202.896,
+      "bottom": 12.815999999999999,
+      "confidence": 96.334251,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 207.07199999999997,
+      "top": 4.608,
+      "x1": 253.00799999999998,
+      "bottom": 14.831999999999997,
+      "confidence": 96.733498,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 256.75199999999995,
+      "top": 4.608,
+      "x1": 264.52799999999996,
+      "bottom": 12.815999999999999,
+      "confidence": 96.279747,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "not",
+      "x0": 268.84799999999996,
+      "top": 5.616,
+      "x1": 284.68799999999993,
+      "bottom": 12.815999999999999,
+      "confidence": 95.413727,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "part",
+      "x0": 288.71999999999997,
+      "top": 5.616,
+      "x1": 309.74399999999997,
+      "bottom": 14.687999999999999,
+      "confidence": 96.490654,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 313.91999999999996,
+      "top": 4.608,
+      "x1": 323.424,
+      "bottom": 12.815999999999999,
+      "confidence": 96.980171,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 326.448,
+      "top": 4.608,
+      "x1": 342.144,
+      "bottom": 12.815999999999999,
+      "confidence": 96.954704,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Plaintiff's",
+      "x0": 346.464,
+      "top": 4.608,
+      "x1": 395.13599999999997,
+      "bottom": 12.815999999999999,
+      "confidence": 56.272621,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "claim",
+      "x0": 399.31199999999995,
+      "top": 4.608,
+      "x1": 426.38399999999996,
+      "bottom": 12.815999999999999,
+      "confidence": 95.810486,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "for",
+      "x0": 430.41599999999994,
+      "top": 4.608,
+      "x1": 444.09599999999995,
+      "bottom": 12.815999999999999,
+      "confidence": 95.810486,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "infringement",
+      "x0": 447.984,
+      "top": 4.608,
+      "x1": 514.0799999999999,
+      "bottom": 14.831999999999997,
+      "confidence": 96.116592,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 517.968,
+      "top": 4.608,
+      "x1": 527.76,
+      "bottom": 12.672,
+      "confidence": 89.057709,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "this",
+      "x0": 117.216,
+      "top": 17.855999999999998,
+      "x1": 136.07999999999998,
+      "bottom": 26.064,
+      "confidence": 96.449646,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "case?",
+      "x0": 139.968,
+      "top": 17.712,
+      "x1": 165.744,
+      "bottom": 26.064,
+      "confidence": 96.389915,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(A)",
+      "x0": 115.48799999999999,
+      "top": 34.992,
+      "x1": 129.31199999999998,
+      "bottom": 45.215999999999994,
+      "confidence": 96.537651,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "trademark",
+      "x0": 136.224,
+      "top": 34.992,
+      "x1": 190.224,
+      "bottom": 43.199999999999996,
+      "confidence": 96.670258,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(B)",
+      "x0": 213.408,
+      "top": 34.992,
+      "x1": 227.23199999999997,
+      "bottom": 45.215999999999994,
+      "confidence": 93.171043,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "tagline",
+      "x0": 234.28799999999998,
+      "top": 34.992,
+      "x1": 268.99199999999996,
+      "bottom": 45.215999999999994,
+      "confidence": 96.076286,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(C)",
+      "x0": 306.43199999999996,
+      "top": 34.992,
+      "x1": 320.256,
+      "bottom": 45.215999999999994,
+      "confidence": 91.677094,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "patent",
+      "x0": 327.31199999999995,
+      "top": 36.0,
+      "x1": 359.99999999999994,
+      "bottom": 45.216,
+      "confidence": 96.338219,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(D)",
+      "x0": 416.88,
+      "top": 34.992,
+      "x1": 431.28,
+      "bottom": 45.215999999999994,
+      "confidence": 91.227959,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "trade",
+      "x0": 438.33599999999996,
+      "top": 34.992,
+      "x1": 464.68799999999993,
+      "bottom": 43.199999999999996,
+      "confidence": 96.529503,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "dress",
+      "x0": 468.71999999999997,
+      "top": 34.992,
+      "x1": 494.64,
+      "bottom": 43.199999999999996,
+      "confidence": 96.62278,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

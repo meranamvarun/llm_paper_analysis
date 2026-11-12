@@ -1,0 +1,811 @@
+{
+  "pdf_page": 207,
+  "crop_top": 336.56,
+  "crop_bottom": 456.16,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0207:l0013:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "57. “The presumption as to dowry death provided under Section 113B of the Indian Evidence",
+      "bbox": [
+        90.576,
+        4.032,
+        513.6479999999999,
+        14.256
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Act, 1872 is a ‘shall’ presumption.” The given statement is:",
+      "bbox": [
+        111.16799999999999,
+        19.008,
+        386.496,
+        29.088
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(A) True.",
+      "bbox": [
+        111.02399999999999,
+        33.552,
+        153.35999999999999,
+        43.632
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(B) False.",
+      "bbox": [
+        111.02399999999999,
+        48.38399999999999,
+        157.536,
+        58.46399999999999
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(C) Neither true nor false as the application of the presumption is a matter of discretion",
+      "bbox": [
+        110.448,
+        63.215999999999994,
+        512.784,
+        73.29599999999999
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "of court.",
+      "bbox": [
+        129.744,
+        78.04799999999999,
+        167.184,
+        85.96799999999999
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "(D) Neither true nor false as the application of the presumption depends on the facts",
+      "bbox": [
+        110.448,
+        92.73599999999999,
+        513.216,
+        102.816
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "of the case.",
+      "bbox": [
+        129.744,
+        107.568,
+        183.74399999999997,
+        115.488
+      ]
+    }
+  ],
+  "text": "57. “The presumption as to dowry death provided under Section 113B of the Indian Evidence\nAct, 1872 is a ‘shall’ presumption.” The given statement is:\n(A) True.\n(B) False.\n(C) Neither true nor false as the application of the presumption is a matter of discretion\nof court.\n(D) Neither true nor false as the application of the presumption depends on the facts\nof the case.",
+  "ocr_words": [
+    {
+      "text": "57.",
+      "x0": 90.576,
+      "top": 4.4639999999999995,
+      "x1": 104.112,
+      "bottom": 12.096,
+      "confidence": 96.273674,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "“The",
+      "x0": 112.46399999999998,
+      "top": 4.175999999999999,
+      "x1": 132.76799999999997,
+      "bottom": 12.095999999999998,
+      "confidence": 95.067841,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "presumption",
+      "x0": 134.784,
+      "top": 4.175999999999999,
+      "x1": 192.528,
+      "bottom": 14.111999999999998,
+      "confidence": 95.067841,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "as",
+      "x0": 195.11999999999998,
+      "top": 6.191999999999999,
+      "x1": 205.92,
+      "bottom": 12.096,
+      "confidence": 95.549049,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 208.65599999999998,
+      "top": 4.752,
+      "x1": 216.71999999999997,
+      "bottom": 12.096,
+      "confidence": 96.461281,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "dowry",
+      "x0": 219.31199999999998,
+      "top": 4.175999999999999,
+      "x1": 247.53599999999997,
+      "bottom": 14.256,
+      "confidence": 96.824615,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "death",
+      "x0": 249.552,
+      "top": 4.175999999999999,
+      "x1": 275.03999999999996,
+      "bottom": 12.095999999999998,
+      "confidence": 96.425339,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "provided",
+      "x0": 277.056,
+      "top": 4.175999999999999,
+      "x1": 318.24,
+      "bottom": 14.111999999999998,
+      "confidence": 95.528656,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "under",
+      "x0": 320.256,
+      "top": 4.175999999999999,
+      "x1": 347.472,
+      "bottom": 12.095999999999998,
+      "confidence": 96.583984,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Section",
+      "x0": 349.2,
+      "top": 4.032,
+      "x1": 383.472,
+      "bottom": 12.096,
+      "confidence": 93.296318,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "113B",
+      "x0": 387.50399999999996,
+      "top": 4.175999999999999,
+      "x1": 410.4,
+      "bottom": 12.095999999999998,
+      "confidence": 91.718628,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 412.84799999999996,
+      "top": 4.032,
+      "x1": 422.20799999999997,
+      "bottom": 12.096,
+      "confidence": 95.397858,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 423.792,
+      "top": 4.175999999999999,
+      "x1": 437.76,
+      "bottom": 12.095999999999998,
+      "confidence": 95.397858,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Indian",
+      "x0": 440.496,
+      "top": 4.175999999999999,
+      "x1": 468.28799999999995,
+      "bottom": 12.095999999999998,
+      "confidence": 96.366135,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Evidence",
+      "x0": 471.02399999999994,
+      "top": 4.175999999999999,
+      "x1": 513.6479999999999,
+      "bottom": 12.095999999999998,
+      "confidence": 96.428596,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Act,",
+      "x0": 111.16799999999999,
+      "top": 19.008,
+      "x1": 128.59199999999998,
+      "bottom": 28.223999999999997,
+      "confidence": 96.540558,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1872",
+      "x0": 134.49599999999998,
+      "top": 19.151999999999997,
+      "x1": 156.67199999999997,
+      "bottom": 26.927999999999997,
+      "confidence": 96.169487,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "is",
+      "x0": 159.83999999999997,
+      "top": 19.008,
+      "x1": 167.03999999999996,
+      "bottom": 26.784,
+      "confidence": 89.586052,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "a",
+      "x0": 170.35199999999998,
+      "top": 20.88,
+      "x1": 175.67999999999998,
+      "bottom": 26.784,
+      "confidence": 94.89357,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "‘shall’",
+      "x0": 180.432,
+      "top": 19.008,
+      "x1": 206.35199999999998,
+      "bottom": 26.784,
+      "confidence": 95.176422,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "presumption.”",
+      "x0": 208.65599999999998,
+      "top": 19.008,
+      "x1": 273.45599999999996,
+      "bottom": 28.944,
+      "confidence": 96.101646,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "The",
+      "x0": 276.912,
+      "top": 19.008,
+      "x1": 294.768,
+      "bottom": 26.784,
+      "confidence": 95.901894,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "given",
+      "x0": 298.65599999999995,
+      "top": 19.008,
+      "x1": 323.13599999999997,
+      "bottom": 29.088,
+      "confidence": 96.474281,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "statement",
+      "x0": 327.16799999999995,
+      "top": 19.584,
+      "x1": 373.53599999999994,
+      "bottom": 26.784,
+      "confidence": 95.721336,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "is:",
+      "x0": 377.424,
+      "top": 19.008,
+      "x1": 386.496,
+      "bottom": 26.784,
+      "confidence": 95.721336,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(A)",
+      "x0": 111.02399999999999,
+      "top": 33.552,
+      "x1": 123.83999999999999,
+      "bottom": 43.632,
+      "confidence": 96.706825,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "True.",
+      "x0": 129.456,
+      "top": 33.839999999999996,
+      "x1": 153.35999999999999,
+      "bottom": 41.616,
+      "confidence": 96.756584,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(B)",
+      "x0": 111.02399999999999,
+      "top": 48.38399999999999,
+      "x1": 123.83999999999999,
+      "bottom": 58.46399999999999,
+      "confidence": 93.219513,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "False.",
+      "x0": 130.32,
+      "top": 48.528,
+      "x1": 157.536,
+      "bottom": 56.448,
+      "confidence": 96.785873,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(C)",
+      "x0": 110.448,
+      "top": 63.215999999999994,
+      "x1": 123.83999999999999,
+      "bottom": 73.29599999999999,
+      "confidence": 92.784355,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Neither",
+      "x0": 130.176,
+      "top": 63.35999999999999,
+      "x1": 163.87199999999999,
+      "bottom": 71.136,
+      "confidence": 96.781174,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "true",
+      "x0": 166.464,
+      "top": 63.93599999999999,
+      "x1": 184.32,
+      "bottom": 71.136,
+      "confidence": 96.112396,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "nor",
+      "x0": 187.92,
+      "top": 65.232,
+      "x1": 202.75199999999998,
+      "bottom": 71.136,
+      "confidence": 96.112396,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "false",
+      "x0": 205.344,
+      "top": 63.215999999999994,
+      "x1": 227.376,
+      "bottom": 71.136,
+      "confidence": 96.455872,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "as",
+      "x0": 230.54399999999998,
+      "top": 65.232,
+      "x1": 241.2,
+      "bottom": 71.136,
+      "confidence": 96.355789,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 244.07999999999998,
+      "top": 63.35999999999999,
+      "x1": 258.47999999999996,
+      "bottom": 71.136,
+      "confidence": 96.709709,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "application",
+      "x0": 261.64799999999997,
+      "top": 63.35999999999999,
+      "x1": 311.76,
+      "bottom": 73.29599999999999,
+      "confidence": 96.423576,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 315.35999999999996,
+      "top": 63.215999999999994,
+      "x1": 323.71199999999993,
+      "bottom": 71.136,
+      "confidence": 96.185173,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 326.448,
+      "top": 63.35999999999999,
+      "x1": 340.70399999999995,
+      "bottom": 71.136,
+      "confidence": 96.854668,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "presumption",
+      "x0": 344.304,
+      "top": 63.35999999999999,
+      "x1": 401.76,
+      "bottom": 73.29599999999999,
+      "confidence": 96.135483,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "is",
+      "x0": 405.64799999999997,
+      "top": 63.35999999999999,
+      "x1": 412.272,
+      "bottom": 71.136,
+      "confidence": 96.374275,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "a",
+      "x0": 415.58399999999995,
+      "top": 65.232,
+      "x1": 420.9119999999999,
+      "bottom": 71.136,
+      "confidence": 96.520332,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "matter",
+      "x0": 424.224,
+      "top": 63.93599999999999,
+      "x1": 453.888,
+      "bottom": 71.136,
+      "confidence": 96.520332,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 456.768,
+      "top": 63.215999999999994,
+      "x1": 465.11999999999995,
+      "bottom": 71.136,
+      "confidence": 96.617798,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "discretion",
+      "x0": 468.14399999999995,
+      "top": 63.35999999999999,
+      "x1": 512.784,
+      "bottom": 71.136,
+      "confidence": 96.328621,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 129.744,
+      "top": 78.04799999999999,
+      "x1": 137.664,
+      "bottom": 85.96799999999999,
+      "confidence": 95.706726,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "court.",
+      "x0": 141.552,
+      "top": 78.04799999999999,
+      "x1": 167.184,
+      "bottom": 85.96799999999999,
+      "confidence": 95.418938,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(D)",
+      "x0": 110.448,
+      "top": 92.73599999999999,
+      "x1": 123.83999999999999,
+      "bottom": 102.81599999999999,
+      "confidence": 90.466637,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Neither",
+      "x0": 130.176,
+      "top": 92.88,
+      "x1": 163.87199999999999,
+      "bottom": 100.8,
+      "confidence": 96.695274,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "true",
+      "x0": 167.32799999999997,
+      "top": 93.45599999999999,
+      "x1": 185.18399999999997,
+      "bottom": 100.79999999999998,
+      "confidence": 96.047188,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "nor",
+      "x0": 189.648,
+      "top": 94.89599999999999,
+      "x1": 204.33599999999998,
+      "bottom": 100.79999999999998,
+      "confidence": 95.988174,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "false",
+      "x0": 207.79199999999997,
+      "top": 92.88,
+      "x1": 229.82399999999998,
+      "bottom": 100.8,
+      "confidence": 95.988174,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "as",
+      "x0": 233.856,
+      "top": 94.89599999999999,
+      "x1": 244.512,
+      "bottom": 100.79999999999998,
+      "confidence": 96.323227,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 248.25599999999997,
+      "top": 92.88,
+      "x1": 262.51199999999994,
+      "bottom": 100.8,
+      "confidence": 96.765587,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "application",
+      "x0": 266.688,
+      "top": 92.88,
+      "x1": 316.79999999999995,
+      "bottom": 102.816,
+      "confidence": 96.318169,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 321.11999999999995,
+      "top": 92.88,
+      "x1": 329.4719999999999,
+      "bottom": 100.8,
+      "confidence": 96.758003,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 333.072,
+      "top": 92.88,
+      "x1": 347.472,
+      "bottom": 100.8,
+      "confidence": 96.379898,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "presumption",
+      "x0": 351.792,
+      "top": 92.88,
+      "x1": 409.39199999999994,
+      "bottom": 102.816,
+      "confidence": 96.251755,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "depends",
+      "x0": 413.712,
+      "top": 92.88,
+      "x1": 454.032,
+      "bottom": 102.816,
+      "confidence": 94.740913,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "on",
+      "x0": 458.06399999999996,
+      "top": 94.89599999999999,
+      "x1": 468.864,
+      "bottom": 100.79999999999998,
+      "confidence": 94.740913,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 473.03999999999996,
+      "top": 92.88,
+      "x1": 487.29599999999994,
+      "bottom": 100.8,
+      "confidence": 95.948242,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "facts",
+      "x0": 491.18399999999997,
+      "top": 92.88,
+      "x1": 513.216,
+      "bottom": 100.8,
+      "confidence": 95.948242,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 129.744,
+      "top": 107.568,
+      "x1": 138.096,
+      "bottom": 115.488,
+      "confidence": 96.61908,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 141.408,
+      "top": 107.71199999999999,
+      "x1": 155.664,
+      "bottom": 115.48799999999999,
+      "confidence": 96.626808,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "case.",
+      "x0": 159.408,
+      "top": 109.58399999999999,
+      "x1": 183.74399999999997,
+      "bottom": 115.48799999999999,
+      "confidence": 95.85305,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

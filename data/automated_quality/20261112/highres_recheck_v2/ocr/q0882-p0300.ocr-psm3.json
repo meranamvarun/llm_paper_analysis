@@ -1,0 +1,439 @@
+{
+  "pdf_page": 300,
+  "crop_top": 144.2127999999999,
+  "crop_bottom": 240.2027999999999,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0300:l0003:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "36. What the classes of works for which copyrights protection is available in India?",
+      "bbox": [
+        46.98,
+        4.68,
+        495.53999999999996,
+        15.12
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "are",
+      "bbox": [
+        106.2,
+        7.739999999999999,
+        121.86,
+        13.139999999999999
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(A) Original literary, dramatic, musical and artistic works",
+      "bbox": [
+        75.24,
+        24.119999999999997,
+        379.62,
+        34.379999999999995
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(B) Cinematograph films",
+      "bbox": [
+        75.24,
+        43.199999999999996,
+        210.24,
+        53.63999999999999
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(C) Sound recordings",
+      "bbox": [
+        75.24,
+        62.46,
+        190.98,
+        72.72
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "(D) All the above",
+      "bbox": [
+        75.24,
+        81.72,
+        169.2,
+        91.98
+      ]
+    }
+  ],
+  "text": "36. What the classes of works for which copyrights protection is available in India?\nare\n(A) Original literary, dramatic, musical and artistic works\n(B) Cinematograph films\n(C) Sound recordings\n(D) All the above",
+  "ocr_words": [
+    {
+      "text": "36.",
+      "x0": 46.98,
+      "top": 5.22,
+      "x1": 60.66,
+      "bottom": 13.14,
+      "confidence": 93.252022,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "What",
+      "x0": 74.7,
+      "top": 4.859999999999999,
+      "x1": 102.24000000000001,
+      "bottom": 13.139999999999999,
+      "confidence": 93.944649,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "are",
+      "x0": 106.2,
+      "top": 7.739999999999999,
+      "x1": 121.86,
+      "bottom": 13.139999999999999,
+      "confidence": 96.471985,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 125.46,
+      "top": 4.859999999999999,
+      "x1": 141.29999999999998,
+      "bottom": 13.139999999999999,
+      "confidence": 95.40432,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "classes",
+      "x0": 145.07999999999998,
+      "top": 4.859999999999999,
+      "x1": 179.45999999999998,
+      "bottom": 13.139999999999999,
+      "confidence": 96.842522,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 183.42,
+      "top": 4.68,
+      "x1": 192.95999999999998,
+      "bottom": 13.139999999999999,
+      "confidence": 96.108749,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "works",
+      "x0": 195.48,
+      "top": 4.859999999999999,
+      "x1": 225.35999999999999,
+      "bottom": 13.139999999999999,
+      "confidence": 96.671837,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "for",
+      "x0": 229.14,
+      "top": 4.68,
+      "x1": 242.64,
+      "bottom": 13.139999999999999,
+      "confidence": 96.125908,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "which",
+      "x0": 246.23999999999998,
+      "top": 4.859999999999999,
+      "x1": 276.12,
+      "bottom": 13.139999999999999,
+      "confidence": 96.507027,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "copyrights",
+      "x0": 279.71999999999997,
+      "top": 4.859999999999999,
+      "x1": 331.73999999999995,
+      "bottom": 15.12,
+      "confidence": 96.430351,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "protection",
+      "x0": 335.7,
+      "top": 4.859999999999999,
+      "x1": 386.46,
+      "bottom": 14.94,
+      "confidence": 96.27993,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 390.06,
+      "top": 4.859999999999999,
+      "x1": 397.8,
+      "bottom": 13.139999999999999,
+      "confidence": 96.510216,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "available",
+      "x0": 402.12,
+      "top": 4.859999999999999,
+      "x1": 447.3,
+      "bottom": 13.139999999999999,
+      "confidence": 96.169609,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 451.08,
+      "top": 4.859999999999999,
+      "x1": 460.79999999999995,
+      "bottom": 12.959999999999999,
+      "confidence": 96.067986,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "India?",
+      "x0": 464.4,
+      "top": 4.68,
+      "x1": 495.53999999999996,
+      "bottom": 13.139999999999999,
+      "confidence": 96.349609,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 75.24,
+      "top": 24.119999999999997,
+      "x1": 89.1,
+      "bottom": 34.379999999999995,
+      "confidence": 85.082291,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Original",
+      "x0": 103.5,
+      "top": 24.119999999999997,
+      "x1": 145.44,
+      "bottom": 34.379999999999995,
+      "confidence": 85.082291,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "literary,",
+      "x0": 148.85999999999999,
+      "top": 24.119999999999997,
+      "x1": 189.35999999999999,
+      "bottom": 34.379999999999995,
+      "confidence": 96.186493,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "dramatic,",
+      "x0": 193.85999999999999,
+      "top": 24.119999999999997,
+      "x1": 241.38,
+      "bottom": 34.019999999999996,
+      "confidence": 96.61808,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "musical",
+      "x0": 245.7,
+      "top": 24.119999999999997,
+      "x1": 284.58,
+      "bottom": 32.4,
+      "confidence": 96.597198,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "and",
+      "x0": 288.36,
+      "top": 24.119999999999997,
+      "x1": 306.90000000000003,
+      "bottom": 32.4,
+      "confidence": 96.441803,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "artistic",
+      "x0": 310.5,
+      "top": 24.119999999999997,
+      "x1": 345.96,
+      "bottom": 32.4,
+      "confidence": 96.319984,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "works",
+      "x0": 349.74,
+      "top": 24.119999999999997,
+      "x1": 379.62,
+      "bottom": 32.4,
+      "confidence": 96.858887,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(B)",
+      "x0": 75.24,
+      "top": 43.379999999999995,
+      "x1": 89.1,
+      "bottom": 53.459999999999994,
+      "confidence": 84.787682,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Cinematograph",
+      "x0": 103.67999999999999,
+      "top": 43.379999999999995,
+      "x1": 181.98,
+      "bottom": 53.63999999999999,
+      "confidence": 84.787682,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "films",
+      "x0": 185.4,
+      "top": 43.199999999999996,
+      "x1": 210.24,
+      "bottom": 51.66,
+      "confidence": 96.727478,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(C)",
+      "x0": 75.24,
+      "top": 62.46,
+      "x1": 89.1,
+      "bottom": 72.72,
+      "confidence": 91.962135,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Sound",
+      "x0": 103.67999999999999,
+      "top": 62.46,
+      "x1": 135.0,
+      "bottom": 70.74,
+      "confidence": 96.639771,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "recordings",
+      "x0": 138.42,
+      "top": 62.64,
+      "x1": 190.98,
+      "bottom": 72.72,
+      "confidence": 96.036392,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(D)",
+      "x0": 75.24,
+      "top": 81.72,
+      "x1": 89.82,
+      "bottom": 91.98,
+      "confidence": 91.531418,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "All",
+      "x0": 102.78,
+      "top": 81.72,
+      "x1": 117.54,
+      "bottom": 89.82,
+      "confidence": 75.06131,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "the",
+      "x0": 121.14,
+      "top": 81.72,
+      "x1": 136.98,
+      "bottom": 90.0,
+      "confidence": 75.06131,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "above",
+      "x0": 140.94,
+      "top": 81.72,
+      "x1": 169.2,
+      "bottom": 90.0,
+      "confidence": 96.70414,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

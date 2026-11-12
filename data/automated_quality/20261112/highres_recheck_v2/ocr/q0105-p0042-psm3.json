@@ -1,0 +1,1148 @@
+{
+  "pdf_page": 42,
+  "crop_top": 598.0009399999998,
+  "crop_bottom": 725.8816779999999,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0042:l0031:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "106. In which of the following it held by the Supreme Court that although",
+      "bbox": [
+        57.96,
+        4.5,
+        526.86,
+        14.76
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "cases, was a",
+      "bbox": [
+        227.16,
+        7.56,
+        538.56,
+        14.579999999999998
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "company is a separate legal entity distinct from that of its members, the corporate veil",
+      "bbox": [
+        85.32,
+        20.16,
+        538.56,
+        30.42
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "may be lifted and the corporate personality may be ignored?",
+      "bbox": [
+        85.67999999999999,
+        35.64,
+        389.52,
+        45.9
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(A) Life Insurance Corporation of India Escorts Ltd. (1986) 59 Comp Case 548",
+      "bbox": [
+        85.86,
+        55.08,
+        502.38,
+        65.16
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "v.",
+      "bbox": [
+        297.36,
+        58.14,
+        305.28000000000003,
+        63.36
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "(B) R. K. Dalmia Delhi Administration, AIR 1962 SC 1821",
+      "bbox": [
+        85.86,
+        74.52,
+        404.09999999999997,
+        84.78
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "vs",
+      "bbox": [
+        182.88,
+        77.58,
+        193.32,
+        82.8
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "(C) Dale And Carrington Invt. P. Ltd. P.K. Prathapan AIR 2005 SC 1624",
+      "bbox": [
+        85.86,
+        93.96,
+        476.1,
+        104.22
+      ]
+    },
+    {
+      "line_id": "l0009",
+      "text": "v.",
+      "bbox": [
+        288.71999999999997,
+        97.02,
+        296.64,
+        102.24
+      ]
+    },
+    {
+      "line_id": "l0010",
+      "text": "(D) Rohtas Industries Ltd S.D. Agarwal, AIR 1969 SC 707",
+      "bbox": [
+        85.86,
+        113.39999999999999,
+        401.04,
+        123.66
+      ]
+    },
+    {
+      "line_id": "l0011",
+      "text": "v.",
+      "bbox": [
+        228.78,
+        116.64,
+        236.7,
+        121.68
+      ]
+    }
+  ],
+  "text": "106. In which of the following it held by the Supreme Court that although\ncases, was a\ncompany is a separate legal entity distinct from that of its members, the corporate veil\nmay be lifted and the corporate personality may be ignored?\n(A) Life Insurance Corporation of India Escorts Ltd. (1986) 59 Comp Case 548\nv.\n(B) R. K. Dalmia Delhi Administration, AIR 1962 SC 1821\nvs\n(C) Dale And Carrington Invt. P. Ltd. P.K. Prathapan AIR 2005 SC 1624\nv.\n(D) Rohtas Industries Ltd S.D. Agarwal, AIR 1969 SC 707\nv.",
+  "ocr_words": [
+    {
+      "text": "106.",
+      "x0": 57.96,
+      "top": 5.04,
+      "x1": 77.22,
+      "bottom": 12.78,
+      "confidence": 96.684067,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "In",
+      "x0": 85.5,
+      "top": 4.68,
+      "x1": 96.12,
+      "bottom": 12.6,
+      "confidence": 96.162331,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "which",
+      "x0": 102.24,
+      "top": 4.68,
+      "x1": 132.12,
+      "bottom": 12.78,
+      "confidence": 96.698013,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 138.24,
+      "top": 4.5,
+      "x1": 147.78,
+      "bottom": 12.78,
+      "confidence": 96.444206,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 153.0,
+      "top": 4.68,
+      "x1": 168.84,
+      "bottom": 12.78,
+      "confidence": 96.778801,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 175.14,
+      "top": 4.5,
+      "x1": 221.04,
+      "bottom": 14.76,
+      "confidence": 96.307487,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "cases,",
+      "x0": 227.16,
+      "top": 7.56,
+      "x1": 255.6,
+      "bottom": 14.579999999999998,
+      "confidence": 96.756508,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "it",
+      "x0": 262.44,
+      "top": 4.68,
+      "x1": 269.64,
+      "bottom": 12.78,
+      "confidence": 96.637703,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "was",
+      "x0": 275.76,
+      "top": 7.56,
+      "x1": 294.84,
+      "bottom": 12.78,
+      "confidence": 95.291389,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "held",
+      "x0": 301.14,
+      "top": 4.68,
+      "x1": 322.74,
+      "bottom": 12.78,
+      "confidence": 95.291389,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "by",
+      "x0": 328.68,
+      "top": 4.68,
+      "x1": 340.56,
+      "bottom": 14.76,
+      "confidence": 95.434303,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 346.5,
+      "top": 4.68,
+      "x1": 362.34,
+      "bottom": 12.78,
+      "confidence": 96.447952,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Supreme",
+      "x0": 369.18,
+      "top": 4.5,
+      "x1": 413.64,
+      "bottom": 14.76,
+      "confidence": 96.190773,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Court",
+      "x0": 420.47999999999996,
+      "top": 4.5,
+      "x1": 448.73999999999995,
+      "bottom": 12.959999999999999,
+      "confidence": 96.21489,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "that",
+      "x0": 454.85999999999996,
+      "top": 4.68,
+      "x1": 475.73999999999995,
+      "bottom": 12.78,
+      "confidence": 96.178833,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "although",
+      "x0": 482.21999999999997,
+      "top": 4.68,
+      "x1": 526.86,
+      "bottom": 14.76,
+      "confidence": 96.178833,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 533.16,
+      "top": 7.56,
+      "x1": 538.56,
+      "bottom": 12.78,
+      "confidence": 96.955727,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "company",
+      "x0": 85.32,
+      "top": 23.04,
+      "x1": 130.14,
+      "bottom": 30.419999999999998,
+      "confidence": 96.333145,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 134.64,
+      "top": 20.16,
+      "x1": 142.55999999999997,
+      "bottom": 28.439999999999998,
+      "confidence": 96.655678,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 147.6,
+      "top": 23.04,
+      "x1": 153.0,
+      "bottom": 28.439999999999998,
+      "confidence": 96.655678,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "separate",
+      "x0": 158.04,
+      "top": 21.06,
+      "x1": 200.7,
+      "bottom": 30.24,
+      "confidence": 96.097527,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "legal",
+      "x0": 205.56,
+      "top": 20.16,
+      "x1": 229.5,
+      "bottom": 30.42,
+      "confidence": 96.152924,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "entity",
+      "x0": 234.17999999999998,
+      "top": 20.16,
+      "x1": 263.88,
+      "bottom": 30.42,
+      "confidence": 96.239105,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "distinct",
+      "x0": 268.56,
+      "top": 20.16,
+      "x1": 306.18,
+      "bottom": 28.439999999999998,
+      "confidence": 96.400734,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "from",
+      "x0": 310.86,
+      "top": 20.16,
+      "x1": 334.08000000000004,
+      "bottom": 28.439999999999998,
+      "confidence": 96.333099,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "that",
+      "x0": 338.76,
+      "top": 20.16,
+      "x1": 359.64,
+      "bottom": 28.439999999999998,
+      "confidence": 96.229919,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 364.32,
+      "top": 20.16,
+      "x1": 373.86,
+      "bottom": 28.439999999999998,
+      "confidence": 96.936607,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "its",
+      "x0": 377.46,
+      "top": 20.16,
+      "x1": 389.52,
+      "bottom": 28.439999999999998,
+      "confidence": 95.805977,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "members,",
+      "x0": 394.74,
+      "top": 20.16,
+      "x1": 442.98,
+      "bottom": 30.060000000000002,
+      "confidence": 96.701981,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 448.2,
+      "top": 20.16,
+      "x1": 464.03999999999996,
+      "bottom": 28.439999999999998,
+      "confidence": 96.3367,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "corporate",
+      "x0": 468.9,
+      "top": 21.06,
+      "x1": 516.06,
+      "bottom": 30.24,
+      "confidence": 96.359833,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "veil",
+      "x0": 520.56,
+      "top": 20.16,
+      "x1": 538.56,
+      "bottom": 28.439999999999998,
+      "confidence": 96.482811,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "may",
+      "x0": 85.67999999999999,
+      "top": 38.519999999999996,
+      "x1": 106.74,
+      "bottom": 45.9,
+      "confidence": 96.304245,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "be",
+      "x0": 109.97999999999999,
+      "top": 35.64,
+      "x1": 121.13999999999999,
+      "bottom": 43.92,
+      "confidence": 96.167053,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "lifted",
+      "x0": 124.92,
+      "top": 35.64,
+      "x1": 151.2,
+      "bottom": 43.92,
+      "confidence": 95.642403,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 154.98,
+      "top": 35.64,
+      "x1": 173.33999999999997,
+      "bottom": 43.92,
+      "confidence": 96.595039,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 176.76,
+      "top": 35.64,
+      "x1": 192.6,
+      "bottom": 43.92,
+      "confidence": 96.595039,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "corporate",
+      "x0": 196.38,
+      "top": 36.54,
+      "x1": 243.54,
+      "bottom": 45.72,
+      "confidence": 96.752396,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "personality",
+      "x0": 247.32,
+      "top": 35.64,
+      "x1": 304.2,
+      "bottom": 45.9,
+      "confidence": 96.626572,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "may",
+      "x0": 307.8,
+      "top": 38.519999999999996,
+      "x1": 329.04,
+      "bottom": 45.9,
+      "confidence": 96.326889,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "be",
+      "x0": 332.28,
+      "top": 35.64,
+      "x1": 343.44,
+      "bottom": 43.92,
+      "confidence": 96.810654,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "ignored?",
+      "x0": 347.03999999999996,
+      "top": 35.64,
+      "x1": 389.52,
+      "bottom": 45.9,
+      "confidence": 96.091011,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 85.86,
+      "top": 55.08,
+      "x1": 99.72,
+      "bottom": 65.16,
+      "confidence": 96.998459,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(B)",
+      "x0": 85.86,
+      "top": 74.52,
+      "x1": 99.72,
+      "bottom": 84.78,
+      "confidence": 92.346001,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(C)",
+      "x0": 85.86,
+      "top": 93.96,
+      "x1": 99.72,
+      "bottom": 104.22,
+      "confidence": 92.605942,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(D)",
+      "x0": 85.86,
+      "top": 113.58,
+      "x1": 100.25999999999999,
+      "bottom": 123.66,
+      "confidence": 92.833145,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Life",
+      "x0": 113.75999999999999,
+      "top": 55.08,
+      "x1": 133.01999999999998,
+      "bottom": 63.36,
+      "confidence": 96.509125,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Insurance",
+      "x0": 136.79999999999998,
+      "top": 55.26,
+      "x1": 187.2,
+      "bottom": 63.36,
+      "confidence": 96.765671,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Corporation",
+      "x0": 191.34,
+      "top": 55.08,
+      "x1": 251.46,
+      "bottom": 65.16,
+      "confidence": 96.467659,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 255.23999999999998,
+      "top": 55.08,
+      "x1": 264.59999999999997,
+      "bottom": 63.36,
+      "confidence": 96.340744,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "India",
+      "x0": 267.48,
+      "top": 55.08,
+      "x1": 293.76,
+      "bottom": 63.36,
+      "confidence": 93.116165,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "v.",
+      "x0": 297.36,
+      "top": 58.14,
+      "x1": 305.28000000000003,
+      "bottom": 63.36,
+      "confidence": 92.748215,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Escorts",
+      "x0": 309.96,
+      "top": 55.26,
+      "x1": 346.32,
+      "bottom": 63.36,
+      "confidence": 95.898216,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ltd.",
+      "x0": 350.28,
+      "top": 55.08,
+      "x1": 370.08,
+      "bottom": 63.36,
+      "confidence": 96.097824,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(1986)",
+      "x0": 374.76,
+      "top": 55.08,
+      "x1": 405.0,
+      "bottom": 65.16,
+      "confidence": 96.029144,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "59",
+      "x0": 409.68,
+      "top": 55.62,
+      "x1": 420.66,
+      "bottom": 63.36,
+      "confidence": 96.631363,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Comp",
+      "x0": 424.8,
+      "top": 55.08,
+      "x1": 453.06,
+      "bottom": 65.16,
+      "confidence": 96.784279,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Case",
+      "x0": 457.38,
+      "top": 55.08,
+      "x1": 480.96,
+      "bottom": 63.36,
+      "confidence": 95.047546,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "548",
+      "x0": 485.09999999999997,
+      "top": 55.62,
+      "x1": 502.38,
+      "bottom": 63.36,
+      "confidence": 95.64241,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "R.",
+      "x0": 113.75999999999999,
+      "top": 74.7,
+      "x1": 123.47999999999999,
+      "bottom": 82.8,
+      "confidence": 89.619759,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "K.",
+      "x0": 127.97999999999999,
+      "top": 74.7,
+      "x1": 138.23999999999998,
+      "bottom": 82.8,
+      "confidence": 89.619759,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Dalmia",
+      "x0": 142.56,
+      "top": 74.7,
+      "x1": 179.28,
+      "bottom": 82.8,
+      "confidence": 90.009537,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "vs",
+      "x0": 182.88,
+      "top": 77.58,
+      "x1": 193.32,
+      "bottom": 82.8,
+      "confidence": 96.75425,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Delhi",
+      "x0": 197.1,
+      "top": 74.7,
+      "x1": 224.28,
+      "bottom": 82.8,
+      "confidence": 96.208488,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Administration,",
+      "x0": 227.51999999999998,
+      "top": 74.52,
+      "x1": 307.79999999999995,
+      "bottom": 84.42,
+      "confidence": 96.222939,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "AIR",
+      "x0": 311.58,
+      "top": 74.52,
+      "x1": 331.74,
+      "bottom": 82.8,
+      "confidence": 96.55455,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1962",
+      "x0": 336.24,
+      "top": 75.06,
+      "x1": 358.92,
+      "bottom": 82.8,
+      "confidence": 96.54686,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "SC",
+      "x0": 363.24,
+      "top": 74.52,
+      "x1": 376.92,
+      "bottom": 82.8,
+      "confidence": 95.400749,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1821",
+      "x0": 381.78,
+      "top": 75.06,
+      "x1": 404.09999999999997,
+      "bottom": 82.8,
+      "confidence": 95.400749,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Dale",
+      "x0": 113.75999999999999,
+      "top": 94.14,
+      "x1": 136.62,
+      "bottom": 102.24,
+      "confidence": 96.297768,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "And",
+      "x0": 140.04,
+      "top": 93.96,
+      "x1": 160.92,
+      "bottom": 102.24,
+      "confidence": 96.095551,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Carrington",
+      "x0": 164.88,
+      "top": 93.96,
+      "x1": 220.32,
+      "bottom": 104.22,
+      "confidence": 93.290497,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Invt.",
+      "x0": 223.92,
+      "top": 94.14,
+      "x1": 247.14,
+      "bottom": 102.24,
+      "confidence": 92.197662,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "P.",
+      "x0": 251.45999999999998,
+      "top": 94.14,
+      "x1": 260.46,
+      "bottom": 102.24,
+      "confidence": 92.245224,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ltd.",
+      "x0": 264.78,
+      "top": 94.14,
+      "x1": 284.58,
+      "bottom": 102.24,
+      "confidence": 92.975616,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "v.",
+      "x0": 288.71999999999997,
+      "top": 97.02,
+      "x1": 296.64,
+      "bottom": 102.24,
+      "confidence": 92.521965,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "P.K.",
+      "x0": 300.96,
+      "top": 94.14,
+      "x1": 321.65999999999997,
+      "bottom": 102.24,
+      "confidence": 87.326538,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Prathapan",
+      "x0": 325.97999999999996,
+      "top": 94.14,
+      "x1": 379.97999999999996,
+      "bottom": 104.22,
+      "confidence": 92.104759,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "AIR",
+      "x0": 383.03999999999996,
+      "top": 93.96,
+      "x1": 403.37999999999994,
+      "bottom": 102.24,
+      "confidence": 95.98938,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2005",
+      "x0": 407.15999999999997,
+      "top": 94.5,
+      "x1": 430.55999999999995,
+      "bottom": 102.24,
+      "confidence": 96.127213,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "SC",
+      "x0": 434.88,
+      "top": 93.96,
+      "x1": 448.38,
+      "bottom": 102.24,
+      "confidence": 96.488785,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1624",
+      "x0": 453.24,
+      "top": 94.5,
+      "x1": 476.1,
+      "bottom": 102.24,
+      "confidence": 96.895416,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Rohtas",
+      "x0": 113.75999999999999,
+      "top": 113.58,
+      "x1": 148.68,
+      "bottom": 121.67999999999999,
+      "confidence": 92.101151,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Industries",
+      "x0": 152.46,
+      "top": 113.58,
+      "x1": 204.12,
+      "bottom": 121.67999999999999,
+      "confidence": 96.277206,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Ltd",
+      "x0": 208.07999999999998,
+      "top": 113.58,
+      "x1": 225.35999999999999,
+      "bottom": 121.67999999999999,
+      "confidence": 93.086113,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "v.",
+      "x0": 228.78,
+      "top": 116.64,
+      "x1": 236.7,
+      "bottom": 121.68,
+      "confidence": 87.684761,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "S.D.",
+      "x0": 241.38,
+      "top": 113.39999999999999,
+      "x1": 261.36,
+      "bottom": 121.67999999999999,
+      "confidence": 64.886963,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Agarwal,",
+      "x0": 265.32,
+      "top": 113.39999999999999,
+      "x1": 310.5,
+      "bottom": 123.66,
+      "confidence": 95.793556,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "AIR",
+      "x0": 314.28,
+      "top": 113.39999999999999,
+      "x1": 334.44,
+      "bottom": 121.67999999999999,
+      "confidence": 96.564377,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1969",
+      "x0": 338.94,
+      "top": 113.94,
+      "x1": 361.8,
+      "bottom": 121.67999999999999,
+      "confidence": 96.671715,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "SC",
+      "x0": 365.94,
+      "top": 113.39999999999999,
+      "x1": 379.62,
+      "bottom": 121.85999999999999,
+      "confidence": 96.052391,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "707",
+      "x0": 384.12,
+      "top": 113.94,
+      "x1": 401.04,
+      "bottom": 121.67999999999999,
+      "confidence": 95.712318,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

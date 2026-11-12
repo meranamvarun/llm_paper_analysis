@@ -1,0 +1,414 @@
+{
+  "pdf_page": 384,
+  "crop_top": 507.04136,
+  "crop_bottom": 607.92136,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0384:l0031:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.19 Which of the following is not a characteristic of sovereignty as per Austin's analysis?",
+      "bbox": [
+        41.94,
+        4.5,
+        323.82,
+        10.98
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Ans X",
+      "bbox": [
+        43.379999999999995,
+        16.02,
+        86.75999999999999,
+        28.619999999999997
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "1. Essentiality",
+      "bbox": [
+        88.56,
+        25.919999999999998,
+        129.42,
+        32.4
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "XK",
+      "bbox": [
+        72.17999999999999,
+        36.72,
+        92.16,
+        48.599999999999994
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "2. Indivisibility",
+      "bbox": [
+        88.38,
+        47.339999999999996,
+        131.4,
+        53.81999999999999
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "XK",
+      "bbox": [
+        72.17999999999999,
+        58.86,
+        92.16,
+        70.2
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "3. Illimitability",
+      "bbox": [
+        88.2,
+        68.58,
+        131.04,
+        75.06
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "q",
+      "bbox": [
+        73.8,
+        79.2,
+        87.66,
+        92.7
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "4. Divinity",
+      "bbox": [
+        88.02,
+        90.17999999999999,
+        118.08,
+        96.47999999999999
+      ]
+    }
+  ],
+  "text": "Q.19 Which of the following is not a characteristic of sovereignty as per Austin's analysis?\nAns X\n1. Essentiality\nXK\n2. Indivisibility\nXK\n3. Illimitability\nq\n4. Divinity",
+  "ocr_words": [
+    {
+      "text": "Q.19",
+      "x0": 41.94,
+      "top": 4.68,
+      "x1": 55.98,
+      "bottom": 10.44,
+      "confidence": 91.692009,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Which",
+      "x0": 62.64,
+      "top": 4.5,
+      "x1": 81.72,
+      "bottom": 9.719999999999999,
+      "confidence": 96.184914,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 84.06,
+      "top": 4.5,
+      "x1": 90.36,
+      "bottom": 9.719999999999999,
+      "confidence": 96.015244,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 91.97999999999999,
+      "top": 4.5,
+      "x1": 102.05999999999999,
+      "bottom": 9.719999999999999,
+      "confidence": 96.871475,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 104.22,
+      "top": 4.5,
+      "x1": 133.01999999999998,
+      "bottom": 10.98,
+      "confidence": 96.4431,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 135.18,
+      "top": 4.68,
+      "x1": 139.5,
+      "bottom": 9.719999999999999,
+      "confidence": 96.411812,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "not",
+      "x0": 141.84,
+      "top": 5.04,
+      "x1": 151.92000000000002,
+      "bottom": 9.719999999999999,
+      "confidence": 95.874649,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 154.07999999999998,
+      "top": 5.9399999999999995,
+      "x1": 157.14,
+      "bottom": 9.719999999999999,
+      "confidence": 95.874649,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "characteristic",
+      "x0": 159.48,
+      "top": 4.5,
+      "x1": 200.88,
+      "bottom": 9.719999999999999,
+      "confidence": 96.523018,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 203.04,
+      "top": 4.5,
+      "x1": 209.16,
+      "bottom": 9.719999999999999,
+      "confidence": 95.952896,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "sovereignty",
+      "x0": 211.14,
+      "top": 4.68,
+      "x1": 247.14,
+      "bottom": 10.98,
+      "confidence": 96.499451,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "as",
+      "x0": 249.12,
+      "top": 5.9399999999999995,
+      "x1": 255.42000000000002,
+      "bottom": 9.719999999999999,
+      "confidence": 96.199226,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "per",
+      "x0": 257.76,
+      "top": 5.9399999999999995,
+      "x1": 267.65999999999997,
+      "bottom": 10.98,
+      "confidence": 96.199226,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Austin's",
+      "x0": 269.64,
+      "top": 4.5,
+      "x1": 294.12,
+      "bottom": 9.719999999999999,
+      "confidence": 95.760536,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "analysis?",
+      "x0": 296.28,
+      "top": 4.5,
+      "x1": 323.82,
+      "bottom": 10.98,
+      "confidence": 96.813965,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.379999999999995,
+      "top": 17.64,
+      "x1": 54.53999999999999,
+      "bottom": 22.5,
+      "confidence": 96.933205,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 88.56,
+      "top": 26.279999999999998,
+      "x1": 93.06,
+      "bottom": 30.959999999999997,
+      "confidence": 93.294579,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Essentiality",
+      "x0": 95.94,
+      "top": 25.919999999999998,
+      "x1": 129.42,
+      "bottom": 32.4,
+      "confidence": 91.278557,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "2.",
+      "x0": 88.38,
+      "top": 47.519999999999996,
+      "x1": 93.06,
+      "bottom": 52.379999999999995,
+      "confidence": 93.1129,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Indivisibility",
+      "x0": 95.94,
+      "top": 47.339999999999996,
+      "x1": 131.4,
+      "bottom": 53.81999999999999,
+      "confidence": 92.873497,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "3.",
+      "x0": 88.2,
+      "top": 68.75999999999999,
+      "x1": 93.06,
+      "bottom": 73.8,
+      "confidence": 93.298347,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Illimitability",
+      "x0": 95.94,
+      "top": 68.58,
+      "x1": 131.04,
+      "bottom": 75.06,
+      "confidence": 80.856491,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "q",
+      "x0": 73.8,
+      "top": 79.2,
+      "x1": 87.66,
+      "bottom": 92.7,
+      "confidence": 82.773178,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "XK",
+      "x0": 72.17999999999999,
+      "top": 58.86,
+      "x1": 92.16,
+      "bottom": 70.2,
+      "confidence": 61.830849,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "XK",
+      "x0": 72.17999999999999,
+      "top": 36.72,
+      "x1": 92.16,
+      "bottom": 48.599999999999994,
+      "confidence": 61.830849,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "X",
+      "x0": 73.08,
+      "top": 16.02,
+      "x1": 86.75999999999999,
+      "bottom": 28.619999999999997,
+      "confidence": 63.266048,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "4.",
+      "x0": 88.02,
+      "top": 90.36,
+      "x1": 93.06,
+      "bottom": 95.03999999999999,
+      "confidence": 94.311676,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Divinity",
+      "x0": 95.94,
+      "top": 90.17999999999999,
+      "x1": 118.08,
+      "bottom": 96.47999999999999,
+      "confidence": 96.66404,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

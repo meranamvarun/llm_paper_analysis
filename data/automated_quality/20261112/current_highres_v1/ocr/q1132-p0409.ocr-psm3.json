@@ -1,0 +1,102 @@
+{
+  "pdf_page": 409,
+  "crop_top": 9.68,
+  "crop_bottom": 27.04,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0408:l0040:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "7",
+      "bbox": [
+        54.431999999999995,
+        3.1679999999999997,
+        59.75999999999999,
+        11.951999999999998
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "3. Not more than 233",
+      "bbox": [
+        38.303999999999995,
+        6.191999999999999,
+        155.37599999999998,
+        13.392
+      ]
+    }
+  ],
+  "text": "7\n3. Not more than 233",
+  "ocr_words": [
+    {
+      "text": "3.",
+      "x0": 38.303999999999995,
+      "top": 6.191999999999999,
+      "x1": 45.50399999999999,
+      "bottom": 13.392,
+      "confidence": 86.030327,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "7",
+      "x0": 54.431999999999995,
+      "top": 3.1679999999999997,
+      "x1": 59.75999999999999,
+      "bottom": 11.951999999999998,
+      "confidence": 81.484634,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Not",
+      "x0": 64.22399999999999,
+      "top": 6.191999999999999,
+      "x1": 80.63999999999999,
+      "bottom": 13.392,
+      "confidence": 94.562256,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "more",
+      "x0": 84.24,
+      "top": 7.632,
+      "x1": 108.0,
+      "bottom": 13.392,
+      "confidence": 95.021843,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "than",
+      "x0": 111.6,
+      "top": 6.191999999999999,
+      "x1": 133.2,
+      "bottom": 13.392,
+      "confidence": 95.021843,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "233",
+      "x0": 137.51999999999998,
+      "top": 6.191999999999999,
+      "x1": 155.37599999999998,
+      "bottom": 13.392,
+      "confidence": 62.171165,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

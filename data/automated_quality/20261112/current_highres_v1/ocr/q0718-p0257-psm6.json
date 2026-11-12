@@ -1,0 +1,385 @@
+{
+  "pdf_page": 257,
+  "crop_top": 272.24199999999996,
+  "crop_bottom": 371.80199999999996,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0257:l0013:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "119. When the Environment (Protection) Act, 1986 came into force?",
+      "bbox": [
+        73.44,
+        5.183999999999999,
+        401.90399999999994,
+        15.983999999999998
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "(A) 1s*October 1986",
+      "bbox": [
+        100.51199999999999,
+        21.311999999999998,
+        202.31999999999996,
+        32.111999999999995
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(B) 19 October 1986",
+      "bbox": [
+        100.51199999999999,
+        37.007999999999996,
+        209.51999999999998,
+        48.096
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(C) 17 November 1986",
+      "bbox": [
+        100.51199999999999,
+        52.272,
+        222.192,
+        63.50399999999999
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(D) 19 November 1986",
+      "bbox": [
+        100.51199999999999,
+        68.256,
+        222.192,
+        79.344
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "CORRECT OPTION: D",
+      "bbox": [
+        72.43199999999999,
+        84.96,
+        197.56799999999998,
+        93.312
+      ]
+    }
+  ],
+  "text": "119. When the Environment (Protection) Act, 1986 came into force?\n(A) 1s*October 1986\n(B) 19 October 1986\n(C) 17 November 1986\n(D) 19 November 1986\nCORRECT OPTION: D",
+  "ocr_words": [
+    {
+      "text": "119.",
+      "x0": 73.44,
+      "top": 5.4719999999999995,
+      "x1": 90.43199999999999,
+      "bottom": 13.68,
+      "confidence": 95.461975,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "When",
+      "x0": 97.056,
+      "top": 5.183999999999999,
+      "x1": 125.856,
+      "bottom": 13.679999999999998,
+      "confidence": 95.461975,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 129.024,
+      "top": 5.183999999999999,
+      "x1": 143.28,
+      "bottom": 13.679999999999998,
+      "confidence": 96.894951,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Environment",
+      "x0": 146.44799999999998,
+      "top": 5.183999999999999,
+      "x1": 209.95199999999997,
+      "bottom": 13.679999999999998,
+      "confidence": 96.53965,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(Protection)",
+      "x0": 213.26399999999998,
+      "top": 5.183999999999999,
+      "x1": 269.712,
+      "bottom": 15.983999999999998,
+      "confidence": 96.345192,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Act,",
+      "x0": 272.736,
+      "top": 5.327999999999999,
+      "x1": 292.176,
+      "bottom": 15.408,
+      "confidence": 96.461487,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1986",
+      "x0": 296.928,
+      "top": 5.4719999999999995,
+      "x1": 319.824,
+      "bottom": 13.68,
+      "confidence": 96.54213,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "came",
+      "x0": 322.99199999999996,
+      "top": 7.919999999999999,
+      "x1": 348.19199999999995,
+      "bottom": 13.68,
+      "confidence": 96.182663,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "into",
+      "x0": 350.928,
+      "top": 5.183999999999999,
+      "x1": 368.928,
+      "bottom": 13.679999999999998,
+      "confidence": 96.387375,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "force?",
+      "x0": 372.52799999999996,
+      "top": 5.183999999999999,
+      "x1": 401.90399999999994,
+      "bottom": 13.679999999999998,
+      "confidence": 96.573647,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 100.51199999999999,
+      "top": 21.311999999999998,
+      "x1": 113.47199999999998,
+      "bottom": 32.111999999999995,
+      "confidence": 93.039604,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1s*October",
+      "x0": 123.11999999999999,
+      "top": 21.311999999999998,
+      "x1": 175.10399999999998,
+      "bottom": 29.807999999999996,
+      "confidence": 36.554981,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1986",
+      "x0": 179.42399999999998,
+      "top": 21.456,
+      "x1": 202.31999999999996,
+      "bottom": 29.808,
+      "confidence": 96.854019,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(B)",
+      "x0": 100.51199999999999,
+      "top": 37.296,
+      "x1": 112.89599999999999,
+      "bottom": 48.096,
+      "confidence": 92.480637,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "19",
+      "x0": 123.11999999999999,
+      "top": 37.007999999999996,
+      "x1": 140.54399999999998,
+      "bottom": 45.791999999999994,
+      "confidence": 55.969868,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "October",
+      "x0": 143.42399999999998,
+      "top": 37.151999999999994,
+      "x1": 182.44799999999998,
+      "bottom": 45.791999999999994,
+      "confidence": 95.02858,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "1986",
+      "x0": 186.624,
+      "top": 37.44,
+      "x1": 209.51999999999998,
+      "bottom": 45.791999999999994,
+      "confidence": 96.497238,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(C)",
+      "x0": 100.51199999999999,
+      "top": 52.559999999999995,
+      "x1": 112.89599999999999,
+      "bottom": 63.50399999999999,
+      "confidence": 92.311012,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "17",
+      "x0": 123.11999999999999,
+      "top": 52.272,
+      "x1": 140.54399999999998,
+      "bottom": 61.056,
+      "confidence": 80.761688,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "November",
+      "x0": 142.84799999999998,
+      "top": 52.559999999999995,
+      "x1": 195.11999999999998,
+      "bottom": 61.056,
+      "confidence": 93.59481,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "1986",
+      "x0": 200.16,
+      "top": 52.848,
+      "x1": 222.192,
+      "bottom": 61.056,
+      "confidence": 96.757874,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(D)",
+      "x0": 100.51199999999999,
+      "top": 68.544,
+      "x1": 113.47199999999998,
+      "bottom": 79.344,
+      "confidence": 93.158257,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "19",
+      "x0": 123.11999999999999,
+      "top": 68.256,
+      "x1": 140.54399999999998,
+      "bottom": 77.03999999999999,
+      "confidence": 7.471558,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "November",
+      "x0": 142.84799999999998,
+      "top": 68.544,
+      "x1": 195.11999999999998,
+      "bottom": 77.03999999999999,
+      "confidence": 70.642441,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "1986",
+      "x0": 200.16,
+      "top": 68.832,
+      "x1": 222.192,
+      "bottom": 77.03999999999999,
+      "confidence": 96.442009,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "CORRECT",
+      "x0": 72.43199999999999,
+      "top": 84.96,
+      "x1": 131.61599999999999,
+      "bottom": 93.312,
+      "confidence": 96.550957,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "OPTION:",
+      "x0": 135.504,
+      "top": 84.96,
+      "x1": 185.184,
+      "bottom": 93.312,
+      "confidence": 91.410141,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "D",
+      "x0": 189.504,
+      "top": 85.104,
+      "x1": 197.56799999999998,
+      "bottom": 93.024,
+      "confidence": 90.506104,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

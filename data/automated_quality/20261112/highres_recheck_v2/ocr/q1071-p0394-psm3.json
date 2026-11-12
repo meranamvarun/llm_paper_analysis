@@ -1,0 +1,473 @@
+{
+  "pdf_page": 394,
+  "crop_top": 36.16136000000006,
+  "crop_bottom": 124.32136000000003,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0393:l0049:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "KX",
+      "bbox": [
+        73.08,
+        3.06,
+        87.66,
+        35.64
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "1. The bailment is automatically terminated.",
+      "bbox": [
+        88.56,
+        13.139999999999999,
+        222.3,
+        19.619999999999997
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "2. The termination of bailment is at the option of 'A'.",
+      "bbox": [
+        88.38,
+        34.379999999999995,
+        247.68,
+        41.04
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "xx",
+      "bbox": [
+        73.08,
+        45.9,
+        86.75999999999999,
+        79.74
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "3. The bailment can be terminated at the option of 'B'.",
+      "bbox": [
+        88.2,
+        55.8,
+        252.89999999999998,
+        62.459999999999994
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "4. The bailment cannot be terminated.",
+      "bbox": [
+        88.02,
+        77.22,
+        205.01999999999998,
+        82.44
+      ]
+    }
+  ],
+  "text": "KX\n1. The bailment is automatically terminated.\n2. The termination of bailment is at the option of 'A'.\nxx\n3. The bailment can be terminated at the option of 'B'.\n4. The bailment cannot be terminated.",
+  "ocr_words": [
+    {
+      "text": "xx",
+      "x0": 73.08,
+      "top": 45.9,
+      "x1": 86.75999999999999,
+      "bottom": 79.74,
+      "confidence": 0.0,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "KX",
+      "x0": 73.08,
+      "top": 3.06,
+      "x1": 87.66,
+      "bottom": 35.64,
+      "confidence": 0.0,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1.",
+      "x0": 88.56,
+      "top": 13.5,
+      "x1": 93.06,
+      "bottom": 18.18,
+      "confidence": 95.834106,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 95.39999999999999,
+      "top": 13.139999999999999,
+      "x1": 106.19999999999999,
+      "bottom": 18.36,
+      "confidence": 93.288452,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "bailment",
+      "x0": 108.89999999999999,
+      "top": 13.139999999999999,
+      "x1": 135.17999999999998,
+      "bottom": 18.36,
+      "confidence": 90.868774,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 137.7,
+      "top": 13.32,
+      "x1": 141.48,
+      "bottom": 18.36,
+      "confidence": 96.0196,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "automatically",
+      "x0": 143.82,
+      "top": 13.139999999999999,
+      "x1": 184.68,
+      "bottom": 19.619999999999997,
+      "confidence": 96.0196,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "terminated.",
+      "x0": 186.66,
+      "top": 13.139999999999999,
+      "x1": 222.3,
+      "bottom": 18.36,
+      "confidence": 96.373863,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2.",
+      "x0": 88.38,
+      "top": 34.74,
+      "x1": 93.06,
+      "bottom": 39.6,
+      "confidence": 96.721245,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 95.39999999999999,
+      "top": 34.56,
+      "x1": 106.19999999999999,
+      "bottom": 39.78,
+      "confidence": 96.137733,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "termination",
+      "x0": 108.36,
+      "top": 34.74,
+      "x1": 144.0,
+      "bottom": 39.78,
+      "confidence": 96.723511,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 146.51999999999998,
+      "top": 34.56,
+      "x1": 152.45999999999998,
+      "bottom": 39.78,
+      "confidence": 93.285843,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "bailment",
+      "x0": 154.79999999999998,
+      "top": 34.56,
+      "x1": 181.07999999999998,
+      "bottom": 39.78,
+      "confidence": 91.852036,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 183.42,
+      "top": 34.74,
+      "x1": 187.38,
+      "bottom": 39.78,
+      "confidence": 96.773178,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "at",
+      "x0": 189.72,
+      "top": 35.1,
+      "x1": 195.3,
+      "bottom": 39.78,
+      "confidence": 96.983002,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 197.28,
+      "top": 34.56,
+      "x1": 207.0,
+      "bottom": 39.78,
+      "confidence": 96.69339,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "option",
+      "x0": 209.34,
+      "top": 34.74,
+      "x1": 228.6,
+      "bottom": 41.04,
+      "confidence": 96.769592,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 231.12,
+      "top": 34.56,
+      "x1": 237.06,
+      "bottom": 39.78,
+      "confidence": 93.10733,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "'A'.",
+      "x0": 239.22,
+      "top": 34.379999999999995,
+      "x1": 247.68,
+      "bottom": 39.599999999999994,
+      "confidence": 43.877979,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "3.",
+      "x0": 88.2,
+      "top": 56.16,
+      "x1": 93.06,
+      "bottom": 61.199999999999996,
+      "confidence": 96.841934,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 95.39999999999999,
+      "top": 55.98,
+      "x1": 106.19999999999999,
+      "bottom": 61.199999999999996,
+      "confidence": 93.272377,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "bailment",
+      "x0": 108.89999999999999,
+      "top": 55.98,
+      "x1": 135.17999999999998,
+      "bottom": 61.199999999999996,
+      "confidence": 91.79438,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "can",
+      "x0": 137.51999999999998,
+      "top": 57.419999999999995,
+      "x1": 147.42,
+      "bottom": 61.199999999999996,
+      "confidence": 96.301521,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "be",
+      "x0": 150.12,
+      "top": 55.98,
+      "x1": 156.78,
+      "bottom": 61.199999999999996,
+      "confidence": 96.472717,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "terminated",
+      "x0": 159.12,
+      "top": 55.98,
+      "x1": 192.6,
+      "bottom": 61.199999999999996,
+      "confidence": 96.249107,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "at",
+      "x0": 195.29999999999998,
+      "top": 56.519999999999996,
+      "x1": 200.88,
+      "bottom": 61.199999999999996,
+      "confidence": 96.842636,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 202.85999999999999,
+      "top": 55.98,
+      "x1": 212.57999999999998,
+      "bottom": 61.199999999999996,
+      "confidence": 96.783363,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "option",
+      "x0": 214.92,
+      "top": 56.16,
+      "x1": 234.17999999999998,
+      "bottom": 62.459999999999994,
+      "confidence": 96.831558,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 236.7,
+      "top": 55.8,
+      "x1": 242.64,
+      "bottom": 61.199999999999996,
+      "confidence": 92.846954,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "'B'.",
+      "x0": 244.79999999999998,
+      "top": 55.8,
+      "x1": 252.89999999999998,
+      "bottom": 61.019999999999996,
+      "confidence": 42.879185,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "4.",
+      "x0": 88.02,
+      "top": 77.58,
+      "x1": 93.06,
+      "bottom": 82.25999999999999,
+      "confidence": 95.298836,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 95.39999999999999,
+      "top": 77.22,
+      "x1": 106.19999999999999,
+      "bottom": 82.44,
+      "confidence": 89.873718,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "bailment",
+      "x0": 108.89999999999999,
+      "top": 77.22,
+      "x1": 135.17999999999998,
+      "bottom": 82.44,
+      "confidence": 89.873718,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "cannot",
+      "x0": 137.51999999999998,
+      "top": 77.75999999999999,
+      "x1": 158.04,
+      "bottom": 82.44,
+      "confidence": 96.917221,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "be",
+      "x0": 160.56,
+      "top": 77.22,
+      "x1": 167.22,
+      "bottom": 82.44,
+      "confidence": 96.663979,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "terminated.",
+      "x0": 169.38,
+      "top": 77.22,
+      "x1": 205.01999999999998,
+      "bottom": 82.44,
+      "confidence": 96.315071,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

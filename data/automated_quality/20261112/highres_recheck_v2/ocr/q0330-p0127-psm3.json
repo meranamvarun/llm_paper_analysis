@@ -1,0 +1,923 @@
+{
+  "pdf_page": 127,
+  "crop_top": 447.7765,
+  "crop_bottom": 540.7765,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0127:l0024:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "91. A workman shall be deemed to have rendered continuous service of one year under the",
+      "bbox": [
+        96.11999999999999,
+        3.78,
+        551.52,
+        14.219999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Industrial Disputes Act, if",
+      "bbox": [
+        118.08,
+        16.919999999999998,
+        237.78,
+        27.36
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "( A) Workman has worked under the same employer for Not less than 120 days.",
+      "bbox": [
+        116.1,
+        32.22,
+        503.09999999999997,
+        42.48
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(B) Workman has worked under the same employer for Not less than 180 days.",
+      "bbox": [
+        116.1,
+        47.339999999999996,
+        503.09999999999997,
+        57.779999999999994
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(C) Workman has worked under the same employer for Not less than 240 days.",
+      "bbox": [
+        115.38,
+        62.46,
+        503.09999999999997,
+        72.9
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "(D) Workman has worked under the same employer for Not less than 300 days.",
+      "bbox": [
+        115.38,
+        77.75999999999999,
+        503.09999999999997,
+        88.2
+      ]
+    }
+  ],
+  "text": "91. A workman shall be deemed to have rendered continuous service of one year under the\nIndustrial Disputes Act, if\n( A) Workman has worked under the same employer for Not less than 120 days.\n(B) Workman has worked under the same employer for Not less than 180 days.\n(C) Workman has worked under the same employer for Not less than 240 days.\n(D) Workman has worked under the same employer for Not less than 300 days.",
+  "ocr_words": [
+    {
+      "text": "91.",
+      "x0": 96.11999999999999,
+      "top": 4.14,
+      "x1": 110.16,
+      "bottom": 12.059999999999999,
+      "confidence": 96.396835,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A",
+      "x0": 117.17999999999999,
+      "top": 3.96,
+      "x1": 124.19999999999999,
+      "bottom": 11.879999999999999,
+      "confidence": 94.520424,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "workman",
+      "x0": 128.16,
+      "top": 3.96,
+      "x1": 171.89999999999998,
+      "bottom": 11.879999999999999,
+      "confidence": 94.520424,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "shall",
+      "x0": 176.57999999999998,
+      "top": 3.96,
+      "x1": 198.17999999999998,
+      "bottom": 11.879999999999999,
+      "confidence": 95.428955,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "be",
+      "x0": 203.22,
+      "top": 3.96,
+      "x1": 214.38,
+      "bottom": 11.879999999999999,
+      "confidence": 95.428955,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "deemed",
+      "x0": 218.7,
+      "top": 3.96,
+      "x1": 257.58,
+      "bottom": 11.879999999999999,
+      "confidence": 95.535492,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 261.9,
+      "top": 4.5,
+      "x1": 270.53999999999996,
+      "bottom": 11.879999999999999,
+      "confidence": 95.888245,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "have",
+      "x0": 275.21999999999997,
+      "top": 3.96,
+      "x1": 298.08,
+      "bottom": 11.879999999999999,
+      "confidence": 95.888245,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "rendered",
+      "x0": 302.94,
+      "top": 3.96,
+      "x1": 345.42,
+      "bottom": 11.879999999999999,
+      "confidence": 95.994522,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "continuous",
+      "x0": 350.09999999999997,
+      "top": 3.96,
+      "x1": 402.47999999999996,
+      "bottom": 11.879999999999999,
+      "confidence": 95.994522,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "service",
+      "x0": 406.97999999999996,
+      "top": 3.96,
+      "x1": 440.99999999999994,
+      "bottom": 11.879999999999999,
+      "confidence": 96.819481,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 445.5,
+      "top": 3.78,
+      "x1": 454.14,
+      "bottom": 11.879999999999999,
+      "confidence": 96.761551,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "one",
+      "x0": 458.28,
+      "top": 5.9399999999999995,
+      "x1": 475.73999999999995,
+      "bottom": 11.879999999999999,
+      "confidence": 96.761551,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "year",
+      "x0": 480.06,
+      "top": 5.9399999999999995,
+      "x1": 501.3,
+      "bottom": 14.219999999999999,
+      "confidence": 96.898148,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "under",
+      "x0": 505.62,
+      "top": 3.96,
+      "x1": 532.98,
+      "bottom": 11.879999999999999,
+      "confidence": 96.277252,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 536.9399999999999,
+      "top": 3.96,
+      "x1": 551.52,
+      "bottom": 11.879999999999999,
+      "confidence": 96.629486,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Industrial",
+      "x0": 118.08,
+      "top": 17.099999999999998,
+      "x1": 160.92,
+      "bottom": 25.199999999999996,
+      "confidence": 96.564682,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Disputes",
+      "x0": 165.6,
+      "top": 17.099999999999998,
+      "x1": 207.0,
+      "bottom": 27.36,
+      "confidence": 96.639908,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Act,",
+      "x0": 210.78,
+      "top": 17.099999999999998,
+      "x1": 228.6,
+      "bottom": 26.639999999999997,
+      "confidence": 94.678955,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "if",
+      "x0": 233.28,
+      "top": 16.919999999999998,
+      "x1": 237.78,
+      "bottom": 25.019999999999996,
+      "confidence": 96.929924,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A)",
+      "x0": 119.16,
+      "top": 32.22,
+      "x1": 129.24,
+      "bottom": 42.48,
+      "confidence": 96.189125,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Workman",
+      "x0": 136.26,
+      "top": 32.22,
+      "x1": 182.33999999999997,
+      "bottom": 40.32,
+      "confidence": 95.723602,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "has",
+      "x0": 186.84,
+      "top": 32.22,
+      "x1": 203.4,
+      "bottom": 40.32,
+      "confidence": 95.723602,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "worked",
+      "x0": 207.17999999999998,
+      "top": 32.22,
+      "x1": 241.73999999999998,
+      "bottom": 40.32,
+      "confidence": 96.456474,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "under",
+      "x0": 246.23999999999998,
+      "top": 32.22,
+      "x1": 273.59999999999997,
+      "bottom": 40.32,
+      "confidence": 96.423576,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 276.84,
+      "top": 32.22,
+      "x1": 291.41999999999996,
+      "bottom": 40.32,
+      "confidence": 96.602806,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "same",
+      "x0": 295.38,
+      "top": 34.199999999999996,
+      "x1": 321.48,
+      "bottom": 40.31999999999999,
+      "confidence": 96.816269,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "employer",
+      "x0": 325.26,
+      "top": 32.22,
+      "x1": 370.08,
+      "bottom": 42.48,
+      "confidence": 96.393387,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "for",
+      "x0": 373.32,
+      "top": 32.22,
+      "x1": 386.09999999999997,
+      "bottom": 40.32,
+      "confidence": 96.669464,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Not",
+      "x0": 389.88,
+      "top": 32.22,
+      "x1": 405.9,
+      "bottom": 40.32,
+      "confidence": 95.812012,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "less",
+      "x0": 410.03999999999996,
+      "top": 32.22,
+      "x1": 428.4,
+      "bottom": 40.32,
+      "confidence": 95.812012,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "than",
+      "x0": 432.0,
+      "top": 32.22,
+      "x1": 452.52,
+      "bottom": 40.32,
+      "confidence": 96.03685,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "120",
+      "x0": 457.38,
+      "top": 32.4,
+      "x1": 474.3,
+      "bottom": 40.5,
+      "confidence": 96.101196,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "days.",
+      "x0": 478.08,
+      "top": 32.22,
+      "x1": 503.09999999999997,
+      "bottom": 42.48,
+      "confidence": 95.957916,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(",
+      "x0": 116.1,
+      "top": 32.22,
+      "x1": 118.61999999999999,
+      "bottom": 42.48,
+      "confidence": 93.201591,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(B)",
+      "x0": 116.1,
+      "top": 47.339999999999996,
+      "x1": 129.23999999999998,
+      "bottom": 57.599999999999994,
+      "confidence": 93.005028,
+      "ocr_block": "3",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Workman",
+      "x0": 136.26,
+      "top": 47.519999999999996,
+      "x1": 182.33999999999997,
+      "bottom": 55.62,
+      "confidence": 96.614525,
+      "ocr_block": "3",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "has",
+      "x0": 186.84,
+      "top": 47.519999999999996,
+      "x1": 203.4,
+      "bottom": 55.62,
+      "confidence": 96.428764,
+      "ocr_block": "3",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "worked",
+      "x0": 207.0,
+      "top": 47.519999999999996,
+      "x1": 241.74,
+      "bottom": 55.62,
+      "confidence": 95.702736,
+      "ocr_block": "3",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "under",
+      "x0": 246.23999999999998,
+      "top": 47.519999999999996,
+      "x1": 273.59999999999997,
+      "bottom": 55.62,
+      "confidence": 96.457481,
+      "ocr_block": "3",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 276.84,
+      "top": 47.519999999999996,
+      "x1": 291.41999999999996,
+      "bottom": 55.62,
+      "confidence": 94.054031,
+      "ocr_block": "3",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "same",
+      "x0": 295.38,
+      "top": 49.5,
+      "x1": 321.48,
+      "bottom": 55.62,
+      "confidence": 94.054031,
+      "ocr_block": "3",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "employer",
+      "x0": 325.26,
+      "top": 47.519999999999996,
+      "x1": 370.08,
+      "bottom": 57.779999999999994,
+      "confidence": 96.404755,
+      "ocr_block": "3",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "for",
+      "x0": 373.32,
+      "top": 47.339999999999996,
+      "x1": 386.09999999999997,
+      "bottom": 55.62,
+      "confidence": 96.60907,
+      "ocr_block": "3",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Not",
+      "x0": 389.88,
+      "top": 47.519999999999996,
+      "x1": 405.9,
+      "bottom": 55.62,
+      "confidence": 96.947296,
+      "ocr_block": "3",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "less",
+      "x0": 410.03999999999996,
+      "top": 47.519999999999996,
+      "x1": 428.4,
+      "bottom": 55.62,
+      "confidence": 96.542297,
+      "ocr_block": "3",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "than",
+      "x0": 432.0,
+      "top": 47.519999999999996,
+      "x1": 452.52,
+      "bottom": 55.62,
+      "confidence": 96.221893,
+      "ocr_block": "3",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "180",
+      "x0": 457.38,
+      "top": 47.699999999999996,
+      "x1": 474.3,
+      "bottom": 55.62,
+      "confidence": 96.902908,
+      "ocr_block": "3",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "days.",
+      "x0": 478.08,
+      "top": 47.519999999999996,
+      "x1": 503.09999999999997,
+      "bottom": 57.779999999999994,
+      "confidence": 95.491859,
+      "ocr_block": "3",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(C)",
+      "x0": 115.38,
+      "top": 62.46,
+      "x1": 129.24,
+      "bottom": 72.9,
+      "confidence": 92.679222,
+      "ocr_block": "3",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Workman",
+      "x0": 136.26,
+      "top": 62.64,
+      "x1": 182.33999999999997,
+      "bottom": 70.74,
+      "confidence": 96.123566,
+      "ocr_block": "3",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "has",
+      "x0": 186.84,
+      "top": 62.64,
+      "x1": 203.4,
+      "bottom": 70.74,
+      "confidence": 96.896179,
+      "ocr_block": "3",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "worked",
+      "x0": 207.17999999999998,
+      "top": 62.64,
+      "x1": 241.73999999999998,
+      "bottom": 70.74,
+      "confidence": 96.682915,
+      "ocr_block": "3",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "under",
+      "x0": 246.23999999999998,
+      "top": 62.64,
+      "x1": 273.59999999999997,
+      "bottom": 70.74,
+      "confidence": 96.332092,
+      "ocr_block": "3",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 276.84,
+      "top": 62.64,
+      "x1": 291.41999999999996,
+      "bottom": 70.74,
+      "confidence": 96.264565,
+      "ocr_block": "3",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "same",
+      "x0": 295.38,
+      "top": 64.62,
+      "x1": 321.48,
+      "bottom": 70.74000000000001,
+      "confidence": 95.710739,
+      "ocr_block": "3",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "employer",
+      "x0": 325.26,
+      "top": 62.64,
+      "x1": 370.08,
+      "bottom": 72.9,
+      "confidence": 95.710739,
+      "ocr_block": "3",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "for",
+      "x0": 373.32,
+      "top": 62.64,
+      "x1": 386.09999999999997,
+      "bottom": 70.74,
+      "confidence": 96.907616,
+      "ocr_block": "3",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Not",
+      "x0": 389.88,
+      "top": 62.64,
+      "x1": 405.9,
+      "bottom": 70.74,
+      "confidence": 96.474716,
+      "ocr_block": "3",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "less",
+      "x0": 410.03999999999996,
+      "top": 62.64,
+      "x1": 428.4,
+      "bottom": 70.74,
+      "confidence": 96.684647,
+      "ocr_block": "3",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "than",
+      "x0": 432.0,
+      "top": 62.64,
+      "x1": 452.52,
+      "bottom": 70.74,
+      "confidence": 95.625969,
+      "ocr_block": "3",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "240",
+      "x0": 456.65999999999997,
+      "top": 62.82,
+      "x1": 474.29999999999995,
+      "bottom": 70.74,
+      "confidence": 95.513466,
+      "ocr_block": "3",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "days.",
+      "x0": 478.08,
+      "top": 62.64,
+      "x1": 503.09999999999997,
+      "bottom": 72.9,
+      "confidence": 95.513466,
+      "ocr_block": "3",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(D)",
+      "x0": 115.38,
+      "top": 77.75999999999999,
+      "x1": 129.24,
+      "bottom": 88.02,
+      "confidence": 91.061417,
+      "ocr_block": "3",
+      "ocr_paragraph": "2",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Workman",
+      "x0": 136.26,
+      "top": 77.94,
+      "x1": 182.33999999999997,
+      "bottom": 86.03999999999999,
+      "confidence": 95.9394,
+      "ocr_block": "3",
+      "ocr_paragraph": "2",
+      "ocr_line": "3"
+    },
+    {
+      "text": "has",
+      "x0": 186.84,
+      "top": 77.94,
+      "x1": 203.4,
+      "bottom": 86.03999999999999,
+      "confidence": 96.905113,
+      "ocr_block": "3",
+      "ocr_paragraph": "2",
+      "ocr_line": "3"
+    },
+    {
+      "text": "worked",
+      "x0": 207.17999999999998,
+      "top": 77.94,
+      "x1": 241.73999999999998,
+      "bottom": 86.03999999999999,
+      "confidence": 96.373215,
+      "ocr_block": "3",
+      "ocr_paragraph": "2",
+      "ocr_line": "3"
+    },
+    {
+      "text": "under",
+      "x0": 246.23999999999998,
+      "top": 77.94,
+      "x1": 273.59999999999997,
+      "bottom": 86.03999999999999,
+      "confidence": 96.187515,
+      "ocr_block": "3",
+      "ocr_paragraph": "2",
+      "ocr_line": "3"
+    },
+    {
+      "text": "the",
+      "x0": 276.84,
+      "top": 77.94,
+      "x1": 291.41999999999996,
+      "bottom": 86.03999999999999,
+      "confidence": 96.029373,
+      "ocr_block": "3",
+      "ocr_paragraph": "2",
+      "ocr_line": "3"
+    },
+    {
+      "text": "same",
+      "x0": 295.38,
+      "top": 79.92,
+      "x1": 321.48,
+      "bottom": 86.04,
+      "confidence": 96.548088,
+      "ocr_block": "3",
+      "ocr_paragraph": "2",
+      "ocr_line": "3"
+    },
+    {
+      "text": "employer",
+      "x0": 325.26,
+      "top": 77.94,
+      "x1": 370.08,
+      "bottom": 88.2,
+      "confidence": 96.607452,
+      "ocr_block": "3",
+      "ocr_paragraph": "2",
+      "ocr_line": "3"
+    },
+    {
+      "text": "for",
+      "x0": 373.32,
+      "top": 77.75999999999999,
+      "x1": 386.09999999999997,
+      "bottom": 86.03999999999999,
+      "confidence": 96.930267,
+      "ocr_block": "3",
+      "ocr_paragraph": "2",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Not",
+      "x0": 389.88,
+      "top": 77.94,
+      "x1": 405.9,
+      "bottom": 86.03999999999999,
+      "confidence": 96.125786,
+      "ocr_block": "3",
+      "ocr_paragraph": "2",
+      "ocr_line": "3"
+    },
+    {
+      "text": "less",
+      "x0": 410.03999999999996,
+      "top": 77.94,
+      "x1": 428.4,
+      "bottom": 86.03999999999999,
+      "confidence": 96.49427,
+      "ocr_block": "3",
+      "ocr_paragraph": "2",
+      "ocr_line": "3"
+    },
+    {
+      "text": "than",
+      "x0": 432.0,
+      "top": 77.94,
+      "x1": 452.52,
+      "bottom": 86.03999999999999,
+      "confidence": 96.038864,
+      "ocr_block": "3",
+      "ocr_paragraph": "2",
+      "ocr_line": "3"
+    },
+    {
+      "text": "300",
+      "x0": 456.65999999999997,
+      "top": 78.11999999999999,
+      "x1": 474.29999999999995,
+      "bottom": 86.03999999999999,
+      "confidence": 95.403198,
+      "ocr_block": "3",
+      "ocr_paragraph": "2",
+      "ocr_line": "3"
+    },
+    {
+      "text": "days.",
+      "x0": 478.08,
+      "top": 77.94,
+      "x1": 503.09999999999997,
+      "bottom": 88.2,
+      "confidence": 95.403198,
+      "ocr_block": "3",
+      "ocr_paragraph": "2",
+      "ocr_line": "3"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

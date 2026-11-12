@@ -1,0 +1,329 @@
+{
+  "pdf_page": 229,
+  "crop_top": 179.452,
+  "crop_bottom": 278.9219999999999,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0229:l0007:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "5. The legal propositions are generally basedon",
+      "bbox": [
+        72.53999999999999,
+        5.22,
+        313.02,
+        16.2
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "|",
+      "bbox": [
+        341.28,
+        15.66,
+        347.58,
+        16.2
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(A) Generalised possibility.",
+      "bbox": [
+        100.44,
+        21.24,
+        234.89999999999998,
+        32.22
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(B) Exclusivity.",
+      "bbox": [
+        100.44,
+        37.08,
+        178.38,
+        48.06
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(C) Social interest.",
+      "bbox": [
+        100.44,
+        52.379999999999995,
+        191.34,
+        63.35999999999999
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "(D) Political interest.",
+      "bbox": [
+        100.44,
+        68.58,
+        202.14,
+        79.38
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "CORRECT OPTION: A",
+      "bbox": [
+        72.53999999999999,
+        84.96,
+        197.82,
+        93.24
+      ]
+    }
+  ],
+  "text": "5. The legal propositions are generally basedon\n|\n(A) Generalised possibility.\n(B) Exclusivity.\n(C) Social interest.\n(D) Political interest.\nCORRECT OPTION: A",
+  "ocr_words": [
+    {
+      "text": "5.",
+      "x0": 72.53999999999999,
+      "top": 5.58,
+      "x1": 79.55999999999999,
+      "bottom": 13.68,
+      "confidence": 90.988548,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 93.96,
+      "top": 5.22,
+      "x1": 111.96,
+      "bottom": 13.68,
+      "confidence": 90.988548,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "legal",
+      "x0": 115.74,
+      "top": 5.22,
+      "x1": 138.24,
+      "bottom": 16.2,
+      "confidence": 93.337158,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "propositions",
+      "x0": 141.48,
+      "top": 5.22,
+      "x1": 201.6,
+      "bottom": 16.2,
+      "confidence": 96.596153,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "are",
+      "x0": 205.73999999999998,
+      "top": 8.1,
+      "x1": 219.59999999999997,
+      "bottom": 13.68,
+      "confidence": 96.215828,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "generally",
+      "x0": 223.2,
+      "top": 5.22,
+      "x1": 267.65999999999997,
+      "bottom": 16.2,
+      "confidence": 92.353348,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "basedon",
+      "x0": 270.36,
+      "top": 5.22,
+      "x1": 313.02,
+      "bottom": 13.68,
+      "confidence": 87.186844,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "|",
+      "x0": 341.28,
+      "top": 15.66,
+      "x1": 347.58,
+      "bottom": 16.2,
+      "confidence": 32.494095,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 100.44,
+      "top": 21.24,
+      "x1": 113.39999999999999,
+      "bottom": 32.04,
+      "confidence": 96.868813,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Generalised",
+      "x0": 122.03999999999999,
+      "top": 21.24,
+      "x1": 179.82,
+      "bottom": 29.699999999999996,
+      "confidence": 96.832062,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "possibility.",
+      "x0": 182.88,
+      "top": 21.24,
+      "x1": 234.89999999999998,
+      "bottom": 32.22,
+      "confidence": 95.959244,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(B)",
+      "x0": 100.44,
+      "top": 37.26,
+      "x1": 112.86,
+      "bottom": 48.059999999999995,
+      "confidence": 92.440933,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Exclusivity.",
+      "x0": 122.03999999999999,
+      "top": 37.08,
+      "x1": 178.38,
+      "bottom": 48.06,
+      "confidence": 95.518356,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(C)",
+      "x0": 100.44,
+      "top": 52.559999999999995,
+      "x1": 112.86,
+      "bottom": 63.35999999999999,
+      "confidence": 92.160507,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Social",
+      "x0": 122.39999999999999,
+      "top": 52.379999999999995,
+      "x1": 151.38,
+      "bottom": 61.019999999999996,
+      "confidence": 96.65419,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "interest.",
+      "x0": 154.44,
+      "top": 52.379999999999995,
+      "x1": 191.34,
+      "bottom": 61.019999999999996,
+      "confidence": 96.633369,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(D)",
+      "x0": 100.44,
+      "top": 68.58,
+      "x1": 113.39999999999999,
+      "bottom": 79.38,
+      "confidence": 92.277512,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Political",
+      "x0": 121.86,
+      "top": 68.58,
+      "x1": 161.46,
+      "bottom": 77.03999999999999,
+      "confidence": 96.670532,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "interest.",
+      "x0": 165.23999999999998,
+      "top": 68.58,
+      "x1": 202.14,
+      "bottom": 77.03999999999999,
+      "confidence": 96.850327,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "CORRECT",
+      "x0": 72.53999999999999,
+      "top": 84.96,
+      "x1": 131.57999999999998,
+      "bottom": 93.24,
+      "confidence": 96.224648,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "OPTION:",
+      "x0": 135.54,
+      "top": 84.96,
+      "x1": 185.22,
+      "bottom": 93.24,
+      "confidence": 96.390099,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "A",
+      "x0": 189.54,
+      "top": 84.96,
+      "x1": 197.82,
+      "bottom": 93.05999999999999,
+      "confidence": 96.390099,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

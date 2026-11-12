@@ -1,0 +1,921 @@
+{
+  "pdf_page": 244,
+  "crop_top": 199.25199999999995,
+  "crop_bottom": 321.2819999999999,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0244:l0009:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "65. Section 311 of the Code of Criminal Procedure, 1973 imposes a duty on the Court to",
+      "bbox": [
+        72.53999999999999,
+        5.22,
+        499.14,
+        16.2
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "(A) Determine the truth after discovering all relevant facts and obtaining proper",
+      "bbox": [
+        100.61999999999999,
+        19.62,
+        495.53999999999996,
+        30.6
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "proof of such facts.",
+      "bbox": [
+        121.67999999999999,
+        33.3,
+        215.1,
+        44.28
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(B) Render a just decision after discovering all relevant facts and obtaining proper",
+      "bbox": [
+        100.61999999999999,
+        48.42,
+        507.06,
+        59.400000000000006
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "proof of such facts.",
+      "bbox": [
+        121.67999999999999,
+        62.099999999999994,
+        215.1,
+        72.89999999999999
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "(C) Discover all relevant facts and obtain proper proof of such facts.",
+      "bbox": [
+        100.44,
+        77.22,
+        429.48,
+        88.2
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "(D) Simultaneously determine the truth and render a just decision.",
+      "bbox": [
+        100.44,
+        91.61999999999999,
+        416.52,
+        102.6
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "CORRECT OPTION: D",
+      "bbox": [
+        72.53999999999999,
+        107.46,
+        197.45999999999998,
+        115.74
+      ]
+    }
+  ],
+  "text": "65. Section 311 of the Code of Criminal Procedure, 1973 imposes a duty on the Court to\n(A) Determine the truth after discovering all relevant facts and obtaining proper\nproof of such facts.\n(B) Render a just decision after discovering all relevant facts and obtaining proper\nproof of such facts.\n(C) Discover all relevant facts and obtain proper proof of such facts.\n(D) Simultaneously determine the truth and render a just decision.\nCORRECT OPTION: D",
+  "ocr_words": [
+    {
+      "text": "65.",
+      "x0": 72.53999999999999,
+      "top": 5.3999999999999995,
+      "x1": 84.96,
+      "bottom": 13.68,
+      "confidence": 95.637505,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Section",
+      "x0": 94.32,
+      "top": 5.22,
+      "x1": 129.6,
+      "bottom": 13.68,
+      "confidence": 96.487251,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "311",
+      "x0": 133.01999999999998,
+      "top": 5.3999999999999995,
+      "x1": 149.57999999999998,
+      "bottom": 13.68,
+      "confidence": 96.149971,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 154.44,
+      "top": 5.22,
+      "x1": 165.42,
+      "bottom": 13.68,
+      "confidence": 95.680527,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 167.76,
+      "top": 5.22,
+      "x1": 181.79999999999998,
+      "bottom": 13.68,
+      "confidence": 95.680527,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Code",
+      "x0": 185.4,
+      "top": 5.22,
+      "x1": 210.24,
+      "bottom": 13.68,
+      "confidence": 96.573967,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 214.01999999999998,
+      "top": 5.22,
+      "x1": 224.99999999999997,
+      "bottom": 13.68,
+      "confidence": 96.868996,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Criminal",
+      "x0": 226.79999999999998,
+      "top": 5.22,
+      "x1": 268.74,
+      "bottom": 13.68,
+      "confidence": 96.123589,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Procedure,",
+      "x0": 271.8,
+      "top": 5.22,
+      "x1": 322.38,
+      "bottom": 15.48,
+      "confidence": 96.688248,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1973",
+      "x0": 327.06,
+      "top": 5.3999999999999995,
+      "x1": 348.84,
+      "bottom": 13.68,
+      "confidence": 95.859512,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "imposes",
+      "x0": 352.26,
+      "top": 5.22,
+      "x1": 390.78,
+      "bottom": 16.2,
+      "confidence": 95.618958,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 394.2,
+      "top": 8.1,
+      "x1": 399.06,
+      "bottom": 13.68,
+      "confidence": 95.618958,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "duty",
+      "x0": 403.02,
+      "top": 5.22,
+      "x1": 424.44,
+      "bottom": 16.2,
+      "confidence": 96.064766,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "on",
+      "x0": 427.68,
+      "top": 8.1,
+      "x1": 439.38,
+      "bottom": 13.68,
+      "confidence": 96.672417,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 442.62,
+      "top": 5.22,
+      "x1": 456.84000000000003,
+      "bottom": 13.68,
+      "confidence": 96.739265,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Court",
+      "x0": 460.26,
+      "top": 5.3999999999999995,
+      "x1": 487.62,
+      "bottom": 13.68,
+      "confidence": 96.705544,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 490.32,
+      "top": 6.4799999999999995,
+      "x1": 499.14,
+      "bottom": 13.68,
+      "confidence": 96.774857,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 100.61999999999999,
+      "top": 19.8,
+      "x1": 113.57999999999998,
+      "bottom": 30.42,
+      "confidence": 96.964172,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Determine",
+      "x0": 121.86,
+      "top": 19.62,
+      "x1": 171.9,
+      "bottom": 28.08,
+      "confidence": 96.226799,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 175.32,
+      "top": 19.62,
+      "x1": 189.54,
+      "bottom": 28.08,
+      "confidence": 96.372177,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "truth",
+      "x0": 192.95999999999998,
+      "top": 19.62,
+      "x1": 215.45999999999998,
+      "bottom": 28.08,
+      "confidence": 96.272873,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "after",
+      "x0": 219.06,
+      "top": 19.62,
+      "x1": 241.38,
+      "bottom": 28.08,
+      "confidence": 96.654953,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "discovering",
+      "x0": 245.34,
+      "top": 19.62,
+      "x1": 302.22,
+      "bottom": 30.6,
+      "confidence": 96.615166,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "all",
+      "x0": 306.18,
+      "top": 19.62,
+      "x1": 317.34000000000003,
+      "bottom": 28.08,
+      "confidence": 96.677063,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "relevant",
+      "x0": 320.94,
+      "top": 19.62,
+      "x1": 360.18,
+      "bottom": 28.08,
+      "confidence": 96.71093,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "facts",
+      "x0": 364.32,
+      "top": 19.62,
+      "x1": 386.82,
+      "bottom": 28.08,
+      "confidence": 96.244873,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "and",
+      "x0": 391.14,
+      "top": 19.62,
+      "x1": 408.41999999999996,
+      "bottom": 28.08,
+      "confidence": 96.561348,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "obtaining",
+      "x0": 412.38,
+      "top": 19.62,
+      "x1": 457.74,
+      "bottom": 30.6,
+      "confidence": 96.181427,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "proper",
+      "x0": 464.21999999999997,
+      "top": 22.5,
+      "x1": 495.53999999999996,
+      "bottom": 30.6,
+      "confidence": 96.555527,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "proof",
+      "x0": 121.67999999999999,
+      "top": 33.3,
+      "x1": 149.76,
+      "bottom": 44.28,
+      "confidence": 96.485886,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 152.28,
+      "top": 33.3,
+      "x1": 163.26,
+      "bottom": 41.94,
+      "confidence": 96.804398,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "such",
+      "x0": 166.14,
+      "top": 33.3,
+      "x1": 187.55999999999997,
+      "bottom": 41.94,
+      "confidence": 96.683105,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "facts.",
+      "x0": 190.79999999999998,
+      "top": 33.3,
+      "x1": 215.1,
+      "bottom": 41.94,
+      "confidence": 96.874771,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(B)",
+      "x0": 100.61999999999999,
+      "top": 48.6,
+      "x1": 113.03999999999999,
+      "bottom": 59.4,
+      "confidence": 92.062386,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Render",
+      "x0": 122.03999999999999,
+      "top": 48.42,
+      "x1": 157.5,
+      "bottom": 57.06,
+      "confidence": 96.213905,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "a",
+      "x0": 161.28,
+      "top": 51.3,
+      "x1": 166.14,
+      "bottom": 56.879999999999995,
+      "confidence": 94.070511,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "just",
+      "x0": 168.12,
+      "top": 48.42,
+      "x1": 186.48000000000002,
+      "bottom": 59.400000000000006,
+      "confidence": 94.070511,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "decision",
+      "x0": 189.9,
+      "top": 48.42,
+      "x1": 230.04000000000002,
+      "bottom": 57.06,
+      "confidence": 96.291077,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "after",
+      "x0": 233.82,
+      "top": 48.42,
+      "x1": 256.14,
+      "bottom": 57.06,
+      "confidence": 96.521957,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "discovering",
+      "x0": 260.09999999999997,
+      "top": 48.42,
+      "x1": 316.61999999999995,
+      "bottom": 59.400000000000006,
+      "confidence": 96.288544,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "all",
+      "x0": 320.76,
+      "top": 48.42,
+      "x1": 331.92,
+      "bottom": 56.88,
+      "confidence": 96.726265,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "relevant",
+      "x0": 335.34,
+      "top": 48.42,
+      "x1": 374.76,
+      "bottom": 57.06,
+      "confidence": 96.583191,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "facts",
+      "x0": 378.71999999999997,
+      "top": 48.42,
+      "x1": 401.21999999999997,
+      "bottom": 57.06,
+      "confidence": 96.427414,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "and",
+      "x0": 405.53999999999996,
+      "top": 48.42,
+      "x1": 422.81999999999994,
+      "bottom": 57.06,
+      "confidence": 96.916161,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "obtaining",
+      "x0": 426.78,
+      "top": 48.42,
+      "x1": 472.32,
+      "bottom": 59.400000000000006,
+      "confidence": 96.434143,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "proper",
+      "x0": 475.74,
+      "top": 51.3,
+      "x1": 507.06,
+      "bottom": 59.4,
+      "confidence": 96.764244,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "proof",
+      "x0": 121.67999999999999,
+      "top": 62.099999999999994,
+      "x1": 149.76,
+      "bottom": 72.89999999999999,
+      "confidence": 96.042122,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "of",
+      "x0": 152.28,
+      "top": 62.099999999999994,
+      "x1": 163.26,
+      "bottom": 70.55999999999999,
+      "confidence": 96.042122,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "such",
+      "x0": 166.14,
+      "top": 62.099999999999994,
+      "x1": 187.55999999999997,
+      "bottom": 70.55999999999999,
+      "confidence": 96.886459,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "facts.",
+      "x0": 190.79999999999998,
+      "top": 62.099999999999994,
+      "x1": 215.1,
+      "bottom": 70.55999999999999,
+      "confidence": 96.83593,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "(C)",
+      "x0": 100.44,
+      "top": 77.39999999999999,
+      "x1": 112.86,
+      "bottom": 88.19999999999999,
+      "confidence": 91.981987,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Discover",
+      "x0": 122.03999999999999,
+      "top": 77.22,
+      "x1": 165.95999999999998,
+      "bottom": 85.86,
+      "confidence": 96.808022,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "all",
+      "x0": 169.01999999999998,
+      "top": 77.22,
+      "x1": 180.17999999999998,
+      "bottom": 85.67999999999999,
+      "confidence": 95.955978,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "relevant",
+      "x0": 183.06,
+      "top": 77.22,
+      "x1": 222.3,
+      "bottom": 85.86,
+      "confidence": 96.40554,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "facts",
+      "x0": 225.35999999999999,
+      "top": 77.22,
+      "x1": 248.04,
+      "bottom": 85.86,
+      "confidence": 96.400322,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "and",
+      "x0": 251.82,
+      "top": 77.22,
+      "x1": 269.1,
+      "bottom": 85.86,
+      "confidence": 96.86438,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "obtain",
+      "x0": 271.8,
+      "top": 77.22,
+      "x1": 301.86,
+      "bottom": 85.86,
+      "confidence": 96.29277,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "proper",
+      "x0": 304.92,
+      "top": 80.1,
+      "x1": 336.24,
+      "bottom": 88.19999999999999,
+      "confidence": 96.682114,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "proof",
+      "x0": 338.58,
+      "top": 77.22,
+      "x1": 365.76,
+      "bottom": 88.2,
+      "confidence": 96.007652,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "of",
+      "x0": 367.74,
+      "top": 77.22,
+      "x1": 378.72,
+      "bottom": 85.86,
+      "confidence": 96.007652,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "such",
+      "x0": 380.7,
+      "top": 77.22,
+      "x1": 402.3,
+      "bottom": 85.86,
+      "confidence": 96.689438,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "facts.",
+      "x0": 405.0,
+      "top": 77.22,
+      "x1": 429.48,
+      "bottom": 85.86,
+      "confidence": 96.732674,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "(D)",
+      "x0": 100.44,
+      "top": 91.8,
+      "x1": 113.39999999999999,
+      "bottom": 102.6,
+      "confidence": 93.034409,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "Simultaneously",
+      "x0": 122.39999999999999,
+      "top": 91.61999999999999,
+      "x1": 196.56,
+      "bottom": 102.6,
+      "confidence": 96.351166,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "determine",
+      "x0": 199.62,
+      "top": 91.61999999999999,
+      "x1": 246.78,
+      "bottom": 100.25999999999999,
+      "confidence": 96.637985,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "the",
+      "x0": 249.84,
+      "top": 91.61999999999999,
+      "x1": 264.06,
+      "bottom": 100.25999999999999,
+      "confidence": 96.738785,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "truth",
+      "x0": 267.3,
+      "top": 91.61999999999999,
+      "x1": 289.8,
+      "bottom": 100.25999999999999,
+      "confidence": 96.286194,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "and",
+      "x0": 293.03999999999996,
+      "top": 91.61999999999999,
+      "x1": 310.31999999999994,
+      "bottom": 100.25999999999999,
+      "confidence": 95.832939,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "render",
+      "x0": 313.56,
+      "top": 91.61999999999999,
+      "x1": 344.16,
+      "bottom": 100.25999999999999,
+      "confidence": 96.588211,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "a",
+      "x0": 347.03999999999996,
+      "top": 94.5,
+      "x1": 351.9,
+      "bottom": 100.08,
+      "confidence": 96.712654,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "just",
+      "x0": 353.7,
+      "top": 91.61999999999999,
+      "x1": 372.06,
+      "bottom": 102.6,
+      "confidence": 96.712654,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "decision.",
+      "x0": 374.76,
+      "top": 91.61999999999999,
+      "x1": 416.52,
+      "bottom": 100.25999999999999,
+      "confidence": 96.758972,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "CORRECT",
+      "x0": 72.53999999999999,
+      "top": 107.46,
+      "x1": 131.57999999999998,
+      "bottom": 115.74,
+      "confidence": 96.016457,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "OPTION:",
+      "x0": 135.54,
+      "top": 107.46,
+      "x1": 185.22,
+      "bottom": 115.74,
+      "confidence": 92.417419,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "D",
+      "x0": 189.54,
+      "top": 107.64,
+      "x1": 197.45999999999998,
+      "bottom": 115.56,
+      "confidence": 92.417419,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

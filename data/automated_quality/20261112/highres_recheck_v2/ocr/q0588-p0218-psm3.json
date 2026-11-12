@@ -1,0 +1,594 @@
+{
+  "pdf_page": 218,
+  "crop_top": 646.4,
+  "crop_bottom": 745.84,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0218:l0033:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "102. Which of the following is referred to as ‘Orphan’ in the Juvenile Justice Act, 2015?",
+      "bbox": [
+        85.32,
+        4.14,
+        496.8,
+        14.399999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "(A) Achild who is without a biological parent",
+      "bbox": [
+        111.06,
+        18.72,
+        321.29999999999995,
+        28.979999999999997
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(B) A child who is without an adoptive parent",
+      "bbox": [
+        111.06,
+        33.3,
+        323.09999999999997,
+        43.379999999999995
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(C) A child who is without a legal guardian",
+      "bbox": [
+        110.33999999999999,
+        47.879999999999995,
+        310.14,
+        58.13999999999999
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(D) All the above",
+      "bbox": [
+        110.33999999999999,
+        62.46,
+        190.79999999999998,
+        72.54
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "29",
+      "bbox": [
+        292.5,
+        88.38,
+        302.76,
+        95.39999999999999
+      ]
+    }
+  ],
+  "text": "102. Which of the following is referred to as ‘Orphan’ in the Juvenile Justice Act, 2015?\n(A) Achild who is without a biological parent\n(B) A child who is without an adoptive parent\n(C) A child who is without a legal guardian\n(D) All the above\n29",
+  "ocr_words": [
+    {
+      "text": "102.",
+      "x0": 85.32,
+      "top": 4.5,
+      "x1": 104.22,
+      "bottom": 12.239999999999998,
+      "confidence": 96.346733,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Which",
+      "x0": 111.06,
+      "top": 4.32,
+      "x1": 140.04,
+      "bottom": 12.24,
+      "confidence": 96.102249,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 144.0,
+      "top": 4.14,
+      "x1": 152.46,
+      "bottom": 12.239999999999998,
+      "confidence": 96.355537,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 155.7,
+      "top": 4.32,
+      "x1": 169.92,
+      "bottom": 12.24,
+      "confidence": 96.355537,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 173.51999999999998,
+      "top": 4.14,
+      "x1": 214.38,
+      "bottom": 14.399999999999999,
+      "confidence": 95.934128,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 218.7,
+      "top": 4.32,
+      "x1": 225.35999999999999,
+      "bottom": 12.24,
+      "confidence": 95.934128,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "referred",
+      "x0": 229.5,
+      "top": 4.14,
+      "x1": 265.5,
+      "bottom": 12.239999999999998,
+      "confidence": 96.455696,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 269.28,
+      "top": 4.859999999999999,
+      "x1": 277.73999999999995,
+      "bottom": 12.239999999999998,
+      "confidence": 96.474182,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "as",
+      "x0": 281.34,
+      "top": 6.3,
+      "x1": 291.96,
+      "bottom": 12.239999999999998,
+      "confidence": 96.784317,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "‘Orphan’",
+      "x0": 295.92,
+      "top": 4.14,
+      "x1": 334.98,
+      "bottom": 14.219999999999999,
+      "confidence": 96.522247,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 339.47999999999996,
+      "top": 4.32,
+      "x1": 346.31999999999994,
+      "bottom": 12.059999999999999,
+      "confidence": 96.847946,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 350.09999999999997,
+      "top": 4.32,
+      "x1": 364.49999999999994,
+      "bottom": 12.24,
+      "confidence": 96.401833,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Juvenile",
+      "x0": 368.09999999999997,
+      "top": 4.32,
+      "x1": 406.79999999999995,
+      "bottom": 12.24,
+      "confidence": 96.102242,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Justice",
+      "x0": 410.21999999999997,
+      "top": 4.32,
+      "x1": 442.97999999999996,
+      "bottom": 12.24,
+      "confidence": 96.578377,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Act,",
+      "x0": 446.58,
+      "top": 4.32,
+      "x1": 463.86,
+      "bottom": 13.5,
+      "confidence": 96.41333,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2015?",
+      "x0": 468.0,
+      "top": 4.14,
+      "x1": 496.8,
+      "bottom": 12.239999999999998,
+      "confidence": 96.573288,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 111.06,
+      "top": 18.72,
+      "x1": 123.84,
+      "bottom": 28.799999999999997,
+      "confidence": 92.434837,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Achild",
+      "x0": 129.6,
+      "top": 18.9,
+      "x1": 160.92,
+      "bottom": 26.82,
+      "confidence": 82.868393,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "who",
+      "x0": 164.7,
+      "top": 18.9,
+      "x1": 183.77999999999997,
+      "bottom": 26.82,
+      "confidence": 94.689209,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "is",
+      "x0": 187.73999999999998,
+      "top": 18.9,
+      "x1": 194.39999999999998,
+      "bottom": 26.82,
+      "confidence": 94.689209,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "without",
+      "x0": 198.0,
+      "top": 18.9,
+      "x1": 231.48,
+      "bottom": 26.82,
+      "confidence": 96.696068,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "a",
+      "x0": 235.07999999999998,
+      "top": 20.88,
+      "x1": 240.29999999999998,
+      "bottom": 26.82,
+      "confidence": 95.832115,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "biological",
+      "x0": 244.26,
+      "top": 18.9,
+      "x1": 287.46,
+      "bottom": 28.979999999999997,
+      "confidence": 95.832115,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "parent",
+      "x0": 291.78,
+      "top": 19.439999999999998,
+      "x1": 321.29999999999995,
+      "bottom": 28.799999999999997,
+      "confidence": 96.440567,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(B)",
+      "x0": 111.06,
+      "top": 33.3,
+      "x1": 123.84,
+      "bottom": 43.379999999999995,
+      "confidence": 93.069817,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "A",
+      "x0": 129.6,
+      "top": 33.48,
+      "x1": 136.44,
+      "bottom": 41.22,
+      "confidence": 72.78186,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "child",
+      "x0": 139.85999999999999,
+      "top": 33.48,
+      "x1": 160.92,
+      "bottom": 41.4,
+      "confidence": 56.141235,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "who",
+      "x0": 164.7,
+      "top": 33.48,
+      "x1": 183.77999999999997,
+      "bottom": 41.4,
+      "confidence": 96.660217,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "is",
+      "x0": 187.73999999999998,
+      "top": 33.48,
+      "x1": 194.39999999999998,
+      "bottom": 41.4,
+      "confidence": 96.653015,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "without",
+      "x0": 198.0,
+      "top": 33.48,
+      "x1": 231.48,
+      "bottom": 41.4,
+      "confidence": 96.364616,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "an",
+      "x0": 235.07999999999998,
+      "top": 35.46,
+      "x1": 245.88,
+      "bottom": 41.4,
+      "confidence": 96.143356,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "adoptive",
+      "x0": 250.01999999999998,
+      "top": 33.48,
+      "x1": 289.62,
+      "bottom": 43.379999999999995,
+      "confidence": 95.942307,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "parent",
+      "x0": 293.58,
+      "top": 34.019999999999996,
+      "x1": 323.09999999999997,
+      "bottom": 43.379999999999995,
+      "confidence": 96.456871,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(C)",
+      "x0": 110.33999999999999,
+      "top": 47.879999999999995,
+      "x1": 123.83999999999999,
+      "bottom": 57.959999999999994,
+      "confidence": 92.575798,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "A",
+      "x0": 129.6,
+      "top": 48.059999999999995,
+      "x1": 136.44,
+      "bottom": 55.8,
+      "confidence": 67.515518,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "child",
+      "x0": 139.85999999999999,
+      "top": 48.059999999999995,
+      "x1": 160.92,
+      "bottom": 55.98,
+      "confidence": 67.515518,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "who",
+      "x0": 164.7,
+      "top": 48.059999999999995,
+      "x1": 183.77999999999997,
+      "bottom": 55.98,
+      "confidence": 96.532532,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "is",
+      "x0": 187.73999999999998,
+      "top": 48.059999999999995,
+      "x1": 194.39999999999998,
+      "bottom": 55.98,
+      "confidence": 95.653381,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "without",
+      "x0": 198.0,
+      "top": 48.059999999999995,
+      "x1": 231.48,
+      "bottom": 55.98,
+      "confidence": 96.069916,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "a",
+      "x0": 235.07999999999998,
+      "top": 50.04,
+      "x1": 240.29999999999998,
+      "bottom": 55.98,
+      "confidence": 95.273941,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "legal",
+      "x0": 244.26,
+      "top": 48.059999999999995,
+      "x1": 265.5,
+      "bottom": 58.13999999999999,
+      "confidence": 96.079002,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "guardian",
+      "x0": 269.64,
+      "top": 48.059999999999995,
+      "x1": 310.14,
+      "bottom": 58.13999999999999,
+      "confidence": 96.079002,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(D)",
+      "x0": 110.33999999999999,
+      "top": 62.46,
+      "x1": 123.83999999999999,
+      "bottom": 72.54,
+      "confidence": 93.022057,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "All",
+      "x0": 129.6,
+      "top": 62.64,
+      "x1": 140.57999999999998,
+      "bottom": 70.38,
+      "confidence": 95.849159,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "the",
+      "x0": 144.35999999999999,
+      "top": 62.64,
+      "x1": 158.76,
+      "bottom": 70.56,
+      "confidence": 96.816788,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "above",
+      "x0": 162.54,
+      "top": 62.64,
+      "x1": 190.79999999999998,
+      "bottom": 70.56,
+      "confidence": 96.695076,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "29",
+      "x0": 292.5,
+      "top": 88.38,
+      "x1": 302.76,
+      "bottom": 95.39999999999999,
+      "confidence": 96.579483,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

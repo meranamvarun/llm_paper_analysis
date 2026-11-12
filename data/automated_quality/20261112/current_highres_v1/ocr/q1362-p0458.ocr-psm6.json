@@ -1,0 +1,800 @@
+{
+  "pdf_page": 458,
+  "crop_top": 430.83,
+  "crop_bottom": 574.91,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0458:l0015:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "21. Which one of the legal propositions is correct?",
+      "bbox": [
+        72.72,
+        4.896,
+        316.224,
+        15.264
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "A. — It is for contract to be valid that the consideration should be",
+      "bbox": [
+        144.28799999999998,
+        36.144,
+        522.4319999999999,
+        47.808
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "necessary a",
+      "bbox": [
+        191.952,
+        39.312,
+        263.52,
+        47.087999999999994
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "adequate.",
+      "bbox": [
+        171.504,
+        52.12799999999999,
+        219.6,
+        62.35199999999999
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "B. Inadequacy of consideration does not affect the validity of the",
+      "bbox": [
+        144.86399999999998,
+        67.392,
+        480.67199999999997,
+        77.76
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "agreement.",
+      "bbox": [
+        171.504,
+        83.952,
+        227.808,
+        93.16799999999999
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "C. _Inadequacy of consideration renders the contract void ab initio.",
+      "bbox": [
+        144.576,
+        98.208,
+        480.384,
+        108.432
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "D. An agreement made on account of natural love and affection, without",
+      "bbox": [
+        145.00799999999998,
+        113.61599999999999,
+        520.1279999999999,
+        123.98399999999998
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "consideration is void.",
+      "bbox": [
+        171.504,
+        129.024,
+        276.62399999999997,
+        137.376
+      ]
+    }
+  ],
+  "text": "21. Which one of the legal propositions is correct?\nA. — It is for contract to be valid that the consideration should be\nnecessary a\nadequate.\nB. Inadequacy of consideration does not affect the validity of the\nagreement.\nC. _Inadequacy of consideration renders the contract void ab initio.\nD. An agreement made on account of natural love and affection, without\nconsideration is void.",
+  "ocr_words": [
+    {
+      "text": "21.",
+      "x0": 72.72,
+      "top": 5.4719999999999995,
+      "x1": 86.4,
+      "bottom": 13.248,
+      "confidence": 96.523979,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Which",
+      "x0": 90.43199999999999,
+      "top": 4.896,
+      "x1": 120.23999999999998,
+      "bottom": 13.247999999999998,
+      "confidence": 96.197098,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "one",
+      "x0": 124.416,
+      "top": 7.4879999999999995,
+      "x1": 141.98399999999998,
+      "bottom": 13.248,
+      "confidence": 96.528969,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 145.72799999999998,
+      "top": 4.896,
+      "x1": 155.37599999999998,
+      "bottom": 13.247999999999998,
+      "confidence": 96.528969,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 158.112,
+      "top": 4.896,
+      "x1": 173.51999999999998,
+      "bottom": 13.247999999999998,
+      "confidence": 96.100647,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "legal",
+      "x0": 177.98399999999998,
+      "top": 4.896,
+      "x1": 198.86399999999998,
+      "bottom": 15.264,
+      "confidence": 95.694862,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "propositions",
+      "x0": 203.47199999999998,
+      "top": 5.327999999999999,
+      "x1": 263.08799999999997,
+      "bottom": 15.264,
+      "confidence": 96.084846,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 267.12,
+      "top": 5.327999999999999,
+      "x1": 273.312,
+      "bottom": 13.247999999999998,
+      "confidence": 96.297493,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "correct?",
+      "x0": 277.056,
+      "top": 5.04,
+      "x1": 316.224,
+      "bottom": 13.248000000000001,
+      "confidence": 96.481773,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A.",
+      "x0": 144.28799999999998,
+      "top": 37.296,
+      "x1": 153.07199999999997,
+      "bottom": 44.928,
+      "confidence": 87.628761,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "—",
+      "x0": 161.136,
+      "top": 36.144,
+      "x1": 165.168,
+      "bottom": 47.808,
+      "confidence": 24.643036,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "It",
+      "x0": 172.07999999999998,
+      "top": 37.296,
+      "x1": 177.69599999999997,
+      "bottom": 45.072,
+      "confidence": 83.400604,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 181.58399999999997,
+      "top": 37.151999999999994,
+      "x1": 187.77599999999998,
+      "bottom": 45.071999999999996,
+      "confidence": 83.400604,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "necessary",
+      "x0": 191.952,
+      "top": 39.312,
+      "x1": 238.896,
+      "bottom": 47.087999999999994,
+      "confidence": 96.478889,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "for",
+      "x0": 242.064,
+      "top": 36.72,
+      "x1": 255.744,
+      "bottom": 45.071999999999996,
+      "confidence": 96.237923,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 259.2,
+      "top": 39.312,
+      "x1": 263.52,
+      "bottom": 45.071999999999996,
+      "confidence": 96.550224,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "contract",
+      "x0": 267.69599999999997,
+      "top": 37.872,
+      "x1": 307.29599999999994,
+      "bottom": 45.072,
+      "confidence": 95.995743,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 310.75199999999995,
+      "top": 37.872,
+      "x1": 320.4,
+      "bottom": 45.072,
+      "confidence": 96.708183,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "be",
+      "x0": 324.43199999999996,
+      "top": 36.72,
+      "x1": 335.23199999999997,
+      "bottom": 45.071999999999996,
+      "confidence": 96.434158,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "valid",
+      "x0": 338.688,
+      "top": 36.72,
+      "x1": 360.71999999999997,
+      "bottom": 45.071999999999996,
+      "confidence": 95.297691,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "that",
+      "x0": 364.464,
+      "top": 36.72,
+      "x1": 383.904,
+      "bottom": 45.071999999999996,
+      "confidence": 95.297691,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 387.21599999999995,
+      "top": 36.72,
+      "x1": 402.62399999999997,
+      "bottom": 45.071999999999996,
+      "confidence": 96.617958,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "consideration",
+      "x0": 406.51199999999994,
+      "top": 36.72,
+      "x1": 471.7439999999999,
+      "bottom": 45.071999999999996,
+      "confidence": 96.054565,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "should",
+      "x0": 475.91999999999996,
+      "top": 36.72,
+      "x1": 507.16799999999995,
+      "bottom": 45.071999999999996,
+      "confidence": 96.767647,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "be",
+      "x0": 511.63199999999995,
+      "top": 36.72,
+      "x1": 522.4319999999999,
+      "bottom": 45.071999999999996,
+      "confidence": 96.700394,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "adequate.",
+      "x0": 171.504,
+      "top": 52.12799999999999,
+      "x1": 219.6,
+      "bottom": 62.35199999999999,
+      "confidence": 96.28083,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "B.",
+      "x0": 144.86399999999998,
+      "top": 68.112,
+      "x1": 153.21599999999998,
+      "bottom": 75.744,
+      "confidence": 88.599594,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Inadequacy",
+      "x0": 171.79199999999997,
+      "top": 67.536,
+      "x1": 228.38399999999996,
+      "bottom": 77.76,
+      "confidence": 81.819305,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 231.69599999999997,
+      "top": 67.392,
+      "x1": 241.63199999999998,
+      "bottom": 75.744,
+      "confidence": 96.741592,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "consideration",
+      "x0": 244.65599999999998,
+      "top": 67.536,
+      "x1": 311.76,
+      "bottom": 75.744,
+      "confidence": 96.464859,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "does",
+      "x0": 315.64799999999997,
+      "top": 67.536,
+      "x1": 338.544,
+      "bottom": 75.744,
+      "confidence": 95.714851,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "not",
+      "x0": 342.28799999999995,
+      "top": 68.544,
+      "x1": 358.41599999999994,
+      "bottom": 75.744,
+      "confidence": 95.714851,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "affect",
+      "x0": 361.87199999999996,
+      "top": 67.392,
+      "x1": 389.80799999999994,
+      "bottom": 75.744,
+      "confidence": 96.703583,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 392.97599999999994,
+      "top": 67.536,
+      "x1": 408.9599999999999,
+      "bottom": 75.744,
+      "confidence": 96.699341,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "validity",
+      "x0": 412.272,
+      "top": 67.536,
+      "x1": 448.704,
+      "bottom": 77.76,
+      "confidence": 96.565109,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 452.01599999999996,
+      "top": 67.392,
+      "x1": 461.95199999999994,
+      "bottom": 75.744,
+      "confidence": 96.47686,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 464.544,
+      "top": 67.536,
+      "x1": 480.67199999999997,
+      "bottom": 75.744,
+      "confidence": 96.946617,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "agreement.",
+      "x0": 171.504,
+      "top": 83.952,
+      "x1": 227.808,
+      "bottom": 93.16799999999999,
+      "confidence": 96.029274,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "C.",
+      "x0": 144.576,
+      "top": 98.63999999999999,
+      "x1": 152.49599999999998,
+      "bottom": 106.41599999999998,
+      "confidence": 78.171661,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "_Inadequacy",
+      "x0": 172.07999999999998,
+      "top": 98.208,
+      "x1": 227.08799999999997,
+      "bottom": 108.432,
+      "confidence": 0.0,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 230.54399999999998,
+      "top": 98.208,
+      "x1": 240.04799999999997,
+      "bottom": 106.416,
+      "confidence": 96.521652,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "consideration",
+      "x0": 243.21599999999998,
+      "top": 98.208,
+      "x1": 308.592,
+      "bottom": 106.416,
+      "confidence": 96.062416,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "renders",
+      "x0": 313.056,
+      "top": 98.208,
+      "x1": 349.344,
+      "bottom": 106.416,
+      "confidence": 96.356277,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 352.65599999999995,
+      "top": 98.208,
+      "x1": 368.06399999999996,
+      "bottom": 106.416,
+      "confidence": 96.356277,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "contract",
+      "x0": 371.952,
+      "top": 99.36,
+      "x1": 411.696,
+      "bottom": 106.416,
+      "confidence": 95.974663,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "void",
+      "x0": 415.008,
+      "top": 98.208,
+      "x1": 434.736,
+      "bottom": 106.416,
+      "confidence": 96.438866,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "ab",
+      "x0": 439.2,
+      "top": 98.208,
+      "x1": 450.0,
+      "bottom": 106.416,
+      "confidence": 96.940155,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "initio.",
+      "x0": 454.176,
+      "top": 98.63999999999999,
+      "x1": 480.384,
+      "bottom": 106.41599999999998,
+      "confidence": 96.850983,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "D.",
+      "x0": 145.00799999999998,
+      "top": 114.192,
+      "x1": 153.64799999999997,
+      "bottom": 121.96799999999999,
+      "confidence": 91.087395,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "An",
+      "x0": 171.21599999999998,
+      "top": 114.192,
+      "x1": 184.03199999999998,
+      "bottom": 121.824,
+      "confidence": 0.0,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "agreement",
+      "x0": 188.064,
+      "top": 114.76799999999999,
+      "x1": 241.488,
+      "bottom": 123.98399999999998,
+      "confidence": 0.0,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "made",
+      "x0": 245.37599999999998,
+      "top": 113.75999999999999,
+      "x1": 272.304,
+      "bottom": 121.96799999999999,
+      "confidence": 95.892464,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "on",
+      "x0": 275.904,
+      "top": 116.064,
+      "x1": 287.712,
+      "bottom": 121.96799999999999,
+      "confidence": 94.321579,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "account",
+      "x0": 291.45599999999996,
+      "top": 114.76799999999999,
+      "x1": 330.19199999999995,
+      "bottom": 121.96799999999999,
+      "confidence": 96.56662,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 333.792,
+      "top": 113.61599999999999,
+      "x1": 343.72799999999995,
+      "bottom": 121.96799999999999,
+      "confidence": 96.564682,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "natural",
+      "x0": 347.03999999999996,
+      "top": 113.61599999999999,
+      "x1": 381.59999999999997,
+      "bottom": 121.96799999999999,
+      "confidence": 96.118225,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "love",
+      "x0": 385.77599999999995,
+      "top": 113.61599999999999,
+      "x1": 405.64799999999997,
+      "bottom": 121.96799999999999,
+      "confidence": 96.118225,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 409.392,
+      "top": 113.75999999999999,
+      "x1": 426.96,
+      "bottom": 121.96799999999999,
+      "confidence": 96.867371,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "affection,",
+      "x0": 430.99199999999996,
+      "top": 113.61599999999999,
+      "x1": 477.50399999999996,
+      "bottom": 123.55199999999999,
+      "confidence": 96.051758,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "without",
+      "x0": 481.104,
+      "top": 113.61599999999999,
+      "x1": 520.1279999999999,
+      "bottom": 121.96799999999999,
+      "confidence": 96.291786,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "consideration",
+      "x0": 171.504,
+      "top": 129.024,
+      "x1": 238.608,
+      "bottom": 137.376,
+      "confidence": 96.10714,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "2"
+    },
+    {
+      "text": "is",
+      "x0": 242.784,
+      "top": 129.31199999999998,
+      "x1": 249.552,
+      "bottom": 137.37599999999998,
+      "confidence": 96.530472,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "2"
+    },
+    {
+      "text": "void.",
+      "x0": 252.71999999999997,
+      "top": 129.024,
+      "x1": 276.62399999999997,
+      "bottom": 137.376,
+      "confidence": 95.937218,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "2"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

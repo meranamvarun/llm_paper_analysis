@@ -1,0 +1,199 @@
+{
+  "pdf_page": 415,
+  "crop_top": 9.68,
+  "crop_bottom": 83.19999999999999,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0414:l0040:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "¥",
+      "bbox": [
+        54.72,
+        3.2399999999999998,
+        58.32,
+        12.06
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "1. Dicey",
+      "bbox": [
+        39.059999999999995,
+        6.3,
+        89.99999999999999,
+        15.84
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "2. ® Maitland",
+      "bbox": [
+        38.339999999999996,
+        22.14,
+        105.83999999999999,
+        31.5
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "3. ® Salmond",
+      "bbox": [
+        38.339999999999996,
+        40.14,
+        105.84,
+        49.5
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "4. *% Gray",
+      "bbox": [
+        38.339999999999996,
+        57.96,
+        86.39999999999999,
+        69.66
+      ]
+    }
+  ],
+  "text": "¥\n1. Dicey\n2. ® Maitland\n3. ® Salmond\n4. *% Gray",
+  "ocr_words": [
+    {
+      "text": "1.",
+      "x0": 39.059999999999995,
+      "top": 6.3,
+      "x1": 45.53999999999999,
+      "bottom": 13.5,
+      "confidence": 90.825615,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "¥",
+      "x0": 54.72,
+      "top": 3.2399999999999998,
+      "x1": 58.32,
+      "bottom": 12.06,
+      "confidence": 48.348846,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Dicey",
+      "x0": 64.25999999999999,
+      "top": 6.3,
+      "x1": 89.99999999999999,
+      "bottom": 15.84,
+      "confidence": 95.720718,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2.",
+      "x0": 38.339999999999996,
+      "top": 24.3,
+      "x1": 45.53999999999999,
+      "bottom": 31.5,
+      "confidence": 58.664505,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "®",
+      "x0": 52.019999999999996,
+      "top": 22.14,
+      "x1": 58.49999999999999,
+      "bottom": 28.62,
+      "confidence": 52.766422,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Maitland",
+      "x0": 64.25999999999999,
+      "top": 24.3,
+      "x1": 105.83999999999999,
+      "bottom": 31.5,
+      "confidence": 95.842178,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "3.",
+      "x0": 38.339999999999996,
+      "top": 42.3,
+      "x1": 45.53999999999999,
+      "bottom": 49.5,
+      "confidence": 90.412506,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "®",
+      "x0": 52.019999999999996,
+      "top": 40.14,
+      "x1": 58.49999999999999,
+      "bottom": 46.62,
+      "confidence": 73.788574,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Salmond",
+      "x0": 64.98,
+      "top": 42.3,
+      "x1": 105.84,
+      "bottom": 49.5,
+      "confidence": 95.185181,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "4.",
+      "x0": 38.339999999999996,
+      "top": 60.12,
+      "x1": 45.53999999999999,
+      "bottom": 67.5,
+      "confidence": 41.924686,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "*%",
+      "x0": 52.019999999999996,
+      "top": 57.96,
+      "x1": 58.49999999999999,
+      "bottom": 64.62,
+      "confidence": 39.096024,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Gray",
+      "x0": 64.25999999999999,
+      "top": 60.12,
+      "x1": 86.39999999999999,
+      "bottom": 69.66,
+      "confidence": 96.448784,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

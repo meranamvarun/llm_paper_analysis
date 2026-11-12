@@ -1,0 +1,501 @@
+{
+  "pdf_page": 304,
+  "crop_top": 76.53279999999995,
+  "crop_bottom": 162.89279999999985,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0304:l0000:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "68. Compensatory jurisprudence invoked by the Supreme Court in:",
+      "bbox": [
+        46.8,
+        4.752,
+        418.32,
+        15.119999999999997
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "was",
+      "bbox": [
+        224.784,
+        7.776,
+        243.792,
+        13.104
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(A) Keshavanada Bharathi State of Kerala",
+      "bbox": [
+        75.312,
+        22.464,
+        316.51199999999994,
+        32.687999999999995
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "v.",
+      "bbox": [
+        227.808,
+        25.488,
+        235.72799999999998,
+        30.816
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(B) Rudal Shah State of Bihar",
+      "bbox": [
+        75.312,
+        39.023999999999994,
+        249.408,
+        49.24799999999999
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "v.",
+      "bbox": [
+        166.32,
+        42.047999999999995,
+        174.23999999999998,
+        47.37599999999999
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "(C) Indira Nehru Gandhi Rajnarain",
+      "bbox": [
+        75.312,
+        55.583999999999996,
+        278.06399999999996,
+        65.80799999999999
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "v.",
+      "bbox": [
+        214.992,
+        58.608,
+        222.91199999999998,
+        63.93599999999999
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "(D) Kihota Hollohan Zachilhu",
+      "bbox": [
+        75.312,
+        72.14399999999999,
+        246.81599999999997,
+        82.368
+      ]
+    },
+    {
+      "line_id": "l0009",
+      "text": "v.",
+      "bbox": [
+        190.51199999999997,
+        75.16799999999999,
+        198.43199999999996,
+        80.496
+      ]
+    }
+  ],
+  "text": "68. Compensatory jurisprudence invoked by the Supreme Court in:\nwas\n(A) Keshavanada Bharathi State of Kerala\nv.\n(B) Rudal Shah State of Bihar\nv.\n(C) Indira Nehru Gandhi Rajnarain\nv.\n(D) Kihota Hollohan Zachilhu\nv.",
+  "ocr_words": [
+    {
+      "text": "68.",
+      "x0": 46.8,
+      "top": 5.327999999999999,
+      "x1": 60.623999999999995,
+      "bottom": 13.104,
+      "confidence": 96.425987,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Compensatory",
+      "x0": 75.312,
+      "top": 4.752,
+      "x1": 148.176,
+      "bottom": 15.119999999999997,
+      "confidence": 96.062485,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "jurisprudence",
+      "x0": 150.91199999999998,
+      "top": 4.896,
+      "x1": 221.03999999999996,
+      "bottom": 15.119999999999997,
+      "confidence": 96.471146,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "was",
+      "x0": 224.784,
+      "top": 7.776,
+      "x1": 243.792,
+      "bottom": 13.104,
+      "confidence": 96.483109,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "invoked",
+      "x0": 247.67999999999998,
+      "top": 4.896,
+      "x1": 287.13599999999997,
+      "bottom": 13.104,
+      "confidence": 96.590057,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "by",
+      "x0": 290.448,
+      "top": 4.896,
+      "x1": 302.4,
+      "bottom": 15.119999999999997,
+      "confidence": 96.263603,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 305.712,
+      "top": 4.896,
+      "x1": 321.408,
+      "bottom": 13.104,
+      "confidence": 96.356102,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Supreme",
+      "x0": 325.584,
+      "top": 4.752,
+      "x1": 370.224,
+      "bottom": 14.975999999999999,
+      "confidence": 96.074638,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Court",
+      "x0": 374.4,
+      "top": 4.752,
+      "x1": 402.62399999999997,
+      "bottom": 13.104,
+      "confidence": 96.568146,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in:",
+      "x0": 406.368,
+      "top": 4.896,
+      "x1": 418.32,
+      "bottom": 13.104,
+      "confidence": 96.060638,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 75.312,
+      "top": 22.464,
+      "x1": 89.136,
+      "bottom": 32.687999999999995,
+      "confidence": 97.003563,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(B)",
+      "x0": 75.312,
+      "top": 39.023999999999994,
+      "x1": 89.136,
+      "bottom": 49.24799999999999,
+      "confidence": 92.780739,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(C)",
+      "x0": 75.312,
+      "top": 55.583999999999996,
+      "x1": 89.136,
+      "bottom": 65.80799999999999,
+      "confidence": 92.935654,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(D)",
+      "x0": 75.312,
+      "top": 72.14399999999999,
+      "x1": 89.71199999999999,
+      "bottom": 82.368,
+      "confidence": 92.53373,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Keshavanada",
+      "x0": 103.392,
+      "top": 22.464,
+      "x1": 171.93599999999998,
+      "bottom": 30.815999999999995,
+      "confidence": 92.138229,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Bharathi",
+      "x0": 175.82399999999998,
+      "top": 22.464,
+      "x1": 221.32799999999997,
+      "bottom": 30.815999999999995,
+      "confidence": 93.026184,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "v.",
+      "x0": 227.808,
+      "top": 25.488,
+      "x1": 235.72799999999998,
+      "bottom": 30.816,
+      "confidence": 92.884644,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "State",
+      "x0": 240.33599999999998,
+      "top": 22.464,
+      "x1": 266.544,
+      "bottom": 30.815999999999995,
+      "confidence": 96.682228,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 270.28799999999995,
+      "top": 22.464,
+      "x1": 279.792,
+      "bottom": 30.815999999999995,
+      "confidence": 96.22113,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Kerala",
+      "x0": 282.52799999999996,
+      "top": 22.464,
+      "x1": 316.51199999999994,
+      "bottom": 30.815999999999995,
+      "confidence": 96.22113,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Rudal",
+      "x0": 103.104,
+      "top": 39.023999999999994,
+      "x1": 133.2,
+      "bottom": 47.37599999999999,
+      "confidence": 92.588036,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Shah",
+      "x0": 137.232,
+      "top": 39.023999999999994,
+      "x1": 162.864,
+      "bottom": 47.37599999999999,
+      "confidence": 93.249062,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "v.",
+      "x0": 166.32,
+      "top": 42.047999999999995,
+      "x1": 174.23999999999998,
+      "bottom": 47.37599999999999,
+      "confidence": 91.367805,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "State",
+      "x0": 178.84799999999998,
+      "top": 39.023999999999994,
+      "x1": 204.76799999999997,
+      "bottom": 47.37599999999999,
+      "confidence": 95.608513,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 208.79999999999998,
+      "top": 39.023999999999994,
+      "x1": 218.15999999999997,
+      "bottom": 47.37599999999999,
+      "confidence": 95.911636,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Bihar",
+      "x0": 221.04,
+      "top": 39.023999999999994,
+      "x1": 249.408,
+      "bottom": 47.37599999999999,
+      "confidence": 96.689034,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Indira",
+      "x0": 103.24799999999999,
+      "top": 55.583999999999996,
+      "x1": 134.64,
+      "bottom": 63.93599999999999,
+      "confidence": 96.491104,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Nehru",
+      "x0": 138.528,
+      "top": 55.583999999999996,
+      "x1": 170.49599999999998,
+      "bottom": 63.93599999999999,
+      "confidence": 96.222626,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Gandhi",
+      "x0": 174.384,
+      "top": 55.583999999999996,
+      "x1": 211.53599999999997,
+      "bottom": 63.93599999999999,
+      "confidence": 92.929108,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "v.",
+      "x0": 214.992,
+      "top": 58.608,
+      "x1": 222.91199999999998,
+      "bottom": 63.93599999999999,
+      "confidence": 90.491592,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Rajnarain",
+      "x0": 227.088,
+      "top": 55.583999999999996,
+      "x1": 278.06399999999996,
+      "bottom": 65.80799999999999,
+      "confidence": 90.491592,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Kihota",
+      "x0": 103.392,
+      "top": 72.14399999999999,
+      "x1": 137.37599999999998,
+      "bottom": 80.496,
+      "confidence": 90.253258,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Hollohan",
+      "x0": 141.26399999999998,
+      "top": 72.14399999999999,
+      "x1": 187.2,
+      "bottom": 80.496,
+      "confidence": 90.229179,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "v.",
+      "x0": 190.51199999999997,
+      "top": 75.16799999999999,
+      "x1": 198.43199999999996,
+      "bottom": 80.496,
+      "confidence": 92.191101,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Zachilhu",
+      "x0": 202.896,
+      "top": 72.14399999999999,
+      "x1": 246.81599999999997,
+      "bottom": 80.496,
+      "confidence": 91.652458,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

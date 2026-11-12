@@ -1,0 +1,788 @@
+{
+  "pdf_page": 253,
+  "crop_top": 273.6819999999999,
+  "crop_bottom": 400.98199999999997,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0253:l0014:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "101. Which of the followingissues was raised in Union of India M. Selvakumar, [(2017) 3",
+      "bbox": [
+        73.44,
+        5.183999999999999,
+        523.008,
+        16.128
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "v.",
+      "bbox": [
+        386.496,
+        8.208,
+        393.12,
+        13.68
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "SCC 504]?",
+      "bbox": [
+        94.32,
+        19.727999999999998,
+        147.024,
+        30.239999999999995
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(A) Special reservation in favour of persons suffering from heart ailments.",
+      "bbox": [
+        100.51199999999999,
+        34.704,
+        457.2,
+        45.647999999999996
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(B) Special reservation in favour of physically handicapped persons.",
+      "bbox": [
+        100.51199999999999,
+        50.687999999999995,
+        429.984,
+        61.632
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "(C) Special reservation in favour of mentally challenged persons.",
+      "bbox": [
+        100.51199999999999,
+        66.672,
+        414.57599999999996,
+        77.616
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "(D) Special reservation in favour of physically handicapped and mentally challenged",
+      "bbox": [
+        100.51199999999999,
+        82.65599999999999,
+        512.496,
+        93.6
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "persons.",
+      "bbox": [
+        121.67999999999999,
+        99.07199999999999,
+        161.42399999999998,
+        107.136
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "CORRECT OPTION: B",
+      "bbox": [
+        72.43199999999999,
+        112.752,
+        196.992,
+        120.96
+      ]
+    }
+  ],
+  "text": "101. Which of the followingissues was raised in Union of India M. Selvakumar, [(2017) 3\nv.\nSCC 504]?\n(A) Special reservation in favour of persons suffering from heart ailments.\n(B) Special reservation in favour of physically handicapped persons.\n(C) Special reservation in favour of mentally challenged persons.\n(D) Special reservation in favour of physically handicapped and mentally challenged\npersons.\nCORRECT OPTION: B",
+  "ocr_words": [
+    {
+      "text": "101.",
+      "x0": 73.44,
+      "top": 5.4719999999999995,
+      "x1": 90.43199999999999,
+      "bottom": 13.68,
+      "confidence": 95.519768,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Which",
+      "x0": 93.744,
+      "top": 5.183999999999999,
+      "x1": 125.568,
+      "bottom": 13.679999999999998,
+      "confidence": 95.580589,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 129.456,
+      "top": 5.183999999999999,
+      "x1": 140.39999999999998,
+      "bottom": 13.679999999999998,
+      "confidence": 96.361961,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 142.84799999999998,
+      "top": 5.183999999999999,
+      "x1": 156.95999999999998,
+      "bottom": 13.679999999999998,
+      "confidence": 93.30043,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "followingissues",
+      "x0": 161.136,
+      "top": 5.183999999999999,
+      "x1": 238.608,
+      "bottom": 16.128,
+      "confidence": 91.998741,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "was",
+      "x0": 242.64,
+      "top": 7.919999999999999,
+      "x1": 261.072,
+      "bottom": 13.68,
+      "confidence": 96.953171,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "raised",
+      "x0": 265.248,
+      "top": 5.183999999999999,
+      "x1": 293.76,
+      "bottom": 13.679999999999998,
+      "confidence": 95.957489,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 297.35999999999996,
+      "top": 5.183999999999999,
+      "x1": 306.28799999999995,
+      "bottom": 13.535999999999998,
+      "confidence": 95.957489,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Union",
+      "x0": 311.03999999999996,
+      "top": 5.616,
+      "x1": 339.55199999999996,
+      "bottom": 13.68,
+      "confidence": 95.927551,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 344.15999999999997,
+      "top": 5.183999999999999,
+      "x1": 355.53599999999994,
+      "bottom": 16.128,
+      "confidence": 96.575668,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "India",
+      "x0": 356.544,
+      "top": 5.183999999999999,
+      "x1": 382.176,
+      "bottom": 13.679999999999998,
+      "confidence": 93.001175,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "v.",
+      "x0": 386.496,
+      "top": 8.208,
+      "x1": 393.12,
+      "bottom": 13.68,
+      "confidence": 93.001175,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "M.",
+      "x0": 397.87199999999996,
+      "top": 5.616,
+      "x1": 409.96799999999996,
+      "bottom": 13.68,
+      "confidence": 92.852173,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Selvakumar,",
+      "x0": 415.296,
+      "top": 5.183999999999999,
+      "x1": 476.20799999999997,
+      "bottom": 15.407999999999998,
+      "confidence": 91.907661,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "[(2017)",
+      "x0": 481.53599999999994,
+      "top": 5.183999999999999,
+      "x1": 514.656,
+      "bottom": 15.983999999999998,
+      "confidence": 72.949425,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "3",
+      "x0": 518.544,
+      "top": 5.4719999999999995,
+      "x1": 523.008,
+      "bottom": 13.68,
+      "confidence": 97.018257,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "SCC",
+      "x0": 94.32,
+      "top": 19.727999999999998,
+      "x1": 115.91999999999999,
+      "bottom": 27.936,
+      "confidence": 96.508636,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "504]?",
+      "x0": 120.09599999999999,
+      "top": 19.727999999999998,
+      "x1": 147.024,
+      "bottom": 30.239999999999995,
+      "confidence": 95.441574,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(A)",
+      "x0": 100.51199999999999,
+      "top": 34.704,
+      "x1": 113.47199999999998,
+      "bottom": 45.504,
+      "confidence": 96.845787,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Special",
+      "x0": 122.39999999999999,
+      "top": 34.704,
+      "x1": 156.672,
+      "bottom": 45.647999999999996,
+      "confidence": 96.194473,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "reservation",
+      "x0": 159.408,
+      "top": 34.704,
+      "x1": 213.408,
+      "bottom": 43.2,
+      "confidence": 96.324707,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "in",
+      "x0": 216.86399999999998,
+      "top": 34.704,
+      "x1": 225.79199999999997,
+      "bottom": 43.056,
+      "confidence": 96.324707,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "favour",
+      "x0": 229.248,
+      "top": 34.704,
+      "x1": 261.216,
+      "bottom": 43.2,
+      "confidence": 96.604317,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 264.23999999999995,
+      "top": 34.704,
+      "x1": 275.18399999999997,
+      "bottom": 43.2,
+      "confidence": 96.563194,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "persons",
+      "x0": 276.33599999999996,
+      "top": 37.44,
+      "x1": 312.62399999999997,
+      "bottom": 45.647999999999996,
+      "confidence": 96.819389,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "suffering",
+      "x0": 316.224,
+      "top": 34.704,
+      "x1": 358.84799999999996,
+      "bottom": 45.647999999999996,
+      "confidence": 96.085854,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "from",
+      "x0": 361.58399999999995,
+      "top": 34.704,
+      "x1": 385.0559999999999,
+      "bottom": 43.2,
+      "confidence": 93.860237,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "heart",
+      "x0": 387.50399999999996,
+      "top": 34.704,
+      "x1": 411.84,
+      "bottom": 43.2,
+      "confidence": 93.860237,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "ailments.",
+      "x0": 414.71999999999997,
+      "top": 34.704,
+      "x1": 457.2,
+      "bottom": 43.2,
+      "confidence": 96.541313,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(B)",
+      "x0": 100.51199999999999,
+      "top": 50.687999999999995,
+      "x1": 112.89599999999999,
+      "bottom": 61.48799999999999,
+      "confidence": 92.287277,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Special",
+      "x0": 122.39999999999999,
+      "top": 50.687999999999995,
+      "x1": 156.672,
+      "bottom": 61.63199999999999,
+      "confidence": 96.149025,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "reservation",
+      "x0": 159.408,
+      "top": 50.687999999999995,
+      "x1": 213.408,
+      "bottom": 59.184,
+      "confidence": 96.366524,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "in",
+      "x0": 216.86399999999998,
+      "top": 50.687999999999995,
+      "x1": 225.79199999999997,
+      "bottom": 59.03999999999999,
+      "confidence": 96.608727,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "favour",
+      "x0": 229.248,
+      "top": 50.687999999999995,
+      "x1": 261.072,
+      "bottom": 59.184,
+      "confidence": 96.614288,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "of",
+      "x0": 264.096,
+      "top": 50.687999999999995,
+      "x1": 275.04,
+      "bottom": 59.184,
+      "confidence": 96.095032,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "physically",
+      "x0": 276.192,
+      "top": 50.687999999999995,
+      "x1": 325.584,
+      "bottom": 61.63199999999999,
+      "confidence": 96.095032,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "handicapped",
+      "x0": 328.464,
+      "top": 50.687999999999995,
+      "x1": 389.08799999999997,
+      "bottom": 61.63199999999999,
+      "confidence": 96.195702,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "persons.",
+      "x0": 391.104,
+      "top": 53.424,
+      "x1": 429.984,
+      "bottom": 61.632,
+      "confidence": 96.330864,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(C)",
+      "x0": 100.51199999999999,
+      "top": 66.81599999999999,
+      "x1": 112.89599999999999,
+      "bottom": 77.61599999999999,
+      "confidence": 91.794312,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Special",
+      "x0": 122.39999999999999,
+      "top": 66.672,
+      "x1": 156.672,
+      "bottom": 77.616,
+      "confidence": 95.971428,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "reservation",
+      "x0": 159.408,
+      "top": 66.81599999999999,
+      "x1": 213.408,
+      "bottom": 75.31199999999998,
+      "confidence": 95.41317,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "in",
+      "x0": 217.00799999999998,
+      "top": 66.81599999999999,
+      "x1": 225.79199999999997,
+      "bottom": 75.02399999999999,
+      "confidence": 95.583221,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "favour",
+      "x0": 229.10399999999998,
+      "top": 66.81599999999999,
+      "x1": 260.928,
+      "bottom": 75.31199999999998,
+      "confidence": 95.583221,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "of",
+      "x0": 263.952,
+      "top": 66.81599999999999,
+      "x1": 274.896,
+      "bottom": 75.31199999999998,
+      "confidence": 96.17627,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "mentally",
+      "x0": 276.33599999999996,
+      "top": 66.672,
+      "x1": 318.38399999999996,
+      "bottom": 77.616,
+      "confidence": 96.065704,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "challenged",
+      "x0": 321.40799999999996,
+      "top": 66.672,
+      "x1": 372.96,
+      "bottom": 77.616,
+      "confidence": 96.416199,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "persons.",
+      "x0": 375.69599999999997,
+      "top": 69.55199999999999,
+      "x1": 414.57599999999996,
+      "bottom": 77.61599999999999,
+      "confidence": 96.476105,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "(D)",
+      "x0": 100.51199999999999,
+      "top": 82.8,
+      "x1": 113.61599999999999,
+      "bottom": 93.6,
+      "confidence": 93.225739,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Special",
+      "x0": 122.39999999999999,
+      "top": 82.65599999999999,
+      "x1": 156.672,
+      "bottom": 93.6,
+      "confidence": 96.211456,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "reservation",
+      "x0": 160.128,
+      "top": 82.65599999999999,
+      "x1": 214.128,
+      "bottom": 91.15199999999999,
+      "confidence": 96.709023,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "in",
+      "x0": 218.016,
+      "top": 82.65599999999999,
+      "x1": 226.944,
+      "bottom": 91.008,
+      "confidence": 96.341949,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "favour",
+      "x0": 230.39999999999998,
+      "top": 82.65599999999999,
+      "x1": 262.79999999999995,
+      "bottom": 91.15199999999999,
+      "confidence": 96.260735,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "of",
+      "x0": 266.832,
+      "top": 82.65599999999999,
+      "x1": 277.776,
+      "bottom": 91.15199999999999,
+      "confidence": 96.833626,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "physically",
+      "x0": 279.792,
+      "top": 82.65599999999999,
+      "x1": 329.18399999999997,
+      "bottom": 93.6,
+      "confidence": 96.565109,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "handicapped",
+      "x0": 332.06399999999996,
+      "top": 82.65599999999999,
+      "x1": 392.544,
+      "bottom": 93.6,
+      "confidence": 96.753853,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "and",
+      "x0": 395.99999999999994,
+      "top": 82.65599999999999,
+      "x1": 413.4239999999999,
+      "bottom": 91.15199999999999,
+      "confidence": 96.840309,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "mentally",
+      "x0": 417.02399999999994,
+      "top": 82.65599999999999,
+      "x1": 458.92799999999994,
+      "bottom": 93.6,
+      "confidence": 96.098404,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "challenged",
+      "x0": 462.09599999999995,
+      "top": 82.65599999999999,
+      "x1": 512.496,
+      "bottom": 93.6,
+      "confidence": 96.132942,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "persons.",
+      "x0": 121.67999999999999,
+      "top": 99.07199999999999,
+      "x1": 161.42399999999998,
+      "bottom": 107.136,
+      "confidence": 96.844933,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "CORRECT",
+      "x0": 72.43199999999999,
+      "top": 112.752,
+      "x1": 131.61599999999999,
+      "bottom": 120.96,
+      "confidence": 95.900734,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "OPTION:",
+      "x0": 135.504,
+      "top": 112.752,
+      "x1": 185.184,
+      "bottom": 120.96,
+      "confidence": 90.82753,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "B",
+      "x0": 189.648,
+      "top": 112.89599999999999,
+      "x1": 196.992,
+      "bottom": 120.81599999999999,
+      "confidence": 92.232727,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

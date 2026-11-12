@@ -1,0 +1,782 @@
+{
+  "pdf_page": 392,
+  "crop_top": 44.80146000000002,
+  "crop_bottom": 102.96136000000001,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0391:l0048:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "2. not liable in negligence because possession of the Can and money proved that boy acted as a reasonable person.",
+      "bbox": [
+        88.27199999999999,
+        4.319999999999999,
+        438.19199999999995,
+        10.8
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Xx",
+      "bbox": [
+        72.43199999999999,
+        15.695999999999998,
+        92.15999999999998,
+        28.943999999999996
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "3. not liable in negligence as the boy had made a false statement and the defendant believed it to be true.",
+      "bbox": [
+        88.27199999999999,
+        25.2,
+        410.544,
+        32.832
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "~",
+      "bbox": [
+        73.728,
+        38.736,
+        87.55199999999999,
+        49.67999999999999
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "4. liable in negligence for supplying petrol to so young a boy who was not expected to know the properties of petrol.",
+      "bbox": [
+        88.128,
+        47.087999999999994,
+        442.08,
+        53.568
+      ]
+    }
+  ],
+  "text": "2. not liable in negligence because possession of the Can and money proved that boy acted as a reasonable person.\nXx\n3. not liable in negligence as the boy had made a false statement and the defendant believed it to be true.\n~\n4. liable in negligence for supplying petrol to so young a boy who was not expected to know the properties of petrol.",
+  "ocr_words": [
+    {
+      "text": "~",
+      "x0": 73.728,
+      "top": 38.736,
+      "x1": 87.55199999999999,
+      "bottom": 49.67999999999999,
+      "confidence": 0.0,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Xx",
+      "x0": 72.43199999999999,
+      "top": 15.695999999999998,
+      "x1": 92.15999999999998,
+      "bottom": 28.943999999999996,
+      "confidence": 67.704948,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2.",
+      "x0": 88.27199999999999,
+      "top": 4.752,
+      "x1": 93.02399999999999,
+      "bottom": 9.504,
+      "confidence": 96.412537,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "not",
+      "x0": 95.904,
+      "top": 5.04,
+      "x1": 105.408,
+      "bottom": 9.504,
+      "confidence": 96.412537,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "liable",
+      "x0": 107.99999999999999,
+      "top": 4.4639999999999995,
+      "x1": 123.40799999999999,
+      "bottom": 9.504,
+      "confidence": 95.246803,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 125.99999999999999,
+      "top": 4.608,
+      "x1": 130.60799999999998,
+      "bottom": 9.504,
+      "confidence": 95.246803,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "negligence",
+      "x0": 133.488,
+      "top": 4.4639999999999995,
+      "x1": 165.168,
+      "bottom": 10.799999999999999,
+      "confidence": 95.792931,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "because",
+      "x0": 167.904,
+      "top": 4.4639999999999995,
+      "x1": 191.952,
+      "bottom": 9.504,
+      "confidence": 96.484261,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "possession",
+      "x0": 194.54399999999998,
+      "top": 4.608,
+      "x1": 226.51199999999997,
+      "bottom": 10.799999999999999,
+      "confidence": 95.847145,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 229.10399999999998,
+      "top": 4.319999999999999,
+      "x1": 235.00799999999998,
+      "bottom": 9.503999999999998,
+      "confidence": 96.927475,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 236.736,
+      "top": 4.4639999999999995,
+      "x1": 246.384,
+      "bottom": 9.504,
+      "confidence": 96.214951,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Can",
+      "x0": 248.832,
+      "top": 4.752,
+      "x1": 259.488,
+      "bottom": 9.504,
+      "confidence": 95.405083,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 262.08,
+      "top": 4.4639999999999995,
+      "x1": 272.592,
+      "bottom": 9.504,
+      "confidence": 95.405083,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "money",
+      "x0": 275.472,
+      "top": 5.904,
+      "x1": 295.77599999999995,
+      "bottom": 10.8,
+      "confidence": 95.825455,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "proved",
+      "x0": 298.224,
+      "top": 4.4639999999999995,
+      "x1": 318.67199999999997,
+      "bottom": 10.799999999999999,
+      "confidence": 96.332123,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "that",
+      "x0": 320.976,
+      "top": 4.4639999999999995,
+      "x1": 333.216,
+      "bottom": 9.504,
+      "confidence": 96.70005,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "boy",
+      "x0": 335.664,
+      "top": 4.4639999999999995,
+      "x1": 346.32,
+      "bottom": 10.799999999999999,
+      "confidence": 96.211578,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "acted",
+      "x0": 348.47999999999996,
+      "top": 4.4639999999999995,
+      "x1": 364.46399999999994,
+      "bottom": 9.504,
+      "confidence": 96.575928,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "as",
+      "x0": 367.056,
+      "top": 5.904,
+      "x1": 372.96,
+      "bottom": 9.504,
+      "confidence": 96.575928,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 375.26399999999995,
+      "top": 5.904,
+      "x1": 377.99999999999994,
+      "bottom": 9.504,
+      "confidence": 96.86702,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "reasonable",
+      "x0": 380.88,
+      "top": 4.4639999999999995,
+      "x1": 413.712,
+      "bottom": 9.504,
+      "confidence": 96.247734,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "person.",
+      "x0": 416.304,
+      "top": 5.904,
+      "x1": 438.19199999999995,
+      "bottom": 10.8,
+      "confidence": 96.316116,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "3.",
+      "x0": 88.27199999999999,
+      "top": 26.063999999999997,
+      "x1": 93.02399999999999,
+      "bottom": 30.959999999999997,
+      "confidence": 96.784142,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "not",
+      "x0": 95.904,
+      "top": 26.496,
+      "x1": 105.408,
+      "bottom": 30.959999999999997,
+      "confidence": 96.593971,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "liable",
+      "x0": 107.99999999999999,
+      "top": 25.776,
+      "x1": 123.40799999999999,
+      "bottom": 30.96,
+      "confidence": 95.518097,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 125.99999999999999,
+      "top": 26.063999999999997,
+      "x1": 130.60799999999998,
+      "bottom": 30.815999999999995,
+      "confidence": 95.518097,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "negligence",
+      "x0": 133.488,
+      "top": 25.776,
+      "x1": 165.312,
+      "bottom": 32.112,
+      "confidence": 96.183479,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "as",
+      "x0": 167.61599999999999,
+      "top": 27.36,
+      "x1": 173.51999999999998,
+      "bottom": 30.96,
+      "confidence": 96.183479,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 175.67999999999998,
+      "top": 25.776,
+      "x1": 185.32799999999997,
+      "bottom": 30.96,
+      "confidence": 96.547409,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "boy",
+      "x0": 187.92,
+      "top": 25.776,
+      "x1": 198.576,
+      "bottom": 32.112,
+      "confidence": 96.601471,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "had",
+      "x0": 201.02399999999997,
+      "top": 25.776,
+      "x1": 211.39199999999997,
+      "bottom": 30.96,
+      "confidence": 96.601471,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "made",
+      "x0": 214.128,
+      "top": 25.776,
+      "x1": 230.54399999999998,
+      "bottom": 30.96,
+      "confidence": 96.670685,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 230.688,
+      "top": 25.2,
+      "x1": 234.0,
+      "bottom": 32.832,
+      "confidence": 96.893738,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "false",
+      "x0": 238.03199999999998,
+      "top": 25.776,
+      "x1": 251.712,
+      "bottom": 30.96,
+      "confidence": 96.51136,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "statement",
+      "x0": 254.15999999999997,
+      "top": 26.496,
+      "x1": 284.97599999999994,
+      "bottom": 30.959999999999997,
+      "confidence": 95.590256,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 287.28,
+      "top": 25.776,
+      "x1": 297.792,
+      "bottom": 30.96,
+      "confidence": 95.590256,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 300.23999999999995,
+      "top": 25.776,
+      "x1": 309.888,
+      "bottom": 30.96,
+      "confidence": 95.971786,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "defendant",
+      "x0": 312.33599999999996,
+      "top": 25.776,
+      "x1": 343.43999999999994,
+      "bottom": 30.96,
+      "confidence": 96.196304,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "believed",
+      "x0": 345.888,
+      "top": 25.776,
+      "x1": 370.65599999999995,
+      "bottom": 30.96,
+      "confidence": 96.732315,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "it",
+      "x0": 373.392,
+      "top": 26.063999999999997,
+      "x1": 376.992,
+      "bottom": 30.959999999999997,
+      "confidence": 95.69516,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 379.008,
+      "top": 26.496,
+      "x1": 385.056,
+      "bottom": 30.959999999999997,
+      "confidence": 96.799034,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "be",
+      "x0": 387.64799999999997,
+      "top": 25.776,
+      "x1": 394.41599999999994,
+      "bottom": 30.96,
+      "confidence": 96.800217,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "true.",
+      "x0": 396.57599999999996,
+      "top": 26.496,
+      "x1": 410.544,
+      "bottom": 30.959999999999997,
+      "confidence": 96.49411,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "4.",
+      "x0": 88.128,
+      "top": 47.519999999999996,
+      "x1": 93.024,
+      "bottom": 52.272,
+      "confidence": 95.020462,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "liable",
+      "x0": 95.904,
+      "top": 47.087999999999994,
+      "x1": 111.312,
+      "bottom": 52.27199999999999,
+      "confidence": 95.020462,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 113.904,
+      "top": 47.376,
+      "x1": 118.512,
+      "bottom": 52.272,
+      "confidence": 96.879471,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "negligence",
+      "x0": 121.24799999999999,
+      "top": 47.087999999999994,
+      "x1": 153.21599999999998,
+      "bottom": 53.56799999999999,
+      "confidence": 96.096771,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "for",
+      "x0": 155.37599999999998,
+      "top": 47.087999999999994,
+      "x1": 164.01599999999996,
+      "bottom": 52.27199999999999,
+      "confidence": 96.096771,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "supplying",
+      "x0": 166.03199999999998,
+      "top": 47.087999999999994,
+      "x1": 194.54399999999998,
+      "bottom": 53.56799999999999,
+      "confidence": 95.575554,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "petrol",
+      "x0": 197.136,
+      "top": 47.087999999999994,
+      "x1": 214.416,
+      "bottom": 53.56799999999999,
+      "confidence": 96.508575,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 216.86399999999998,
+      "top": 47.808,
+      "x1": 222.76799999999997,
+      "bottom": 52.272,
+      "confidence": 96.32795,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "so",
+      "x0": 225.21599999999998,
+      "top": 48.672,
+      "x1": 231.408,
+      "bottom": 52.272,
+      "confidence": 96.32795,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "young",
+      "x0": 233.56799999999998,
+      "top": 48.672,
+      "x1": 251.99999999999997,
+      "bottom": 53.568,
+      "confidence": 96.031868,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 254.30399999999997,
+      "top": 48.672,
+      "x1": 256.89599999999996,
+      "bottom": 52.272,
+      "confidence": 96.115402,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "boy",
+      "x0": 259.77599999999995,
+      "top": 47.087999999999994,
+      "x1": 270.28799999999995,
+      "bottom": 53.56799999999999,
+      "confidence": 96.113495,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "who",
+      "x0": 272.304,
+      "top": 47.087999999999994,
+      "x1": 285.11999999999995,
+      "bottom": 52.27199999999999,
+      "confidence": 96.724213,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "was",
+      "x0": 287.28,
+      "top": 48.672,
+      "x1": 298.65599999999995,
+      "bottom": 52.272,
+      "confidence": 96.076668,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "not",
+      "x0": 301.248,
+      "top": 47.808,
+      "x1": 310.896,
+      "bottom": 52.272,
+      "confidence": 95.895882,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "expected",
+      "x0": 313.2,
+      "top": 47.087999999999994,
+      "x1": 340.272,
+      "bottom": 53.56799999999999,
+      "confidence": 95.895882,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 342.57599999999996,
+      "top": 47.808,
+      "x1": 348.62399999999997,
+      "bottom": 52.272,
+      "confidence": 96.589157,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "know",
+      "x0": 351.21599999999995,
+      "top": 47.087999999999994,
+      "x1": 367.0559999999999,
+      "bottom": 52.27199999999999,
+      "confidence": 96.744911,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 369.21599999999995,
+      "top": 47.087999999999994,
+      "x1": 378.864,
+      "bottom": 52.27199999999999,
+      "confidence": 96.958115,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "properties",
+      "x0": 381.45599999999996,
+      "top": 47.376,
+      "x1": 412.27199999999993,
+      "bottom": 53.568,
+      "confidence": 96.457458,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 414.57599999999996,
+      "top": 47.087999999999994,
+      "x1": 420.62399999999997,
+      "bottom": 52.27199999999999,
+      "confidence": 96.53302,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "petrol.",
+      "x0": 422.784,
+      "top": 47.087999999999994,
+      "x1": 442.08,
+      "bottom": 53.56799999999999,
+      "confidence": 95.987228,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

@@ -1,0 +1,766 @@
+{
+  "pdf_page": 44,
+  "crop_top": 592.9082599999997,
+  "crop_bottom": 768.3112779999999,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0044:l0028:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "113. Which of the following best describes the term 'industry' defined by the Supreme",
+      "bbox": [
+        57.888,
+        4.608,
+        538.4159999999999,
+        14.832
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "as",
+      "bbox": [
+        395.28,
+        7.632,
+        405.35999999999996,
+        12.959999999999999
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "Court in this judgment?",
+      "bbox": [
+        85.824,
+        19.727999999999998,
+        206.208,
+        30.095999999999997
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(A) Any activity involving profit-making",
+      "bbox": [
+        85.824,
+        39.023999999999994,
+        298.51199999999994,
+        49.391999999999996
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(B) Any systematic activity organized by cooperation between an employer and",
+      "bbox": [
+        85.824,
+        58.31999999999999,
+        538.704,
+        68.544
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "employees for producing distributing goods and services",
+      "bbox": [
+        113.904,
+        73.44,
+        410.544,
+        83.66399999999999
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "or",
+      "bbox": [
+        240.19199999999998,
+        76.464,
+        250.128,
+        81.792
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "(C) Only activities conducted by private enterprises",
+      "bbox": [
+        85.824,
+        92.73599999999999,
+        356.11199999999997,
+        102.96
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "(D) Activities limited to manufacturing sectors",
+      "bbox": [
+        85.824,
+        111.88799999999999,
+        330.62399999999997,
+        122.112
+      ]
+    },
+    {
+      "line_id": "l0009",
+      "text": "PG 2026 Ad",
+      "bbox": [
+        57.312,
+        159.408,
+        303.55199999999996,
+        169.344
+      ]
+    }
+  ],
+  "text": "113. Which of the following best describes the term 'industry' defined by the Supreme\nas\nCourt in this judgment?\n(A) Any activity involving profit-making\n(B) Any systematic activity organized by cooperation between an employer and\nemployees for producing distributing goods and services\nor\n(C) Only activities conducted by private enterprises\n(D) Activities limited to manufacturing sectors\nPG 2026 Ad",
+  "ocr_words": [
+    {
+      "text": "113.",
+      "x0": 57.888,
+      "top": 5.183999999999999,
+      "x1": 77.184,
+      "bottom": 12.959999999999999,
+      "confidence": 95.480331,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Which",
+      "x0": 85.24799999999999,
+      "top": 4.752,
+      "x1": 117.35999999999999,
+      "bottom": 12.96,
+      "confidence": 96.363335,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 123.40799999999999,
+      "top": 4.608,
+      "x1": 132.91199999999998,
+      "bottom": 12.959999999999997,
+      "confidence": 96.160461,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 137.952,
+      "top": 4.752,
+      "x1": 153.792,
+      "bottom": 12.96,
+      "confidence": 96.160461,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 159.83999999999997,
+      "top": 4.608,
+      "x1": 205.77599999999998,
+      "bottom": 14.831999999999997,
+      "confidence": 96.725067,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "best",
+      "x0": 211.248,
+      "top": 4.752,
+      "x1": 231.98399999999998,
+      "bottom": 12.96,
+      "confidence": 96.40139,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "describes",
+      "x0": 238.176,
+      "top": 4.752,
+      "x1": 283.96799999999996,
+      "bottom": 12.96,
+      "confidence": 96.490036,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 290.15999999999997,
+      "top": 4.752,
+      "x1": 305.99999999999994,
+      "bottom": 12.96,
+      "confidence": 96.508682,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "term",
+      "x0": 312.048,
+      "top": 5.616,
+      "x1": 335.808,
+      "bottom": 12.959999999999999,
+      "confidence": 93.193611,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "'industry'",
+      "x0": 342.0,
+      "top": 4.752,
+      "x1": 388.8,
+      "bottom": 14.832,
+      "confidence": 53.777851,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "as",
+      "x0": 395.28,
+      "top": 7.632,
+      "x1": 405.35999999999996,
+      "bottom": 12.959999999999999,
+      "confidence": 96.510506,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "defined",
+      "x0": 411.84,
+      "top": 4.608,
+      "x1": 448.55999999999995,
+      "bottom": 12.959999999999997,
+      "confidence": 96.158691,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "by",
+      "x0": 454.176,
+      "top": 4.752,
+      "x1": 465.984,
+      "bottom": 14.832,
+      "confidence": 96.434792,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 471.59999999999997,
+      "top": 4.752,
+      "x1": 487.43999999999994,
+      "bottom": 12.96,
+      "confidence": 96.597542,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Supreme",
+      "x0": 493.91999999999996,
+      "top": 4.608,
+      "x1": 538.4159999999999,
+      "bottom": 14.831999999999997,
+      "confidence": 96.260498,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Court",
+      "x0": 85.824,
+      "top": 19.872,
+      "x1": 114.192,
+      "bottom": 28.08,
+      "confidence": 96.879425,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "in",
+      "x0": 117.648,
+      "top": 19.872,
+      "x1": 127.44,
+      "bottom": 27.936,
+      "confidence": 95.745171,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "this",
+      "x0": 130.896,
+      "top": 19.872,
+      "x1": 149.76,
+      "bottom": 28.08,
+      "confidence": 95.93486,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "judgment?",
+      "x0": 152.928,
+      "top": 19.727999999999998,
+      "x1": 206.208,
+      "bottom": 30.095999999999997,
+      "confidence": 95.966484,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(A)",
+      "x0": 85.824,
+      "top": 39.023999999999994,
+      "x1": 99.648,
+      "bottom": 49.24799999999999,
+      "confidence": 93.903305,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Any",
+      "x0": 113.32799999999999,
+      "top": 39.023999999999994,
+      "x1": 133.77599999999998,
+      "bottom": 49.391999999999996,
+      "confidence": 92.240204,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "activity",
+      "x0": 137.51999999999998,
+      "top": 39.168,
+      "x1": 175.10399999999998,
+      "bottom": 49.391999999999996,
+      "confidence": 96.425331,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "involving",
+      "x0": 178.55999999999997,
+      "top": 39.168,
+      "x1": 225.21599999999998,
+      "bottom": 49.391999999999996,
+      "confidence": 95.886574,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "profit-making",
+      "x0": 228.67199999999997,
+      "top": 39.023999999999994,
+      "x1": 298.51199999999994,
+      "bottom": 49.391999999999996,
+      "confidence": 96.527069,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(B)",
+      "x0": 85.824,
+      "top": 58.31999999999999,
+      "x1": 99.648,
+      "bottom": 68.39999999999999,
+      "confidence": 91.712158,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Any",
+      "x0": 113.32799999999999,
+      "top": 58.31999999999999,
+      "x1": 133.92,
+      "bottom": 68.544,
+      "confidence": 96.111122,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "systematic",
+      "x0": 142.56,
+      "top": 58.31999999999999,
+      "x1": 195.84,
+      "bottom": 68.544,
+      "confidence": 96.398743,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "activity",
+      "x0": 204.624,
+      "top": 58.31999999999999,
+      "x1": 242.208,
+      "bottom": 68.544,
+      "confidence": 96.748695,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "organized",
+      "x0": 250.55999999999997,
+      "top": 58.31999999999999,
+      "x1": 299.664,
+      "bottom": 68.544,
+      "confidence": 96.119484,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "by",
+      "x0": 307.87199999999996,
+      "top": 58.31999999999999,
+      "x1": 319.67999999999995,
+      "bottom": 68.544,
+      "confidence": 96.573288,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "cooperation",
+      "x0": 328.032,
+      "top": 58.31999999999999,
+      "x1": 386.06399999999996,
+      "bottom": 68.39999999999999,
+      "confidence": 96.704369,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "between",
+      "x0": 394.272,
+      "top": 58.31999999999999,
+      "x1": 436.176,
+      "bottom": 66.52799999999999,
+      "confidence": 96.556625,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "an",
+      "x0": 444.816,
+      "top": 61.199999999999996,
+      "x1": 456.912,
+      "bottom": 66.52799999999999,
+      "confidence": 96.13073,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "employer",
+      "x0": 465.40799999999996,
+      "top": 58.31999999999999,
+      "x1": 511.63199999999995,
+      "bottom": 68.544,
+      "confidence": 96.478371,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 520.2719999999999,
+      "top": 58.31999999999999,
+      "x1": 538.704,
+      "bottom": 66.52799999999999,
+      "confidence": 96.564392,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "employees",
+      "x0": 113.904,
+      "top": 73.58399999999999,
+      "x1": 165.456,
+      "bottom": 83.66399999999999,
+      "confidence": 95.778755,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "for",
+      "x0": 169.2,
+      "top": 73.44,
+      "x1": 182.88,
+      "bottom": 81.792,
+      "confidence": 96.524727,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "producing",
+      "x0": 186.48,
+      "top": 73.58399999999999,
+      "x1": 236.736,
+      "bottom": 83.66399999999999,
+      "confidence": 96.025513,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "or",
+      "x0": 240.19199999999998,
+      "top": 76.464,
+      "x1": 250.128,
+      "bottom": 81.792,
+      "confidence": 95.638893,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "distributing",
+      "x0": 253.87199999999999,
+      "top": 73.58399999999999,
+      "x1": 313.91999999999996,
+      "bottom": 83.66399999999999,
+      "confidence": 96.310898,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "goods",
+      "x0": 317.664,
+      "top": 73.58399999999999,
+      "x1": 344.88,
+      "bottom": 83.66399999999999,
+      "confidence": 95.625572,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "and",
+      "x0": 349.056,
+      "top": 73.58399999999999,
+      "x1": 367.488,
+      "bottom": 81.79199999999999,
+      "confidence": 95.625572,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "services",
+      "x0": 371.23199999999997,
+      "top": 73.58399999999999,
+      "x1": 410.544,
+      "bottom": 81.79199999999999,
+      "confidence": 96.37603,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(C)",
+      "x0": 85.824,
+      "top": 92.73599999999999,
+      "x1": 99.648,
+      "bottom": 102.81599999999999,
+      "confidence": 90.861877,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Only",
+      "x0": 114.04799999999999,
+      "top": 92.73599999999999,
+      "x1": 137.952,
+      "bottom": 102.96,
+      "confidence": 91.98439,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "activities",
+      "x0": 141.696,
+      "top": 92.73599999999999,
+      "x1": 187.05599999999998,
+      "bottom": 100.94399999999999,
+      "confidence": 95.987411,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "conducted",
+      "x0": 190.944,
+      "top": 92.73599999999999,
+      "x1": 241.488,
+      "bottom": 100.94399999999999,
+      "confidence": 96.697571,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "by",
+      "x0": 244.79999999999998,
+      "top": 92.73599999999999,
+      "x1": 256.608,
+      "bottom": 102.96,
+      "confidence": 96.790306,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "private",
+      "x0": 260.20799999999997,
+      "top": 92.73599999999999,
+      "x1": 295.91999999999996,
+      "bottom": 102.81599999999999,
+      "confidence": 96.653618,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "enterprises",
+      "x0": 299.808,
+      "top": 92.73599999999999,
+      "x1": 356.11199999999997,
+      "bottom": 102.81599999999999,
+      "confidence": 96.433586,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(D)",
+      "x0": 85.824,
+      "top": 111.88799999999999,
+      "x1": 100.22399999999999,
+      "bottom": 122.112,
+      "confidence": 91.402855,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Activities",
+      "x0": 113.32799999999999,
+      "top": 111.88799999999999,
+      "x1": 161.27999999999997,
+      "bottom": 120.09599999999999,
+      "confidence": 92.706123,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "limited",
+      "x0": 165.024,
+      "top": 111.88799999999999,
+      "x1": 200.88,
+      "bottom": 120.09599999999999,
+      "confidence": 96.254478,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 204.33599999999998,
+      "top": 112.89599999999999,
+      "x1": 213.552,
+      "bottom": 120.09599999999999,
+      "confidence": 96.046677,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "manufacturing",
+      "x0": 217.44,
+      "top": 111.88799999999999,
+      "x1": 292.752,
+      "bottom": 122.112,
+      "confidence": 96.300377,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "sectors",
+      "x0": 296.496,
+      "top": 112.89599999999999,
+      "x1": 330.62399999999997,
+      "bottom": 120.09599999999999,
+      "confidence": 96.431824,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "PG",
+      "x0": 57.312,
+      "top": 160.992,
+      "x1": 73.872,
+      "bottom": 169.344,
+      "confidence": 96.173721,
+      "ocr_block": "6",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2026",
+      "x0": 78.04799999999999,
+      "top": 161.56799999999998,
+      "x1": 102.23999999999998,
+      "bottom": 169.344,
+      "confidence": 96.173721,
+      "ocr_block": "6",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ad",
+      "x0": 292.032,
+      "top": 159.408,
+      "x1": 303.55199999999996,
+      "bottom": 167.04,
+      "confidence": 81.649445,
+      "ocr_block": "6",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

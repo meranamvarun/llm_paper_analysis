@@ -1,0 +1,28 @@
+{
+  "questions": 1395,
+  "strictly_supported": 1395,
+  "source_text_exceptions": 0,
+  "exceptions_by_year": {},
+  "structural_findings": {},
+  "abstentions": 0,
+  "automated_gate": "PASS",
+  "measurement": "strict_lexical_source_support_not_empirical_accuracy",
+  "native_decoder": "5.12.1",
+  "assistant_image_source_readings": 25,
+  "independent_human_validation": false,
+  "gate_version": "source-support-v2",
+  "selected_support_methods": {
+    "pdfium_bounded_native_text": 1136,
+    "assistant_source_image_transcription_unreviewed": 11,
+    "pdfplumber_native_geometry_x_tolerance_0.5": 45,
+    "retained_180dpi_page_region": 91,
+    "data\\automated_quality\\20261112\\current_highres_v1\\ocr:psm6": 1,
+    "data\\automated_quality\\20261112\\highres_recheck_v2\\ocr:psm3": 14,
+    "data\\automated_quality\\20261112\\current_highres_v1\\ocr:psm3": 4,
+    "retained_240dpi_same_anchors": 4,
+    "pdfplumber_native_geometry_x_tolerance_1": 1,
+    "data\\automated_quality\\20261112\\metadata_frames_v1:psm6": 3,
+    "individually_supported_source_fields": 83,
+    "data\\automated_quality\\20261112\\highres_recheck_v2\\ocr:psm6": 2
+  }
+}

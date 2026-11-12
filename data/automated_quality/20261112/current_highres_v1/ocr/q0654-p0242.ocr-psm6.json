@@ -1,0 +1,735 @@
+{
+  "pdf_page": 242,
+  "crop_top": 68.9319999999999,
+  "crop_bottom": 182.0519999999999,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0242:l0000:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "55. The review of the given excerpt highlights the prevailing problem of",
+      "bbox": [
+        72.576,
+        5.183999999999999,
+        423.64799999999997,
+        16.128
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "(A) Imposing non-statutory conditions by the courts while granting bail applications.",
+      "bbox": [
+        100.51199999999999,
+        21.168,
+        507.74399999999997,
+        32.111999999999995
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(B) Lack of gender sensitization of the bar and the bench, particularly with regard to",
+      "bbox": [
+        100.51199999999999,
+        36.431999999999995,
+        512.496,
+        47.37599999999999
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "judicial empathy forthe prosecutrix.",
+      "bbox": [
+        120.81599999999999,
+        50.831999999999994,
+        296.06399999999996,
+        61.775999999999996
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(C) Both (A) and (B).",
+      "bbox": [
+        100.51199999999999,
+        65.952,
+        205.63199999999998,
+        76.89599999999999
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "(D) Judges are not aware about the bail provisions.",
+      "bbox": [
+        100.51199999999999,
+        82.08,
+        345.31199999999995,
+        93.024
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "CORRECT OPTION: C",
+      "bbox": [
+        72.43199999999999,
+        98.496,
+        197.42399999999998,
+        106.848
+      ]
+    }
+  ],
+  "text": "55. The review of the given excerpt highlights the prevailing problem of\n(A) Imposing non-statutory conditions by the courts while granting bail applications.\n(B) Lack of gender sensitization of the bar and the bench, particularly with regard to\njudicial empathy forthe prosecutrix.\n(C) Both (A) and (B).\n(D) Judges are not aware about the bail provisions.\nCORRECT OPTION: C",
+  "ocr_words": [
+    {
+      "text": "55.",
+      "x0": 72.576,
+      "top": 5.616,
+      "x1": 84.96,
+      "bottom": 13.68,
+      "confidence": 93.542679,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 94.032,
+      "top": 5.183999999999999,
+      "x1": 111.88799999999999,
+      "bottom": 13.679999999999998,
+      "confidence": 93.542679,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "review",
+      "x0": 114.91199999999999,
+      "top": 5.183999999999999,
+      "x1": 147.88799999999998,
+      "bottom": 13.679999999999998,
+      "confidence": 94.943497,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 151.05599999999998,
+      "top": 5.183999999999999,
+      "x1": 161.99999999999997,
+      "bottom": 13.679999999999998,
+      "confidence": 96.54068,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 164.16,
+      "top": 5.183999999999999,
+      "x1": 178.416,
+      "bottom": 13.679999999999998,
+      "confidence": 96.881012,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "given",
+      "x0": 181.87199999999999,
+      "top": 5.183999999999999,
+      "x1": 207.93599999999998,
+      "bottom": 16.128,
+      "confidence": 96.480782,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "excerpt",
+      "x0": 211.248,
+      "top": 6.335999999999999,
+      "x1": 247.392,
+      "bottom": 16.128,
+      "confidence": 96.480362,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "highlights",
+      "x0": 250.128,
+      "top": 5.183999999999999,
+      "x1": 297.36,
+      "bottom": 16.128,
+      "confidence": 96.212791,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 300.38399999999996,
+      "top": 5.183999999999999,
+      "x1": 314.63999999999993,
+      "bottom": 13.679999999999998,
+      "confidence": 96.460548,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "prevailing",
+      "x0": 317.52,
+      "top": 5.183999999999999,
+      "x1": 367.056,
+      "bottom": 16.128,
+      "confidence": 95.824257,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "problem",
+      "x0": 369.35999999999996,
+      "top": 5.183999999999999,
+      "x1": 409.96799999999996,
+      "bottom": 16.128,
+      "confidence": 96.614799,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 412.55999999999995,
+      "top": 5.183999999999999,
+      "x1": 423.64799999999997,
+      "bottom": 13.679999999999998,
+      "confidence": 96.841927,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 100.51199999999999,
+      "top": 21.168,
+      "x1": 113.47199999999998,
+      "bottom": 31.967999999999996,
+      "confidence": 96.609612,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Imposing",
+      "x0": 121.96799999999999,
+      "top": 21.168,
+      "x1": 167.904,
+      "bottom": 32.111999999999995,
+      "confidence": 92.73967,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "non-statutory",
+      "x0": 170.35199999999998,
+      "top": 22.319999999999997,
+      "x1": 235.58399999999997,
+      "bottom": 32.111999999999995,
+      "confidence": 90.796844,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "conditions",
+      "x0": 238.176,
+      "top": 21.168,
+      "x1": 287.424,
+      "bottom": 29.663999999999998,
+      "confidence": 96.746887,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "by",
+      "x0": 290.592,
+      "top": 21.168,
+      "x1": 302.688,
+      "bottom": 32.111999999999995,
+      "confidence": 96.7481,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 304.99199999999996,
+      "top": 21.168,
+      "x1": 319.24799999999993,
+      "bottom": 29.663999999999998,
+      "confidence": 96.071655,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "courts",
+      "x0": 322.84799999999996,
+      "top": 22.319999999999997,
+      "x1": 351.792,
+      "bottom": 29.663999999999994,
+      "confidence": 96.525261,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "while",
+      "x0": 355.104,
+      "top": 21.168,
+      "x1": 381.45599999999996,
+      "bottom": 29.663999999999998,
+      "confidence": 96.489677,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "granting",
+      "x0": 385.056,
+      "top": 21.168,
+      "x1": 424.368,
+      "bottom": 32.111999999999995,
+      "confidence": 96.535675,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "bail",
+      "x0": 426.67199999999997,
+      "top": 21.168,
+      "x1": 444.67199999999997,
+      "bottom": 29.663999999999998,
+      "confidence": 96.313347,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "applications.",
+      "x0": 447.984,
+      "top": 21.168,
+      "x1": 507.74399999999997,
+      "bottom": 32.111999999999995,
+      "confidence": 95.858635,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(B)",
+      "x0": 100.51199999999999,
+      "top": 36.431999999999995,
+      "x1": 113.03999999999999,
+      "bottom": 47.23199999999999,
+      "confidence": 93.007004,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Lack",
+      "x0": 121.96799999999999,
+      "top": 36.431999999999995,
+      "x1": 145.584,
+      "bottom": 44.928,
+      "confidence": 96.149277,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 149.04,
+      "top": 36.431999999999995,
+      "x1": 159.98399999999998,
+      "bottom": 44.928,
+      "confidence": 96.271568,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "gender",
+      "x0": 162.432,
+      "top": 36.431999999999995,
+      "x1": 195.26399999999998,
+      "bottom": 47.37599999999999,
+      "confidence": 96.181946,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "sensitization",
+      "x0": 199.00799999999998,
+      "top": 36.431999999999995,
+      "x1": 258.47999999999996,
+      "bottom": 44.928,
+      "confidence": 96.56971,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 261.936,
+      "top": 36.431999999999995,
+      "x1": 272.88,
+      "bottom": 44.928,
+      "confidence": 96.851959,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "the",
+      "x0": 275.03999999999996,
+      "top": 36.431999999999995,
+      "x1": 289.152,
+      "bottom": 44.928,
+      "confidence": 96.92778,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "bar",
+      "x0": 292.464,
+      "top": 36.431999999999995,
+      "x1": 308.304,
+      "bottom": 44.928,
+      "confidence": 96.779648,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "and",
+      "x0": 312.19199999999995,
+      "top": 36.431999999999995,
+      "x1": 329.75999999999993,
+      "bottom": 44.928,
+      "confidence": 96.233124,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "the",
+      "x0": 333.64799999999997,
+      "top": 36.431999999999995,
+      "x1": 347.90399999999994,
+      "bottom": 44.928,
+      "confidence": 96.035133,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "bench,",
+      "x0": 351.21599999999995,
+      "top": 36.431999999999995,
+      "x1": 383.472,
+      "bottom": 46.65599999999999,
+      "confidence": 95.762184,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "particularly",
+      "x0": 387.64799999999997,
+      "top": 36.431999999999995,
+      "x1": 443.08799999999997,
+      "bottom": 47.37599999999999,
+      "confidence": 96.609024,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "with",
+      "x0": 446.11199999999997,
+      "top": 36.431999999999995,
+      "x1": 467.28,
+      "bottom": 44.928,
+      "confidence": 96.823402,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "regard",
+      "x0": 470.448,
+      "top": 36.431999999999995,
+      "x1": 500.976,
+      "bottom": 47.37599999999999,
+      "confidence": 96.159554,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "to",
+      "x0": 504.14399999999995,
+      "top": 37.583999999999996,
+      "x1": 512.496,
+      "bottom": 44.928,
+      "confidence": 96.159554,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "judicial",
+      "x0": 120.81599999999999,
+      "top": 50.831999999999994,
+      "x1": 157.392,
+      "bottom": 61.775999999999996,
+      "confidence": 95.471664,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "empathy",
+      "x0": 161.136,
+      "top": 50.831999999999994,
+      "x1": 202.896,
+      "bottom": 61.775999999999996,
+      "confidence": 96.79586,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "forthe",
+      "x0": 206.64,
+      "top": 50.831999999999994,
+      "x1": 236.44799999999998,
+      "bottom": 59.471999999999994,
+      "confidence": 93.30423,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "prosecutrix.",
+      "x0": 239.90399999999997,
+      "top": 50.831999999999994,
+      "x1": 296.06399999999996,
+      "bottom": 61.775999999999996,
+      "confidence": 92.109543,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(C)",
+      "x0": 100.51199999999999,
+      "top": 66.09599999999999,
+      "x1": 112.89599999999999,
+      "bottom": 76.89599999999999,
+      "confidence": 92.004799,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Both",
+      "x0": 121.96799999999999,
+      "top": 65.952,
+      "x1": 144.86399999999998,
+      "bottom": 74.592,
+      "confidence": 96.324043,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "(A)",
+      "x0": 148.464,
+      "top": 66.09599999999999,
+      "x1": 164.16,
+      "bottom": 76.89599999999999,
+      "confidence": 96.419083,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "and",
+      "x0": 167.904,
+      "top": 65.952,
+      "x1": 185.328,
+      "bottom": 74.592,
+      "confidence": 85.369514,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "(B).",
+      "x0": 187.92,
+      "top": 66.09599999999999,
+      "x1": 205.63199999999998,
+      "bottom": 76.89599999999999,
+      "confidence": 85.369514,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "(D)",
+      "x0": 100.51199999999999,
+      "top": 82.08,
+      "x1": 113.47199999999998,
+      "bottom": 93.024,
+      "confidence": 91.368111,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Judges",
+      "x0": 121.96799999999999,
+      "top": 82.08,
+      "x1": 154.368,
+      "bottom": 93.024,
+      "confidence": 96.591942,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "are",
+      "x0": 157.82399999999998,
+      "top": 84.96,
+      "x1": 171.79199999999997,
+      "bottom": 90.576,
+      "confidence": 96.239655,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "not",
+      "x0": 174.672,
+      "top": 83.37599999999999,
+      "x1": 190.368,
+      "bottom": 90.576,
+      "confidence": 96.253136,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "aware",
+      "x0": 193.392,
+      "top": 84.96,
+      "x1": 221.61599999999999,
+      "bottom": 90.576,
+      "confidence": 96.891563,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "about",
+      "x0": 225.21599999999998,
+      "top": 82.08,
+      "x1": 252.432,
+      "bottom": 90.576,
+      "confidence": 95.893242,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "the",
+      "x0": 255.16799999999998,
+      "top": 82.08,
+      "x1": 269.424,
+      "bottom": 90.576,
+      "confidence": 95.893242,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "bail",
+      "x0": 272.304,
+      "top": 82.08,
+      "x1": 290.448,
+      "bottom": 90.576,
+      "confidence": 96.588684,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "provisions.",
+      "x0": 293.03999999999996,
+      "top": 82.08,
+      "x1": 345.31199999999995,
+      "bottom": 93.024,
+      "confidence": 96.242409,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "CORRECT",
+      "x0": 72.43199999999999,
+      "top": 98.496,
+      "x1": 131.61599999999999,
+      "bottom": 106.848,
+      "confidence": 96.280411,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "OPTION:",
+      "x0": 135.504,
+      "top": 98.63999999999999,
+      "x1": 185.184,
+      "bottom": 106.84799999999998,
+      "confidence": 92.574394,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "C",
+      "x0": 189.79199999999997,
+      "top": 98.496,
+      "x1": 197.42399999999998,
+      "bottom": 106.848,
+      "confidence": 92.521202,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

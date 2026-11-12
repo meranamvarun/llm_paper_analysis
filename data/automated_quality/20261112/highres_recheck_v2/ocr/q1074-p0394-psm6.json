@@ -1,0 +1,294 @@
+{
+  "pdf_page": 394,
+  "crop_top": 434.32135999999997,
+  "crop_bottom": 535.20136,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0394:l0026:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.23 Whois called father of Public International Law?",
+      "bbox": [
+        41.94,
+        4.32,
+        213.12,
+        10.44
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Ans",
+      "bbox": [
+        43.379999999999995,
+        17.64,
+        54.53999999999999,
+        22.5
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "1. Grotius",
+      "bbox": [
+        88.56,
+        26.099999999999998,
+        117.36,
+        31.139999999999997
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        37.26,
+        93.06,
+        52.379999999999995
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "Holland",
+      "bbox": [
+        95.94,
+        47.339999999999996,
+        118.25999999999999,
+        52.559999999999995
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        58.68,
+        93.06,
+        73.8
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "Starke",
+      "bbox": [
+        95.58,
+        68.58,
+        114.12,
+        73.8
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        79.92,
+        93.06,
+        95.04
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "Oppenheim",
+      "bbox": [
+        95.58,
+        90.0,
+        130.68,
+        96.48
+      ]
+    }
+  ],
+  "text": "Q.23 Whois called father of Public International Law?\nAns\n1. Grotius\nx,\nHolland\nx,\nStarke\nx,\nOppenheim",
+  "ocr_words": [
+    {
+      "text": "Q.23",
+      "x0": 41.94,
+      "top": 4.68,
+      "x1": 55.98,
+      "bottom": 10.44,
+      "confidence": 92.293175,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Whois",
+      "x0": 62.64,
+      "top": 4.5,
+      "x1": 83.52,
+      "bottom": 9.719999999999999,
+      "confidence": 86.903748,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "called",
+      "x0": 85.67999999999999,
+      "top": 4.5,
+      "x1": 103.32,
+      "bottom": 9.719999999999999,
+      "confidence": 96.79213,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "father",
+      "x0": 105.47999999999999,
+      "top": 4.32,
+      "x1": 124.55999999999999,
+      "bottom": 9.719999999999999,
+      "confidence": 96.131042,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 126.53999999999999,
+      "top": 4.32,
+      "x1": 132.66,
+      "bottom": 9.719999999999999,
+      "confidence": 96.840652,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Public",
+      "x0": 134.82,
+      "top": 4.5,
+      "x1": 153.0,
+      "bottom": 9.719999999999999,
+      "confidence": 96.507027,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "International",
+      "x0": 155.51999999999998,
+      "top": 4.5,
+      "x1": 195.29999999999998,
+      "bottom": 9.719999999999999,
+      "confidence": 95.350647,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Law?",
+      "x0": 198.0,
+      "top": 4.5,
+      "x1": 213.12,
+      "bottom": 9.719999999999999,
+      "confidence": 96.097015,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.379999999999995,
+      "top": 17.64,
+      "x1": 54.53999999999999,
+      "bottom": 22.5,
+      "confidence": 96.168167,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 88.56,
+      "top": 26.279999999999998,
+      "x1": 93.06,
+      "bottom": 30.959999999999997,
+      "confidence": 93.286102,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Grotius",
+      "x0": 95.58,
+      "top": 26.099999999999998,
+      "x1": 117.36,
+      "bottom": 31.139999999999997,
+      "confidence": 92.232681,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 37.26,
+      "x1": 93.06,
+      "bottom": 52.379999999999995,
+      "confidence": 63.019958,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Holland",
+      "x0": 95.94,
+      "top": 47.339999999999996,
+      "x1": 118.25999999999999,
+      "bottom": 52.559999999999995,
+      "confidence": 96.270638,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 58.68,
+      "x1": 93.06,
+      "bottom": 73.8,
+      "confidence": 56.642792,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Starke",
+      "x0": 95.58,
+      "top": 68.58,
+      "x1": 114.12,
+      "bottom": 73.8,
+      "confidence": 96.607979,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 79.92,
+      "x1": 93.06,
+      "bottom": 95.04,
+      "confidence": 73.773705,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Oppenheim",
+      "x0": 95.58,
+      "top": 90.0,
+      "x1": 130.68,
+      "bottom": 96.48,
+      "confidence": 96.314278,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

@@ -1,0 +1,481 @@
+{
+  "pdf_page": 451,
+  "crop_top": 192.94000000000005,
+  "crop_bottom": 290.61,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0451:l0006:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "38. Who defined ownership as ‘a right indefinite in point of user unrestricted in point of",
+      "bbox": [
+        72.576,
+        4.896,
+        516.8159999999999,
+        15.264
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "— —",
+      "bbox": [
+        260.352,
+        9.36,
+        401.472,
+        10.224
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "disposition and unlimited in point of duration’?",
+      "bbox": [
+        90.576,
+        21.744,
+        328.032,
+        32.111999999999995
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "—",
+      "bbox": [
+        146.016,
+        26.208,
+        152.064,
+        27.072
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "A. Salmond",
+      "bbox": [
+        108.288,
+        38.592,
+        167.76,
+        46.8
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "B. Austin",
+      "bbox": [
+        108.86399999999999,
+        53.424,
+        157.392,
+        61.488
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "C. Marx",
+      "bbox": [
+        108.576,
+        68.544,
+        151.2,
+        76.32
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "D. Glaniville Williams",
+      "bbox": [
+        109.008,
+        82.65599999999999,
+        214.84799999999996,
+        90.864
+      ]
+    }
+  ],
+  "text": "38. Who defined ownership as ‘a right indefinite in point of user unrestricted in point of\n— —\ndisposition and unlimited in point of duration’?\n—\nA. Salmond\nB. Austin\nC. Marx\nD. Glaniville Williams",
+  "ocr_words": [
+    {
+      "text": "38.",
+      "x0": 72.576,
+      "top": 5.4719999999999995,
+      "x1": 86.39999999999999,
+      "bottom": 13.248,
+      "confidence": 96.182495,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Who",
+      "x0": 90.43199999999999,
+      "top": 4.896,
+      "x1": 112.89599999999999,
+      "bottom": 13.247999999999998,
+      "confidence": 96.287468,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "defined",
+      "x0": 116.63999999999999,
+      "top": 4.896,
+      "x1": 152.35199999999998,
+      "bottom": 13.247999999999998,
+      "confidence": 96.564484,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "ownership",
+      "x0": 156.528,
+      "top": 4.896,
+      "x1": 206.928,
+      "bottom": 15.264,
+      "confidence": 95.262917,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "as",
+      "x0": 210.528,
+      "top": 7.4879999999999995,
+      "x1": 220.03199999999998,
+      "bottom": 13.248,
+      "confidence": 93.814247,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "‘a",
+      "x0": 224.064,
+      "top": 4.896,
+      "x1": 231.12,
+      "bottom": 13.247999999999998,
+      "confidence": 95.524391,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "right",
+      "x0": 235.58399999999997,
+      "top": 4.896,
+      "x1": 257.18399999999997,
+      "bottom": 15.264,
+      "confidence": 93.196259,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "—",
+      "x0": 260.352,
+      "top": 9.36,
+      "x1": 266.4,
+      "bottom": 10.224,
+      "confidence": 90.4907,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "indefinite",
+      "x0": 270.0,
+      "top": 4.896,
+      "x1": 315.36,
+      "bottom": 13.247999999999998,
+      "confidence": 96.182693,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 319.536,
+      "top": 5.327999999999999,
+      "x1": 326.736,
+      "bottom": 13.104,
+      "confidence": 96.533897,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "point",
+      "x0": 331.2,
+      "top": 5.327999999999999,
+      "x1": 355.68,
+      "bottom": 15.264,
+      "confidence": 96.11364,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 359.424,
+      "top": 4.896,
+      "x1": 368.928,
+      "bottom": 13.247999999999998,
+      "confidence": 96.699493,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "user",
+      "x0": 372.23999999999995,
+      "top": 7.4879999999999995,
+      "x1": 392.4,
+      "bottom": 13.248,
+      "confidence": 91.839066,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "—",
+      "x0": 395.424,
+      "top": 9.36,
+      "x1": 401.472,
+      "bottom": 10.224,
+      "confidence": 89.790596,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "unrestricted",
+      "x0": 405.07199999999995,
+      "top": 5.04,
+      "x1": 462.9599999999999,
+      "bottom": 13.248000000000001,
+      "confidence": 96.49176,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 467.424,
+      "top": 5.327999999999999,
+      "x1": 474.768,
+      "bottom": 13.104,
+      "confidence": 95.340401,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "point",
+      "x0": 479.376,
+      "top": 5.327999999999999,
+      "x1": 503.712,
+      "bottom": 15.264,
+      "confidence": 95.588364,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 507.31199999999995,
+      "top": 4.896,
+      "x1": 516.8159999999999,
+      "bottom": 13.247999999999998,
+      "confidence": 96.662117,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "disposition",
+      "x0": 90.576,
+      "top": 21.744,
+      "x1": 142.416,
+      "bottom": 32.111999999999995,
+      "confidence": 92.457512,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "—",
+      "x0": 146.016,
+      "top": 26.208,
+      "x1": 152.064,
+      "bottom": 27.072,
+      "confidence": 92.167778,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "and",
+      "x0": 155.37599999999998,
+      "top": 21.744,
+      "x1": 172.224,
+      "bottom": 30.095999999999997,
+      "confidence": 96.689232,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "unlimited",
+      "x0": 176.688,
+      "top": 21.744,
+      "x1": 221.61599999999999,
+      "bottom": 30.095999999999997,
+      "confidence": 95.512405,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "in",
+      "x0": 226.07999999999998,
+      "top": 22.176,
+      "x1": 233.42399999999998,
+      "bottom": 29.951999999999998,
+      "confidence": 95.512405,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "point",
+      "x0": 237.88799999999998,
+      "top": 22.176,
+      "x1": 262.224,
+      "bottom": 32.111999999999995,
+      "confidence": 96.523849,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 265.96799999999996,
+      "top": 21.744,
+      "x1": 275.472,
+      "bottom": 30.095999999999997,
+      "confidence": 96.536903,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "duration’?",
+      "x0": 278.64,
+      "top": 21.744,
+      "x1": 328.032,
+      "bottom": 30.095999999999997,
+      "confidence": 77.554733,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "A.",
+      "x0": 108.288,
+      "top": 39.168,
+      "x1": 117.072,
+      "bottom": 46.8,
+      "confidence": 96.638351,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Salmond",
+      "x0": 126.43199999999999,
+      "top": 38.592,
+      "x1": 167.76,
+      "bottom": 46.8,
+      "confidence": 96.638351,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "B.",
+      "x0": 108.86399999999999,
+      "top": 53.711999999999996,
+      "x1": 117.216,
+      "bottom": 61.488,
+      "confidence": 92.960236,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Austin",
+      "x0": 126.14399999999999,
+      "top": 53.424,
+      "x1": 157.392,
+      "bottom": 61.488,
+      "confidence": 96.654404,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "C.",
+      "x0": 108.576,
+      "top": 68.544,
+      "x1": 116.496,
+      "bottom": 76.32,
+      "confidence": 89.256989,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Marx",
+      "x0": 127.008,
+      "top": 68.544,
+      "x1": 151.2,
+      "bottom": 76.32,
+      "confidence": 96.581032,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "D.",
+      "x0": 109.008,
+      "top": 83.232,
+      "x1": 117.648,
+      "bottom": 90.864,
+      "confidence": 91.232407,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Glaniville",
+      "x0": 126.576,
+      "top": 82.65599999999999,
+      "x1": 170.35199999999998,
+      "bottom": 90.86399999999999,
+      "confidence": 89.997124,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Williams",
+      "x0": 174.09599999999998,
+      "top": 82.65599999999999,
+      "x1": 214.84799999999996,
+      "bottom": 90.86399999999999,
+      "confidence": 95.673241,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

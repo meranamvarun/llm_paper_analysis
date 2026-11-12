@@ -1,0 +1,1206 @@
+{
+  "pdf_page": 127,
+  "crop_top": 544.5764,
+  "crop_bottom": 706.1764000000001,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0127:l0030:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "92. Consider the given statements.",
+      "bbox": [
+        96.11999999999999,
+        3.5999999999999996,
+        267.65999999999997,
+        14.219999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "|. Onus to prove continuous service for prescribed number of days lies on the workman.",
+      "bbox": [
+        124.92,
+        18.9,
+        551.16,
+        29.339999999999996
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "Il. The period of continuous service need not be in the same service or same type of",
+      "bbox": [
+        121.86,
+        34.199999999999996,
+        551.88,
+        44.46
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "service.",
+      "bbox": [
+        136.44,
+        49.5,
+        172.98,
+        55.44
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "Ill. Worked for not less than the prescribed period does not include paid holidays.",
+      "bbox": [
+        118.8,
+        62.64,
+        514.26,
+        72.9
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "Choose the correct answer from the code given below:",
+      "bbox": [
+        117.53999999999999,
+        80.64,
+        381.96,
+        91.25999999999999
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "(A) | and Il are correct, III is incorrect.",
+      "bbox": [
+        116.1,
+        97.02,
+        298.97999999999996,
+        107.46
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "(B) Il and Ill are correct and | is incorrect.",
+      "bbox": [
+        116.1,
+        112.86,
+        317.34,
+        124.56
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "(C) Il is correct, | and Ill are incorrect.",
+      "bbox": [
+        115.38,
+        129.78,
+        298.97999999999996,
+        140.22
+      ]
+    },
+    {
+      "line_id": "l0009",
+      "text": "(D) Only | is correct, Il and III are incorrect.",
+      "bbox": [
+        115.38,
+        146.34,
+        324.53999999999996,
+        156.78
+      ]
+    }
+  ],
+  "text": "92. Consider the given statements.\n|. Onus to prove continuous service for prescribed number of days lies on the workman.\nIl. The period of continuous service need not be in the same service or same type of\nservice.\nIll. Worked for not less than the prescribed period does not include paid holidays.\nChoose the correct answer from the code given below:\n(A) | and Il are correct, III is incorrect.\n(B) Il and Ill are correct and | is incorrect.\n(C) Il is correct, | and Ill are incorrect.\n(D) Only | is correct, Il and III are incorrect.",
+  "ocr_words": [
+    {
+      "text": "92.",
+      "x0": 96.11999999999999,
+      "top": 3.96,
+      "x1": 110.16,
+      "bottom": 12.059999999999999,
+      "confidence": 96.706657,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Consider",
+      "x0": 117.53999999999999,
+      "top": 3.5999999999999996,
+      "x1": 160.92,
+      "bottom": 12.059999999999999,
+      "confidence": 96.437126,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 164.16,
+      "top": 3.78,
+      "x1": 178.92,
+      "bottom": 11.879999999999999,
+      "confidence": 95.981918,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "given",
+      "x0": 182.88,
+      "top": 3.78,
+      "x1": 208.07999999999998,
+      "bottom": 14.219999999999999,
+      "confidence": 95.981918,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "statements.",
+      "x0": 212.22,
+      "top": 4.32,
+      "x1": 267.65999999999997,
+      "bottom": 11.879999999999999,
+      "confidence": 95.712273,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "|.",
+      "x0": 124.92,
+      "top": 19.08,
+      "x1": 129.06,
+      "bottom": 27.0,
+      "confidence": 86.756119,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Onus",
+      "x0": 136.44,
+      "top": 18.9,
+      "x1": 161.82,
+      "bottom": 27.18,
+      "confidence": 88.292862,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "to",
+      "x0": 165.42,
+      "top": 19.62,
+      "x1": 174.06,
+      "bottom": 27.18,
+      "confidence": 96.665962,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "prove",
+      "x0": 178.2,
+      "top": 21.06,
+      "x1": 204.66,
+      "bottom": 29.159999999999997,
+      "confidence": 96.53511,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "continuous",
+      "x0": 208.44,
+      "top": 19.08,
+      "x1": 260.82,
+      "bottom": 27.18,
+      "confidence": 96.756699,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "service",
+      "x0": 264.59999999999997,
+      "top": 19.08,
+      "x1": 298.61999999999995,
+      "bottom": 27.18,
+      "confidence": 96.529228,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "for",
+      "x0": 302.21999999999997,
+      "top": 18.9,
+      "x1": 314.99999999999994,
+      "bottom": 27.18,
+      "confidence": 96.285706,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "prescribed",
+      "x0": 318.59999999999997,
+      "top": 19.08,
+      "x1": 368.81999999999994,
+      "bottom": 29.159999999999997,
+      "confidence": 96.676254,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "number",
+      "x0": 373.14,
+      "top": 19.08,
+      "x1": 409.68,
+      "bottom": 27.18,
+      "confidence": 96.450493,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 413.09999999999997,
+      "top": 18.9,
+      "x1": 421.73999999999995,
+      "bottom": 27.18,
+      "confidence": 96.651527,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "days",
+      "x0": 425.34,
+      "top": 19.08,
+      "x1": 447.84,
+      "bottom": 29.339999999999996,
+      "confidence": 96.511368,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "lies",
+      "x0": 451.97999999999996,
+      "top": 19.08,
+      "x1": 467.28,
+      "bottom": 27.18,
+      "confidence": 96.452301,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "on",
+      "x0": 471.06,
+      "top": 21.06,
+      "x1": 482.22,
+      "bottom": 27.18,
+      "confidence": 96.607452,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 486.18,
+      "top": 19.08,
+      "x1": 500.76,
+      "bottom": 27.18,
+      "confidence": 96.45282,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "workman.",
+      "x0": 504.53999999999996,
+      "top": 19.08,
+      "x1": 551.16,
+      "bottom": 27.18,
+      "confidence": 96.172386,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Il.",
+      "x0": 121.86,
+      "top": 34.199999999999996,
+      "x1": 129.06,
+      "bottom": 42.3,
+      "confidence": 69.977272,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 136.07999999999998,
+      "top": 34.199999999999996,
+      "x1": 154.44,
+      "bottom": 42.3,
+      "confidence": 96.542053,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "period",
+      "x0": 159.84,
+      "top": 34.199999999999996,
+      "x1": 189.18,
+      "bottom": 44.459999999999994,
+      "confidence": 96.499413,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 194.57999999999998,
+      "top": 34.199999999999996,
+      "x1": 203.21999999999997,
+      "bottom": 42.3,
+      "confidence": 96.330612,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "continuous",
+      "x0": 208.07999999999998,
+      "top": 34.199999999999996,
+      "x1": 260.46,
+      "bottom": 42.3,
+      "confidence": 96.399284,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "service",
+      "x0": 265.68,
+      "top": 34.199999999999996,
+      "x1": 299.7,
+      "bottom": 42.3,
+      "confidence": 96.869034,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "need",
+      "x0": 305.09999999999997,
+      "top": 34.199999999999996,
+      "x1": 328.31999999999994,
+      "bottom": 42.3,
+      "confidence": 96.823517,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "not",
+      "x0": 333.9,
+      "top": 34.74,
+      "x1": 348.29999999999995,
+      "bottom": 42.300000000000004,
+      "confidence": 96.351616,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "be",
+      "x0": 353.52,
+      "top": 34.199999999999996,
+      "x1": 364.68,
+      "bottom": 42.3,
+      "confidence": 96.248596,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 370.08,
+      "top": 34.199999999999996,
+      "x1": 377.28,
+      "bottom": 42.12,
+      "confidence": 96.225235,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 382.5,
+      "top": 34.199999999999996,
+      "x1": 397.08,
+      "bottom": 42.3,
+      "confidence": 96.59491,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "same",
+      "x0": 402.3,
+      "top": 36.18,
+      "x1": 428.40000000000003,
+      "bottom": 42.3,
+      "confidence": 96.884117,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "service",
+      "x0": 433.44,
+      "top": 34.199999999999996,
+      "x1": 467.64,
+      "bottom": 42.3,
+      "confidence": 96.437637,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "or",
+      "x0": 472.68,
+      "top": 36.18,
+      "x1": 482.04,
+      "bottom": 42.3,
+      "confidence": 96.344841,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "same",
+      "x0": 486.71999999999997,
+      "top": 36.18,
+      "x1": 512.8199999999999,
+      "bottom": 42.3,
+      "confidence": 96.419044,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "type",
+      "x0": 517.86,
+      "top": 34.74,
+      "x1": 538.02,
+      "bottom": 44.46,
+      "confidence": 96.19825,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 543.24,
+      "top": 34.199999999999996,
+      "x1": 551.88,
+      "bottom": 42.3,
+      "confidence": 96.19825,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "service.",
+      "x0": 136.44,
+      "top": 49.5,
+      "x1": 172.98,
+      "bottom": 55.44,
+      "confidence": 96.605736,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Ill.",
+      "x0": 118.8,
+      "top": 62.64,
+      "x1": 129.06,
+      "bottom": 70.56,
+      "confidence": 76.751343,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Worked",
+      "x0": 136.26,
+      "top": 62.64,
+      "x1": 173.33999999999997,
+      "bottom": 70.74,
+      "confidence": 94.495163,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "for",
+      "x0": 177.12,
+      "top": 62.64,
+      "x1": 189.72,
+      "bottom": 70.74,
+      "confidence": 96.493767,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "not",
+      "x0": 193.5,
+      "top": 63.18,
+      "x1": 207.9,
+      "bottom": 70.74,
+      "confidence": 96.853325,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "less",
+      "x0": 211.85999999999999,
+      "top": 62.64,
+      "x1": 230.39999999999998,
+      "bottom": 70.74,
+      "confidence": 96.577339,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "than",
+      "x0": 234.0,
+      "top": 62.64,
+      "x1": 254.52,
+      "bottom": 70.74,
+      "confidence": 96.653816,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "the",
+      "x0": 258.48,
+      "top": 62.64,
+      "x1": 273.06,
+      "bottom": 70.74,
+      "confidence": 96.443542,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "prescribed",
+      "x0": 277.2,
+      "top": 62.64,
+      "x1": 327.41999999999996,
+      "bottom": 72.9,
+      "confidence": 96.269836,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "period",
+      "x0": 331.74,
+      "top": 62.64,
+      "x1": 360.90000000000003,
+      "bottom": 72.9,
+      "confidence": 96.265503,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "does",
+      "x0": 365.03999999999996,
+      "top": 62.64,
+      "x1": 388.08,
+      "bottom": 70.74,
+      "confidence": 96.467537,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "not",
+      "x0": 392.21999999999997,
+      "top": 63.18,
+      "x1": 406.61999999999995,
+      "bottom": 70.74,
+      "confidence": 96.662888,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "include",
+      "x0": 410.58,
+      "top": 62.64,
+      "x1": 444.24,
+      "bottom": 70.74,
+      "confidence": 96.157501,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "paid",
+      "x0": 448.38,
+      "top": 62.64,
+      "x1": 468.0,
+      "bottom": 72.9,
+      "confidence": 96.242363,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "holidays.",
+      "x0": 472.32,
+      "top": 62.64,
+      "x1": 514.26,
+      "bottom": 72.9,
+      "confidence": 96.253067,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Choose",
+      "x0": 117.53999999999999,
+      "top": 80.64,
+      "x1": 154.44,
+      "bottom": 88.92,
+      "confidence": 96.795036,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "the",
+      "x0": 158.04,
+      "top": 80.82,
+      "x1": 172.79999999999998,
+      "bottom": 88.91999999999999,
+      "confidence": 95.898155,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "correct",
+      "x0": 176.57999999999998,
+      "top": 81.36,
+      "x1": 209.7,
+      "bottom": 88.92,
+      "confidence": 96.207199,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "answer",
+      "x0": 213.29999999999998,
+      "top": 82.8,
+      "x1": 248.39999999999998,
+      "bottom": 88.92,
+      "confidence": 96.727127,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "from",
+      "x0": 251.64,
+      "top": 80.82,
+      "x1": 272.88,
+      "bottom": 88.91999999999999,
+      "confidence": 96.857155,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "the",
+      "x0": 276.65999999999997,
+      "top": 80.82,
+      "x1": 291.41999999999996,
+      "bottom": 88.91999999999999,
+      "confidence": 96.824074,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "code",
+      "x0": 295.2,
+      "top": 80.82,
+      "x1": 318.24,
+      "bottom": 88.91999999999999,
+      "confidence": 96.889511,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "given",
+      "x0": 322.2,
+      "top": 80.82,
+      "x1": 347.4,
+      "bottom": 91.25999999999999,
+      "confidence": 96.61615,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "below:",
+      "x0": 351.71999999999997,
+      "top": 80.82,
+      "x1": 381.96,
+      "bottom": 88.91999999999999,
+      "confidence": 96.912552,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(A)",
+      "x0": 116.1,
+      "top": 97.02,
+      "x1": 129.23999999999998,
+      "bottom": 107.46,
+      "confidence": 95.784668,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "|",
+      "x0": 136.98,
+      "top": 97.2,
+      "x1": 138.06,
+      "bottom": 105.12,
+      "confidence": 88.578667,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "and",
+      "x0": 142.56,
+      "top": 97.2,
+      "x1": 159.84,
+      "bottom": 105.3,
+      "confidence": 92.334694,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Il",
+      "x0": 164.51999999999998,
+      "top": 97.2,
+      "x1": 168.65999999999997,
+      "bottom": 105.12,
+      "confidence": 77.655182,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "are",
+      "x0": 173.16,
+      "top": 99.17999999999999,
+      "x1": 188.1,
+      "bottom": 105.3,
+      "confidence": 96.709038,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "correct,",
+      "x0": 192.06,
+      "top": 97.74,
+      "x1": 227.34,
+      "bottom": 106.74,
+      "confidence": 96.270622,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "III",
+      "x0": 232.38,
+      "top": 97.2,
+      "x1": 239.57999999999998,
+      "bottom": 105.12,
+      "confidence": 69.184464,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "is",
+      "x0": 244.26,
+      "top": 97.2,
+      "x1": 251.1,
+      "bottom": 105.3,
+      "confidence": 94.080185,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "incorrect.",
+      "x0": 255.42,
+      "top": 97.2,
+      "x1": 298.97999999999996,
+      "bottom": 105.3,
+      "confidence": 96.103218,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "(B)",
+      "x0": 116.1,
+      "top": 113.58,
+      "x1": 129.23999999999998,
+      "bottom": 123.84,
+      "confidence": 92.985329,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Il",
+      "x0": 136.98,
+      "top": 113.58,
+      "x1": 141.11999999999998,
+      "bottom": 121.5,
+      "confidence": 86.986,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "and",
+      "x0": 145.62,
+      "top": 113.58,
+      "x1": 162.9,
+      "bottom": 121.67999999999999,
+      "confidence": 94.741989,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Ill",
+      "x0": 167.57999999999998,
+      "top": 113.58,
+      "x1": 174.77999999999997,
+      "bottom": 121.5,
+      "confidence": 66.207253,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "are",
+      "x0": 179.28,
+      "top": 115.56,
+      "x1": 194.22,
+      "bottom": 121.68,
+      "confidence": 95.954552,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "correct",
+      "x0": 198.0,
+      "top": 114.11999999999999,
+      "x1": 231.12,
+      "bottom": 121.67999999999999,
+      "confidence": 96.271149,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "and",
+      "x0": 234.89999999999998,
+      "top": 113.58,
+      "x1": 252.17999999999998,
+      "bottom": 121.67999999999999,
+      "confidence": 96.678589,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "|",
+      "x0": 252.72,
+      "top": 112.86,
+      "x1": 256.86,
+      "bottom": 124.56,
+      "confidence": 90.52993,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "is",
+      "x0": 262.62,
+      "top": 113.58,
+      "x1": 269.46,
+      "bottom": 121.67999999999999,
+      "confidence": 94.942085,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "incorrect.",
+      "x0": 273.78,
+      "top": 113.58,
+      "x1": 317.34,
+      "bottom": 121.67999999999999,
+      "confidence": 96.780128,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "(C)",
+      "x0": 115.38,
+      "top": 129.78,
+      "x1": 129.24,
+      "bottom": 140.22,
+      "confidence": 92.117386,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "Il",
+      "x0": 136.98,
+      "top": 130.14,
+      "x1": 141.11999999999998,
+      "bottom": 138.05999999999997,
+      "confidence": 42.609615,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "is",
+      "x0": 145.98,
+      "top": 130.14,
+      "x1": 152.64,
+      "bottom": 138.05999999999997,
+      "confidence": 42.609615,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "correct,",
+      "x0": 156.42,
+      "top": 130.68,
+      "x1": 191.88,
+      "bottom": 139.5,
+      "confidence": 96.674828,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "|",
+      "x0": 196.92,
+      "top": 130.14,
+      "x1": 198.0,
+      "bottom": 138.05999999999997,
+      "confidence": 94.504196,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "and",
+      "x0": 202.5,
+      "top": 130.14,
+      "x1": 219.78,
+      "bottom": 138.05999999999997,
+      "confidence": 96.801964,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "Ill",
+      "x0": 224.45999999999998,
+      "top": 130.14,
+      "x1": 231.65999999999997,
+      "bottom": 138.05999999999997,
+      "confidence": 56.756744,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "are",
+      "x0": 235.98,
+      "top": 132.12,
+      "x1": 251.1,
+      "bottom": 138.06,
+      "confidence": 96.090744,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "incorrect.",
+      "x0": 255.42,
+      "top": 130.14,
+      "x1": 298.97999999999996,
+      "bottom": 138.05999999999997,
+      "confidence": 96.090744,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "(D)",
+      "x0": 115.38,
+      "top": 146.34,
+      "x1": 129.24,
+      "bottom": 156.6,
+      "confidence": 88.349564,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "Only",
+      "x0": 136.44,
+      "top": 146.34,
+      "x1": 158.4,
+      "bottom": 156.78,
+      "confidence": 96.025124,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "|",
+      "x0": 162.72,
+      "top": 146.51999999999998,
+      "x1": 163.8,
+      "bottom": 154.43999999999997,
+      "confidence": 83.997314,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "is",
+      "x0": 168.48,
+      "top": 146.51999999999998,
+      "x1": 175.32,
+      "bottom": 154.43999999999997,
+      "confidence": 84.551804,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "correct,",
+      "x0": 179.1,
+      "top": 147.06,
+      "x1": 214.56,
+      "bottom": 155.88,
+      "confidence": 96.367622,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "Il",
+      "x0": 219.6,
+      "top": 146.51999999999998,
+      "x1": 223.73999999999998,
+      "bottom": 154.43999999999997,
+      "confidence": 62.856644,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "and",
+      "x0": 228.06,
+      "top": 146.51999999999998,
+      "x1": 245.34,
+      "bottom": 154.43999999999997,
+      "confidence": 96.347618,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "III",
+      "x0": 250.01999999999998,
+      "top": 146.51999999999998,
+      "x1": 257.21999999999997,
+      "bottom": 154.43999999999997,
+      "confidence": 54.679489,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "are",
+      "x0": 261.71999999999997,
+      "top": 148.5,
+      "x1": 276.84,
+      "bottom": 154.44,
+      "confidence": 96.779884,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "incorrect.",
+      "x0": 280.97999999999996,
+      "top": 146.51999999999998,
+      "x1": 324.53999999999996,
+      "bottom": 154.43999999999997,
+      "confidence": 96.007675,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

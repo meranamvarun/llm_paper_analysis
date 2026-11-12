@@ -1,0 +1,123 @@
+{
+  "pdf_page": 390,
+  "crop_top": 44.80146000000002,
+  "crop_bottom": 81.60136,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0389:l0046:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "f\\",
+      "bbox": [
+        72.43199999999999,
+        0.0,
+        84.52799999999999,
+        10.943999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "3. Austin",
+      "bbox": [
+        88.27199999999999,
+        4.608,
+        114.192,
+        9.504
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "4",
+      "bbox": [
+        76.752,
+        19.872,
+        80.496,
+        28.368
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "4. Hart",
+      "bbox": [
+        88.128,
+        26.063999999999997,
+        108.43199999999999,
+        30.959999999999997
+      ]
+    }
+  ],
+  "text": "f\\\n3. Austin\n4\n4. Hart",
+  "ocr_words": [
+    {
+      "text": "f\\",
+      "x0": 72.43199999999999,
+      "top": 0.0,
+      "x1": 84.52799999999999,
+      "bottom": 10.943999999999999,
+      "confidence": 52.668701,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "3.",
+      "x0": 88.27199999999999,
+      "top": 4.608,
+      "x1": 93.02399999999999,
+      "bottom": 9.504,
+      "confidence": 96.921867,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Austin",
+      "x0": 95.472,
+      "top": 4.608,
+      "x1": 114.192,
+      "bottom": 9.504,
+      "confidence": 96.118767,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "4",
+      "x0": 76.752,
+      "top": 19.872,
+      "x1": 80.496,
+      "bottom": 28.368,
+      "confidence": 15.384079,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "4.",
+      "x0": 88.128,
+      "top": 26.063999999999997,
+      "x1": 93.024,
+      "bottom": 30.815999999999995,
+      "confidence": 91.187164,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Hart",
+      "x0": 95.904,
+      "top": 26.063999999999997,
+      "x1": 108.43199999999999,
+      "bottom": 30.959999999999997,
+      "confidence": 96.314613,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

@@ -1,0 +1,472 @@
+{
+  "pdf_page": 296,
+  "crop_top": 289.4427999999999,
+  "crop_bottom": 373.16279999999995,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0296:l0012:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "9. Recently, the Supreme Court in Ram-Janmabhumi",
+      "bbox": [
+        46.8,
+        4.68,
+        333.9,
+        15.12
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "case:",
+      "bbox": [
+        337.5,
+        7.739999999999999,
+        360.9,
+        12.959999999999999
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(A) Has ordered mediation by a panel",
+      "bbox": [
+        75.24,
+        22.5,
+        274.68,
+        32.76
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(B) Has declined to decide on the case",
+      "bbox": [
+        75.24,
+        38.16,
+        275.58,
+        48.419999999999995
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(C) Has upheld the Allahabad High Court’s decision",
+      "bbox": [
+        75.24,
+        53.82,
+        348.29999999999995,
+        64.08
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "(D) None of the above",
+      "bbox": [
+        75.24,
+        69.48,
+        193.14,
+        79.74000000000001
+      ]
+    }
+  ],
+  "text": "9. Recently, the Supreme Court in Ram-Janmabhumi\ncase:\n(A) Has ordered mediation by a panel\n(B) Has declined to decide on the case\n(C) Has upheld the Allahabad High Court’s decision\n(D) None of the above",
+  "ocr_words": [
+    {
+      "text": "9.",
+      "x0": 46.8,
+      "top": 5.22,
+      "x1": 54.54,
+      "bottom": 12.959999999999999,
+      "confidence": 89.515816,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Recently,",
+      "x0": 74.88,
+      "top": 4.859999999999999,
+      "x1": 121.13999999999999,
+      "bottom": 15.12,
+      "confidence": 96.203041,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 125.28,
+      "top": 4.859999999999999,
+      "x1": 141.12,
+      "bottom": 12.959999999999999,
+      "confidence": 96.82766,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Supreme",
+      "x0": 145.26,
+      "top": 4.68,
+      "x1": 189.89999999999998,
+      "bottom": 14.94,
+      "confidence": 96.638603,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Court",
+      "x0": 193.85999999999999,
+      "top": 4.68,
+      "x1": 222.29999999999998,
+      "bottom": 13.139999999999999,
+      "confidence": 96.285904,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 225.9,
+      "top": 4.859999999999999,
+      "x1": 235.62,
+      "bottom": 12.959999999999999,
+      "confidence": 92.587151,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ram-Janmabhumi",
+      "x0": 239.04,
+      "top": 4.859999999999999,
+      "x1": 333.9,
+      "bottom": 12.959999999999999,
+      "confidence": 91.863358,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "case:",
+      "x0": 337.5,
+      "top": 7.739999999999999,
+      "x1": 360.9,
+      "bottom": 12.959999999999999,
+      "confidence": 96.977715,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 75.24,
+      "top": 22.5,
+      "x1": 89.1,
+      "bottom": 32.76,
+      "confidence": 91.654121,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Has",
+      "x0": 103.32,
+      "top": 22.68,
+      "x1": 122.94,
+      "bottom": 30.78,
+      "confidence": 86.09507,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "ordered",
+      "x0": 126.72,
+      "top": 22.5,
+      "x1": 165.06,
+      "bottom": 30.78,
+      "confidence": 93.691345,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "mediation",
+      "x0": 168.84,
+      "top": 22.5,
+      "x1": 219.24,
+      "bottom": 30.78,
+      "confidence": 96.227264,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "by",
+      "x0": 222.66,
+      "top": 22.5,
+      "x1": 234.54,
+      "bottom": 32.76,
+      "confidence": 96.625992,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "a",
+      "x0": 238.14,
+      "top": 25.38,
+      "x1": 243.54,
+      "bottom": 30.779999999999998,
+      "confidence": 96.957199,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "panel",
+      "x0": 247.14,
+      "top": 22.5,
+      "x1": 274.68,
+      "bottom": 32.76,
+      "confidence": 96.421967,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(B)",
+      "x0": 75.24,
+      "top": 38.16,
+      "x1": 89.1,
+      "bottom": 48.419999999999995,
+      "confidence": 92.660446,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Has",
+      "x0": 103.32,
+      "top": 38.339999999999996,
+      "x1": 122.94,
+      "bottom": 46.44,
+      "confidence": 90.122841,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "declined",
+      "x0": 126.89999999999999,
+      "top": 38.16,
+      "x1": 168.48,
+      "bottom": 46.44,
+      "confidence": 96.006851,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "to",
+      "x0": 171.9,
+      "top": 39.059999999999995,
+      "x1": 181.08,
+      "bottom": 46.44,
+      "confidence": 95.597755,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "decide",
+      "x0": 185.04,
+      "top": 38.16,
+      "x1": 216.18,
+      "bottom": 46.44,
+      "confidence": 96.33429,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "on",
+      "x0": 219.95999999999998,
+      "top": 41.04,
+      "x1": 231.48,
+      "bottom": 46.44,
+      "confidence": 96.274147,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "the",
+      "x0": 235.07999999999998,
+      "top": 38.16,
+      "x1": 250.92,
+      "bottom": 46.44,
+      "confidence": 96.548897,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "case",
+      "x0": 254.7,
+      "top": 41.04,
+      "x1": 275.58,
+      "bottom": 46.44,
+      "confidence": 96.918549,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(C)",
+      "x0": 75.24,
+      "top": 53.82,
+      "x1": 89.1,
+      "bottom": 64.08,
+      "confidence": 91.132713,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Has",
+      "x0": 103.32,
+      "top": 54.0,
+      "x1": 122.94,
+      "bottom": 62.1,
+      "confidence": 89.838409,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "upheld",
+      "x0": 126.72,
+      "top": 53.82,
+      "x1": 161.28,
+      "bottom": 64.08,
+      "confidence": 94.870514,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "the",
+      "x0": 164.7,
+      "top": 53.82,
+      "x1": 180.54,
+      "bottom": 62.1,
+      "confidence": 94.870514,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Allahabad",
+      "x0": 183.95999999999998,
+      "top": 53.82,
+      "x1": 236.33999999999997,
+      "bottom": 62.1,
+      "confidence": 96.275307,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "High",
+      "x0": 239.94,
+      "top": 53.82,
+      "x1": 264.6,
+      "bottom": 64.08,
+      "confidence": 92.692589,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Court’s",
+      "x0": 268.56,
+      "top": 53.82,
+      "x1": 304.2,
+      "bottom": 62.1,
+      "confidence": 92.318794,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "decision",
+      "x0": 308.15999999999997,
+      "top": 53.82,
+      "x1": 348.29999999999995,
+      "bottom": 62.1,
+      "confidence": 96.590683,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(D)",
+      "x0": 75.24,
+      "top": 69.48,
+      "x1": 89.82,
+      "bottom": 79.74000000000001,
+      "confidence": 89.395363,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "None",
+      "x0": 103.32,
+      "top": 69.66,
+      "x1": 129.23999999999998,
+      "bottom": 77.75999999999999,
+      "confidence": 94.777046,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "of",
+      "x0": 133.2,
+      "top": 69.48,
+      "x1": 142.56,
+      "bottom": 77.76,
+      "confidence": 96.478271,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "the",
+      "x0": 145.07999999999998,
+      "top": 69.48,
+      "x1": 161.1,
+      "bottom": 77.76,
+      "confidence": 96.148033,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "above",
+      "x0": 165.06,
+      "top": 69.48,
+      "x1": 193.14,
+      "bottom": 77.76,
+      "confidence": 96.907555,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

@@ -1,0 +1,713 @@
+{
+  "pdf_page": 300,
+  "crop_top": 251.28279999999995,
+  "crop_bottom": 339.20279999999997,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0300:l0008:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "37. In the case of a work made or first published by or under the direction or control of any",
+      "bbox": [
+        46.943999999999996,
+        4.752,
+        549.9359999999999,
+        14.975999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "public undertaking, shall, in the absence of any agreement to the contrary, be",
+      "bbox": [
+        74.88,
+        20.016,
+        549.7919999999999,
+        30.239999999999995
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "————————",
+      "bbox": [
+        179.712,
+        25.2,
+        245.952,
+        25.776
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "the first of the copyright therein.",
+      "bbox": [
+        74.88,
+        35.135999999999996,
+        274.75199999999995,
+        45.50399999999999
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "owner",
+      "bbox": [
+        118.94399999999999,
+        38.16,
+        149.61599999999999,
+        43.488
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "(A) Government (B) Such public undertaking",
+      "bbox": [
+        75.312,
+        54.431999999999995,
+        455.328,
+        64.65599999999999
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "(C) Both (A) and (B) (D) None of the above",
+      "bbox": [
+        75.312,
+        73.58399999999999,
+        420.19199999999995,
+        83.80799999999999
+      ]
+    }
+  ],
+  "text": "37. In the case of a work made or first published by or under the direction or control of any\npublic undertaking, shall, in the absence of any agreement to the contrary, be\n————————\nthe first of the copyright therein.\nowner\n(A) Government (B) Such public undertaking\n(C) Both (A) and (B) (D) None of the above",
+  "ocr_words": [
+    {
+      "text": "37.",
+      "x0": 46.943999999999996,
+      "top": 5.327999999999999,
+      "x1": 60.623999999999995,
+      "bottom": 13.104,
+      "confidence": 89.340363,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "In",
+      "x0": 75.024,
+      "top": 4.896,
+      "x1": 85.536,
+      "bottom": 12.96,
+      "confidence": 89.340363,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 90.86399999999999,
+      "top": 4.896,
+      "x1": 106.704,
+      "bottom": 13.104,
+      "confidence": 96.212112,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "case",
+      "x0": 112.46399999999998,
+      "top": 7.632,
+      "x1": 133.344,
+      "bottom": 13.104,
+      "confidence": 96.171539,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 139.10399999999998,
+      "top": 4.752,
+      "x1": 148.60799999999998,
+      "bottom": 13.104,
+      "confidence": 96.73317,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 153.35999999999999,
+      "top": 7.632,
+      "x1": 158.688,
+      "bottom": 13.104,
+      "confidence": 96.73317,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "work",
+      "x0": 164.016,
+      "top": 4.896,
+      "x1": 189.072,
+      "bottom": 13.104,
+      "confidence": 96.184006,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "made",
+      "x0": 194.688,
+      "top": 4.896,
+      "x1": 221.47199999999998,
+      "bottom": 13.104,
+      "confidence": 95.942795,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "or",
+      "x0": 227.23199999999997,
+      "top": 7.632,
+      "x1": 237.16799999999998,
+      "bottom": 13.104,
+      "confidence": 96.121368,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "first",
+      "x0": 242.35199999999998,
+      "top": 4.752,
+      "x1": 263.23199999999997,
+      "bottom": 13.104,
+      "confidence": 96.075844,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "published",
+      "x0": 268.84799999999996,
+      "top": 4.752,
+      "x1": 317.95199999999994,
+      "bottom": 14.975999999999999,
+      "confidence": 96.075844,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "by",
+      "x0": 323.13599999999997,
+      "top": 4.896,
+      "x1": 335.08799999999997,
+      "bottom": 14.975999999999999,
+      "confidence": 96.994606,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "or",
+      "x0": 340.416,
+      "top": 7.632,
+      "x1": 350.20799999999997,
+      "bottom": 13.104,
+      "confidence": 96.927544,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "under",
+      "x0": 355.67999999999995,
+      "top": 4.896,
+      "x1": 385.34399999999994,
+      "bottom": 13.104,
+      "confidence": 95.213104,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 390.816,
+      "top": 4.896,
+      "x1": 406.51199999999994,
+      "bottom": 13.104,
+      "confidence": 96.798088,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "direction",
+      "x0": 412.416,
+      "top": 4.752,
+      "x1": 456.768,
+      "bottom": 13.104,
+      "confidence": 95.970726,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "or",
+      "x0": 462.23999999999995,
+      "top": 7.632,
+      "x1": 472.0319999999999,
+      "bottom": 13.104,
+      "confidence": 96.647835,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "control",
+      "x0": 477.35999999999996,
+      "top": 4.896,
+      "x1": 512.064,
+      "bottom": 13.104,
+      "confidence": 96.006531,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 517.68,
+      "top": 4.752,
+      "x1": 527.184,
+      "bottom": 13.104,
+      "confidence": 96.006531,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "any",
+      "x0": 531.9359999999999,
+      "top": 7.632,
+      "x1": 549.9359999999999,
+      "bottom": 14.975999999999999,
+      "confidence": 96.454773,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "public",
+      "x0": 74.88,
+      "top": 20.016,
+      "x1": 105.264,
+      "bottom": 30.239999999999995,
+      "confidence": 96.003052,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "undertaking,",
+      "x0": 109.87199999999999,
+      "top": 20.016,
+      "x1": 174.95999999999998,
+      "bottom": 30.239999999999995,
+      "confidence": 93.29631,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "————————",
+      "x0": 179.712,
+      "top": 25.2,
+      "x1": 245.952,
+      "bottom": 25.776,
+      "confidence": 72.630234,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "shall,",
+      "x0": 250.41599999999997,
+      "top": 20.016,
+      "x1": 276.912,
+      "bottom": 29.951999999999998,
+      "confidence": 96.090508,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "in",
+      "x0": 281.952,
+      "top": 20.016,
+      "x1": 291.74399999999997,
+      "bottom": 28.08,
+      "confidence": 86.099373,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 296.20799999999997,
+      "top": 20.016,
+      "x1": 312.04799999999994,
+      "bottom": 28.223999999999997,
+      "confidence": 96.068512,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "absence",
+      "x0": 316.79999999999995,
+      "top": 20.016,
+      "x1": 355.96799999999996,
+      "bottom": 28.223999999999997,
+      "confidence": 96.656731,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 360.71999999999997,
+      "top": 20.016,
+      "x1": 370.08,
+      "bottom": 28.223999999999997,
+      "confidence": 96.512383,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "any",
+      "x0": 373.96799999999996,
+      "top": 22.895999999999997,
+      "x1": 391.96799999999996,
+      "bottom": 30.239999999999995,
+      "confidence": 96.984848,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "agreement",
+      "x0": 396.57599999999996,
+      "top": 21.023999999999997,
+      "x1": 449.99999999999994,
+      "bottom": 30.239999999999995,
+      "confidence": 96.153397,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "to",
+      "x0": 454.46399999999994,
+      "top": 21.023999999999997,
+      "x1": 463.67999999999995,
+      "bottom": 28.223999999999997,
+      "confidence": 96.595078,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 468.28799999999995,
+      "top": 20.016,
+      "x1": 484.27199999999993,
+      "bottom": 28.223999999999997,
+      "confidence": 96.130325,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "contrary,",
+      "x0": 488.87999999999994,
+      "top": 21.023999999999997,
+      "x1": 533.9519999999999,
+      "bottom": 30.239999999999995,
+      "confidence": 96.540741,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "be",
+      "x0": 538.848,
+      "top": 20.016,
+      "x1": 549.7919999999999,
+      "bottom": 28.223999999999997,
+      "confidence": 96.656326,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 74.88,
+      "top": 35.279999999999994,
+      "x1": 90.72,
+      "bottom": 43.48799999999999,
+      "confidence": 96.591446,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "first",
+      "x0": 94.464,
+      "top": 35.135999999999996,
+      "x1": 115.344,
+      "bottom": 43.48799999999999,
+      "confidence": 96.337135,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "owner",
+      "x0": 118.94399999999999,
+      "top": 38.16,
+      "x1": 149.61599999999999,
+      "bottom": 43.488,
+      "confidence": 96.745827,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 153.21599999999998,
+      "top": 35.135999999999996,
+      "x1": 162.71999999999997,
+      "bottom": 43.48799999999999,
+      "confidence": 96.748581,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "the",
+      "x0": 165.31199999999998,
+      "top": 35.279999999999994,
+      "x1": 181.152,
+      "bottom": 43.48799999999999,
+      "confidence": 96.637413,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "copyright",
+      "x0": 184.896,
+      "top": 35.279999999999994,
+      "x1": 232.272,
+      "bottom": 45.50399999999999,
+      "confidence": 96.360352,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "therein.",
+      "x0": 235.72799999999998,
+      "top": 35.279999999999994,
+      "x1": 274.75199999999995,
+      "bottom": 43.48799999999999,
+      "confidence": 96.123878,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(A)",
+      "x0": 75.312,
+      "top": 54.431999999999995,
+      "x1": 89.136,
+      "bottom": 64.65599999999999,
+      "confidence": 94.583176,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Government",
+      "x0": 103.392,
+      "top": 54.431999999999995,
+      "x1": 166.03199999999998,
+      "bottom": 62.78399999999999,
+      "confidence": 94.840645,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(B)",
+      "x0": 302.11199999999997,
+      "top": 54.431999999999995,
+      "x1": 316.08,
+      "bottom": 64.65599999999999,
+      "confidence": 92.158859,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Such",
+      "x0": 330.62399999999997,
+      "top": 54.431999999999995,
+      "x1": 354.96,
+      "bottom": 62.78399999999999,
+      "confidence": 96.361183,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "public",
+      "x0": 358.70399999999995,
+      "top": 54.431999999999995,
+      "x1": 388.94399999999996,
+      "bottom": 64.65599999999999,
+      "confidence": 96.094872,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "undertaking",
+      "x0": 392.544,
+      "top": 54.431999999999995,
+      "x1": 455.328,
+      "bottom": 64.65599999999999,
+      "confidence": 96.105774,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(C)",
+      "x0": 75.312,
+      "top": 73.58399999999999,
+      "x1": 89.136,
+      "bottom": 83.80799999999999,
+      "confidence": 91.467041,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Both",
+      "x0": 103.392,
+      "top": 73.728,
+      "x1": 127.15199999999999,
+      "bottom": 81.93599999999999,
+      "confidence": 76.492477,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(A)",
+      "x0": 131.184,
+      "top": 73.58399999999999,
+      "x1": 145.00799999999998,
+      "bottom": 83.80799999999999,
+      "confidence": 96.187187,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "and",
+      "x0": 149.32799999999997,
+      "top": 73.728,
+      "x1": 167.75999999999996,
+      "bottom": 81.93599999999999,
+      "confidence": 93.278503,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(B)",
+      "x0": 171.79199999999997,
+      "top": 73.728,
+      "x1": 185.47199999999998,
+      "bottom": 83.80799999999999,
+      "confidence": 86.67556,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(D)",
+      "x0": 302.11199999999997,
+      "top": 73.728,
+      "x1": 316.65599999999995,
+      "bottom": 83.80799999999999,
+      "confidence": 91.410431,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "None",
+      "x0": 330.33599999999996,
+      "top": 73.728,
+      "x1": 356.256,
+      "bottom": 81.93599999999999,
+      "confidence": 88.814987,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 360.14399999999995,
+      "top": 73.58399999999999,
+      "x1": 369.64799999999997,
+      "bottom": 81.93599999999999,
+      "confidence": 96.26358,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 372.23999999999995,
+      "top": 73.728,
+      "x1": 388.0799999999999,
+      "bottom": 81.93599999999999,
+      "confidence": 96.450439,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "above",
+      "x0": 392.11199999999997,
+      "top": 73.728,
+      "x1": 420.19199999999995,
+      "bottom": 81.93599999999999,
+      "confidence": 96.450439,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

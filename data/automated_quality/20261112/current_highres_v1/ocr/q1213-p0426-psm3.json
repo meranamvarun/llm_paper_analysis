@@ -1,0 +1,931 @@
+{
+  "pdf_page": 426,
+  "crop_top": 292.4,
+  "crop_bottom": 410.56,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0426:l0020:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Question Number : 119 Question Id : 461139491 Question Type : MCQ Option Shuffling : Yes Display Question Number : Yes",
+      "bbox": [
+        37.872,
+        4.032,
+        553.824,
+        12.384
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Single Line Question Option : No Option Orientation : Vertical",
+      "bbox": [
+        37.872,
+        13.392,
+        293.328,
+        21.744
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "Correct: 1 Wrong : 0.25",
+      "bbox": [
+        37.872,
+        26.639999999999997,
+        138.096,
+        34.848
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "4 finds B’s purse and gives it to him. B promises to give A Rs. 50.",
+      "bbox": [
+        37.583999999999996,
+        39.168,
+        350.928,
+        49.391999999999996
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "Options :",
+      "bbox": [
+        37.872,
+        56.303999999999995,
+        73.87199999999999,
+        64.512
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "1. @ This is valid contract",
+      "bbox": [
+        39.023999999999994,
+        68.832,
+        172.65599999999998,
+        78.33599999999998
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "a",
+      "bbox": [
+        98.63999999999999,
+        72.43199999999999,
+        103.67999999999999,
+        78.33599999999998
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "2. ® This is void contract",
+      "bbox": [
+        38.303999999999995,
+        86.832,
+        161.136,
+        96.192
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "3. * This is yoidable contract",
+      "bbox": [
+        38.303999999999995,
+        104.68799999999999,
+        189.93599999999998,
+        114.192
+      ]
+    },
+    {
+      "line_id": "l0009",
+      "text": "a",
+      "bbox": [
+        98.63999999999999,
+        108.288,
+        103.67999999999999,
+        114.192
+      ]
+    }
+  ],
+  "text": "Question Number : 119 Question Id : 461139491 Question Type : MCQ Option Shuffling : Yes Display Question Number : Yes\nSingle Line Question Option : No Option Orientation : Vertical\nCorrect: 1 Wrong : 0.25\n4 finds B’s purse and gives it to him. B promises to give A Rs. 50.\nOptions :\n1. @ This is valid contract\na\n2. ® This is void contract\n3. * This is yoidable contract\na",
+  "ocr_words": [
+    {
+      "text": "Question",
+      "x0": 37.872,
+      "top": 4.032,
+      "x1": 73.15199999999999,
+      "bottom": 12.096,
+      "confidence": 96.425545,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Number",
+      "x0": 75.88799999999999,
+      "top": 4.175999999999999,
+      "x1": 109.15199999999999,
+      "bottom": 10.511999999999999,
+      "confidence": 92.98896,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 112.32,
+      "top": 5.904,
+      "x1": 113.75999999999999,
+      "bottom": 10.512,
+      "confidence": 92.853233,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "119",
+      "x0": 117.93599999999999,
+      "top": 4.032,
+      "x1": 130.896,
+      "bottom": 10.512,
+      "confidence": 96.766029,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Question",
+      "x0": 136.368,
+      "top": 4.032,
+      "x1": 171.648,
+      "bottom": 12.096,
+      "confidence": 96.12793,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Id",
+      "x0": 174.528,
+      "top": 4.175999999999999,
+      "x1": 182.88,
+      "bottom": 10.511999999999999,
+      "confidence": 90.828209,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 186.33599999999998,
+      "top": 5.904,
+      "x1": 187.77599999999998,
+      "bottom": 10.512,
+      "confidence": 86.491669,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "461139491",
+      "x0": 191.232,
+      "top": 4.032,
+      "x1": 232.704,
+      "bottom": 10.512,
+      "confidence": 96.09211,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Question",
+      "x0": 238.46399999999997,
+      "top": 4.032,
+      "x1": 273.74399999999997,
+      "bottom": 12.096,
+      "confidence": 95.767349,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Type",
+      "x0": 276.912,
+      "top": 4.175999999999999,
+      "x1": 296.496,
+      "bottom": 12.384,
+      "confidence": 83.03212,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 300.96,
+      "top": 5.904,
+      "x1": 301.536,
+      "bottom": 10.512,
+      "confidence": 83.03212,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "MCQ",
+      "x0": 304.99199999999996,
+      "top": 4.032,
+      "x1": 327.31199999999995,
+      "bottom": 12.096,
+      "confidence": 90.093185,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Option",
+      "x0": 332.784,
+      "top": 4.032,
+      "x1": 360.288,
+      "bottom": 12.383999999999999,
+      "confidence": 92.69416,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Shuffling",
+      "x0": 363.45599999999996,
+      "top": 4.032,
+      "x1": 399.74399999999997,
+      "bottom": 12.383999999999999,
+      "confidence": 88.648705,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 403.2,
+      "top": 5.904,
+      "x1": 404.64,
+      "bottom": 10.512,
+      "confidence": 89.137093,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Yes",
+      "x0": 408.09599999999995,
+      "top": 4.175999999999999,
+      "x1": 422.20799999999997,
+      "bottom": 10.511999999999999,
+      "confidence": 96.657921,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Display",
+      "x0": 427.392,
+      "top": 4.032,
+      "x1": 457.344,
+      "bottom": 12.383999999999999,
+      "confidence": 96.394691,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Question",
+      "x0": 460.36799999999994,
+      "top": 4.032,
+      "x1": 495.6479999999999,
+      "bottom": 12.096,
+      "confidence": 96.205925,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Number",
+      "x0": 498.38399999999996,
+      "top": 4.175999999999999,
+      "x1": 531.6479999999999,
+      "bottom": 10.511999999999999,
+      "confidence": 93.20787,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 534.8159999999999,
+      "top": 5.904,
+      "x1": 536.256,
+      "bottom": 10.512,
+      "confidence": 90.857773,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Yes",
+      "x0": 539.712,
+      "top": 4.175999999999999,
+      "x1": 553.824,
+      "bottom": 10.511999999999999,
+      "confidence": 95.939911,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Single",
+      "x0": 37.872,
+      "top": 13.392,
+      "x1": 61.632,
+      "bottom": 21.744,
+      "confidence": 96.381859,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Line",
+      "x0": 64.368,
+      "top": 13.392,
+      "x1": 82.368,
+      "bottom": 19.872,
+      "confidence": 95.210312,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Question",
+      "x0": 85.392,
+      "top": 13.392,
+      "x1": 120.672,
+      "bottom": 21.456,
+      "confidence": 95.210312,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Option",
+      "x0": 123.83999999999999,
+      "top": 13.392,
+      "x1": 151.2,
+      "bottom": 21.744,
+      "confidence": 92.860863,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": ":",
+      "x0": 155.37599999999998,
+      "top": 15.264,
+      "x1": 156.09599999999998,
+      "bottom": 19.872,
+      "confidence": 92.835464,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "No",
+      "x0": 159.552,
+      "top": 13.536,
+      "x1": 170.64,
+      "bottom": 19.872,
+      "confidence": 96.436874,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Option",
+      "x0": 176.112,
+      "top": 13.392,
+      "x1": 203.61599999999999,
+      "bottom": 21.744,
+      "confidence": 96.436874,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Orientation",
+      "x0": 206.64,
+      "top": 13.392,
+      "x1": 252.86399999999998,
+      "bottom": 19.872,
+      "confidence": 93.033646,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": ":",
+      "x0": 256.32,
+      "top": 15.264,
+      "x1": 257.76,
+      "bottom": 19.872,
+      "confidence": 92.625671,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Vertical",
+      "x0": 261.216,
+      "top": 13.392,
+      "x1": 293.328,
+      "bottom": 19.872,
+      "confidence": 96.351891,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Correct:",
+      "x0": 37.872,
+      "top": 26.639999999999997,
+      "x1": 73.29599999999999,
+      "bottom": 33.12,
+      "confidence": 66.748123,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1",
+      "x0": 77.32799999999999,
+      "top": 26.639999999999997,
+      "x1": 80.496,
+      "bottom": 32.976,
+      "confidence": 92.466362,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Wrong",
+      "x0": 86.112,
+      "top": 26.784,
+      "x1": 113.904,
+      "bottom": 34.848,
+      "confidence": 90.489502,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 117.35999999999999,
+      "top": 28.511999999999997,
+      "x1": 118.79999999999998,
+      "bottom": 33.12,
+      "confidence": 88.906471,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "0.25",
+      "x0": 122.39999999999999,
+      "top": 26.639999999999997,
+      "x1": 138.096,
+      "bottom": 33.12,
+      "confidence": 94.20047,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "4",
+      "x0": 37.583999999999996,
+      "top": 39.888,
+      "x1": 44.06399999999999,
+      "bottom": 47.087999999999994,
+      "confidence": 86.107262,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "finds",
+      "x0": 48.38399999999999,
+      "top": 39.168,
+      "x1": 72.14399999999999,
+      "bottom": 47.088,
+      "confidence": 93.270142,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "B’s",
+      "x0": 75.6,
+      "top": 39.888,
+      "x1": 89.28,
+      "bottom": 47.087999999999994,
+      "confidence": 86.692001,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "purse",
+      "x0": 92.88,
+      "top": 41.327999999999996,
+      "x1": 119.52,
+      "bottom": 49.391999999999996,
+      "confidence": 96.148293,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 123.11999999999999,
+      "top": 39.888,
+      "x1": 141.12,
+      "bottom": 47.087999999999994,
+      "confidence": 95.985344,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "gives",
+      "x0": 144.72,
+      "top": 39.888,
+      "x1": 168.336,
+      "bottom": 49.391999999999996,
+      "confidence": 96.530495,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "it",
+      "x0": 171.93599999999998,
+      "top": 39.888,
+      "x1": 177.69599999999997,
+      "bottom": 47.087999999999994,
+      "confidence": 96.223854,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 181.296,
+      "top": 40.608,
+      "x1": 189.93599999999998,
+      "bottom": 47.087999999999994,
+      "confidence": 95.275696,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "him.",
+      "x0": 193.53599999999997,
+      "top": 39.888,
+      "x1": 213.69599999999997,
+      "bottom": 47.087999999999994,
+      "confidence": 92.816879,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "B",
+      "x0": 218.016,
+      "top": 39.888,
+      "x1": 223.77599999999998,
+      "bottom": 47.087999999999994,
+      "confidence": 92.945969,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "promises",
+      "x0": 227.37599999999998,
+      "top": 39.888,
+      "x1": 270.43199999999996,
+      "bottom": 49.391999999999996,
+      "confidence": 92.732704,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 274.032,
+      "top": 40.608,
+      "x1": 282.67199999999997,
+      "bottom": 47.087999999999994,
+      "confidence": 96.377617,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "give",
+      "x0": 286.272,
+      "top": 39.888,
+      "x1": 304.99199999999996,
+      "bottom": 49.391999999999996,
+      "confidence": 96.259277,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A",
+      "x0": 308.448,
+      "top": 39.888,
+      "x1": 314.928,
+      "bottom": 47.087999999999994,
+      "confidence": 95.859459,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Rs.",
+      "x0": 318.52799999999996,
+      "top": 39.888,
+      "x1": 332.20799999999997,
+      "bottom": 47.087999999999994,
+      "confidence": 93.741783,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "50.",
+      "x0": 337.248,
+      "top": 39.888,
+      "x1": 350.928,
+      "bottom": 47.087999999999994,
+      "confidence": 95.185692,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Options",
+      "x0": 37.872,
+      "top": 56.303999999999995,
+      "x1": 68.832,
+      "bottom": 64.512,
+      "confidence": 93.211594,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": ":",
+      "x0": 72.43199999999999,
+      "top": 58.175999999999995,
+      "x1": 73.87199999999999,
+      "bottom": 62.78399999999999,
+      "confidence": 93.201317,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 39.023999999999994,
+      "top": 70.99199999999999,
+      "x1": 45.50399999999999,
+      "bottom": 78.33599999999998,
+      "confidence": 87.637978,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "@",
+      "x0": 54.288,
+      "top": 68.832,
+      "x1": 58.608,
+      "bottom": 76.89599999999999,
+      "confidence": 37.740013,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "This",
+      "x0": 64.22399999999999,
+      "top": 70.99199999999999,
+      "x1": 84.23999999999998,
+      "bottom": 78.33599999999998,
+      "confidence": 85.824562,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 87.83999999999999,
+      "top": 70.99199999999999,
+      "x1": 95.03999999999999,
+      "bottom": 78.33599999999998,
+      "confidence": 85.824562,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 98.63999999999999,
+      "top": 72.43199999999999,
+      "x1": 103.67999999999999,
+      "bottom": 78.33599999999998,
+      "confidence": 92.830864,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "valid",
+      "x0": 107.27999999999999,
+      "top": 70.99199999999999,
+      "x1": 130.32,
+      "bottom": 78.33599999999998,
+      "confidence": 93.49575,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "contract",
+      "x0": 133.92,
+      "top": 71.71199999999999,
+      "x1": 172.65599999999998,
+      "bottom": 78.33599999999998,
+      "confidence": 96.012924,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2.",
+      "x0": 38.303999999999995,
+      "top": 88.99199999999999,
+      "x1": 45.50399999999999,
+      "bottom": 96.192,
+      "confidence": 82.824883,
+      "ocr_block": "2",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "®",
+      "x0": 51.983999999999995,
+      "top": 86.832,
+      "x1": 58.46399999999999,
+      "bottom": 93.312,
+      "confidence": 11.320107,
+      "ocr_block": "2",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "This",
+      "x0": 64.22399999999999,
+      "top": 88.99199999999999,
+      "x1": 84.23999999999998,
+      "bottom": 96.192,
+      "confidence": 91.465668,
+      "ocr_block": "2",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 87.83999999999999,
+      "top": 88.99199999999999,
+      "x1": 95.03999999999999,
+      "bottom": 96.192,
+      "confidence": 91.465668,
+      "ocr_block": "2",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "void",
+      "x0": 98.63999999999999,
+      "top": 88.99199999999999,
+      "x1": 118.79999999999998,
+      "bottom": 96.192,
+      "confidence": 70.751892,
+      "ocr_block": "2",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "contract",
+      "x0": 122.39999999999999,
+      "top": 89.71199999999999,
+      "x1": 161.136,
+      "bottom": 96.192,
+      "confidence": 96.447708,
+      "ocr_block": "2",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "3.",
+      "x0": 38.303999999999995,
+      "top": 106.848,
+      "x1": 45.50399999999999,
+      "bottom": 114.192,
+      "confidence": 65.756607,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "*",
+      "x0": 51.983999999999995,
+      "top": 104.68799999999999,
+      "x1": 58.46399999999999,
+      "bottom": 111.31199999999998,
+      "confidence": 40.551952,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "This",
+      "x0": 64.22399999999999,
+      "top": 106.848,
+      "x1": 84.23999999999998,
+      "bottom": 114.192,
+      "confidence": 59.005451,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 87.83999999999999,
+      "top": 106.848,
+      "x1": 95.03999999999999,
+      "bottom": 114.192,
+      "confidence": 59.005451,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 98.63999999999999,
+      "top": 108.288,
+      "x1": 103.67999999999999,
+      "bottom": 114.192,
+      "confidence": 77.565468,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "yoidable",
+      "x0": 107.27999999999999,
+      "top": 106.848,
+      "x1": 147.6,
+      "bottom": 114.192,
+      "confidence": 53.47226,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "contract",
+      "x0": 151.05599999999998,
+      "top": 107.568,
+      "x1": 189.93599999999998,
+      "bottom": 114.192,
+      "confidence": 96.385567,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

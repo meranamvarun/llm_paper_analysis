@@ -1,0 +1,331 @@
+{
+  "pdf_page": 402,
+  "crop_top": 10.399999999999999,
+  "crop_bottom": 94.24,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0401:l0046:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Options :",
+      "bbox": [
+        37.8,
+        3.96,
+        73.8,
+        12.239999999999998
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "1. ® Blection Cormmission of India",
+      "bbox": [
+        39.059999999999995,
+        16.56,
+        204.29999999999998,
+        26.1
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "2. ® Union Public Service Commission",
+      "bbox": [
+        38.339999999999996,
+        34.56,
+        223.74,
+        43.92
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "3. ® Comptroller and Auditor General",
+      "bbox": [
+        38.339999999999996,
+        52.559999999999995,
+        221.57999999999998,
+        64.25999999999999
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "4. @ Finance Commission",
+      "bbox": [
+        38.339999999999996,
+        70.38,
+        163.44,
+        79.91999999999999
+      ]
+    }
+  ],
+  "text": "Options :\n1. ® Blection Cormmission of India\n2. ® Union Public Service Commission\n3. ® Comptroller and Auditor General\n4. @ Finance Commission",
+  "ocr_words": [
+    {
+      "text": "Options",
+      "x0": 37.8,
+      "top": 3.96,
+      "x1": 68.94,
+      "bottom": 12.239999999999998,
+      "confidence": 93.149933,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 72.53999999999999,
+      "top": 5.9399999999999995,
+      "x1": 73.8,
+      "bottom": 10.44,
+      "confidence": 89.422379,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1.",
+      "x0": 39.059999999999995,
+      "top": 18.72,
+      "x1": 45.53999999999999,
+      "bottom": 26.099999999999998,
+      "confidence": 85.856834,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "®",
+      "x0": 52.019999999999996,
+      "top": 16.56,
+      "x1": 58.49999999999999,
+      "bottom": 23.22,
+      "confidence": 71.705444,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Blection",
+      "x0": 64.25999999999999,
+      "top": 18.72,
+      "x1": 100.79999999999998,
+      "bottom": 26.099999999999998,
+      "confidence": 15.665733,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Cormmission",
+      "x0": 104.39999999999999,
+      "top": 18.72,
+      "x1": 163.44,
+      "bottom": 26.099999999999998,
+      "confidence": 54.070721,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 167.04,
+      "top": 18.0,
+      "x1": 176.94,
+      "bottom": 26.1,
+      "confidence": 96.119843,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "India",
+      "x0": 179.82,
+      "top": 18.72,
+      "x1": 204.29999999999998,
+      "bottom": 26.099999999999998,
+      "confidence": 94.48732,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2.",
+      "x0": 38.339999999999996,
+      "top": 36.72,
+      "x1": 45.53999999999999,
+      "bottom": 43.92,
+      "confidence": 89.125191,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "®",
+      "x0": 52.019999999999996,
+      "top": 34.56,
+      "x1": 58.49999999999999,
+      "bottom": 41.04,
+      "confidence": 85.470932,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Union",
+      "x0": 64.25999999999999,
+      "top": 36.72,
+      "x1": 92.16,
+      "bottom": 43.92,
+      "confidence": 95.555779,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Public",
+      "x0": 95.75999999999999,
+      "top": 36.72,
+      "x1": 124.55999999999999,
+      "bottom": 43.92,
+      "confidence": 79.53418,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Service",
+      "x0": 128.88,
+      "top": 36.72,
+      "x1": 161.28,
+      "bottom": 43.92,
+      "confidence": 95.668877,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Commission",
+      "x0": 164.88,
+      "top": 36.72,
+      "x1": 223.74,
+      "bottom": 43.92,
+      "confidence": 95.234871,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "3.",
+      "x0": 38.339999999999996,
+      "top": 54.72,
+      "x1": 45.53999999999999,
+      "bottom": 61.92,
+      "confidence": 87.106339,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "®",
+      "x0": 52.019999999999996,
+      "top": 52.559999999999995,
+      "x1": 58.49999999999999,
+      "bottom": 59.03999999999999,
+      "confidence": 69.871727,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Comptroller",
+      "x0": 64.25999999999999,
+      "top": 54.72,
+      "x1": 120.95999999999998,
+      "bottom": 64.25999999999999,
+      "confidence": 94.386078,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "and",
+      "x0": 124.56,
+      "top": 54.72,
+      "x1": 142.56,
+      "bottom": 61.92,
+      "confidence": 94.386078,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Auditor",
+      "x0": 146.16,
+      "top": 54.72,
+      "x1": 181.98,
+      "bottom": 61.92,
+      "confidence": 91.149582,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "General",
+      "x0": 185.57999999999998,
+      "top": 54.72,
+      "x1": 221.57999999999998,
+      "bottom": 61.92,
+      "confidence": 96.489143,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "4.",
+      "x0": 38.339999999999996,
+      "top": 72.53999999999999,
+      "x1": 45.53999999999999,
+      "bottom": 79.91999999999999,
+      "confidence": 72.508194,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "3"
+    },
+    {
+      "text": "@",
+      "x0": 54.18,
+      "top": 70.38,
+      "x1": 58.86,
+      "bottom": 78.47999999999999,
+      "confidence": 51.597614,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Finance",
+      "x0": 64.25999999999999,
+      "top": 72.53999999999999,
+      "x1": 100.79999999999998,
+      "bottom": 79.91999999999999,
+      "confidence": 95.871078,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Commission",
+      "x0": 104.39999999999999,
+      "top": 72.53999999999999,
+      "x1": 163.44,
+      "bottom": 79.91999999999999,
+      "confidence": 95.395409,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "3"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

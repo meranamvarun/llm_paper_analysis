@@ -1,0 +1,70 @@
+{
+  "pdf_page": 397,
+  "crop_top": 44.80146000000002,
+  "crop_bottom": 60.24145999999996,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0396:l0045:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "f\\",
+      "bbox": [
+        73.08,
+        0.0,
+        84.6,
+        7.02
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "4. Singer",
+      "bbox": [
+        88.02,
+        4.68,
+        114.12,
+        10.98
+      ]
+    }
+  ],
+  "text": "f\\\n4. Singer",
+  "ocr_words": [
+    {
+      "text": "f\\",
+      "x0": 73.08,
+      "top": 0.0,
+      "x1": 84.6,
+      "bottom": 7.02,
+      "confidence": 28.10807,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "4.",
+      "x0": 88.02,
+      "top": 4.859999999999999,
+      "x1": 93.06,
+      "bottom": 9.54,
+      "confidence": 96.249199,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Singer",
+      "x0": 95.58,
+      "top": 4.68,
+      "x1": 114.12,
+      "bottom": 10.98,
+      "confidence": 96.249199,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

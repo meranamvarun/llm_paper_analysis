@@ -1,0 +1,987 @@
+{
+  "pdf_page": 159,
+  "crop_top": 93.90800000000002,
+  "crop_bottom": 216.91899999999998,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0159:l0001:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "40. The rationale of the Factories Act, 1948 in providing double the wage rate for periods",
+      "bbox": [
+        96.336,
+        4.4639999999999995,
+        527.472,
+        14.831999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "of overtime work is based on:",
+      "bbox": [
+        117.35999999999999,
+        16.56,
+        263.808,
+        24.768
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "1. Compensating the worker for the extra strain on their health in doing overtime",
+      "bbox": [
+        123.69599999999998,
+        32.544,
+        527.616,
+        42.767999999999994
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "work.",
+      "bbox": [
+        136.224,
+        44.63999999999999,
+        163.584,
+        52.84799999999999
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "u. Enabling the worker to maintain standard of health and stamina.",
+      "bbox": [
+        120.24,
+        60.48,
+        505.87199999999996,
+        70.848
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "proper",
+      "bbox": [
+        306.864,
+        63.504,
+        339.69599999999997,
+        70.704
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "11. Protecting the worker against exploitation.",
+      "bbox": [
+        116.78399999999999,
+        76.60799999999999,
+        353.664,
+        86.832
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "(A) 1,11, and 111 are correct (B) Only 1 and 111 are correct",
+      "bbox": [
+        115.48799999999999,
+        92.592,
+        451.008,
+        102.816
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "(C) Only 11 is correct (D) Only 11 and 111 are correct",
+      "bbox": [
+        115.48799999999999,
+        108.576,
+        454.46399999999994,
+        118.8
+      ]
+    }
+  ],
+  "text": "40. The rationale of the Factories Act, 1948 in providing double the wage rate for periods\nof overtime work is based on:\n1. Compensating the worker for the extra strain on their health in doing overtime\nwork.\nu. Enabling the worker to maintain standard of health and stamina.\nproper\n11. Protecting the worker against exploitation.\n(A) 1,11, and 111 are correct (B) Only 1 and 111 are correct\n(C) Only 11 is correct (D) Only 11 and 111 are correct",
+  "ocr_words": [
+    {
+      "text": "40.",
+      "x0": 96.336,
+      "top": 5.04,
+      "x1": 110.16,
+      "bottom": 12.815999999999999,
+      "confidence": 96.418388,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 117.35999999999999,
+      "top": 4.608,
+      "x1": 135.93599999999998,
+      "bottom": 12.815999999999999,
+      "confidence": 96.285652,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "rationale",
+      "x0": 138.672,
+      "top": 4.608,
+      "x1": 183.168,
+      "bottom": 12.815999999999999,
+      "confidence": 94.484596,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 186.04799999999997,
+      "top": 4.4639999999999995,
+      "x1": 195.40799999999996,
+      "bottom": 12.815999999999999,
+      "confidence": 96.519035,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 196.992,
+      "top": 4.608,
+      "x1": 212.688,
+      "bottom": 12.815999999999999,
+      "confidence": 96.657127,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Factories",
+      "x0": 215.136,
+      "top": 4.752,
+      "x1": 260.06399999999996,
+      "bottom": 12.815999999999999,
+      "confidence": 91.890701,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Act,",
+      "x0": 262.08,
+      "top": 4.752,
+      "x1": 280.656,
+      "bottom": 14.256,
+      "confidence": 95.893784,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1948",
+      "x0": 290.592,
+      "top": 5.04,
+      "x1": 308.15999999999997,
+      "bottom": 12.815999999999999,
+      "confidence": 86.646927,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 310.32,
+      "top": 4.608,
+      "x1": 319.824,
+      "bottom": 12.672,
+      "confidence": 93.137405,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "providing",
+      "x0": 322.56,
+      "top": 4.608,
+      "x1": 369.648,
+      "bottom": 14.831999999999997,
+      "confidence": 96.498665,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "double",
+      "x0": 372.38399999999996,
+      "top": 4.608,
+      "x1": 404.496,
+      "bottom": 12.815999999999999,
+      "confidence": 95.946991,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 407.23199999999997,
+      "top": 4.608,
+      "x1": 422.784,
+      "bottom": 12.815999999999999,
+      "confidence": 96.855133,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "wage",
+      "x0": 425.664,
+      "top": 7.343999999999999,
+      "x1": 450.71999999999997,
+      "bottom": 14.831999999999999,
+      "confidence": 96.323509,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "rate",
+      "x0": 453.45599999999996,
+      "top": 5.616,
+      "x1": 473.18399999999997,
+      "bottom": 12.815999999999999,
+      "confidence": 95.342476,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "for",
+      "x0": 475.91999999999996,
+      "top": 4.4639999999999995,
+      "x1": 489.31199999999995,
+      "bottom": 12.815999999999999,
+      "confidence": 95.342476,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "periods",
+      "x0": 491.90399999999994,
+      "top": 4.608,
+      "x1": 527.472,
+      "bottom": 14.687999999999999,
+      "confidence": 96.214905,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 117.35999999999999,
+      "top": 16.56,
+      "x1": 126.86399999999999,
+      "bottom": 24.768,
+      "confidence": 96.946999,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "overtime",
+      "x0": 129.6,
+      "top": 16.56,
+      "x1": 173.664,
+      "bottom": 24.768,
+      "confidence": 96.468666,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "work",
+      "x0": 177.408,
+      "top": 16.56,
+      "x1": 202.32,
+      "bottom": 24.768,
+      "confidence": 96.622818,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "is",
+      "x0": 205.92,
+      "top": 16.56,
+      "x1": 213.696,
+      "bottom": 24.768,
+      "confidence": 96.656181,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "based",
+      "x0": 217.296,
+      "top": 16.56,
+      "x1": 246.23999999999998,
+      "bottom": 24.768,
+      "confidence": 96.888802,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "on:",
+      "x0": 249.83999999999997,
+      "top": 19.439999999999998,
+      "x1": 263.808,
+      "bottom": 24.767999999999997,
+      "confidence": 96.181183,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 123.69599999999998,
+      "top": 32.687999999999995,
+      "x1": 129.16799999999998,
+      "bottom": 40.751999999999995,
+      "confidence": 94.052185,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Compensating",
+      "x0": 136.79999999999998,
+      "top": 32.544,
+      "x1": 209.08799999999997,
+      "bottom": 42.767999999999994,
+      "confidence": 95.978241,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "the",
+      "x0": 211.53599999999997,
+      "top": 32.687999999999995,
+      "x1": 227.37599999999998,
+      "bottom": 40.751999999999995,
+      "confidence": 96.082336,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "worker",
+      "x0": 230.25599999999997,
+      "top": 32.687999999999995,
+      "x1": 265.53599999999994,
+      "bottom": 40.751999999999995,
+      "confidence": 96.774803,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "for",
+      "x0": 268.272,
+      "top": 32.544,
+      "x1": 281.808,
+      "bottom": 40.751999999999995,
+      "confidence": 96.774803,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "the",
+      "x0": 284.544,
+      "top": 32.687999999999995,
+      "x1": 300.24,
+      "bottom": 40.751999999999995,
+      "confidence": 96.457191,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "extra",
+      "x0": 303.40799999999996,
+      "top": 33.552,
+      "x1": 329.328,
+      "bottom": 40.751999999999995,
+      "confidence": 95.279602,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "strain",
+      "x0": 332.352,
+      "top": 32.687999999999995,
+      "x1": 362.01599999999996,
+      "bottom": 40.751999999999995,
+      "confidence": 95.279602,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "on",
+      "x0": 364.89599999999996,
+      "top": 35.424,
+      "x1": 376.41599999999994,
+      "bottom": 40.751999999999995,
+      "confidence": 94.63842,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "their",
+      "x0": 379.152,
+      "top": 32.687999999999995,
+      "x1": 403.488,
+      "bottom": 40.751999999999995,
+      "confidence": 94.63842,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "health",
+      "x0": 406.224,
+      "top": 32.687999999999995,
+      "x1": 438.336,
+      "bottom": 40.751999999999995,
+      "confidence": 96.335274,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "in",
+      "x0": 441.07199999999995,
+      "top": 32.687999999999995,
+      "x1": 450.8639999999999,
+      "bottom": 40.608,
+      "confidence": 95.485283,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "doing",
+      "x0": 453.888,
+      "top": 32.687999999999995,
+      "x1": 481.104,
+      "bottom": 42.767999999999994,
+      "confidence": 96.446945,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "overtime",
+      "x0": 483.69599999999997,
+      "top": 32.687999999999995,
+      "x1": 527.616,
+      "bottom": 40.751999999999995,
+      "confidence": 96.06041,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "work.",
+      "x0": 136.224,
+      "top": 44.63999999999999,
+      "x1": 163.584,
+      "bottom": 52.84799999999999,
+      "confidence": 96.551659,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "u.",
+      "x0": 120.24,
+      "top": 60.623999999999995,
+      "x1": 129.168,
+      "bottom": 68.832,
+      "confidence": 68.074799,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Enabling",
+      "x0": 136.65599999999998,
+      "top": 60.623999999999995,
+      "x1": 182.30399999999997,
+      "bottom": 70.848,
+      "confidence": 96.034554,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "the",
+      "x0": 185.76,
+      "top": 60.623999999999995,
+      "x1": 201.6,
+      "bottom": 68.832,
+      "confidence": 96.705902,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "worker",
+      "x0": 205.344,
+      "top": 60.623999999999995,
+      "x1": 240.768,
+      "bottom": 68.832,
+      "confidence": 96.523399,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "to",
+      "x0": 244.224,
+      "top": 61.632,
+      "x1": 253.44,
+      "bottom": 68.832,
+      "confidence": 96.793587,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "maintain",
+      "x0": 257.328,
+      "top": 60.623999999999995,
+      "x1": 303.26399999999995,
+      "bottom": 68.832,
+      "confidence": 96.229553,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "proper",
+      "x0": 306.864,
+      "top": 63.504,
+      "x1": 339.69599999999997,
+      "bottom": 70.704,
+      "confidence": 96.242531,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "standard",
+      "x0": 343.58399999999995,
+      "top": 60.623999999999995,
+      "x1": 388.65599999999995,
+      "bottom": 68.832,
+      "confidence": 96.244102,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "of",
+      "x0": 392.256,
+      "top": 60.48,
+      "x1": 401.76,
+      "bottom": 68.832,
+      "confidence": 96.690514,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "health",
+      "x0": 404.352,
+      "top": 60.623999999999995,
+      "x1": 436.60799999999995,
+      "bottom": 68.832,
+      "confidence": 96.706131,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "and",
+      "x0": 440.496,
+      "top": 60.623999999999995,
+      "x1": 458.928,
+      "bottom": 68.832,
+      "confidence": 95.937386,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "stamina.",
+      "x0": 462.816,
+      "top": 60.623999999999995,
+      "x1": 505.87199999999996,
+      "bottom": 68.832,
+      "confidence": 95.977463,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "11.",
+      "x0": 116.78399999999999,
+      "top": 76.60799999999999,
+      "x1": 129.16799999999998,
+      "bottom": 84.81599999999999,
+      "confidence": 68.689377,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Protecting",
+      "x0": 136.368,
+      "top": 76.60799999999999,
+      "x1": 188.64,
+      "bottom": 86.832,
+      "confidence": 96.540237,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "the",
+      "x0": 192.09599999999998,
+      "top": 76.60799999999999,
+      "x1": 207.93599999999998,
+      "bottom": 84.81599999999999,
+      "confidence": 96.631531,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "worker",
+      "x0": 211.67999999999998,
+      "top": 76.60799999999999,
+      "x1": 247.10399999999998,
+      "bottom": 84.81599999999999,
+      "confidence": 96.581856,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "against",
+      "x0": 250.84799999999998,
+      "top": 76.60799999999999,
+      "x1": 287.712,
+      "bottom": 86.832,
+      "confidence": 96.281265,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "exploitation.",
+      "x0": 291.45599999999996,
+      "top": 76.60799999999999,
+      "x1": 353.664,
+      "bottom": 86.68799999999999,
+      "confidence": 96.352455,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "(A)",
+      "x0": 115.48799999999999,
+      "top": 92.592,
+      "x1": 129.31199999999998,
+      "bottom": 102.816,
+      "confidence": 95.957687,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "1,11,",
+      "x0": 139.248,
+      "top": 92.592,
+      "x1": 157.82399999999998,
+      "bottom": 102.52799999999999,
+      "confidence": 69.349174,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "and",
+      "x0": 162.28799999999998,
+      "top": 92.592,
+      "x1": 180.71999999999997,
+      "bottom": 100.8,
+      "confidence": 94.068741,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "111",
+      "x0": 184.176,
+      "top": 92.592,
+      "x1": 194.112,
+      "bottom": 100.656,
+      "confidence": 75.472488,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "are",
+      "x0": 197.856,
+      "top": 95.472,
+      "x1": 213.408,
+      "bottom": 100.8,
+      "confidence": 95.553642,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "correct",
+      "x0": 217.296,
+      "top": 93.6,
+      "x1": 251.42399999999998,
+      "bottom": 100.8,
+      "confidence": 95.553642,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "(B)",
+      "x0": 306.43199999999996,
+      "top": 92.592,
+      "x1": 320.256,
+      "bottom": 102.672,
+      "confidence": 92.424278,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "Only",
+      "x0": 327.59999999999997,
+      "top": 92.592,
+      "x1": 351.50399999999996,
+      "bottom": 102.816,
+      "confidence": 95.959717,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "1",
+      "x0": 354.96,
+      "top": 92.592,
+      "x1": 357.984,
+      "bottom": 100.656,
+      "confidence": 66.834572,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "and",
+      "x0": 361.72799999999995,
+      "top": 92.592,
+      "x1": 380.15999999999997,
+      "bottom": 100.8,
+      "confidence": 95.946434,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "111",
+      "x0": 383.76,
+      "top": 92.592,
+      "x1": 393.55199999999996,
+      "bottom": 100.656,
+      "confidence": 78.535477,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "are",
+      "x0": 397.44,
+      "top": 95.472,
+      "x1": 412.992,
+      "bottom": 100.8,
+      "confidence": 96.142433,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "correct",
+      "x0": 416.736,
+      "top": 93.6,
+      "x1": 451.008,
+      "bottom": 100.8,
+      "confidence": 96.252319,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "(C)",
+      "x0": 115.48799999999999,
+      "top": 108.576,
+      "x1": 129.31199999999998,
+      "bottom": 118.8,
+      "confidence": 92.75206,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "Only",
+      "x0": 139.67999999999998,
+      "top": 108.576,
+      "x1": 163.58399999999997,
+      "bottom": 118.8,
+      "confidence": 95.987343,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "11",
+      "x0": 167.04,
+      "top": 108.576,
+      "x1": 173.51999999999998,
+      "bottom": 116.63999999999999,
+      "confidence": 75.115128,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "is",
+      "x0": 176.976,
+      "top": 108.576,
+      "x1": 184.896,
+      "bottom": 116.78399999999999,
+      "confidence": 84.53019,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "correct",
+      "x0": 188.64,
+      "top": 109.58399999999999,
+      "x1": 222.91199999999998,
+      "bottom": 116.78399999999999,
+      "confidence": 96.668938,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "(D)",
+      "x0": 305.856,
+      "top": 108.576,
+      "x1": 320.256,
+      "bottom": 118.8,
+      "confidence": 90.768387,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "Only",
+      "x0": 327.59999999999997,
+      "top": 108.576,
+      "x1": 351.50399999999996,
+      "bottom": 118.8,
+      "confidence": 95.465981,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "11",
+      "x0": 354.96,
+      "top": 108.576,
+      "x1": 361.44,
+      "bottom": 116.63999999999999,
+      "confidence": 92.596054,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "and",
+      "x0": 365.18399999999997,
+      "top": 108.576,
+      "x1": 383.616,
+      "bottom": 116.78399999999999,
+      "confidence": 95.263237,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "111",
+      "x0": 387.21599999999995,
+      "top": 108.576,
+      "x1": 397.0079999999999,
+      "bottom": 116.63999999999999,
+      "confidence": 44.123215,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "are",
+      "x0": 400.89599999999996,
+      "top": 111.45599999999999,
+      "x1": 416.448,
+      "bottom": 116.78399999999999,
+      "confidence": 95.175423,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "correct",
+      "x0": 420.19199999999995,
+      "top": 109.58399999999999,
+      "x1": 454.46399999999994,
+      "bottom": 116.78399999999999,
+      "confidence": 96.822472,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

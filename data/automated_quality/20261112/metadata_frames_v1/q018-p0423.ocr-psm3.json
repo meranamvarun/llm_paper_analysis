@@ -1,0 +1,211 @@
+{
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0422:l0041:question",
+  "year_label": 2017,
+  "number": "102",
+  "pdf_page": 423,
+  "crop_top": 0,
+  "crop_bottom": 81.28,
+  "start_anchor": {
+    "pdf_page": 422,
+    "line_id": "l0041",
+    "bbox": [
+      37.68,
+      702.72,
+      553.68,
+      711.12
+    ]
+  },
+  "following_anchor": {
+    "pdf_page": 423,
+    "line_id": "l0003",
+    "bbox": [
+      37.68,
+      83.28,
+      553.68,
+      91.68
+    ]
+  },
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "2 © Section 04-4",
+      "bbox": [
+        38.303999999999995,
+        13.68,
+        133.2,
+        23.04
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "7",
+      "bbox": [
+        50.544,
+        30.816,
+        60.623999999999995,
+        39.599999999999994
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "3. Section 204-B",
+      "bbox": [
+        38.303999999999995,
+        33.839999999999996,
+        132.48,
+        41.03999999999999
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "4 *® Section 20S",
+      "bbox": [
+        38.303999999999995,
+        49.68,
+        120.24,
+        59.03999999999999
+      ]
+    }
+  ],
+  "text": "2 © Section 04-4\n7\n3. Section 204-B\n4 *® Section 20S",
+  "ocr_words": [
+    {
+      "text": "2",
+      "x0": 38.303999999999995,
+      "top": 15.839999999999998,
+      "x1": 45.50399999999999,
+      "bottom": 23.04,
+      "confidence": 64.776718,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "©",
+      "x0": 51.983999999999995,
+      "top": 13.68,
+      "x1": 58.46399999999999,
+      "bottom": 20.16,
+      "confidence": 0.0,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Section",
+      "x0": 64.94399999999999,
+      "top": 15.839999999999998,
+      "x1": 97.91999999999999,
+      "bottom": 23.04,
+      "confidence": 96.081749,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "04-4",
+      "x0": 102.24,
+      "top": 15.839999999999998,
+      "x1": 133.2,
+      "bottom": 23.04,
+      "confidence": 25.883797,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "3.",
+      "x0": 38.303999999999995,
+      "top": 33.839999999999996,
+      "x1": 45.50399999999999,
+      "bottom": 41.03999999999999,
+      "confidence": 89.225838,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "7",
+      "x0": 50.544,
+      "top": 30.816,
+      "x1": 60.623999999999995,
+      "bottom": 39.599999999999994,
+      "confidence": 64.204971,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Section",
+      "x0": 64.94399999999999,
+      "top": 33.839999999999996,
+      "x1": 97.91999999999999,
+      "bottom": 41.03999999999999,
+      "confidence": 93.138519,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "204-B",
+      "x0": 102.24,
+      "top": 33.839999999999996,
+      "x1": 132.48,
+      "bottom": 41.03999999999999,
+      "confidence": 82.230209,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "4",
+      "x0": 38.303999999999995,
+      "top": 51.839999999999996,
+      "x1": 45.50399999999999,
+      "bottom": 59.03999999999999,
+      "confidence": 75.116196,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "*®",
+      "x0": 51.983999999999995,
+      "top": 49.68,
+      "x1": 58.46399999999999,
+      "bottom": 56.16,
+      "confidence": 57.587433,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Section",
+      "x0": 64.94399999999999,
+      "top": 51.839999999999996,
+      "x1": 97.91999999999999,
+      "bottom": 59.03999999999999,
+      "confidence": 95.456627,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "20S",
+      "x0": 102.24,
+      "top": 51.839999999999996,
+      "x1": 120.24,
+      "bottom": 59.03999999999999,
+      "confidence": 60.02338,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

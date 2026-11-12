@@ -1,0 +1,405 @@
+{
+  "pdf_page": 385,
+  "crop_top": 36.16136000000006,
+  "crop_bottom": 124.32136000000003,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0384:l0049:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Ans a",
+      "bbox": [
+        43.379999999999995,
+        3.06,
+        86.75999999999999,
+        15.66
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "1. Ignorance of fact is no excuse",
+      "bbox": [
+        88.56,
+        12.959999999999999,
+        184.85999999999999,
+        19.62
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        24.48,
+        93.06,
+        39.6
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "Ignorance of law is excuse",
+      "bbox": [
+        95.94,
+        34.56,
+        174.42,
+        41.04
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        45.9,
+        93.06,
+        61.199999999999996
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "Ignorance of law is no excuse",
+      "bbox": [
+        95.94,
+        55.98,
+        183.95999999999998,
+        62.459999999999994
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "Vv,",
+      "bbox": [
+        73.08,
+        65.7,
+        93.06,
+        84.6
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "Ignorance of fact is excuse",
+      "bbox": [
+        95.94,
+        77.03999999999999,
+        175.32,
+        83.7
+      ]
+    }
+  ],
+  "text": "Ans a\n1. Ignorance of fact is no excuse\nx,\nIgnorance of law is excuse\nx,\nIgnorance of law is no excuse\nVv,\nIgnorance of fact is excuse",
+  "ocr_words": [
+    {
+      "text": "Ans",
+      "x0": 43.379999999999995,
+      "top": 4.859999999999999,
+      "x1": 54.53999999999999,
+      "bottom": 9.719999999999999,
+      "confidence": 96.613808,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 73.08,
+      "top": 3.06,
+      "x1": 86.75999999999999,
+      "bottom": 15.66,
+      "confidence": 54.025227,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1.",
+      "x0": 88.56,
+      "top": 13.5,
+      "x1": 93.06,
+      "bottom": 18.18,
+      "confidence": 96.521912,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Ignorance",
+      "x0": 95.94,
+      "top": 13.5,
+      "x1": 125.28,
+      "bottom": 19.62,
+      "confidence": 91.651756,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 127.61999999999999,
+      "top": 13.139999999999999,
+      "x1": 133.56,
+      "bottom": 18.36,
+      "confidence": 96.64402,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "fact",
+      "x0": 135.35999999999999,
+      "top": 12.959999999999999,
+      "x1": 146.7,
+      "bottom": 18.36,
+      "confidence": 96.50631,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "is",
+      "x0": 149.04,
+      "top": 13.32,
+      "x1": 153.0,
+      "bottom": 18.36,
+      "confidence": 96.461334,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "no",
+      "x0": 155.51999999999998,
+      "top": 14.58,
+      "x1": 162.35999999999999,
+      "bottom": 18.36,
+      "confidence": 96.640152,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "excuse",
+      "x0": 164.88,
+      "top": 14.58,
+      "x1": 184.85999999999999,
+      "bottom": 18.36,
+      "confidence": 96.727142,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 24.48,
+      "x1": 93.06,
+      "bottom": 39.6,
+      "confidence": 81.805588,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Ignorance",
+      "x0": 95.94,
+      "top": 34.92,
+      "x1": 125.28,
+      "bottom": 41.04,
+      "confidence": 95.916245,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 127.61999999999999,
+      "top": 34.56,
+      "x1": 133.56,
+      "bottom": 39.78,
+      "confidence": 96.316734,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "law",
+      "x0": 135.9,
+      "top": 34.56,
+      "x1": 145.8,
+      "bottom": 39.78,
+      "confidence": 96.95433,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "is",
+      "x0": 148.14,
+      "top": 34.74,
+      "x1": 152.1,
+      "bottom": 39.78,
+      "confidence": 96.975807,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "excuse",
+      "x0": 154.26,
+      "top": 36.0,
+      "x1": 174.42,
+      "bottom": 39.78,
+      "confidence": 96.413803,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 45.9,
+      "x1": 93.06,
+      "bottom": 61.199999999999996,
+      "confidence": 71.5802,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Ignorance",
+      "x0": 95.94,
+      "top": 56.339999999999996,
+      "x1": 125.28,
+      "bottom": 62.459999999999994,
+      "confidence": 95.909744,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "of",
+      "x0": 127.61999999999999,
+      "top": 55.98,
+      "x1": 133.56,
+      "bottom": 61.199999999999996,
+      "confidence": 96.725449,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "law",
+      "x0": 135.9,
+      "top": 55.98,
+      "x1": 145.8,
+      "bottom": 61.199999999999996,
+      "confidence": 95.593086,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "is",
+      "x0": 148.14,
+      "top": 56.16,
+      "x1": 152.1,
+      "bottom": 61.199999999999996,
+      "confidence": 96.886063,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "no",
+      "x0": 154.62,
+      "top": 57.419999999999995,
+      "x1": 161.64000000000001,
+      "bottom": 61.199999999999996,
+      "confidence": 96.560646,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "excuse",
+      "x0": 163.98,
+      "top": 57.419999999999995,
+      "x1": 183.95999999999998,
+      "bottom": 61.199999999999996,
+      "confidence": 96.560646,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Vv,",
+      "x0": 73.08,
+      "top": 65.7,
+      "x1": 93.06,
+      "bottom": 84.6,
+      "confidence": 15.723068,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Ignorance",
+      "x0": 95.94,
+      "top": 77.58,
+      "x1": 125.28,
+      "bottom": 83.7,
+      "confidence": 95.25605,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "of",
+      "x0": 127.61999999999999,
+      "top": 77.22,
+      "x1": 133.56,
+      "bottom": 82.44,
+      "confidence": 96.733559,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "fact",
+      "x0": 135.35999999999999,
+      "top": 77.03999999999999,
+      "x1": 146.7,
+      "bottom": 82.44,
+      "confidence": 96.385506,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "is",
+      "x0": 149.04,
+      "top": 77.39999999999999,
+      "x1": 153.0,
+      "bottom": 82.44,
+      "confidence": 96.548271,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "excuse",
+      "x0": 155.16,
+      "top": 78.66,
+      "x1": 175.32,
+      "bottom": 82.44,
+      "confidence": 96.726761,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

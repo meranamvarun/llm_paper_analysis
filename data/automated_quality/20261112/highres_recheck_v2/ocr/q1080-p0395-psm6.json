@@ -1,0 +1,404 @@
+{
+  "pdf_page": 395,
+  "crop_top": 507.04136,
+  "crop_bottom": 607.92136,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0395:l0031:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.29. Which one of the following is accepted as mens rea for constituting the offence of theft?",
+      "bbox": [
+        41.94,
+        4.32,
+        337.32,
+        10.98
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "ans x",
+      "bbox": [
+        43.379999999999995,
+        16.02,
+        86.75999999999999,
+        28.619999999999997
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "1. voluntarily",
+      "bbox": [
+        88.56,
+        25.919999999999998,
+        127.61999999999999,
+        32.4
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "v,",
+      "bbox": [
+        73.8,
+        36.54,
+        93.06,
+        52.379999999999995
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "Dishonestly",
+      "bbox": [
+        95.94,
+        46.62,
+        130.5,
+        54.54
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        58.86,
+        93.06,
+        73.8
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "Fraudulently",
+      "bbox": [
+        95.94,
+        67.86,
+        133.56,
+        75.96
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        80.1,
+        93.06,
+        95.03999999999999
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "knowingly",
+      "bbox": [
+        95.75999999999999,
+        89.28,
+        126.17999999999999,
+        97.38
+      ]
+    }
+  ],
+  "text": "Q.29. Which one of the following is accepted as mens rea for constituting the offence of theft?\nans x\n1. voluntarily\nv,\nDishonestly\nx,\nFraudulently\nx,\nknowingly",
+  "ocr_words": [
+    {
+      "text": "Q.29.",
+      "x0": 41.94,
+      "top": 4.68,
+      "x1": 55.98,
+      "bottom": 10.44,
+      "confidence": 0.0,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Which",
+      "x0": 62.64,
+      "top": 4.5,
+      "x1": 81.72,
+      "bottom": 9.719999999999999,
+      "confidence": 93.372154,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "one",
+      "x0": 84.06,
+      "top": 5.9399999999999995,
+      "x1": 95.4,
+      "bottom": 9.719999999999999,
+      "confidence": 96.302795,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 97.74,
+      "top": 4.32,
+      "x1": 103.86,
+      "bottom": 9.719999999999999,
+      "confidence": 96.418129,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 105.66,
+      "top": 4.5,
+      "x1": 115.56,
+      "bottom": 9.719999999999999,
+      "confidence": 96.418129,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 117.72,
+      "top": 4.5,
+      "x1": 146.51999999999998,
+      "bottom": 10.98,
+      "confidence": 96.090561,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 148.85999999999999,
+      "top": 4.68,
+      "x1": 152.99999999999997,
+      "bottom": 9.719999999999999,
+      "confidence": 96.16481,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "accepted",
+      "x0": 155.16,
+      "top": 4.5,
+      "x1": 182.7,
+      "bottom": 10.98,
+      "confidence": 96.079765,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "as",
+      "x0": 185.04,
+      "top": 5.9399999999999995,
+      "x1": 191.34,
+      "bottom": 9.719999999999999,
+      "confidence": 96.433678,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "mens",
+      "x0": 193.68,
+      "top": 5.9399999999999995,
+      "x1": 209.88,
+      "bottom": 9.719999999999999,
+      "confidence": 96.915474,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "rea",
+      "x0": 212.22,
+      "top": 5.9399999999999995,
+      "x1": 221.4,
+      "bottom": 9.719999999999999,
+      "confidence": 95.435684,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "for",
+      "x0": 223.73999999999998,
+      "top": 4.5,
+      "x1": 232.55999999999997,
+      "bottom": 9.719999999999999,
+      "confidence": 95.435684,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "constituting",
+      "x0": 234.54,
+      "top": 4.68,
+      "x1": 271.44,
+      "bottom": 10.98,
+      "confidence": 96.155426,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 273.42,
+      "top": 4.5,
+      "x1": 283.5,
+      "bottom": 9.719999999999999,
+      "confidence": 96.721191,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "offence",
+      "x0": 285.65999999999997,
+      "top": 4.5,
+      "x1": 308.7,
+      "bottom": 9.719999999999999,
+      "confidence": 96.208778,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 310.86,
+      "top": 4.5,
+      "x1": 316.98,
+      "bottom": 9.719999999999999,
+      "confidence": 96.024666,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "theft?",
+      "x0": 318.78,
+      "top": 4.5,
+      "x1": 337.32,
+      "bottom": 9.719999999999999,
+      "confidence": 96.211586,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "ans",
+      "x0": 43.379999999999995,
+      "top": 17.64,
+      "x1": 54.53999999999999,
+      "bottom": 22.5,
+      "confidence": 73.330658,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "x",
+      "x0": 73.08,
+      "top": 16.02,
+      "x1": 86.75999999999999,
+      "bottom": 28.619999999999997,
+      "confidence": 81.492729,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 88.56,
+      "top": 26.279999999999998,
+      "x1": 93.06,
+      "bottom": 30.959999999999997,
+      "confidence": 95.910408,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "voluntarily",
+      "x0": 95.39999999999999,
+      "top": 25.919999999999998,
+      "x1": 127.61999999999999,
+      "bottom": 32.4,
+      "confidence": 95.910408,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "v,",
+      "x0": 73.8,
+      "top": 36.54,
+      "x1": 93.06,
+      "bottom": 52.379999999999995,
+      "confidence": 58.757607,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Dishonestly",
+      "x0": 95.94,
+      "top": 46.62,
+      "x1": 130.5,
+      "bottom": 54.54,
+      "confidence": 92.226273,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 58.86,
+      "x1": 93.06,
+      "bottom": 73.8,
+      "confidence": 35.200203,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Fraudulently",
+      "x0": 95.94,
+      "top": 67.86,
+      "x1": 133.56,
+      "bottom": 75.96,
+      "confidence": 91.543556,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 80.1,
+      "x1": 93.06,
+      "bottom": 95.03999999999999,
+      "confidence": 38.014835,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "knowingly",
+      "x0": 95.75999999999999,
+      "top": 89.28,
+      "x1": 126.17999999999999,
+      "bottom": 97.38,
+      "confidence": 96.162384,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

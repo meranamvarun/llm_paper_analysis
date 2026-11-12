@@ -1,0 +1,25 @@
+{
+  "records": 1396,
+  "original_records_retained": 1397,
+  "changed_records": 328,
+  "inactive_false_candidates": 1,
+  "repairs_by_rule": {
+    "primary_line_start_options_prior_cleaning_preserved": 67,
+    "explicit_numeric_source_ocr_labels_with_prior_cleaned_answers": 29,
+    "explicit_answer_delimited_question_and_passage": 240,
+    "source_initial_passage_before_first_question": 6
+  },
+  "structural_findings": {
+    "option_structure": 44,
+    "empty_option": 1,
+    "duplicate_number": 60,
+    "missing_number": 2,
+    "out_of_range_number": 3,
+    "configured_count_mismatch": 3
+  },
+  "ocr_exceptions": 740,
+  "strictly_supported": 656,
+  "abstentions": 0,
+  "automated_gate": "NEEDS_AUTOMATED_REPAIR",
+  "status": "machine_proposals_unreviewed"
+}

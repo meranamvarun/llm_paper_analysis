@@ -1,0 +1,328 @@
+{
+  "pdf_page": 440,
+  "crop_top": 603.1800000000001,
+  "crop_bottom": 681.74,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0440:l0025:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "33. Which Constitution Amendment Act brought into force the goods and services tax?",
+      "bbox": [
+        72.576,
+        4.896,
+        494.352,
+        15.264
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "98\"",
+      "bbox": [
+        144.432,
+        16.703999999999997,
+        162.576,
+        27.791999999999994
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "A.",
+      "bbox": [
+        126.288,
+        20.16,
+        135.072,
+        27.792
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "ggt",
+      "bbox": [
+        144.432,
+        31.391999999999996,
+        162.576,
+        42.48
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "B.",
+      "bbox": [
+        127.008,
+        34.848,
+        134.64,
+        42.48
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "100°",
+      "bbox": [
+        145.00799999999998,
+        46.08,
+        168.62399999999997,
+        57.168
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "c.",
+      "bbox": [
+        126.576,
+        49.391999999999996,
+        134.49599999999998,
+        57.16799999999999
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "D. 101°\"",
+      "bbox": [
+        126.86399999999999,
+        61.48799999999999,
+        168.19199999999998,
+        71.856
+      ]
+    }
+  ],
+  "text": "33. Which Constitution Amendment Act brought into force the goods and services tax?\n98\"\nA.\nggt\nB.\n100°\nc.\nD. 101°\"",
+  "ocr_words": [
+    {
+      "text": "33.",
+      "x0": 72.576,
+      "top": 5.4719999999999995,
+      "x1": 86.39999999999999,
+      "bottom": 13.248,
+      "confidence": 95.842255,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Which",
+      "x0": 90.43199999999999,
+      "top": 4.896,
+      "x1": 120.23999999999998,
+      "bottom": 13.247999999999998,
+      "confidence": 96.543228,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Constitution",
+      "x0": 124.55999999999999,
+      "top": 5.327999999999999,
+      "x1": 183.16799999999998,
+      "bottom": 13.247999999999998,
+      "confidence": 96.057922,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Amendment",
+      "x0": 186.91199999999998,
+      "top": 4.896,
+      "x1": 247.39199999999997,
+      "bottom": 13.247999999999998,
+      "confidence": 96.175072,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Act",
+      "x0": 250.70399999999998,
+      "top": 5.4719999999999995,
+      "x1": 266.11199999999997,
+      "bottom": 13.248,
+      "confidence": 96.209328,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "brought",
+      "x0": 270.0,
+      "top": 4.896,
+      "x1": 307.728,
+      "bottom": 15.264,
+      "confidence": 96.888474,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "into",
+      "x0": 311.76,
+      "top": 5.327999999999999,
+      "x1": 329.904,
+      "bottom": 13.247999999999998,
+      "confidence": 96.293427,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "force",
+      "x0": 333.21599999999995,
+      "top": 4.896,
+      "x1": 357.69599999999997,
+      "bottom": 13.247999999999998,
+      "confidence": 95.627632,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 361.152,
+      "top": 4.896,
+      "x1": 376.704,
+      "bottom": 13.247999999999998,
+      "confidence": 96.385872,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "goods",
+      "x0": 380.304,
+      "top": 4.896,
+      "x1": 408.816,
+      "bottom": 15.264,
+      "confidence": 96.360115,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 412.55999999999995,
+      "top": 4.896,
+      "x1": 429.40799999999996,
+      "bottom": 13.247999999999998,
+      "confidence": 96.360115,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "services",
+      "x0": 433.43999999999994,
+      "top": 5.327999999999999,
+      "x1": 471.16799999999995,
+      "bottom": 13.247999999999998,
+      "confidence": 96.590027,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "tax?",
+      "x0": 474.62399999999997,
+      "top": 5.04,
+      "x1": 494.352,
+      "bottom": 13.248000000000001,
+      "confidence": 96.466492,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A.",
+      "x0": 126.288,
+      "top": 20.16,
+      "x1": 135.072,
+      "bottom": 27.792,
+      "confidence": 95.095634,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "98\"",
+      "x0": 144.432,
+      "top": 16.703999999999997,
+      "x1": 162.576,
+      "bottom": 27.791999999999994,
+      "confidence": 75.873428,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "B.",
+      "x0": 127.008,
+      "top": 34.848,
+      "x1": 134.64,
+      "bottom": 42.48,
+      "confidence": 89.743301,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "ggt",
+      "x0": 144.432,
+      "top": 31.391999999999996,
+      "x1": 162.576,
+      "bottom": 42.48,
+      "confidence": 29.222366,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "c.",
+      "x0": 126.576,
+      "top": 49.391999999999996,
+      "x1": 134.49599999999998,
+      "bottom": 57.16799999999999,
+      "confidence": 87.833725,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "100°",
+      "x0": 145.00799999999998,
+      "top": 46.08,
+      "x1": 168.62399999999997,
+      "bottom": 57.168,
+      "confidence": 83.87986,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "D.",
+      "x0": 126.86399999999999,
+      "top": 64.08,
+      "x1": 136.07999999999998,
+      "bottom": 71.712,
+      "confidence": 91.964859,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "101°\"",
+      "x0": 144.86399999999998,
+      "top": 61.48799999999999,
+      "x1": 168.19199999999998,
+      "bottom": 71.856,
+      "confidence": 37.820972,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

@@ -1,0 +1,516 @@
+{
+  "pdf_page": 299,
+  "crop_top": 321.2428,
+  "crop_bottom": 402.70279999999997,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0299:l0011:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "31. Section of the Copyright Act grants an author “special rights,” which exist",
+      "bbox": [
+        46.98,
+        4.859999999999999,
+        549.9,
+        15.12
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "———————",
+      "bbox": [
+        117.36,
+        10.08,
+        183.78,
+        10.8
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "independently of the author’s copyright, and subsists even after the assignment (whole or",
+      "bbox": [
+        74.88,
+        18.54,
+        549.9,
+        28.799999999999997
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "partial) of the said copyright.",
+      "bbox": [
+        74.88,
+        32.04,
+        221.76,
+        42.48
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(A) 77 (B) 66",
+      "bbox": [
+        75.24,
+        49.68,
+        341.81999999999994,
+        59.94
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "(C) 57 (D) 87",
+      "bbox": [
+        75.24,
+        67.32,
+        341.82,
+        77.58
+      ]
+    }
+  ],
+  "text": "31. Section of the Copyright Act grants an author “special rights,” which exist\n———————\nindependently of the author’s copyright, and subsists even after the assignment (whole or\npartial) of the said copyright.\n(A) 77 (B) 66\n(C) 57 (D) 87",
+  "ocr_words": [
+    {
+      "text": "31.",
+      "x0": 46.98,
+      "top": 5.3999999999999995,
+      "x1": 60.66,
+      "bottom": 13.139999999999999,
+      "confidence": 84.965263,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Section",
+      "x0": 75.24,
+      "top": 4.859999999999999,
+      "x1": 111.78,
+      "bottom": 13.139999999999999,
+      "confidence": 84.965263,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "———————",
+      "x0": 117.36,
+      "top": 10.08,
+      "x1": 183.78,
+      "bottom": 10.8,
+      "confidence": 87.767441,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 189.54,
+      "top": 4.859999999999999,
+      "x1": 199.07999999999998,
+      "bottom": 13.139999999999999,
+      "confidence": 96.711746,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 204.29999999999998,
+      "top": 4.859999999999999,
+      "x1": 220.14,
+      "bottom": 13.139999999999999,
+      "confidence": 96.575005,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Copyright",
+      "x0": 226.79999999999998,
+      "top": 4.859999999999999,
+      "x1": 276.84,
+      "bottom": 15.12,
+      "confidence": 96.73362,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Act",
+      "x0": 282.42,
+      "top": 4.859999999999999,
+      "x1": 299.52000000000004,
+      "bottom": 13.139999999999999,
+      "confidence": 96.370293,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "grants",
+      "x0": 305.82,
+      "top": 5.9399999999999995,
+      "x1": 337.68,
+      "bottom": 15.12,
+      "confidence": 96.147202,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "an",
+      "x0": 344.34,
+      "top": 7.739999999999999,
+      "x1": 356.58,
+      "bottom": 13.139999999999999,
+      "confidence": 96.375137,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "author",
+      "x0": 362.7,
+      "top": 4.859999999999999,
+      "x1": 396.36,
+      "bottom": 13.139999999999999,
+      "confidence": 96.412476,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "“special",
+      "x0": 402.47999999999996,
+      "top": 4.859999999999999,
+      "x1": 440.81999999999994,
+      "bottom": 15.12,
+      "confidence": 96.495262,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "rights,”",
+      "x0": 446.94,
+      "top": 4.859999999999999,
+      "x1": 484.02,
+      "bottom": 15.12,
+      "confidence": 96.228203,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "which",
+      "x0": 490.14,
+      "top": 4.859999999999999,
+      "x1": 520.1999999999999,
+      "bottom": 13.139999999999999,
+      "confidence": 96.82859,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "exist",
+      "x0": 526.5,
+      "top": 4.859999999999999,
+      "x1": 549.9,
+      "bottom": 13.139999999999999,
+      "confidence": 95.697502,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "independently",
+      "x0": 74.88,
+      "top": 18.54,
+      "x1": 147.42,
+      "bottom": 28.799999999999997,
+      "confidence": 96.436226,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 152.64,
+      "top": 18.54,
+      "x1": 162.0,
+      "bottom": 26.82,
+      "confidence": 96.66909,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 166.32,
+      "top": 18.54,
+      "x1": 182.34,
+      "bottom": 26.82,
+      "confidence": 93.263115,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "author’s",
+      "x0": 188.1,
+      "top": 18.54,
+      "x1": 228.42,
+      "bottom": 26.82,
+      "confidence": 92.312904,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "copyright,",
+      "x0": 234.17999999999998,
+      "top": 18.54,
+      "x1": 283.85999999999996,
+      "bottom": 28.799999999999997,
+      "confidence": 96.71302,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "and",
+      "x0": 290.15999999999997,
+      "top": 18.54,
+      "x1": 308.52,
+      "bottom": 26.82,
+      "confidence": 96.579605,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "subsists",
+      "x0": 313.92,
+      "top": 18.54,
+      "x1": 353.88,
+      "bottom": 26.82,
+      "confidence": 95.826035,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "even",
+      "x0": 359.64,
+      "top": 21.419999999999998,
+      "x1": 382.5,
+      "bottom": 26.819999999999997,
+      "confidence": 95.826035,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "after",
+      "x0": 388.08,
+      "top": 18.54,
+      "x1": 411.84,
+      "bottom": 26.82,
+      "confidence": 96.20948,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 416.88,
+      "top": 18.54,
+      "x1": 432.9,
+      "bottom": 26.82,
+      "confidence": 96.792358,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "assignment",
+      "x0": 438.47999999999996,
+      "top": 18.54,
+      "x1": 496.43999999999994,
+      "bottom": 28.799999999999997,
+      "confidence": 96.103256,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(whole",
+      "x0": 502.2,
+      "top": 18.54,
+      "x1": 534.42,
+      "bottom": 28.799999999999997,
+      "confidence": 96.887886,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "or",
+      "x0": 540.0,
+      "top": 21.419999999999998,
+      "x1": 549.9,
+      "bottom": 26.819999999999997,
+      "confidence": 96.988106,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "partial)",
+      "x0": 74.88,
+      "top": 32.22,
+      "x1": 112.13999999999999,
+      "bottom": 42.3,
+      "confidence": 96.893761,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 116.46,
+      "top": 32.04,
+      "x1": 125.82,
+      "bottom": 40.32,
+      "confidence": 96.778137,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "the",
+      "x0": 128.51999999999998,
+      "top": 32.22,
+      "x1": 144.35999999999999,
+      "bottom": 40.32,
+      "confidence": 96.678802,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "said",
+      "x0": 148.32,
+      "top": 32.22,
+      "x1": 168.48,
+      "bottom": 40.32,
+      "confidence": 96.49366,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "copyright.",
+      "x0": 172.26,
+      "top": 32.22,
+      "x1": 221.76,
+      "bottom": 42.48,
+      "confidence": 96.363907,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(A)",
+      "x0": 75.24,
+      "top": 49.68,
+      "x1": 89.1,
+      "bottom": 59.94,
+      "confidence": 92.195419,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "77",
+      "x0": 103.67999999999999,
+      "top": 50.22,
+      "x1": 114.66,
+      "bottom": 57.96,
+      "confidence": 91.172707,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(B)",
+      "x0": 302.21999999999997,
+      "top": 49.68,
+      "x1": 316.08,
+      "bottom": 59.94,
+      "confidence": 92.651314,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "66",
+      "x0": 330.47999999999996,
+      "top": 50.22,
+      "x1": 341.81999999999994,
+      "bottom": 57.96,
+      "confidence": 96.535446,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(C)",
+      "x0": 75.24,
+      "top": 67.32,
+      "x1": 89.1,
+      "bottom": 77.58,
+      "confidence": 92.688049,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "57",
+      "x0": 103.67999999999999,
+      "top": 67.86,
+      "x1": 114.66,
+      "bottom": 75.6,
+      "confidence": 95.269844,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(D)",
+      "x0": 302.21999999999997,
+      "top": 67.32,
+      "x1": 316.61999999999995,
+      "bottom": 77.58,
+      "confidence": 89.449142,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "87",
+      "x0": 330.65999999999997,
+      "top": 67.86,
+      "x1": 341.82,
+      "bottom": 75.6,
+      "confidence": 95.328453,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

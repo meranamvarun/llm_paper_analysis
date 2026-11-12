@@ -1,0 +1,956 @@
+{
+  "pdf_page": 204,
+  "crop_top": 230.97606583675008,
+  "crop_bottom": 322.62590083675,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0204:l0007:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "44. Which of the following statements regarding Entry 7 of List II] (Concurrent List) of",
+      "bbox": [
+        90.43199999999999,
+        4.4639999999999995,
+        513.36,
+        14.687999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Seventh Schedule of the Constitution of India is untrue ?",
+      "bbox": [
+        111.45599999999999,
+        19.151999999999997,
+        377.28,
+        27.215999999999998
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(A) Contract relating to carriage of goods falls under Entry 7 of the Concurrent List.",
+      "bbox": [
+        111.02399999999999,
+        33.696,
+        501.984,
+        43.919999999999995
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(B) Contract relating to agriculture land falls under Entry 7 of the Concurrent List.",
+      "bbox": [
+        111.02399999999999,
+        48.239999999999995,
+        492.47999999999996,
+        58.464
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(C) Contract relating to agency falls under Entry 7 of the Concurrent List.",
+      "bbox": [
+        110.448,
+        62.928,
+        453.74399999999997,
+        73.152
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "(D) Contract relating to partnership falls under Entry 7 of the Concurrent List.",
+      "bbox": [
+        110.448,
+        77.472,
+        472.75199999999995,
+        87.696
+      ]
+    }
+  ],
+  "text": "44. Which of the following statements regarding Entry 7 of List II] (Concurrent List) of\nSeventh Schedule of the Constitution of India is untrue ?\n(A) Contract relating to carriage of goods falls under Entry 7 of the Concurrent List.\n(B) Contract relating to agriculture land falls under Entry 7 of the Concurrent List.\n(C) Contract relating to agency falls under Entry 7 of the Concurrent List.\n(D) Contract relating to partnership falls under Entry 7 of the Concurrent List.",
+  "ocr_words": [
+    {
+      "text": "44.",
+      "x0": 90.43199999999999,
+      "top": 4.896,
+      "x1": 104.112,
+      "bottom": 12.384,
+      "confidence": 94.262039,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Which",
+      "x0": 111.16799999999999,
+      "top": 4.752,
+      "x1": 139.968,
+      "bottom": 12.527999999999999,
+      "confidence": 96.431274,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 145.584,
+      "top": 4.608,
+      "x1": 153.936,
+      "bottom": 12.527999999999999,
+      "confidence": 96.341599,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 158.688,
+      "top": 4.752,
+      "x1": 173.088,
+      "bottom": 12.527999999999999,
+      "confidence": 96.336975,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 178.128,
+      "top": 4.608,
+      "x1": 219.02399999999997,
+      "bottom": 14.687999999999999,
+      "confidence": 96.79705,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "statements",
+      "x0": 224.49599999999998,
+      "top": 5.183999999999999,
+      "x1": 276.192,
+      "bottom": 12.527999999999999,
+      "confidence": 96.461754,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "regarding",
+      "x0": 281.808,
+      "top": 4.752,
+      "x1": 325.728,
+      "bottom": 14.687999999999999,
+      "confidence": 96.326843,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Entry",
+      "x0": 331.77599999999995,
+      "top": 4.752,
+      "x1": 355.67999999999995,
+      "bottom": 14.687999999999999,
+      "confidence": 96.685318,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "7",
+      "x0": 360.71999999999997,
+      "top": 5.04,
+      "x1": 365.904,
+      "bottom": 12.384,
+      "confidence": 96.873215,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 371.23199999999997,
+      "top": 4.608,
+      "x1": 379.58399999999995,
+      "bottom": 12.527999999999999,
+      "confidence": 96.746277,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "List",
+      "x0": 385.056,
+      "top": 4.752,
+      "x1": 400.75199999999995,
+      "bottom": 12.527999999999999,
+      "confidence": 96.892235,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "II]",
+      "x0": 406.368,
+      "top": 4.752,
+      "x1": 413.424,
+      "bottom": 12.384,
+      "confidence": 61.672443,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(Concurrent",
+      "x0": 419.616,
+      "top": 4.4639999999999995,
+      "x1": 475.2,
+      "bottom": 14.544,
+      "confidence": 96.336258,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "List)",
+      "x0": 480.67199999999997,
+      "top": 4.608,
+      "x1": 499.39199999999994,
+      "bottom": 14.544,
+      "confidence": 96.451385,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 505.008,
+      "top": 4.608,
+      "x1": 513.36,
+      "bottom": 12.527999999999999,
+      "confidence": 96.823875,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Seventh",
+      "x0": 111.45599999999999,
+      "top": 19.151999999999997,
+      "x1": 149.47199999999998,
+      "bottom": 27.215999999999998,
+      "confidence": 96.355278,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Schedule",
+      "x0": 153.648,
+      "top": 19.151999999999997,
+      "x1": 197.28,
+      "bottom": 27.215999999999998,
+      "confidence": 95.911934,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 201.02399999999997,
+      "top": 19.151999999999997,
+      "x1": 209.51999999999998,
+      "bottom": 27.071999999999996,
+      "confidence": 95.911934,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 212.688,
+      "top": 19.296,
+      "x1": 227.088,
+      "bottom": 27.072,
+      "confidence": 96.831696,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Constitution",
+      "x0": 230.97599999999997,
+      "top": 19.151999999999997,
+      "x1": 286.27199999999993,
+      "bottom": 27.215999999999998,
+      "confidence": 95.979538,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 290.304,
+      "top": 19.151999999999997,
+      "x1": 298.65599999999995,
+      "bottom": 27.071999999999996,
+      "confidence": 96.74559,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "India",
+      "x0": 302.832,
+      "top": 19.296,
+      "x1": 324.71999999999997,
+      "bottom": 27.072,
+      "confidence": 96.598167,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "is",
+      "x0": 328.75199999999995,
+      "top": 19.296,
+      "x1": 335.376,
+      "bottom": 27.072,
+      "confidence": 96.94838,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "untrue",
+      "x0": 339.40799999999996,
+      "top": 19.872,
+      "x1": 368.64,
+      "bottom": 27.072,
+      "confidence": 93.254753,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "?",
+      "x0": 372.67199999999997,
+      "top": 19.151999999999997,
+      "x1": 377.28,
+      "bottom": 26.927999999999997,
+      "confidence": 92.421211,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(A)",
+      "x0": 111.02399999999999,
+      "top": 33.696,
+      "x1": 123.83999999999999,
+      "bottom": 43.775999999999996,
+      "confidence": 96.981827,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Contract",
+      "x0": 129.88799999999998,
+      "top": 33.696,
+      "x1": 169.63199999999998,
+      "bottom": 41.76,
+      "confidence": 96.46022,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "relating",
+      "x0": 173.664,
+      "top": 33.839999999999996,
+      "x1": 207.21599999999998,
+      "bottom": 43.919999999999995,
+      "confidence": 96.167549,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "to",
+      "x0": 210.95999999999998,
+      "top": 34.416,
+      "x1": 219.456,
+      "bottom": 41.76,
+      "confidence": 96.349609,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "carriage",
+      "x0": 223.05599999999998,
+      "top": 33.839999999999996,
+      "x1": 260.928,
+      "bottom": 43.919999999999995,
+      "confidence": 96.679596,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 264.67199999999997,
+      "top": 33.839999999999996,
+      "x1": 273.16799999999995,
+      "bottom": 41.76,
+      "confidence": 96.285957,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "goods",
+      "x0": 276.62399999999997,
+      "top": 33.839999999999996,
+      "x1": 304.99199999999996,
+      "bottom": 43.919999999999995,
+      "confidence": 96.455956,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "falls",
+      "x0": 308.592,
+      "top": 33.839999999999996,
+      "x1": 327.024,
+      "bottom": 41.76,
+      "confidence": 96.455528,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "under",
+      "x0": 331.056,
+      "top": 33.839999999999996,
+      "x1": 357.69599999999997,
+      "bottom": 41.76,
+      "confidence": 96.32019,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Entry",
+      "x0": 361.58399999999995,
+      "top": 33.839999999999996,
+      "x1": 385.48799999999994,
+      "bottom": 43.775999999999996,
+      "confidence": 96.044327,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "7",
+      "x0": 389.08799999999997,
+      "top": 34.128,
+      "x1": 394.272,
+      "bottom": 41.616,
+      "confidence": 96.509331,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 398.01599999999996,
+      "top": 33.839999999999996,
+      "x1": 406.36799999999994,
+      "bottom": 41.76,
+      "confidence": 96.583359,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "the",
+      "x0": 409.67999999999995,
+      "top": 33.839999999999996,
+      "x1": 423.9359999999999,
+      "bottom": 41.76,
+      "confidence": 96.342201,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Concurrent",
+      "x0": 427.82399999999996,
+      "top": 33.696,
+      "x1": 480.09599999999995,
+      "bottom": 41.76,
+      "confidence": 96.408928,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "List.",
+      "x0": 483.984,
+      "top": 33.839999999999996,
+      "x1": 501.984,
+      "bottom": 41.76,
+      "confidence": 95.819099,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(B)",
+      "x0": 111.02399999999999,
+      "top": 48.38399999999999,
+      "x1": 123.83999999999999,
+      "bottom": 58.31999999999999,
+      "confidence": 89.815773,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Contract",
+      "x0": 129.88799999999998,
+      "top": 48.239999999999995,
+      "x1": 169.63199999999998,
+      "bottom": 56.303999999999995,
+      "confidence": 96.229324,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "relating",
+      "x0": 173.664,
+      "top": 48.528,
+      "x1": 207.21599999999998,
+      "bottom": 58.464,
+      "confidence": 96.350685,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "to",
+      "x0": 210.95999999999998,
+      "top": 48.959999999999994,
+      "x1": 219.456,
+      "bottom": 56.303999999999995,
+      "confidence": 96.348862,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "agriculture",
+      "x0": 223.05599999999998,
+      "top": 48.528,
+      "x1": 272.304,
+      "bottom": 58.464,
+      "confidence": 96.504074,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "land",
+      "x0": 276.33599999999996,
+      "top": 48.528,
+      "x1": 295.34399999999994,
+      "bottom": 56.304,
+      "confidence": 96.161636,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "falls",
+      "x0": 298.94399999999996,
+      "top": 48.38399999999999,
+      "x1": 317.52,
+      "bottom": 56.303999999999995,
+      "confidence": 96.102119,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "under",
+      "x0": 321.55199999999996,
+      "top": 48.528,
+      "x1": 348.19199999999995,
+      "bottom": 56.304,
+      "confidence": 96.248436,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Entry",
+      "x0": 352.08,
+      "top": 48.528,
+      "x1": 375.984,
+      "bottom": 58.464,
+      "confidence": 96.281815,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "7",
+      "x0": 379.58399999999995,
+      "top": 48.815999999999995,
+      "x1": 384.768,
+      "bottom": 56.16,
+      "confidence": 95.592621,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "of",
+      "x0": 388.368,
+      "top": 48.38399999999999,
+      "x1": 396.864,
+      "bottom": 56.303999999999995,
+      "confidence": 96.688156,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "the",
+      "x0": 400.176,
+      "top": 48.528,
+      "x1": 414.43199999999996,
+      "bottom": 56.304,
+      "confidence": 96.107819,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Concurrent",
+      "x0": 418.32,
+      "top": 48.239999999999995,
+      "x1": 470.448,
+      "bottom": 56.303999999999995,
+      "confidence": 96.809853,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "List.",
+      "x0": 474.47999999999996,
+      "top": 48.528,
+      "x1": 492.47999999999996,
+      "bottom": 56.304,
+      "confidence": 95.528252,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(C)",
+      "x0": 110.448,
+      "top": 62.928,
+      "x1": 123.83999999999999,
+      "bottom": 73.008,
+      "confidence": 91.771759,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Contract",
+      "x0": 129.88799999999998,
+      "top": 62.928,
+      "x1": 169.63199999999998,
+      "bottom": 70.99199999999999,
+      "confidence": 96.380562,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "relating",
+      "x0": 173.664,
+      "top": 63.071999999999996,
+      "x1": 207.21599999999998,
+      "bottom": 73.152,
+      "confidence": 96.141678,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "to",
+      "x0": 210.95999999999998,
+      "top": 63.647999999999996,
+      "x1": 219.456,
+      "bottom": 70.848,
+      "confidence": 96.627876,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "agency",
+      "x0": 223.05599999999998,
+      "top": 64.94399999999999,
+      "x1": 257.03999999999996,
+      "bottom": 73.15199999999999,
+      "confidence": 96.146172,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "falls",
+      "x0": 260.352,
+      "top": 62.928,
+      "x1": 278.784,
+      "bottom": 70.848,
+      "confidence": 96.277443,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "under",
+      "x0": 282.96,
+      "top": 63.071999999999996,
+      "x1": 309.59999999999997,
+      "bottom": 70.848,
+      "confidence": 96.346817,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Entry",
+      "x0": 313.488,
+      "top": 63.071999999999996,
+      "x1": 337.392,
+      "bottom": 73.008,
+      "confidence": 96.665085,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "7",
+      "x0": 340.84799999999996,
+      "top": 63.35999999999999,
+      "x1": 346.032,
+      "bottom": 70.704,
+      "confidence": 95.412949,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "of",
+      "x0": 349.77599999999995,
+      "top": 62.928,
+      "x1": 358.12799999999993,
+      "bottom": 70.848,
+      "confidence": 95.412949,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "the",
+      "x0": 361.44,
+      "top": 63.071999999999996,
+      "x1": 375.69599999999997,
+      "bottom": 70.848,
+      "confidence": 96.54425,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Concurrent",
+      "x0": 379.58399999999995,
+      "top": 62.928,
+      "x1": 431.85599999999994,
+      "bottom": 70.99199999999999,
+      "confidence": 96.423157,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "List.",
+      "x0": 435.888,
+      "top": 63.071999999999996,
+      "x1": 453.74399999999997,
+      "bottom": 70.848,
+      "confidence": 95.61795,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "(D)",
+      "x0": 110.448,
+      "top": 77.472,
+      "x1": 123.83999999999999,
+      "bottom": 87.55199999999999,
+      "confidence": 90.993164,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Contract",
+      "x0": 129.88799999999998,
+      "top": 77.472,
+      "x1": 169.63199999999998,
+      "bottom": 85.536,
+      "confidence": 96.840424,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "relating",
+      "x0": 173.664,
+      "top": 77.616,
+      "x1": 207.21599999999998,
+      "bottom": 87.696,
+      "confidence": 95.798302,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "to",
+      "x0": 210.95999999999998,
+      "top": 78.192,
+      "x1": 219.456,
+      "bottom": 85.53599999999999,
+      "confidence": 96.961647,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "partnership",
+      "x0": 223.344,
+      "top": 77.616,
+      "x1": 275.904,
+      "bottom": 87.55199999999999,
+      "confidence": 96.024353,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "falls",
+      "x0": 279.35999999999996,
+      "top": 77.616,
+      "x1": 297.936,
+      "bottom": 85.536,
+      "confidence": 96.024353,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "under",
+      "x0": 301.96799999999996,
+      "top": 77.616,
+      "x1": 328.60799999999995,
+      "bottom": 85.536,
+      "confidence": 96.374031,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Entry",
+      "x0": 332.496,
+      "top": 77.616,
+      "x1": 356.4,
+      "bottom": 87.55199999999999,
+      "confidence": 96.374031,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "7",
+      "x0": 359.856,
+      "top": 77.904,
+      "x1": 365.18399999999997,
+      "bottom": 85.392,
+      "confidence": 96.044037,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "of",
+      "x0": 368.784,
+      "top": 77.616,
+      "x1": 377.13599999999997,
+      "bottom": 85.536,
+      "confidence": 96.74456,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "the",
+      "x0": 380.448,
+      "top": 77.616,
+      "x1": 394.84799999999996,
+      "bottom": 85.536,
+      "confidence": 96.42067,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Concurrent",
+      "x0": 398.592,
+      "top": 77.472,
+      "x1": 450.864,
+      "bottom": 85.536,
+      "confidence": 96.414978,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "List.",
+      "x0": 454.89599999999996,
+      "top": 77.616,
+      "x1": 472.75199999999995,
+      "bottom": 85.536,
+      "confidence": 95.619881,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

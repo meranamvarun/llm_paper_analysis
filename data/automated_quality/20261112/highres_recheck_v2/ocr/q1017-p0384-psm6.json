@@ -1,0 +1,338 @@
+{
+  "pdf_page": 384,
+  "crop_top": 96.16136000000006,
+  "crop_bottom": 197.04135999999994,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0384:l0004:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.16 Who stated, \"Common law is essentially judge made law\"?",
+      "bbox": [
+        41.94,
+        4.32,
+        245.33999999999997,
+        10.98
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Ans A",
+      "bbox": [
+        43.379999999999995,
+        14.94,
+        87.66,
+        28.439999999999998
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "1. Salmond",
+      "bbox": [
+        88.56,
+        25.74,
+        121.32,
+        30.959999999999997
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "ra",
+      "bbox": [
+        72.36,
+        36.54,
+        86.75999999999999,
+        54.36
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "2. Pollock",
+      "bbox": [
+        88.38,
+        47.16,
+        117.0,
+        52.379999999999995
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        58.68,
+        93.06,
+        73.8
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "Holmes",
+      "bbox": [
+        95.94,
+        68.58,
+        117.9,
+        73.8
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        79.92,
+        93.06,
+        94.86
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "Blackstone",
+      "bbox": [
+        95.94,
+        89.82,
+        127.97999999999999,
+        95.03999999999999
+      ]
+    }
+  ],
+  "text": "Q.16 Who stated, \"Common law is essentially judge made law\"?\nAns A\n1. Salmond\nra\n2. Pollock\nx,\nHolmes\nx,\nBlackstone",
+  "ocr_words": [
+    {
+      "text": "Q.16",
+      "x0": 41.94,
+      "top": 4.68,
+      "x1": 56.16,
+      "bottom": 10.44,
+      "confidence": 91.835136,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Who",
+      "x0": 62.64,
+      "top": 4.5,
+      "x1": 77.03999999999999,
+      "bottom": 9.719999999999999,
+      "confidence": 96.440147,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "stated,",
+      "x0": 79.2,
+      "top": 4.5,
+      "x1": 100.26,
+      "bottom": 10.620000000000001,
+      "confidence": 96.124741,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "\"Common",
+      "x0": 102.6,
+      "top": 4.32,
+      "x1": 133.38,
+      "bottom": 9.719999999999999,
+      "confidence": 95.908615,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "law",
+      "x0": 135.9,
+      "top": 4.5,
+      "x1": 146.34,
+      "bottom": 9.719999999999999,
+      "confidence": 95.173462,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 148.68,
+      "top": 4.68,
+      "x1": 152.82,
+      "bottom": 9.719999999999999,
+      "confidence": 95.173462,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "essentially",
+      "x0": 154.98,
+      "top": 4.5,
+      "x1": 187.73999999999998,
+      "bottom": 10.98,
+      "confidence": 96.177803,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "judge",
+      "x0": 189.35999999999999,
+      "top": 4.5,
+      "x1": 206.45999999999998,
+      "bottom": 10.98,
+      "confidence": 96.148682,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "made",
+      "x0": 208.79999999999998,
+      "top": 4.5,
+      "x1": 225.71999999999997,
+      "bottom": 9.719999999999999,
+      "confidence": 96.189072,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "law\"?",
+      "x0": 228.23999999999998,
+      "top": 4.32,
+      "x1": 245.33999999999997,
+      "bottom": 9.719999999999999,
+      "confidence": 96.189072,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.379999999999995,
+      "top": 17.46,
+      "x1": 54.53999999999999,
+      "bottom": 22.32,
+      "confidence": 96.278236,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "A",
+      "x0": 73.8,
+      "top": 14.94,
+      "x1": 87.66,
+      "bottom": 28.439999999999998,
+      "confidence": 30.108795,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 88.56,
+      "top": 26.099999999999998,
+      "x1": 93.06,
+      "bottom": 30.779999999999998,
+      "confidence": 96.01825,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Salmond",
+      "x0": 95.58,
+      "top": 25.74,
+      "x1": 121.32,
+      "bottom": 30.959999999999997,
+      "confidence": 96.194916,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "ra",
+      "x0": 72.36,
+      "top": 36.54,
+      "x1": 86.75999999999999,
+      "bottom": 54.36,
+      "confidence": 41.642242,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "2.",
+      "x0": 88.38,
+      "top": 47.339999999999996,
+      "x1": 93.06,
+      "bottom": 52.199999999999996,
+      "confidence": 96.846573,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Pollock",
+      "x0": 95.94,
+      "top": 47.16,
+      "x1": 117.0,
+      "bottom": 52.379999999999995,
+      "confidence": 96.639832,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 58.68,
+      "x1": 93.06,
+      "bottom": 73.8,
+      "confidence": 51.109241,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Holmes",
+      "x0": 95.94,
+      "top": 68.58,
+      "x1": 117.9,
+      "bottom": 73.8,
+      "confidence": 96.304489,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 79.92,
+      "x1": 93.06,
+      "bottom": 94.86,
+      "confidence": 45.357315,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Blackstone",
+      "x0": 95.94,
+      "top": 89.82,
+      "x1": 127.97999999999999,
+      "bottom": 95.03999999999999,
+      "confidence": 95.621399,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

@@ -1,0 +1,778 @@
+{
+  "pdf_page": 239,
+  "crop_top": 68.9319999999999,
+  "crop_bottom": 162.85199999999998,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0239:l0000:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "43. Based on the given excerpt, which of the following judgments relates to euthanasia?",
+      "bbox": [
+        72.17999999999999,
+        5.22,
+        496.61999999999995,
+        16.2
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "(A) Common Cause Union of India, (2018) 5 SCC 1.",
+      "bbox": [
+        100.44,
+        19.62,
+        367.91999999999996,
+        30.42
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "v.",
+      "bbox": [
+        203.04,
+        22.68,
+        211.32,
+        28.08
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(B) Santosh Singh v. Union of India, (2016) 8 SCC 253.",
+      "bbox": [
+        100.44,
+        34.92,
+        372.23999999999995,
+        45.900000000000006
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(C) Anuj Garg Hotel Association of India, (2008) 3 SCC 1.",
+      "bbox": [
+        100.44,
+        49.14,
+        397.25999999999993,
+        60.120000000000005
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "v.",
+      "bbox": [
+        174.78,
+        52.199999999999996,
+        183.06,
+        57.599999999999994
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "(D) Madhu Kishwar v. State of Bihar, (1996) 5 SCC 125.",
+      "bbox": [
+        100.44,
+        64.44,
+        377.28,
+        75.24
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "CORRECT OPTION: A",
+      "bbox": [
+        72.53999999999999,
+        79.38,
+        197.82,
+        87.66
+      ]
+    }
+  ],
+  "text": "43. Based on the given excerpt, which of the following judgments relates to euthanasia?\n(A) Common Cause Union of India, (2018) 5 SCC 1.\nv.\n(B) Santosh Singh v. Union of India, (2016) 8 SCC 253.\n(C) Anuj Garg Hotel Association of India, (2008) 3 SCC 1.\nv.\n(D) Madhu Kishwar v. State of Bihar, (1996) 5 SCC 125.\nCORRECT OPTION: A",
+  "ocr_words": [
+    {
+      "text": "43.",
+      "x0": 72.17999999999999,
+      "top": 5.3999999999999995,
+      "x1": 84.96,
+      "bottom": 13.68,
+      "confidence": 96.27182,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Based",
+      "x0": 93.78,
+      "top": 5.22,
+      "x1": 123.3,
+      "bottom": 13.68,
+      "confidence": 96.825394,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "on",
+      "x0": 126.72,
+      "top": 8.1,
+      "x1": 138.24,
+      "bottom": 13.68,
+      "confidence": 94.125435,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 141.48,
+      "top": 5.22,
+      "x1": 155.7,
+      "bottom": 13.68,
+      "confidence": 96.708366,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "given",
+      "x0": 159.29999999999998,
+      "top": 5.22,
+      "x1": 185.39999999999998,
+      "bottom": 16.2,
+      "confidence": 96.605392,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "excerpt,",
+      "x0": 188.82,
+      "top": 6.4799999999999995,
+      "x1": 227.16,
+      "bottom": 16.2,
+      "confidence": 96.723015,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "which",
+      "x0": 230.76,
+      "top": 5.22,
+      "x1": 260.28,
+      "bottom": 13.68,
+      "confidence": 96.462189,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 263.7,
+      "top": 5.22,
+      "x1": 274.68,
+      "bottom": 13.68,
+      "confidence": 96.465096,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 276.12,
+      "top": 5.22,
+      "x1": 290.34000000000003,
+      "bottom": 13.68,
+      "confidence": 96.544701,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 293.94,
+      "top": 5.22,
+      "x1": 340.02,
+      "bottom": 16.2,
+      "confidence": 96.16304,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "judgments",
+      "x0": 341.46,
+      "top": 5.22,
+      "x1": 391.85999999999996,
+      "bottom": 16.2,
+      "confidence": 96.567223,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "relates",
+      "x0": 395.09999999999997,
+      "top": 5.22,
+      "x1": 425.87999999999994,
+      "bottom": 13.68,
+      "confidence": 96.890121,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 428.94,
+      "top": 6.4799999999999995,
+      "x1": 437.76,
+      "bottom": 13.68,
+      "confidence": 96.534088,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "euthanasia?",
+      "x0": 441.53999999999996,
+      "top": 5.22,
+      "x1": 496.61999999999995,
+      "bottom": 13.68,
+      "confidence": 96.3339,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 100.44,
+      "top": 19.62,
+      "x1": 113.39999999999999,
+      "bottom": 30.42,
+      "confidence": 96.702965,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Common",
+      "x0": 122.22,
+      "top": 19.8,
+      "x1": 167.22,
+      "bottom": 28.08,
+      "confidence": 95.357925,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Cause",
+      "x0": 170.82,
+      "top": 19.8,
+      "x1": 199.79999999999998,
+      "bottom": 28.08,
+      "confidence": 93.296204,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "v.",
+      "x0": 203.04,
+      "top": 22.68,
+      "x1": 211.32,
+      "bottom": 28.08,
+      "confidence": 93.03656,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Union",
+      "x0": 214.92,
+      "top": 19.62,
+      "x1": 244.98,
+      "bottom": 28.26,
+      "confidence": 96.839355,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 247.67999999999998,
+      "top": 19.62,
+      "x1": 258.65999999999997,
+      "bottom": 28.08,
+      "confidence": 96.494942,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "India,",
+      "x0": 261.0,
+      "top": 19.62,
+      "x1": 287.64,
+      "bottom": 29.880000000000003,
+      "confidence": 96.217583,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(2018)",
+      "x0": 291.24,
+      "top": 19.62,
+      "x1": 322.74,
+      "bottom": 30.42,
+      "confidence": 94.921844,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "5",
+      "x0": 326.34,
+      "top": 19.98,
+      "x1": 331.02,
+      "bottom": 28.08,
+      "confidence": 94.921844,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "SCC",
+      "x0": 335.34,
+      "top": 19.8,
+      "x1": 356.76,
+      "bottom": 28.08,
+      "confidence": 96.009377,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 361.08,
+      "top": 19.8,
+      "x1": 367.91999999999996,
+      "bottom": 28.08,
+      "confidence": 96.68087,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(B)",
+      "x0": 100.44,
+      "top": 34.92,
+      "x1": 112.86,
+      "bottom": 45.72,
+      "confidence": 91.966797,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Santosh",
+      "x0": 122.39999999999999,
+      "top": 34.92,
+      "x1": 159.66,
+      "bottom": 43.38,
+      "confidence": 96.683464,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Singh",
+      "x0": 163.26,
+      "top": 34.92,
+      "x1": 190.44,
+      "bottom": 45.900000000000006,
+      "confidence": 93.283554,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "v.",
+      "x0": 193.32,
+      "top": 37.8,
+      "x1": 201.6,
+      "bottom": 43.379999999999995,
+      "confidence": 92.480072,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Union",
+      "x0": 205.01999999999998,
+      "top": 34.92,
+      "x1": 235.43999999999997,
+      "bottom": 43.38,
+      "confidence": 96.20932,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 238.85999999999999,
+      "top": 34.92,
+      "x1": 249.66,
+      "bottom": 43.38,
+      "confidence": 96.327217,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "India,",
+      "x0": 252.17999999999998,
+      "top": 34.92,
+      "x1": 279.17999999999995,
+      "bottom": 45.18,
+      "confidence": 95.875893,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(2016)",
+      "x0": 282.96,
+      "top": 34.92,
+      "x1": 314.64,
+      "bottom": 45.72,
+      "confidence": 95.650711,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "8",
+      "x0": 318.42,
+      "top": 35.1,
+      "x1": 322.92,
+      "bottom": 43.38,
+      "confidence": 96.472198,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "SCC",
+      "x0": 327.06,
+      "top": 35.1,
+      "x1": 348.66,
+      "bottom": 43.38,
+      "confidence": 94.304146,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "253.",
+      "x0": 351.9,
+      "top": 35.1,
+      "x1": 372.23999999999995,
+      "bottom": 43.38,
+      "confidence": 94.304146,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(C)",
+      "x0": 100.44,
+      "top": 49.14,
+      "x1": 112.86,
+      "bottom": 59.94,
+      "confidence": 92.371429,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Anuj",
+      "x0": 121.86,
+      "top": 49.14,
+      "x1": 145.44,
+      "bottom": 60.120000000000005,
+      "confidence": 92.412544,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Garg",
+      "x0": 149.22,
+      "top": 49.32,
+      "x1": 172.62,
+      "bottom": 60.12,
+      "confidence": 89.665466,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "v.",
+      "x0": 174.78,
+      "top": 52.199999999999996,
+      "x1": 183.06,
+      "bottom": 57.599999999999994,
+      "confidence": 89.665466,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Hotel",
+      "x0": 186.84,
+      "top": 49.14,
+      "x1": 213.48000000000002,
+      "bottom": 57.6,
+      "confidence": 96.636917,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Association",
+      "x0": 217.07999999999998,
+      "top": 49.14,
+      "x1": 273.41999999999996,
+      "bottom": 57.6,
+      "confidence": 96.149521,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "of",
+      "x0": 276.65999999999997,
+      "top": 49.14,
+      "x1": 287.64,
+      "bottom": 57.6,
+      "confidence": 96.722099,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "India,",
+      "x0": 290.15999999999997,
+      "top": 49.14,
+      "x1": 316.79999999999995,
+      "bottom": 59.4,
+      "confidence": 96.814453,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(2008)",
+      "x0": 320.58,
+      "top": 49.32,
+      "x1": 352.08,
+      "bottom": 59.94,
+      "confidence": 95.624855,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "3",
+      "x0": 355.5,
+      "top": 49.32,
+      "x1": 360.0,
+      "bottom": 57.6,
+      "confidence": 95.802567,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "SCC",
+      "x0": 364.5,
+      "top": 49.32,
+      "x1": 386.1,
+      "bottom": 57.6,
+      "confidence": 96.523415,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "1.",
+      "x0": 390.41999999999996,
+      "top": 49.32,
+      "x1": 397.25999999999993,
+      "bottom": 57.6,
+      "confidence": 96.523415,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(D)",
+      "x0": 100.44,
+      "top": 64.44,
+      "x1": 113.39999999999999,
+      "bottom": 75.24,
+      "confidence": 90.060722,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Madhu",
+      "x0": 121.86,
+      "top": 64.44,
+      "x1": 156.06,
+      "bottom": 72.89999999999999,
+      "confidence": 93.302391,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Kishwar",
+      "x0": 159.29999999999998,
+      "top": 64.44,
+      "x1": 200.33999999999997,
+      "bottom": 72.89999999999999,
+      "confidence": 92.2556,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "v.",
+      "x0": 203.04,
+      "top": 67.32,
+      "x1": 211.14,
+      "bottom": 72.89999999999999,
+      "confidence": 92.2556,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "State",
+      "x0": 215.45999999999998,
+      "top": 64.62,
+      "x1": 238.32,
+      "bottom": 72.9,
+      "confidence": 96.319832,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "of",
+      "x0": 241.73999999999998,
+      "top": 64.44,
+      "x1": 252.54,
+      "bottom": 72.89999999999999,
+      "confidence": 96.504478,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Bihar,",
+      "x0": 254.88,
+      "top": 64.44,
+      "x1": 283.68,
+      "bottom": 74.7,
+      "confidence": 96.473557,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "(1996)",
+      "x0": 287.28,
+      "top": 64.44,
+      "x1": 319.32,
+      "bottom": 75.24,
+      "confidence": 96.632744,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "5",
+      "x0": 323.09999999999997,
+      "top": 64.8,
+      "x1": 327.78,
+      "bottom": 72.89999999999999,
+      "confidence": 96.472366,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "SCC",
+      "x0": 332.09999999999997,
+      "top": 64.62,
+      "x1": 353.52,
+      "bottom": 72.9,
+      "confidence": 95.803314,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "125.",
+      "x0": 358.02,
+      "top": 64.62,
+      "x1": 377.28,
+      "bottom": 72.9,
+      "confidence": 95.803314,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "CORRECT",
+      "x0": 72.53999999999999,
+      "top": 79.38,
+      "x1": 131.57999999999998,
+      "bottom": 87.66,
+      "confidence": 96.547455,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "OPTION:",
+      "x0": 135.54,
+      "top": 79.38,
+      "x1": 185.22,
+      "bottom": 87.66,
+      "confidence": 95.95208,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "A",
+      "x0": 189.35999999999999,
+      "top": 79.38,
+      "x1": 197.82,
+      "bottom": 87.47999999999999,
+      "confidence": 96.163399,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

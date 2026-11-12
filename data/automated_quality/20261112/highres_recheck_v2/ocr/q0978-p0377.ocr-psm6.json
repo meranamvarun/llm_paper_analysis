@@ -1,0 +1,187 @@
+{
+  "pdf_page": 377,
+  "crop_top": 44.80146000000002,
+  "crop_bottom": 102.96136000000001,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0376:l0048:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "f\\",
+      "bbox": [
+        72.36,
+        0.0,
+        84.6,
+        11.34
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "2. Prime Minister",
+      "bbox": [
+        88.38,
+        4.68,
+        140.4,
+        9.719999999999999
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": ".",
+      "bbox": [
+        76.86,
+        20.16,
+        80.64,
+        28.439999999999998
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "3. President",
+      "bbox": [
+        88.2,
+        25.919999999999998,
+        124.02,
+        31.139999999999997
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        37.26,
+        93.06,
+        52.379999999999995
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "Finance Minister",
+      "bbox": [
+        95.94,
+        47.519999999999996,
+        145.98,
+        52.559999999999995
+      ]
+    }
+  ],
+  "text": "f\\\n2. Prime Minister\n.\n3. President\nx,\nFinance Minister",
+  "ocr_words": [
+    {
+      "text": "f\\",
+      "x0": 72.36,
+      "top": 0.0,
+      "x1": 84.6,
+      "bottom": 11.34,
+      "confidence": 33.884384,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2.",
+      "x0": 88.38,
+      "top": 4.68,
+      "x1": 93.06,
+      "bottom": 9.54,
+      "confidence": 96.470192,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Prime",
+      "x0": 95.94,
+      "top": 4.68,
+      "x1": 112.86,
+      "bottom": 9.719999999999999,
+      "confidence": 96.820267,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Minister",
+      "x0": 115.56,
+      "top": 4.68,
+      "x1": 140.4,
+      "bottom": 9.719999999999999,
+      "confidence": 96.5485,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ".",
+      "x0": 76.86,
+      "top": 20.16,
+      "x1": 80.64,
+      "bottom": 28.439999999999998,
+      "confidence": 0.0,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "3.",
+      "x0": 88.2,
+      "top": 26.099999999999998,
+      "x1": 93.06,
+      "bottom": 31.139999999999997,
+      "confidence": 96.74839,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "President",
+      "x0": 95.94,
+      "top": 25.919999999999998,
+      "x1": 124.02,
+      "bottom": 31.139999999999997,
+      "confidence": 95.748268,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 37.26,
+      "x1": 93.06,
+      "bottom": 52.379999999999995,
+      "confidence": 54.712448,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Finance",
+      "x0": 95.94,
+      "top": 47.519999999999996,
+      "x1": 118.44,
+      "bottom": 52.559999999999995,
+      "confidence": 96.74305,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Minister",
+      "x0": 121.14,
+      "top": 47.519999999999996,
+      "x1": 145.98,
+      "bottom": 52.559999999999995,
+      "confidence": 96.481018,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

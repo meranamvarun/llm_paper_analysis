@@ -1,0 +1,723 @@
+{
+  "pdf_page": 377,
+  "crop_top": 412.96135999999996,
+  "crop_bottom": 513.8413599999999,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0377:l0024:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.30 Which of the following judgment of the Supreme Court is related to rights of third gander?",
+      "bbox": [
+        41.94,
+        4.5,
+        343.61999999999995,
+        10.98
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Ans a",
+      "bbox": [
+        43.379999999999995,
+        15.84,
+        86.75999999999999,
+        28.259999999999998
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "1. Democratic Union v. Govt. of India (2015)",
+      "bbox": [
+        88.56,
+        25.74,
+        221.22,
+        32.04
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        37.08,
+        93.06,
+        52.199999999999996
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "Ramprakash v. State of UP (2013)",
+      "bbox": [
+        95.94,
+        47.16,
+        196.74,
+        53.63999999999999
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        58.5,
+        93.06,
+        73.8
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "Peoples Union for Civil Liberty v. State of Maharashtra (2000)",
+      "bbox": [
+        95.94,
+        68.58,
+        281.15999999999997,
+        75.06
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": ".",
+      "bbox": [
+        76.86,
+        84.42,
+        80.46,
+        92.52
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "4. National Legal Services Authority v. Union of India (2014)",
+      "bbox": [
+        88.02,
+        89.82,
+        268.38,
+        96.3
+      ]
+    }
+  ],
+  "text": "Q.30 Which of the following judgment of the Supreme Court is related to rights of third gander?\nAns a\n1. Democratic Union v. Govt. of India (2015)\nx,\nRamprakash v. State of UP (2013)\nx,\nPeoples Union for Civil Liberty v. State of Maharashtra (2000)\n.\n4. National Legal Services Authority v. Union of India (2014)",
+  "ocr_words": [
+    {
+      "text": "Q.30",
+      "x0": 41.94,
+      "top": 4.68,
+      "x1": 56.16,
+      "bottom": 10.44,
+      "confidence": 90.061546,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Which",
+      "x0": 62.64,
+      "top": 4.5,
+      "x1": 81.72,
+      "bottom": 9.719999999999999,
+      "confidence": 95.22377,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 84.06,
+      "top": 4.5,
+      "x1": 90.36,
+      "bottom": 9.719999999999999,
+      "confidence": 96.018913,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 91.97999999999999,
+      "top": 4.5,
+      "x1": 102.05999999999999,
+      "bottom": 9.719999999999999,
+      "confidence": 95.767029,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 104.22,
+      "top": 4.5,
+      "x1": 133.01999999999998,
+      "bottom": 10.98,
+      "confidence": 96.434158,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "judgment",
+      "x0": 134.64,
+      "top": 4.5,
+      "x1": 164.7,
+      "bottom": 10.98,
+      "confidence": 96.053658,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 166.85999999999999,
+      "top": 4.5,
+      "x1": 172.98,
+      "bottom": 9.719999999999999,
+      "confidence": 96.426468,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 174.78,
+      "top": 4.5,
+      "x1": 184.86,
+      "bottom": 9.719999999999999,
+      "confidence": 96.669518,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Supreme",
+      "x0": 187.01999999999998,
+      "top": 4.68,
+      "x1": 214.55999999999997,
+      "bottom": 10.98,
+      "confidence": 96.309517,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Court",
+      "x0": 216.72,
+      "top": 4.68,
+      "x1": 233.64,
+      "bottom": 9.719999999999999,
+      "confidence": 96.078384,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 235.79999999999998,
+      "top": 4.68,
+      "x1": 240.11999999999998,
+      "bottom": 9.719999999999999,
+      "confidence": 96.736809,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "related",
+      "x0": 242.45999999999998,
+      "top": 4.5,
+      "x1": 263.88,
+      "bottom": 9.719999999999999,
+      "confidence": 96.868149,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 266.03999999999996,
+      "top": 5.04,
+      "x1": 272.52,
+      "bottom": 9.719999999999999,
+      "confidence": 96.271492,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "rights",
+      "x0": 274.86,
+      "top": 4.5,
+      "x1": 291.78000000000003,
+      "bottom": 10.98,
+      "confidence": 96.271492,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 293.94,
+      "top": 4.5,
+      "x1": 300.24,
+      "bottom": 9.719999999999999,
+      "confidence": 96.399437,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "third",
+      "x0": 301.86,
+      "top": 4.5,
+      "x1": 316.44,
+      "bottom": 9.719999999999999,
+      "confidence": 96.623161,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "gander?",
+      "x0": 318.78,
+      "top": 4.5,
+      "x1": 343.61999999999995,
+      "bottom": 10.98,
+      "confidence": 96.872864,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.379999999999995,
+      "top": 17.46,
+      "x1": 54.53999999999999,
+      "bottom": 22.32,
+      "confidence": 96.838402,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "a",
+      "x0": 73.08,
+      "top": 15.84,
+      "x1": 86.75999999999999,
+      "bottom": 28.259999999999998,
+      "confidence": 54.666435,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 88.56,
+      "top": 26.099999999999998,
+      "x1": 93.06,
+      "bottom": 30.779999999999998,
+      "confidence": 96.441284,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Democratic",
+      "x0": 95.94,
+      "top": 25.919999999999998,
+      "x1": 130.14,
+      "bottom": 30.959999999999997,
+      "confidence": 96.196503,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Union",
+      "x0": 132.66,
+      "top": 25.919999999999998,
+      "x1": 149.76,
+      "bottom": 30.959999999999997,
+      "confidence": 93.287216,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "v.",
+      "x0": 152.28,
+      "top": 27.36,
+      "x1": 156.78,
+      "bottom": 30.78,
+      "confidence": 92.908562,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Govt.",
+      "x0": 159.29999999999998,
+      "top": 25.919999999999998,
+      "x1": 174.95999999999998,
+      "bottom": 30.959999999999997,
+      "confidence": 96.688446,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 177.66,
+      "top": 25.74,
+      "x1": 183.6,
+      "bottom": 30.959999999999997,
+      "confidence": 96.658859,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "India",
+      "x0": 185.76,
+      "top": 25.74,
+      "x1": 199.79999999999998,
+      "bottom": 30.959999999999997,
+      "confidence": 96.817009,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(2015)",
+      "x0": 202.5,
+      "top": 25.74,
+      "x1": 221.22,
+      "bottom": 32.04,
+      "confidence": 96.658699,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 37.08,
+      "x1": 93.06,
+      "bottom": 52.199999999999996,
+      "confidence": 59.950447,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Ramprakash",
+      "x0": 95.94,
+      "top": 47.16,
+      "x1": 132.3,
+      "bottom": 53.63999999999999,
+      "confidence": 93.2537,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "v.",
+      "x0": 134.82,
+      "top": 48.78,
+      "x1": 139.32,
+      "bottom": 52.2,
+      "confidence": 92.753487,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "State",
+      "x0": 141.84,
+      "top": 47.339999999999996,
+      "x1": 156.96,
+      "bottom": 52.379999999999995,
+      "confidence": 96.515915,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "of",
+      "x0": 159.48,
+      "top": 47.16,
+      "x1": 165.42,
+      "bottom": 52.379999999999995,
+      "confidence": 96.735252,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "UP",
+      "x0": 167.57999999999998,
+      "top": 47.519999999999996,
+      "x1": 175.49999999999997,
+      "bottom": 52.379999999999995,
+      "confidence": 96.292259,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(2013)",
+      "x0": 177.84,
+      "top": 47.16,
+      "x1": 196.74,
+      "bottom": 53.459999999999994,
+      "confidence": 96.460938,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 58.5,
+      "x1": 93.06,
+      "bottom": 73.8,
+      "confidence": 52.038403,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Peoples",
+      "x0": 95.94,
+      "top": 68.58,
+      "x1": 118.8,
+      "bottom": 75.06,
+      "confidence": 96.410988,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Union",
+      "x0": 121.5,
+      "top": 68.75999999999999,
+      "x1": 138.6,
+      "bottom": 73.8,
+      "confidence": 96.347954,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "for",
+      "x0": 141.12,
+      "top": 68.58,
+      "x1": 149.58,
+      "bottom": 73.8,
+      "confidence": 96.347954,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Civil",
+      "x0": 151.92,
+      "top": 68.58,
+      "x1": 163.44,
+      "bottom": 73.8,
+      "confidence": 96.711563,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Liberty",
+      "x0": 166.32,
+      "top": 68.58,
+      "x1": 186.66,
+      "bottom": 75.06,
+      "confidence": 93.228455,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "v.",
+      "x0": 188.64,
+      "top": 70.2,
+      "x1": 193.14,
+      "bottom": 73.62,
+      "confidence": 92.396416,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "State",
+      "x0": 195.66,
+      "top": 68.75999999999999,
+      "x1": 210.96,
+      "bottom": 73.8,
+      "confidence": 96.867073,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "of",
+      "x0": 213.29999999999998,
+      "top": 68.58,
+      "x1": 219.23999999999998,
+      "bottom": 73.8,
+      "confidence": 96.660622,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Maharashtra",
+      "x0": 221.57999999999998,
+      "top": 68.58,
+      "x1": 259.74,
+      "bottom": 73.8,
+      "confidence": 96.301208,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "(2000)",
+      "x0": 262.44,
+      "top": 68.58,
+      "x1": 281.15999999999997,
+      "bottom": 74.88,
+      "confidence": 96.118088,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": ".",
+      "x0": 76.86,
+      "top": 84.42,
+      "x1": 80.46,
+      "bottom": 92.52,
+      "confidence": 0.0,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "4.",
+      "x0": 88.02,
+      "top": 90.17999999999999,
+      "x1": 93.06,
+      "bottom": 94.85999999999999,
+      "confidence": 96.361794,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "National",
+      "x0": 95.94,
+      "top": 89.82,
+      "x1": 120.6,
+      "bottom": 95.03999999999999,
+      "confidence": 96.469604,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Legal",
+      "x0": 123.47999999999999,
+      "top": 89.82,
+      "x1": 138.06,
+      "bottom": 96.3,
+      "confidence": 96.880661,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Services",
+      "x0": 140.57999999999998,
+      "top": 90.0,
+      "x1": 164.7,
+      "bottom": 95.04,
+      "confidence": 96.864944,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Authority",
+      "x0": 166.85999999999999,
+      "top": 89.82,
+      "x1": 195.48,
+      "bottom": 96.3,
+      "confidence": 93.283417,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "v.",
+      "x0": 197.45999999999998,
+      "top": 91.44,
+      "x1": 201.95999999999998,
+      "bottom": 94.86,
+      "confidence": 92.990372,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Union",
+      "x0": 204.84,
+      "top": 90.0,
+      "x1": 222.12,
+      "bottom": 95.04,
+      "confidence": 96.535149,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "of",
+      "x0": 224.64,
+      "top": 89.82,
+      "x1": 230.57999999999998,
+      "bottom": 95.03999999999999,
+      "confidence": 95.232323,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "India",
+      "x0": 232.92,
+      "top": 89.82,
+      "x1": 246.77999999999997,
+      "bottom": 95.03999999999999,
+      "confidence": 96.563919,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "(2014)",
+      "x0": 249.48,
+      "top": 89.82,
+      "x1": 268.38,
+      "bottom": 96.11999999999999,
+      "confidence": 96.783318,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

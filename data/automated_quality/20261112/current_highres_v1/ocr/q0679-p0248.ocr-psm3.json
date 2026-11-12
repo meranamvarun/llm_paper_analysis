@@ -1,0 +1,351 @@
+{
+  "pdf_page": 248,
+  "crop_top": 248.24199999999996,
+  "crop_bottom": 347.80199999999996,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0248:l0012:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "80. The natural guardian of a Hindu minor is",
+      "bbox": [
+        72.72,
+        5.183999999999999,
+        289.72799999999995,
+        16.128
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "(A) Neither father normother.",
+      "bbox": [
+        100.51199999999999,
+        21.168,
+        247.67999999999998,
+        32.111999999999995
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(B) Both father and mother.",
+      "bbox": [
+        100.51199999999999,
+        37.296,
+        237.02399999999997,
+        48.096
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(C) Mother",
+      "bbox": [
+        100.51199999999999,
+        53.279999999999994,
+        157.10399999999998,
+        64.224
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(D) Father",
+      "bbox": [
+        100.51199999999999,
+        68.39999999999999,
+        152.35199999999998,
+        79.344
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "CORRECT OPTION: D",
+      "bbox": [
+        72.43199999999999,
+        84.96,
+        197.56799999999998,
+        93.312
+      ]
+    }
+  ],
+  "text": "80. The natural guardian of a Hindu minor is\n(A) Neither father normother.\n(B) Both father and mother.\n(C) Mother\n(D) Father\nCORRECT OPTION: D",
+  "ocr_words": [
+    {
+      "text": "80.",
+      "x0": 72.72,
+      "top": 5.4719999999999995,
+      "x1": 84.96,
+      "bottom": 13.68,
+      "confidence": 96.351143,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 94.032,
+      "top": 5.183999999999999,
+      "x1": 111.88799999999999,
+      "bottom": 13.679999999999998,
+      "confidence": 95.798241,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "natural",
+      "x0": 114.91199999999999,
+      "top": 5.183999999999999,
+      "x1": 148.75199999999998,
+      "bottom": 13.679999999999998,
+      "confidence": 96.388458,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "guardian",
+      "x0": 151.92,
+      "top": 5.183999999999999,
+      "x1": 193.392,
+      "bottom": 16.128,
+      "confidence": 96.30677,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 196.70399999999998,
+      "top": 5.183999999999999,
+      "x1": 207.64799999999997,
+      "bottom": 13.679999999999998,
+      "confidence": 96.482033,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 210.09599999999998,
+      "top": 8.064,
+      "x1": 214.99199999999996,
+      "bottom": 13.68,
+      "confidence": 95.927933,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Hindu",
+      "x0": 217.87199999999999,
+      "top": 5.183999999999999,
+      "x1": 248.112,
+      "bottom": 13.679999999999998,
+      "confidence": 96.621002,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "minor",
+      "x0": 251.27999999999997,
+      "top": 5.183999999999999,
+      "x1": 279.936,
+      "bottom": 13.679999999999998,
+      "confidence": 95.132988,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 282.52799999999996,
+      "top": 5.183999999999999,
+      "x1": 289.72799999999995,
+      "bottom": 13.679999999999998,
+      "confidence": 95.409393,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 100.51199999999999,
+      "top": 21.168,
+      "x1": 113.47199999999998,
+      "bottom": 32.111999999999995,
+      "confidence": 96.822327,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Neither",
+      "x0": 121.53599999999999,
+      "top": 21.168,
+      "x1": 157.67999999999998,
+      "bottom": 29.663999999999998,
+      "confidence": 96.447601,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "father",
+      "x0": 160.992,
+      "top": 21.168,
+      "x1": 189.648,
+      "bottom": 29.663999999999998,
+      "confidence": 93.254982,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "normother.",
+      "x0": 193.10399999999998,
+      "top": 21.168,
+      "x1": 247.67999999999998,
+      "bottom": 29.663999999999998,
+      "confidence": 92.080078,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(B)",
+      "x0": 100.51199999999999,
+      "top": 37.296,
+      "x1": 112.89599999999999,
+      "bottom": 48.096,
+      "confidence": 92.613129,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Both",
+      "x0": 121.96799999999999,
+      "top": 37.296,
+      "x1": 144.86399999999998,
+      "bottom": 45.792,
+      "confidence": 96.845139,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "father",
+      "x0": 148.464,
+      "top": 37.296,
+      "x1": 177.12,
+      "bottom": 45.792,
+      "confidence": 95.746628,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "and",
+      "x0": 180.86399999999998,
+      "top": 37.296,
+      "x1": 198.14399999999998,
+      "bottom": 45.792,
+      "confidence": 94.640099,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "mother.",
+      "x0": 200.30399999999997,
+      "top": 37.296,
+      "x1": 237.02399999999997,
+      "bottom": 45.792,
+      "confidence": 94.640099,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(C)",
+      "x0": 100.51199999999999,
+      "top": 53.424,
+      "x1": 112.89599999999999,
+      "bottom": 64.224,
+      "confidence": 93.100464,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Mother",
+      "x0": 121.96799999999999,
+      "top": 53.279999999999994,
+      "x1": 157.10399999999998,
+      "bottom": 61.919999999999995,
+      "confidence": 96.273766,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(D)",
+      "x0": 100.51199999999999,
+      "top": 68.544,
+      "x1": 113.47199999999998,
+      "bottom": 79.344,
+      "confidence": 90.201149,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Father",
+      "x0": 121.82399999999998,
+      "top": 68.39999999999999,
+      "x1": 152.35199999999998,
+      "bottom": 77.03999999999999,
+      "confidence": 96.681686,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "CORRECT",
+      "x0": 72.43199999999999,
+      "top": 84.96,
+      "x1": 131.61599999999999,
+      "bottom": 93.312,
+      "confidence": 95.655167,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "OPTION:",
+      "x0": 135.504,
+      "top": 85.104,
+      "x1": 185.184,
+      "bottom": 93.312,
+      "confidence": 92.481644,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "D",
+      "x0": 189.504,
+      "top": 85.24799999999999,
+      "x1": 197.56799999999998,
+      "bottom": 93.16799999999999,
+      "confidence": 91.074989,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

@@ -1,0 +1,384 @@
+{
+  "pdf_page": 230,
+  "crop_top": 68.9319999999999,
+  "crop_bottom": 168.49199999999996,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0230:l0000:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "8. The liberty of a citizen is alive because oflively",
+      "bbox": [
+        72.72,
+        5.22,
+        325.44,
+        16.2
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "_ _",
+      "bbox": [
+        327.96,
+        15.66,
+        365.94,
+        16.2
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(A) Media.",
+      "bbox": [
+        100.44,
+        21.24,
+        154.44,
+        32.04
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(B) Judiciary.",
+      "bbox": [
+        100.44,
+        36.36,
+        168.48,
+        47.34
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(C) Media and Judiciary.",
+      "bbox": [
+        100.44,
+        52.559999999999995,
+        222.48,
+        63.53999999999999
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "(D) Executive and Legislature.",
+      "bbox": [
+        100.44,
+        68.39999999999999,
+        250.02,
+        79.38
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "CORRECT OPTION: C",
+      "bbox": [
+        72.53999999999999,
+        84.96,
+        197.46,
+        93.24
+      ]
+    }
+  ],
+  "text": "8. The liberty of a citizen is alive because oflively\n_ _\n(A) Media.\n(B) Judiciary.\n(C) Media and Judiciary.\n(D) Executive and Legislature.\nCORRECT OPTION: C",
+  "ocr_words": [
+    {
+      "text": "8.",
+      "x0": 72.72,
+      "top": 5.3999999999999995,
+      "x1": 79.56,
+      "bottom": 13.68,
+      "confidence": 82.957321,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 93.96,
+      "top": 5.22,
+      "x1": 111.96,
+      "bottom": 13.68,
+      "confidence": 78.800751,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "liberty",
+      "x0": 115.74,
+      "top": 5.22,
+      "x1": 146.7,
+      "bottom": 16.2,
+      "confidence": 95.924042,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 149.94,
+      "top": 5.22,
+      "x1": 160.92,
+      "bottom": 13.68,
+      "confidence": 94.138145,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 163.44,
+      "top": 8.1,
+      "x1": 168.3,
+      "bottom": 13.68,
+      "confidence": 94.138145,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "citizen",
+      "x0": 171.72,
+      "top": 5.22,
+      "x1": 203.22,
+      "bottom": 13.68,
+      "confidence": 95.201035,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 206.64,
+      "top": 5.22,
+      "x1": 213.83999999999997,
+      "bottom": 13.68,
+      "confidence": 96.521812,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "alive",
+      "x0": 217.79999999999998,
+      "top": 5.22,
+      "x1": 240.29999999999998,
+      "bottom": 13.68,
+      "confidence": 96.824127,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "because",
+      "x0": 243.72,
+      "top": 5.22,
+      "x1": 282.6,
+      "bottom": 13.68,
+      "confidence": 92.668655,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "oflively",
+      "x0": 286.74,
+      "top": 5.22,
+      "x1": 325.44,
+      "bottom": 16.2,
+      "confidence": 88.160614,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "_",
+      "x0": 327.96,
+      "top": 15.66,
+      "x1": 334.26,
+      "bottom": 16.2,
+      "confidence": 87.280739,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "_",
+      "x0": 359.64,
+      "top": 15.66,
+      "x1": 365.94,
+      "bottom": 16.2,
+      "confidence": 32.526566,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 100.44,
+      "top": 21.24,
+      "x1": 113.39999999999999,
+      "bottom": 32.04,
+      "confidence": 96.612015,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Media.",
+      "x0": 121.86,
+      "top": 21.24,
+      "x1": 154.44,
+      "bottom": 29.699999999999996,
+      "confidence": 96.526344,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(B)",
+      "x0": 100.44,
+      "top": 36.54,
+      "x1": 112.86,
+      "bottom": 47.339999999999996,
+      "confidence": 91.666374,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Judiciary.",
+      "x0": 122.03999999999999,
+      "top": 36.36,
+      "x1": 168.48,
+      "bottom": 47.34,
+      "confidence": 96.411774,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(C)",
+      "x0": 100.44,
+      "top": 52.559999999999995,
+      "x1": 112.86,
+      "bottom": 63.35999999999999,
+      "confidence": 92.483124,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Media",
+      "x0": 121.86,
+      "top": 52.559999999999995,
+      "x1": 152.28,
+      "bottom": 61.019999999999996,
+      "confidence": 96.186745,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 155.7,
+      "top": 52.559999999999995,
+      "x1": 172.98,
+      "bottom": 61.019999999999996,
+      "confidence": 95.968674,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Judiciary.",
+      "x0": 176.04,
+      "top": 52.559999999999995,
+      "x1": 222.48,
+      "bottom": 63.53999999999999,
+      "confidence": 92.598694,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(D)",
+      "x0": 100.44,
+      "top": 68.58,
+      "x1": 113.39999999999999,
+      "bottom": 79.38,
+      "confidence": 91.989944,
+      "ocr_block": "2",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Executive",
+      "x0": 122.03999999999999,
+      "top": 68.39999999999999,
+      "x1": 170.1,
+      "bottom": 77.03999999999999,
+      "confidence": 96.751053,
+      "ocr_block": "2",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 174.23999999999998,
+      "top": 68.39999999999999,
+      "x1": 191.51999999999998,
+      "bottom": 77.03999999999999,
+      "confidence": 96.757843,
+      "ocr_block": "2",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Legislature.",
+      "x0": 194.4,
+      "top": 68.39999999999999,
+      "x1": 250.02,
+      "bottom": 79.38,
+      "confidence": 96.543991,
+      "ocr_block": "2",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "CORRECT",
+      "x0": 72.53999999999999,
+      "top": 84.96,
+      "x1": 131.57999999999998,
+      "bottom": 93.24,
+      "confidence": 96.293747,
+      "ocr_block": "2",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "OPTION:",
+      "x0": 135.54,
+      "top": 85.14,
+      "x1": 185.22,
+      "bottom": 93.24,
+      "confidence": 92.485954,
+      "ocr_block": "2",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "C",
+      "x0": 189.9,
+      "top": 84.96,
+      "x1": 197.46,
+      "bottom": 93.24,
+      "confidence": 92.434448,
+      "ocr_block": "2",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

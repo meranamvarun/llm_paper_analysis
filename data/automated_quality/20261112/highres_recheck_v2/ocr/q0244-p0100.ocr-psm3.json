@@ -1,0 +1,1271 @@
+{
+  "pdf_page": 100,
+  "crop_top": 408.0193,
+  "crop_bottom": 535.1193,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0100:l0022:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "5. Statement | Power to grant relief from oppression/mismanagement which were vested",
+      "bbox": [
+        102.24,
+        3.78,
+        551.3399999999999,
+        14.219999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "-",
+      "bbox": [
+        178.73999999999998,
+        8.28,
+        181.43999999999997,
+        9.36
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "by section 402 of the 1956 Act in High Court have now been transferred to the National",
+      "bbox": [
+        117.72,
+        17.28,
+        551.34,
+        27.72
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "Company Law Tribunal by section 242 of the 2013 Acct.",
+      "bbox": [
+        117.53999999999999,
+        30.779999999999998,
+        383.21999999999997,
+        41.22
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "Statement II Section 242 does not empower National Company Law Appellate Tribunal",
+      "bbox": [
+        117.53999999999999,
+        53.82,
+        551.34,
+        64.26
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "-",
+      "bbox": [
+        180.9,
+        58.32,
+        183.6,
+        59.4
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "to grant relief by way of prevention of apprehended mismanagement of the company due",
+      "bbox": [
+        117.17999999999999,
+        67.5,
+        551.52,
+        77.94
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "to material change which has taken place in its management or control.",
+      "bbox": [
+        117.17999999999999,
+        81.0,
+        462.78,
+        91.44
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "(A) Statement | is untrue (B) Statement II is untrue",
+      "bbox": [
+        116.1,
+        96.3,
+        441.18,
+        106.74
+      ]
+    },
+    {
+      "line_id": "l0009",
+      "text": "(C) Both Statements | and Il are untrue (D) Both Statements | and II are true",
+      "bbox": [
+        115.38,
+        111.78,
+        495.54,
+        122.22
+      ]
+    }
+  ],
+  "text": "5. Statement | Power to grant relief from oppression/mismanagement which were vested\n-\nby section 402 of the 1956 Act in High Court have now been transferred to the National\nCompany Law Tribunal by section 242 of the 2013 Acct.\nStatement II Section 242 does not empower National Company Law Appellate Tribunal\n-\nto grant relief by way of prevention of apprehended mismanagement of the company due\nto material change which has taken place in its management or control.\n(A) Statement | is untrue (B) Statement II is untrue\n(C) Both Statements | and Il are untrue (D) Both Statements | and II are true",
+  "ocr_words": [
+    {
+      "text": "5.",
+      "x0": 102.24,
+      "top": 4.32,
+      "x1": 110.16,
+      "bottom": 12.059999999999999,
+      "confidence": 95.999138,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Statement",
+      "x0": 117.53999999999999,
+      "top": 3.78,
+      "x1": 166.85999999999999,
+      "bottom": 12.059999999999999,
+      "confidence": 95.959435,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "|",
+      "x0": 172.07999999999998,
+      "top": 3.96,
+      "x1": 173.16,
+      "bottom": 11.879999999999999,
+      "confidence": 90.655235,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "-",
+      "x0": 178.73999999999998,
+      "top": 8.28,
+      "x1": 181.43999999999997,
+      "bottom": 9.36,
+      "confidence": 90.655235,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Power",
+      "x0": 186.84,
+      "top": 3.96,
+      "x1": 217.08,
+      "bottom": 12.059999999999999,
+      "confidence": 96.732155,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 221.22,
+      "top": 4.5,
+      "x1": 229.86,
+      "bottom": 12.059999999999999,
+      "confidence": 96.732155,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "grant",
+      "x0": 234.72,
+      "top": 4.5,
+      "x1": 259.2,
+      "bottom": 14.219999999999999,
+      "confidence": 96.90834,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "relief",
+      "x0": 264.24,
+      "top": 3.78,
+      "x1": 287.1,
+      "bottom": 12.059999999999999,
+      "confidence": 96.655823,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "from",
+      "x0": 291.42,
+      "top": 3.78,
+      "x1": 312.66,
+      "bottom": 12.059999999999999,
+      "confidence": 93.010406,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "oppression/mismanagement",
+      "x0": 317.7,
+      "top": 3.78,
+      "x1": 455.21999999999997,
+      "bottom": 14.219999999999999,
+      "confidence": 90.793068,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "which",
+      "x0": 459.71999999999997,
+      "top": 3.96,
+      "x1": 486.9,
+      "bottom": 12.059999999999999,
+      "confidence": 95.771599,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "were",
+      "x0": 491.94,
+      "top": 5.9399999999999995,
+      "x1": 515.16,
+      "bottom": 12.059999999999999,
+      "confidence": 96.917435,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "vested",
+      "x0": 519.66,
+      "top": 3.96,
+      "x1": 551.3399999999999,
+      "bottom": 12.059999999999999,
+      "confidence": 96.768196,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "by",
+      "x0": 117.72,
+      "top": 17.46,
+      "x1": 128.52,
+      "bottom": 27.72,
+      "confidence": 96.914345,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "section",
+      "x0": 132.84,
+      "top": 17.46,
+      "x1": 166.5,
+      "bottom": 25.560000000000002,
+      "confidence": 96.60482,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "402",
+      "x0": 171.35999999999999,
+      "top": 17.64,
+      "x1": 188.82,
+      "bottom": 25.560000000000002,
+      "confidence": 96.273987,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 193.68,
+      "top": 17.28,
+      "x1": 202.14000000000001,
+      "bottom": 25.560000000000002,
+      "confidence": 95.737053,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 206.28,
+      "top": 17.46,
+      "x1": 221.04,
+      "bottom": 25.560000000000002,
+      "confidence": 96.285866,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1956",
+      "x0": 226.44,
+      "top": 17.64,
+      "x1": 249.3,
+      "bottom": 25.560000000000002,
+      "confidence": 96.274612,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Act",
+      "x0": 253.79999999999998,
+      "top": 17.46,
+      "x1": 269.28,
+      "bottom": 25.560000000000002,
+      "confidence": 96.208557,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "in",
+      "x0": 273.96,
+      "top": 17.46,
+      "x1": 281.15999999999997,
+      "bottom": 25.380000000000003,
+      "confidence": 96.208557,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "High",
+      "x0": 286.38,
+      "top": 17.46,
+      "x1": 307.44,
+      "bottom": 27.72,
+      "confidence": 96.327072,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Court",
+      "x0": 312.47999999999996,
+      "top": 17.28,
+      "x1": 338.75999999999993,
+      "bottom": 25.560000000000002,
+      "confidence": 96.748177,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "have",
+      "x0": 343.44,
+      "top": 17.46,
+      "x1": 366.12,
+      "bottom": 25.560000000000002,
+      "confidence": 96.768181,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "now",
+      "x0": 370.97999999999996,
+      "top": 19.439999999999998,
+      "x1": 390.41999999999996,
+      "bottom": 25.56,
+      "confidence": 96.790207,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "been",
+      "x0": 394.91999999999996,
+      "top": 17.46,
+      "x1": 418.14,
+      "bottom": 25.560000000000002,
+      "confidence": 96.715416,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "transferred",
+      "x0": 422.82,
+      "top": 17.28,
+      "x1": 475.2,
+      "bottom": 25.560000000000002,
+      "confidence": 95.712036,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "to",
+      "x0": 479.7,
+      "top": 18.0,
+      "x1": 488.34,
+      "bottom": 25.56,
+      "confidence": 95.712036,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 492.65999999999997,
+      "top": 17.46,
+      "x1": 507.41999999999996,
+      "bottom": 25.560000000000002,
+      "confidence": 96.605644,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "National",
+      "x0": 512.46,
+      "top": 17.46,
+      "x1": 551.34,
+      "bottom": 25.560000000000002,
+      "confidence": 96.578163,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Company",
+      "x0": 117.53999999999999,
+      "top": 30.779999999999998,
+      "x1": 163.98,
+      "bottom": 41.22,
+      "confidence": 96.896515,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Law",
+      "x0": 167.94,
+      "top": 30.959999999999997,
+      "x1": 187.2,
+      "bottom": 39.059999999999995,
+      "confidence": 96.375565,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Tribunal",
+      "x0": 190.44,
+      "top": 30.959999999999997,
+      "x1": 229.32,
+      "bottom": 39.059999999999995,
+      "confidence": 96.226814,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "by",
+      "x0": 233.82,
+      "top": 30.959999999999997,
+      "x1": 244.62,
+      "bottom": 41.22,
+      "confidence": 95.860779,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "section",
+      "x0": 248.22,
+      "top": 30.959999999999997,
+      "x1": 281.88,
+      "bottom": 39.059999999999995,
+      "confidence": 96.22506,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "242",
+      "x0": 286.02,
+      "top": 31.14,
+      "x1": 303.47999999999996,
+      "bottom": 38.88,
+      "confidence": 96.773178,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 307.44,
+      "top": 30.779999999999998,
+      "x1": 316.08,
+      "bottom": 39.059999999999995,
+      "confidence": 96.760712,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "the",
+      "x0": 319.5,
+      "top": 30.959999999999997,
+      "x1": 334.26,
+      "bottom": 39.059999999999995,
+      "confidence": 96.612289,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "2013",
+      "x0": 338.03999999999996,
+      "top": 31.14,
+      "x1": 361.79999999999995,
+      "bottom": 39.06,
+      "confidence": 96.097466,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Acct.",
+      "x0": 365.4,
+      "top": 30.959999999999997,
+      "x1": 383.21999999999997,
+      "bottom": 39.059999999999995,
+      "confidence": 82.588303,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Statement",
+      "x0": 117.53999999999999,
+      "top": 53.82,
+      "x1": 166.85999999999999,
+      "bottom": 62.1,
+      "confidence": 96.457443,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "II",
+      "x0": 171.72,
+      "top": 54.0,
+      "x1": 175.85999999999999,
+      "bottom": 61.92,
+      "confidence": 88.150543,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "-",
+      "x0": 180.9,
+      "top": 58.32,
+      "x1": 183.6,
+      "bottom": 59.4,
+      "confidence": 91.206001,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Section",
+      "x0": 188.1,
+      "top": 53.82,
+      "x1": 223.56,
+      "bottom": 62.1,
+      "confidence": 96.39769,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "242",
+      "x0": 228.06,
+      "top": 54.18,
+      "x1": 245.52,
+      "bottom": 61.92,
+      "confidence": 95.34198,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "does",
+      "x0": 250.01999999999998,
+      "top": 54.0,
+      "x1": 273.06,
+      "bottom": 62.1,
+      "confidence": 96.301102,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "not",
+      "x0": 277.74,
+      "top": 54.54,
+      "x1": 292.14,
+      "bottom": 62.1,
+      "confidence": 95.884888,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "empower",
+      "x0": 296.28,
+      "top": 55.98,
+      "x1": 341.09999999999997,
+      "bottom": 64.25999999999999,
+      "confidence": 95.884888,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "National",
+      "x0": 345.41999999999996,
+      "top": 54.0,
+      "x1": 384.29999999999995,
+      "bottom": 62.1,
+      "confidence": 96.169563,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Company",
+      "x0": 388.97999999999996,
+      "top": 53.82,
+      "x1": 435.41999999999996,
+      "bottom": 64.26,
+      "confidence": 96.166306,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Law",
+      "x0": 439.91999999999996,
+      "top": 54.0,
+      "x1": 459.17999999999995,
+      "bottom": 62.1,
+      "confidence": 96.516281,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Appellate",
+      "x0": 463.14,
+      "top": 54.0,
+      "x1": 508.32,
+      "bottom": 64.26,
+      "confidence": 96.606697,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Tribunal",
+      "x0": 512.46,
+      "top": 54.0,
+      "x1": 551.34,
+      "bottom": 62.1,
+      "confidence": 96.455498,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 117.17999999999999,
+      "top": 68.03999999999999,
+      "x1": 125.82,
+      "bottom": 75.6,
+      "confidence": 96.802704,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "grant",
+      "x0": 129.96,
+      "top": 68.03999999999999,
+      "x1": 154.26000000000002,
+      "bottom": 77.94,
+      "confidence": 96.49012,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "relief",
+      "x0": 158.57999999999998,
+      "top": 67.5,
+      "x1": 181.44,
+      "bottom": 75.6,
+      "confidence": 96.393761,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "by",
+      "x0": 185.57999999999998,
+      "top": 67.5,
+      "x1": 196.38,
+      "bottom": 77.76,
+      "confidence": 96.987312,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "way",
+      "x0": 199.98,
+      "top": 69.48,
+      "x1": 219.23999999999998,
+      "bottom": 77.76,
+      "confidence": 96.384033,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 223.01999999999998,
+      "top": 67.5,
+      "x1": 231.65999999999997,
+      "bottom": 75.6,
+      "confidence": 96.44973,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "prevention",
+      "x0": 235.62,
+      "top": 67.5,
+      "x1": 285.66,
+      "bottom": 77.76,
+      "confidence": 96.2827,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 289.97999999999996,
+      "top": 67.5,
+      "x1": 298.61999999999995,
+      "bottom": 75.6,
+      "confidence": 96.146423,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "apprehended",
+      "x0": 302.4,
+      "top": 67.5,
+      "x1": 366.29999999999995,
+      "bottom": 77.76,
+      "confidence": 92.367691,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "mismanagement",
+      "x0": 370.8,
+      "top": 67.5,
+      "x1": 451.26,
+      "bottom": 77.94,
+      "confidence": 96.615982,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 455.21999999999997,
+      "top": 67.5,
+      "x1": 463.67999999999995,
+      "bottom": 75.6,
+      "confidence": 96.944672,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 467.28,
+      "top": 67.5,
+      "x1": 482.03999999999996,
+      "bottom": 75.6,
+      "confidence": 96.225372,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "company",
+      "x0": 486.0,
+      "top": 69.48,
+      "x1": 530.28,
+      "bottom": 77.76,
+      "confidence": 96.225372,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "due",
+      "x0": 534.06,
+      "top": 67.5,
+      "x1": 551.52,
+      "bottom": 75.6,
+      "confidence": 96.905121,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "to",
+      "x0": 117.17999999999999,
+      "top": 81.53999999999999,
+      "x1": 125.82,
+      "bottom": 89.1,
+      "confidence": 97.012421,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "material",
+      "x0": 129.96,
+      "top": 81.0,
+      "x1": 167.58,
+      "bottom": 89.1,
+      "confidence": 96.277252,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "change",
+      "x0": 171.72,
+      "top": 81.0,
+      "x1": 207.0,
+      "bottom": 91.44,
+      "confidence": 96.346626,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "which",
+      "x0": 210.78,
+      "top": 81.0,
+      "x1": 237.96,
+      "bottom": 89.1,
+      "confidence": 96.184952,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "has",
+      "x0": 242.45999999999998,
+      "top": 81.0,
+      "x1": 259.02,
+      "bottom": 89.1,
+      "confidence": 96.024872,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "taken",
+      "x0": 262.62,
+      "top": 81.0,
+      "x1": 288.72,
+      "bottom": 89.1,
+      "confidence": 96.684219,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "place",
+      "x0": 293.03999999999996,
+      "top": 81.0,
+      "x1": 318.23999999999995,
+      "bottom": 91.26,
+      "confidence": 96.340897,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "in",
+      "x0": 322.56,
+      "top": 81.0,
+      "x1": 329.76,
+      "bottom": 88.92,
+      "confidence": 96.340897,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "its",
+      "x0": 334.08,
+      "top": 81.0,
+      "x1": 343.97999999999996,
+      "bottom": 89.1,
+      "confidence": 95.345795,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "management",
+      "x0": 348.12,
+      "top": 81.53999999999999,
+      "x1": 411.48,
+      "bottom": 91.44,
+      "confidence": 96.629478,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "or",
+      "x0": 415.08,
+      "top": 82.98,
+      "x1": 424.44,
+      "bottom": 89.10000000000001,
+      "confidence": 96.512352,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "control.",
+      "x0": 427.85999999999996,
+      "top": 81.0,
+      "x1": 462.78,
+      "bottom": 89.1,
+      "confidence": 96.193817,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(A)",
+      "x0": 116.1,
+      "top": 96.3,
+      "x1": 129.23999999999998,
+      "bottom": 106.74,
+      "confidence": 96.491852,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Statement",
+      "x0": 136.62,
+      "top": 96.3,
+      "x1": 185.94,
+      "bottom": 104.58,
+      "confidence": 96.207916,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "|",
+      "x0": 190.26,
+      "top": 96.47999999999999,
+      "x1": 191.34,
+      "bottom": 104.39999999999999,
+      "confidence": 93.74012,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 196.01999999999998,
+      "top": 96.47999999999999,
+      "x1": 202.85999999999999,
+      "bottom": 104.57999999999998,
+      "confidence": 94.331268,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "untrue",
+      "x0": 207.0,
+      "top": 97.02,
+      "x1": 237.06,
+      "bottom": 104.58,
+      "confidence": 95.894371,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(B)",
+      "x0": 317.15999999999997,
+      "top": 96.3,
+      "x1": 330.29999999999995,
+      "bottom": 106.74,
+      "confidence": 90.87616,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Statement",
+      "x0": 337.5,
+      "top": 96.3,
+      "x1": 386.82,
+      "bottom": 104.58,
+      "confidence": 96.60585,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "II",
+      "x0": 391.14,
+      "top": 96.47999999999999,
+      "x1": 395.28,
+      "bottom": 104.39999999999999,
+      "confidence": 89.199326,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 400.14,
+      "top": 96.47999999999999,
+      "x1": 406.97999999999996,
+      "bottom": 104.57999999999998,
+      "confidence": 94.186813,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "untrue",
+      "x0": 411.12,
+      "top": 97.02,
+      "x1": 441.18,
+      "bottom": 104.58,
+      "confidence": 96.23156,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(C)",
+      "x0": 115.38,
+      "top": 111.78,
+      "x1": 129.24,
+      "bottom": 122.22,
+      "confidence": 91.62101,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Both",
+      "x0": 136.79999999999998,
+      "top": 111.96,
+      "x1": 157.85999999999999,
+      "bottom": 120.05999999999999,
+      "confidence": 96.377533,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Statements",
+      "x0": 162.18,
+      "top": 111.78,
+      "x1": 216.9,
+      "bottom": 120.06,
+      "confidence": 96.574409,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "|",
+      "x0": 221.4,
+      "top": 111.96,
+      "x1": 222.48000000000002,
+      "bottom": 119.88,
+      "confidence": 91.953316,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 226.98,
+      "top": 111.96,
+      "x1": 244.26,
+      "bottom": 120.05999999999999,
+      "confidence": 96.654579,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Il",
+      "x0": 248.94,
+      "top": 111.96,
+      "x1": 253.07999999999998,
+      "bottom": 119.88,
+      "confidence": 85.917175,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "are",
+      "x0": 257.4,
+      "top": 113.94,
+      "x1": 272.52,
+      "bottom": 120.06,
+      "confidence": 96.60347,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "untrue",
+      "x0": 276.84,
+      "top": 112.5,
+      "x1": 306.71999999999997,
+      "bottom": 120.06,
+      "confidence": 90.741173,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(D)",
+      "x0": 316.44,
+      "top": 111.78,
+      "x1": 330.3,
+      "bottom": 122.22,
+      "confidence": 90.741173,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Both",
+      "x0": 337.86,
+      "top": 111.96,
+      "x1": 358.92,
+      "bottom": 120.05999999999999,
+      "confidence": 96.076447,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Statements",
+      "x0": 363.24,
+      "top": 111.78,
+      "x1": 417.96000000000004,
+      "bottom": 120.06,
+      "confidence": 96.432648,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "|",
+      "x0": 422.46,
+      "top": 111.96,
+      "x1": 423.53999999999996,
+      "bottom": 119.88,
+      "confidence": 89.305717,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 427.85999999999996,
+      "top": 111.96,
+      "x1": 445.14,
+      "bottom": 120.05999999999999,
+      "confidence": 96.388199,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "II",
+      "x0": 449.82,
+      "top": 111.96,
+      "x1": 453.96,
+      "bottom": 119.88,
+      "confidence": 91.188232,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "are",
+      "x0": 458.46,
+      "top": 113.94,
+      "x1": 473.58,
+      "bottom": 120.06,
+      "confidence": 95.716934,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "true",
+      "x0": 477.18,
+      "top": 112.5,
+      "x1": 495.54,
+      "bottom": 120.06,
+      "confidence": 95.716934,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

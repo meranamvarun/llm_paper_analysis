@@ -1,0 +1,199 @@
+{
+  "pdf_page": 414,
+  "crop_top": 9.68,
+  "crop_bottom": 83.19999999999999,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0413:l0040:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "¥",
+      "bbox": [
+        54.0,
+        3.2399999999999998,
+        59.04,
+        12.06
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "1. Holland",
+      "bbox": [
+        39.059999999999995,
+        6.3,
+        101.51999999999998,
+        13.5
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "2. ® Salmond",
+      "bbox": [
+        38.339999999999996,
+        22.14,
+        105.84,
+        31.5
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "3. *® Savigny",
+      "bbox": [
+        38.339999999999996,
+        40.14,
+        101.52000000000001,
+        51.839999999999996
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "4. *® Thering",
+      "bbox": [
+        38.339999999999996,
+        57.96,
+        97.91999999999999,
+        69.66
+      ]
+    }
+  ],
+  "text": "¥\n1. Holland\n2. ® Salmond\n3. *® Savigny\n4. *® Thering",
+  "ocr_words": [
+    {
+      "text": "1.",
+      "x0": 39.059999999999995,
+      "top": 6.3,
+      "x1": 45.53999999999999,
+      "bottom": 13.5,
+      "confidence": 91.658737,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "¥",
+      "x0": 54.0,
+      "top": 3.2399999999999998,
+      "x1": 59.04,
+      "bottom": 12.06,
+      "confidence": 73.093933,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Holland",
+      "x0": 64.25999999999999,
+      "top": 6.3,
+      "x1": 101.51999999999998,
+      "bottom": 13.5,
+      "confidence": 96.803566,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2.",
+      "x0": 38.339999999999996,
+      "top": 24.3,
+      "x1": 45.53999999999999,
+      "bottom": 31.5,
+      "confidence": 83.695778,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "®",
+      "x0": 52.019999999999996,
+      "top": 22.14,
+      "x1": 58.49999999999999,
+      "bottom": 28.62,
+      "confidence": 69.229919,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Salmond",
+      "x0": 64.98,
+      "top": 24.3,
+      "x1": 105.84,
+      "bottom": 31.5,
+      "confidence": 73.321747,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "3.",
+      "x0": 38.339999999999996,
+      "top": 42.3,
+      "x1": 45.53999999999999,
+      "bottom": 49.5,
+      "confidence": 85.52356,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "*®",
+      "x0": 52.019999999999996,
+      "top": 40.14,
+      "x1": 58.49999999999999,
+      "bottom": 46.62,
+      "confidence": 36.636681,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Savigny",
+      "x0": 64.98,
+      "top": 42.3,
+      "x1": 101.52000000000001,
+      "bottom": 51.839999999999996,
+      "confidence": 90.060112,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "4.",
+      "x0": 38.339999999999996,
+      "top": 60.12,
+      "x1": 45.53999999999999,
+      "bottom": 67.5,
+      "confidence": 64.752808,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "*®",
+      "x0": 52.019999999999996,
+      "top": 57.96,
+      "x1": 58.49999999999999,
+      "bottom": 64.62,
+      "confidence": 41.150341,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Thering",
+      "x0": 64.25999999999999,
+      "top": 60.12,
+      "x1": 97.91999999999999,
+      "bottom": 69.66,
+      "confidence": 90.22821,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

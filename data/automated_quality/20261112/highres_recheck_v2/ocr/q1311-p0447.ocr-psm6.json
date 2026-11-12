@@ -1,0 +1,460 @@
+{
+  "pdf_page": 447,
+  "crop_top": 56.960000000000036,
+  "crop_bottom": 161.10000000000002,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0447:l0000:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "13. As the Anthropological approach towards the study of Jurisprudence, the Twelve Tables",
+      "bbox": [
+        73.08,
+        4.14,
+        536.76,
+        16.02
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "per",
+      "bbox": [
+        105.3,
+        7.38,
+        120.78,
+        15.3
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "of Rome may be considered an example of",
+      "bbox": [
+        90.53999999999999,
+        21.779999999999998,
+        298.08000000000004,
+        32.04
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "A. Religious law",
+      "bbox": [
+        108.17999999999999,
+        38.519999999999996,
+        189.35999999999999,
+        48.779999999999994
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "B. Divine law",
+      "bbox": [
+        109.08,
+        55.44,
+        176.22,
+        63.72
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "C. Published law",
+      "bbox": [
+        108.53999999999999,
+        72.17999999999999,
+        195.12,
+        80.63999999999999
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "D. Personal command",
+      "bbox": [
+        109.08,
+        89.1,
+        218.88,
+        97.38
+      ]
+    }
+  ],
+  "text": "13. As the Anthropological approach towards the study of Jurisprudence, the Twelve Tables\nper\nof Rome may be considered an example of\nA. Religious law\nB. Divine law\nC. Published law\nD. Personal command",
+  "ocr_words": [
+    {
+      "text": "13.",
+      "x0": 73.08,
+      "top": 5.3999999999999995,
+      "x1": 86.4,
+      "bottom": 13.139999999999999,
+      "confidence": 96.162445,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "As",
+      "x0": 90.17999999999999,
+      "top": 5.3999999999999995,
+      "x1": 101.16,
+      "bottom": 13.139999999999999,
+      "confidence": 96.095627,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "per",
+      "x0": 105.3,
+      "top": 7.38,
+      "x1": 120.78,
+      "bottom": 15.3,
+      "confidence": 95.740501,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 123.83999999999999,
+      "top": 4.859999999999999,
+      "x1": 139.32,
+      "bottom": 13.139999999999999,
+      "confidence": 95.740501,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Anthropological",
+      "x0": 142.92,
+      "top": 4.859999999999999,
+      "x1": 219.42,
+      "bottom": 15.299999999999999,
+      "confidence": 96.388962,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "approach",
+      "x0": 223.56,
+      "top": 4.859999999999999,
+      "x1": 268.2,
+      "bottom": 15.299999999999999,
+      "confidence": 96.017975,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "towards",
+      "x0": 271.8,
+      "top": 4.859999999999999,
+      "x1": 311.04,
+      "bottom": 13.139999999999999,
+      "confidence": 96.146606,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 314.46,
+      "top": 4.859999999999999,
+      "x1": 329.94,
+      "bottom": 13.139999999999999,
+      "confidence": 96.629295,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "study",
+      "x0": 333.71999999999997,
+      "top": 4.859999999999999,
+      "x1": 359.82,
+      "bottom": 15.299999999999999,
+      "confidence": 96.480072,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 363.24,
+      "top": 4.14,
+      "x1": 370.44,
+      "bottom": 16.02,
+      "confidence": 95.803474,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Jurisprudence,",
+      "x0": 369.18,
+      "top": 4.859999999999999,
+      "x1": 445.68,
+      "bottom": 15.299999999999999,
+      "confidence": 93.067551,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 449.46,
+      "top": 4.859999999999999,
+      "x1": 464.94,
+      "bottom": 13.139999999999999,
+      "confidence": 96.494949,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Twelve",
+      "x0": 468.35999999999996,
+      "top": 4.859999999999999,
+      "x1": 502.19999999999993,
+      "bottom": 13.139999999999999,
+      "confidence": 96.763939,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Tables",
+      "x0": 505.97999999999996,
+      "top": 4.859999999999999,
+      "x1": 536.76,
+      "bottom": 13.139999999999999,
+      "confidence": 96.953682,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 90.53999999999999,
+      "top": 21.779999999999998,
+      "x1": 100.07999999999998,
+      "bottom": 30.059999999999995,
+      "confidence": 94.950531,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Rome",
+      "x0": 103.86,
+      "top": 22.32,
+      "x1": 130.68,
+      "bottom": 30.06,
+      "confidence": 94.950531,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "may",
+      "x0": 134.82,
+      "top": 24.3,
+      "x1": 154.44,
+      "bottom": 32.04,
+      "confidence": 96.243294,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "be",
+      "x0": 158.22,
+      "top": 21.779999999999998,
+      "x1": 169.02,
+      "bottom": 30.059999999999995,
+      "confidence": 96.350693,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "considered",
+      "x0": 172.98,
+      "top": 21.779999999999998,
+      "x1": 225.35999999999999,
+      "bottom": 30.059999999999995,
+      "confidence": 95.331978,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "an",
+      "x0": 229.5,
+      "top": 24.3,
+      "x1": 240.12,
+      "bottom": 30.060000000000002,
+      "confidence": 95.324059,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "example",
+      "x0": 244.26,
+      "top": 21.779999999999998,
+      "x1": 284.58,
+      "bottom": 32.04,
+      "confidence": 95.79747,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 288.36,
+      "top": 21.779999999999998,
+      "x1": 298.08000000000004,
+      "bottom": 30.059999999999995,
+      "confidence": 96.287704,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "A.",
+      "x0": 108.17999999999999,
+      "top": 39.059999999999995,
+      "x1": 117.17999999999999,
+      "bottom": 46.8,
+      "confidence": 95.345955,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Religious",
+      "x0": 127.08,
+      "top": 38.519999999999996,
+      "x1": 169.38,
+      "bottom": 48.779999999999994,
+      "confidence": 95.345955,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "law",
+      "x0": 173.51999999999998,
+      "top": 38.519999999999996,
+      "x1": 189.35999999999999,
+      "bottom": 46.8,
+      "confidence": 96.728394,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "B.",
+      "x0": 109.08,
+      "top": 55.98,
+      "x1": 116.64,
+      "bottom": 63.72,
+      "confidence": 93.074219,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Divine",
+      "x0": 127.08,
+      "top": 55.8,
+      "x1": 156.06,
+      "bottom": 63.72,
+      "confidence": 95.568321,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "law",
+      "x0": 160.2,
+      "top": 55.44,
+      "x1": 176.22,
+      "bottom": 63.72,
+      "confidence": 96.880844,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "C.",
+      "x0": 108.53999999999999,
+      "top": 72.72,
+      "x1": 116.46,
+      "bottom": 80.46,
+      "confidence": 90.47213,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Published",
+      "x0": 126.89999999999999,
+      "top": 72.17999999999999,
+      "x1": 174.23999999999998,
+      "bottom": 80.63999999999999,
+      "confidence": 96.384331,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "law",
+      "x0": 178.38,
+      "top": 72.17999999999999,
+      "x1": 195.12,
+      "bottom": 80.63999999999999,
+      "confidence": 96.384331,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "D.",
+      "x0": 109.08,
+      "top": 89.64,
+      "x1": 117.53999999999999,
+      "bottom": 97.2,
+      "confidence": 90.247704,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Personal",
+      "x0": 127.08,
+      "top": 89.1,
+      "x1": 167.4,
+      "bottom": 97.38,
+      "confidence": 95.971779,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "command",
+      "x0": 171.54,
+      "top": 89.1,
+      "x1": 218.88,
+      "bottom": 97.38,
+      "confidence": 95.971779,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

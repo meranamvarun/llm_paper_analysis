@@ -1,0 +1,450 @@
+{
+  "pdf_page": 430,
+  "crop_top": 10.399999999999999,
+  "crop_bottom": 96.39999999999999,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0429:l0048:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Options :",
+      "bbox": [
+        37.8,
+        3.96,
+        73.8,
+        12.239999999999998
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "1. ¥ Injuria sine darmno",
+      "bbox": [
+        39.059999999999995,
+        16.56,
+        155.51999999999998,
+        28.259999999999998
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "2. ® Dammnum sine injuria",
+      "bbox": [
+        38.339999999999996,
+        34.56,
+        166.32,
+        46.26
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "3. ® Injuria sine damno well Dammum sine injuria",
+      "bbox": [
+        38.339999999999996,
+        52.559999999999995,
+        309.96,
+        64.25999999999999
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "as as",
+      "bbox": [
+        159.12,
+        56.16,
+        204.3,
+        61.919999999999995
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "4. ® Neither Injuria sine dammo Dammmum sine injuria",
+      "bbox": [
+        38.339999999999996,
+        70.38,
+        318.6,
+        82.07999999999998
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "nor",
+      "bbox": [
+        197.1,
+        73.98,
+        212.94,
+        79.92
+      ]
+    }
+  ],
+  "text": "Options :\n1. ¥ Injuria sine darmno\n2. ® Dammnum sine injuria\n3. ® Injuria sine damno well Dammum sine injuria\nas as\n4. ® Neither Injuria sine dammo Dammmum sine injuria\nnor",
+  "ocr_words": [
+    {
+      "text": "Options",
+      "x0": 37.8,
+      "top": 3.96,
+      "x1": 68.94,
+      "bottom": 12.239999999999998,
+      "confidence": 92.781006,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 72.53999999999999,
+      "top": 5.9399999999999995,
+      "x1": 73.8,
+      "bottom": 10.44,
+      "confidence": 92.708466,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1.",
+      "x0": 39.059999999999995,
+      "top": 18.72,
+      "x1": 45.53999999999999,
+      "bottom": 26.099999999999998,
+      "confidence": 84.097298,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "¥",
+      "x0": 53.64,
+      "top": 16.56,
+      "x1": 58.14,
+      "bottom": 24.659999999999997,
+      "confidence": 63.98983,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Injuria",
+      "x0": 64.25999999999999,
+      "top": 18.72,
+      "x1": 96.47999999999999,
+      "bottom": 28.259999999999998,
+      "confidence": 87.149887,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "sine",
+      "x0": 100.08,
+      "top": 18.72,
+      "x1": 118.8,
+      "bottom": 26.099999999999998,
+      "confidence": 93.154762,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "darmno",
+      "x0": 122.39999999999999,
+      "top": 18.72,
+      "x1": 155.51999999999998,
+      "bottom": 26.099999999999998,
+      "confidence": 14.655884,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2.",
+      "x0": 38.339999999999996,
+      "top": 36.72,
+      "x1": 45.53999999999999,
+      "bottom": 43.92,
+      "confidence": 87.683853,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "®",
+      "x0": 52.019999999999996,
+      "top": 34.56,
+      "x1": 58.49999999999999,
+      "bottom": 41.04,
+      "confidence": 75.590195,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Dammnum",
+      "x0": 64.25999999999999,
+      "top": 36.72,
+      "x1": 109.44,
+      "bottom": 43.92,
+      "confidence": 41.94138,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "sine",
+      "x0": 112.32,
+      "top": 36.72,
+      "x1": 131.04,
+      "bottom": 43.92,
+      "confidence": 93.16227,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "injuria",
+      "x0": 134.64,
+      "top": 36.72,
+      "x1": 166.32,
+      "bottom": 46.26,
+      "confidence": 89.649956,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "3.",
+      "x0": 38.339999999999996,
+      "top": 54.72,
+      "x1": 45.53999999999999,
+      "bottom": 61.92,
+      "confidence": 85.279167,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "®",
+      "x0": 52.019999999999996,
+      "top": 52.559999999999995,
+      "x1": 58.49999999999999,
+      "bottom": 59.03999999999999,
+      "confidence": 47.634361,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Injuria",
+      "x0": 64.25999999999999,
+      "top": 54.72,
+      "x1": 96.47999999999999,
+      "bottom": 64.25999999999999,
+      "confidence": 89.14962,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "sine",
+      "x0": 100.08,
+      "top": 54.72,
+      "x1": 118.8,
+      "bottom": 61.92,
+      "confidence": 93.109711,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "damno",
+      "x0": 122.39999999999999,
+      "top": 54.72,
+      "x1": 155.51999999999998,
+      "bottom": 61.92,
+      "confidence": 82.239273,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "as",
+      "x0": 159.12,
+      "top": 56.16,
+      "x1": 169.20000000000002,
+      "bottom": 61.919999999999995,
+      "confidence": 96.552879,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "well",
+      "x0": 172.62,
+      "top": 54.72,
+      "x1": 190.62,
+      "bottom": 61.92,
+      "confidence": 95.627419,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "as",
+      "x0": 194.22,
+      "top": 56.16,
+      "x1": 204.3,
+      "bottom": 61.919999999999995,
+      "confidence": 92.79348,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Dammum",
+      "x0": 207.9,
+      "top": 54.72,
+      "x1": 253.26,
+      "bottom": 61.92,
+      "confidence": 58.54195,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "sine",
+      "x0": 256.14,
+      "top": 54.72,
+      "x1": 274.68,
+      "bottom": 61.92,
+      "confidence": 93.047386,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "injuria",
+      "x0": 278.28,
+      "top": 54.72,
+      "x1": 309.96,
+      "bottom": 64.25999999999999,
+      "confidence": 91.376709,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "4.",
+      "x0": 38.339999999999996,
+      "top": 72.53999999999999,
+      "x1": 45.53999999999999,
+      "bottom": 79.91999999999999,
+      "confidence": 79.61454,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "®",
+      "x0": 52.019999999999996,
+      "top": 70.38,
+      "x1": 58.49999999999999,
+      "bottom": 77.03999999999999,
+      "confidence": 61.93552,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Neither",
+      "x0": 64.25999999999999,
+      "top": 72.53999999999999,
+      "x1": 98.63999999999999,
+      "bottom": 79.91999999999999,
+      "confidence": 53.893745,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Injuria",
+      "x0": 102.24,
+      "top": 72.53999999999999,
+      "x1": 134.64,
+      "bottom": 82.07999999999998,
+      "confidence": 83.875107,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "sine",
+      "x0": 138.24,
+      "top": 72.53999999999999,
+      "x1": 156.96,
+      "bottom": 79.91999999999999,
+      "confidence": 92.935051,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "dammo",
+      "x0": 160.56,
+      "top": 72.53999999999999,
+      "x1": 193.5,
+      "bottom": 79.91999999999999,
+      "confidence": 59.879154,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "nor",
+      "x0": 197.1,
+      "top": 73.98,
+      "x1": 212.94,
+      "bottom": 79.92,
+      "confidence": 93.220947,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Dammmum",
+      "x0": 216.54,
+      "top": 72.53999999999999,
+      "x1": 261.71999999999997,
+      "bottom": 79.91999999999999,
+      "confidence": 60.231689,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "sine",
+      "x0": 264.59999999999997,
+      "top": 72.53999999999999,
+      "x1": 283.31999999999994,
+      "bottom": 79.91999999999999,
+      "confidence": 93.127197,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "injuria",
+      "x0": 286.92,
+      "top": 72.53999999999999,
+      "x1": 318.6,
+      "bottom": 82.07999999999998,
+      "confidence": 92.780487,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

@@ -1,0 +1,711 @@
+{
+  "pdf_page": 60,
+  "crop_top": 556.7186,
+  "crop_bottom": 701.7186,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0060:l0029:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "25. Which of the theories emanate from Section 106 of Indian Evidence Act?",
+      "bbox": [
+        105.264,
+        4.4639999999999995,
+        493.056,
+        12.815999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "1. Doctrine of Res Ipsa Loquitor",
+      "bbox": [
+        132.048,
+        22.464,
+        297.36,
+        32.688
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "2. Theory of burden of proof",
+      "bbox": [
+        131.328,
+        40.464,
+        317.52,
+        50.831999999999994
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "reverse",
+      "bbox": [
+        199.44,
+        43.488,
+        236.016,
+        48.816
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "3. Doctrine of last together",
+      "bbox": [
+        131.61599999999999,
+        58.464,
+        297.35999999999996,
+        68.832
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "seen",
+      "bbox": [
+        229.67999999999998,
+        61.48799999999999,
+        251.712,
+        66.81599999999999
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "4. Presumption of innocence",
+      "bbox": [
+        131.47199999999998,
+        76.464,
+        278.352,
+        86.68799999999999
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "Select the correct option:",
+      "bbox": [
+        121.67999999999999,
+        94.464,
+        246.09599999999998,
+        104.68799999999999
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "(A) land 2 (B) 2 and 3",
+      "bbox": [
+        125.42399999999999,
+        112.46399999999998,
+        371.952,
+        122.68799999999999
+      ]
+    },
+    {
+      "line_id": "l0009",
+      "text": "(C) 38and 4 (D) 1 and 4",
+      "bbox": [
+        125.42399999999999,
+        130.464,
+        372.096,
+        140.68800000000002
+      ]
+    }
+  ],
+  "text": "25. Which of the theories emanate from Section 106 of Indian Evidence Act?\n1. Doctrine of Res Ipsa Loquitor\n2. Theory of burden of proof\nreverse\n3. Doctrine of last together\nseen\n4. Presumption of innocence\nSelect the correct option:\n(A) land 2 (B) 2 and 3\n(C) 38and 4 (D) 1 and 4",
+  "ocr_words": [
+    {
+      "text": "25.",
+      "x0": 105.264,
+      "top": 5.04,
+      "x1": 119.088,
+      "bottom": 12.815999999999999,
+      "confidence": 96.56765,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Which",
+      "x0": 126.14399999999999,
+      "top": 4.608,
+      "x1": 158.39999999999998,
+      "bottom": 12.815999999999999,
+      "confidence": 96.029152,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 162.0,
+      "top": 4.4639999999999995,
+      "x1": 171.504,
+      "bottom": 12.815999999999999,
+      "confidence": 96.128204,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 174.09599999999998,
+      "top": 4.608,
+      "x1": 189.93599999999998,
+      "bottom": 12.815999999999999,
+      "confidence": 96.107521,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "theories",
+      "x0": 193.67999999999998,
+      "top": 4.608,
+      "x1": 233.85599999999997,
+      "bottom": 12.815999999999999,
+      "confidence": 96.147491,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "emanate",
+      "x0": 237.88799999999998,
+      "top": 5.616,
+      "x1": 281.08799999999997,
+      "bottom": 12.815999999999999,
+      "confidence": 96.596893,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "from",
+      "x0": 284.688,
+      "top": 4.4639999999999995,
+      "x1": 308.01599999999996,
+      "bottom": 12.815999999999999,
+      "confidence": 96.331001,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Section",
+      "x0": 312.048,
+      "top": 4.4639999999999995,
+      "x1": 348.48,
+      "bottom": 12.815999999999999,
+      "confidence": 95.837227,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "106",
+      "x0": 352.94399999999996,
+      "top": 5.04,
+      "x1": 369.64799999999997,
+      "bottom": 12.815999999999999,
+      "confidence": 95.583595,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 373.53599999999994,
+      "top": 4.4639999999999995,
+      "x1": 383.03999999999996,
+      "bottom": 12.815999999999999,
+      "confidence": 96.750252,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Indian",
+      "x0": 385.77599999999995,
+      "top": 4.608,
+      "x1": 418.89599999999996,
+      "bottom": 12.815999999999999,
+      "confidence": 96.600563,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Evidence",
+      "x0": 422.92799999999994,
+      "top": 4.608,
+      "x1": 467.99999999999994,
+      "bottom": 12.815999999999999,
+      "confidence": 96.668541,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Act?",
+      "x0": 471.45599999999996,
+      "top": 4.4639999999999995,
+      "x1": 493.056,
+      "bottom": 12.815999999999999,
+      "confidence": 96.513626,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1.",
+      "x0": 132.048,
+      "top": 23.183999999999997,
+      "x1": 139.104,
+      "bottom": 30.815999999999995,
+      "confidence": 95.229248,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Doctrine",
+      "x0": 148.32,
+      "top": 22.607999999999997,
+      "x1": 191.37599999999998,
+      "bottom": 30.815999999999995,
+      "confidence": 96.554955,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 195.26399999999998,
+      "top": 22.464,
+      "x1": 204.76799999999997,
+      "bottom": 30.815999999999995,
+      "confidence": 95.421646,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Res",
+      "x0": 207.35999999999999,
+      "top": 22.752,
+      "x1": 225.21599999999998,
+      "bottom": 30.816,
+      "confidence": 92.800468,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ipsa",
+      "x0": 229.10399999999998,
+      "top": 22.752,
+      "x1": 250.416,
+      "bottom": 32.688,
+      "confidence": 90.609589,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Loquitor",
+      "x0": 254.016,
+      "top": 22.607999999999997,
+      "x1": 297.36,
+      "bottom": 32.687999999999995,
+      "confidence": 91.542603,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2.",
+      "x0": 131.328,
+      "top": 41.04,
+      "x1": 139.104,
+      "bottom": 48.816,
+      "confidence": 96.049118,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Theory",
+      "x0": 148.32,
+      "top": 40.608,
+      "x1": 183.744,
+      "bottom": 50.831999999999994,
+      "confidence": 96.049118,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 187.344,
+      "top": 40.464,
+      "x1": 196.84799999999998,
+      "bottom": 48.815999999999995,
+      "confidence": 96.85968,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "reverse",
+      "x0": 199.44,
+      "top": 43.488,
+      "x1": 236.016,
+      "bottom": 48.816,
+      "confidence": 96.560242,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "burden",
+      "x0": 239.47199999999998,
+      "top": 40.608,
+      "x1": 275.472,
+      "bottom": 48.815999999999995,
+      "confidence": 95.414734,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 279.072,
+      "top": 40.464,
+      "x1": 288.72,
+      "bottom": 48.815999999999995,
+      "confidence": 95.414734,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "proof",
+      "x0": 291.31199999999995,
+      "top": 40.464,
+      "x1": 317.52,
+      "bottom": 50.687999999999995,
+      "confidence": 96.715446,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "3.",
+      "x0": 131.61599999999999,
+      "top": 59.03999999999999,
+      "x1": 139.10399999999998,
+      "bottom": 66.81599999999999,
+      "confidence": 95.613464,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Doctrine",
+      "x0": 148.32,
+      "top": 58.608,
+      "x1": 191.37599999999998,
+      "bottom": 66.816,
+      "confidence": 96.337784,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 195.26399999999998,
+      "top": 58.464,
+      "x1": 204.76799999999997,
+      "bottom": 66.816,
+      "confidence": 96.765129,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "3"
+    },
+    {
+      "text": "last",
+      "x0": 207.35999999999999,
+      "top": 58.608,
+      "x1": 225.79199999999997,
+      "bottom": 66.816,
+      "confidence": 96.455521,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "3"
+    },
+    {
+      "text": "seen",
+      "x0": 229.67999999999998,
+      "top": 61.48799999999999,
+      "x1": 251.712,
+      "bottom": 66.81599999999999,
+      "confidence": 95.95504,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "3"
+    },
+    {
+      "text": "together",
+      "x0": 255.16799999999998,
+      "top": 58.608,
+      "x1": 297.35999999999996,
+      "bottom": 68.832,
+      "confidence": 96.151306,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "3"
+    },
+    {
+      "text": "4.",
+      "x0": 131.47199999999998,
+      "top": 77.184,
+      "x1": 139.10399999999998,
+      "bottom": 84.816,
+      "confidence": 94.532204,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Presumption",
+      "x0": 148.464,
+      "top": 76.60799999999999,
+      "x1": 213.408,
+      "bottom": 86.68799999999999,
+      "confidence": 96.735497,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "4"
+    },
+    {
+      "text": "of",
+      "x0": 217.00799999999998,
+      "top": 76.464,
+      "x1": 226.51199999999997,
+      "bottom": 84.816,
+      "confidence": 95.551781,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "4"
+    },
+    {
+      "text": "innocence",
+      "x0": 229.10399999999998,
+      "top": 76.60799999999999,
+      "x1": 278.352,
+      "bottom": 84.81599999999999,
+      "confidence": 96.315094,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Select",
+      "x0": 121.67999999999999,
+      "top": 94.464,
+      "x1": 151.344,
+      "bottom": 102.816,
+      "confidence": 96.083359,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 154.944,
+      "top": 94.60799999999999,
+      "x1": 170.64,
+      "bottom": 102.81599999999999,
+      "confidence": 96.259621,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "correct",
+      "x0": 174.528,
+      "top": 95.616,
+      "x1": 208.79999999999998,
+      "bottom": 102.816,
+      "confidence": 96.26088,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "option:",
+      "x0": 212.39999999999998,
+      "top": 94.60799999999999,
+      "x1": 246.09599999999998,
+      "bottom": 104.68799999999999,
+      "confidence": 96.730667,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 125.42399999999999,
+      "top": 112.46399999999998,
+      "x1": 139.248,
+      "bottom": 122.68799999999999,
+      "confidence": 96.125786,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "land",
+      "x0": 149.184,
+      "top": 112.60799999999999,
+      "x1": 176.112,
+      "bottom": 120.81599999999999,
+      "confidence": 88.701103,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2",
+      "x0": 179.856,
+      "top": 113.03999999999999,
+      "x1": 184.896,
+      "bottom": 120.672,
+      "confidence": 88.701103,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(B)",
+      "x0": 315.50399999999996,
+      "top": 112.60799999999999,
+      "x1": 329.328,
+      "bottom": 122.68799999999999,
+      "confidence": 91.962021,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2",
+      "x0": 335.52,
+      "top": 113.03999999999999,
+      "x1": 340.56,
+      "bottom": 120.672,
+      "confidence": 96.316849,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 344.736,
+      "top": 112.60799999999999,
+      "x1": 363.168,
+      "bottom": 120.81599999999999,
+      "confidence": 96.316849,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "3",
+      "x0": 367.056,
+      "top": 113.03999999999999,
+      "x1": 371.952,
+      "bottom": 120.81599999999999,
+      "confidence": 96.355949,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(C)",
+      "x0": 125.42399999999999,
+      "top": 130.464,
+      "x1": 139.248,
+      "bottom": 140.688,
+      "confidence": 91.224281,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "38and",
+      "x0": 148.75199999999998,
+      "top": 130.608,
+      "x1": 176.11199999999997,
+      "bottom": 138.816,
+      "confidence": 46.573147,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "4",
+      "x0": 180.0,
+      "top": 131.184,
+      "x1": 185.184,
+      "bottom": 138.672,
+      "confidence": 96.96312,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(D)",
+      "x0": 314.784,
+      "top": 130.608,
+      "x1": 329.328,
+      "bottom": 140.68800000000002,
+      "confidence": 89.538147,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1",
+      "x0": 336.23999999999995,
+      "top": 131.184,
+      "x1": 340.27199999999993,
+      "bottom": 138.672,
+      "confidence": 74.727402,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 344.736,
+      "top": 130.608,
+      "x1": 363.168,
+      "bottom": 138.816,
+      "confidence": 93.224091,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "4",
+      "x0": 366.912,
+      "top": 131.184,
+      "x1": 372.096,
+      "bottom": 138.672,
+      "confidence": 93.224091,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

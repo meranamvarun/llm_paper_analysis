@@ -1,0 +1,723 @@
+{
+  "pdf_page": 5,
+  "crop_top": 331.9696579999999,
+  "crop_bottom": 433.08994,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0005:l0015:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "7. Based on the passage, the primary problem the author identifies with the current",
+      "bbox": [
+        57.599999999999994,
+        4.608,
+        538.56,
+        14.832
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "discourse surrounding \"rights\" is the:",
+      "bbox": [
+        85.67999999999999,
+        17.855999999999998,
+        273.74399999999997,
+        28.08
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(A) Lack of comprehensive list of all possible rights.",
+      "bbox": [
+        85.824,
+        34.992,
+        365.472,
+        45.35999999999999
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "a",
+      "bbox": [
+        154.07999999999998,
+        38.016,
+        159.408,
+        43.343999999999994
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(B) Failure of historical documents to be literally accurate.",
+      "bbox": [
+        85.824,
+        52.272,
+        391.67999999999995,
+        62.495999999999995
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "(C) Proliferation of undefined and inconsistently used qualifying adjectives.",
+      "bbox": [
+        85.824,
+        69.55199999999999,
+        477.64799999999997,
+        79.776
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "(D) Over reliance Hohfeld's and incomplete classification system.",
+      "bbox": [
+        85.824,
+        86.68799999999999,
+        478.36799999999994,
+        97.05599999999998
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "on narrow",
+      "bbox": [
+        185.32799999999997,
+        89.71199999999999,
+        287.28,
+        95.03999999999999
+      ]
+    }
+  ],
+  "text": "7. Based on the passage, the primary problem the author identifies with the current\ndiscourse surrounding \"rights\" is the:\n(A) Lack of comprehensive list of all possible rights.\na\n(B) Failure of historical documents to be literally accurate.\n(C) Proliferation of undefined and inconsistently used qualifying adjectives.\n(D) Over reliance Hohfeld's and incomplete classification system.\non narrow",
+  "ocr_words": [
+    {
+      "text": "7.",
+      "x0": 57.599999999999994,
+      "top": 5.183999999999999,
+      "x1": 64.94399999999999,
+      "bottom": 12.815999999999999,
+      "confidence": 90.64946,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Based",
+      "x0": 85.53599999999999,
+      "top": 4.752,
+      "x1": 115.91999999999999,
+      "bottom": 12.815999999999999,
+      "confidence": 96.471268,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "on",
+      "x0": 122.832,
+      "top": 7.4879999999999995,
+      "x1": 134.352,
+      "bottom": 12.815999999999999,
+      "confidence": 95.758011,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 141.26399999999998,
+      "top": 4.752,
+      "x1": 157.10399999999998,
+      "bottom": 12.815999999999999,
+      "confidence": 96.358963,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "passage,",
+      "x0": 164.16,
+      "top": 7.4879999999999995,
+      "x1": 206.208,
+      "bottom": 14.831999999999999,
+      "confidence": 96.358963,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 213.696,
+      "top": 4.752,
+      "x1": 229.536,
+      "bottom": 12.815999999999999,
+      "confidence": 96.227295,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "primary",
+      "x0": 236.59199999999998,
+      "top": 4.752,
+      "x1": 277.488,
+      "bottom": 14.832,
+      "confidence": 95.787651,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "problem",
+      "x0": 284.256,
+      "top": 4.752,
+      "x1": 325.008,
+      "bottom": 14.832,
+      "confidence": 96.079475,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 332.06399999999996,
+      "top": 4.752,
+      "x1": 347.90399999999994,
+      "bottom": 12.815999999999999,
+      "confidence": 96.85038,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "author",
+      "x0": 355.104,
+      "top": 4.752,
+      "x1": 388.512,
+      "bottom": 12.815999999999999,
+      "confidence": 96.567307,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "identifies",
+      "x0": 395.28,
+      "top": 4.608,
+      "x1": 442.08,
+      "bottom": 12.815999999999999,
+      "confidence": 96.567307,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "with",
+      "x0": 449.13599999999997,
+      "top": 4.752,
+      "x1": 471.59999999999997,
+      "bottom": 12.815999999999999,
+      "confidence": 96.588737,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 478.51199999999994,
+      "top": 4.752,
+      "x1": 494.20799999999997,
+      "bottom": 12.815999999999999,
+      "confidence": 96.660835,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "current",
+      "x0": 501.26399999999995,
+      "top": 5.616,
+      "x1": 538.56,
+      "bottom": 12.815999999999999,
+      "confidence": 96.003036,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "discourse",
+      "x0": 85.67999999999999,
+      "top": 17.855999999999998,
+      "x1": 132.048,
+      "bottom": 26.064,
+      "confidence": 96.379684,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "surrounding",
+      "x0": 136.224,
+      "top": 17.855999999999998,
+      "x1": 198.432,
+      "bottom": 28.08,
+      "confidence": 95.519638,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "\"rights\"",
+      "x0": 202.176,
+      "top": 17.855999999999998,
+      "x1": 239.904,
+      "bottom": 28.08,
+      "confidence": 95.935791,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "is",
+      "x0": 243.79199999999997,
+      "top": 17.855999999999998,
+      "x1": 251.56799999999998,
+      "bottom": 26.064,
+      "confidence": 95.609062,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the:",
+      "x0": 255.456,
+      "top": 17.855999999999998,
+      "x1": 273.74399999999997,
+      "bottom": 26.064,
+      "confidence": 96.899124,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(A)",
+      "x0": 85.824,
+      "top": 35.135999999999996,
+      "x1": 99.648,
+      "bottom": 45.215999999999994,
+      "confidence": 91.449913,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Lack",
+      "x0": 113.75999999999999,
+      "top": 35.135999999999996,
+      "x1": 138.096,
+      "bottom": 43.343999999999994,
+      "confidence": 83.514999,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 141.696,
+      "top": 34.992,
+      "x1": 151.2,
+      "bottom": 43.343999999999994,
+      "confidence": 93.299263,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "a",
+      "x0": 154.07999999999998,
+      "top": 38.016,
+      "x1": 159.408,
+      "bottom": 43.343999999999994,
+      "confidence": 93.299263,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "comprehensive",
+      "x0": 163.152,
+      "top": 35.135999999999996,
+      "x1": 238.176,
+      "bottom": 45.215999999999994,
+      "confidence": 96.069481,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "list",
+      "x0": 241.92,
+      "top": 35.135999999999996,
+      "x1": 257.616,
+      "bottom": 43.343999999999994,
+      "confidence": 96.813408,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 261.35999999999996,
+      "top": 34.992,
+      "x1": 270.864,
+      "bottom": 43.343999999999994,
+      "confidence": 96.444511,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "all",
+      "x0": 273.74399999999997,
+      "top": 35.135999999999996,
+      "x1": 285.984,
+      "bottom": 43.343999999999994,
+      "confidence": 96.319077,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "possible",
+      "x0": 289.584,
+      "top": 35.135999999999996,
+      "x1": 329.472,
+      "bottom": 45.215999999999994,
+      "confidence": 96.300018,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "rights.",
+      "x0": 333.21599999999995,
+      "top": 35.135999999999996,
+      "x1": 365.472,
+      "bottom": 45.35999999999999,
+      "confidence": 96.219551,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(B)",
+      "x0": 85.824,
+      "top": 52.416,
+      "x1": 99.648,
+      "bottom": 62.495999999999995,
+      "confidence": 91.984993,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Failure",
+      "x0": 114.04799999999999,
+      "top": 52.416,
+      "x1": 150.48,
+      "bottom": 60.623999999999995,
+      "confidence": 92.221634,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "of",
+      "x0": 154.368,
+      "top": 52.272,
+      "x1": 163.87199999999999,
+      "bottom": 60.623999999999995,
+      "confidence": 96.4468,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "historical",
+      "x0": 166.464,
+      "top": 52.416,
+      "x1": 213.84,
+      "bottom": 60.623999999999995,
+      "confidence": 96.271095,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "documents",
+      "x0": 217.72799999999998,
+      "top": 52.416,
+      "x1": 271.44,
+      "bottom": 60.623999999999995,
+      "confidence": 95.951363,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "to",
+      "x0": 275.328,
+      "top": 53.279999999999994,
+      "x1": 284.4,
+      "bottom": 60.623999999999995,
+      "confidence": 96.068794,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "be",
+      "x0": 287.856,
+      "top": 52.416,
+      "x1": 299.08799999999997,
+      "bottom": 60.623999999999995,
+      "confidence": 96.684265,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "literally",
+      "x0": 302.832,
+      "top": 52.416,
+      "x1": 343.008,
+      "bottom": 62.495999999999995,
+      "confidence": 96.423454,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "accurate.",
+      "x0": 346.60799999999995,
+      "top": 53.279999999999994,
+      "x1": 391.67999999999995,
+      "bottom": 60.623999999999995,
+      "confidence": 96.494247,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(C)",
+      "x0": 85.824,
+      "top": 69.55199999999999,
+      "x1": 99.648,
+      "bottom": 79.776,
+      "confidence": 92.443474,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Proliferation",
+      "x0": 113.904,
+      "top": 69.55199999999999,
+      "x1": 177.98399999999998,
+      "bottom": 77.75999999999999,
+      "confidence": 79.959625,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "of",
+      "x0": 181.58399999999997,
+      "top": 69.55199999999999,
+      "x1": 191.23199999999997,
+      "bottom": 77.75999999999999,
+      "confidence": 96.088387,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "undefined",
+      "x0": 193.82399999999998,
+      "top": 69.55199999999999,
+      "x1": 244.224,
+      "bottom": 77.75999999999999,
+      "confidence": 96.59922,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "and",
+      "x0": 247.968,
+      "top": 69.55199999999999,
+      "x1": 266.4,
+      "bottom": 77.75999999999999,
+      "confidence": 94.373032,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "inconsistently",
+      "x0": 270.0,
+      "top": 69.55199999999999,
+      "x1": 340.704,
+      "bottom": 79.776,
+      "confidence": 94.373032,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "used",
+      "x0": 344.15999999999997,
+      "top": 69.55199999999999,
+      "x1": 367.34399999999994,
+      "bottom": 77.75999999999999,
+      "confidence": 96.61409,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "qualifying",
+      "x0": 371.23199999999997,
+      "top": 69.55199999999999,
+      "x1": 422.06399999999996,
+      "bottom": 79.776,
+      "confidence": 96.34182,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "adjectives.",
+      "x0": 425.808,
+      "top": 69.55199999999999,
+      "x1": 477.64799999999997,
+      "bottom": 79.776,
+      "confidence": 96.199379,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "(D)",
+      "x0": 85.824,
+      "top": 86.832,
+      "x1": 100.22399999999999,
+      "bottom": 96.91199999999999,
+      "confidence": 91.812675,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Over",
+      "x0": 114.04799999999999,
+      "top": 86.68799999999999,
+      "x1": 138.09599999999998,
+      "bottom": 95.03999999999999,
+      "confidence": 96.545494,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "reliance",
+      "x0": 141.552,
+      "top": 86.832,
+      "x1": 181.44,
+      "bottom": 95.03999999999999,
+      "confidence": 96.370865,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "on",
+      "x0": 185.32799999999997,
+      "top": 89.71199999999999,
+      "x1": 196.84799999999998,
+      "bottom": 95.03999999999999,
+      "confidence": 92.846382,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Hohfeld's",
+      "x0": 200.736,
+      "top": 86.68799999999999,
+      "x1": 247.392,
+      "bottom": 95.03999999999999,
+      "confidence": 90.721298,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "narrow",
+      "x0": 251.27999999999997,
+      "top": 89.71199999999999,
+      "x1": 287.28,
+      "bottom": 95.03999999999999,
+      "confidence": 96.342346,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "and",
+      "x0": 291.168,
+      "top": 86.832,
+      "x1": 309.6,
+      "bottom": 95.03999999999999,
+      "confidence": 96.43544,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "incomplete",
+      "x0": 313.056,
+      "top": 86.832,
+      "x1": 367.77599999999995,
+      "bottom": 96.91199999999999,
+      "confidence": 96.43544,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "classification",
+      "x0": 371.52,
+      "top": 86.68799999999999,
+      "x1": 437.328,
+      "bottom": 95.03999999999999,
+      "confidence": 95.912834,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "system.",
+      "x0": 441.21599999999995,
+      "top": 87.83999999999999,
+      "x1": 478.36799999999994,
+      "bottom": 97.05599999999998,
+      "confidence": 96.761795,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

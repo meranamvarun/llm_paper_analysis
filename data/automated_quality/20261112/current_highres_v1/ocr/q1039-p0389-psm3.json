@@ -1,0 +1,788 @@
+{
+  "pdf_page": 389,
+  "crop_top": 322.72136,
+  "crop_bottom": 423.60136,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0389:l0019:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.45 Cicero defined law as:",
+      "bbox": [
+        41.903999999999996,
+        4.4639999999999995,
+        130.176,
+        10.367999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "\"4",
+      "bbox": [
+        73.728,
+        14.399999999999999,
+        87.83999999999999,
+        29.087999999999997
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "Ans",
+      "bbox": [
+        43.343999999999994,
+        17.424,
+        54.57599999999999,
+        22.32
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "1. The highest reason implanted in nature.",
+      "bbox": [
+        88.55999999999999,
+        25.776,
+        216.576,
+        32.256
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "x",
+      "bbox": [
+        73.008,
+        37.296,
+        86.544,
+        49.68
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "2. The aggregate of rules set by men or politically superior, or sovereign, to men or politically subject.",
+      "bbox": [
+        88.27199999999999,
+        47.087999999999994,
+        395.712,
+        53.568
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "rad",
+      "bbox": [
+        72.43199999999999,
+        58.032,
+        87.11999999999999,
+        75.6
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "3. A social institution to satisfy social wants.",
+      "bbox": [
+        88.27199999999999,
+        68.544,
+        220.896,
+        74.88
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "x,",
+      "bbox": [
+        73.008,
+        79.91999999999999,
+        93.024,
+        95.03999999999999
+      ]
+    },
+    {
+      "line_id": "l0009",
+      "text": "The form of the guarantee of the conditions of life of society assured by state's power of constraint.",
+      "bbox": [
+        95.32799999999999,
+        89.856,
+        398.448,
+        96.336
+      ]
+    }
+  ],
+  "text": "Q.45 Cicero defined law as:\n\"4\nAns\n1. The highest reason implanted in nature.\nx\n2. The aggregate of rules set by men or politically superior, or sovereign, to men or politically subject.\nrad\n3. A social institution to satisfy social wants.\nx,\nThe form of the guarantee of the conditions of life of society assured by state's power of constraint.",
+  "ocr_words": [
+    {
+      "text": "Q.45",
+      "x0": 41.903999999999996,
+      "top": 4.752,
+      "x1": 56.01599999999999,
+      "bottom": 10.367999999999999,
+      "confidence": 92.06823,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Cicero",
+      "x0": 62.63999999999999,
+      "top": 4.608,
+      "x1": 81.50399999999999,
+      "bottom": 9.648,
+      "confidence": 96.469063,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "defined",
+      "x0": 83.80799999999999,
+      "top": 4.4639999999999995,
+      "x1": 106.84799999999998,
+      "bottom": 9.648,
+      "confidence": 96.803986,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "law",
+      "x0": 109.44,
+      "top": 4.4639999999999995,
+      "x1": 119.952,
+      "bottom": 9.648,
+      "confidence": 95.647934,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "as:",
+      "x0": 122.112,
+      "top": 5.904,
+      "x1": 130.176,
+      "bottom": 9.648,
+      "confidence": 96.898483,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.343999999999994,
+      "top": 17.424,
+      "x1": 54.57599999999999,
+      "bottom": 22.32,
+      "confidence": 96.507675,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "\"4",
+      "x0": 73.728,
+      "top": 14.399999999999999,
+      "x1": 87.83999999999999,
+      "bottom": 29.087999999999997,
+      "confidence": 20.80056,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 88.55999999999999,
+      "top": 26.063999999999997,
+      "x1": 93.02399999999999,
+      "bottom": 30.959999999999997,
+      "confidence": 95.920471,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "The",
+      "x0": 95.32799999999999,
+      "top": 25.776,
+      "x1": 106.27199999999999,
+      "bottom": 30.96,
+      "confidence": 96.51812,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "highest",
+      "x0": 108.86399999999999,
+      "top": 25.776,
+      "x1": 130.32,
+      "bottom": 32.256,
+      "confidence": 96.51812,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "reason",
+      "x0": 132.91199999999998,
+      "top": 27.36,
+      "x1": 152.49599999999998,
+      "bottom": 30.96,
+      "confidence": 96.096756,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "implanted",
+      "x0": 155.232,
+      "top": 25.776,
+      "x1": 185.328,
+      "bottom": 32.256,
+      "confidence": 96.621025,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "in",
+      "x0": 188.064,
+      "top": 26.063999999999997,
+      "x1": 192.672,
+      "bottom": 30.959999999999997,
+      "confidence": 96.29203,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "nature.",
+      "x0": 195.408,
+      "top": 26.496,
+      "x1": 216.576,
+      "bottom": 30.959999999999997,
+      "confidence": 96.29203,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "x",
+      "x0": 73.008,
+      "top": 37.296,
+      "x1": 86.544,
+      "bottom": 49.68,
+      "confidence": 74.235466,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "2.",
+      "x0": 88.27199999999999,
+      "top": 47.519999999999996,
+      "x1": 93.02399999999999,
+      "bottom": 52.272,
+      "confidence": 96.876289,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "The",
+      "x0": 95.32799999999999,
+      "top": 47.087999999999994,
+      "x1": 106.27199999999999,
+      "bottom": 52.27199999999999,
+      "confidence": 96.791977,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "aggregate",
+      "x0": 108.72,
+      "top": 47.808,
+      "x1": 138.384,
+      "bottom": 53.568,
+      "confidence": 96.601173,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "of",
+      "x0": 140.688,
+      "top": 47.087999999999994,
+      "x1": 146.736,
+      "bottom": 52.27199999999999,
+      "confidence": 96.601173,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "rules",
+      "x0": 148.896,
+      "top": 47.087999999999994,
+      "x1": 163.00799999999998,
+      "bottom": 52.27199999999999,
+      "confidence": 96.521782,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "set",
+      "x0": 165.31199999999998,
+      "top": 47.808,
+      "x1": 173.95199999999997,
+      "bottom": 52.272,
+      "confidence": 95.75621,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "by",
+      "x0": 176.39999999999998,
+      "top": 47.087999999999994,
+      "x1": 183.02399999999997,
+      "bottom": 53.56799999999999,
+      "confidence": 96.919273,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "men",
+      "x0": 185.47199999999998,
+      "top": 48.672,
+      "x1": 197.99999999999997,
+      "bottom": 52.272,
+      "confidence": 95.652954,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "or",
+      "x0": 200.59199999999998,
+      "top": 48.672,
+      "x1": 206.64,
+      "bottom": 52.272,
+      "confidence": 95.652954,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "politically",
+      "x0": 209.088,
+      "top": 47.087999999999994,
+      "x1": 237.456,
+      "bottom": 53.56799999999999,
+      "confidence": 96.525925,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "superior,",
+      "x0": 239.61599999999999,
+      "top": 47.376,
+      "x1": 266.11199999999997,
+      "bottom": 53.568,
+      "confidence": 96.137756,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "or",
+      "x0": 268.704,
+      "top": 48.672,
+      "x1": 274.752,
+      "bottom": 52.272,
+      "confidence": 96.624031,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "sovereign,",
+      "x0": 276.912,
+      "top": 47.376,
+      "x1": 307.58399999999995,
+      "bottom": 53.568,
+      "confidence": 96.449013,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "to",
+      "x0": 309.888,
+      "top": 47.808,
+      "x1": 315.792,
+      "bottom": 52.272,
+      "confidence": 96.573715,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "men",
+      "x0": 318.52799999999996,
+      "top": 48.672,
+      "x1": 331.056,
+      "bottom": 52.272,
+      "confidence": 96.879936,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "or",
+      "x0": 333.64799999999997,
+      "top": 48.672,
+      "x1": 339.69599999999997,
+      "bottom": 52.272,
+      "confidence": 96.912048,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "politically",
+      "x0": 342.14399999999995,
+      "top": 47.087999999999994,
+      "x1": 370.51199999999994,
+      "bottom": 53.56799999999999,
+      "confidence": 96.193275,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "subject.",
+      "x0": 372.67199999999997,
+      "top": 47.087999999999994,
+      "x1": 395.712,
+      "bottom": 53.56799999999999,
+      "confidence": 96.193275,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "rad",
+      "x0": 72.43199999999999,
+      "top": 58.032,
+      "x1": 87.11999999999999,
+      "bottom": 75.6,
+      "confidence": 56.093941,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "3.",
+      "x0": 88.27199999999999,
+      "top": 68.832,
+      "x1": 93.02399999999999,
+      "bottom": 73.728,
+      "confidence": 96.470352,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "A",
+      "x0": 95.472,
+      "top": 68.832,
+      "x1": 99.50399999999999,
+      "bottom": 73.58399999999999,
+      "confidence": 93.144455,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "social",
+      "x0": 101.66399999999999,
+      "top": 68.544,
+      "x1": 117.79199999999999,
+      "bottom": 73.728,
+      "confidence": 93.144455,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "institution",
+      "x0": 120.52799999999999,
+      "top": 68.832,
+      "x1": 150.91199999999998,
+      "bottom": 73.728,
+      "confidence": 96.036934,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "to",
+      "x0": 153.35999999999999,
+      "top": 69.264,
+      "x1": 159.26399999999998,
+      "bottom": 73.728,
+      "confidence": 96.597626,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "satisfy",
+      "x0": 161.712,
+      "top": 68.544,
+      "x1": 180.576,
+      "bottom": 74.88,
+      "confidence": 96.411522,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "social",
+      "x0": 182.736,
+      "top": 68.544,
+      "x1": 199.00799999999998,
+      "bottom": 73.728,
+      "confidence": 96.183998,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "wants.",
+      "x0": 201.456,
+      "top": 69.264,
+      "x1": 220.896,
+      "bottom": 73.728,
+      "confidence": 96.648468,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "x,",
+      "x0": 73.008,
+      "top": 79.91999999999999,
+      "x1": 93.024,
+      "bottom": 95.03999999999999,
+      "confidence": 50.633095,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 95.32799999999999,
+      "top": 89.856,
+      "x1": 106.27199999999999,
+      "bottom": 95.03999999999999,
+      "confidence": 96.730873,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "form",
+      "x0": 108.43199999999999,
+      "top": 89.856,
+      "x1": 122.54399999999998,
+      "bottom": 95.03999999999999,
+      "confidence": 95.479141,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 125.136,
+      "top": 89.856,
+      "x1": 131.184,
+      "bottom": 95.03999999999999,
+      "confidence": 95.479141,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 132.91199999999998,
+      "top": 89.856,
+      "x1": 142.55999999999997,
+      "bottom": 95.03999999999999,
+      "confidence": 96.784424,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "guarantee",
+      "x0": 144.86399999999998,
+      "top": 90.576,
+      "x1": 175.53599999999997,
+      "bottom": 96.336,
+      "confidence": 96.312729,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 177.83999999999997,
+      "top": 89.856,
+      "x1": 183.88799999999998,
+      "bottom": 95.03999999999999,
+      "confidence": 96.643555,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 185.61599999999999,
+      "top": 89.856,
+      "x1": 195.408,
+      "bottom": 95.03999999999999,
+      "confidence": 96.643326,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "conditions",
+      "x0": 197.712,
+      "top": 89.856,
+      "x1": 228.95999999999998,
+      "bottom": 95.03999999999999,
+      "confidence": 96.348083,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 231.26399999999998,
+      "top": 89.856,
+      "x1": 237.16799999999998,
+      "bottom": 95.03999999999999,
+      "confidence": 97.001999,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "life",
+      "x0": 239.32799999999997,
+      "top": 89.856,
+      "x1": 247.82399999999998,
+      "bottom": 95.03999999999999,
+      "confidence": 96.860382,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 250.272,
+      "top": 89.856,
+      "x1": 256.32,
+      "bottom": 95.03999999999999,
+      "confidence": 96.154419,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "society",
+      "x0": 258.192,
+      "top": 90.14399999999999,
+      "x1": 279.216,
+      "bottom": 96.33599999999998,
+      "confidence": 96.154419,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "assured",
+      "x0": 281.376,
+      "top": 89.856,
+      "x1": 304.128,
+      "bottom": 95.03999999999999,
+      "confidence": 96.309158,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "by",
+      "x0": 307.008,
+      "top": 89.856,
+      "x1": 313.632,
+      "bottom": 96.336,
+      "confidence": 96.797607,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "state's",
+      "x0": 315.64799999999997,
+      "top": 89.856,
+      "x1": 334.94399999999996,
+      "bottom": 95.03999999999999,
+      "confidence": 95.994133,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "power",
+      "x0": 337.536,
+      "top": 91.44,
+      "x1": 356.4,
+      "bottom": 96.336,
+      "confidence": 95.914612,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 358.55999999999995,
+      "top": 89.856,
+      "x1": 364.60799999999995,
+      "bottom": 95.03999999999999,
+      "confidence": 96.818077,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "constraint.",
+      "x0": 366.47999999999996,
+      "top": 90.14399999999999,
+      "x1": 398.448,
+      "bottom": 95.03999999999999,
+      "confidence": 96.678612,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

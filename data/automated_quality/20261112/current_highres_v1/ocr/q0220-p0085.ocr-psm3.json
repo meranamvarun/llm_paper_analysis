@@ -1,0 +1,1346 @@
+{
+  "pdf_page": 85,
+  "crop_top": 504.52389999999997,
+  "crop_bottom": 703.5239,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0085:l0026:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "101. In the context of negligence, which of the following scenarios best demonstrates the",
+      "bbox": [
+        99.79199999999999,
+        4.608,
+        551.52,
+        14.831999999999997
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "of all essential elements?",
+      "bbox": [
+        173.808,
+        18.575999999999997,
+        300.38399999999996,
+        26.927999999999997
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "presence",
+      "bbox": [
+        126.288,
+        21.599999999999998,
+        169.92,
+        28.799999999999997
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(A) A doctor prescribes the wrong medication to a patient, but the patient’s immune",
+      "bbox": [
+        125.42399999999999,
+        42.623999999999995,
+        551.52,
+        52.848
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "system prevents any harmful side effects and the patient does not suffer any",
+      "bbox": [
+        148.60799999999998,
+        56.592,
+        551.952,
+        66.816
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "injury",
+      "bbox": [
+        148.32,
+        70.704,
+        178.84799999999998,
+        80.928
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "(B) A driver a red light, narrowly avoiding an accident with another car and",
+      "bbox": [
+        125.42399999999999,
+        94.60799999999999,
+        551.808,
+        104.832
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "runs",
+      "bbox": [
+        194.832,
+        97.63199999999999,
+        217.44,
+        102.81599999999999
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "both vehicles continue without any collision or harm",
+      "bbox": [
+        148.03199999999998,
+        108.72,
+        413.712,
+        118.8
+      ]
+    },
+    {
+      "line_id": "l0009",
+      "text": "(C) Ahotel guest tragically drowns in the swimming pool as the lifeguard was assigned",
+      "bbox": [
+        125.42399999999999,
+        132.624,
+        551.808,
+        142.84799999999998
+      ]
+    },
+    {
+      "line_id": "l0010",
+      "text": "duties as a part time bartender",
+      "bbox": [
+        148.60799999999998,
+        146.736,
+        306.71999999999997,
+        156.816
+      ]
+    },
+    {
+      "line_id": "l0011",
+      "text": "(D) A construction company delays necessary maintenance on a bridge and despite",
+      "bbox": [
+        124.84799999999998,
+        170.64,
+        551.52,
+        180.86399999999998
+      ]
+    },
+    {
+      "line_id": "l0012",
+      "text": "having major cracks the bridge remains functional",
+      "bbox": [
+        148.176,
+        184.60799999999998,
+        404.64,
+        194.83199999999997
+      ]
+    }
+  ],
+  "text": "101. In the context of negligence, which of the following scenarios best demonstrates the\nof all essential elements?\npresence\n(A) A doctor prescribes the wrong medication to a patient, but the patient’s immune\nsystem prevents any harmful side effects and the patient does not suffer any\ninjury\n(B) A driver a red light, narrowly avoiding an accident with another car and\nruns\nboth vehicles continue without any collision or harm\n(C) Ahotel guest tragically drowns in the swimming pool as the lifeguard was assigned\nduties as a part time bartender\n(D) A construction company delays necessary maintenance on a bridge and despite\nhaving major cracks the bridge remains functional",
+  "ocr_words": [
+    {
+      "text": "101.",
+      "x0": 99.79199999999999,
+      "top": 5.183999999999999,
+      "x1": 119.088,
+      "bottom": 12.815999999999999,
+      "confidence": 96.338409,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "In",
+      "x0": 126.43199999999999,
+      "top": 4.752,
+      "x1": 136.944,
+      "bottom": 12.671999999999999,
+      "confidence": 94.73307,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 140.688,
+      "top": 4.752,
+      "x1": 156.528,
+      "bottom": 12.815999999999999,
+      "confidence": 94.73307,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "context",
+      "x0": 160.55999999999997,
+      "top": 5.616,
+      "x1": 197.13599999999997,
+      "bottom": 12.815999999999999,
+      "confidence": 96.433319,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 201.02399999999997,
+      "top": 4.608,
+      "x1": 210.52799999999996,
+      "bottom": 12.815999999999999,
+      "confidence": 96.145332,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "negligence,",
+      "x0": 213.408,
+      "top": 4.608,
+      "x1": 268.84799999999996,
+      "bottom": 14.831999999999997,
+      "confidence": 96.145332,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "which",
+      "x0": 273.31199999999995,
+      "top": 4.608,
+      "x1": 303.11999999999995,
+      "bottom": 12.815999999999999,
+      "confidence": 96.655357,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 307.008,
+      "top": 4.608,
+      "x1": 316.512,
+      "bottom": 12.815999999999999,
+      "confidence": 96.455162,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 319.248,
+      "top": 4.608,
+      "x1": 335.08799999999997,
+      "bottom": 12.815999999999999,
+      "confidence": 96.16597,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 339.11999999999995,
+      "top": 4.608,
+      "x1": 384.9119999999999,
+      "bottom": 14.831999999999997,
+      "confidence": 96.353058,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "scenarios",
+      "x0": 388.94399999999996,
+      "top": 4.608,
+      "x1": 435.16799999999995,
+      "bottom": 12.815999999999999,
+      "confidence": 96.525391,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "best",
+      "x0": 438.912,
+      "top": 4.608,
+      "x1": 459.64799999999997,
+      "bottom": 12.815999999999999,
+      "confidence": 96.766075,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "demonstrates",
+      "x0": 463.67999999999995,
+      "top": 4.752,
+      "x1": 531.7919999999999,
+      "bottom": 12.815999999999999,
+      "confidence": 96.256004,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 535.824,
+      "top": 4.752,
+      "x1": 551.52,
+      "bottom": 12.815999999999999,
+      "confidence": 96.555389,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "presence",
+      "x0": 126.288,
+      "top": 21.599999999999998,
+      "x1": 169.92,
+      "bottom": 28.799999999999997,
+      "confidence": 96.602608,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 173.808,
+      "top": 18.575999999999997,
+      "x1": 183.31199999999998,
+      "bottom": 26.927999999999997,
+      "confidence": 96.623032,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "all",
+      "x0": 186.19199999999998,
+      "top": 18.72,
+      "x1": 198.432,
+      "bottom": 26.927999999999997,
+      "confidence": 96.117195,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "essential",
+      "x0": 202.176,
+      "top": 18.72,
+      "x1": 246.81599999999997,
+      "bottom": 26.927999999999997,
+      "confidence": 95.427383,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "elements?",
+      "x0": 250.55999999999997,
+      "top": 18.575999999999997,
+      "x1": 300.38399999999996,
+      "bottom": 26.927999999999997,
+      "confidence": 96.57132,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(A)",
+      "x0": 125.42399999999999,
+      "top": 42.623999999999995,
+      "x1": 139.248,
+      "bottom": 52.84799999999999,
+      "confidence": 96.76947,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A",
+      "x0": 147.88799999999998,
+      "top": 42.623999999999995,
+      "x1": 155.95199999999997,
+      "bottom": 50.687999999999995,
+      "confidence": 89.083939,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "doctor",
+      "x0": 159.26399999999998,
+      "top": 42.623999999999995,
+      "x1": 189.93599999999998,
+      "bottom": 50.831999999999994,
+      "confidence": 89.083939,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "prescribes",
+      "x0": 193.248,
+      "top": 42.623999999999995,
+      "x1": 244.224,
+      "bottom": 52.84799999999999,
+      "confidence": 96.593292,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 247.67999999999998,
+      "top": 42.623999999999995,
+      "x1": 263.52,
+      "bottom": 50.831999999999994,
+      "confidence": 96.847198,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "wrong",
+      "x0": 266.976,
+      "top": 45.36,
+      "x1": 298.224,
+      "bottom": 52.848,
+      "confidence": 96.601845,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "medication",
+      "x0": 301.67999999999995,
+      "top": 42.623999999999995,
+      "x1": 356.97599999999994,
+      "bottom": 50.831999999999994,
+      "confidence": 96.372383,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 360.14399999999995,
+      "top": 43.632,
+      "x1": 369.35999999999996,
+      "bottom": 50.831999999999994,
+      "confidence": 96.414742,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 373.104,
+      "top": 45.504,
+      "x1": 378.43199999999996,
+      "bottom": 50.831999999999994,
+      "confidence": 96.537224,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "patient,",
+      "x0": 381.74399999999997,
+      "top": 42.623999999999995,
+      "x1": 420.33599999999996,
+      "bottom": 52.84799999999999,
+      "confidence": 96.335693,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "but",
+      "x0": 424.08,
+      "top": 42.623999999999995,
+      "x1": 440.784,
+      "bottom": 50.831999999999994,
+      "confidence": 96.486298,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 444.23999999999995,
+      "top": 42.623999999999995,
+      "x1": 459.9359999999999,
+      "bottom": 50.831999999999994,
+      "confidence": 93.298225,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "patient’s",
+      "x0": 463.53599999999994,
+      "top": 42.623999999999995,
+      "x1": 506.73599999999993,
+      "bottom": 52.84799999999999,
+      "confidence": 91.101746,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "immune",
+      "x0": 510.33599999999996,
+      "top": 42.623999999999995,
+      "x1": 551.52,
+      "bottom": 50.831999999999994,
+      "confidence": 96.204453,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "system",
+      "x0": 148.60799999999998,
+      "top": 57.599999999999994,
+      "x1": 183.31199999999998,
+      "bottom": 66.81599999999999,
+      "confidence": 96.684319,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "prevents",
+      "x0": 188.208,
+      "top": 57.599999999999994,
+      "x1": 231.696,
+      "bottom": 66.81599999999999,
+      "confidence": 96.573845,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "any",
+      "x0": 237.02399999999997,
+      "top": 59.471999999999994,
+      "x1": 255.02399999999997,
+      "bottom": 66.81599999999999,
+      "confidence": 96.987106,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "harmful",
+      "x0": 259.77599999999995,
+      "top": 56.592,
+      "x1": 300.52799999999996,
+      "bottom": 64.8,
+      "confidence": 96.691513,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "side",
+      "x0": 305.712,
+      "top": 56.736,
+      "x1": 325.152,
+      "bottom": 64.8,
+      "confidence": 96.879074,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "effects",
+      "x0": 330.33599999999996,
+      "top": 56.592,
+      "x1": 361.87199999999996,
+      "bottom": 64.8,
+      "confidence": 96.295662,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "and",
+      "x0": 367.2,
+      "top": 56.736,
+      "x1": 385.632,
+      "bottom": 64.8,
+      "confidence": 96.602539,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 390.38399999999996,
+      "top": 56.736,
+      "x1": 406.22399999999993,
+      "bottom": 64.8,
+      "confidence": 96.362755,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "patient",
+      "x0": 411.26399999999995,
+      "top": 56.736,
+      "x1": 447.40799999999996,
+      "bottom": 66.816,
+      "confidence": 96.633148,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "does",
+      "x0": 452.448,
+      "top": 56.736,
+      "x1": 473.904,
+      "bottom": 64.8,
+      "confidence": 96.18502,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "not",
+      "x0": 478.94399999999996,
+      "top": 57.599999999999994,
+      "x1": 494.92799999999994,
+      "bottom": 64.8,
+      "confidence": 96.816933,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "suffer",
+      "x0": 500.11199999999997,
+      "top": 56.592,
+      "x1": 528.7679999999999,
+      "bottom": 64.8,
+      "confidence": 96.165016,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "any",
+      "x0": 533.808,
+      "top": 59.471999999999994,
+      "x1": 551.952,
+      "bottom": 66.81599999999999,
+      "confidence": 96.748077,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "injury",
+      "x0": 148.32,
+      "top": 70.704,
+      "x1": 178.84799999999998,
+      "bottom": 80.928,
+      "confidence": 92.947578,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(B)",
+      "x0": 125.42399999999999,
+      "top": 94.60799999999999,
+      "x1": 139.248,
+      "bottom": 104.832,
+      "confidence": 92.199409,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A",
+      "x0": 147.88799999999998,
+      "top": 94.60799999999999,
+      "x1": 155.95199999999997,
+      "bottom": 102.672,
+      "confidence": 94.308395,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "driver",
+      "x0": 160.416,
+      "top": 94.60799999999999,
+      "x1": 190.512,
+      "bottom": 102.81599999999999,
+      "confidence": 94.308395,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "runs",
+      "x0": 194.832,
+      "top": 97.63199999999999,
+      "x1": 217.44,
+      "bottom": 102.81599999999999,
+      "confidence": 96.621315,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 222.33599999999998,
+      "top": 97.488,
+      "x1": 227.664,
+      "bottom": 102.816,
+      "confidence": 96.621315,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "red",
+      "x0": 231.98399999999998,
+      "top": 94.752,
+      "x1": 248.25599999999997,
+      "bottom": 102.816,
+      "confidence": 95.993027,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "light,",
+      "x0": 252.576,
+      "top": 94.60799999999999,
+      "x1": 278.352,
+      "bottom": 104.832,
+      "confidence": 95.53138,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "narrowly",
+      "x0": 283.392,
+      "top": 94.752,
+      "x1": 328.896,
+      "bottom": 104.832,
+      "confidence": 95.87558,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "avoiding",
+      "x0": 333.35999999999996,
+      "top": 94.60799999999999,
+      "x1": 376.12799999999993,
+      "bottom": 104.832,
+      "confidence": 96.142052,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "an",
+      "x0": 380.592,
+      "top": 97.488,
+      "x1": 392.688,
+      "bottom": 102.816,
+      "confidence": 96.309532,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "accident",
+      "x0": 397.296,
+      "top": 94.60799999999999,
+      "x1": 438.62399999999997,
+      "bottom": 102.81599999999999,
+      "confidence": 96.192802,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "with",
+      "x0": 442.94399999999996,
+      "top": 94.60799999999999,
+      "x1": 465.55199999999996,
+      "bottom": 102.81599999999999,
+      "confidence": 96.698326,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "another",
+      "x0": 470.15999999999997,
+      "top": 94.752,
+      "x1": 509.03999999999996,
+      "bottom": 102.816,
+      "confidence": 96.52034,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "car",
+      "x0": 513.5039999999999,
+      "top": 97.488,
+      "x1": 528.7679999999999,
+      "bottom": 102.816,
+      "confidence": 96.595398,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 533.376,
+      "top": 94.752,
+      "x1": 551.808,
+      "bottom": 102.816,
+      "confidence": 96.545288,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "both",
+      "x0": 148.03199999999998,
+      "top": 108.72,
+      "x1": 170.35199999999998,
+      "bottom": 116.928,
+      "confidence": 96.403687,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "vehicles",
+      "x0": 173.808,
+      "top": 108.72,
+      "x1": 213.696,
+      "bottom": 116.928,
+      "confidence": 96.149811,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "continue",
+      "x0": 217.58399999999997,
+      "top": 108.72,
+      "x1": 260.64,
+      "bottom": 116.928,
+      "confidence": 95.742638,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "without",
+      "x0": 264.38399999999996,
+      "top": 108.72,
+      "x1": 303.40799999999996,
+      "bottom": 116.928,
+      "confidence": 96.390976,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "any",
+      "x0": 307.296,
+      "top": 111.6,
+      "x1": 325.296,
+      "bottom": 118.8,
+      "confidence": 96.063828,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "collision",
+      "x0": 328.75199999999995,
+      "top": 108.72,
+      "x1": 369.792,
+      "bottom": 116.928,
+      "confidence": 95.969666,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "or",
+      "x0": 373.53599999999994,
+      "top": 111.6,
+      "x1": 383.3279999999999,
+      "bottom": 116.928,
+      "confidence": 96.276398,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "harm",
+      "x0": 386.784,
+      "top": 108.72,
+      "x1": 413.712,
+      "bottom": 116.928,
+      "confidence": 96.484787,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(C)",
+      "x0": 125.42399999999999,
+      "top": 132.624,
+      "x1": 139.248,
+      "bottom": 142.84799999999998,
+      "confidence": 88.483055,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ahotel",
+      "x0": 147.88799999999998,
+      "top": 132.624,
+      "x1": 182.736,
+      "bottom": 140.832,
+      "confidence": 89.808723,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "guest",
+      "x0": 185.47199999999998,
+      "top": 133.63199999999998,
+      "x1": 211.67999999999998,
+      "bottom": 142.84799999999998,
+      "confidence": 96.515816,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "tragically",
+      "x0": 214.272,
+      "top": 132.624,
+      "x1": 261.216,
+      "bottom": 142.84799999999998,
+      "confidence": 95.7407,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "drowns",
+      "x0": 263.952,
+      "top": 132.624,
+      "x1": 299.376,
+      "bottom": 140.832,
+      "confidence": 92.78157,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 302.11199999999997,
+      "top": 132.624,
+      "x1": 311.76,
+      "bottom": 140.688,
+      "confidence": 85.90844,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 314.20799999999997,
+      "top": 132.624,
+      "x1": 329.76,
+      "bottom": 140.832,
+      "confidence": 96.041161,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "swimming",
+      "x0": 332.784,
+      "top": 132.624,
+      "x1": 384.048,
+      "bottom": 142.84799999999998,
+      "confidence": 96.345367,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "pool",
+      "x0": 386.496,
+      "top": 132.624,
+      "x1": 406.368,
+      "bottom": 142.84799999999998,
+      "confidence": 96.416931,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "as",
+      "x0": 409.104,
+      "top": 135.504,
+      "x1": 419.18399999999997,
+      "bottom": 140.832,
+      "confidence": 95.955421,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 421.91999999999996,
+      "top": 132.624,
+      "x1": 437.472,
+      "bottom": 140.832,
+      "confidence": 95.955421,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "lifeguard",
+      "x0": 440.20799999999997,
+      "top": 132.624,
+      "x1": 484.84799999999996,
+      "bottom": 142.84799999999998,
+      "confidence": 95.867767,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "was",
+      "x0": 487.29599999999994,
+      "top": 135.504,
+      "x1": 506.1599999999999,
+      "bottom": 140.832,
+      "confidence": 96.596031,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "assigned",
+      "x0": 509.18399999999997,
+      "top": 132.624,
+      "x1": 551.808,
+      "bottom": 142.84799999999998,
+      "confidence": 95.094902,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "duties",
+      "x0": 148.60799999999998,
+      "top": 146.736,
+      "x1": 178.84799999999998,
+      "bottom": 154.79999999999998,
+      "confidence": 96.387772,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "as",
+      "x0": 183.02399999999997,
+      "top": 149.47199999999998,
+      "x1": 193.24799999999996,
+      "bottom": 154.79999999999998,
+      "confidence": 96.241272,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "a",
+      "x0": 197.27999999999997,
+      "top": 149.47199999999998,
+      "x1": 202.60799999999998,
+      "bottom": 154.79999999999998,
+      "confidence": 96.835495,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "part",
+      "x0": 206.208,
+      "top": 147.6,
+      "x1": 227.232,
+      "bottom": 156.816,
+      "confidence": 95.898293,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "time",
+      "x0": 230.832,
+      "top": 146.736,
+      "x1": 253.152,
+      "bottom": 154.79999999999998,
+      "confidence": 95.898293,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "bartender",
+      "x0": 256.75199999999995,
+      "top": 146.736,
+      "x1": 306.71999999999997,
+      "bottom": 154.79999999999998,
+      "confidence": 96.712677,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(D)",
+      "x0": 124.84799999999998,
+      "top": 170.64,
+      "x1": 139.248,
+      "bottom": 180.86399999999998,
+      "confidence": 91.453835,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A",
+      "x0": 147.88799999999998,
+      "top": 170.64,
+      "x1": 155.95199999999997,
+      "bottom": 178.70399999999998,
+      "confidence": 46.598068,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "construction",
+      "x0": 159.696,
+      "top": 170.64,
+      "x1": 222.048,
+      "bottom": 178.84799999999998,
+      "confidence": 46.598068,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "company",
+      "x0": 225.93599999999998,
+      "top": 173.51999999999998,
+      "x1": 270.71999999999997,
+      "bottom": 180.86399999999998,
+      "confidence": 95.94352,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "delays",
+      "x0": 274.89599999999996,
+      "top": 170.64,
+      "x1": 306.14399999999995,
+      "bottom": 180.86399999999998,
+      "confidence": 96.677353,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "necessary",
+      "x0": 310.32,
+      "top": 173.51999999999998,
+      "x1": 359.568,
+      "bottom": 180.86399999999998,
+      "confidence": 96.622269,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "maintenance",
+      "x0": 363.59999999999997,
+      "top": 170.64,
+      "x1": 428.544,
+      "bottom": 178.84799999999998,
+      "confidence": 96.429222,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "on",
+      "x0": 432.71999999999997,
+      "top": 173.51999999999998,
+      "x1": 444.23999999999995,
+      "bottom": 178.84799999999998,
+      "confidence": 95.139954,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 448.41599999999994,
+      "top": 173.51999999999998,
+      "x1": 453.7439999999999,
+      "bottom": 178.84799999999998,
+      "confidence": 96.065666,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "bridge",
+      "x0": 457.48799999999994,
+      "top": 170.64,
+      "x1": 489.16799999999995,
+      "bottom": 180.86399999999998,
+      "confidence": 96.851509,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 493.48799999999994,
+      "top": 170.64,
+      "x1": 511.91999999999996,
+      "bottom": 178.84799999999998,
+      "confidence": 96.812958,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "despite",
+      "x0": 516.096,
+      "top": 170.64,
+      "x1": 551.52,
+      "bottom": 180.72,
+      "confidence": 96.660042,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "having",
+      "x0": 148.176,
+      "top": 184.60799999999998,
+      "x1": 182.736,
+      "bottom": 194.83199999999997,
+      "confidence": 96.829338,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "major",
+      "x0": 186.48,
+      "top": 184.60799999999998,
+      "x1": 215.27999999999997,
+      "bottom": 194.83199999999997,
+      "confidence": 94.919388,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "cracks",
+      "x0": 218.88,
+      "top": 184.75199999999998,
+      "x1": 250.416,
+      "bottom": 192.81599999999997,
+      "confidence": 96.09948,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 254.15999999999997,
+      "top": 184.75199999999998,
+      "x1": 269.99999999999994,
+      "bottom": 192.81599999999997,
+      "confidence": 96.871323,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "bridge",
+      "x0": 273.59999999999997,
+      "top": 184.60799999999998,
+      "x1": 305.28,
+      "bottom": 194.83199999999997,
+      "confidence": 96.224403,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "remains",
+      "x0": 309.024,
+      "top": 184.75199999999998,
+      "x1": 349.776,
+      "bottom": 192.81599999999997,
+      "confidence": 94.991043,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "functional",
+      "x0": 353.664,
+      "top": 184.60799999999998,
+      "x1": 404.64,
+      "bottom": 192.81599999999997,
+      "confidence": 96.143791,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

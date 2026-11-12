@@ -1,0 +1,779 @@
+{
+  "pdf_page": 409,
+  "crop_top": 366.08,
+  "crop_bottom": 484.23999999999995,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0409:l0024:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Question Number : 41 Question Id : 461139411 Question Type: MCQ Option Shuffling : Yes Display Question Number : Yes",
+      "bbox": [
+        37.872,
+        3.888,
+        549.0719999999999,
+        12.24
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Single Line Question Option : No Option Orientation : Vertical",
+      "bbox": [
+        37.872,
+        13.248,
+        293.328,
+        21.599999999999998
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "Correct : 1 Wrong : 0.25",
+      "bbox": [
+        37.872,
+        26.496,
+        138.096,
+        34.559999999999995
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "Under which article the President can promulgate ordinances during the recess of Parliament?",
+      "bbox": [
+        37.583999999999996,
+        39.023999999999994,
+        488.15999999999997,
+        49.248
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "Options :",
+      "bbox": [
+        37.872,
+        56.16,
+        73.87199999999999,
+        64.368
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "1. ® Article 121",
+      "bbox": [
+        39.023999999999994,
+        68.68799999999999,
+        115.92,
+        78.048
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "2 * Article 122",
+      "bbox": [
+        38.303999999999995,
+        86.68799999999999,
+        116.64,
+        96.048
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "3.7 Article 123",
+      "bbox": [
+        38.303999999999995,
+        104.544,
+        116.64,
+        114.048
+      ]
+    }
+  ],
+  "text": "Question Number : 41 Question Id : 461139411 Question Type: MCQ Option Shuffling : Yes Display Question Number : Yes\nSingle Line Question Option : No Option Orientation : Vertical\nCorrect : 1 Wrong : 0.25\nUnder which article the President can promulgate ordinances during the recess of Parliament?\nOptions :\n1. ® Article 121\n2 * Article 122\n3.7 Article 123",
+  "ocr_words": [
+    {
+      "text": "Question",
+      "x0": 37.872,
+      "top": 3.888,
+      "x1": 73.15199999999999,
+      "bottom": 11.952,
+      "confidence": 96.071579,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Number",
+      "x0": 75.88799999999999,
+      "top": 4.032,
+      "x1": 109.15199999999999,
+      "bottom": 10.367999999999999,
+      "confidence": 91.582619,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 112.32,
+      "top": 5.76,
+      "x1": 113.75999999999999,
+      "bottom": 10.367999999999999,
+      "confidence": 91.582619,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "41",
+      "x0": 117.35999999999999,
+      "top": 3.888,
+      "x1": 125.71199999999999,
+      "bottom": 10.224,
+      "confidence": 96.052277,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Question",
+      "x0": 131.61599999999999,
+      "top": 3.888,
+      "x1": 166.896,
+      "bottom": 11.952,
+      "confidence": 96.052277,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Id",
+      "x0": 169.92,
+      "top": 4.032,
+      "x1": 178.272,
+      "bottom": 10.367999999999999,
+      "confidence": 91.676888,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 181.58399999999997,
+      "top": 5.76,
+      "x1": 183.02399999999997,
+      "bottom": 10.367999999999999,
+      "confidence": 90.408539,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "461139411",
+      "x0": 186.624,
+      "top": 3.888,
+      "x1": 227.952,
+      "bottom": 10.367999999999999,
+      "confidence": 95.766167,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Question",
+      "x0": 233.712,
+      "top": 3.888,
+      "x1": 269.13599999999997,
+      "bottom": 11.952,
+      "confidence": 96.59034,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Type:",
+      "x0": 272.15999999999997,
+      "top": 4.032,
+      "x1": 296.784,
+      "bottom": 12.24,
+      "confidence": 82.436424,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "MCQ",
+      "x0": 300.23999999999995,
+      "top": 3.888,
+      "x1": 322.55999999999995,
+      "bottom": 11.952,
+      "confidence": 90.35762,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Option",
+      "x0": 328.032,
+      "top": 3.888,
+      "x1": 355.536,
+      "bottom": 12.239999999999998,
+      "confidence": 92.982689,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Shuffling",
+      "x0": 358.84799999999996,
+      "top": 3.888,
+      "x1": 395.13599999999997,
+      "bottom": 12.239999999999998,
+      "confidence": 90.619354,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 398.592,
+      "top": 5.76,
+      "x1": 400.032,
+      "bottom": 10.367999999999999,
+      "confidence": 91.690529,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Yes",
+      "x0": 403.344,
+      "top": 4.032,
+      "x1": 417.456,
+      "bottom": 10.367999999999999,
+      "confidence": 95.779114,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Display",
+      "x0": 422.784,
+      "top": 3.888,
+      "x1": 452.592,
+      "bottom": 12.239999999999998,
+      "confidence": 96.434845,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Question",
+      "x0": 455.616,
+      "top": 3.888,
+      "x1": 490.89599999999996,
+      "bottom": 11.952,
+      "confidence": 96.171104,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Number",
+      "x0": 493.77599999999995,
+      "top": 4.032,
+      "x1": 526.896,
+      "bottom": 10.367999999999999,
+      "confidence": 92.816216,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 530.208,
+      "top": 5.76,
+      "x1": 531.648,
+      "bottom": 10.367999999999999,
+      "confidence": 92.816216,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Yes",
+      "x0": 535.1039999999999,
+      "top": 4.032,
+      "x1": 549.0719999999999,
+      "bottom": 10.367999999999999,
+      "confidence": 96.397614,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Single",
+      "x0": 37.872,
+      "top": 13.248,
+      "x1": 61.632,
+      "bottom": 21.599999999999998,
+      "confidence": 96.381859,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Line",
+      "x0": 64.368,
+      "top": 13.248,
+      "x1": 82.368,
+      "bottom": 19.727999999999998,
+      "confidence": 95.210312,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Question",
+      "x0": 85.392,
+      "top": 13.248,
+      "x1": 120.672,
+      "bottom": 21.311999999999998,
+      "confidence": 95.210312,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Option",
+      "x0": 123.83999999999999,
+      "top": 13.248,
+      "x1": 151.2,
+      "bottom": 21.599999999999998,
+      "confidence": 92.860863,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": ":",
+      "x0": 155.37599999999998,
+      "top": 15.12,
+      "x1": 156.09599999999998,
+      "bottom": 19.727999999999998,
+      "confidence": 92.835464,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "No",
+      "x0": 159.552,
+      "top": 13.392,
+      "x1": 170.64,
+      "bottom": 19.727999999999998,
+      "confidence": 96.436874,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Option",
+      "x0": 176.112,
+      "top": 13.248,
+      "x1": 203.61599999999999,
+      "bottom": 21.599999999999998,
+      "confidence": 96.436874,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Orientation",
+      "x0": 206.64,
+      "top": 13.248,
+      "x1": 252.86399999999998,
+      "bottom": 19.727999999999998,
+      "confidence": 93.033646,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": ":",
+      "x0": 256.32,
+      "top": 15.12,
+      "x1": 257.76,
+      "bottom": 19.727999999999998,
+      "confidence": 92.625671,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Vertical",
+      "x0": 261.216,
+      "top": 13.248,
+      "x1": 293.328,
+      "bottom": 19.727999999999998,
+      "confidence": 96.351891,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Correct",
+      "x0": 37.872,
+      "top": 26.496,
+      "x1": 68.544,
+      "bottom": 32.976,
+      "confidence": 86.788033,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 71.856,
+      "top": 28.368,
+      "x1": 73.29599999999999,
+      "bottom": 32.976,
+      "confidence": 86.765259,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1",
+      "x0": 79.344,
+      "top": 26.496,
+      "x1": 80.496,
+      "bottom": 32.832,
+      "confidence": 90.758171,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Wrong",
+      "x0": 86.112,
+      "top": 26.639999999999997,
+      "x1": 113.904,
+      "bottom": 34.559999999999995,
+      "confidence": 88.955978,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 117.35999999999999,
+      "top": 28.368,
+      "x1": 118.79999999999998,
+      "bottom": 32.976,
+      "confidence": 83.82795,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "0.25",
+      "x0": 122.39999999999999,
+      "top": 26.496,
+      "x1": 138.096,
+      "bottom": 32.976,
+      "confidence": 96.688995,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Under",
+      "x0": 37.583999999999996,
+      "top": 39.744,
+      "x1": 66.38399999999999,
+      "bottom": 46.944,
+      "confidence": 95.81916,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "which",
+      "x0": 69.984,
+      "top": 39.744,
+      "x1": 97.91999999999999,
+      "bottom": 46.944,
+      "confidence": 96.128464,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "article",
+      "x0": 101.52,
+      "top": 39.744,
+      "x1": 130.32,
+      "bottom": 46.944,
+      "confidence": 96.128464,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 133.92,
+      "top": 39.744,
+      "x1": 148.32,
+      "bottom": 46.944,
+      "confidence": 96.201317,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "President",
+      "x0": 151.77599999999998,
+      "top": 39.744,
+      "x1": 195.69599999999997,
+      "bottom": 46.944,
+      "confidence": 96.082588,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "can",
+      "x0": 199.296,
+      "top": 41.184,
+      "x1": 215.856,
+      "bottom": 46.943999999999996,
+      "confidence": 95.640816,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "promulgate",
+      "x0": 219.456,
+      "top": 39.744,
+      "x1": 274.032,
+      "bottom": 49.248,
+      "confidence": 85.953033,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "ordinances",
+      "x0": 277.632,
+      "top": 39.744,
+      "x1": 330.048,
+      "bottom": 46.944,
+      "confidence": 95.768097,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "during",
+      "x0": 333.64799999999997,
+      "top": 39.744,
+      "x1": 365.328,
+      "bottom": 49.248,
+      "confidence": 96.242279,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 368.928,
+      "top": 39.744,
+      "x1": 383.328,
+      "bottom": 46.944,
+      "confidence": 95.547287,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "recess",
+      "x0": 386.784,
+      "top": 41.184,
+      "x1": 415.584,
+      "bottom": 46.943999999999996,
+      "confidence": 96.531738,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 419.18399999999997,
+      "top": 39.023999999999994,
+      "x1": 429.26399999999995,
+      "bottom": 46.943999999999996,
+      "confidence": 96.760719,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Parliament?",
+      "x0": 432.14399999999995,
+      "top": 39.744,
+      "x1": 488.15999999999997,
+      "bottom": 46.944,
+      "confidence": 91.688942,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Options",
+      "x0": 37.872,
+      "top": 56.16,
+      "x1": 68.832,
+      "bottom": 64.368,
+      "confidence": 93.211594,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": ":",
+      "x0": 72.43199999999999,
+      "top": 58.032,
+      "x1": 73.87199999999999,
+      "bottom": 62.63999999999999,
+      "confidence": 93.201317,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 39.023999999999994,
+      "top": 70.848,
+      "x1": 45.50399999999999,
+      "bottom": 78.048,
+      "confidence": 89.171143,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "®",
+      "x0": 51.983999999999995,
+      "top": 68.68799999999999,
+      "x1": 58.46399999999999,
+      "bottom": 75.16799999999999,
+      "confidence": 22.038918,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Article",
+      "x0": 64.22399999999999,
+      "top": 70.848,
+      "x1": 94.32,
+      "bottom": 78.048,
+      "confidence": 92.820717,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "121",
+      "x0": 99.36,
+      "top": 70.848,
+      "x1": 115.92,
+      "bottom": 78.048,
+      "confidence": 95.69558,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2",
+      "x0": 38.303999999999995,
+      "top": 88.848,
+      "x1": 45.50399999999999,
+      "bottom": 96.048,
+      "confidence": 70.8853,
+      "ocr_block": "2",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "*",
+      "x0": 51.983999999999995,
+      "top": 86.68799999999999,
+      "x1": 58.46399999999999,
+      "bottom": 93.16799999999999,
+      "confidence": 34.774635,
+      "ocr_block": "2",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Article",
+      "x0": 64.22399999999999,
+      "top": 88.848,
+      "x1": 94.32,
+      "bottom": 96.048,
+      "confidence": 85.376556,
+      "ocr_block": "2",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "122",
+      "x0": 99.36,
+      "top": 88.848,
+      "x1": 116.64,
+      "bottom": 96.048,
+      "confidence": 96.376343,
+      "ocr_block": "2",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "3.7",
+      "x0": 38.303999999999995,
+      "top": 104.544,
+      "x1": 60.623999999999995,
+      "bottom": 114.048,
+      "confidence": 52.554337,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Article",
+      "x0": 64.22399999999999,
+      "top": 106.704,
+      "x1": 94.32,
+      "bottom": 114.04799999999999,
+      "confidence": 85.968735,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "123",
+      "x0": 99.36,
+      "top": 106.704,
+      "x1": 116.64,
+      "bottom": 114.04799999999999,
+      "confidence": 86.813934,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

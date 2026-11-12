@@ -1,0 +1,953 @@
+{
+  "pdf_page": 380,
+  "crop_top": 516.1613600000001,
+  "crop_bottom": 617.28136,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0380:l0032:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.47 Which of the following statement is correct?",
+      "bbox": [
+        41.903999999999996,
+        4.4639999999999995,
+        200.44799999999998,
+        10.943999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "\"4",
+      "bbox": [
+        73.728,
+        14.687999999999999,
+        87.696,
+        29.232
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "Ans",
+      "bbox": [
+        43.343999999999994,
+        17.855999999999998,
+        54.57599999999999,
+        22.607999999999997
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "1. Some provisions of the Constitution came into force on 26.11.1949 and the remaining provisions came into force on 26.01.1950.",
+      "bbox": [
+        88.55999999999999,
+        26.063999999999997,
+        486.0,
+        32.544
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "rad",
+      "bbox": [
+        72.43199999999999,
+        36.864,
+        87.11999999999999,
+        54.431999999999995
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "2. All the provisions of the Constitution came into force on 15.08.1947.",
+      "bbox": [
+        88.27199999999999,
+        47.376,
+        303.12,
+        53.855999999999995
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "rd",
+      "bbox": [
+        72.43199999999999,
+        58.175999999999995,
+        86.54399999999998,
+        75.88799999999999
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "3. Some provisions of the Constitution came into force on 15.08.1947 and the remaining provisions came into force on 26.11.1949.",
+      "bbox": [
+        88.27199999999999,
+        68.832,
+        486.0,
+        75.16799999999999
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "x,",
+      "bbox": [
+        73.008,
+        80.064,
+        93.024,
+        95.32799999999999
+      ]
+    },
+    {
+      "line_id": "l0009",
+      "text": "All the provisions of the Constitution came into force on 26.01.1950.",
+      "bbox": [
+        95.472,
+        90.14399999999999,
+        303.264,
+        96.62399999999998
+      ]
+    }
+  ],
+  "text": "Q.47 Which of the following statement is correct?\n\"4\nAns\n1. Some provisions of the Constitution came into force on 26.11.1949 and the remaining provisions came into force on 26.01.1950.\nrad\n2. All the provisions of the Constitution came into force on 15.08.1947.\nrd\n3. Some provisions of the Constitution came into force on 15.08.1947 and the remaining provisions came into force on 26.11.1949.\nx,\nAll the provisions of the Constitution came into force on 26.01.1950.",
+  "ocr_words": [
+    {
+      "text": "Q.47",
+      "x0": 41.903999999999996,
+      "top": 4.752,
+      "x1": 56.01599999999999,
+      "bottom": 10.367999999999999,
+      "confidence": 90.151817,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Which",
+      "x0": 62.495999999999995,
+      "top": 4.4639999999999995,
+      "x1": 81.792,
+      "bottom": 9.648,
+      "confidence": 95.477173,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 84.24,
+      "top": 4.4639999999999995,
+      "x1": 90.43199999999999,
+      "bottom": 9.648,
+      "confidence": 95.477173,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 92.01599999999999,
+      "top": 4.4639999999999995,
+      "x1": 102.09599999999999,
+      "bottom": 9.648,
+      "confidence": 96.589752,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 104.25599999999999,
+      "top": 4.4639999999999995,
+      "x1": 133.05599999999998,
+      "bottom": 10.943999999999999,
+      "confidence": 96.410713,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "statement",
+      "x0": 135.21599999999998,
+      "top": 5.183999999999999,
+      "x1": 166.896,
+      "bottom": 9.648,
+      "confidence": 96.262756,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 169.2,
+      "top": 4.608,
+      "x1": 173.37599999999998,
+      "bottom": 9.648,
+      "confidence": 96.596939,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "correct?",
+      "x0": 175.53599999999997,
+      "top": 4.608,
+      "x1": 200.44799999999998,
+      "bottom": 9.648,
+      "confidence": 96.682579,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.343999999999994,
+      "top": 17.855999999999998,
+      "x1": 54.57599999999999,
+      "bottom": 22.607999999999997,
+      "confidence": 96.341385,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "\"4",
+      "x0": 73.728,
+      "top": 14.687999999999999,
+      "x1": 87.696,
+      "bottom": 29.232,
+      "confidence": 30.35656,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1.",
+      "x0": 88.55999999999999,
+      "top": 26.496,
+      "x1": 93.02399999999999,
+      "bottom": 31.247999999999998,
+      "confidence": 96.655197,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Some",
+      "x0": 95.616,
+      "top": 26.351999999999997,
+      "x1": 112.032,
+      "bottom": 31.247999999999998,
+      "confidence": 94.956039,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "provisions",
+      "x0": 114.624,
+      "top": 26.351999999999997,
+      "x1": 144.864,
+      "bottom": 32.544,
+      "confidence": 94.956039,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 147.16799999999998,
+      "top": 26.063999999999997,
+      "x1": 153.21599999999998,
+      "bottom": 31.247999999999998,
+      "confidence": 96.457489,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 154.944,
+      "top": 26.063999999999997,
+      "x1": 164.59199999999998,
+      "bottom": 31.247999999999998,
+      "confidence": 96.63356,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Constitution",
+      "x0": 167.04,
+      "top": 26.351999999999997,
+      "x1": 203.76,
+      "bottom": 31.247999999999998,
+      "confidence": 95.666763,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "came",
+      "x0": 206.35199999999998,
+      "top": 27.647999999999996,
+      "x1": 222.19199999999998,
+      "bottom": 31.247999999999998,
+      "confidence": 95.666763,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "into",
+      "x0": 224.784,
+      "top": 26.351999999999997,
+      "x1": 236.016,
+      "bottom": 31.247999999999998,
+      "confidence": 96.132919,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "force",
+      "x0": 238.176,
+      "top": 26.063999999999997,
+      "x1": 253.44,
+      "bottom": 31.247999999999998,
+      "confidence": 96.693398,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "on",
+      "x0": 255.88799999999998,
+      "top": 27.647999999999996,
+      "x1": 262.94399999999996,
+      "bottom": 31.247999999999998,
+      "confidence": 96.918068,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "26.11.1949",
+      "x0": 265.536,
+      "top": 26.351999999999997,
+      "x1": 298.944,
+      "bottom": 31.247999999999998,
+      "confidence": 96.883728,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "and",
+      "x0": 301.392,
+      "top": 26.063999999999997,
+      "x1": 311.904,
+      "bottom": 31.247999999999998,
+      "confidence": 96.397881,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 314.352,
+      "top": 26.063999999999997,
+      "x1": 324.0,
+      "bottom": 31.247999999999998,
+      "confidence": 96.494629,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "remaining",
+      "x0": 326.592,
+      "top": 26.351999999999997,
+      "x1": 356.688,
+      "bottom": 32.544,
+      "confidence": 95.7285,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "provisions",
+      "x0": 359.13599999999997,
+      "top": 26.351999999999997,
+      "x1": 389.376,
+      "bottom": 32.544,
+      "confidence": 96.270325,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "came",
+      "x0": 391.67999999999995,
+      "top": 27.647999999999996,
+      "x1": 407.5199999999999,
+      "bottom": 31.247999999999998,
+      "confidence": 94.263832,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "into",
+      "x0": 409.96799999999996,
+      "top": 26.351999999999997,
+      "x1": 421.34399999999994,
+      "bottom": 31.247999999999998,
+      "confidence": 94.263832,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "force",
+      "x0": 423.50399999999996,
+      "top": 26.063999999999997,
+      "x1": 438.768,
+      "bottom": 31.247999999999998,
+      "confidence": 96.541481,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "on",
+      "x0": 441.21599999999995,
+      "top": 27.647999999999996,
+      "x1": 448.12799999999993,
+      "bottom": 31.247999999999998,
+      "confidence": 94.849937,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "26.01.1950.",
+      "x0": 450.864,
+      "top": 26.351999999999997,
+      "x1": 486.0,
+      "bottom": 31.247999999999998,
+      "confidence": 96.661667,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "rad",
+      "x0": 72.43199999999999,
+      "top": 36.864,
+      "x1": 87.11999999999999,
+      "bottom": 54.431999999999995,
+      "confidence": 56.093941,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "2.",
+      "x0": 88.27199999999999,
+      "top": 47.808,
+      "x1": 93.02399999999999,
+      "bottom": 52.56,
+      "confidence": 96.53968,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "All",
+      "x0": 95.472,
+      "top": 47.519999999999996,
+      "x1": 102.52799999999999,
+      "bottom": 52.559999999999995,
+      "confidence": 94.463409,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "the",
+      "x0": 104.832,
+      "top": 47.519999999999996,
+      "x1": 114.624,
+      "bottom": 52.559999999999995,
+      "confidence": 94.463409,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "provisions",
+      "x0": 117.216,
+      "top": 47.663999999999994,
+      "x1": 147.456,
+      "bottom": 53.855999999999995,
+      "confidence": 96.566406,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 149.76,
+      "top": 47.376,
+      "x1": 155.808,
+      "bottom": 52.559999999999995,
+      "confidence": 96.105347,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "the",
+      "x0": 157.536,
+      "top": 47.519999999999996,
+      "x1": 167.184,
+      "bottom": 52.559999999999995,
+      "confidence": 96.617386,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Constitution",
+      "x0": 169.63199999999998,
+      "top": 47.663999999999994,
+      "x1": 206.35199999999998,
+      "bottom": 52.559999999999995,
+      "confidence": 95.786629,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "came",
+      "x0": 208.944,
+      "top": 48.959999999999994,
+      "x1": 224.784,
+      "bottom": 52.559999999999995,
+      "confidence": 96.17321,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "into",
+      "x0": 227.23199999999997,
+      "top": 47.663999999999994,
+      "x1": 238.60799999999998,
+      "bottom": 52.559999999999995,
+      "confidence": 95.795921,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "force",
+      "x0": 240.76799999999997,
+      "top": 47.376,
+      "x1": 256.032,
+      "bottom": 52.559999999999995,
+      "confidence": 95.795921,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "on",
+      "x0": 258.33599999999996,
+      "top": 48.959999999999994,
+      "x1": 265.39199999999994,
+      "bottom": 52.559999999999995,
+      "confidence": 96.175171,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "15.08.1947.",
+      "x0": 268.272,
+      "top": 47.808,
+      "x1": 303.12,
+      "bottom": 52.56,
+      "confidence": 94.664375,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "rd",
+      "x0": 72.43199999999999,
+      "top": 58.175999999999995,
+      "x1": 86.54399999999998,
+      "bottom": 75.88799999999999,
+      "confidence": 64.763062,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "3.",
+      "x0": 88.27199999999999,
+      "top": 69.11999999999999,
+      "x1": 93.02399999999999,
+      "bottom": 74.01599999999999,
+      "confidence": 96.576836,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Some",
+      "x0": 95.616,
+      "top": 69.11999999999999,
+      "x1": 112.032,
+      "bottom": 74.01599999999999,
+      "confidence": 96.333923,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "provisions",
+      "x0": 114.624,
+      "top": 69.11999999999999,
+      "x1": 144.864,
+      "bottom": 75.16799999999999,
+      "confidence": 96.287437,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "of",
+      "x0": 147.16799999999998,
+      "top": 68.832,
+      "x1": 153.21599999999998,
+      "bottom": 74.01599999999999,
+      "confidence": 96.287437,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "the",
+      "x0": 154.944,
+      "top": 68.832,
+      "x1": 164.59199999999998,
+      "bottom": 74.01599999999999,
+      "confidence": 96.844032,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Constitution",
+      "x0": 167.04,
+      "top": 69.11999999999999,
+      "x1": 203.76,
+      "bottom": 74.01599999999999,
+      "confidence": 95.676926,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "came",
+      "x0": 206.35199999999998,
+      "top": 70.416,
+      "x1": 222.19199999999998,
+      "bottom": 74.01599999999999,
+      "confidence": 96.972572,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "into",
+      "x0": 224.784,
+      "top": 69.11999999999999,
+      "x1": 236.016,
+      "bottom": 74.01599999999999,
+      "confidence": 96.248863,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "force",
+      "x0": 238.176,
+      "top": 68.832,
+      "x1": 253.44,
+      "bottom": 74.01599999999999,
+      "confidence": 96.275452,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "on",
+      "x0": 255.88799999999998,
+      "top": 70.416,
+      "x1": 262.94399999999996,
+      "bottom": 74.01599999999999,
+      "confidence": 96.188339,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "15.08.1947",
+      "x0": 265.82399999999996,
+      "top": 69.11999999999999,
+      "x1": 298.94399999999996,
+      "bottom": 74.01599999999999,
+      "confidence": 95.845581,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "and",
+      "x0": 301.392,
+      "top": 68.832,
+      "x1": 311.904,
+      "bottom": 74.01599999999999,
+      "confidence": 96.721153,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "the",
+      "x0": 314.352,
+      "top": 68.832,
+      "x1": 324.0,
+      "bottom": 74.01599999999999,
+      "confidence": 96.76339,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "remaining",
+      "x0": 326.592,
+      "top": 69.11999999999999,
+      "x1": 356.688,
+      "bottom": 75.16799999999999,
+      "confidence": 95.972305,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "provisions",
+      "x0": 359.13599999999997,
+      "top": 69.11999999999999,
+      "x1": 389.376,
+      "bottom": 75.16799999999999,
+      "confidence": 96.202522,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "came",
+      "x0": 391.67999999999995,
+      "top": 70.416,
+      "x1": 407.5199999999999,
+      "bottom": 74.01599999999999,
+      "confidence": 96.415825,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "into",
+      "x0": 409.96799999999996,
+      "top": 69.11999999999999,
+      "x1": 421.34399999999994,
+      "bottom": 74.01599999999999,
+      "confidence": 96.247055,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "force",
+      "x0": 423.50399999999996,
+      "top": 68.832,
+      "x1": 438.768,
+      "bottom": 74.01599999999999,
+      "confidence": 96.531754,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "on",
+      "x0": 441.21599999999995,
+      "top": 70.416,
+      "x1": 448.12799999999993,
+      "bottom": 74.01599999999999,
+      "confidence": 95.805916,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "26.11.1949.",
+      "x0": 450.864,
+      "top": 69.11999999999999,
+      "x1": 486.0,
+      "bottom": 74.01599999999999,
+      "confidence": 95.805916,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "x,",
+      "x0": 73.008,
+      "top": 80.064,
+      "x1": 93.024,
+      "bottom": 95.32799999999999,
+      "confidence": 50.462997,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "All",
+      "x0": 95.472,
+      "top": 90.14399999999999,
+      "x1": 102.52799999999999,
+      "bottom": 95.32799999999999,
+      "confidence": 95.597061,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 104.832,
+      "top": 90.14399999999999,
+      "x1": 114.624,
+      "bottom": 95.32799999999999,
+      "confidence": 96.817253,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "provisions",
+      "x0": 117.216,
+      "top": 90.43199999999999,
+      "x1": 147.456,
+      "bottom": 96.62399999999998,
+      "confidence": 96.152779,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 149.76,
+      "top": 90.14399999999999,
+      "x1": 155.808,
+      "bottom": 95.32799999999999,
+      "confidence": 95.750443,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 157.536,
+      "top": 90.14399999999999,
+      "x1": 167.184,
+      "bottom": 95.32799999999999,
+      "confidence": 96.857094,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Constitution",
+      "x0": 169.63199999999998,
+      "top": 90.43199999999999,
+      "x1": 206.35199999999998,
+      "bottom": 95.32799999999999,
+      "confidence": 95.990112,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "came",
+      "x0": 208.944,
+      "top": 91.728,
+      "x1": 224.784,
+      "bottom": 95.32799999999999,
+      "confidence": 95.993973,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "into",
+      "x0": 227.23199999999997,
+      "top": 90.43199999999999,
+      "x1": 238.60799999999998,
+      "bottom": 95.32799999999999,
+      "confidence": 95.993973,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "force",
+      "x0": 240.76799999999997,
+      "top": 90.14399999999999,
+      "x1": 256.032,
+      "bottom": 95.32799999999999,
+      "confidence": 96.436882,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "on",
+      "x0": 258.33599999999996,
+      "top": 91.728,
+      "x1": 265.39199999999994,
+      "bottom": 95.32799999999999,
+      "confidence": 95.258453,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "26.01.1950.",
+      "x0": 268.128,
+      "top": 90.43199999999999,
+      "x1": 303.264,
+      "bottom": 95.32799999999999,
+      "confidence": 96.637726,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

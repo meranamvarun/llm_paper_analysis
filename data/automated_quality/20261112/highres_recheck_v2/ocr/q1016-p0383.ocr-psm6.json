@@ -1,0 +1,340 @@
+{
+  "pdf_page": 383,
+  "crop_top": 708.1613600000001,
+  "crop_bottom": 787.68137,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0383:l0044:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.15 According to Historical School, the most important source of law is:",
+      "bbox": [
+        41.94,
+        4.5,
+        271.26,
+        10.98
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Ans a",
+      "bbox": [
+        43.379999999999995,
+        15.84,
+        86.75999999999999,
+        28.439999999999998
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "1. Judicial Precedent",
+      "bbox": [
+        88.56,
+        25.919999999999998,
+        150.11999999999998,
+        31.139999999999997
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "x",
+      "bbox": [
+        73.08,
+        37.26,
+        86.75999999999999,
+        49.86
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "2. Legislation",
+      "bbox": [
+        88.38,
+        47.16,
+        127.25999999999999,
+        53.63999999999999
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "s",
+      "bbox": [
+        76.86,
+        63.18,
+        80.64,
+        71.28
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "3. Custom",
+      "bbox": [
+        88.2,
+        68.75999999999999,
+        118.08,
+        73.8
+      ]
+    }
+  ],
+  "text": "Q.15 According to Historical School, the most important source of law is:\nAns a\n1. Judicial Precedent\nx\n2. Legislation\ns\n3. Custom",
+  "ocr_words": [
+    {
+      "text": "Q.15",
+      "x0": 41.94,
+      "top": 4.68,
+      "x1": 55.98,
+      "bottom": 10.44,
+      "confidence": 91.994759,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "According",
+      "x0": 62.46,
+      "top": 4.5,
+      "x1": 93.24,
+      "bottom": 10.98,
+      "confidence": 95.237572,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 95.03999999999999,
+      "top": 5.04,
+      "x1": 101.33999999999999,
+      "bottom": 9.719999999999999,
+      "confidence": 95.904747,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Historical",
+      "x0": 103.86,
+      "top": 4.5,
+      "x1": 132.3,
+      "bottom": 9.719999999999999,
+      "confidence": 96.383087,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "School,",
+      "x0": 134.64,
+      "top": 4.5,
+      "x1": 156.6,
+      "bottom": 10.620000000000001,
+      "confidence": 96.383087,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 158.76,
+      "top": 4.5,
+      "x1": 168.84,
+      "bottom": 9.719999999999999,
+      "confidence": 96.511856,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "most",
+      "x0": 171.18,
+      "top": 5.04,
+      "x1": 186.3,
+      "bottom": 9.719999999999999,
+      "confidence": 95.753944,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "important",
+      "x0": 188.64,
+      "top": 4.68,
+      "x1": 219.6,
+      "bottom": 10.98,
+      "confidence": 95.753944,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "source",
+      "x0": 221.76,
+      "top": 5.9399999999999995,
+      "x1": 241.92,
+      "bottom": 9.719999999999999,
+      "confidence": 96.928947,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 244.07999999999998,
+      "top": 4.5,
+      "x1": 250.2,
+      "bottom": 9.719999999999999,
+      "confidence": 96.921043,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "law",
+      "x0": 252.35999999999999,
+      "top": 4.5,
+      "x1": 262.8,
+      "bottom": 9.719999999999999,
+      "confidence": 96.536026,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is:",
+      "x0": 265.14,
+      "top": 4.68,
+      "x1": 271.26,
+      "bottom": 9.719999999999999,
+      "confidence": 96.583206,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.379999999999995,
+      "top": 17.64,
+      "x1": 54.53999999999999,
+      "bottom": 22.5,
+      "confidence": 96.596039,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "a",
+      "x0": 73.08,
+      "top": 15.84,
+      "x1": 86.75999999999999,
+      "bottom": 28.439999999999998,
+      "confidence": 54.025227,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 88.56,
+      "top": 26.279999999999998,
+      "x1": 93.06,
+      "bottom": 30.959999999999997,
+      "confidence": 96.325401,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Judicial",
+      "x0": 95.22,
+      "top": 25.919999999999998,
+      "x1": 117.0,
+      "bottom": 31.139999999999997,
+      "confidence": 96.745415,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Precedent",
+      "x0": 119.69999999999999,
+      "top": 25.919999999999998,
+      "x1": 150.11999999999998,
+      "bottom": 31.139999999999997,
+      "confidence": 96.222,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "x",
+      "x0": 73.08,
+      "top": 37.26,
+      "x1": 86.75999999999999,
+      "bottom": 49.86,
+      "confidence": 81.492729,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "2.",
+      "x0": 88.38,
+      "top": 47.339999999999996,
+      "x1": 93.06,
+      "bottom": 52.199999999999996,
+      "confidence": 96.783829,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Legislation",
+      "x0": 95.94,
+      "top": 47.16,
+      "x1": 127.25999999999999,
+      "bottom": 53.63999999999999,
+      "confidence": 96.728966,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "s",
+      "x0": 76.86,
+      "top": 63.18,
+      "x1": 80.64,
+      "bottom": 71.28,
+      "confidence": 0.0,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "3.",
+      "x0": 88.2,
+      "top": 68.75999999999999,
+      "x1": 93.06,
+      "bottom": 73.8,
+      "confidence": 96.083328,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Custom",
+      "x0": 95.58,
+      "top": 68.75999999999999,
+      "x1": 118.08,
+      "bottom": 73.8,
+      "confidence": 96.672432,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0395:l0049:question",
+  "year_label": 2016,
+  "number": "31",
+  "pdf_page": 395,
+  "crop_top": 781.12137,
+  "crop_bottom": 842.0,
+  "start_anchor": {
+    "pdf_page": 395,
+    "line_id": "l0049",
+    "bbox": [
+      41.64453,
+      785.12137,
+      415.51866799999914,
+      792.56137
+    ]
+  },
+  "following_anchor": {
+    "pdf_page": 396,
+    "line_id": "l0008",
+    "bbox": [
+      41.64453,
+      164.24136,
+      365.04124400000006,
+      171.68135999999993
+    ]
+  },
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.31 When, U.N. Human Rights Council, which is successor to the U.N. Commission on Human Rights, was established?",
+      "bbox": [
+        41.903999999999996,
+        4.608,
+        415.29599999999994,
+        10.943999999999999
+      ]
+    }
+  ],
+  "text": "Q.31 When, U.N. Human Rights Council, which is successor to the U.N. Commission on Human Rights, was established?",
+  "ocr_words": [
+    {
+      "text": "Q.31",
+      "x0": 41.903999999999996,
+      "top": 4.752,
+      "x1": 56.01599999999999,
+      "bottom": 10.512,
+      "confidence": 91.213005,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "When,",
+      "x0": 62.495999999999995,
+      "top": 4.608,
+      "x1": 82.512,
+      "bottom": 10.655999999999999,
+      "confidence": 96.774223,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "U.N.",
+      "x0": 85.104,
+      "top": 4.896,
+      "x1": 98.064,
+      "bottom": 9.648,
+      "confidence": 95.286011,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Human",
+      "x0": 100.65599999999999,
+      "top": 4.896,
+      "x1": 122.25599999999999,
+      "bottom": 9.648,
+      "confidence": 95.286011,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Rights",
+      "x0": 124.99199999999999,
+      "top": 4.608,
+      "x1": 143.42399999999998,
+      "bottom": 10.943999999999999,
+      "confidence": 96.501312,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Council,",
+      "x0": 145.584,
+      "top": 4.608,
+      "x1": 169.776,
+      "bottom": 10.655999999999999,
+      "confidence": 96.129173,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "which",
+      "x0": 171.93599999999998,
+      "top": 4.608,
+      "x1": 189.93599999999998,
+      "bottom": 9.648,
+      "confidence": 96.32859,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 192.528,
+      "top": 4.608,
+      "x1": 196.70399999999998,
+      "bottom": 9.648,
+      "confidence": 95.810127,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "successor",
+      "x0": 199.00799999999998,
+      "top": 6.047999999999999,
+      "x1": 228.23999999999998,
+      "bottom": 9.648,
+      "confidence": 95.62999,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 230.25599999999997,
+      "top": 5.183999999999999,
+      "x1": 236.44799999999998,
+      "bottom": 9.648,
+      "confidence": 96.222633,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 238.46399999999997,
+      "top": 4.608,
+      "x1": 248.54399999999998,
+      "bottom": 9.648,
+      "confidence": 96.759048,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "U.N.",
+      "x0": 250.992,
+      "top": 4.896,
+      "x1": 263.952,
+      "bottom": 9.648,
+      "confidence": 96.190025,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Commission",
+      "x0": 266.4,
+      "top": 4.608,
+      "x1": 303.55199999999996,
+      "bottom": 9.648,
+      "confidence": 96.183723,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "on",
+      "x0": 305.856,
+      "top": 6.047999999999999,
+      "x1": 313.2,
+      "bottom": 9.648,
+      "confidence": 96.159615,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Human",
+      "x0": 315.936,
+      "top": 4.896,
+      "x1": 337.536,
+      "bottom": 9.648,
+      "confidence": 94.917648,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Rights,",
+      "x0": 340.128,
+      "top": 4.608,
+      "x1": 360.43199999999996,
+      "bottom": 10.943999999999999,
+      "confidence": 94.917648,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "was",
+      "x0": 362.592,
+      "top": 6.047999999999999,
+      "x1": 374.544,
+      "bottom": 9.648,
+      "confidence": 96.487076,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "established?",
+      "x0": 376.70399999999995,
+      "top": 4.608,
+      "x1": 415.29599999999994,
+      "bottom": 9.648,
+      "confidence": 96.109703,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

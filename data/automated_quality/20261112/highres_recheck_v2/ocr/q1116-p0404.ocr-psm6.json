@@ -1,0 +1,439 @@
+{
+  "pdf_page": 404,
+  "crop_top": 10.399999999999999,
+  "crop_bottom": 124.0,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0403:l0047:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Correct : 1 Wrong : 0.25",
+      "bbox": [
+        37.8,
+        3.96,
+        138.06,
+        12.239999999999998
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Which of the following writ means “what is your authority’?",
+      "bbox": [
+        37.62,
+        16.56,
+        322.2,
+        26.82
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "Options :",
+      "bbox": [
+        37.8,
+        33.839999999999996,
+        73.8,
+        41.94
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "1. ® Mandamus",
+      "bbox": [
+        39.059999999999995,
+        46.26,
+        117.35999999999999,
+        55.620000000000005
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "2. ® Habeas Corpus",
+      "bbox": [
+        38.339999999999996,
+        64.25999999999999,
+        137.51999999999998,
+        75.96000000000001
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "3. 7 Guo Warranta",
+      "bbox": [
+        38.339999999999996,
+        82.25999999999999,
+        131.76,
+        93.24000000000001
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "4. ® Prohibition",
+      "bbox": [
+        38.339999999999996,
+        100.25999999999999,
+        116.63999999999999,
+        109.62
+      ]
+    }
+  ],
+  "text": "Correct : 1 Wrong : 0.25\nWhich of the following writ means “what is your authority’?\nOptions :\n1. ® Mandamus\n2. ® Habeas Corpus\n3. 7 Guo Warranta\n4. ® Prohibition",
+  "ocr_words": [
+    {
+      "text": "Correct",
+      "x0": 37.8,
+      "top": 3.96,
+      "x1": 68.58,
+      "bottom": 10.44,
+      "confidence": 88.526604,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 72.0,
+      "top": 5.9399999999999995,
+      "x1": 73.26,
+      "bottom": 10.44,
+      "confidence": 85.854782,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1",
+      "x0": 79.02,
+      "top": 3.96,
+      "x1": 80.46,
+      "bottom": 10.26,
+      "confidence": 92.943565,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Wrong",
+      "x0": 86.03999999999999,
+      "top": 4.14,
+      "x1": 113.94,
+      "bottom": 12.239999999999998,
+      "confidence": 87.799858,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 117.53999999999999,
+      "top": 5.9399999999999995,
+      "x1": 118.8,
+      "bottom": 10.44,
+      "confidence": 87.799858,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "0.25",
+      "x0": 122.39999999999999,
+      "top": 3.96,
+      "x1": 138.06,
+      "bottom": 10.44,
+      "confidence": 95.276009,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Which",
+      "x0": 37.62,
+      "top": 17.28,
+      "x1": 67.14,
+      "bottom": 24.66,
+      "confidence": 95.361916,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 70.74,
+      "top": 16.56,
+      "x1": 80.64,
+      "bottom": 24.659999999999997,
+      "confidence": 96.612213,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 83.52,
+      "top": 17.28,
+      "x1": 97.91999999999999,
+      "bottom": 24.66,
+      "confidence": 95.447105,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 102.24,
+      "top": 16.56,
+      "x1": 145.44,
+      "bottom": 26.82,
+      "confidence": 95.819695,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "writ",
+      "x0": 149.04,
+      "top": 17.28,
+      "x1": 167.04,
+      "bottom": 24.66,
+      "confidence": 96.03495,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "means",
+      "x0": 170.45999999999998,
+      "top": 18.72,
+      "x1": 201.42,
+      "bottom": 24.659999999999997,
+      "confidence": 94.145416,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "“what",
+      "x0": 205.73999999999998,
+      "top": 17.28,
+      "x1": 230.93999999999997,
+      "bottom": 24.66,
+      "confidence": 79.745956,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 234.54,
+      "top": 17.28,
+      "x1": 241.73999999999998,
+      "bottom": 24.66,
+      "confidence": 82.94014,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "your",
+      "x0": 245.34,
+      "top": 18.72,
+      "x1": 266.76,
+      "bottom": 26.82,
+      "confidence": 95.907227,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "authority’?",
+      "x0": 270.36,
+      "top": 17.28,
+      "x1": 322.2,
+      "bottom": 26.82,
+      "confidence": 94.276283,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Options",
+      "x0": 37.8,
+      "top": 33.839999999999996,
+      "x1": 68.94,
+      "bottom": 41.94,
+      "confidence": 87.271988,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": ":",
+      "x0": 72.53999999999999,
+      "top": 35.82,
+      "x1": 73.8,
+      "bottom": 40.32,
+      "confidence": 87.271988,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 39.059999999999995,
+      "top": 48.42,
+      "x1": 45.53999999999999,
+      "bottom": 55.620000000000005,
+      "confidence": 86.098984,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "®",
+      "x0": 52.019999999999996,
+      "top": 46.26,
+      "x1": 58.49999999999999,
+      "bottom": 52.739999999999995,
+      "confidence": 75.492737,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Mandamus",
+      "x0": 64.25999999999999,
+      "top": 48.42,
+      "x1": 117.35999999999999,
+      "bottom": 55.620000000000005,
+      "confidence": 94.980064,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2.",
+      "x0": 38.339999999999996,
+      "top": 66.42,
+      "x1": 45.53999999999999,
+      "bottom": 73.62,
+      "confidence": 85.019798,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "®",
+      "x0": 52.019999999999996,
+      "top": 64.25999999999999,
+      "x1": 58.49999999999999,
+      "bottom": 70.74,
+      "confidence": 86.865326,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Habeas",
+      "x0": 64.25999999999999,
+      "top": 66.42,
+      "x1": 99.35999999999999,
+      "bottom": 73.62,
+      "confidence": 95.406326,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Corpus",
+      "x0": 102.96,
+      "top": 66.42,
+      "x1": 137.51999999999998,
+      "bottom": 75.96000000000001,
+      "confidence": 95.980759,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "3.",
+      "x0": 38.339999999999996,
+      "top": 84.42,
+      "x1": 45.53999999999999,
+      "bottom": 91.62,
+      "confidence": 87.741531,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "7",
+      "x0": 54.18,
+      "top": 82.25999999999999,
+      "x1": 58.32,
+      "bottom": 90.17999999999999,
+      "confidence": 58.088718,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Guo",
+      "x0": 64.25999999999999,
+      "top": 84.42,
+      "x1": 83.51999999999998,
+      "bottom": 93.24000000000001,
+      "confidence": 0.0,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Warranta",
+      "x0": 87.11999999999999,
+      "top": 84.42,
+      "x1": 131.76,
+      "bottom": 91.62,
+      "confidence": 61.949253,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "4.",
+      "x0": 38.339999999999996,
+      "top": 102.42,
+      "x1": 45.53999999999999,
+      "bottom": 109.62,
+      "confidence": 81.087257,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "®",
+      "x0": 52.019999999999996,
+      "top": 100.25999999999999,
+      "x1": 58.49999999999999,
+      "bottom": 106.74,
+      "confidence": 67.441231,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Prohibition",
+      "x0": 64.25999999999999,
+      "top": 102.42,
+      "x1": 116.63999999999999,
+      "bottom": 109.62,
+      "confidence": 95.766357,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

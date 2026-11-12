@@ -1,0 +1,778 @@
+{
+  "pdf_page": 252,
+  "crop_top": 646.572,
+  "crop_bottom": 759.712,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0252:l0040:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "99. Based on the given excerpt, which of the following judgments deals with the rights of",
+      "bbox": [
+        72.43199999999999,
+        5.183999999999999,
+        511.77599999999995,
+        16.128
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "disabled persons?",
+      "bbox": [
+        94.032,
+        19.727999999999998,
+        179.56799999999998,
+        30.528
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(A) Jeeja Ghosh v. Union of India, (2016) 7 SCC 761.",
+      "bbox": [
+        100.51199999999999,
+        34.848,
+        361.58399999999995,
+        45.647999999999996
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(B) Bharatha Matha R. Viyaya Renganathan, (2010) 11 SCC 483.",
+      "bbox": [
+        100.51199999999999,
+        50.831999999999994,
+        427.24799999999993,
+        61.775999999999996
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "v.",
+      "bbox": [
+        201.88799999999998,
+        53.855999999999995,
+        210.09599999999998,
+        59.327999999999996
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "(C) Seema Ashwani Kumar, (2006) 2 SCC 578.",
+      "bbox": [
+        100.51199999999999,
+        66.81599999999999,
+        343.72799999999995,
+        77.75999999999999
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "v.",
+      "bbox": [
+        156.384,
+        69.83999999999999,
+        164.59199999999998,
+        75.31199999999998
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "(D) Vidyadhari v. Sukharana Bai, (2008) 2 SCC 238.",
+      "bbox": [
+        100.51199999999999,
+        82.94399999999999,
+        356.68799999999993,
+        93.88799999999999
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "CORRECT OPTION: A",
+      "bbox": [
+        72.43199999999999,
+        98.496,
+        198.0,
+        106.848
+      ]
+    }
+  ],
+  "text": "99. Based on the given excerpt, which of the following judgments deals with the rights of\ndisabled persons?\n(A) Jeeja Ghosh v. Union of India, (2016) 7 SCC 761.\n(B) Bharatha Matha R. Viyaya Renganathan, (2010) 11 SCC 483.\nv.\n(C) Seema Ashwani Kumar, (2006) 2 SCC 578.\nv.\n(D) Vidyadhari v. Sukharana Bai, (2008) 2 SCC 238.\nCORRECT OPTION: A",
+  "ocr_words": [
+    {
+      "text": "99.",
+      "x0": 72.43199999999999,
+      "top": 5.327999999999999,
+      "x1": 84.95999999999998,
+      "bottom": 13.679999999999998,
+      "confidence": 94.484131,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Based",
+      "x0": 93.88799999999999,
+      "top": 5.183999999999999,
+      "x1": 123.26399999999998,
+      "bottom": 13.679999999999998,
+      "confidence": 96.118805,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "on",
+      "x0": 126.86399999999999,
+      "top": 7.919999999999999,
+      "x1": 138.528,
+      "bottom": 13.68,
+      "confidence": 96.40004,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 141.98399999999998,
+      "top": 5.183999999999999,
+      "x1": 156.23999999999998,
+      "bottom": 13.679999999999998,
+      "confidence": 96.462593,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "given",
+      "x0": 159.98399999999998,
+      "top": 5.183999999999999,
+      "x1": 186.19199999999998,
+      "bottom": 16.128,
+      "confidence": 96.007973,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "excerpt,",
+      "x0": 189.79199999999997,
+      "top": 6.335999999999999,
+      "x1": 227.95199999999997,
+      "bottom": 15.983999999999998,
+      "confidence": 96.007973,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "which",
+      "x0": 231.98399999999998,
+      "top": 5.183999999999999,
+      "x1": 261.50399999999996,
+      "bottom": 13.679999999999998,
+      "confidence": 96.558098,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 265.248,
+      "top": 5.183999999999999,
+      "x1": 276.192,
+      "bottom": 13.679999999999998,
+      "confidence": 96.49337,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 278.352,
+      "top": 5.183999999999999,
+      "x1": 292.60799999999995,
+      "bottom": 13.679999999999998,
+      "confidence": 96.764473,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 296.496,
+      "top": 5.183999999999999,
+      "x1": 343.58399999999995,
+      "bottom": 16.128,
+      "confidence": 96.240631,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "judgments",
+      "x0": 346.176,
+      "top": 5.183999999999999,
+      "x1": 396.57599999999996,
+      "bottom": 16.128,
+      "confidence": 96.240631,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "deals",
+      "x0": 400.46399999999994,
+      "top": 5.183999999999999,
+      "x1": 424.65599999999995,
+      "bottom": 13.679999999999998,
+      "confidence": 96.499527,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "with",
+      "x0": 428.4,
+      "top": 5.183999999999999,
+      "x1": 449.568,
+      "bottom": 13.679999999999998,
+      "confidence": 96.325195,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 452.87999999999994,
+      "top": 5.183999999999999,
+      "x1": 466.99199999999996,
+      "bottom": 13.679999999999998,
+      "confidence": 96.723907,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "rights",
+      "x0": 470.448,
+      "top": 5.183999999999999,
+      "x1": 497.08799999999997,
+      "bottom": 16.128,
+      "confidence": 96.513496,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 501.11999999999995,
+      "top": 5.183999999999999,
+      "x1": 511.77599999999995,
+      "bottom": 13.679999999999998,
+      "confidence": 96.831207,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "disabled",
+      "x0": 94.032,
+      "top": 19.727999999999998,
+      "x1": 134.352,
+      "bottom": 28.223999999999997,
+      "confidence": 96.233208,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "persons?",
+      "x0": 137.232,
+      "top": 19.872,
+      "x1": 179.56799999999998,
+      "bottom": 30.528,
+      "confidence": 96.350807,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(A)",
+      "x0": 100.51199999999999,
+      "top": 34.848,
+      "x1": 113.47199999999998,
+      "bottom": 45.647999999999996,
+      "confidence": 92.373367,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Jeeja",
+      "x0": 121.96799999999999,
+      "top": 34.848,
+      "x1": 145.72799999999998,
+      "bottom": 45.647999999999996,
+      "confidence": 92.373367,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Ghosh",
+      "x0": 148.75199999999998,
+      "top": 34.848,
+      "x1": 179.99999999999997,
+      "bottom": 43.343999999999994,
+      "confidence": 93.272102,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "v.",
+      "x0": 183.31199999999998,
+      "top": 37.727999999999994,
+      "x1": 191.37599999999998,
+      "bottom": 43.343999999999994,
+      "confidence": 92.15464,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Union",
+      "x0": 194.976,
+      "top": 34.848,
+      "x1": 225.35999999999999,
+      "bottom": 43.343999999999994,
+      "confidence": 96.420525,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 228.67199999999997,
+      "top": 34.848,
+      "x1": 239.61599999999996,
+      "bottom": 43.343999999999994,
+      "confidence": 96.686958,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "India,",
+      "x0": 241.344,
+      "top": 34.848,
+      "x1": 268.416,
+      "bottom": 45.071999999999996,
+      "confidence": 95.590317,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(2016)",
+      "x0": 272.736,
+      "top": 34.848,
+      "x1": 303.84,
+      "bottom": 45.647999999999996,
+      "confidence": 91.637474,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "7",
+      "x0": 307.152,
+      "top": 35.135999999999996,
+      "x1": 312.192,
+      "bottom": 43.343999999999994,
+      "confidence": 91.637474,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "SCC",
+      "x0": 316.224,
+      "top": 34.992,
+      "x1": 337.68,
+      "bottom": 43.343999999999994,
+      "confidence": 95.042953,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "761.",
+      "x0": 341.13599999999997,
+      "top": 34.992,
+      "x1": 361.58399999999995,
+      "bottom": 43.343999999999994,
+      "confidence": 95.042953,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(B)",
+      "x0": 100.51199999999999,
+      "top": 50.831999999999994,
+      "x1": 112.89599999999999,
+      "bottom": 61.775999999999996,
+      "confidence": 92.56884,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Bharatha",
+      "x0": 121.96799999999999,
+      "top": 50.831999999999994,
+      "x1": 165.6,
+      "bottom": 59.32799999999999,
+      "confidence": 91.094398,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Matha",
+      "x0": 168.624,
+      "top": 50.831999999999994,
+      "x1": 199.00799999999998,
+      "bottom": 59.32799999999999,
+      "confidence": 93.109711,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "v.",
+      "x0": 201.88799999999998,
+      "top": 53.855999999999995,
+      "x1": 210.09599999999998,
+      "bottom": 59.327999999999996,
+      "confidence": 92.531822,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "R.",
+      "x0": 213.696,
+      "top": 51.263999999999996,
+      "x1": 223.776,
+      "bottom": 59.327999999999996,
+      "confidence": 89.808533,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Viyaya",
+      "x0": 227.37599999999998,
+      "top": 50.831999999999994,
+      "x1": 259.056,
+      "bottom": 61.775999999999996,
+      "confidence": 55.765057,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Renganathan,",
+      "x0": 261.936,
+      "top": 50.831999999999994,
+      "x1": 328.32,
+      "bottom": 61.775999999999996,
+      "confidence": 92.083908,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(2010)",
+      "x0": 331.488,
+      "top": 50.976,
+      "x1": 363.024,
+      "bottom": 61.775999999999996,
+      "confidence": 96.598267,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "11",
+      "x0": 367.63199999999995,
+      "top": 51.12,
+      "x1": 376.84799999999996,
+      "bottom": 59.184,
+      "confidence": 95.801132,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "SCC",
+      "x0": 381.888,
+      "top": 51.12,
+      "x1": 403.488,
+      "bottom": 59.327999999999996,
+      "confidence": 95.801132,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "483.",
+      "x0": 406.65599999999995,
+      "top": 51.12,
+      "x1": 427.24799999999993,
+      "bottom": 59.327999999999996,
+      "confidence": 95.841507,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(C)",
+      "x0": 100.51199999999999,
+      "top": 66.81599999999999,
+      "x1": 112.89599999999999,
+      "bottom": 77.75999999999999,
+      "confidence": 91.506027,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Seema",
+      "x0": 122.39999999999999,
+      "top": 67.104,
+      "x1": 153.648,
+      "bottom": 75.312,
+      "confidence": 91.989555,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "v.",
+      "x0": 156.384,
+      "top": 69.83999999999999,
+      "x1": 164.59199999999998,
+      "bottom": 75.31199999999998,
+      "confidence": 89.771103,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Ashwani",
+      "x0": 168.19199999999998,
+      "top": 66.81599999999999,
+      "x1": 211.39199999999997,
+      "bottom": 75.31199999999998,
+      "confidence": 95.18,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Kumar,",
+      "x0": 214.272,
+      "top": 67.24799999999999,
+      "x1": 250.56,
+      "bottom": 77.184,
+      "confidence": 96.523552,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "(2006)",
+      "x0": 254.30399999999997,
+      "top": 66.96,
+      "x1": 285.84,
+      "bottom": 77.75999999999999,
+      "confidence": 96.102188,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "2",
+      "x0": 289.152,
+      "top": 67.104,
+      "x1": 294.336,
+      "bottom": 75.168,
+      "confidence": 96.606476,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "SCC",
+      "x0": 298.368,
+      "top": 67.104,
+      "x1": 319.968,
+      "bottom": 75.312,
+      "confidence": 94.324348,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "578.",
+      "x0": 323.424,
+      "top": 67.104,
+      "x1": 343.72799999999995,
+      "bottom": 75.312,
+      "confidence": 94.324348,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "(D)",
+      "x0": 100.51199999999999,
+      "top": 82.94399999999999,
+      "x1": 113.47199999999998,
+      "bottom": 93.74399999999999,
+      "confidence": 83.55088,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Vidyadhari",
+      "x0": 121.82399999999998,
+      "top": 82.94399999999999,
+      "x1": 176.54399999999998,
+      "bottom": 93.88799999999999,
+      "confidence": 83.55088,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "v.",
+      "x0": 179.42399999999998,
+      "top": 85.824,
+      "x1": 187.63199999999998,
+      "bottom": 91.44,
+      "confidence": 91.890213,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Sukharana",
+      "x0": 191.952,
+      "top": 82.94399999999999,
+      "x1": 241.92,
+      "bottom": 91.43999999999998,
+      "confidence": 91.696327,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Bai,",
+      "x0": 244.79999999999998,
+      "top": 82.94399999999999,
+      "x1": 263.52,
+      "bottom": 93.16799999999999,
+      "confidence": 87.676346,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "(2008)",
+      "x0": 267.26399999999995,
+      "top": 82.94399999999999,
+      "x1": 298.79999999999995,
+      "bottom": 93.74399999999999,
+      "confidence": 95.819321,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "2",
+      "x0": 302.11199999999997,
+      "top": 83.088,
+      "x1": 307.296,
+      "bottom": 91.29599999999999,
+      "confidence": 96.158974,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "SCC",
+      "x0": 311.328,
+      "top": 83.088,
+      "x1": 332.928,
+      "bottom": 91.44,
+      "confidence": 96.158974,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "238.",
+      "x0": 336.09599999999995,
+      "top": 83.088,
+      "x1": 356.68799999999993,
+      "bottom": 91.44,
+      "confidence": 95.306129,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "CORRECT",
+      "x0": 72.43199999999999,
+      "top": 98.496,
+      "x1": 131.61599999999999,
+      "bottom": 106.848,
+      "confidence": 96.411552,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "OPTION:",
+      "x0": 135.504,
+      "top": 98.496,
+      "x1": 185.184,
+      "bottom": 106.848,
+      "confidence": 94.305794,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "A",
+      "x0": 189.504,
+      "top": 98.496,
+      "x1": 198.0,
+      "bottom": 106.56,
+      "confidence": 94.305794,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

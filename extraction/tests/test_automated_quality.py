@@ -31,3 +31,9 @@ class AutomatedQualityTests(unittest.TestCase):
         self.assertNotIn('accuracy',compare_text('Same','Same'))
 
 if __name__=='__main__':unittest.main()
+
+class TypographicSupportTests(unittest.TestCase):
+    def test_only_typographic_apostrophes_and_ligatures_normalize(self):
+        self.assertEqual(compare_text("man's first", "man\u201fs \ufb01rst")['ordered_token_agreement'],1)
+        self.assertLess(compare_text("don't",'dont')['ordered_token_agreement'],1)
+        self.assertTrue(compare_text('not 16','not 18')['missing_numbers'])

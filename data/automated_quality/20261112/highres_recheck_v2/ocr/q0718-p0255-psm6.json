@@ -1,0 +1,942 @@
+{
+  "pdf_page": 255,
+  "crop_top": 613.812,
+  "crop_bottom": 764.3919999999999,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0255:l0034:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "112. What is the effect of counter offer?",
+      "bbox": [
+        73.44,
+        5.04,
+        265.14,
+        13.68
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "(A) Counter offer leads to rejection of the original offer.",
+      "bbox": [
+        100.44,
+        23.4,
+        370.61999999999995,
+        34.379999999999995
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(B) Counter offer creates a binding contract on the basis of the terms specified in the",
+      "bbox": [
+        100.61999999999999,
+        41.04,
+        519.3,
+        52.019999999999996
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "counter offer.",
+      "bbox": [
+        122.03999999999999,
+        54.72,
+        188.1,
+        63.18
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(C) Counter offer creates a legal binding obligation on the basis of the terms of original",
+      "bbox": [
+        100.61999999999999,
+        72.36,
+        521.46,
+        83.16
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "offer.",
+      "bbox": [
+        122.03999999999999,
+        86.75999999999999,
+        148.68,
+        95.21999999999998
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "(D) Counter offer shall be binding on original proposer in the same way as it is made by",
+      "bbox": [
+        100.61999999999999,
+        104.22,
+        522.0,
+        115.2
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "him only.",
+      "bbox": [
+        121.86,
+        117.89999999999999,
+        166.86,
+        128.88
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "CORRECT OPTION: A",
+      "bbox": [
+        72.53999999999999,
+        135.9,
+        197.82,
+        144.18
+      ]
+    }
+  ],
+  "text": "112. What is the effect of counter offer?\n(A) Counter offer leads to rejection of the original offer.\n(B) Counter offer creates a binding contract on the basis of the terms specified in the\ncounter offer.\n(C) Counter offer creates a legal binding obligation on the basis of the terms of original\noffer.\n(D) Counter offer shall be binding on original proposer in the same way as it is made by\nhim only.\nCORRECT OPTION: A",
+  "ocr_words": [
+    {
+      "text": "112.",
+      "x0": 73.44,
+      "top": 5.22,
+      "x1": 90.36,
+      "bottom": 13.5,
+      "confidence": 95.509087,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "What",
+      "x0": 97.02,
+      "top": 5.04,
+      "x1": 123.11999999999999,
+      "bottom": 13.68,
+      "confidence": 77.57711,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 126.0,
+      "top": 5.04,
+      "x1": 133.2,
+      "bottom": 13.5,
+      "confidence": 77.57711,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 136.98,
+      "top": 5.04,
+      "x1": 151.2,
+      "bottom": 13.5,
+      "confidence": 96.962608,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "effect",
+      "x0": 154.62,
+      "top": 5.04,
+      "x1": 183.06,
+      "bottom": 13.5,
+      "confidence": 96.237442,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 186.29999999999998,
+      "top": 5.04,
+      "x1": 197.1,
+      "bottom": 13.5,
+      "confidence": 96.643402,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "counter",
+      "x0": 198.9,
+      "top": 6.3,
+      "x1": 234.72,
+      "bottom": 13.5,
+      "confidence": 95.817047,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "offer?",
+      "x0": 237.42,
+      "top": 5.04,
+      "x1": 265.14,
+      "bottom": 13.5,
+      "confidence": 96.955658,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 100.44,
+      "top": 23.58,
+      "x1": 113.39999999999999,
+      "bottom": 34.379999999999995,
+      "confidence": 96.020782,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Counter",
+      "x0": 122.22,
+      "top": 23.58,
+      "x1": 161.28,
+      "bottom": 32.04,
+      "confidence": 95.791916,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "offer",
+      "x0": 164.16,
+      "top": 23.4,
+      "x1": 188.1,
+      "bottom": 31.86,
+      "confidence": 96.728783,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "leads",
+      "x0": 191.16,
+      "top": 23.4,
+      "x1": 215.28,
+      "bottom": 31.86,
+      "confidence": 96.467445,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "to",
+      "x0": 218.51999999999998,
+      "top": 24.66,
+      "x1": 227.33999999999997,
+      "bottom": 31.86,
+      "confidence": 96.467445,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "rejection",
+      "x0": 230.76,
+      "top": 23.4,
+      "x1": 272.52,
+      "bottom": 34.379999999999995,
+      "confidence": 83.413712,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 275.03999999999996,
+      "top": 23.4,
+      "x1": 286.02,
+      "bottom": 31.86,
+      "confidence": 95.622093,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 288.18,
+      "top": 23.4,
+      "x1": 302.4,
+      "bottom": 31.86,
+      "confidence": 96.964638,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "original",
+      "x0": 305.82,
+      "top": 23.4,
+      "x1": 342.36,
+      "bottom": 34.379999999999995,
+      "confidence": 96.171661,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "offer.",
+      "x0": 345.41999999999996,
+      "top": 23.4,
+      "x1": 370.61999999999995,
+      "bottom": 31.86,
+      "confidence": 96.605293,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(B)",
+      "x0": 100.61999999999999,
+      "top": 41.22,
+      "x1": 113.03999999999999,
+      "bottom": 51.839999999999996,
+      "confidence": 90.914749,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Counter",
+      "x0": 122.22,
+      "top": 41.22,
+      "x1": 161.28,
+      "bottom": 49.68,
+      "confidence": 96.553604,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "offer",
+      "x0": 164.88,
+      "top": 41.04,
+      "x1": 189.54,
+      "bottom": 49.5,
+      "confidence": 96.758347,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "creates",
+      "x0": 193.68,
+      "top": 42.3,
+      "x1": 226.62,
+      "bottom": 49.5,
+      "confidence": 96.439621,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "a",
+      "x0": 230.76,
+      "top": 43.92,
+      "x1": 235.62,
+      "bottom": 49.5,
+      "confidence": 96.839958,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "binding",
+      "x0": 238.67999999999998,
+      "top": 41.04,
+      "x1": 276.12,
+      "bottom": 52.019999999999996,
+      "confidence": 96.627991,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "contract",
+      "x0": 279.9,
+      "top": 42.3,
+      "x1": 318.96,
+      "bottom": 49.5,
+      "confidence": 96.602074,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "on",
+      "x0": 322.74,
+      "top": 43.92,
+      "x1": 334.26,
+      "bottom": 49.5,
+      "confidence": 96.545662,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "the",
+      "x0": 338.21999999999997,
+      "top": 41.04,
+      "x1": 352.79999999999995,
+      "bottom": 49.5,
+      "confidence": 96.545662,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "basis",
+      "x0": 356.76,
+      "top": 41.04,
+      "x1": 380.7,
+      "bottom": 49.5,
+      "confidence": 96.676025,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 384.84,
+      "top": 41.04,
+      "x1": 395.82,
+      "bottom": 49.5,
+      "confidence": 96.704369,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "the",
+      "x0": 397.97999999999996,
+      "top": 41.04,
+      "x1": 412.19999999999993,
+      "bottom": 49.5,
+      "confidence": 96.661674,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "terms",
+      "x0": 415.62,
+      "top": 42.3,
+      "x1": 441.72,
+      "bottom": 49.5,
+      "confidence": 96.908104,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "specified",
+      "x0": 445.68,
+      "top": 41.04,
+      "x1": 489.6,
+      "bottom": 52.019999999999996,
+      "confidence": 96.512154,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "in",
+      "x0": 493.2,
+      "top": 41.04,
+      "x1": 502.2,
+      "bottom": 49.5,
+      "confidence": 96.412796,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "the",
+      "x0": 505.26,
+      "top": 41.04,
+      "x1": 519.3,
+      "bottom": 49.5,
+      "confidence": 96.441856,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "counter",
+      "x0": 122.03999999999999,
+      "top": 55.8,
+      "x1": 159.12,
+      "bottom": 63.18,
+      "confidence": 96.580734,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "offer.",
+      "x0": 162.0,
+      "top": 54.72,
+      "x1": 188.1,
+      "bottom": 63.18,
+      "confidence": 96.891144,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(C)",
+      "x0": 100.61999999999999,
+      "top": 72.36,
+      "x1": 113.03999999999999,
+      "bottom": 83.16,
+      "confidence": 92.691772,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Counter",
+      "x0": 122.22,
+      "top": 72.53999999999999,
+      "x1": 161.28,
+      "bottom": 80.82,
+      "confidence": 96.858559,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "offer",
+      "x0": 164.16,
+      "top": 72.36,
+      "x1": 188.1,
+      "bottom": 80.82,
+      "confidence": 96.683449,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "creates",
+      "x0": 191.34,
+      "top": 73.44,
+      "x1": 224.28,
+      "bottom": 80.82,
+      "confidence": 95.974678,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "a",
+      "x0": 228.06,
+      "top": 75.06,
+      "x1": 232.92000000000002,
+      "bottom": 80.82000000000001,
+      "confidence": 96.822914,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "legal",
+      "x0": 235.98,
+      "top": 72.36,
+      "x1": 258.65999999999997,
+      "bottom": 83.16,
+      "confidence": 96.462181,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "binding",
+      "x0": 261.36,
+      "top": 72.36,
+      "x1": 298.8,
+      "bottom": 83.16,
+      "confidence": 96.554276,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "obligation",
+      "x0": 301.5,
+      "top": 72.36,
+      "x1": 349.74,
+      "bottom": 83.16,
+      "confidence": 96.465363,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "on",
+      "x0": 353.15999999999997,
+      "top": 75.06,
+      "x1": 364.85999999999996,
+      "bottom": 80.82000000000001,
+      "confidence": 96.786713,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "the",
+      "x0": 368.09999999999997,
+      "top": 72.36,
+      "x1": 382.31999999999994,
+      "bottom": 80.82,
+      "confidence": 96.522247,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "basis",
+      "x0": 385.38,
+      "top": 72.36,
+      "x1": 409.5,
+      "bottom": 80.82,
+      "confidence": 96.921219,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "of",
+      "x0": 413.09999999999997,
+      "top": 72.36,
+      "x1": 424.08,
+      "bottom": 80.82,
+      "confidence": 96.756378,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "the",
+      "x0": 426.41999999999996,
+      "top": 72.36,
+      "x1": 440.64,
+      "bottom": 80.82,
+      "confidence": 96.621376,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "terms",
+      "x0": 443.88,
+      "top": 73.61999999999999,
+      "x1": 469.8,
+      "bottom": 80.82,
+      "confidence": 96.289879,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "of",
+      "x0": 473.4,
+      "top": 72.36,
+      "x1": 484.2,
+      "bottom": 80.82,
+      "confidence": 96.87149,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "original",
+      "x0": 486.9,
+      "top": 72.36,
+      "x1": 521.46,
+      "bottom": 83.16,
+      "confidence": 96.751907,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "offer.",
+      "x0": 122.03999999999999,
+      "top": 86.75999999999999,
+      "x1": 148.68,
+      "bottom": 95.21999999999998,
+      "confidence": 96.746651,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "(D)",
+      "x0": 100.61999999999999,
+      "top": 104.22,
+      "x1": 113.57999999999998,
+      "bottom": 115.02,
+      "confidence": 93.167038,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "Counter",
+      "x0": 122.22,
+      "top": 104.39999999999999,
+      "x1": 161.28,
+      "bottom": 112.67999999999999,
+      "confidence": 96.796829,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "offer",
+      "x0": 164.16,
+      "top": 104.22,
+      "x1": 188.1,
+      "bottom": 112.67999999999999,
+      "confidence": 96.794334,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "shall",
+      "x0": 191.34,
+      "top": 104.22,
+      "x1": 213.66,
+      "bottom": 112.67999999999999,
+      "confidence": 95.910057,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "be",
+      "x0": 216.35999999999999,
+      "top": 104.22,
+      "x1": 227.51999999999998,
+      "bottom": 112.67999999999999,
+      "confidence": 96.301743,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "binding",
+      "x0": 230.57999999999998,
+      "top": 104.22,
+      "x1": 267.12,
+      "bottom": 115.2,
+      "confidence": 96.466049,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "on",
+      "x0": 270.18,
+      "top": 107.1,
+      "x1": 281.88,
+      "bottom": 112.67999999999999,
+      "confidence": 96.466049,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "original",
+      "x0": 285.3,
+      "top": 104.22,
+      "x1": 321.84000000000003,
+      "bottom": 115.2,
+      "confidence": 96.186798,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "proposer",
+      "x0": 324.53999999999996,
+      "top": 107.1,
+      "x1": 366.65999999999997,
+      "bottom": 115.19999999999999,
+      "confidence": 96.041786,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "in",
+      "x0": 369.71999999999997,
+      "top": 104.22,
+      "x1": 378.71999999999997,
+      "bottom": 112.5,
+      "confidence": 96.041786,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "the",
+      "x0": 381.59999999999997,
+      "top": 104.22,
+      "x1": 395.81999999999994,
+      "bottom": 112.67999999999999,
+      "confidence": 96.72728,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "same",
+      "x0": 399.41999999999996,
+      "top": 107.1,
+      "x1": 423.53999999999996,
+      "bottom": 112.67999999999999,
+      "confidence": 96.14077,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "way",
+      "x0": 426.96,
+      "top": 107.1,
+      "x1": 447.12,
+      "bottom": 115.19999999999999,
+      "confidence": 95.736679,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "as",
+      "x0": 450.35999999999996,
+      "top": 107.1,
+      "x1": 459.53999999999996,
+      "bottom": 112.67999999999999,
+      "confidence": 96.9758,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "it",
+      "x0": 462.96,
+      "top": 104.22,
+      "x1": 469.26,
+      "bottom": 112.67999999999999,
+      "confidence": 94.73925,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "is",
+      "x0": 472.14,
+      "top": 104.22,
+      "x1": 479.34,
+      "bottom": 112.67999999999999,
+      "confidence": 96.733925,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "made",
+      "x0": 482.4,
+      "top": 104.22,
+      "x1": 507.41999999999996,
+      "bottom": 112.67999999999999,
+      "confidence": 96.213951,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "by",
+      "x0": 510.12,
+      "top": 104.22,
+      "x1": 522.0,
+      "bottom": 115.2,
+      "confidence": 96.880074,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "him",
+      "x0": 121.86,
+      "top": 117.89999999999999,
+      "x1": 140.4,
+      "bottom": 126.17999999999999,
+      "confidence": 96.440758,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "only.",
+      "x0": 143.46,
+      "top": 117.89999999999999,
+      "x1": 166.86,
+      "bottom": 128.88,
+      "confidence": 96.440758,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "CORRECT",
+      "x0": 72.53999999999999,
+      "top": 135.9,
+      "x1": 131.57999999999998,
+      "bottom": 144.18,
+      "confidence": 96.435257,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "9"
+    },
+    {
+      "text": "OPTION:",
+      "x0": 135.54,
+      "top": 135.9,
+      "x1": 185.22,
+      "bottom": 144.18,
+      "confidence": 96.144547,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "9"
+    },
+    {
+      "text": "A",
+      "x0": 189.35999999999999,
+      "top": 135.9,
+      "x1": 197.82,
+      "bottom": 144.0,
+      "confidence": 96.836693,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "9"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

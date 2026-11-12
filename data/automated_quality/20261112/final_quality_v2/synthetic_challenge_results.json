@@ -1,0 +1,9 @@
+{
+  "seed": 20261111,
+  "cases": 600,
+  "known_defects": 500,
+  "defects_flagged": 500,
+  "clean_cases": 100,
+  "clean_cases_flagged": 0,
+  "scope": "Synthetic detector regression only, not an empirical corpus error rate"
+}

@@ -1,0 +1,21 @@
+{
+  "inputs": {
+    "question_paper (1).pdf": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b",
+    "data\\automated_quality\\20261112\\merged_current_v3\\questions.jsonl": "276a834b8c07d0ccfb545e4f56796fb73d9e8b0a689562976e20b69cf7f77e1c",
+    "data\\automated_quality\\20261112\\merged_current_v3\\comparisons.jsonl": "ee4b18fef88ea44a3529fbd01444032ede724d59cf14588cf2dc5f49d3078d7b",
+    "data\\automated_quality\\20261112\\merged_current_v3\\manifest.json": "982c6f9d2a8e9a715eb5645662cd6a68a607e28039ff9cfeb83c553353c92e6c",
+    "C:\\Users\\malai\\varun_code\\llm_paper_analysis\\extraction\\native_support.py": "bde9107dd8a61b61bee1864635930fb93bb4c6babeff5313b50a7a021fd1b158",
+    "extraction\\automated_quality.py": "f13c14e0a2e09b644a7836388aa5dac9311034f78f86da7ebf3ee9e699eb1a1d"
+  },
+  "pypdfium2_version": "5.12.1",
+  "outputs": {
+    "abstentions.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "automatic_repair_queue.jsonl": "d0cc314d58b687ac465bd567a3d01f087cf2fc418e224ec4dc5d189d5a1feac1",
+    "comparisons.jsonl": "0e25a3faa3dc3d66446b6e15b4863fa42b0773d39071ba7e7eee7a7469a12afd",
+    "native_evidence.jsonl": "9913ae27c7733fb5ec0640a68fa3d1d0803d16ecc4bac04f76a7a37756c03cf4",
+    "passages.jsonl": "17146e478e0e35884ac4a2a995728badfe3f8e31bd5b7af0f4e307567cbc0412",
+    "questions.jsonl": "276a834b8c07d0ccfb545e4f56796fb73d9e8b0a689562976e20b69cf7f77e1c",
+    "structural_findings.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "summary.json": "c521dea685dc35e3dffad228a6957bf183bed439e9b0affbbb201163c27c6c20"
+  }
+}

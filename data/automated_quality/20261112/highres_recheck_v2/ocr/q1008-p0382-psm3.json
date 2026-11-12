@@ -1,0 +1,415 @@
+{
+  "pdf_page": 382,
+  "crop_top": 379.36136,
+  "crop_bottom": 480.24136,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0382:l0023:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.7_ That \"Jurisprudence then, in the present hypothesis, is the Lawyers extra version\" was observed by:",
+      "bbox": [
+        43.739999999999995,
+        4.32,
+        372.59999999999997,
+        10.98
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Ans A",
+      "bbox": [
+        43.379999999999995,
+        14.94,
+        87.66,
+        28.439999999999998
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "1. Julius Stone",
+      "bbox": [
+        88.56,
+        25.919999999999998,
+        130.85999999999999,
+        31.139999999999997
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        37.26,
+        93.06,
+        52.199999999999996
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "John Locke",
+      "bbox": [
+        95.22,
+        47.16,
+        128.34,
+        52.379999999999995
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        58.5,
+        93.06,
+        73.8
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "Kelsen",
+      "bbox": [
+        95.94,
+        68.58,
+        114.66,
+        73.8
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        79.92,
+        93.06,
+        95.04
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "Ihering",
+      "bbox": [
+        95.94,
+        90.0,
+        116.46,
+        96.48
+      ]
+    }
+  ],
+  "text": "Q.7_ That \"Jurisprudence then, in the present hypothesis, is the Lawyers extra version\" was observed by:\nAns A\n1. Julius Stone\nx,\nJohn Locke\nx,\nKelsen\nx,\nIhering",
+  "ocr_words": [
+    {
+      "text": "Q.7_",
+      "x0": 43.739999999999995,
+      "top": 4.68,
+      "x1": 54.17999999999999,
+      "bottom": 10.44,
+      "confidence": 0.0,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "That",
+      "x0": 62.46,
+      "top": 4.5,
+      "x1": 76.14,
+      "bottom": 9.719999999999999,
+      "confidence": 94.731796,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "\"Jurisprudence",
+      "x0": 78.48,
+      "top": 4.32,
+      "x1": 124.56,
+      "bottom": 10.98,
+      "confidence": 95.796783,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "then,",
+      "x0": 126.53999999999999,
+      "top": 4.5,
+      "x1": 142.56,
+      "bottom": 10.620000000000001,
+      "confidence": 96.490173,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 144.9,
+      "top": 4.68,
+      "x1": 150.12,
+      "bottom": 9.54,
+      "confidence": 96.562836,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 152.28,
+      "top": 4.5,
+      "x1": 162.36,
+      "bottom": 9.719999999999999,
+      "confidence": 96.377464,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "present",
+      "x0": 164.7,
+      "top": 5.04,
+      "x1": 187.92,
+      "bottom": 10.98,
+      "confidence": 96.161293,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "hypothesis,",
+      "x0": 190.26,
+      "top": 4.5,
+      "x1": 225.18,
+      "bottom": 10.98,
+      "confidence": 96.682755,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 227.7,
+      "top": 4.68,
+      "x1": 231.83999999999997,
+      "bottom": 9.719999999999999,
+      "confidence": 96.682755,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 233.82,
+      "top": 4.5,
+      "x1": 243.9,
+      "bottom": 9.719999999999999,
+      "confidence": 96.643051,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Lawyers",
+      "x0": 246.42,
+      "top": 4.859999999999999,
+      "x1": 271.08,
+      "bottom": 10.98,
+      "confidence": 96.614777,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "extra",
+      "x0": 273.24,
+      "top": 5.04,
+      "x1": 288.72,
+      "bottom": 9.719999999999999,
+      "confidence": 96.613121,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "version\"",
+      "x0": 291.06,
+      "top": 4.32,
+      "x1": 316.44,
+      "bottom": 9.719999999999999,
+      "confidence": 95.418053,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "was",
+      "x0": 318.96,
+      "top": 5.9399999999999995,
+      "x1": 330.84,
+      "bottom": 9.719999999999999,
+      "confidence": 96.679039,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "observed",
+      "x0": 333.0,
+      "top": 4.5,
+      "x1": 361.08,
+      "bottom": 9.719999999999999,
+      "confidence": 96.674568,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "by:",
+      "x0": 363.78,
+      "top": 4.5,
+      "x1": 372.59999999999997,
+      "bottom": 10.98,
+      "confidence": 96.741982,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.379999999999995,
+      "top": 17.64,
+      "x1": 54.53999999999999,
+      "bottom": 22.5,
+      "confidence": 96.882599,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A",
+      "x0": 73.8,
+      "top": 14.94,
+      "x1": 87.66,
+      "bottom": 28.439999999999998,
+      "confidence": 30.108795,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1.",
+      "x0": 88.56,
+      "top": 26.279999999999998,
+      "x1": 93.06,
+      "bottom": 30.959999999999997,
+      "confidence": 96.653397,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Julius",
+      "x0": 95.22,
+      "top": 25.919999999999998,
+      "x1": 111.6,
+      "bottom": 31.139999999999997,
+      "confidence": 96.653397,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Stone",
+      "x0": 113.94,
+      "top": 26.099999999999998,
+      "x1": 130.85999999999999,
+      "bottom": 31.139999999999997,
+      "confidence": 95.891808,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 37.26,
+      "x1": 93.06,
+      "bottom": 52.199999999999996,
+      "confidence": 61.328075,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "John",
+      "x0": 95.22,
+      "top": 47.16,
+      "x1": 108.9,
+      "bottom": 52.379999999999995,
+      "confidence": 96.54216,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Locke",
+      "x0": 111.78,
+      "top": 47.16,
+      "x1": 128.34,
+      "bottom": 52.379999999999995,
+      "confidence": 96.635872,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 58.5,
+      "x1": 93.06,
+      "bottom": 73.8,
+      "confidence": 64.360756,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Kelsen",
+      "x0": 95.94,
+      "top": 68.58,
+      "x1": 114.66,
+      "bottom": 73.8,
+      "confidence": 91.736183,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 79.92,
+      "x1": 93.06,
+      "bottom": 95.04,
+      "confidence": 73.773705,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Ihering",
+      "x0": 95.94,
+      "top": 90.0,
+      "x1": 116.46,
+      "bottom": 96.48,
+      "confidence": 45.067055,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

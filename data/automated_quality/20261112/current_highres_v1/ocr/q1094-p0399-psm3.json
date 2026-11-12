@@ -1,0 +1,1064 @@
+{
+  "pdf_page": 399,
+  "crop_top": 370.24136,
+  "crop_bottom": 471.12136,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0399:l0022:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.50 'A'and 'B' jointly owe Rs. 100/- to 'C'. 'A' alone pays the whole amount to 'C' and 'B' not knowing this fact also pays Rs. 100/- to 'C':",
+      "bbox": [
+        41.903999999999996,
+        4.032,
+        469.58399999999995,
+        10.8
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "\"4",
+      "bbox": [
+        73.728,
+        14.399999999999999,
+        87.696,
+        28.943999999999996
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "Ans",
+      "bbox": [
+        43.343999999999994,
+        17.567999999999998,
+        54.57599999999999,
+        22.319999999999997
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "1. 'C' is bound to repay Rs. 100/- to 'B'.",
+      "bbox": [
+        88.55999999999999,
+        25.488,
+        204.91199999999998,
+        32.256
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "X x",
+      "bbox": [
+        72.288,
+        36.576,
+        91.584,
+        92.30399999999999
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "2. C' is not bound to repay Rs. 100/- to either 'A' or 'B' because 'B' paid on his own.",
+      "bbox": [
+        88.27199999999999,
+        46.943999999999996,
+        338.5439999999999,
+        53.568
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "x",
+      "bbox": [
+        72.288,
+        57.455999999999996,
+        91.584,
+        68.832
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "3. C' is bound to pay Rs. 50/- to 'B’.",
+      "bbox": [
+        88.27199999999999,
+        68.256,
+        193.10399999999998,
+        74.88
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "4. C' is bound to pay Rs. 100/- each to 'A' and 'B'.",
+      "bbox": [
+        88.128,
+        89.568,
+        235.58399999999997,
+        96.336
+      ]
+    }
+  ],
+  "text": "Q.50 'A'and 'B' jointly owe Rs. 100/- to 'C'. 'A' alone pays the whole amount to 'C' and 'B' not knowing this fact also pays Rs. 100/- to 'C':\n\"4\nAns\n1. 'C' is bound to repay Rs. 100/- to 'B'.\nX x\n2. C' is not bound to repay Rs. 100/- to either 'A' or 'B' because 'B' paid on his own.\nx\n3. C' is bound to pay Rs. 50/- to 'B’.\n4. C' is bound to pay Rs. 100/- each to 'A' and 'B'.",
+  "ocr_words": [
+    {
+      "text": "Q.50",
+      "x0": 41.903999999999996,
+      "top": 4.752,
+      "x1": 56.16,
+      "bottom": 10.367999999999999,
+      "confidence": 71.756561,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "'A'and",
+      "x0": 62.78399999999999,
+      "top": 4.4639999999999995,
+      "x1": 83.37599999999999,
+      "bottom": 9.648,
+      "confidence": 62.619675,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "'B'",
+      "x0": 86.112,
+      "top": 4.4639999999999995,
+      "x1": 92.88,
+      "bottom": 9.504,
+      "confidence": 90.576607,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "jointly",
+      "x0": 94.89599999999999,
+      "top": 4.4639999999999995,
+      "x1": 114.76799999999999,
+      "bottom": 10.799999999999999,
+      "confidence": 96.113312,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "owe",
+      "x0": 116.78399999999999,
+      "top": 5.904,
+      "x1": 129.6,
+      "bottom": 9.648,
+      "confidence": 96.010727,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Rs.",
+      "x0": 132.048,
+      "top": 4.752,
+      "x1": 140.4,
+      "bottom": 9.648,
+      "confidence": 92.785477,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "100/-",
+      "x0": 142.992,
+      "top": 4.032,
+      "x1": 159.26399999999998,
+      "bottom": 10.655999999999999,
+      "confidence": 92.785477,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 161.136,
+      "top": 5.183999999999999,
+      "x1": 167.472,
+      "bottom": 9.648,
+      "confidence": 91.184715,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "'C'.",
+      "x0": 169.92,
+      "top": 4.4639999999999995,
+      "x1": 178.416,
+      "bottom": 9.648,
+      "confidence": 39.568665,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "'A'",
+      "x0": 181.00799999999998,
+      "top": 4.4639999999999995,
+      "x1": 188.20799999999997,
+      "bottom": 9.504,
+      "confidence": 85.976074,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "alone",
+      "x0": 190.65599999999998,
+      "top": 4.4639999999999995,
+      "x1": 207.35999999999999,
+      "bottom": 9.648,
+      "confidence": 96.702721,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "pays",
+      "x0": 209.808,
+      "top": 5.904,
+      "x1": 223.488,
+      "bottom": 10.8,
+      "confidence": 96.240234,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 225.504,
+      "top": 4.4639999999999995,
+      "x1": 235.44,
+      "bottom": 9.648,
+      "confidence": 96.651207,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "whole",
+      "x0": 237.6,
+      "top": 4.4639999999999995,
+      "x1": 256.464,
+      "bottom": 9.648,
+      "confidence": 96.499084,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "amount",
+      "x0": 258.62399999999997,
+      "top": 5.183999999999999,
+      "x1": 282.67199999999997,
+      "bottom": 9.648,
+      "confidence": 95.590569,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 284.688,
+      "top": 5.183999999999999,
+      "x1": 290.88,
+      "bottom": 9.648,
+      "confidence": 92.470383,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "'C'",
+      "x0": 293.328,
+      "top": 4.4639999999999995,
+      "x1": 299.952,
+      "bottom": 9.648,
+      "confidence": 91.777733,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 302.256,
+      "top": 4.4639999999999995,
+      "x1": 313.344,
+      "bottom": 9.648,
+      "confidence": 92.329063,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "'B'",
+      "x0": 315.936,
+      "top": 4.4639999999999995,
+      "x1": 322.70399999999995,
+      "bottom": 9.504,
+      "confidence": 89.556732,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "not",
+      "x0": 325.296,
+      "top": 5.183999999999999,
+      "x1": 335.376,
+      "bottom": 9.648,
+      "confidence": 95.99588,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "knowing",
+      "x0": 337.67999999999995,
+      "top": 4.4639999999999995,
+      "x1": 363.74399999999997,
+      "bottom": 10.799999999999999,
+      "confidence": 96.171371,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "this",
+      "x0": 365.616,
+      "top": 4.4639999999999995,
+      "x1": 376.84799999999996,
+      "bottom": 9.648,
+      "confidence": 96.211189,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "fact",
+      "x0": 378.864,
+      "top": 4.4639999999999995,
+      "x1": 390.38399999999996,
+      "bottom": 9.648,
+      "confidence": 96.743118,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "also",
+      "x0": 392.544,
+      "top": 4.4639999999999995,
+      "x1": 404.496,
+      "bottom": 9.648,
+      "confidence": 96.72905,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "pays",
+      "x0": 406.94399999999996,
+      "top": 5.904,
+      "x1": 420.47999999999996,
+      "bottom": 10.8,
+      "confidence": 96.617882,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Rs.",
+      "x0": 422.92799999999994,
+      "top": 4.752,
+      "x1": 431.2799999999999,
+      "bottom": 9.648,
+      "confidence": 92.388153,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "100/-",
+      "x0": 434.01599999999996,
+      "top": 4.032,
+      "x1": 450.14399999999995,
+      "bottom": 10.655999999999999,
+      "confidence": 92.388153,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 452.15999999999997,
+      "top": 5.183999999999999,
+      "x1": 458.496,
+      "bottom": 9.648,
+      "confidence": 91.149452,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "'C':",
+      "x0": 460.94399999999996,
+      "top": 4.4639999999999995,
+      "x1": 469.58399999999995,
+      "bottom": 9.648,
+      "confidence": 74.981331,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.343999999999994,
+      "top": 17.567999999999998,
+      "x1": 54.57599999999999,
+      "bottom": 22.319999999999997,
+      "confidence": 96.967659,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "\"4",
+      "x0": 73.728,
+      "top": 14.399999999999999,
+      "x1": 87.696,
+      "bottom": 28.943999999999996,
+      "confidence": 30.35656,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 88.55999999999999,
+      "top": 26.063999999999997,
+      "x1": 93.02399999999999,
+      "bottom": 30.959999999999997,
+      "confidence": 55.382156,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "'C'",
+      "x0": 95.75999999999999,
+      "top": 25.776,
+      "x1": 102.09599999999999,
+      "bottom": 30.96,
+      "confidence": 55.382156,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "is",
+      "x0": 104.832,
+      "top": 26.063999999999997,
+      "x1": 108.576,
+      "bottom": 30.959999999999997,
+      "confidence": 96.174614,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "bound",
+      "x0": 111.16799999999999,
+      "top": 25.776,
+      "x1": 129.744,
+      "bottom": 30.96,
+      "confidence": 96.892639,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "to",
+      "x0": 132.19199999999998,
+      "top": 26.496,
+      "x1": 138.23999999999998,
+      "bottom": 30.959999999999997,
+      "confidence": 96.522186,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "repay",
+      "x0": 140.832,
+      "top": 27.36,
+      "x1": 157.392,
+      "bottom": 32.256,
+      "confidence": 96.678238,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Rs.",
+      "x0": 159.83999999999997,
+      "top": 26.208,
+      "x1": 167.61599999999999,
+      "bottom": 30.959999999999997,
+      "confidence": 93.237846,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "100/-",
+      "x0": 170.49599999999998,
+      "top": 25.488,
+      "x1": 186.04799999999997,
+      "bottom": 31.823999999999998,
+      "confidence": 92.591354,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "to",
+      "x0": 188.208,
+      "top": 26.496,
+      "x1": 194.256,
+      "bottom": 30.959999999999997,
+      "confidence": 91.017296,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "'B'.",
+      "x0": 196.70399999999998,
+      "top": 25.776,
+      "x1": 204.91199999999998,
+      "bottom": 30.96,
+      "confidence": 83.808937,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "2.",
+      "x0": 88.27199999999999,
+      "top": 47.519999999999996,
+      "x1": 93.02399999999999,
+      "bottom": 52.272,
+      "confidence": 83.875504,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "C'",
+      "x0": 95.616,
+      "top": 47.087999999999994,
+      "x1": 100.368,
+      "bottom": 52.27199999999999,
+      "confidence": 83.875504,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 103.104,
+      "top": 47.376,
+      "x1": 106.992,
+      "bottom": 52.272,
+      "confidence": 96.321472,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "not",
+      "x0": 109.58399999999999,
+      "top": 47.808,
+      "x1": 119.088,
+      "bottom": 52.272,
+      "confidence": 96.794884,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "bound",
+      "x0": 121.67999999999999,
+      "top": 47.232,
+      "x1": 140.256,
+      "bottom": 52.272,
+      "confidence": 96.317307,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 142.70399999999998,
+      "top": 47.808,
+      "x1": 148.60799999999998,
+      "bottom": 52.272,
+      "confidence": 96.192223,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "repay",
+      "x0": 151.2,
+      "top": 48.672,
+      "x1": 167.76,
+      "bottom": 53.568,
+      "confidence": 96.651108,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Rs.",
+      "x0": 170.208,
+      "top": 47.519999999999996,
+      "x1": 177.984,
+      "bottom": 52.272,
+      "confidence": 93.20533,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "100/-",
+      "x0": 180.86399999999998,
+      "top": 46.943999999999996,
+      "x1": 196.55999999999997,
+      "bottom": 53.279999999999994,
+      "confidence": 92.922188,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 198.576,
+      "top": 47.808,
+      "x1": 204.624,
+      "bottom": 52.272,
+      "confidence": 96.930145,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "either",
+      "x0": 207.07199999999997,
+      "top": 47.232,
+      "x1": 224.78399999999996,
+      "bottom": 52.272,
+      "confidence": 92.857132,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "'A'",
+      "x0": 227.088,
+      "top": 47.087999999999994,
+      "x1": 233.712,
+      "bottom": 52.27199999999999,
+      "confidence": 87.458557,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "or",
+      "x0": 236.30399999999997,
+      "top": 48.672,
+      "x1": 242.35199999999998,
+      "bottom": 52.272,
+      "confidence": 91.970367,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "'B'",
+      "x0": 244.79999999999998,
+      "top": 47.087999999999994,
+      "x1": 251.136,
+      "bottom": 52.27199999999999,
+      "confidence": 91.309906,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "because",
+      "x0": 253.87199999999999,
+      "top": 47.232,
+      "x1": 278.06399999999996,
+      "bottom": 52.272,
+      "confidence": 92.546867,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "'B'",
+      "x0": 280.656,
+      "top": 47.087999999999994,
+      "x1": 286.992,
+      "bottom": 52.27199999999999,
+      "confidence": 92.546867,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "paid",
+      "x0": 289.72799999999995,
+      "top": 47.232,
+      "x1": 301.82399999999996,
+      "bottom": 53.568,
+      "confidence": 96.149292,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "on",
+      "x0": 304.416,
+      "top": 48.672,
+      "x1": 311.472,
+      "bottom": 52.272,
+      "confidence": 96.021843,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "his",
+      "x0": 314.20799999999997,
+      "top": 47.232,
+      "x1": 321.984,
+      "bottom": 52.272,
+      "confidence": 96.157692,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "own.",
+      "x0": 324.28799999999995,
+      "top": 48.672,
+      "x1": 338.5439999999999,
+      "bottom": 52.272,
+      "confidence": 96.157692,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "3.",
+      "x0": 88.27199999999999,
+      "top": 68.832,
+      "x1": 93.02399999999999,
+      "bottom": 73.728,
+      "confidence": 92.739891,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "C'",
+      "x0": 95.616,
+      "top": 68.544,
+      "x1": 100.368,
+      "bottom": 73.728,
+      "confidence": 55.0909,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 103.104,
+      "top": 68.832,
+      "x1": 106.992,
+      "bottom": 73.728,
+      "confidence": 55.0909,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "bound",
+      "x0": 109.58399999999999,
+      "top": 68.544,
+      "x1": 128.16,
+      "bottom": 73.728,
+      "confidence": 96.586815,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 130.464,
+      "top": 69.264,
+      "x1": 136.512,
+      "bottom": 73.728,
+      "confidence": 96.745316,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "pay",
+      "x0": 139.10399999999998,
+      "top": 70.128,
+      "x1": 149.32799999999997,
+      "bottom": 74.88,
+      "confidence": 96.678207,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Rs.",
+      "x0": 151.77599999999998,
+      "top": 68.832,
+      "x1": 159.552,
+      "bottom": 73.728,
+      "confidence": 93.19706,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "50/-",
+      "x0": 162.14399999999998,
+      "top": 68.256,
+      "x1": 174.384,
+      "bottom": 74.592,
+      "confidence": 92.907448,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 176.39999999999998,
+      "top": 69.264,
+      "x1": 182.44799999999998,
+      "bottom": 73.728,
+      "confidence": 83.781998,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "'B’.",
+      "x0": 184.896,
+      "top": 68.544,
+      "x1": 193.10399999999998,
+      "bottom": 73.584,
+      "confidence": 42.434406,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "x",
+      "x0": 73.008,
+      "top": 37.151999999999994,
+      "x1": 86.544,
+      "bottom": 92.30399999999999,
+      "confidence": 75.922455,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "x",
+      "x0": 72.288,
+      "top": 57.455999999999996,
+      "x1": 91.584,
+      "bottom": 68.832,
+      "confidence": 65.203346,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "X",
+      "x0": 72.288,
+      "top": 36.576,
+      "x1": 91.584,
+      "bottom": 47.952,
+      "confidence": 63.108006,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "4.",
+      "x0": 88.128,
+      "top": 90.288,
+      "x1": 93.024,
+      "bottom": 95.03999999999999,
+      "confidence": 78.590508,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "C'",
+      "x0": 95.616,
+      "top": 89.856,
+      "x1": 100.368,
+      "bottom": 95.03999999999999,
+      "confidence": 62.743992,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 103.104,
+      "top": 90.14399999999999,
+      "x1": 106.992,
+      "bottom": 95.03999999999999,
+      "confidence": 62.743992,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "bound",
+      "x0": 109.58399999999999,
+      "top": 89.856,
+      "x1": 128.16,
+      "bottom": 95.03999999999999,
+      "confidence": 95.776657,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 130.464,
+      "top": 90.576,
+      "x1": 136.512,
+      "bottom": 95.03999999999999,
+      "confidence": 95.776657,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "pay",
+      "x0": 139.10399999999998,
+      "top": 91.44,
+      "x1": 149.32799999999997,
+      "bottom": 96.336,
+      "confidence": 95.605698,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Rs.",
+      "x0": 151.77599999999998,
+      "top": 90.288,
+      "x1": 159.552,
+      "bottom": 95.03999999999999,
+      "confidence": 92.202385,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "100/-",
+      "x0": 162.432,
+      "top": 89.568,
+      "x1": 178.128,
+      "bottom": 96.048,
+      "confidence": 92.202385,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "each",
+      "x0": 180.432,
+      "top": 89.856,
+      "x1": 193.968,
+      "bottom": 95.03999999999999,
+      "confidence": 96.147514,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 196.272,
+      "top": 90.576,
+      "x1": 202.32,
+      "bottom": 95.03999999999999,
+      "confidence": 92.411194,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "'A'",
+      "x0": 204.91199999999998,
+      "top": 89.856,
+      "x1": 211.53599999999997,
+      "bottom": 95.03999999999999,
+      "confidence": 89.330872,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 213.98399999999998,
+      "top": 89.856,
+      "x1": 224.64,
+      "bottom": 95.03999999999999,
+      "confidence": 93.076279,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "'B'.",
+      "x0": 227.37599999999998,
+      "top": 89.856,
+      "x1": 235.58399999999997,
+      "bottom": 95.03999999999999,
+      "confidence": 85.765633,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

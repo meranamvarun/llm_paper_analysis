@@ -1,0 +1,269 @@
+{
+  "pdf_page": 397,
+  "crop_top": 781.12137,
+  "crop_bottom": 796.56137,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0397:l0049:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.42 'A' dies leaving behind a son X and a married daughter Y, a suit filed by 'A', can be continued by:",
+      "bbox": [
+        41.903999999999996,
+        4.4639999999999995,
+        360.14399999999995,
+        10.943999999999999
+      ]
+    }
+  ],
+  "text": "Q.42 'A' dies leaving behind a son X and a married daughter Y, a suit filed by 'A', can be continued by:",
+  "ocr_words": [
+    {
+      "text": "Q.42",
+      "x0": 41.903999999999996,
+      "top": 4.752,
+      "x1": 56.01599999999999,
+      "bottom": 10.512,
+      "confidence": 27.943779,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "'A'",
+      "x0": 62.78399999999999,
+      "top": 4.4639999999999995,
+      "x1": 69.984,
+      "bottom": 9.648,
+      "confidence": 27.943779,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "dies",
+      "x0": 72.43199999999999,
+      "top": 4.608,
+      "x1": 84.52799999999999,
+      "bottom": 9.648,
+      "confidence": 95.114456,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "leaving",
+      "x0": 86.976,
+      "top": 4.608,
+      "x1": 108.576,
+      "bottom": 10.943999999999999,
+      "confidence": 95.114456,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "behind",
+      "x0": 110.88,
+      "top": 4.608,
+      "x1": 131.61599999999999,
+      "bottom": 9.648,
+      "confidence": 95.963974,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 134.064,
+      "top": 6.047999999999999,
+      "x1": 137.088,
+      "bottom": 9.648,
+      "confidence": 95.248215,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "son",
+      "x0": 139.536,
+      "top": 6.047999999999999,
+      "x1": 149.76,
+      "bottom": 9.648,
+      "confidence": 93.248825,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "X",
+      "x0": 152.064,
+      "top": 4.896,
+      "x1": 155.952,
+      "bottom": 9.648,
+      "confidence": 92.830399,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 158.112,
+      "top": 4.608,
+      "x1": 169.05599999999998,
+      "bottom": 9.648,
+      "confidence": 96.491653,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 171.504,
+      "top": 6.047999999999999,
+      "x1": 174.528,
+      "bottom": 9.648,
+      "confidence": 95.251694,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "married",
+      "x0": 177.11999999999998,
+      "top": 4.608,
+      "x1": 200.87999999999997,
+      "bottom": 9.648,
+      "confidence": 95.251694,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "daughter",
+      "x0": 203.32799999999997,
+      "top": 4.608,
+      "x1": 231.40799999999996,
+      "bottom": 10.943999999999999,
+      "confidence": 93.237076,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Y,",
+      "x0": 233.27999999999997,
+      "top": 4.896,
+      "x1": 238.60799999999998,
+      "bottom": 10.655999999999999,
+      "confidence": 89.976852,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 240.91199999999998,
+      "top": 6.047999999999999,
+      "x1": 243.93599999999998,
+      "bottom": 9.648,
+      "confidence": 96.98632,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "suit",
+      "x0": 246.384,
+      "top": 4.608,
+      "x1": 257.328,
+      "bottom": 9.648,
+      "confidence": 96.914505,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "filed",
+      "x0": 259.344,
+      "top": 4.4639999999999995,
+      "x1": 272.592,
+      "bottom": 9.648,
+      "confidence": 95.846756,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "by",
+      "x0": 275.18399999999997,
+      "top": 4.608,
+      "x1": 282.23999999999995,
+      "bottom": 10.943999999999999,
+      "confidence": 92.867081,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "'A',",
+      "x0": 284.544,
+      "top": 4.4639999999999995,
+      "x1": 293.616,
+      "bottom": 10.655999999999999,
+      "confidence": 87.168709,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "can",
+      "x0": 295.91999999999996,
+      "top": 6.047999999999999,
+      "x1": 306.14399999999995,
+      "bottom": 9.648,
+      "confidence": 96.404106,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "be",
+      "x0": 308.736,
+      "top": 4.608,
+      "x1": 315.792,
+      "bottom": 9.648,
+      "confidence": 96.586243,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "continued",
+      "x0": 318.096,
+      "top": 4.608,
+      "x1": 348.76800000000003,
+      "bottom": 9.648,
+      "confidence": 96.5215,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "by:",
+      "x0": 351.35999999999996,
+      "top": 4.608,
+      "x1": 360.14399999999995,
+      "bottom": 10.943999999999999,
+      "confidence": 96.963661,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

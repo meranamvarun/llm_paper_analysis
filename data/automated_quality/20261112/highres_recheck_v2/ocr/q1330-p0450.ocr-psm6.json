@@ -1,0 +1,364 @@
+{
+  "pdf_page": 450,
+  "crop_top": 173.86,
+  "crop_bottom": 261.17999999999995,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0450:l0006:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "32. Which one of the following drafted the hypothetical Case of the Speluncean Explorers?",
+      "bbox": [
+        72.53999999999999,
+        5.04,
+        513.1800000000001,
+        15.3
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "A. Lon L Fuller",
+      "bbox": [
+        108.17999999999999,
+        21.06,
+        182.52,
+        32.94
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "B. Rudolph Stammler",
+      "bbox": [
+        109.08,
+        38.519999999999996,
+        216.72,
+        48.959999999999994
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "C. John Rawls",
+      "bbox": [
+        108.53999999999999,
+        55.44,
+        179.28,
+        63.72
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "D. Clarence Morris",
+      "bbox": [
+        109.08,
+        72.36,
+        203.22,
+        80.64
+      ]
+    }
+  ],
+  "text": "32. Which one of the following drafted the hypothetical Case of the Speluncean Explorers?\nA. Lon L Fuller\nB. Rudolph Stammler\nC. John Rawls\nD. Clarence Morris",
+  "ocr_words": [
+    {
+      "text": "32.",
+      "x0": 72.53999999999999,
+      "top": 5.3999999999999995,
+      "x1": 86.39999999999999,
+      "bottom": 13.32,
+      "confidence": 95.893059,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Which",
+      "x0": 90.36,
+      "top": 5.04,
+      "x1": 120.24,
+      "bottom": 13.32,
+      "confidence": 96.116348,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "one",
+      "x0": 124.56,
+      "top": 7.56,
+      "x1": 142.02,
+      "bottom": 13.32,
+      "confidence": 96.489548,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 145.62,
+      "top": 5.04,
+      "x1": 155.34,
+      "bottom": 13.32,
+      "confidence": 94.951385,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 158.04,
+      "top": 5.04,
+      "x1": 173.51999999999998,
+      "bottom": 13.32,
+      "confidence": 94.951385,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 177.12,
+      "top": 5.04,
+      "x1": 221.58,
+      "bottom": 15.3,
+      "confidence": 96.432587,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "drafted",
+      "x0": 225.17999999999998,
+      "top": 5.04,
+      "x1": 259.91999999999996,
+      "bottom": 13.32,
+      "confidence": 96.565804,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 263.7,
+      "top": 5.04,
+      "x1": 279.18,
+      "bottom": 13.32,
+      "confidence": 96.876122,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "hypothetical",
+      "x0": 283.32,
+      "top": 5.04,
+      "x1": 342.36,
+      "bottom": 15.3,
+      "confidence": 95.835388,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Case",
+      "x0": 346.68,
+      "top": 5.3999999999999995,
+      "x1": 368.28000000000003,
+      "bottom": 13.32,
+      "confidence": 96.797394,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 372.41999999999996,
+      "top": 5.04,
+      "x1": 382.14,
+      "bottom": 13.32,
+      "confidence": 96.826965,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 384.84,
+      "top": 5.04,
+      "x1": 400.32,
+      "bottom": 13.32,
+      "confidence": 93.289215,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Speluncean",
+      "x0": 404.09999999999997,
+      "top": 5.04,
+      "x1": 458.99999999999994,
+      "bottom": 15.3,
+      "confidence": 90.538635,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Explorers?",
+      "x0": 463.68,
+      "top": 5.04,
+      "x1": 513.1800000000001,
+      "bottom": 15.3,
+      "confidence": 96.538185,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A.",
+      "x0": 108.17999999999999,
+      "top": 22.32,
+      "x1": 117.89999999999999,
+      "bottom": 30.06,
+      "confidence": 96.654549,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Lon",
+      "x0": 126.89999999999999,
+      "top": 22.32,
+      "x1": 143.28,
+      "bottom": 30.06,
+      "confidence": 48.750008,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "L",
+      "x0": 145.07999999999998,
+      "top": 21.06,
+      "x1": 148.14,
+      "bottom": 32.94,
+      "confidence": 48.750008,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Fuller",
+      "x0": 155.34,
+      "top": 21.779999999999998,
+      "x1": 182.52,
+      "bottom": 30.059999999999995,
+      "confidence": 96.653229,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "B.",
+      "x0": 109.08,
+      "top": 39.24,
+      "x1": 116.64,
+      "bottom": 46.800000000000004,
+      "confidence": 92.286934,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Rudolph",
+      "x0": 127.08,
+      "top": 38.519999999999996,
+      "x1": 165.95999999999998,
+      "bottom": 48.959999999999994,
+      "confidence": 93.260651,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Stammler",
+      "x0": 170.1,
+      "top": 38.519999999999996,
+      "x1": 216.72,
+      "bottom": 46.8,
+      "confidence": 90.804008,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "C.",
+      "x0": 108.53999999999999,
+      "top": 55.98,
+      "x1": 116.46,
+      "bottom": 63.72,
+      "confidence": 91.102829,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "John",
+      "x0": 126.0,
+      "top": 55.44,
+      "x1": 147.96,
+      "bottom": 63.72,
+      "confidence": 96.365273,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Rawls",
+      "x0": 152.46,
+      "top": 55.44,
+      "x1": 179.28,
+      "bottom": 63.72,
+      "confidence": 96.731537,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "D.",
+      "x0": 109.08,
+      "top": 72.89999999999999,
+      "x1": 117.53999999999999,
+      "bottom": 80.46,
+      "confidence": 93.048012,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Clarence",
+      "x0": 126.53999999999999,
+      "top": 72.36,
+      "x1": 167.94,
+      "bottom": 80.64,
+      "confidence": 96.653008,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Morris",
+      "x0": 172.26,
+      "top": 72.72,
+      "x1": 203.22,
+      "bottom": 80.64,
+      "confidence": 96.408585,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

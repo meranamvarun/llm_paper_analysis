@@ -1,0 +1,266 @@
+{
+  "pdf_page": 296,
+  "crop_top": 382.8227999999999,
+  "crop_bottom": 435.22279999999995,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0296:l0017:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "10. The Constitution Day is celebrated",
+      "bbox": [
+        47.376,
+        4.752,
+        251.99999999999997,
+        15.120000000000001
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "on:",
+      "bbox": [
+        255.6,
+        7.776,
+        269.568,
+        13.104
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(A) 26% January (B) 15% August",
+      "bbox": [
+        75.312,
+        22.607999999999997,
+        388.656,
+        32.832
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(C) 26% November (D) 10t December",
+      "bbox": [
+        75.312,
+        38.16,
+        402.7679999999999,
+        48.38399999999999
+      ]
+    }
+  ],
+  "text": "10. The Constitution Day is celebrated\non:\n(A) 26% January (B) 15% August\n(C) 26% November (D) 10t December",
+  "ocr_words": [
+    {
+      "text": "10.",
+      "x0": 47.376,
+      "top": 5.327999999999999,
+      "x1": 60.623999999999995,
+      "bottom": 13.104,
+      "confidence": 89.601509,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 74.88,
+      "top": 4.896,
+      "x1": 93.744,
+      "bottom": 13.104,
+      "confidence": 89.601509,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Constitution",
+      "x0": 97.91999999999999,
+      "top": 4.752,
+      "x1": 161.13599999999997,
+      "bottom": 13.104,
+      "confidence": 96.837616,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Day",
+      "x0": 164.59199999999998,
+      "top": 5.04,
+      "x1": 184.75199999999998,
+      "bottom": 15.120000000000001,
+      "confidence": 96.382324,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 188.208,
+      "top": 4.896,
+      "x1": 195.984,
+      "bottom": 13.104,
+      "confidence": 95.853706,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "celebrated",
+      "x0": 199.87199999999999,
+      "top": 4.896,
+      "x1": 251.99999999999997,
+      "bottom": 13.104,
+      "confidence": 95.443512,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "on:",
+      "x0": 255.6,
+      "top": 7.776,
+      "x1": 269.568,
+      "bottom": 13.104,
+      "confidence": 95.443512,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 75.312,
+      "top": 22.607999999999997,
+      "x1": 89.136,
+      "bottom": 32.831999999999994,
+      "confidence": 91.0588,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "26%",
+      "x0": 103.392,
+      "top": 22.607999999999997,
+      "x1": 121.96799999999999,
+      "bottom": 30.815999999999995,
+      "confidence": 91.0588,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "January",
+      "x0": 125.42399999999999,
+      "top": 22.752,
+      "x1": 167.76,
+      "bottom": 32.832,
+      "confidence": 96.424332,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(B)",
+      "x0": 302.11199999999997,
+      "top": 22.607999999999997,
+      "x1": 316.08,
+      "bottom": 32.831999999999994,
+      "confidence": 90.025002,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "15%",
+      "x0": 331.056,
+      "top": 22.607999999999997,
+      "x1": 349.056,
+      "bottom": 30.815999999999995,
+      "confidence": 77.120964,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "August",
+      "x0": 352.08,
+      "top": 22.607999999999997,
+      "x1": 388.656,
+      "bottom": 32.831999999999994,
+      "confidence": 96.534004,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(C)",
+      "x0": 75.312,
+      "top": 38.16,
+      "x1": 89.136,
+      "bottom": 48.38399999999999,
+      "confidence": 92.087646,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "26%",
+      "x0": 103.392,
+      "top": 38.303999999999995,
+      "x1": 121.96799999999999,
+      "bottom": 46.51199999999999,
+      "confidence": 42.169476,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "November",
+      "x0": 125.71199999999999,
+      "top": 38.303999999999995,
+      "x1": 177.26399999999998,
+      "bottom": 46.51199999999999,
+      "confidence": 96.238266,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(D)",
+      "x0": 302.11199999999997,
+      "top": 38.16,
+      "x1": 316.65599999999995,
+      "bottom": 48.38399999999999,
+      "confidence": 69.609894,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "10t",
+      "x0": 331.056,
+      "top": 38.303999999999995,
+      "x1": 349.056,
+      "bottom": 46.51199999999999,
+      "confidence": 36.50956,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "December",
+      "x0": 352.65599999999995,
+      "top": 38.303999999999995,
+      "x1": 402.7679999999999,
+      "bottom": 46.51199999999999,
+      "confidence": 96.772552,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

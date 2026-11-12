@@ -1,0 +1,517 @@
+{
+  "pdf_page": 116,
+  "crop_top": 233.91930000000002,
+  "crop_bottom": 339.91929999999996,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0116:l0009:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "51. ‘Environmental rule of law’ found its reference and recognition for the first time in which of",
+      "bbox": [
+        96.04799999999999,
+        3.7439999999999998,
+        551.808,
+        14.111999999999998
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "the following?",
+      "bbox": [
+        117.216,
+        19.584,
+        183.6,
+        29.951999999999998
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(A) Earth Summit, 2002.",
+      "bbox": [
+        116.064,
+        37.296,
+        235.296,
+        47.664
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(B) UNEP’s Governing Council Decision 27/9, 2013",
+      "bbox": [
+        116.064,
+        55.007999999999996,
+        367.91999999999996,
+        65.52
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(C) 1% Africa Colloquium at Nairobi, 2015.",
+      "bbox": [
+        115.48799999999999,
+        72.86399999999999,
+        319.1039999999999,
+        83.23199999999999
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "(D) Earth Summit+5",
+      "bbox": [
+        115.48799999999999,
+        90.576,
+        214.70399999999998,
+        101.088
+      ]
+    }
+  ],
+  "text": "51. ‘Environmental rule of law’ found its reference and recognition for the first time in which of\nthe following?\n(A) Earth Summit, 2002.\n(B) UNEP’s Governing Council Decision 27/9, 2013\n(C) 1% Africa Colloquium at Nairobi, 2015.\n(D) Earth Summit+5",
+  "ocr_words": [
+    {
+      "text": "51.",
+      "x0": 96.04799999999999,
+      "top": 4.032,
+      "x1": 110.01599999999999,
+      "bottom": 11.951999999999998,
+      "confidence": 96.205925,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "‘Environmental",
+      "x0": 117.648,
+      "top": 3.7439999999999998,
+      "x1": 189.072,
+      "bottom": 11.952,
+      "confidence": 96.450546,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "rule",
+      "x0": 193.67999999999998,
+      "top": 3.888,
+      "x1": 210.67199999999997,
+      "bottom": 11.952,
+      "confidence": 96.727936,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 214.70399999999998,
+      "top": 3.7439999999999998,
+      "x1": 223.2,
+      "bottom": 11.952,
+      "confidence": 96.820686,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "law’",
+      "x0": 227.23199999999997,
+      "top": 3.888,
+      "x1": 244.79999999999995,
+      "bottom": 11.952,
+      "confidence": 96.7892,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "found",
+      "x0": 248.688,
+      "top": 3.7439999999999998,
+      "x1": 275.472,
+      "bottom": 11.952,
+      "confidence": 96.769577,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "its",
+      "x0": 279.792,
+      "top": 3.888,
+      "x1": 289.72799999999995,
+      "bottom": 11.952,
+      "confidence": 96.58976,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "reference",
+      "x0": 294.048,
+      "top": 3.7439999999999998,
+      "x1": 339.264,
+      "bottom": 11.952,
+      "confidence": 96.522057,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 343.152,
+      "top": 3.888,
+      "x1": 360.43199999999996,
+      "bottom": 11.952,
+      "confidence": 96.225891,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "recognition",
+      "x0": 365.03999999999996,
+      "top": 3.888,
+      "x1": 417.31199999999995,
+      "bottom": 14.111999999999998,
+      "confidence": 95.565323,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "for",
+      "x0": 421.2,
+      "top": 3.7439999999999998,
+      "x1": 433.872,
+      "bottom": 11.952,
+      "confidence": 95.565323,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 437.18399999999997,
+      "top": 3.888,
+      "x1": 451.87199999999996,
+      "bottom": 11.952,
+      "confidence": 96.938477,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "first",
+      "x0": 455.472,
+      "top": 3.7439999999999998,
+      "x1": 472.89599999999996,
+      "bottom": 11.952,
+      "confidence": 96.268852,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "time",
+      "x0": 476.352,
+      "top": 3.888,
+      "x1": 496.512,
+      "bottom": 11.952,
+      "confidence": 96.519432,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 500.688,
+      "top": 3.888,
+      "x1": 507.888,
+      "bottom": 11.808,
+      "confidence": 95.726768,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "which",
+      "x0": 511.77599999999995,
+      "top": 3.888,
+      "x1": 538.992,
+      "bottom": 11.952,
+      "confidence": 96.633049,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 543.168,
+      "top": 3.7439999999999998,
+      "x1": 551.808,
+      "bottom": 11.952,
+      "confidence": 96.864601,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 117.216,
+      "top": 19.584,
+      "x1": 131.904,
+      "bottom": 27.648,
+      "confidence": 96.261536,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "following?",
+      "x0": 135.504,
+      "top": 19.584,
+      "x1": 183.6,
+      "bottom": 29.951999999999998,
+      "confidence": 95.971024,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(A)",
+      "x0": 116.064,
+      "top": 37.296,
+      "x1": 129.31199999999998,
+      "bottom": 47.664,
+      "confidence": 96.763,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Earth",
+      "x0": 136.944,
+      "top": 37.44,
+      "x1": 161.56799999999998,
+      "bottom": 45.504,
+      "confidence": 95.773598,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Summit,",
+      "x0": 165.88799999999998,
+      "top": 37.296,
+      "x1": 204.76799999999997,
+      "bottom": 46.944,
+      "confidence": 95.773598,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "2002.",
+      "x0": 209.088,
+      "top": 37.583999999999996,
+      "x1": 235.296,
+      "bottom": 45.504,
+      "confidence": 96.326118,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(B)",
+      "x0": 116.064,
+      "top": 55.151999999999994,
+      "x1": 129.31199999999998,
+      "bottom": 65.37599999999999,
+      "confidence": 89.616058,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "UNEP’s",
+      "x0": 136.79999999999998,
+      "top": 55.29599999999999,
+      "x1": 174.09599999999998,
+      "bottom": 63.35999999999999,
+      "confidence": 89.616058,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Governing",
+      "x0": 178.128,
+      "top": 55.007999999999996,
+      "x1": 227.664,
+      "bottom": 65.52,
+      "confidence": 96.623177,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Council",
+      "x0": 231.83999999999997,
+      "top": 55.007999999999996,
+      "x1": 267.26399999999995,
+      "bottom": 63.35999999999999,
+      "confidence": 96.59214,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Decision",
+      "x0": 272.01599999999996,
+      "top": 55.29599999999999,
+      "x1": 312.62399999999997,
+      "bottom": 63.35999999999999,
+      "confidence": 96.566734,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "27/9,",
+      "x0": 316.65599999999995,
+      "top": 55.007999999999996,
+      "x1": 339.8399999999999,
+      "bottom": 64.8,
+      "confidence": 96.579819,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "2013",
+      "x0": 344.15999999999997,
+      "top": 55.44,
+      "x1": 367.91999999999996,
+      "bottom": 63.36,
+      "confidence": 96.591995,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(C)",
+      "x0": 115.48799999999999,
+      "top": 72.86399999999999,
+      "x1": 129.31199999999998,
+      "bottom": 83.23199999999999,
+      "confidence": 92.060249,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "1%",
+      "x0": 137.088,
+      "top": 73.152,
+      "x1": 146.88,
+      "bottom": 80.928,
+      "confidence": 58.535736,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Africa",
+      "x0": 150.33599999999998,
+      "top": 73.008,
+      "x1": 177.98399999999998,
+      "bottom": 81.072,
+      "confidence": 95.081421,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Colloquium",
+      "x0": 181.87199999999999,
+      "top": 72.86399999999999,
+      "x1": 235.58399999999997,
+      "bottom": 83.23199999999999,
+      "confidence": 76.805176,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "at",
+      "x0": 239.76,
+      "top": 73.58399999999999,
+      "x1": 248.39999999999998,
+      "bottom": 81.07199999999999,
+      "confidence": 96.547699,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Nairobi,",
+      "x0": 252.432,
+      "top": 73.008,
+      "x1": 288.57599999999996,
+      "bottom": 82.512,
+      "confidence": 95.570358,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "2015.",
+      "x0": 292.89599999999996,
+      "top": 73.152,
+      "x1": 319.1039999999999,
+      "bottom": 81.21600000000001,
+      "confidence": 96.850861,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "(D)",
+      "x0": 115.48799999999999,
+      "top": 90.72,
+      "x1": 129.31199999999998,
+      "bottom": 101.088,
+      "confidence": 92.78096,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Earth",
+      "x0": 136.944,
+      "top": 90.86399999999999,
+      "x1": 161.56799999999998,
+      "bottom": 98.928,
+      "confidence": 93.280807,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Summit+5",
+      "x0": 165.88799999999998,
+      "top": 90.576,
+      "x1": 214.70399999999998,
+      "bottom": 98.928,
+      "confidence": 92.427124,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

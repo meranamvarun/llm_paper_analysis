@@ -1,0 +1,1142 @@
+{
+  "pdf_page": 195,
+  "crop_top": 126.07999999999998,
+  "crop_bottom": 247.84,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0195:l0001:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "9. Consider the statements:",
+      "bbox": [
+        96.624,
+        4.175999999999999,
+        228.95999999999998,
+        12.384
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "(1) The moralistic philosophy always strives to encroach into the area of morality of",
+      "bbox": [
+        115.19999999999999,
+        18.144,
+        513.36,
+        28.224
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "aspiration to bring it as duty for the social living.",
+      "bbox": [
+        129.744,
+        31.967999999999996,
+        353.23199999999997,
+        42.047999999999995
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(Il) The moralistic philosophers compel us to embrace the pattern of human conduct,",
+      "bbox": [
+        112.17599999999999,
+        45.647999999999996,
+        512.64,
+        55.728
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "instead of making us realize a pattern of life that is worthy of human nature.",
+      "bbox": [
+        130.03199999999998,
+        59.61599999999999,
+        484.70399999999995,
+        69.696
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "Choose the correct answer from the code given below.",
+      "bbox": [
+        111.312,
+        80.064,
+        368.63999999999993,
+        90.28799999999998
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "(A) Both (I) and (Il) are true. (B) Both (I) and (Il) are untrue.",
+      "bbox": [
+        111.02399999999999,
+        93.88799999999999,
+        443.808,
+        103.96799999999999
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "(C) (I) is true and (Il) is untrue. (D) (Il) is true and (I) is untrue.",
+      "bbox": [
+        110.448,
+        107.71199999999999,
+        443.23199999999997,
+        117.79199999999999
+      ]
+    }
+  ],
+  "text": "9. Consider the statements:\n(1) The moralistic philosophy always strives to encroach into the area of morality of\naspiration to bring it as duty for the social living.\n(Il) The moralistic philosophers compel us to embrace the pattern of human conduct,\ninstead of making us realize a pattern of life that is worthy of human nature.\nChoose the correct answer from the code given below.\n(A) Both (I) and (Il) are true. (B) Both (I) and (Il) are untrue.\n(C) (I) is true and (Il) is untrue. (D) (Il) is true and (I) is untrue.",
+  "ocr_words": [
+    {
+      "text": "9.",
+      "x0": 96.624,
+      "top": 4.608,
+      "x1": 104.112,
+      "bottom": 12.384,
+      "confidence": 96.055687,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Consider",
+      "x0": 111.312,
+      "top": 4.175999999999999,
+      "x1": 153.648,
+      "bottom": 12.384,
+      "confidence": 96.455971,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 156.81599999999997,
+      "top": 4.4639999999999995,
+      "x1": 171.07199999999997,
+      "bottom": 12.239999999999998,
+      "confidence": 96.667244,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "statements:",
+      "x0": 174.81599999999997,
+      "top": 4.896,
+      "x1": 228.95999999999998,
+      "bottom": 12.239999999999998,
+      "confidence": 96.372192,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(1)",
+      "x0": 115.19999999999999,
+      "top": 18.144,
+      "x1": 123.83999999999999,
+      "bottom": 28.08,
+      "confidence": 50.110687,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "The",
+      "x0": 129.456,
+      "top": 18.288,
+      "x1": 147.31199999999998,
+      "bottom": 26.064,
+      "confidence": 96.371902,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "moralistic",
+      "x0": 152.208,
+      "top": 18.288,
+      "x1": 196.416,
+      "bottom": 26.064,
+      "confidence": 96.724152,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "philosophy",
+      "x0": 200.88,
+      "top": 18.288,
+      "x1": 251.28,
+      "bottom": 28.224,
+      "confidence": 96.183578,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "always",
+      "x0": 255.6,
+      "top": 18.288,
+      "x1": 287.424,
+      "bottom": 28.224,
+      "confidence": 96.303635,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "strives",
+      "x0": 291.888,
+      "top": 18.288,
+      "x1": 322.128,
+      "bottom": 26.064,
+      "confidence": 96.892349,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "to",
+      "x0": 326.304,
+      "top": 18.72,
+      "x1": 334.65599999999995,
+      "bottom": 26.064,
+      "confidence": 96.859581,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "encroach",
+      "x0": 339.11999999999995,
+      "top": 18.288,
+      "x1": 382.0319999999999,
+      "bottom": 26.064,
+      "confidence": 95.255157,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "into",
+      "x0": 387.07199999999995,
+      "top": 18.288,
+      "x1": 403.34399999999994,
+      "bottom": 26.064,
+      "confidence": 95.255157,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 407.52,
+      "top": 18.288,
+      "x1": 421.77599999999995,
+      "bottom": 26.064,
+      "confidence": 96.183029,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "area",
+      "x0": 426.23999999999995,
+      "top": 20.16,
+      "x1": 446.97599999999994,
+      "bottom": 26.064,
+      "confidence": 96.812439,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 451.296,
+      "top": 18.144,
+      "x1": 459.64799999999997,
+      "bottom": 26.063999999999997,
+      "confidence": 96.454773,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "morality",
+      "x0": 464.256,
+      "top": 18.288,
+      "x1": 500.832,
+      "bottom": 28.224,
+      "confidence": 96.477478,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 505.008,
+      "top": 18.144,
+      "x1": 513.36,
+      "bottom": 26.063999999999997,
+      "confidence": 96.652077,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "aspiration",
+      "x0": 129.744,
+      "top": 32.111999999999995,
+      "x1": 175.10399999999998,
+      "bottom": 41.903999999999996,
+      "confidence": 96.273361,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "to",
+      "x0": 178.84799999999998,
+      "top": 32.544,
+      "x1": 187.344,
+      "bottom": 39.888,
+      "confidence": 96.514648,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "bring",
+      "x0": 191.232,
+      "top": 32.111999999999995,
+      "x1": 213.84,
+      "bottom": 42.047999999999995,
+      "confidence": 96.843918,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "it",
+      "x0": 218.16,
+      "top": 32.111999999999995,
+      "x1": 222.48,
+      "bottom": 39.74399999999999,
+      "confidence": 95.729897,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "as",
+      "x0": 226.07999999999998,
+      "top": 33.983999999999995,
+      "x1": 236.59199999999998,
+      "bottom": 39.88799999999999,
+      "confidence": 95.729897,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "duty",
+      "x0": 240.33599999999998,
+      "top": 32.111999999999995,
+      "x1": 260.06399999999996,
+      "bottom": 42.047999999999995,
+      "confidence": 96.559608,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "for",
+      "x0": 263.376,
+      "top": 31.967999999999996,
+      "x1": 275.616,
+      "bottom": 39.888,
+      "confidence": 96.078194,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "the",
+      "x0": 278.784,
+      "top": 32.111999999999995,
+      "x1": 293.03999999999996,
+      "bottom": 39.88799999999999,
+      "confidence": 96.771996,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "social",
+      "x0": 296.784,
+      "top": 32.111999999999995,
+      "x1": 323.13599999999997,
+      "bottom": 39.88799999999999,
+      "confidence": 95.597092,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "living.",
+      "x0": 327.45599999999996,
+      "top": 32.111999999999995,
+      "x1": 353.23199999999997,
+      "bottom": 42.047999999999995,
+      "confidence": 96.657036,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(Il)",
+      "x0": 112.17599999999999,
+      "top": 45.647999999999996,
+      "x1": 123.83999999999999,
+      "bottom": 55.727999999999994,
+      "confidence": 76.838531,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "The",
+      "x0": 129.456,
+      "top": 45.936,
+      "x1": 147.31199999999998,
+      "bottom": 53.712,
+      "confidence": 96.178497,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "moralistic",
+      "x0": 151.488,
+      "top": 45.936,
+      "x1": 195.696,
+      "bottom": 53.712,
+      "confidence": 96.128677,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "philosophers",
+      "x0": 199.72799999999998,
+      "top": 45.936,
+      "x1": 259.344,
+      "bottom": 55.728,
+      "confidence": 96.128677,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "compel",
+      "x0": 263.08799999999997,
+      "top": 45.936,
+      "x1": 296.496,
+      "bottom": 55.728,
+      "confidence": 96.614922,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "us",
+      "x0": 300.96,
+      "top": 47.808,
+      "x1": 311.18399999999997,
+      "bottom": 53.712,
+      "confidence": 96.885597,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "to",
+      "x0": 314.784,
+      "top": 46.367999999999995,
+      "x1": 323.13599999999997,
+      "bottom": 53.711999999999996,
+      "confidence": 96.425339,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "embrace",
+      "x0": 327.024,
+      "top": 45.936,
+      "x1": 367.776,
+      "bottom": 53.712,
+      "confidence": 96.402473,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "the",
+      "x0": 371.376,
+      "top": 45.936,
+      "x1": 385.63199999999995,
+      "bottom": 53.712,
+      "confidence": 96.503426,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "pattern",
+      "x0": 389.664,
+      "top": 46.367999999999995,
+      "x1": 421.77599999999995,
+      "bottom": 55.727999999999994,
+      "confidence": 95.944908,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "of",
+      "x0": 425.808,
+      "top": 45.791999999999994,
+      "x1": 434.15999999999997,
+      "bottom": 53.711999999999996,
+      "confidence": 95.743622,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "human",
+      "x0": 438.04799999999994,
+      "top": 45.936,
+      "x1": 469.43999999999994,
+      "bottom": 53.712,
+      "confidence": 95.743622,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "conduct,",
+      "x0": 473.472,
+      "top": 45.936,
+      "x1": 512.64,
+      "bottom": 55.152,
+      "confidence": 92.962128,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "instead",
+      "x0": 130.03199999999998,
+      "top": 59.61599999999999,
+      "x1": 163.296,
+      "bottom": 67.53599999999999,
+      "confidence": 96.252571,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "of",
+      "x0": 167.184,
+      "top": 59.61599999999999,
+      "x1": 175.536,
+      "bottom": 67.53599999999999,
+      "confidence": 95.920654,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "making",
+      "x0": 179.42399999999998,
+      "top": 59.61599999999999,
+      "x1": 212.688,
+      "bottom": 69.696,
+      "confidence": 95.920654,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "us",
+      "x0": 216.86399999999998,
+      "top": 61.632,
+      "x1": 227.08799999999997,
+      "bottom": 67.536,
+      "confidence": 96.630386,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "realize",
+      "x0": 231.26399999999998,
+      "top": 59.61599999999999,
+      "x1": 261.50399999999996,
+      "bottom": 67.53599999999999,
+      "confidence": 96.442604,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "a",
+      "x0": 265.392,
+      "top": 61.632,
+      "x1": 270.576,
+      "bottom": 67.536,
+      "confidence": 95.175438,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "pattern",
+      "x0": 274.464,
+      "top": 60.19199999999999,
+      "x1": 306.432,
+      "bottom": 69.55199999999999,
+      "confidence": 96.05471,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "of",
+      "x0": 310.608,
+      "top": 59.61599999999999,
+      "x1": 318.96,
+      "bottom": 67.53599999999999,
+      "confidence": 96.05471,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "life",
+      "x0": 322.70399999999995,
+      "top": 59.61599999999999,
+      "x1": 335.376,
+      "bottom": 67.53599999999999,
+      "confidence": 96.544456,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "that",
+      "x0": 338.832,
+      "top": 59.61599999999999,
+      "x1": 356.4,
+      "bottom": 67.53599999999999,
+      "confidence": 96.780609,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "is",
+      "x0": 360.28799999999995,
+      "top": 59.61599999999999,
+      "x1": 366.912,
+      "bottom": 67.53599999999999,
+      "confidence": 96.765465,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "worthy",
+      "x0": 370.368,
+      "top": 59.61599999999999,
+      "x1": 401.616,
+      "bottom": 69.696,
+      "confidence": 96.654655,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "of",
+      "x0": 405.07199999999995,
+      "top": 59.61599999999999,
+      "x1": 413.4239999999999,
+      "bottom": 67.53599999999999,
+      "confidence": 96.359154,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "human",
+      "x0": 417.31199999999995,
+      "top": 59.61599999999999,
+      "x1": 448.70399999999995,
+      "bottom": 67.53599999999999,
+      "confidence": 96.359154,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "nature.",
+      "x0": 453.02399999999994,
+      "top": 60.19199999999999,
+      "x1": 484.70399999999995,
+      "bottom": 67.53599999999999,
+      "confidence": 95.522499,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Choose",
+      "x0": 111.312,
+      "top": 80.064,
+      "x1": 147.312,
+      "bottom": 88.12799999999999,
+      "confidence": 95.861816,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 150.91199999999998,
+      "top": 80.35199999999999,
+      "x1": 165.16799999999998,
+      "bottom": 88.12799999999999,
+      "confidence": 95.861816,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "correct",
+      "x0": 168.91199999999998,
+      "top": 80.78399999999999,
+      "x1": 201.02399999999997,
+      "bottom": 88.12799999999999,
+      "confidence": 96.45314,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "answer",
+      "x0": 204.624,
+      "top": 82.22399999999999,
+      "x1": 238.752,
+      "bottom": 88.12799999999999,
+      "confidence": 95.994217,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "from",
+      "x0": 241.92,
+      "top": 80.208,
+      "x1": 262.368,
+      "bottom": 88.128,
+      "confidence": 95.994217,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 266.256,
+      "top": 80.35199999999999,
+      "x1": 280.51199999999994,
+      "bottom": 88.12799999999999,
+      "confidence": 95.787262,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "code",
+      "x0": 284.256,
+      "top": 80.35199999999999,
+      "x1": 306.71999999999997,
+      "bottom": 88.12799999999999,
+      "confidence": 95.787262,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "given",
+      "x0": 310.464,
+      "top": 80.35199999999999,
+      "x1": 334.944,
+      "bottom": 90.28799999999998,
+      "confidence": 96.27578,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "below.",
+      "x0": 339.26399999999995,
+      "top": 80.35199999999999,
+      "x1": 368.63999999999993,
+      "bottom": 88.12799999999999,
+      "confidence": 96.953255,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 111.02399999999999,
+      "top": 93.88799999999999,
+      "x1": 123.83999999999999,
+      "bottom": 103.96799999999999,
+      "confidence": 96.744904,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Both",
+      "x0": 130.176,
+      "top": 94.17599999999999,
+      "x1": 150.624,
+      "bottom": 101.95199999999998,
+      "confidence": 96.657516,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(I)",
+      "x0": 155.088,
+      "top": 93.88799999999999,
+      "x1": 163.72799999999998,
+      "bottom": 103.96799999999999,
+      "confidence": 77.773628,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "and",
+      "x0": 167.76,
+      "top": 94.17599999999999,
+      "x1": 184.608,
+      "bottom": 101.95199999999998,
+      "confidence": 96.851692,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(Il)",
+      "x0": 188.928,
+      "top": 93.88799999999999,
+      "x1": 200.59199999999998,
+      "bottom": 103.96799999999999,
+      "confidence": 75.588921,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "are",
+      "x0": 204.624,
+      "top": 96.04799999999999,
+      "x1": 219.31199999999998,
+      "bottom": 101.95199999999998,
+      "confidence": 96.331764,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "true.",
+      "x0": 222.91199999999998,
+      "top": 94.60799999999999,
+      "x1": 243.21599999999998,
+      "bottom": 101.95199999999998,
+      "confidence": 96.840706,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(B)",
+      "x0": 298.65599999999995,
+      "top": 93.88799999999999,
+      "x1": 311.4719999999999,
+      "bottom": 103.96799999999999,
+      "confidence": 90.212509,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Both",
+      "x0": 318.816,
+      "top": 94.17599999999999,
+      "x1": 339.40799999999996,
+      "bottom": 101.95199999999998,
+      "confidence": 96.78289,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(I)",
+      "x0": 343.72799999999995,
+      "top": 93.88799999999999,
+      "x1": 352.36799999999994,
+      "bottom": 103.96799999999999,
+      "confidence": 74.008202,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "and",
+      "x0": 356.544,
+      "top": 94.17599999999999,
+      "x1": 373.392,
+      "bottom": 101.95199999999998,
+      "confidence": 96.743095,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(Il)",
+      "x0": 377.712,
+      "top": 93.88799999999999,
+      "x1": 389.23199999999997,
+      "bottom": 103.96799999999999,
+      "confidence": 78.800888,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "are",
+      "x0": 393.40799999999996,
+      "top": 96.04799999999999,
+      "x1": 408.09599999999995,
+      "bottom": 101.95199999999998,
+      "confidence": 96.362701,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "untrue.",
+      "x0": 412.128,
+      "top": 94.60799999999999,
+      "x1": 443.808,
+      "bottom": 101.95199999999998,
+      "confidence": 96.037552,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(C)",
+      "x0": 110.448,
+      "top": 107.71199999999999,
+      "x1": 123.83999999999999,
+      "bottom": 117.79199999999999,
+      "confidence": 91.14563,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(I)",
+      "x0": 130.03199999999998,
+      "top": 107.71199999999999,
+      "x1": 138.81599999999997,
+      "bottom": 117.79199999999999,
+      "confidence": 73.041512,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "is",
+      "x0": 143.136,
+      "top": 107.99999999999999,
+      "x1": 149.76,
+      "bottom": 115.77599999999998,
+      "confidence": 96.091118,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "true",
+      "x0": 153.35999999999999,
+      "top": 108.43199999999999,
+      "x1": 171.21599999999998,
+      "bottom": 115.77599999999998,
+      "confidence": 96.314209,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "and",
+      "x0": 174.95999999999998,
+      "top": 107.99999999999999,
+      "x1": 191.808,
+      "bottom": 115.77599999999998,
+      "confidence": 96.030769,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(Il)",
+      "x0": 196.128,
+      "top": 107.71199999999999,
+      "x1": 207.79199999999997,
+      "bottom": 117.79199999999999,
+      "confidence": 80.353325,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "is",
+      "x0": 212.112,
+      "top": 107.99999999999999,
+      "x1": 218.736,
+      "bottom": 115.77599999999998,
+      "confidence": 96.810112,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "untrue.",
+      "x0": 222.91199999999998,
+      "top": 108.43199999999999,
+      "x1": 254.59199999999998,
+      "bottom": 115.77599999999998,
+      "confidence": 96.819283,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(D)",
+      "x0": 298.08,
+      "top": 107.71199999999999,
+      "x1": 311.472,
+      "bottom": 117.79199999999999,
+      "confidence": 92.724747,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(Il)",
+      "x0": 318.816,
+      "top": 107.71199999999999,
+      "x1": 330.47999999999996,
+      "bottom": 117.79199999999999,
+      "confidence": 71.5298,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "is",
+      "x0": 334.79999999999995,
+      "top": 107.99999999999999,
+      "x1": 341.424,
+      "bottom": 115.77599999999998,
+      "confidence": 96.738235,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "true",
+      "x0": 345.024,
+      "top": 108.43199999999999,
+      "x1": 362.88,
+      "bottom": 115.77599999999998,
+      "confidence": 93.847839,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "and",
+      "x0": 366.62399999999997,
+      "top": 107.99999999999999,
+      "x1": 383.472,
+      "bottom": 115.77599999999998,
+      "confidence": 96.603928,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(I)",
+      "x0": 387.792,
+      "top": 107.71199999999999,
+      "x1": 396.43199999999996,
+      "bottom": 117.79199999999999,
+      "confidence": 72.686081,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "is",
+      "x0": 400.89599999999996,
+      "top": 107.99999999999999,
+      "x1": 407.52,
+      "bottom": 115.77599999999998,
+      "confidence": 96.407547,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "untrue.",
+      "x0": 411.55199999999996,
+      "top": 108.43199999999999,
+      "x1": 443.23199999999997,
+      "bottom": 115.77599999999998,
+      "confidence": 96.600365,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

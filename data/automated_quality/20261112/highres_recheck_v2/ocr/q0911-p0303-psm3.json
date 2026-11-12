@@ -1,0 +1,594 @@
+{
+  "pdf_page": 303,
+  "crop_top": 460.70279999999997,
+  "crop_bottom": 552.9428,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0303:l0018:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "65. The National Commission for Backward Classes was created by:",
+      "bbox": [
+        46.8,
+        4.859999999999999,
+        400.86,
+        15.12
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "(A) The Constitution (One Hundred and First Amendment) Act, 2016",
+      "bbox": [
+        75.24,
+        23.22,
+        435.78,
+        33.48
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(B) The Constitution (One Hundred and Second Amendment) Act, 2018",
+      "bbox": [
+        75.24,
+        41.58,
+        446.58,
+        51.839999999999996
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(C) The Constitution (One Hundred and Third Amendment) Act, 2019",
+      "bbox": [
+        75.24,
+        59.76,
+        439.56,
+        70.02
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(D) The Constitution (One Hundredth Amendment) Act, 2015",
+      "bbox": [
+        75.24,
+        77.94,
+        396.35999999999996,
+        88.2
+      ]
+    }
+  ],
+  "text": "65. The National Commission for Backward Classes was created by:\n(A) The Constitution (One Hundred and First Amendment) Act, 2016\n(B) The Constitution (One Hundred and Second Amendment) Act, 2018\n(C) The Constitution (One Hundred and Third Amendment) Act, 2019\n(D) The Constitution (One Hundredth Amendment) Act, 2015",
+  "ocr_words": [
+    {
+      "text": "65.",
+      "x0": 46.8,
+      "top": 5.3999999999999995,
+      "x1": 60.66,
+      "bottom": 13.139999999999999,
+      "confidence": 95.039169,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 74.88,
+      "top": 4.859999999999999,
+      "x1": 93.78,
+      "bottom": 13.139999999999999,
+      "confidence": 91.517906,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "National",
+      "x0": 97.74,
+      "top": 4.859999999999999,
+      "x1": 141.66,
+      "bottom": 13.139999999999999,
+      "confidence": 96.167679,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Commission",
+      "x0": 145.79999999999998,
+      "top": 4.859999999999999,
+      "x1": 206.99999999999997,
+      "bottom": 13.139999999999999,
+      "confidence": 96.167679,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "for",
+      "x0": 210.6,
+      "top": 4.859999999999999,
+      "x1": 224.28,
+      "bottom": 13.139999999999999,
+      "confidence": 95.702576,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Backward",
+      "x0": 228.06,
+      "top": 4.859999999999999,
+      "x1": 278.64,
+      "bottom": 13.139999999999999,
+      "confidence": 96.168861,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Classes",
+      "x0": 282.59999999999997,
+      "top": 4.859999999999999,
+      "x1": 319.67999999999995,
+      "bottom": 13.139999999999999,
+      "confidence": 96.743546,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "was",
+      "x0": 323.46,
+      "top": 7.739999999999999,
+      "x1": 342.53999999999996,
+      "bottom": 13.139999999999999,
+      "confidence": 96.449066,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "created",
+      "x0": 346.32,
+      "top": 4.859999999999999,
+      "x1": 383.21999999999997,
+      "bottom": 13.139999999999999,
+      "confidence": 96.398544,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "by:",
+      "x0": 386.64,
+      "top": 4.859999999999999,
+      "x1": 400.86,
+      "bottom": 15.12,
+      "confidence": 96.206596,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 75.24,
+      "top": 23.22,
+      "x1": 89.1,
+      "bottom": 33.48,
+      "confidence": 96.985977,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(B)",
+      "x0": 75.24,
+      "top": 41.58,
+      "x1": 89.1,
+      "bottom": 51.839999999999996,
+      "confidence": 92.410027,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(C)",
+      "x0": 75.24,
+      "top": 59.76,
+      "x1": 89.1,
+      "bottom": 70.02,
+      "confidence": 93.069542,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(D)",
+      "x0": 75.24,
+      "top": 78.11999999999999,
+      "x1": 89.82,
+      "bottom": 88.19999999999999,
+      "confidence": 92.728119,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "The",
+      "x0": 103.14,
+      "top": 23.22,
+      "x1": 122.03999999999999,
+      "bottom": 31.5,
+      "confidence": 96.364159,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Constitution",
+      "x0": 126.36,
+      "top": 23.22,
+      "x1": 189.36,
+      "bottom": 31.5,
+      "confidence": 96.116974,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(One",
+      "x0": 193.32,
+      "top": 23.22,
+      "x1": 216.72,
+      "bottom": 33.48,
+      "confidence": 95.935692,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Hundred",
+      "x0": 220.5,
+      "top": 23.22,
+      "x1": 265.5,
+      "bottom": 31.5,
+      "confidence": 96.079605,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 269.46,
+      "top": 23.22,
+      "x1": 287.82,
+      "bottom": 31.5,
+      "confidence": 96.855858,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "First",
+      "x0": 291.59999999999997,
+      "top": 23.22,
+      "x1": 315.9,
+      "bottom": 31.5,
+      "confidence": 96.538139,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Amendment)",
+      "x0": 318.96,
+      "top": 23.22,
+      "x1": 384.65999999999997,
+      "bottom": 33.48,
+      "confidence": 96.641022,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Act,",
+      "x0": 388.44,
+      "top": 23.22,
+      "x1": 407.7,
+      "bottom": 33.12,
+      "confidence": 96.705055,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2016",
+      "x0": 412.2,
+      "top": 23.759999999999998,
+      "x1": 435.78,
+      "bottom": 31.499999999999996,
+      "confidence": 96.720421,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 103.14,
+      "top": 41.58,
+      "x1": 122.03999999999999,
+      "bottom": 49.86,
+      "confidence": 95.94603,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Constitution",
+      "x0": 126.36,
+      "top": 41.58,
+      "x1": 189.36,
+      "bottom": 49.86,
+      "confidence": 96.510902,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(One",
+      "x0": 193.32,
+      "top": 41.58,
+      "x1": 216.72,
+      "bottom": 51.839999999999996,
+      "confidence": 94.821457,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Hundred",
+      "x0": 220.5,
+      "top": 41.58,
+      "x1": 265.5,
+      "bottom": 49.86,
+      "confidence": 96.07061,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "and",
+      "x0": 269.46,
+      "top": 41.58,
+      "x1": 287.82,
+      "bottom": 49.86,
+      "confidence": 96.706161,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Second",
+      "x0": 291.59999999999997,
+      "top": 41.58,
+      "x1": 326.7,
+      "bottom": 49.86,
+      "confidence": 96.283318,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Amendment)",
+      "x0": 329.76,
+      "top": 41.58,
+      "x1": 395.46,
+      "bottom": 51.839999999999996,
+      "confidence": 95.951241,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Act,",
+      "x0": 399.06,
+      "top": 41.58,
+      "x1": 418.5,
+      "bottom": 51.48,
+      "confidence": 96.25753,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "2018",
+      "x0": 423.0,
+      "top": 42.12,
+      "x1": 446.58,
+      "bottom": 49.86,
+      "confidence": 96.45887,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "The",
+      "x0": 103.14,
+      "top": 59.94,
+      "x1": 122.03999999999999,
+      "bottom": 68.03999999999999,
+      "confidence": 95.971169,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Constitution",
+      "x0": 126.36,
+      "top": 59.76,
+      "x1": 189.36,
+      "bottom": 68.22,
+      "confidence": 95.916786,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(One",
+      "x0": 193.32,
+      "top": 59.76,
+      "x1": 216.72,
+      "bottom": 70.02,
+      "confidence": 95.902626,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Hundred",
+      "x0": 220.5,
+      "top": 59.94,
+      "x1": 265.5,
+      "bottom": 68.03999999999999,
+      "confidence": 95.902626,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "and",
+      "x0": 269.46,
+      "top": 59.94,
+      "x1": 287.82,
+      "bottom": 68.03999999999999,
+      "confidence": 96.208443,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Third",
+      "x0": 291.42,
+      "top": 59.94,
+      "x1": 319.5,
+      "bottom": 68.03999999999999,
+      "confidence": 96.208443,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Amendment)",
+      "x0": 322.74,
+      "top": 59.76,
+      "x1": 388.26,
+      "bottom": 70.02,
+      "confidence": 96.115021,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Act,",
+      "x0": 391.86,
+      "top": 59.76,
+      "x1": 411.3,
+      "bottom": 69.66,
+      "confidence": 96.381721,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "2019",
+      "x0": 415.8,
+      "top": 60.3,
+      "x1": 439.56,
+      "bottom": 68.03999999999999,
+      "confidence": 96.534042,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "The",
+      "x0": 103.14,
+      "top": 78.11999999999999,
+      "x1": 122.03999999999999,
+      "bottom": 86.39999999999999,
+      "confidence": 96.127136,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Constitution",
+      "x0": 126.36,
+      "top": 77.94,
+      "x1": 189.36,
+      "bottom": 86.39999999999999,
+      "confidence": 96.098068,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(One",
+      "x0": 193.32,
+      "top": 77.94,
+      "x1": 216.72,
+      "bottom": 88.2,
+      "confidence": 92.805496,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Hundredth",
+      "x0": 220.5,
+      "top": 78.11999999999999,
+      "x1": 276.48,
+      "bottom": 86.39999999999999,
+      "confidence": 91.970985,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Amendment)",
+      "x0": 279.71999999999997,
+      "top": 77.94,
+      "x1": 345.23999999999995,
+      "bottom": 88.2,
+      "confidence": 95.860397,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Act,",
+      "x0": 349.02,
+      "top": 77.94,
+      "x1": 368.46,
+      "bottom": 88.02,
+      "confidence": 96.621262,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "2015",
+      "x0": 372.78,
+      "top": 78.48,
+      "x1": 396.35999999999996,
+      "bottom": 86.4,
+      "confidence": 96.180725,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

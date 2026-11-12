@@ -1,0 +1,492 @@
+{
+  "pdf_page": 383,
+  "crop_top": 571.12136,
+  "crop_bottom": 672.24136,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0383:l0035:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.14 Which of the following was the famous work of Jermy Bentham?",
+      "bbox": [
+        41.94,
+        4.32,
+        263.34,
+        10.98
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Ans A",
+      "bbox": [
+        43.379999999999995,
+        15.12,
+        87.66,
+        28.619999999999997
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "1. Limits of Jurisprudence Defined",
+      "bbox": [
+        88.56,
+        25.919999999999998,
+        190.62,
+        32.4
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "ra",
+      "bbox": [
+        72.36,
+        36.72,
+        86.75999999999999,
+        54.54
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "2. The Concept of Law",
+      "bbox": [
+        88.38,
+        47.339999999999996,
+        155.16,
+        53.81999999999999
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        58.86,
+        93.06,
+        74.16
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "The Spirit of Law",
+      "bbox": [
+        95.39999999999999,
+        68.94,
+        145.8,
+        75.42
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        80.1,
+        93.06,
+        95.39999999999999
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "Province of Law Determined",
+      "bbox": [
+        95.94,
+        90.36,
+        181.07999999999998,
+        95.58
+      ]
+    }
+  ],
+  "text": "Q.14 Which of the following was the famous work of Jermy Bentham?\nAns A\n1. Limits of Jurisprudence Defined\nra\n2. The Concept of Law\nx,\nThe Spirit of Law\nx,\nProvince of Law Determined",
+  "ocr_words": [
+    {
+      "text": "Q.14",
+      "x0": 41.94,
+      "top": 4.68,
+      "x1": 56.16,
+      "bottom": 10.44,
+      "confidence": 92.222351,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Which",
+      "x0": 62.64,
+      "top": 4.5,
+      "x1": 81.72,
+      "bottom": 9.719999999999999,
+      "confidence": 95.812897,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 84.06,
+      "top": 4.5,
+      "x1": 90.36,
+      "bottom": 9.719999999999999,
+      "confidence": 96.080421,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 91.97999999999999,
+      "top": 4.5,
+      "x1": 102.05999999999999,
+      "bottom": 9.719999999999999,
+      "confidence": 96.570351,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 104.22,
+      "top": 4.5,
+      "x1": 133.01999999999998,
+      "bottom": 10.98,
+      "confidence": 96.078659,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "was",
+      "x0": 135.0,
+      "top": 5.9399999999999995,
+      "x1": 146.88,
+      "bottom": 9.719999999999999,
+      "confidence": 96.730476,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 148.85999999999999,
+      "top": 4.5,
+      "x1": 158.94,
+      "bottom": 9.719999999999999,
+      "confidence": 96.726707,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "famous",
+      "x0": 161.1,
+      "top": 4.5,
+      "x1": 183.95999999999998,
+      "bottom": 9.719999999999999,
+      "confidence": 96.542671,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "work",
+      "x0": 185.94,
+      "top": 4.5,
+      "x1": 201.6,
+      "bottom": 9.719999999999999,
+      "confidence": 96.513245,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 203.76,
+      "top": 4.32,
+      "x1": 209.88,
+      "bottom": 9.719999999999999,
+      "confidence": 93.020172,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Jermy",
+      "x0": 211.5,
+      "top": 4.859999999999999,
+      "x1": 230.04,
+      "bottom": 10.98,
+      "confidence": 92.367851,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Bentham?",
+      "x0": 232.38,
+      "top": 4.5,
+      "x1": 263.34,
+      "bottom": 9.719999999999999,
+      "confidence": 96.492371,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.379999999999995,
+      "top": 17.64,
+      "x1": 54.53999999999999,
+      "bottom": 22.5,
+      "confidence": 96.168167,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "A",
+      "x0": 73.8,
+      "top": 15.12,
+      "x1": 87.66,
+      "bottom": 28.619999999999997,
+      "confidence": 30.108795,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 88.56,
+      "top": 26.279999999999998,
+      "x1": 93.06,
+      "bottom": 30.959999999999997,
+      "confidence": 96.861053,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Limits",
+      "x0": 95.94,
+      "top": 26.099999999999998,
+      "x1": 113.03999999999999,
+      "bottom": 31.139999999999997,
+      "confidence": 96.957603,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 115.56,
+      "top": 25.919999999999998,
+      "x1": 120.96000000000001,
+      "bottom": 31.139999999999997,
+      "confidence": 96.848145,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Jurisprudence",
+      "x0": 122.94,
+      "top": 25.919999999999998,
+      "x1": 165.24,
+      "bottom": 32.4,
+      "confidence": 96.172188,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Defined",
+      "x0": 167.94,
+      "top": 25.919999999999998,
+      "x1": 190.62,
+      "bottom": 31.139999999999997,
+      "confidence": 96.433205,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "ra",
+      "x0": 72.36,
+      "top": 36.72,
+      "x1": 86.75999999999999,
+      "bottom": 54.54,
+      "confidence": 41.642242,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "2.",
+      "x0": 88.38,
+      "top": 47.519999999999996,
+      "x1": 93.06,
+      "bottom": 52.379999999999995,
+      "confidence": 94.57296,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "The",
+      "x0": 95.39999999999999,
+      "top": 47.339999999999996,
+      "x1": 106.19999999999999,
+      "bottom": 52.559999999999995,
+      "confidence": 96.35527,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Concept",
+      "x0": 108.72,
+      "top": 47.519999999999996,
+      "x1": 133.38,
+      "bottom": 53.81999999999999,
+      "confidence": 96.547668,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "of",
+      "x0": 135.54,
+      "top": 47.339999999999996,
+      "x1": 141.48,
+      "bottom": 52.559999999999995,
+      "confidence": 96.659683,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Law",
+      "x0": 143.82,
+      "top": 47.699999999999996,
+      "x1": 155.16,
+      "bottom": 52.559999999999995,
+      "confidence": 96.888367,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 58.86,
+      "x1": 93.06,
+      "bottom": 74.16,
+      "confidence": 71.5802,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "The",
+      "x0": 95.39999999999999,
+      "top": 68.94,
+      "x1": 106.19999999999999,
+      "bottom": 74.16,
+      "confidence": 95.900597,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Spirit",
+      "x0": 108.53999999999999,
+      "top": 69.12,
+      "x1": 124.02,
+      "bottom": 75.42,
+      "confidence": 95.900597,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "of",
+      "x0": 126.17999999999999,
+      "top": 68.94,
+      "x1": 132.29999999999998,
+      "bottom": 74.16,
+      "confidence": 96.438507,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Law",
+      "x0": 134.46,
+      "top": 69.3,
+      "x1": 145.8,
+      "bottom": 74.16,
+      "confidence": 96.438507,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 80.1,
+      "x1": 93.06,
+      "bottom": 95.39999999999999,
+      "confidence": 47.425919,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Province",
+      "x0": 95.94,
+      "top": 90.53999999999999,
+      "x1": 121.32,
+      "bottom": 95.58,
+      "confidence": 96.608902,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "of",
+      "x0": 123.66,
+      "top": 90.36,
+      "x1": 129.6,
+      "bottom": 95.58,
+      "confidence": 96.879494,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Law",
+      "x0": 131.94,
+      "top": 90.72,
+      "x1": 143.28,
+      "bottom": 95.58,
+      "confidence": 96.723572,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Determined",
+      "x0": 145.79999999999998,
+      "top": 90.36,
+      "x1": 181.07999999999998,
+      "bottom": 95.58,
+      "confidence": 95.986282,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

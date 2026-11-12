@@ -1,0 +1,514 @@
+{
+  "pdf_page": 393,
+  "crop_top": 644.08136,
+  "crop_bottom": 744.96136,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0393:l0040:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.19 Basic principles of award of compensation for breach of contract were laid down in:",
+      "bbox": [
+        41.903999999999996,
+        4.608,
+        322.27199999999993,
+        10.943999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Ans \"4",
+      "bbox": [
+        43.343999999999994,
+        14.543999999999999,
+        87.696,
+        29.087999999999997
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "1. Hadley v. Baxendale",
+      "bbox": [
+        88.55999999999999,
+        25.919999999999998,
+        156.23999999999998,
+        32.4
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "x,",
+      "bbox": [
+        73.008,
+        37.296,
+        91.29599999999999,
+        52.416
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "Solomon v. Solomon",
+      "bbox": [
+        95.616,
+        47.232,
+        157.392,
+        52.416
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "rad",
+      "bbox": [
+        73.008,
+        58.751999999999995,
+        86.544,
+        71.136
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "3. Harvey v. Facie",
+      "bbox": [
+        88.27199999999999,
+        68.832,
+        140.688,
+        75.024
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "x,",
+      "bbox": [
+        73.008,
+        80.064,
+        91.44,
+        95.184
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "Carllil v. Carbolic Smoke Ball Co.",
+      "bbox": [
+        95.616,
+        90.0,
+        191.808,
+        95.184
+      ]
+    }
+  ],
+  "text": "Q.19 Basic principles of award of compensation for breach of contract were laid down in:\nAns \"4\n1. Hadley v. Baxendale\nx,\nSolomon v. Solomon\nrad\n3. Harvey v. Facie\nx,\nCarllil v. Carbolic Smoke Ball Co.",
+  "ocr_words": [
+    {
+      "text": "Q.19",
+      "x0": 41.903999999999996,
+      "top": 4.896,
+      "x1": 56.01599999999999,
+      "bottom": 10.512,
+      "confidence": 91.567406,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Basic",
+      "x0": 62.928,
+      "top": 4.752,
+      "x1": 78.048,
+      "bottom": 9.792,
+      "confidence": 96.04528,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "principles",
+      "x0": 80.35199999999999,
+      "top": 4.608,
+      "x1": 109.87199999999999,
+      "bottom": 10.943999999999999,
+      "confidence": 95.891342,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 112.032,
+      "top": 4.608,
+      "x1": 118.22399999999999,
+      "bottom": 9.791999999999998,
+      "confidence": 96.496811,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "award",
+      "x0": 120.24,
+      "top": 4.608,
+      "x1": 139.10399999999998,
+      "bottom": 9.791999999999998,
+      "confidence": 96.271736,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 141.552,
+      "top": 4.608,
+      "x1": 147.744,
+      "bottom": 9.791999999999998,
+      "confidence": 95.735382,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "compensation",
+      "x0": 149.61599999999999,
+      "top": 4.752,
+      "x1": 193.248,
+      "bottom": 10.943999999999999,
+      "confidence": 95.455742,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "for",
+      "x0": 195.408,
+      "top": 4.608,
+      "x1": 204.33599999999998,
+      "bottom": 9.791999999999998,
+      "confidence": 95.455742,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "breach",
+      "x0": 206.64,
+      "top": 4.608,
+      "x1": 227.088,
+      "bottom": 9.791999999999998,
+      "confidence": 95.895744,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 229.392,
+      "top": 4.608,
+      "x1": 235.584,
+      "bottom": 9.791999999999998,
+      "confidence": 96.24485,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "contract",
+      "x0": 237.6,
+      "top": 5.327999999999999,
+      "x1": 262.944,
+      "bottom": 9.791999999999998,
+      "confidence": 96.24485,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "were",
+      "x0": 264.96,
+      "top": 6.047999999999999,
+      "x1": 280.368,
+      "bottom": 9.791999999999998,
+      "confidence": 96.99649,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "laid",
+      "x0": 282.816,
+      "top": 4.608,
+      "x1": 293.328,
+      "bottom": 9.791999999999998,
+      "confidence": 96.949005,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "down",
+      "x0": 295.77599999999995,
+      "top": 4.608,
+      "x1": 312.62399999999997,
+      "bottom": 9.791999999999998,
+      "confidence": 95.634048,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in:",
+      "x0": 315.21599999999995,
+      "top": 4.752,
+      "x1": 322.27199999999993,
+      "bottom": 9.648,
+      "confidence": 95.634048,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.343999999999994,
+      "top": 14.543999999999999,
+      "x1": 54.57599999999999,
+      "bottom": 24.912,
+      "confidence": 96.79808,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "\"4",
+      "x0": 73.728,
+      "top": 14.543999999999999,
+      "x1": 87.696,
+      "bottom": 29.087999999999997,
+      "confidence": 15.017235,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1.",
+      "x0": 88.55999999999999,
+      "top": 26.208,
+      "x1": 93.02399999999999,
+      "bottom": 31.104,
+      "confidence": 96.360298,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Hadley",
+      "x0": 95.904,
+      "top": 25.919999999999998,
+      "x1": 116.208,
+      "bottom": 32.4,
+      "confidence": 91.625824,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "v.",
+      "x0": 118.22399999999999,
+      "top": 27.503999999999998,
+      "x1": 122.832,
+      "bottom": 31.104,
+      "confidence": 90.159401,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Baxendale",
+      "x0": 125.56799999999998,
+      "top": 25.919999999999998,
+      "x1": 156.23999999999998,
+      "bottom": 31.104,
+      "confidence": 96.078644,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "x,",
+      "x0": 73.008,
+      "top": 37.296,
+      "x1": 91.29599999999999,
+      "bottom": 52.416,
+      "confidence": 54.427879,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Solomon",
+      "x0": 95.616,
+      "top": 47.232,
+      "x1": 121.67999999999999,
+      "bottom": 52.416,
+      "confidence": 93.225586,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "v.",
+      "x0": 124.12799999999999,
+      "top": 48.815999999999995,
+      "x1": 128.736,
+      "bottom": 52.416,
+      "confidence": 91.875809,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Solomon",
+      "x0": 131.184,
+      "top": 47.232,
+      "x1": 157.392,
+      "bottom": 52.416,
+      "confidence": 96.162277,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "rad",
+      "x0": 73.008,
+      "top": 58.751999999999995,
+      "x1": 86.544,
+      "bottom": 71.136,
+      "confidence": 56.552498,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "x,",
+      "x0": 73.008,
+      "top": 80.064,
+      "x1": 91.44,
+      "bottom": 95.184,
+      "confidence": 37.599442,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Carllil",
+      "x0": 95.616,
+      "top": 90.0,
+      "x1": 111.888,
+      "bottom": 95.184,
+      "confidence": 92.037674,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "v.",
+      "x0": 114.192,
+      "top": 91.58399999999999,
+      "x1": 118.8,
+      "bottom": 95.18399999999998,
+      "confidence": 88.140762,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Carbolic",
+      "x0": 121.392,
+      "top": 90.0,
+      "x1": 145.44,
+      "bottom": 95.184,
+      "confidence": 90.622879,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Smoke",
+      "x0": 147.744,
+      "top": 90.0,
+      "x1": 167.61599999999999,
+      "bottom": 95.184,
+      "confidence": 96.354179,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ball",
+      "x0": 170.35199999999998,
+      "top": 90.0,
+      "x1": 180.28799999999998,
+      "bottom": 95.184,
+      "confidence": 96.780609,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Co.",
+      "x0": 182.88,
+      "top": 90.288,
+      "x1": 191.808,
+      "bottom": 95.184,
+      "confidence": 96.780609,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "3.",
+      "x0": 88.27199999999999,
+      "top": 68.976,
+      "x1": 93.02399999999999,
+      "bottom": 73.872,
+      "confidence": 96.227318,
+      "ocr_block": "6",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Harvey",
+      "x0": 95.904,
+      "top": 68.976,
+      "x1": 116.496,
+      "bottom": 75.024,
+      "confidence": 93.288757,
+      "ocr_block": "6",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "v.",
+      "x0": 118.51199999999999,
+      "top": 70.27199999999999,
+      "x1": 123.11999999999999,
+      "bottom": 73.728,
+      "confidence": 92.763618,
+      "ocr_block": "6",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Facie",
+      "x0": 125.99999999999999,
+      "top": 68.832,
+      "x1": 140.688,
+      "bottom": 73.872,
+      "confidence": 91.811798,
+      "ocr_block": "6",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

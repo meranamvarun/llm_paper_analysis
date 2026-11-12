@@ -1,0 +1,440 @@
+{
+  "pdf_page": 3,
+  "crop_top": 640.7296400000001,
+  "crop_bottom": 768.31138,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0003:l0032:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "According to the text, what did Bentham consider the fundamental unit of human action,",
+      "bbox": [
+        84.96,
+        4.608,
+        537.9839999999999,
+        14.975999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "replacing concepts like natural rights?",
+      "bbox": [
+        85.392,
+        20.592,
+        279.792,
+        30.815999999999995
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(A) Liberty (B) Self-determination",
+      "bbox": [
+        85.824,
+        38.303999999999995,
+        435.74399999999997,
+        48.672
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(C) Utility (D) Happiness for the greatest number",
+      "bbox": [
+        85.824,
+        56.303999999999995,
+        517.824,
+        66.52799999999999
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "PG 2026 3",
+      "bbox": [
+        57.312,
+        111.45599999999999,
+        300.24,
+        121.536
+      ]
+    }
+  ],
+  "text": "According to the text, what did Bentham consider the fundamental unit of human action,\nreplacing concepts like natural rights?\n(A) Liberty (B) Self-determination\n(C) Utility (D) Happiness for the greatest number\nPG 2026 3",
+  "ocr_words": [
+    {
+      "text": "According",
+      "x0": 84.96,
+      "top": 4.608,
+      "x1": 135.504,
+      "bottom": 14.975999999999999,
+      "confidence": 96.30304,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 138.95999999999998,
+      "top": 5.76,
+      "x1": 148.03199999999998,
+      "bottom": 12.959999999999999,
+      "confidence": 96.39827,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 151.77599999999998,
+      "top": 4.752,
+      "x1": 167.61599999999999,
+      "bottom": 12.96,
+      "confidence": 96.886337,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "text,",
+      "x0": 171.35999999999999,
+      "top": 5.76,
+      "x1": 193.248,
+      "bottom": 14.543999999999999,
+      "confidence": 95.905861,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "what",
+      "x0": 197.56799999999998,
+      "top": 4.752,
+      "x1": 222.62399999999997,
+      "bottom": 12.96,
+      "confidence": 96.721123,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "did",
+      "x0": 226.65599999999998,
+      "top": 4.752,
+      "x1": 241.92,
+      "bottom": 12.815999999999999,
+      "confidence": 95.884483,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Bentham",
+      "x0": 245.808,
+      "top": 4.752,
+      "x1": 291.888,
+      "bottom": 12.96,
+      "confidence": 95.884483,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "consider",
+      "x0": 295.632,
+      "top": 4.752,
+      "x1": 337.536,
+      "bottom": 12.96,
+      "confidence": 95.681808,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 341.13599999999997,
+      "top": 4.752,
+      "x1": 356.97599999999994,
+      "bottom": 12.96,
+      "confidence": 96.449425,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "fundamental",
+      "x0": 360.71999999999997,
+      "top": 4.608,
+      "x1": 425.664,
+      "bottom": 12.959999999999997,
+      "confidence": 95.336243,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "unit",
+      "x0": 429.26399999999995,
+      "top": 4.752,
+      "x1": 449.99999999999994,
+      "bottom": 12.815999999999999,
+      "confidence": 94.824463,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 453.74399999999997,
+      "top": 4.608,
+      "x1": 463.248,
+      "bottom": 12.959999999999997,
+      "confidence": 96.732788,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "human",
+      "x0": 465.84,
+      "top": 4.752,
+      "x1": 501.40799999999996,
+      "bottom": 12.96,
+      "confidence": 96.534172,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "action,",
+      "x0": 505.29599999999994,
+      "top": 4.752,
+      "x1": 537.9839999999999,
+      "bottom": 14.544,
+      "confidence": 96.38073,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "replacing",
+      "x0": 85.392,
+      "top": 20.592,
+      "x1": 132.192,
+      "bottom": 30.815999999999995,
+      "confidence": 96.386353,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "concepts",
+      "x0": 135.648,
+      "top": 21.599999999999998,
+      "x1": 178.128,
+      "bottom": 30.671999999999997,
+      "confidence": 96.427322,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "like",
+      "x0": 181.87199999999999,
+      "top": 20.592,
+      "x1": 200.16,
+      "bottom": 28.799999999999997,
+      "confidence": 96.258995,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "natural",
+      "x0": 203.904,
+      "top": 20.592,
+      "x1": 241.632,
+      "bottom": 28.799999999999997,
+      "confidence": 96.707306,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "rights?",
+      "x0": 245.23199999999997,
+      "top": 20.592,
+      "x1": 279.792,
+      "bottom": 30.815999999999995,
+      "confidence": 96.904633,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(A)",
+      "x0": 85.824,
+      "top": 38.448,
+      "x1": 99.648,
+      "bottom": 48.528,
+      "confidence": 88.744217,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Liberty",
+      "x0": 113.75999999999999,
+      "top": 38.448,
+      "x1": 150.76799999999997,
+      "bottom": 48.672,
+      "confidence": 81.413116,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(B)",
+      "x0": 312.62399999999997,
+      "top": 38.448,
+      "x1": 326.448,
+      "bottom": 48.528,
+      "confidence": 76.338516,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Self-determination",
+      "x0": 340.99199999999996,
+      "top": 38.303999999999995,
+      "x1": 435.74399999999997,
+      "bottom": 46.65599999999999,
+      "confidence": 76.338516,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(C)",
+      "x0": 85.824,
+      "top": 56.303999999999995,
+      "x1": 99.648,
+      "bottom": 66.384,
+      "confidence": 91.562088,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Utility",
+      "x0": 113.75999999999999,
+      "top": 56.303999999999995,
+      "x1": 147.16799999999998,
+      "bottom": 66.52799999999999,
+      "confidence": 92.103676,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(D)",
+      "x0": 312.62399999999997,
+      "top": 56.303999999999995,
+      "x1": 327.02399999999994,
+      "bottom": 66.52799999999999,
+      "confidence": 91.560928,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Happiness",
+      "x0": 340.84799999999996,
+      "top": 56.303999999999995,
+      "x1": 393.55199999999996,
+      "bottom": 66.384,
+      "confidence": 95.125946,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "for",
+      "x0": 397.44,
+      "top": 56.303999999999995,
+      "x1": 410.976,
+      "bottom": 64.512,
+      "confidence": 96.028358,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 414.43199999999996,
+      "top": 56.303999999999995,
+      "x1": 430.27199999999993,
+      "bottom": 64.512,
+      "confidence": 96.588837,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "greatest",
+      "x0": 434.304,
+      "top": 57.312,
+      "x1": 475.056,
+      "bottom": 66.52799999999999,
+      "confidence": 95.944366,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "number",
+      "x0": 478.79999999999995,
+      "top": 56.303999999999995,
+      "x1": 517.824,
+      "bottom": 64.512,
+      "confidence": 96.918404,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "PG",
+      "x0": 57.312,
+      "top": 113.184,
+      "x1": 74.01599999999999,
+      "bottom": 121.536,
+      "confidence": 96.630272,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "2026",
+      "x0": 78.04799999999999,
+      "top": 113.75999999999999,
+      "x1": 102.09599999999999,
+      "bottom": 121.53599999999999,
+      "confidence": 96.630272,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "3",
+      "x0": 295.344,
+      "top": 111.45599999999999,
+      "x1": 300.24,
+      "bottom": 119.37599999999999,
+      "confidence": 94.66571,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

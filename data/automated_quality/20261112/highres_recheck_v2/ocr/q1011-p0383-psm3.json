@@ -1,0 +1,264 @@
+{
+  "pdf_page": 383,
+  "crop_top": 36.16136000000006,
+  "crop_bottom": 124.32136000000003,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0382:l0050:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "KX",
+      "bbox": [
+        73.08,
+        3.06,
+        87.66,
+        35.64
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "1. A righteous claim",
+      "bbox": [
+        88.56,
+        13.139999999999999,
+        147.6,
+        19.619999999999997
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "2. A legal claim",
+      "bbox": [
+        88.38,
+        34.56,
+        133.01999999999998,
+        41.04
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "xx",
+      "bbox": [
+        73.08,
+        45.9,
+        86.75999999999999,
+        79.74
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "3. Ajust claim",
+      "bbox": [
+        88.2,
+        55.98,
+        129.78,
+        62.459999999999994
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "4. A moral claim",
+      "bbox": [
+        88.02,
+        77.22,
+        136.62,
+        82.44
+      ]
+    }
+  ],
+  "text": "KX\n1. A righteous claim\n2. A legal claim\nxx\n3. Ajust claim\n4. A moral claim",
+  "ocr_words": [
+    {
+      "text": "1.",
+      "x0": 88.56,
+      "top": 13.5,
+      "x1": 93.06,
+      "bottom": 18.18,
+      "confidence": 96.776726,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A",
+      "x0": 95.39999999999999,
+      "top": 13.5,
+      "x1": 99.53999999999999,
+      "bottom": 18.18,
+      "confidence": 93.431297,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "righteous",
+      "x0": 101.88,
+      "top": 13.139999999999999,
+      "x1": 129.95999999999998,
+      "bottom": 19.619999999999997,
+      "confidence": 93.431297,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "claim",
+      "x0": 132.12,
+      "top": 13.139999999999999,
+      "x1": 147.6,
+      "bottom": 18.36,
+      "confidence": 96.046143,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2.",
+      "x0": 88.38,
+      "top": 34.74,
+      "x1": 93.06,
+      "bottom": 39.6,
+      "confidence": 96.182472,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A",
+      "x0": 95.39999999999999,
+      "top": 34.92,
+      "x1": 99.53999999999999,
+      "bottom": 39.6,
+      "confidence": 95.416336,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "legal",
+      "x0": 101.88,
+      "top": 34.56,
+      "x1": 115.02,
+      "bottom": 41.04,
+      "confidence": 95.416336,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "claim",
+      "x0": 117.53999999999999,
+      "top": 34.56,
+      "x1": 133.01999999999998,
+      "bottom": 39.78,
+      "confidence": 96.520477,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "3.",
+      "x0": 88.2,
+      "top": 56.16,
+      "x1": 93.06,
+      "bottom": 61.199999999999996,
+      "confidence": 92.989563,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ajust",
+      "x0": 95.39999999999999,
+      "top": 56.16,
+      "x1": 112.32,
+      "bottom": 62.459999999999994,
+      "confidence": 91.830345,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "claim",
+      "x0": 114.47999999999999,
+      "top": 55.98,
+      "x1": 129.78,
+      "bottom": 61.199999999999996,
+      "confidence": 96.401428,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "xx",
+      "x0": 73.08,
+      "top": 45.9,
+      "x1": 86.75999999999999,
+      "bottom": 79.74,
+      "confidence": 0.0,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "KX",
+      "x0": 73.08,
+      "top": 3.06,
+      "x1": 87.66,
+      "bottom": 35.64,
+      "confidence": 0.0,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "4.",
+      "x0": 88.02,
+      "top": 77.58,
+      "x1": 93.06,
+      "bottom": 82.25999999999999,
+      "confidence": 95.765533,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A",
+      "x0": 97.92,
+      "top": 77.58,
+      "x1": 99.54,
+      "bottom": 82.25999999999999,
+      "confidence": 47.760483,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "moral",
+      "x0": 101.88,
+      "top": 77.22,
+      "x1": 118.61999999999999,
+      "bottom": 82.44,
+      "confidence": 47.760483,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "claim",
+      "x0": 121.14,
+      "top": 77.22,
+      "x1": 136.62,
+      "bottom": 82.44,
+      "confidence": 96.320587,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

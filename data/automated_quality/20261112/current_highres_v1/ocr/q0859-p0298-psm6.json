@@ -1,0 +1,670 @@
+{
+  "pdf_page": 298,
+  "crop_top": 76.41279999999995,
+  "crop_bottom": 145.13279999999986,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0298:l0000:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "20. ‘A’ applied for allotment of 100 shares in ‘B’ A letter of allotment addressed to ‘A’",
+      "bbox": [
+        46.656,
+        4.752,
+        549.9359999999999,
+        15.119999999999997
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "company.",
+      "bbox": [
+        299.08799999999997,
+        7.776,
+        346.17599999999993,
+        15.12
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "posted in due time, but it reached ‘A’. The posting of letter of allotment:",
+      "bbox": [
+        97.776,
+        18.575999999999997,
+        497.95199999999994,
+        28.943999999999996
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "was never",
+      "bbox": [
+        74.88,
+        21.599999999999998,
+        256.75199999999995,
+        26.927999999999997
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(A) completes the contract (B) does not completes the contract",
+      "bbox": [
+        75.312,
+        36.576,
+        491.328,
+        46.943999999999996
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "(C) makes the contract voidable (D) makes the contract void",
+      "bbox": [
+        75.312,
+        54.57599999999999,
+        453.31199999999995,
+        64.8
+      ]
+    }
+  ],
+  "text": "20. ‘A’ applied for allotment of 100 shares in ‘B’ A letter of allotment addressed to ‘A’\ncompany.\nposted in due time, but it reached ‘A’. The posting of letter of allotment:\nwas never\n(A) completes the contract (B) does not completes the contract\n(C) makes the contract voidable (D) makes the contract void",
+  "ocr_words": [
+    {
+      "text": "20.",
+      "x0": 46.656,
+      "top": 5.327999999999999,
+      "x1": 60.623999999999995,
+      "bottom": 13.104,
+      "confidence": 93.280731,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "‘A’",
+      "x0": 75.024,
+      "top": 4.896,
+      "x1": 86.688,
+      "bottom": 12.96,
+      "confidence": 95.119026,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "applied",
+      "x0": 90.72,
+      "top": 4.896,
+      "x1": 127.44,
+      "bottom": 15.119999999999997,
+      "confidence": 94.790421,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "for",
+      "x0": 131.04,
+      "top": 4.752,
+      "x1": 144.576,
+      "bottom": 13.104,
+      "confidence": 96.089569,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "allotment",
+      "x0": 148.464,
+      "top": 4.896,
+      "x1": 196.704,
+      "bottom": 13.104,
+      "confidence": 96.566956,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 200.30399999999997,
+      "top": 4.752,
+      "x1": 209.95199999999997,
+      "bottom": 13.104,
+      "confidence": 96.788063,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "100",
+      "x0": 213.408,
+      "top": 5.327999999999999,
+      "x1": 230.112,
+      "bottom": 13.104,
+      "confidence": 96.122345,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "shares",
+      "x0": 234.14399999999998,
+      "top": 4.896,
+      "x1": 266.544,
+      "bottom": 13.104,
+      "confidence": 96.067535,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 270.28799999999995,
+      "top": 4.896,
+      "x1": 280.0799999999999,
+      "bottom": 12.96,
+      "confidence": 89.136505,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "‘B’",
+      "x0": 283.68,
+      "top": 4.752,
+      "x1": 295.344,
+      "bottom": 12.96,
+      "confidence": 89.136505,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "company.",
+      "x0": 299.08799999999997,
+      "top": 7.776,
+      "x1": 346.17599999999993,
+      "bottom": 15.12,
+      "confidence": 95.838036,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A",
+      "x0": 350.06399999999996,
+      "top": 4.896,
+      "x1": 358.272,
+      "bottom": 12.96,
+      "confidence": 96.193504,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "letter",
+      "x0": 361.44,
+      "top": 4.896,
+      "x1": 388.944,
+      "bottom": 13.104,
+      "confidence": 95.45488,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 392.544,
+      "top": 4.752,
+      "x1": 402.192,
+      "bottom": 13.104,
+      "confidence": 95.45488,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "allotment",
+      "x0": 404.928,
+      "top": 4.896,
+      "x1": 453.312,
+      "bottom": 13.104,
+      "confidence": 96.166542,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "addressed",
+      "x0": 457.48799999999994,
+      "top": 4.896,
+      "x1": 508.0319999999999,
+      "bottom": 13.104,
+      "confidence": 96.476059,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 518.4,
+      "top": 5.904,
+      "x1": 527.616,
+      "bottom": 13.104,
+      "confidence": 96.114304,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "‘A’",
+      "x0": 538.2719999999999,
+      "top": 4.752,
+      "x1": 549.9359999999999,
+      "bottom": 12.96,
+      "confidence": 96.114304,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "was",
+      "x0": 74.88,
+      "top": 21.599999999999998,
+      "x1": 94.032,
+      "bottom": 26.927999999999997,
+      "confidence": 96.030807,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "posted",
+      "x0": 97.776,
+      "top": 18.72,
+      "x1": 130.32,
+      "bottom": 28.799999999999997,
+      "confidence": 95.905502,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "in",
+      "x0": 133.77599999999998,
+      "top": 18.72,
+      "x1": 143.56799999999998,
+      "bottom": 26.784,
+      "confidence": 95.905502,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "due",
+      "x0": 147.31199999999998,
+      "top": 18.72,
+      "x1": 165.02399999999997,
+      "bottom": 26.927999999999997,
+      "confidence": 96.207306,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "time,",
+      "x0": 168.624,
+      "top": 18.72,
+      "x1": 193.536,
+      "bottom": 28.656,
+      "confidence": 96.309464,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "but",
+      "x0": 197.42399999999998,
+      "top": 18.72,
+      "x1": 214.272,
+      "bottom": 26.927999999999997,
+      "confidence": 96.689445,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "it",
+      "x0": 217.87199999999999,
+      "top": 18.72,
+      "x1": 225.07199999999997,
+      "bottom": 26.927999999999997,
+      "confidence": 94.777969,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "never",
+      "x0": 228.81599999999997,
+      "top": 21.599999999999998,
+      "x1": 256.75199999999995,
+      "bottom": 26.927999999999997,
+      "confidence": 96.487679,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "reached",
+      "x0": 260.20799999999997,
+      "top": 18.72,
+      "x1": 299.664,
+      "bottom": 26.927999999999997,
+      "confidence": 96.122337,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "‘A’.",
+      "x0": 303.40799999999996,
+      "top": 18.575999999999997,
+      "x1": 317.376,
+      "bottom": 26.927999999999997,
+      "confidence": 95.901558,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "The",
+      "x0": 321.84,
+      "top": 18.72,
+      "x1": 340.70399999999995,
+      "bottom": 26.927999999999997,
+      "confidence": 95.552223,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "posting",
+      "x0": 344.304,
+      "top": 18.72,
+      "x1": 381.31199999999995,
+      "bottom": 28.943999999999996,
+      "confidence": 95.552223,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 384.768,
+      "top": 18.575999999999997,
+      "x1": 394.272,
+      "bottom": 26.927999999999997,
+      "confidence": 95.228195,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "letter",
+      "x0": 403.63199999999995,
+      "top": 18.72,
+      "x1": 431.28,
+      "bottom": 26.927999999999997,
+      "confidence": 94.512733,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 434.88,
+      "top": 18.575999999999997,
+      "x1": 444.24,
+      "bottom": 26.927999999999997,
+      "confidence": 95.807091,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "allotment:",
+      "x0": 447.26399999999995,
+      "top": 18.72,
+      "x1": 497.95199999999994,
+      "bottom": 26.927999999999997,
+      "confidence": 95.807091,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(A)",
+      "x0": 75.312,
+      "top": 36.576,
+      "x1": 89.136,
+      "bottom": 46.8,
+      "confidence": 94.712624,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "completes",
+      "x0": 103.24799999999999,
+      "top": 36.72,
+      "x1": 152.784,
+      "bottom": 46.8,
+      "confidence": 82.990997,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "the",
+      "x0": 156.528,
+      "top": 36.72,
+      "x1": 172.368,
+      "bottom": 44.928,
+      "confidence": 96.092285,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "contract",
+      "x0": 176.112,
+      "top": 37.727999999999994,
+      "x1": 217.152,
+      "bottom": 44.928,
+      "confidence": 96.224258,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(B)",
+      "x0": 302.11199999999997,
+      "top": 36.72,
+      "x1": 316.08,
+      "bottom": 46.943999999999996,
+      "confidence": 88.694794,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "does",
+      "x0": 332.496,
+      "top": 36.72,
+      "x1": 353.952,
+      "bottom": 44.928,
+      "confidence": 95.314224,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "not",
+      "x0": 357.84,
+      "top": 37.727999999999994,
+      "x1": 373.82399999999996,
+      "bottom": 44.928,
+      "confidence": 95.684761,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "completes",
+      "x0": 377.424,
+      "top": 36.72,
+      "x1": 426.96,
+      "bottom": 46.8,
+      "confidence": 96.179413,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "the",
+      "x0": 430.70399999999995,
+      "top": 36.72,
+      "x1": 446.5439999999999,
+      "bottom": 44.928,
+      "confidence": 96.420219,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "contract",
+      "x0": 450.28799999999995,
+      "top": 37.727999999999994,
+      "x1": 491.328,
+      "bottom": 44.928,
+      "confidence": 96.50116,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(C)",
+      "x0": 75.312,
+      "top": 54.57599999999999,
+      "x1": 89.136,
+      "bottom": 64.8,
+      "confidence": 90.855309,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "makes",
+      "x0": 103.392,
+      "top": 54.57599999999999,
+      "x1": 135.504,
+      "bottom": 62.78399999999999,
+      "confidence": 94.371468,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "the",
+      "x0": 139.248,
+      "top": 54.57599999999999,
+      "x1": 155.088,
+      "bottom": 62.78399999999999,
+      "confidence": 96.466141,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "contract",
+      "x0": 158.832,
+      "top": 55.583999999999996,
+      "x1": 199.87199999999999,
+      "bottom": 62.78399999999999,
+      "confidence": 92.665596,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "voidable",
+      "x0": 203.32799999999997,
+      "top": 54.57599999999999,
+      "x1": 245.08799999999997,
+      "bottom": 62.78399999999999,
+      "confidence": 92.665596,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(D)",
+      "x0": 302.11199999999997,
+      "top": 54.57599999999999,
+      "x1": 316.65599999999995,
+      "bottom": 64.8,
+      "confidence": 91.569809,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "makes",
+      "x0": 332.496,
+      "top": 54.57599999999999,
+      "x1": 364.60799999999995,
+      "bottom": 62.78399999999999,
+      "confidence": 85.038269,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "the",
+      "x0": 368.352,
+      "top": 54.57599999999999,
+      "x1": 384.19199999999995,
+      "bottom": 62.78399999999999,
+      "confidence": 93.602081,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "contract",
+      "x0": 387.936,
+      "top": 55.583999999999996,
+      "x1": 428.976,
+      "bottom": 62.78399999999999,
+      "confidence": 95.510757,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "void",
+      "x0": 432.43199999999996,
+      "top": 54.57599999999999,
+      "x1": 453.31199999999995,
+      "bottom": 62.78399999999999,
+      "confidence": 96.230659,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "pdf_page": 196,
+  "crop_top": 92.36255047399993,
+  "crop_bottom": 113.00729297399994,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0195:l0015:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Bade",
+      "bbox": [
+        57.599999999999994,
+        1.08,
+        85.13999999999999,
+        20.519999999999996
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "PG",
+      "bbox": [
+        519.66,
+        4.68,
+        536.2199999999999,
+        14.219999999999999
+      ]
+    }
+  ],
+  "text": "Bade\nPG",
+  "ocr_words": [
+    {
+      "text": "Bade",
+      "x0": 57.599999999999994,
+      "top": 1.08,
+      "x1": 85.13999999999999,
+      "bottom": 20.519999999999996,
+      "confidence": 50.093727,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "PG",
+      "x0": 519.66,
+      "top": 4.68,
+      "x1": 536.2199999999999,
+      "bottom": 14.219999999999999,
+      "confidence": 96.454895,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

@@ -1,0 +1,780 @@
+{
+  "pdf_page": 103,
+  "crop_top": 412.41929999999996,
+  "crop_bottom": 506.91929999999996,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0103:l0022:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "15. In testing whether the rule against bias has been violated, courts often invoke, which of",
+      "bbox": [
+        96.76799999999999,
+        3.7439999999999998,
+        551.808,
+        14.111999999999998
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "following standards:",
+      "bbox": [
+        117.216,
+        17.136,
+        213.26399999999998,
+        27.647999999999996
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(A) Likelihood of bias as perceived by a fair-minded and informed observer.",
+      "bbox": [
+        116.064,
+        32.111999999999995,
+        483.55199999999996,
+        43.63199999999999
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(B) Likelihood of bias as perceived by a fair-minded and uninformed observer.",
+      "bbox": [
+        116.064,
+        47.519999999999996,
+        495.792,
+        59.184
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(C) Likelihood of bias as perceived by a third person.",
+      "bbox": [
+        115.48799999999999,
+        63.071999999999996,
+        373.53599999999994,
+        74.592
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "(D) Likelihood of bias as perceived by persons involved in similar trade.",
+      "bbox": [
+        115.48799999999999,
+        79.056,
+        463.392,
+        89.568
+      ]
+    }
+  ],
+  "text": "15. In testing whether the rule against bias has been violated, courts often invoke, which of\nfollowing standards:\n(A) Likelihood of bias as perceived by a fair-minded and informed observer.\n(B) Likelihood of bias as perceived by a fair-minded and uninformed observer.\n(C) Likelihood of bias as perceived by a third person.\n(D) Likelihood of bias as perceived by persons involved in similar trade.",
+  "ocr_words": [
+    {
+      "text": "15.",
+      "x0": 96.76799999999999,
+      "top": 3.888,
+      "x1": 110.01599999999999,
+      "bottom": 11.952,
+      "confidence": 94.456711,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "In",
+      "x0": 117.93599999999999,
+      "top": 3.7439999999999998,
+      "x1": 125.42399999999999,
+      "bottom": 11.663999999999998,
+      "confidence": 95.007744,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "testing",
+      "x0": 130.32,
+      "top": 3.7439999999999998,
+      "x1": 161.856,
+      "bottom": 14.111999999999998,
+      "confidence": 96.358223,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "whether",
+      "x0": 166.60799999999998,
+      "top": 3.7439999999999998,
+      "x1": 205.63199999999998,
+      "bottom": 11.808,
+      "confidence": 96.895485,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 209.664,
+      "top": 3.7439999999999998,
+      "x1": 224.35199999999998,
+      "bottom": 11.808,
+      "confidence": 96.308182,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "rule",
+      "x0": 229.67999999999998,
+      "top": 3.7439999999999998,
+      "x1": 246.67199999999997,
+      "bottom": 11.808,
+      "confidence": 96.221367,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "against",
+      "x0": 251.42399999999998,
+      "top": 3.7439999999999998,
+      "x1": 286.272,
+      "bottom": 14.111999999999998,
+      "confidence": 96.417564,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "bias",
+      "x0": 291.168,
+      "top": 3.7439999999999998,
+      "x1": 310.32,
+      "bottom": 11.808,
+      "confidence": 96.280846,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "has",
+      "x0": 315.35999999999996,
+      "top": 3.7439999999999998,
+      "x1": 331.91999999999996,
+      "bottom": 11.808,
+      "confidence": 96.455246,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "been",
+      "x0": 336.96,
+      "top": 3.7439999999999998,
+      "x1": 360.0,
+      "bottom": 11.808,
+      "confidence": 95.743683,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "violated,",
+      "x0": 364.89599999999996,
+      "top": 3.7439999999999998,
+      "x1": 404.78399999999993,
+      "bottom": 13.248,
+      "confidence": 96.591698,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "courts",
+      "x0": 409.96799999999996,
+      "top": 4.319999999999999,
+      "x1": 439.19999999999993,
+      "bottom": 11.808,
+      "confidence": 96.590797,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "often",
+      "x0": 443.95199999999994,
+      "top": 3.7439999999999998,
+      "x1": 467.2799999999999,
+      "bottom": 11.808,
+      "confidence": 95.769447,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "invoke,",
+      "x0": 472.60799999999995,
+      "top": 3.7439999999999998,
+      "x1": 505.87199999999996,
+      "bottom": 13.248,
+      "confidence": 95.769447,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "which",
+      "x0": 510.912,
+      "top": 3.7439999999999998,
+      "x1": 538.1279999999999,
+      "bottom": 11.808,
+      "confidence": 96.593857,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 543.168,
+      "top": 3.7439999999999998,
+      "x1": 551.808,
+      "bottom": 11.808,
+      "confidence": 96.686729,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 117.216,
+      "top": 17.136,
+      "x1": 159.12,
+      "bottom": 27.647999999999996,
+      "confidence": 96.432541,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "standards:",
+      "x0": 163.152,
+      "top": 17.279999999999998,
+      "x1": 213.26399999999998,
+      "bottom": 25.343999999999998,
+      "confidence": 96.236259,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(A)",
+      "x0": 116.064,
+      "top": 32.687999999999995,
+      "x1": 129.31199999999998,
+      "bottom": 42.91199999999999,
+      "confidence": 96.809525,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Likelihood",
+      "x0": 136.79999999999998,
+      "top": 32.832,
+      "x1": 184.896,
+      "bottom": 40.896,
+      "confidence": 70.057457,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 188.928,
+      "top": 32.687999999999995,
+      "x1": 197.56799999999998,
+      "bottom": 40.895999999999994,
+      "confidence": 96.289627,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "bias",
+      "x0": 201.456,
+      "top": 32.832,
+      "x1": 220.60799999999998,
+      "bottom": 40.896,
+      "confidence": 96.289627,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "as",
+      "x0": 224.49599999999998,
+      "top": 34.704,
+      "x1": 235.296,
+      "bottom": 40.896,
+      "confidence": 96.687485,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "perceived",
+      "x0": 239.32799999999997,
+      "top": 32.832,
+      "x1": 285.84,
+      "bottom": 42.912,
+      "confidence": 96.594284,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "by",
+      "x0": 290.15999999999997,
+      "top": 32.832,
+      "x1": 300.96,
+      "bottom": 43.056,
+      "confidence": 95.882401,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "a",
+      "x0": 301.67999999999995,
+      "top": 32.111999999999995,
+      "x1": 306.57599999999996,
+      "bottom": 43.63199999999999,
+      "confidence": 93.996384,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "fair-minded",
+      "x0": 313.488,
+      "top": 32.687999999999995,
+      "x1": 367.632,
+      "bottom": 40.895999999999994,
+      "confidence": 93.996384,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "and",
+      "x0": 371.808,
+      "top": 32.832,
+      "x1": 389.08799999999997,
+      "bottom": 40.896,
+      "confidence": 96.69455,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "informed",
+      "x0": 393.55199999999996,
+      "top": 32.687999999999995,
+      "x1": 434.87999999999994,
+      "bottom": 40.895999999999994,
+      "confidence": 96.609436,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "observer.",
+      "x0": 439.056,
+      "top": 32.832,
+      "x1": 483.55199999999996,
+      "bottom": 40.896,
+      "confidence": 95.980843,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(B)",
+      "x0": 116.064,
+      "top": 48.096,
+      "x1": 129.31199999999998,
+      "bottom": 58.464,
+      "confidence": 93.265488,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Likelihood",
+      "x0": 136.79999999999998,
+      "top": 48.239999999999995,
+      "x1": 184.896,
+      "bottom": 56.303999999999995,
+      "confidence": 95.695091,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "of",
+      "x0": 188.928,
+      "top": 48.239999999999995,
+      "x1": 197.56799999999998,
+      "bottom": 56.303999999999995,
+      "confidence": 96.042328,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "bias",
+      "x0": 201.456,
+      "top": 48.239999999999995,
+      "x1": 220.60799999999998,
+      "bottom": 56.303999999999995,
+      "confidence": 96.35096,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "as",
+      "x0": 224.49599999999998,
+      "top": 50.25599999999999,
+      "x1": 235.296,
+      "bottom": 56.303999999999995,
+      "confidence": 96.310966,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "perceived",
+      "x0": 239.32799999999997,
+      "top": 48.239999999999995,
+      "x1": 285.84,
+      "bottom": 58.46399999999999,
+      "confidence": 95.567642,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "by",
+      "x0": 290.15999999999997,
+      "top": 48.239999999999995,
+      "x1": 300.96,
+      "bottom": 58.46399999999999,
+      "confidence": 96.790932,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "a",
+      "x0": 302.11199999999997,
+      "top": 47.519999999999996,
+      "x1": 307.008,
+      "bottom": 59.184,
+      "confidence": 96.913673,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "fair-minded",
+      "x0": 313.488,
+      "top": 48.239999999999995,
+      "x1": 367.632,
+      "bottom": 56.303999999999995,
+      "confidence": 96.682312,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "and",
+      "x0": 371.808,
+      "top": 48.239999999999995,
+      "x1": 389.08799999999997,
+      "bottom": 56.303999999999995,
+      "confidence": 96.435951,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "uninformed",
+      "x0": 393.55199999999996,
+      "top": 48.239999999999995,
+      "x1": 447.11999999999995,
+      "bottom": 56.303999999999995,
+      "confidence": 96.485611,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "observer.",
+      "x0": 451.296,
+      "top": 48.239999999999995,
+      "x1": 495.792,
+      "bottom": 56.303999999999995,
+      "confidence": 96.80497,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(C)",
+      "x0": 115.48799999999999,
+      "top": 63.647999999999996,
+      "x1": 129.31199999999998,
+      "bottom": 74.01599999999999,
+      "confidence": 91.034554,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Likelihood",
+      "x0": 136.79999999999998,
+      "top": 63.791999999999994,
+      "x1": 184.896,
+      "bottom": 71.856,
+      "confidence": 96.328781,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "of",
+      "x0": 188.928,
+      "top": 63.647999999999996,
+      "x1": 197.56799999999998,
+      "bottom": 71.856,
+      "confidence": 96.384521,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "bias",
+      "x0": 201.456,
+      "top": 63.791999999999994,
+      "x1": 220.60799999999998,
+      "bottom": 71.856,
+      "confidence": 96.516716,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "as",
+      "x0": 224.49599999999998,
+      "top": 65.80799999999999,
+      "x1": 235.296,
+      "bottom": 71.856,
+      "confidence": 96.803383,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "perceived",
+      "x0": 239.32799999999997,
+      "top": 63.791999999999994,
+      "x1": 285.84,
+      "bottom": 74.01599999999999,
+      "confidence": 96.503899,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "by",
+      "x0": 290.15999999999997,
+      "top": 63.791999999999994,
+      "x1": 300.96,
+      "bottom": 74.01599999999999,
+      "confidence": 95.250229,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "a",
+      "x0": 302.11199999999997,
+      "top": 63.071999999999996,
+      "x1": 307.008,
+      "bottom": 74.592,
+      "confidence": 95.858376,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "third",
+      "x0": 313.488,
+      "top": 63.791999999999994,
+      "x1": 334.08,
+      "bottom": 71.856,
+      "confidence": 96.041466,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "person.",
+      "x0": 338.4,
+      "top": 65.80799999999999,
+      "x1": 373.53599999999994,
+      "bottom": 74.01599999999999,
+      "confidence": 96.438271,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "(D)",
+      "x0": 115.48799999999999,
+      "top": 79.056,
+      "x1": 129.31199999999998,
+      "bottom": 89.42399999999999,
+      "confidence": 92.287743,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Likelihood",
+      "x0": 136.79999999999998,
+      "top": 79.344,
+      "x1": 184.896,
+      "bottom": 87.40799999999999,
+      "confidence": 64.265465,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "of",
+      "x0": 188.928,
+      "top": 79.19999999999999,
+      "x1": 197.56799999999998,
+      "bottom": 87.40799999999999,
+      "confidence": 96.069939,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "bias",
+      "x0": 201.456,
+      "top": 79.344,
+      "x1": 220.60799999999998,
+      "bottom": 87.40799999999999,
+      "confidence": 96.758461,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "as",
+      "x0": 224.49599999999998,
+      "top": 81.216,
+      "x1": 235.296,
+      "bottom": 87.40799999999999,
+      "confidence": 96.842171,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "perceived",
+      "x0": 239.32799999999997,
+      "top": 79.344,
+      "x1": 285.84,
+      "bottom": 89.42399999999999,
+      "confidence": 96.651611,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "by",
+      "x0": 290.15999999999997,
+      "top": 79.344,
+      "x1": 300.96,
+      "bottom": 89.568,
+      "confidence": 96.484482,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "persons",
+      "x0": 304.84799999999996,
+      "top": 81.216,
+      "x1": 342.864,
+      "bottom": 89.42399999999999,
+      "confidence": 96.472282,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "involved",
+      "x0": 347.03999999999996,
+      "top": 79.344,
+      "x1": 386.06399999999996,
+      "bottom": 87.40799999999999,
+      "confidence": 94.507584,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "in",
+      "x0": 390.52799999999996,
+      "top": 79.344,
+      "x1": 397.58399999999995,
+      "bottom": 87.264,
+      "confidence": 96.601212,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "similar",
+      "x0": 401.76,
+      "top": 79.344,
+      "x1": 433.152,
+      "bottom": 87.40799999999999,
+      "confidence": 95.380959,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "trade.",
+      "x0": 436.32,
+      "top": 79.344,
+      "x1": 463.392,
+      "bottom": 87.40799999999999,
+      "confidence": 96.364151,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "inputs": {
+    "data\\automated_quality\\20261112\\field_consensus_v1\\questions.jsonl": "73eb3393c363c0c3eab7b4c821b42124adbadcad834351fec2868fa306c0f9b7",
+    "data\\automated_quality\\20261112\\field_consensus_v1\\manifest.json": "cd34ac689af8a608cba365a975bae59a14f7535f3f713eaeff8ede73bcb51258",
+    "data\\extraction\\runs\\20261110T043421397159Z\\pages.jsonl": "ba5f2382c107abe7c6e37c5f96842e893e19858db547f20a23279f032aabc96b",
+    "extraction\\source_content.py": "eb1017ab60b16da13d822d85ac9f1e993c3e30d572318649f9f08417a598ed27",
+    "C:\\Users\\malai\\varun_code\\llm_paper_analysis\\data\\automated_quality\\20261112\\clean_source_formatting.py": "ce47af57f34acfd6cc55a8abc3c000dce3560362f6e19a8d884e598ecf9c9bc9"
+  },
+  "outputs": {
+    "abstentions.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "passages.jsonl": "17146e478e0e35884ac4a2a995728badfe3f8e31bd5b7af0f4e307567cbc0412",
+    "questions.jsonl": "daec80b09d90449411f45a9acfdca9f6e1c90c3b61aa29d6c6f4836d4d9d53e4",
+    "repairs.jsonl": "c68f3036908e99353c8b6d87309cc4f48309ab510d467329fa8d250428faaf63",
+    "structural_findings.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "summary.json": "81db377c5feac99bf0efc5497b427f7528271a2f2d83c50dd911cee2ea1208fe"
+  }
+}

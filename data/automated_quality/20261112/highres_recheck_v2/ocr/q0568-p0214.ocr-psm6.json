@@ -1,0 +1,758 @@
+{
+  "pdf_page": 214,
+  "crop_top": 553.76,
+  "crop_bottom": 656.5600000000001,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0214:l0023:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "83. In the case of In Re: Distribution of Essential Supplies and Services During Pandemic,",
+      "bbox": [
+        90.53999999999999,
+        4.32,
+        512.8199999999999,
+        14.58
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "the Supreme Court of India examined the constitutional validity of Central Government’s",
+      "bbox": [
+        111.06,
+        21.24,
+        513.36,
+        31.32
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "policy regarding vaccine procurement and distribution among different categories of",
+      "bbox": [
+        111.6,
+        38.339999999999996,
+        513.54,
+        48.42
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "the population. Such policy is known as:",
+      "bbox": [
+        111.06,
+        55.08,
+        299.7,
+        65.16
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(A) Vaccination Distribution Policy. (B) Liberalized Vaccination Policy.",
+      "bbox": [
+        111.06,
+        72.0,
+        487.08,
+        82.25999999999999
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "(C) Central Vaccination Distribution Policy. (D) None of the above.",
+      "bbox": [
+        110.33999999999999,
+        88.92,
+        433.08,
+        99.17999999999999
+      ]
+    }
+  ],
+  "text": "83. In the case of In Re: Distribution of Essential Supplies and Services During Pandemic,\nthe Supreme Court of India examined the constitutional validity of Central Government’s\npolicy regarding vaccine procurement and distribution among different categories of\nthe population. Such policy is known as:\n(A) Vaccination Distribution Policy. (B) Liberalized Vaccination Policy.\n(C) Central Vaccination Distribution Policy. (D) None of the above.",
+  "ocr_words": [
+    {
+      "text": "83.",
+      "x0": 90.53999999999999,
+      "top": 4.68,
+      "x1": 104.22,
+      "bottom": 12.419999999999998,
+      "confidence": 95.767517,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "In",
+      "x0": 111.96,
+      "top": 4.5,
+      "x1": 119.16,
+      "bottom": 12.239999999999998,
+      "confidence": 92.89222,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 122.58,
+      "top": 4.5,
+      "x1": 136.98,
+      "bottom": 12.42,
+      "confidence": 92.89222,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "case",
+      "x0": 140.22,
+      "top": 6.4799999999999995,
+      "x1": 162.18,
+      "bottom": 12.419999999999998,
+      "confidence": 95.174286,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 165.6,
+      "top": 4.32,
+      "x1": 173.88,
+      "bottom": 12.42,
+      "confidence": 95.174286,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "In",
+      "x0": 177.66,
+      "top": 4.5,
+      "x1": 185.76,
+      "bottom": 12.239999999999998,
+      "confidence": 92.822731,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Re:",
+      "x0": 189.18,
+      "top": 4.5,
+      "x1": 205.02,
+      "bottom": 12.42,
+      "confidence": 95.638588,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Distribution",
+      "x0": 208.44,
+      "top": 4.5,
+      "x1": 261.18,
+      "bottom": 12.42,
+      "confidence": 96.217278,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 264.59999999999997,
+      "top": 4.32,
+      "x1": 273.96,
+      "bottom": 12.42,
+      "confidence": 96.231308,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Essential",
+      "x0": 276.12,
+      "top": 4.5,
+      "x1": 319.5,
+      "bottom": 12.42,
+      "confidence": 96.231308,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Supplies",
+      "x0": 322.2,
+      "top": 4.32,
+      "x1": 362.52,
+      "bottom": 14.4,
+      "confidence": 96.567703,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 365.58,
+      "top": 4.5,
+      "x1": 383.76,
+      "bottom": 12.42,
+      "confidence": 96.567703,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Services",
+      "x0": 386.28,
+      "top": 4.32,
+      "x1": 426.78,
+      "bottom": 12.42,
+      "confidence": 96.227402,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "During",
+      "x0": 429.84,
+      "top": 4.5,
+      "x1": 460.97999999999996,
+      "bottom": 14.58,
+      "confidence": 95.818085,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Pandemic,",
+      "x0": 464.03999999999996,
+      "top": 4.5,
+      "x1": 512.8199999999999,
+      "bottom": 13.68,
+      "confidence": 95.205177,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 111.06,
+      "top": 21.419999999999998,
+      "x1": 125.28,
+      "bottom": 29.339999999999996,
+      "confidence": 96.279572,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Supreme",
+      "x0": 128.34,
+      "top": 21.24,
+      "x1": 170.46,
+      "bottom": 31.32,
+      "confidence": 96.473579,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Court",
+      "x0": 173.51999999999998,
+      "top": 21.24,
+      "x1": 198.71999999999997,
+      "bottom": 29.339999999999996,
+      "confidence": 96.629578,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 201.42,
+      "top": 21.24,
+      "x1": 209.88,
+      "bottom": 29.339999999999996,
+      "confidence": 96.771088,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "India",
+      "x0": 212.94,
+      "top": 21.419999999999998,
+      "x1": 234.72,
+      "bottom": 29.339999999999996,
+      "confidence": 96.383209,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "examined",
+      "x0": 237.6,
+      "top": 21.419999999999998,
+      "x1": 282.6,
+      "bottom": 29.339999999999996,
+      "confidence": 96.325455,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 285.47999999999996,
+      "top": 21.419999999999998,
+      "x1": 299.69999999999993,
+      "bottom": 29.339999999999996,
+      "confidence": 96.553368,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "constitutional",
+      "x0": 302.58,
+      "top": 21.419999999999998,
+      "x1": 363.24,
+      "bottom": 29.339999999999996,
+      "confidence": 96.223785,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "validity",
+      "x0": 366.12,
+      "top": 21.419999999999998,
+      "x1": 398.16,
+      "bottom": 31.32,
+      "confidence": 96.209923,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 400.85999999999996,
+      "top": 21.24,
+      "x1": 409.13999999999993,
+      "bottom": 29.339999999999996,
+      "confidence": 96.945076,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Central",
+      "x0": 412.02,
+      "top": 21.24,
+      "x1": 444.96,
+      "bottom": 29.339999999999996,
+      "confidence": 93.264633,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Government’s",
+      "x0": 448.38,
+      "top": 21.24,
+      "x1": 513.36,
+      "bottom": 29.339999999999996,
+      "confidence": 90.610497,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "policy",
+      "x0": 111.6,
+      "top": 38.339999999999996,
+      "x1": 138.06,
+      "bottom": 48.239999999999995,
+      "confidence": 96.154526,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "regarding",
+      "x0": 142.92,
+      "top": 38.339999999999996,
+      "x1": 186.65999999999997,
+      "bottom": 48.419999999999995,
+      "confidence": 96.13446,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "vaccine",
+      "x0": 191.34,
+      "top": 38.339999999999996,
+      "x1": 226.98000000000002,
+      "bottom": 46.26,
+      "confidence": 96.13446,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "procurement",
+      "x0": 231.84,
+      "top": 38.879999999999995,
+      "x1": 291.06,
+      "bottom": 48.239999999999995,
+      "confidence": 96.306618,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "and",
+      "x0": 295.56,
+      "top": 38.339999999999996,
+      "x1": 312.48,
+      "bottom": 46.26,
+      "confidence": 96.758949,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "distribution",
+      "x0": 317.34,
+      "top": 38.339999999999996,
+      "x1": 367.91999999999996,
+      "bottom": 46.26,
+      "confidence": 96.233604,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "among",
+      "x0": 372.96,
+      "top": 40.32,
+      "x1": 404.64,
+      "bottom": 48.42,
+      "confidence": 96.112007,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "different",
+      "x0": 409.5,
+      "top": 38.339999999999996,
+      "x1": 447.48,
+      "bottom": 46.26,
+      "confidence": 96.448296,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "categories",
+      "x0": 451.8,
+      "top": 38.339999999999996,
+      "x1": 500.58000000000004,
+      "bottom": 48.419999999999995,
+      "confidence": 96.068306,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 505.08,
+      "top": 38.339999999999996,
+      "x1": 513.54,
+      "bottom": 46.26,
+      "confidence": 96.732735,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "the",
+      "x0": 111.06,
+      "top": 55.26,
+      "x1": 125.28,
+      "bottom": 63.18,
+      "confidence": 95.704636,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "population.",
+      "x0": 129.42,
+      "top": 55.26,
+      "x1": 180.17999999999998,
+      "bottom": 65.16,
+      "confidence": 96.171906,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Such",
+      "x0": 184.68,
+      "top": 55.08,
+      "x1": 207.72,
+      "bottom": 63.18,
+      "confidence": 95.65049,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "policy",
+      "x0": 212.04,
+      "top": 55.26,
+      "x1": 238.68,
+      "bottom": 65.16,
+      "confidence": 95.65049,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "is",
+      "x0": 242.45999999999998,
+      "top": 55.26,
+      "x1": 249.11999999999998,
+      "bottom": 63.18,
+      "confidence": 96.741699,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "known",
+      "x0": 253.26,
+      "top": 55.26,
+      "x1": 282.78,
+      "bottom": 63.18,
+      "confidence": 95.626366,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "as:",
+      "x0": 286.74,
+      "top": 57.239999999999995,
+      "x1": 299.7,
+      "bottom": 63.17999999999999,
+      "confidence": 96.820923,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(A)",
+      "x0": 111.06,
+      "top": 72.0,
+      "x1": 123.84,
+      "bottom": 82.08,
+      "confidence": 96.744514,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Vaccination",
+      "x0": 129.6,
+      "top": 72.17999999999999,
+      "x1": 183.95999999999998,
+      "bottom": 80.1,
+      "confidence": 96.620178,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Distribution",
+      "x0": 188.64,
+      "top": 72.17999999999999,
+      "x1": 240.48,
+      "bottom": 80.1,
+      "confidence": 96.362549,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Policy.",
+      "x0": 245.16,
+      "top": 72.17999999999999,
+      "x1": 274.86,
+      "bottom": 82.25999999999999,
+      "confidence": 95.949043,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(B)",
+      "x0": 324.0,
+      "top": 72.0,
+      "x1": 336.96,
+      "bottom": 82.08,
+      "confidence": 90.691925,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Liberalized",
+      "x0": 344.34,
+      "top": 72.17999999999999,
+      "x1": 394.55999999999995,
+      "bottom": 80.1,
+      "confidence": 90.691925,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Vaccination",
+      "x0": 398.52,
+      "top": 72.17999999999999,
+      "x1": 452.88,
+      "bottom": 80.1,
+      "confidence": 95.812958,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Policy.",
+      "x0": 457.38,
+      "top": 72.17999999999999,
+      "x1": 487.08,
+      "bottom": 82.25999999999999,
+      "confidence": 96.503242,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(C)",
+      "x0": 110.33999999999999,
+      "top": 88.92,
+      "x1": 123.83999999999999,
+      "bottom": 99.0,
+      "confidence": 92.567924,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Central",
+      "x0": 129.96,
+      "top": 88.92,
+      "x1": 163.26,
+      "bottom": 97.02,
+      "confidence": 95.944405,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Vaccination",
+      "x0": 167.22,
+      "top": 89.1,
+      "x1": 221.57999999999998,
+      "bottom": 97.02,
+      "confidence": 96.129433,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Distribution",
+      "x0": 226.07999999999998,
+      "top": 89.1,
+      "x1": 277.91999999999996,
+      "bottom": 97.02,
+      "confidence": 95.856529,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Policy.",
+      "x0": 282.59999999999997,
+      "top": 89.1,
+      "x1": 312.29999999999995,
+      "bottom": 99.17999999999999,
+      "confidence": 91.961304,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(D)",
+      "x0": 323.46,
+      "top": 88.92,
+      "x1": 336.96,
+      "bottom": 99.0,
+      "confidence": 91.699257,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "None",
+      "x0": 344.34,
+      "top": 89.1,
+      "x1": 368.64,
+      "bottom": 97.02,
+      "confidence": 96.405075,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 372.41999999999996,
+      "top": 89.1,
+      "x1": 380.69999999999993,
+      "bottom": 97.02,
+      "confidence": 96.242844,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 384.12,
+      "top": 89.1,
+      "x1": 398.34000000000003,
+      "bottom": 97.02,
+      "confidence": 96.616447,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "above.",
+      "x0": 402.12,
+      "top": 89.1,
+      "x1": 433.08,
+      "bottom": 97.02,
+      "confidence": 95.787086,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

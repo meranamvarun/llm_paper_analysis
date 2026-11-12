@@ -1,0 +1,103 @@
+{
+  "pdf_page": 409,
+  "crop_top": 9.68,
+  "crop_bottom": 27.04,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0408:l0040:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "W",
+      "bbox": [
+        53.82,
+        3.2399999999999998,
+        58.14,
+        12.06
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "3. Not more than 238",
+      "bbox": [
+        38.339999999999996,
+        6.3,
+        155.51999999999998,
+        13.5
+      ]
+    }
+  ],
+  "text": "W\n3. Not more than 238",
+  "ocr_words": [
+    {
+      "text": "3.",
+      "x0": 38.339999999999996,
+      "top": 6.3,
+      "x1": 45.53999999999999,
+      "bottom": 13.5,
+      "confidence": 90.408737,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "W",
+      "x0": 53.82,
+      "top": 3.2399999999999998,
+      "x1": 58.14,
+      "bottom": 12.06,
+      "confidence": 0.0,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Not",
+      "x0": 64.25999999999999,
+      "top": 6.3,
+      "x1": 80.63999999999999,
+      "bottom": 13.5,
+      "confidence": 66.480408,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "more",
+      "x0": 84.24,
+      "top": 7.739999999999999,
+      "x1": 108.0,
+      "bottom": 13.5,
+      "confidence": 95.994095,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "than",
+      "x0": 111.6,
+      "top": 6.3,
+      "x1": 133.2,
+      "bottom": 13.5,
+      "confidence": 96.005554,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "238",
+      "x0": 137.51999999999998,
+      "top": 6.3,
+      "x1": 155.51999999999998,
+      "bottom": 13.5,
+      "confidence": 94.600861,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "inputs": {
+    "data\\automated_quality\\20261112\\full_recheck_v1\\questions.jsonl": "40a43fe1f14401596202013bc494b50245ccbc6e677f30c5c51b4f574445c988",
+    "data\\automated_quality\\20261112\\full_recheck_v1\\manifest.json": "8fa798b416ee08add60d432be1f5df0de73425ff0b3bd6e0468eba70c005a0bf",
+    "data\\automated_quality\\20261112\\embedded_fields_v1\\fields.jsonl": "11c6fd5ad5cb1993c5c164bc979e7b1401c38f85941b9f1dfcedf3a4dceaccb7",
+    "data\\automated_quality\\20261112\\embedded_fields_v1\\manifest.json": "b8cbef41b55c70d86e661234e304aa11d2142817dfe6f1f78c5e895eb427b744",
+    "C:\\Users\\malai\\varun_code\\llm_paper_analysis\\data\\automated_quality\\20261112\\apply_field_consensus.py": "1de545a16e156b3ed0a2e5963159a9e5a0a0185c93c7775213c2a45e1d116fee",
+    "extraction\\field_consensus.py": "637af336fbe8469f84efe6210f8c9ae74a0f734b1f5fe8cc99a983a2cecb3baa"
+  },
+  "outputs": {
+    "abstentions.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "field_reading_disagreements.jsonl": "41a02900bca16e7c1454b97c95dd1ae6bf6f25c9ed594dab40a6de954ac7b89a",
+    "passages.jsonl": "17146e478e0e35884ac4a2a995728badfe3f8e31bd5b7af0f4e307567cbc0412",
+    "questions.jsonl": "73eb3393c363c0c3eab7b4c821b42124adbadcad834351fec2868fa306c0f9b7",
+    "repairs.jsonl": "e2090d3466edffece2f63c0a58d9bf817e635a092ee9d1f1d4c4c1b1a766ebe2",
+    "structural_findings.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "summary.json": "620d4c5b1615a92511b888e4662b9ba27c918c78904c39d9986eebf46352286b"
+  }
+}

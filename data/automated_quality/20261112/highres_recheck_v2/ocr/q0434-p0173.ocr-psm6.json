@@ -1,0 +1,49 @@
+{
+  "pdf_page": 173,
+  "crop_top": 58.42399999999998,
+  "crop_bottom": 79.42399999999998,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0172:l0018:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "ri PG",
+      "bbox": [
+        66.06,
+        4.32,
+        551.6999999999999,
+        21.06
+      ]
+    }
+  ],
+  "text": "ri PG",
+  "ocr_words": [
+    {
+      "text": "ri",
+      "x0": 66.06,
+      "top": 4.32,
+      "x1": 68.22,
+      "bottom": 21.06,
+      "confidence": 26.232292,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "PG",
+      "x0": 532.0799999999999,
+      "top": 4.68,
+      "x1": 551.6999999999999,
+      "bottom": 14.58,
+      "confidence": 96.774323,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

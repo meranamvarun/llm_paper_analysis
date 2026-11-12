@@ -1,0 +1,992 @@
+{
+  "pdf_page": 78,
+  "crop_top": 550.1186,
+  "crop_bottom": 709.1186,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0078:l0028:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "85. Consider the given statements:",
+      "bbox": [
+        105.40799999999999,
+        4.608,
+        283.392,
+        14.831999999999997
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Statement I: Rights in Rem are the rights in the things of others, also called",
+      "bbox": [
+        126.71999999999998,
+        18.575999999999997,
+        551.952,
+        28.799999999999997
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "encumbrances.",
+      "bbox": [
+        126.43199999999999,
+        32.687999999999995,
+        201.024,
+        40.751999999999995
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "Statement I]: Rights in Re propria the right available against the whole",
+      "bbox": [
+        126.71999999999998,
+        46.51199999999999,
+        551.664,
+        56.879999999999995
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "means",
+      "bbox": [
+        316.65599999999995,
+        49.535999999999994,
+        349.19999999999993,
+        54.86399999999999
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "world.",
+      "bbox": [
+        126.288,
+        60.623999999999995,
+        156.95999999999998,
+        68.832
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "Statement III: Rights in Personam mean the rights in one’s own things.",
+      "bbox": [
+        126.71999999999998,
+        74.592,
+        489.45599999999996,
+        84.816
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "Choose the correct answer:",
+      "bbox": [
+        126.71999999999998,
+        88.55999999999999,
+        261.792,
+        96.91199999999999
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "(A) Statement I is correct",
+      "bbox": [
+        125.42399999999999,
+        102.52799999999999,
+        258.192,
+        112.752
+      ]
+    },
+    {
+      "line_id": "l0009",
+      "text": "(B) Statements I & II correct",
+      "bbox": [
+        125.42399999999999,
+        116.496,
+        295.2,
+        126.71999999999998
+      ]
+    },
+    {
+      "line_id": "l0010",
+      "text": "are",
+      "bbox": [
+        241.63199999999998,
+        119.52,
+        257.18399999999997,
+        124.848
+      ]
+    },
+    {
+      "line_id": "l0011",
+      "text": "(C) Statements I, II & III correct",
+      "bbox": [
+        126.288,
+        130.464,
+        305.712,
+        140.68800000000002
+      ]
+    },
+    {
+      "line_id": "l0012",
+      "text": "are",
+      "bbox": [
+        254.87999999999997,
+        133.488,
+        269.856,
+        138.816
+      ]
+    },
+    {
+      "line_id": "l0013",
+      "text": "(D) None of the above",
+      "bbox": [
+        124.84799999999998,
+        144.576,
+        238.176,
+        154.79999999999998
+      ]
+    }
+  ],
+  "text": "85. Consider the given statements:\nStatement I: Rights in Rem are the rights in the things of others, also called\nencumbrances.\nStatement I]: Rights in Re propria the right available against the whole\nmeans\nworld.\nStatement III: Rights in Personam mean the rights in one’s own things.\nChoose the correct answer:\n(A) Statement I is correct\n(B) Statements I & II correct\nare\n(C) Statements I, II & III correct\nare\n(D) None of the above",
+  "ocr_words": [
+    {
+      "text": "85.",
+      "x0": 105.40799999999999,
+      "top": 5.04,
+      "x1": 119.088,
+      "bottom": 12.815999999999999,
+      "confidence": 96.618073,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Consider",
+      "x0": 126.71999999999998,
+      "top": 4.608,
+      "x1": 171.21599999999998,
+      "bottom": 12.815999999999999,
+      "confidence": 96.688126,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 174.81599999999997,
+      "top": 4.608,
+      "x1": 190.51199999999997,
+      "bottom": 12.815999999999999,
+      "confidence": 96.279587,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "given",
+      "x0": 194.54399999999998,
+      "top": 4.608,
+      "x1": 221.32799999999997,
+      "bottom": 14.831999999999997,
+      "confidence": 96.453522,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "statements:",
+      "x0": 225.21599999999998,
+      "top": 5.616,
+      "x1": 283.392,
+      "bottom": 12.815999999999999,
+      "confidence": 96.685921,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Statement",
+      "x0": 126.71999999999998,
+      "top": 18.575999999999997,
+      "x1": 181.00799999999998,
+      "bottom": 26.784,
+      "confidence": 95.609329,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "I:",
+      "x0": 186.624,
+      "top": 18.72,
+      "x1": 193.248,
+      "bottom": 26.784,
+      "confidence": 96.438347,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Rights",
+      "x0": 199.44,
+      "top": 18.575999999999997,
+      "x1": 233.136,
+      "bottom": 28.799999999999997,
+      "confidence": 96.701431,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "in",
+      "x0": 238.896,
+      "top": 18.575999999999997,
+      "x1": 248.832,
+      "bottom": 26.639999999999997,
+      "confidence": 96.061218,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Rem",
+      "x0": 254.44799999999998,
+      "top": 18.72,
+      "x1": 277.488,
+      "bottom": 26.784,
+      "confidence": 95.132271,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "are",
+      "x0": 283.392,
+      "top": 21.456,
+      "x1": 299.376,
+      "bottom": 26.784,
+      "confidence": 96.426445,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 305.13599999999997,
+      "top": 18.575999999999997,
+      "x1": 321.40799999999996,
+      "bottom": 26.784,
+      "confidence": 96.385605,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "rights",
+      "x0": 327.16799999999995,
+      "top": 18.575999999999997,
+      "x1": 357.9839999999999,
+      "bottom": 28.799999999999997,
+      "confidence": 95.54985,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "in",
+      "x0": 363.74399999999997,
+      "top": 18.575999999999997,
+      "x1": 373.67999999999995,
+      "bottom": 26.639999999999997,
+      "confidence": 96.451103,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 379.152,
+      "top": 18.575999999999997,
+      "x1": 395.424,
+      "bottom": 26.784,
+      "confidence": 96.025093,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "things",
+      "x0": 401.18399999999997,
+      "top": 18.575999999999997,
+      "x1": 433.87199999999996,
+      "bottom": 28.799999999999997,
+      "confidence": 96.358688,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 439.77599999999995,
+      "top": 18.575999999999997,
+      "x1": 449.424,
+      "bottom": 26.784,
+      "confidence": 96.600792,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "others,",
+      "x0": 454.176,
+      "top": 18.575999999999997,
+      "x1": 489.312,
+      "bottom": 28.511999999999997,
+      "confidence": 95.647514,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "also",
+      "x0": 495.792,
+      "top": 18.575999999999997,
+      "x1": 515.808,
+      "bottom": 26.784,
+      "confidence": 95.647514,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "called",
+      "x0": 521.568,
+      "top": 18.575999999999997,
+      "x1": 551.952,
+      "bottom": 26.784,
+      "confidence": 96.059296,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "encumbrances.",
+      "x0": 126.43199999999999,
+      "top": 32.687999999999995,
+      "x1": 201.024,
+      "bottom": 40.751999999999995,
+      "confidence": 95.986267,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Statement",
+      "x0": 126.71999999999998,
+      "top": 46.51199999999999,
+      "x1": 179.712,
+      "bottom": 54.86399999999999,
+      "confidence": 96.716583,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "I]:",
+      "x0": 185.184,
+      "top": 46.656,
+      "x1": 195.984,
+      "bottom": 54.864,
+      "confidence": 76.53878,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Rights",
+      "x0": 201.88799999999998,
+      "top": 46.656,
+      "x1": 235.00799999999998,
+      "bottom": 56.879999999999995,
+      "confidence": 96.166931,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "in",
+      "x0": 240.48,
+      "top": 46.656,
+      "x1": 250.272,
+      "bottom": 54.72,
+      "confidence": 96.625854,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Re",
+      "x0": 255.456,
+      "top": 46.656,
+      "x1": 268.272,
+      "bottom": 54.864,
+      "confidence": 96.553947,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "propria",
+      "x0": 273.74399999999997,
+      "top": 46.656,
+      "x1": 311.03999999999996,
+      "bottom": 56.736,
+      "confidence": 96.492325,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "means",
+      "x0": 316.65599999999995,
+      "top": 49.535999999999994,
+      "x1": 349.19999999999993,
+      "bottom": 54.86399999999999,
+      "confidence": 96.456619,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "the",
+      "x0": 354.67199999999997,
+      "top": 46.656,
+      "x1": 370.65599999999995,
+      "bottom": 54.864,
+      "confidence": 96.636757,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "right",
+      "x0": 375.984,
+      "top": 46.656,
+      "x1": 401.03999999999996,
+      "bottom": 56.879999999999995,
+      "confidence": 96.330742,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "available",
+      "x0": 406.65599999999995,
+      "top": 46.656,
+      "x1": 452.5919999999999,
+      "bottom": 54.864,
+      "confidence": 96.373108,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "against",
+      "x0": 458.20799999999997,
+      "top": 46.656,
+      "x1": 495.64799999999997,
+      "bottom": 56.879999999999995,
+      "confidence": 96.638794,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "the",
+      "x0": 500.83199999999994,
+      "top": 46.656,
+      "x1": 516.8159999999999,
+      "bottom": 54.864,
+      "confidence": 96.793983,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "whole",
+      "x0": 522.288,
+      "top": 46.656,
+      "x1": 551.664,
+      "bottom": 54.864,
+      "confidence": 96.596748,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "world.",
+      "x0": 126.288,
+      "top": 60.623999999999995,
+      "x1": 156.95999999999998,
+      "bottom": 68.832,
+      "confidence": 96.909622,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Statement",
+      "x0": 126.71999999999998,
+      "top": 74.592,
+      "x1": 179.13599999999997,
+      "bottom": 82.8,
+      "confidence": 96.487366,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "III:",
+      "x0": 182.88,
+      "top": 74.73599999999999,
+      "x1": 198.144,
+      "bottom": 82.79999999999998,
+      "confidence": 91.638588,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Rights",
+      "x0": 202.32,
+      "top": 74.592,
+      "x1": 234.86399999999998,
+      "bottom": 84.816,
+      "confidence": 96.252357,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "in",
+      "x0": 238.75199999999998,
+      "top": 74.592,
+      "x1": 248.39999999999998,
+      "bottom": 82.656,
+      "confidence": 91.54641,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Personam",
+      "x0": 252.14399999999998,
+      "top": 74.73599999999999,
+      "x1": 302.256,
+      "bottom": 82.79999999999998,
+      "confidence": 90.978577,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "mean",
+      "x0": 306.28799999999995,
+      "top": 77.472,
+      "x1": 333.64799999999997,
+      "bottom": 82.8,
+      "confidence": 96.223976,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "the",
+      "x0": 337.104,
+      "top": 74.592,
+      "x1": 352.94399999999996,
+      "bottom": 82.8,
+      "confidence": 96.571236,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "rights",
+      "x0": 356.688,
+      "top": 74.592,
+      "x1": 386.352,
+      "bottom": 84.816,
+      "confidence": 95.932693,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "in",
+      "x0": 390.09599999999995,
+      "top": 74.592,
+      "x1": 399.74399999999997,
+      "bottom": 82.656,
+      "confidence": 62.685928,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "one’s",
+      "x0": 403.48799999999994,
+      "top": 74.592,
+      "x1": 427.67999999999995,
+      "bottom": 82.8,
+      "confidence": 95.600456,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "own",
+      "x0": 431.568,
+      "top": 77.472,
+      "x1": 451.728,
+      "bottom": 82.8,
+      "confidence": 94.669823,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "things.",
+      "x0": 455.328,
+      "top": 74.592,
+      "x1": 489.45599999999996,
+      "bottom": 84.816,
+      "confidence": 96.020256,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Choose",
+      "x0": 126.71999999999998,
+      "top": 88.55999999999999,
+      "x1": 161.856,
+      "bottom": 96.91199999999999,
+      "confidence": 96.444794,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "the",
+      "x0": 165.6,
+      "top": 88.55999999999999,
+      "x1": 181.44,
+      "bottom": 96.76799999999999,
+      "confidence": 96.840828,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "correct",
+      "x0": 185.184,
+      "top": 89.568,
+      "x1": 219.456,
+      "bottom": 96.768,
+      "confidence": 96.774345,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "answer:",
+      "x0": 223.344,
+      "top": 91.44,
+      "x1": 261.792,
+      "bottom": 96.768,
+      "confidence": 96.457573,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "(A)",
+      "x0": 125.42399999999999,
+      "top": 102.52799999999999,
+      "x1": 139.248,
+      "bottom": 112.752,
+      "confidence": 96.662376,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "Statement",
+      "x0": 148.75199999999998,
+      "top": 102.52799999999999,
+      "x1": 201.16799999999998,
+      "bottom": 110.88,
+      "confidence": 96.730919,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "I",
+      "x0": 204.91199999999998,
+      "top": 102.672,
+      "x1": 208.51199999999997,
+      "bottom": 110.73599999999999,
+      "confidence": 94.599335,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "is",
+      "x0": 212.25599999999997,
+      "top": 102.672,
+      "x1": 220.03199999999998,
+      "bottom": 110.88,
+      "confidence": 96.6661,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "correct",
+      "x0": 223.92,
+      "top": 103.53599999999999,
+      "x1": 258.192,
+      "bottom": 110.87999999999998,
+      "confidence": 96.566628,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "(B)",
+      "x0": 125.42399999999999,
+      "top": 116.63999999999999,
+      "x1": 139.248,
+      "bottom": 126.71999999999998,
+      "confidence": 92.623222,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "9"
+    },
+    {
+      "text": "Statements",
+      "x0": 148.75199999999998,
+      "top": 116.496,
+      "x1": 206.06399999999996,
+      "bottom": 124.848,
+      "confidence": 96.232567,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "9"
+    },
+    {
+      "text": "I",
+      "x0": 209.952,
+      "top": 116.78399999999999,
+      "x1": 213.552,
+      "bottom": 124.704,
+      "confidence": 93.18589,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "9"
+    },
+    {
+      "text": "&",
+      "x0": 217.72799999999998,
+      "top": 116.496,
+      "x1": 225.504,
+      "bottom": 124.848,
+      "confidence": 93.18589,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "9"
+    },
+    {
+      "text": "II",
+      "x0": 229.53599999999997,
+      "top": 116.78399999999999,
+      "x1": 237.59999999999997,
+      "bottom": 124.704,
+      "confidence": 94.757309,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "9"
+    },
+    {
+      "text": "are",
+      "x0": 241.63199999999998,
+      "top": 119.52,
+      "x1": 257.18399999999997,
+      "bottom": 124.848,
+      "confidence": 96.108276,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "9"
+    },
+    {
+      "text": "correct",
+      "x0": 260.928,
+      "top": 117.50399999999999,
+      "x1": 295.2,
+      "bottom": 124.84799999999998,
+      "confidence": 96.797539,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "9"
+    },
+    {
+      "text": "(C)",
+      "x0": 126.288,
+      "top": 130.608,
+      "x1": 139.536,
+      "bottom": 140.68800000000002,
+      "confidence": 92.997513,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "10"
+    },
+    {
+      "text": "Statements",
+      "x0": 148.75199999999998,
+      "top": 130.608,
+      "x1": 203.47199999999998,
+      "bottom": 138.816,
+      "confidence": 94.127472,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "10"
+    },
+    {
+      "text": "I,",
+      "x0": 206.928,
+      "top": 130.75199999999998,
+      "x1": 212.976,
+      "bottom": 140.54399999999998,
+      "confidence": 94.127472,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "10"
+    },
+    {
+      "text": "II",
+      "x0": 216.71999999999997,
+      "top": 130.75199999999998,
+      "x1": 224.49599999999998,
+      "bottom": 138.67199999999997,
+      "confidence": 82.035934,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "10"
+    },
+    {
+      "text": "&",
+      "x0": 228.23999999999998,
+      "top": 130.464,
+      "x1": 235.87199999999999,
+      "bottom": 138.816,
+      "confidence": 92.812798,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "10"
+    },
+    {
+      "text": "III",
+      "x0": 239.32799999999997,
+      "top": 130.75199999999998,
+      "x1": 251.42399999999998,
+      "bottom": 138.67199999999997,
+      "confidence": 82.315628,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "10"
+    },
+    {
+      "text": "are",
+      "x0": 254.87999999999997,
+      "top": 133.488,
+      "x1": 269.856,
+      "bottom": 138.816,
+      "confidence": 95.701508,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "10"
+    },
+    {
+      "text": "correct",
+      "x0": 273.168,
+      "top": 131.61599999999999,
+      "x1": 305.712,
+      "bottom": 138.81599999999997,
+      "confidence": 96.689583,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "10"
+    },
+    {
+      "text": "(D)",
+      "x0": 124.84799999999998,
+      "top": 144.576,
+      "x1": 139.248,
+      "bottom": 154.79999999999998,
+      "confidence": 90.098221,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "11"
+    },
+    {
+      "text": "None",
+      "x0": 148.464,
+      "top": 144.72,
+      "x1": 174.24,
+      "bottom": 152.784,
+      "confidence": 95.633743,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "11"
+    },
+    {
+      "text": "of",
+      "x0": 178.128,
+      "top": 144.576,
+      "x1": 187.63199999999998,
+      "bottom": 152.784,
+      "confidence": 95.633743,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "11"
+    },
+    {
+      "text": "the",
+      "x0": 190.224,
+      "top": 144.576,
+      "x1": 206.064,
+      "bottom": 152.784,
+      "confidence": 96.694504,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "11"
+    },
+    {
+      "text": "above",
+      "x0": 210.09599999999998,
+      "top": 144.576,
+      "x1": 238.176,
+      "bottom": 152.784,
+      "confidence": 96.694504,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "11"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

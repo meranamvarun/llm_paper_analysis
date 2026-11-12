@@ -1,0 +1,527 @@
+{
+  "pdf_page": 221,
+  "crop_top": 640.88,
+  "crop_bottom": 727.12,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0221:l0035:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "115. Under what statutory authority did the court pass the ‘provisional measures’ against",
+      "bbox": [
+        85.32,
+        3.96,
+        513.54,
+        14.04
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "the Russian Federation?",
+      "bbox": [
+        111.06,
+        17.64,
+        226.79999999999998,
+        25.560000000000002
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(A) Charter of the United Nations 1945",
+      "bbox": [
+        111.06,
+        31.32,
+        294.3,
+        41.4
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(B) Statute of the International Court of Justice 1945",
+      "bbox": [
+        111.06,
+        45.0,
+        358.56,
+        55.08
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(C) Genocide Convention, 1948",
+      "bbox": [
+        110.33999999999999,
+        58.68,
+        261.71999999999997,
+        68.76
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "(D) None of the above",
+      "bbox": [
+        110.33999999999999,
+        72.53999999999999,
+        216.35999999999999,
+        82.61999999999999
+      ]
+    }
+  ],
+  "text": "115. Under what statutory authority did the court pass the ‘provisional measures’ against\nthe Russian Federation?\n(A) Charter of the United Nations 1945\n(B) Statute of the International Court of Justice 1945\n(C) Genocide Convention, 1948\n(D) None of the above",
+  "ocr_words": [
+    {
+      "text": "115.",
+      "x0": 85.32,
+      "top": 4.14,
+      "x1": 104.22,
+      "bottom": 11.879999999999999,
+      "confidence": 95.872078,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Under",
+      "x0": 111.78,
+      "top": 3.96,
+      "x1": 140.04,
+      "bottom": 11.879999999999999,
+      "confidence": 96.246849,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "what",
+      "x0": 144.0,
+      "top": 3.96,
+      "x1": 166.14,
+      "bottom": 11.879999999999999,
+      "confidence": 96.863281,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "statutory",
+      "x0": 170.45999999999998,
+      "top": 4.5,
+      "x1": 210.95999999999998,
+      "bottom": 14.04,
+      "confidence": 96.284843,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "authority",
+      "x0": 215.28,
+      "top": 3.96,
+      "x1": 255.78,
+      "bottom": 14.04,
+      "confidence": 95.691895,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "did",
+      "x0": 260.09999999999997,
+      "top": 3.96,
+      "x1": 273.41999999999996,
+      "bottom": 11.879999999999999,
+      "confidence": 96.660927,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 277.92,
+      "top": 3.96,
+      "x1": 292.14,
+      "bottom": 11.879999999999999,
+      "confidence": 96.492905,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "court",
+      "x0": 296.64,
+      "top": 4.5,
+      "x1": 319.86,
+      "bottom": 11.879999999999999,
+      "confidence": 96.492905,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "pass",
+      "x0": 324.53999999999996,
+      "top": 5.9399999999999995,
+      "x1": 346.14,
+      "bottom": 13.86,
+      "confidence": 96.543892,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 350.28,
+      "top": 3.96,
+      "x1": 364.67999999999995,
+      "bottom": 11.879999999999999,
+      "confidence": 96.63765,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "‘provisional",
+      "x0": 369.53999999999996,
+      "top": 3.96,
+      "x1": 421.55999999999995,
+      "bottom": 13.86,
+      "confidence": 96.834229,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "measures’",
+      "x0": 426.78,
+      "top": 4.14,
+      "x1": 474.65999999999997,
+      "bottom": 11.879999999999999,
+      "confidence": 96.25074,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "against",
+      "x0": 479.52,
+      "top": 3.96,
+      "x1": 513.54,
+      "bottom": 14.04,
+      "confidence": 96.477707,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 111.06,
+      "top": 17.82,
+      "x1": 125.28,
+      "bottom": 25.56,
+      "confidence": 96.53405,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Russian",
+      "x0": 129.78,
+      "top": 17.82,
+      "x1": 166.68,
+      "bottom": 25.56,
+      "confidence": 96.29586,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Federation?",
+      "x0": 171.35999999999999,
+      "top": 17.64,
+      "x1": 226.79999999999998,
+      "bottom": 25.560000000000002,
+      "confidence": 96.468246,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(A)",
+      "x0": 111.06,
+      "top": 31.32,
+      "x1": 123.84,
+      "bottom": 41.4,
+      "confidence": 96.897392,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Charter",
+      "x0": 129.96,
+      "top": 31.32,
+      "x1": 165.06,
+      "bottom": 39.42,
+      "confidence": 96.507202,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 168.48,
+      "top": 31.32,
+      "x1": 176.76,
+      "bottom": 39.24,
+      "confidence": 96.685028,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "the",
+      "x0": 180.18,
+      "top": 31.5,
+      "x1": 194.4,
+      "bottom": 39.24,
+      "confidence": 96.759674,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "United",
+      "x0": 198.72,
+      "top": 31.5,
+      "x1": 228.06,
+      "bottom": 39.42,
+      "confidence": 96.226494,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Nations",
+      "x0": 232.56,
+      "top": 31.5,
+      "x1": 267.66,
+      "bottom": 39.24,
+      "confidence": 96.336693,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "1945",
+      "x0": 271.98,
+      "top": 31.68,
+      "x1": 294.3,
+      "bottom": 39.42,
+      "confidence": 96.86248,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(B)",
+      "x0": 111.06,
+      "top": 45.0,
+      "x1": 123.84,
+      "bottom": 55.08,
+      "confidence": 93.165779,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Statute",
+      "x0": 129.96,
+      "top": 45.0,
+      "x1": 162.9,
+      "bottom": 53.1,
+      "confidence": 96.754486,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "of",
+      "x0": 166.68,
+      "top": 45.0,
+      "x1": 175.14000000000001,
+      "bottom": 53.1,
+      "confidence": 96.582573,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "the",
+      "x0": 178.38,
+      "top": 45.18,
+      "x1": 192.6,
+      "bottom": 53.1,
+      "confidence": 96.582573,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "International",
+      "x0": 197.1,
+      "top": 45.18,
+      "x1": 254.16,
+      "bottom": 53.1,
+      "confidence": 96.497803,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Court",
+      "x0": 258.3,
+      "top": 45.0,
+      "x1": 283.86,
+      "bottom": 53.1,
+      "confidence": 96.013313,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "of",
+      "x0": 287.46,
+      "top": 45.18,
+      "x1": 295.73999999999995,
+      "bottom": 53.1,
+      "confidence": 96.378052,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Justice",
+      "x0": 299.15999999999997,
+      "top": 45.18,
+      "x1": 331.91999999999996,
+      "bottom": 53.1,
+      "confidence": 96.58828,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "1945",
+      "x0": 336.24,
+      "top": 45.36,
+      "x1": 358.56,
+      "bottom": 53.1,
+      "confidence": 96.72081,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(C)",
+      "x0": 110.33999999999999,
+      "top": 58.68,
+      "x1": 123.83999999999999,
+      "bottom": 68.76,
+      "confidence": 92.97467,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Genocide",
+      "x0": 129.96,
+      "top": 58.68,
+      "x1": 174.78,
+      "bottom": 66.78,
+      "confidence": 96.259865,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Convention,",
+      "x0": 178.73999999999998,
+      "top": 58.68,
+      "x1": 234.35999999999999,
+      "bottom": 68.22,
+      "confidence": 96.45874,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "1948",
+      "x0": 239.39999999999998,
+      "top": 59.04,
+      "x1": 261.71999999999997,
+      "bottom": 66.78,
+      "confidence": 96.707825,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "(D)",
+      "x0": 110.33999999999999,
+      "top": 72.53999999999999,
+      "x1": 123.83999999999999,
+      "bottom": 82.61999999999999,
+      "confidence": 90.786331,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "None",
+      "x0": 130.14,
+      "top": 72.72,
+      "x1": 154.61999999999998,
+      "bottom": 80.46,
+      "confidence": 96.777954,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "of",
+      "x0": 158.4,
+      "top": 72.53999999999999,
+      "x1": 166.68,
+      "bottom": 80.46,
+      "confidence": 95.066872,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "the",
+      "x0": 169.92,
+      "top": 72.72,
+      "x1": 184.32,
+      "bottom": 80.46,
+      "confidence": 96.444496,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "above",
+      "x0": 188.1,
+      "top": 72.72,
+      "x1": 216.35999999999999,
+      "bottom": 80.46,
+      "confidence": 96.867676,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

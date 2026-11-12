@@ -1,0 +1,329 @@
+{
+  "pdf_page": 391,
+  "crop_top": 61.60136,
+  "crop_bottom": 162.48136,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0391:l0002:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.4 Under the Patents Act, 1970 a patent is granted for:",
+      "bbox": [
+        43.775999999999996,
+        4.4639999999999995,
+        222.76799999999997,
+        10.943999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Ans XXSK",
+      "bbox": [
+        43.343999999999994,
+        14.975999999999999,
+        87.55199999999999,
+        71.136
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "1. invention",
+      "bbox": [
+        88.55999999999999,
+        26.063999999999997,
+        123.55199999999999,
+        30.959999999999997
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "2. discovery",
+      "bbox": [
+        88.27199999999999,
+        47.232,
+        123.984,
+        53.568
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "3. observation",
+      "bbox": [
+        88.27199999999999,
+        68.544,
+        131.04,
+        73.728
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "x",
+      "bbox": [
+        73.008,
+        79.91999999999999,
+        86.544,
+        92.44799999999998
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "4. finding",
+      "bbox": [
+        88.128,
+        89.856,
+        116.208,
+        96.336
+      ]
+    }
+  ],
+  "text": "Q.4 Under the Patents Act, 1970 a patent is granted for:\nAns XXSK\n1. invention\n2. discovery\n3. observation\nx\n4. finding",
+  "ocr_words": [
+    {
+      "text": "Q.4",
+      "x0": 43.775999999999996,
+      "top": 4.752,
+      "x1": 54.288,
+      "bottom": 10.367999999999999,
+      "confidence": 91.169525,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Under",
+      "x0": 62.928,
+      "top": 4.4639999999999995,
+      "x1": 81.648,
+      "bottom": 9.648,
+      "confidence": 95.113625,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 83.52,
+      "top": 4.4639999999999995,
+      "x1": 93.6,
+      "bottom": 9.648,
+      "confidence": 95.113625,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Patents",
+      "x0": 96.04799999999999,
+      "top": 4.896,
+      "x1": 118.94399999999999,
+      "bottom": 9.648,
+      "confidence": 96.794647,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Act,",
+      "x0": 121.10399999999998,
+      "top": 4.896,
+      "x1": 132.76799999999997,
+      "bottom": 10.655999999999999,
+      "confidence": 96.60556,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1970",
+      "x0": 135.35999999999999,
+      "top": 4.752,
+      "x1": 149.904,
+      "bottom": 9.648,
+      "confidence": 96.171791,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 152.064,
+      "top": 6.047999999999999,
+      "x1": 154.944,
+      "bottom": 9.648,
+      "confidence": 95.375572,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "patent",
+      "x0": 157.67999999999998,
+      "top": 5.183999999999999,
+      "x1": 177.69599999999997,
+      "bottom": 10.943999999999999,
+      "confidence": 95.375572,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 180.0,
+      "top": 4.608,
+      "x1": 184.176,
+      "bottom": 9.648,
+      "confidence": 96.103317,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "granted",
+      "x0": 186.19199999999998,
+      "top": 4.4639999999999995,
+      "x1": 209.95199999999997,
+      "bottom": 10.943999999999999,
+      "confidence": 96.632614,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "for:",
+      "x0": 212.25599999999997,
+      "top": 4.4639999999999995,
+      "x1": 222.76799999999997,
+      "bottom": 9.648,
+      "confidence": 96.641754,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.343999999999994,
+      "top": 17.567999999999998,
+      "x1": 54.57599999999999,
+      "bottom": 22.319999999999997,
+      "confidence": 96.683014,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 88.55999999999999,
+      "top": 26.208,
+      "x1": 93.02399999999999,
+      "bottom": 30.959999999999997,
+      "confidence": 96.384003,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "invention",
+      "x0": 95.75999999999999,
+      "top": 26.063999999999997,
+      "x1": 123.55199999999999,
+      "bottom": 30.959999999999997,
+      "confidence": 96.630959,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "2.",
+      "x0": 88.27199999999999,
+      "top": 47.519999999999996,
+      "x1": 93.02399999999999,
+      "bottom": 52.272,
+      "confidence": 96.6548,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "discovery",
+      "x0": 95.616,
+      "top": 47.232,
+      "x1": 123.984,
+      "bottom": 53.568,
+      "confidence": 96.312523,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "3.",
+      "x0": 88.27199999999999,
+      "top": 68.832,
+      "x1": 93.02399999999999,
+      "bottom": 73.728,
+      "confidence": 96.516136,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "observation",
+      "x0": 95.616,
+      "top": 68.544,
+      "x1": 131.04,
+      "bottom": 73.728,
+      "confidence": 96.001648,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "x",
+      "x0": 73.008,
+      "top": 79.91999999999999,
+      "x1": 86.544,
+      "bottom": 92.44799999999998,
+      "confidence": 10.009232,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "XXSK",
+      "x0": 73.008,
+      "top": 14.975999999999999,
+      "x1": 87.55199999999999,
+      "bottom": 71.136,
+      "confidence": 10.009232,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "4.",
+      "x0": 88.128,
+      "top": 90.288,
+      "x1": 93.024,
+      "bottom": 95.03999999999999,
+      "confidence": 95.501617,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "finding",
+      "x0": 95.472,
+      "top": 89.856,
+      "x1": 116.208,
+      "bottom": 96.336,
+      "confidence": 95.501617,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

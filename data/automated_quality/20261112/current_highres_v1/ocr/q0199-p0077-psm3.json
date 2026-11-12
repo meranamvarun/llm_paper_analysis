@@ -1,0 +1,755 @@
+{
+  "pdf_page": 77,
+  "crop_top": 343.4095,
+  "crop_bottom": 450.0095,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0077:l0016:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "80. Which of the following statements is false?",
+      "bbox": [
+        105.40799999999999,
+        4.608,
+        342.28799999999995,
+        14.831999999999997
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "(A) Proving prejudice to the party concerned is to quash quasi-judicial",
+      "bbox": [
+        125.42399999999999,
+        19.151999999999997,
+        551.808,
+        29.519999999999996
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "necessary a",
+      "bbox": [
+        372.96,
+        22.176,
+        479.23199999999997,
+        29.519999999999996
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "order on the ground of non-disclosure of evidence",
+      "bbox": [
+        148.32,
+        33.839999999999996,
+        396.43199999999996,
+        44.06399999999999
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(B) Principles of natural justice do not have exceptions",
+      "bbox": [
+        125.42399999999999,
+        48.38399999999999,
+        406.51199999999994,
+        58.751999999999995
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "(C) Speaking order is third principle of natural justice",
+      "bbox": [
+        125.42399999999999,
+        62.928,
+        412.56,
+        73.29599999999999
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "a",
+      "bbox": [
+        240.76799999999997,
+        65.952,
+        246.09599999999998,
+        71.28
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "(D) Legal representation can be validly disallowed before a quasi-judicial",
+      "bbox": [
+        124.84799999999998,
+        77.616,
+        551.664,
+        87.84
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "proceeding",
+      "bbox": [
+        148.32,
+        92.30399999999999,
+        202.896,
+        102.52799999999999
+      ]
+    }
+  ],
+  "text": "80. Which of the following statements is false?\n(A) Proving prejudice to the party concerned is to quash quasi-judicial\nnecessary a\norder on the ground of non-disclosure of evidence\n(B) Principles of natural justice do not have exceptions\n(C) Speaking order is third principle of natural justice\na\n(D) Legal representation can be validly disallowed before a quasi-judicial\nproceeding",
+  "ocr_words": [
+    {
+      "text": "80.",
+      "x0": 105.40799999999999,
+      "top": 5.183999999999999,
+      "x1": 119.088,
+      "bottom": 12.959999999999999,
+      "confidence": 96.328575,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Which",
+      "x0": 126.14399999999999,
+      "top": 4.752,
+      "x1": 158.39999999999998,
+      "bottom": 12.96,
+      "confidence": 95.977409,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 162.0,
+      "top": 4.608,
+      "x1": 171.504,
+      "bottom": 12.959999999999997,
+      "confidence": 95.996765,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 174.09599999999998,
+      "top": 4.752,
+      "x1": 189.93599999999998,
+      "bottom": 12.96,
+      "confidence": 96.96994,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 193.67999999999998,
+      "top": 4.608,
+      "x1": 239.61599999999999,
+      "bottom": 14.831999999999997,
+      "confidence": 96.711372,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "statements",
+      "x0": 243.35999999999999,
+      "top": 5.616,
+      "x1": 298.94399999999996,
+      "bottom": 12.959999999999999,
+      "confidence": 95.878014,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 302.688,
+      "top": 4.752,
+      "x1": 310.464,
+      "bottom": 12.96,
+      "confidence": 87.869614,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "false?",
+      "x0": 314.352,
+      "top": 4.608,
+      "x1": 342.28799999999995,
+      "bottom": 12.959999999999997,
+      "confidence": 96.097794,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 125.42399999999999,
+      "top": 19.151999999999997,
+      "x1": 139.248,
+      "bottom": 29.375999999999998,
+      "confidence": 97.00386,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(B)",
+      "x0": 125.42399999999999,
+      "top": 48.528,
+      "x1": 139.248,
+      "bottom": 58.608,
+      "confidence": 92.709373,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(C)",
+      "x0": 125.42399999999999,
+      "top": 63.071999999999996,
+      "x1": 139.248,
+      "bottom": 73.29599999999999,
+      "confidence": 93.113548,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(D)",
+      "x0": 124.84799999999998,
+      "top": 77.616,
+      "x1": 139.248,
+      "bottom": 87.84,
+      "confidence": 91.988197,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Proving",
+      "x0": 148.464,
+      "top": 19.296,
+      "x1": 187.632,
+      "bottom": 29.519999999999996,
+      "confidence": 96.521439,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "prejudice",
+      "x0": 191.51999999999998,
+      "top": 19.296,
+      "x1": 237.74399999999997,
+      "bottom": 29.519999999999996,
+      "confidence": 95.241882,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 241.92,
+      "top": 20.304,
+      "x1": 250.992,
+      "bottom": 27.503999999999998,
+      "confidence": 96.118828,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 255.16799999999998,
+      "top": 19.296,
+      "x1": 271.008,
+      "bottom": 27.503999999999998,
+      "confidence": 96.892456,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "party",
+      "x0": 275.328,
+      "top": 20.304,
+      "x1": 302.4,
+      "bottom": 29.519999999999996,
+      "confidence": 96.561134,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "concerned",
+      "x0": 306.43199999999996,
+      "top": 19.296,
+      "x1": 356.83199999999994,
+      "bottom": 27.503999999999998,
+      "confidence": 96.536888,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 360.71999999999997,
+      "top": 19.296,
+      "x1": 368.64,
+      "bottom": 27.503999999999998,
+      "confidence": 95.314003,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "necessary",
+      "x0": 372.96,
+      "top": 22.176,
+      "x1": 422.20799999999997,
+      "bottom": 29.519999999999996,
+      "confidence": 96.091064,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 426.09599999999995,
+      "top": 20.304,
+      "x1": 435.31199999999995,
+      "bottom": 27.503999999999998,
+      "confidence": 96.960609,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "quash",
+      "x0": 439.77599999999995,
+      "top": 19.296,
+      "x1": 469.72799999999995,
+      "bottom": 29.375999999999998,
+      "confidence": 96.115906,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 474.04799999999994,
+      "top": 22.176,
+      "x1": 479.23199999999997,
+      "bottom": 27.503999999999998,
+      "confidence": 96.708824,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "quasi-judicial",
+      "x0": 483.69599999999997,
+      "top": 19.296,
+      "x1": 551.808,
+      "bottom": 29.519999999999996,
+      "confidence": 96.416557,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "order",
+      "x0": 148.32,
+      "top": 33.839999999999996,
+      "x1": 174.95999999999998,
+      "bottom": 42.047999999999995,
+      "confidence": 96.230637,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "on",
+      "x0": 178.55999999999997,
+      "top": 36.72,
+      "x1": 190.07999999999998,
+      "bottom": 42.048,
+      "confidence": 96.145332,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 193.67999999999998,
+      "top": 33.839999999999996,
+      "x1": 209.51999999999998,
+      "bottom": 42.047999999999995,
+      "confidence": 96.102585,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "ground",
+      "x0": 213.552,
+      "top": 33.839999999999996,
+      "x1": 248.832,
+      "bottom": 44.06399999999999,
+      "confidence": 96.102585,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 252.432,
+      "top": 33.839999999999996,
+      "x1": 261.936,
+      "bottom": 42.047999999999995,
+      "confidence": 96.508842,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "non-disclosure",
+      "x0": 264.67199999999997,
+      "top": 33.839999999999996,
+      "x1": 337.39199999999994,
+      "bottom": 42.047999999999995,
+      "confidence": 96.248856,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 341.28,
+      "top": 33.839999999999996,
+      "x1": 350.784,
+      "bottom": 42.047999999999995,
+      "confidence": 96.54126,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "evidence",
+      "x0": 353.52,
+      "top": 33.839999999999996,
+      "x1": 396.43199999999996,
+      "bottom": 42.047999999999995,
+      "confidence": 96.660004,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Principles",
+      "x0": 148.464,
+      "top": 48.528,
+      "x1": 198.72,
+      "bottom": 58.608,
+      "confidence": 96.43972,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 202.60799999999998,
+      "top": 48.38399999999999,
+      "x1": 212.11199999999997,
+      "bottom": 56.73599999999999,
+      "confidence": 96.317154,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "natural",
+      "x0": 214.70399999999998,
+      "top": 48.528,
+      "x1": 252.43199999999996,
+      "bottom": 56.736,
+      "confidence": 96.530128,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "justice",
+      "x0": 255.456,
+      "top": 48.528,
+      "x1": 288.57599999999996,
+      "bottom": 58.751999999999995,
+      "confidence": 96.135994,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "do",
+      "x0": 292.608,
+      "top": 48.528,
+      "x1": 303.408,
+      "bottom": 56.736,
+      "confidence": 95.922142,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "not",
+      "x0": 307.296,
+      "top": 49.391999999999996,
+      "x1": 323.13599999999997,
+      "bottom": 56.736,
+      "confidence": 96.908981,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "have",
+      "x0": 326.736,
+      "top": 48.528,
+      "x1": 350.352,
+      "bottom": 56.736,
+      "confidence": 96.266037,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "exceptions",
+      "x0": 354.23999999999995,
+      "top": 48.528,
+      "x1": 406.51199999999994,
+      "bottom": 58.608,
+      "confidence": 96.564537,
+      "ocr_block": "5",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Speaking",
+      "x0": 148.75199999999998,
+      "top": 63.071999999999996,
+      "x1": 195.408,
+      "bottom": 73.29599999999999,
+      "confidence": 96.36412,
+      "ocr_block": "5",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "order",
+      "x0": 198.86399999999998,
+      "top": 63.071999999999996,
+      "x1": 225.35999999999999,
+      "bottom": 71.28,
+      "confidence": 95.738144,
+      "ocr_block": "5",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 228.95999999999998,
+      "top": 63.071999999999996,
+      "x1": 236.736,
+      "bottom": 71.28,
+      "confidence": 95.929375,
+      "ocr_block": "5",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 240.76799999999997,
+      "top": 65.952,
+      "x1": 246.09599999999998,
+      "bottom": 71.28,
+      "confidence": 96.119225,
+      "ocr_block": "5",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "third",
+      "x0": 249.69599999999997,
+      "top": 63.071999999999996,
+      "x1": 274.89599999999996,
+      "bottom": 71.28,
+      "confidence": 96.119225,
+      "ocr_block": "5",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "principle",
+      "x0": 278.496,
+      "top": 63.071999999999996,
+      "x1": 322.84799999999996,
+      "bottom": 73.152,
+      "confidence": 96.118591,
+      "ocr_block": "5",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 326.592,
+      "top": 62.928,
+      "x1": 336.096,
+      "bottom": 71.28,
+      "confidence": 96.980324,
+      "ocr_block": "5",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "natural",
+      "x0": 338.832,
+      "top": 63.071999999999996,
+      "x1": 376.56,
+      "bottom": 71.28,
+      "confidence": 96.531975,
+      "ocr_block": "5",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "justice",
+      "x0": 379.44,
+      "top": 63.071999999999996,
+      "x1": 412.56,
+      "bottom": 73.29599999999999,
+      "confidence": 96.725258,
+      "ocr_block": "5",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Legal",
+      "x0": 148.32,
+      "top": 77.75999999999999,
+      "x1": 178.416,
+      "bottom": 87.83999999999999,
+      "confidence": 96.105003,
+      "ocr_block": "5",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "representation",
+      "x0": 184.75199999999998,
+      "top": 77.75999999999999,
+      "x1": 266.544,
+      "bottom": 87.83999999999999,
+      "confidence": 96.105003,
+      "ocr_block": "5",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "can",
+      "x0": 272.88,
+      "top": 80.496,
+      "x1": 291.168,
+      "bottom": 85.824,
+      "confidence": 96.885406,
+      "ocr_block": "5",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "be",
+      "x0": 297.21599999999995,
+      "top": 77.75999999999999,
+      "x1": 308.87999999999994,
+      "bottom": 85.82399999999998,
+      "confidence": 96.456337,
+      "ocr_block": "5",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "validly",
+      "x0": 315.21599999999995,
+      "top": 77.75999999999999,
+      "x1": 353.08799999999997,
+      "bottom": 87.83999999999999,
+      "confidence": 95.940987,
+      "ocr_block": "5",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "disallowed",
+      "x0": 359.568,
+      "top": 77.75999999999999,
+      "x1": 417.888,
+      "bottom": 85.82399999999998,
+      "confidence": 95.893677,
+      "ocr_block": "5",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "before",
+      "x0": 423.792,
+      "top": 77.616,
+      "x1": 457.48799999999994,
+      "bottom": 85.824,
+      "confidence": 96.275459,
+      "ocr_block": "5",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 464.11199999999997,
+      "top": 80.496,
+      "x1": 469.43999999999994,
+      "bottom": 85.824,
+      "confidence": 96.901772,
+      "ocr_block": "5",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "quasi-judicial",
+      "x0": 476.06399999999996,
+      "top": 77.75999999999999,
+      "x1": 551.664,
+      "bottom": 87.83999999999999,
+      "confidence": 96.670303,
+      "ocr_block": "5",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "proceeding",
+      "x0": 148.32,
+      "top": 92.30399999999999,
+      "x1": 202.896,
+      "bottom": 102.52799999999999,
+      "confidence": 96.167442,
+      "ocr_block": "6",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

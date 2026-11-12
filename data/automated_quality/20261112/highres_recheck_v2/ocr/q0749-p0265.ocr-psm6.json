@@ -1,0 +1,548 @@
+{
+  "pdf_page": 265,
+  "crop_top": 326.77199999999993,
+  "crop_bottom": 440.08671999999996,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0265:l0014:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "23. The above passage mentions, “Every man’s house is his castle.’ Who amongst the",
+      "bbox": [
+        72.36,
+        5.22,
+        523.0799999999999,
+        16.2
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "following has stated this quote in the Semayne’s Case?",
+      "bbox": [
+        90.53999999999999,
+        19.08,
+        353.7,
+        30.06
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "a) Justice Rowland.",
+      "bbox": [
+        72.53999999999999,
+        32.76,
+        170.82,
+        43.739999999999995
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "b) Justice Holmes.",
+      "bbox": [
+        72.0,
+        46.8,
+        164.88,
+        57.599999999999994
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "c) Lord Justice A.W. Semens.",
+      "bbox": [
+        72.36,
+        60.48,
+        220.32,
+        71.28
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "d) Justice Blackburn.",
+      "bbox": [
+        72.36,
+        74.34,
+        177.66,
+        85.14
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "CORRECT ANSWER : OPTION B",
+      "bbox": [
+        72.53999999999999,
+        97.02,
+        282.05999999999995,
+        106.74
+      ]
+    }
+  ],
+  "text": "23. The above passage mentions, “Every man’s house is his castle.’ Who amongst the\nfollowing has stated this quote in the Semayne’s Case?\na) Justice Rowland.\nb) Justice Holmes.\nc) Lord Justice A.W. Semens.\nd) Justice Blackburn.\nCORRECT ANSWER : OPTION B",
+  "ocr_words": [
+    {
+      "text": "23.",
+      "x0": 72.36,
+      "top": 5.3999999999999995,
+      "x1": 86.22,
+      "bottom": 13.68,
+      "confidence": 95.578651,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 90.36,
+      "top": 5.22,
+      "x1": 108.18,
+      "bottom": 13.68,
+      "confidence": 95.578651,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "above",
+      "x0": 115.19999999999999,
+      "top": 5.22,
+      "x1": 142.92,
+      "bottom": 13.68,
+      "confidence": 96.798416,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "passage",
+      "x0": 149.57999999999998,
+      "top": 7.92,
+      "x1": 186.48,
+      "bottom": 16.2,
+      "confidence": 96.322762,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "mentions,",
+      "x0": 193.32,
+      "top": 5.22,
+      "x1": 239.22,
+      "bottom": 15.48,
+      "confidence": 95.989838,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "“Every",
+      "x0": 246.6,
+      "top": 5.3999999999999995,
+      "x1": 279.36,
+      "bottom": 16.2,
+      "confidence": 93.078232,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "man’s",
+      "x0": 285.84,
+      "top": 5.3999999999999995,
+      "x1": 314.82,
+      "bottom": 13.68,
+      "confidence": 95.918884,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "house",
+      "x0": 321.47999999999996,
+      "top": 5.22,
+      "x1": 349.19999999999993,
+      "bottom": 13.68,
+      "confidence": 96.486397,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 356.03999999999996,
+      "top": 5.9399999999999995,
+      "x1": 363.23999999999995,
+      "bottom": 13.68,
+      "confidence": 95.194542,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "his",
+      "x0": 369.9,
+      "top": 5.22,
+      "x1": 383.4,
+      "bottom": 13.68,
+      "confidence": 96.7929,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "castle.’",
+      "x0": 390.06,
+      "top": 5.22,
+      "x1": 425.88,
+      "bottom": 13.68,
+      "confidence": 83.85733,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Who",
+      "x0": 432.9,
+      "top": 5.22,
+      "x1": 455.21999999999997,
+      "bottom": 13.68,
+      "confidence": 96.66819,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "amongst",
+      "x0": 462.59999999999997,
+      "top": 6.3,
+      "x1": 502.55999999999995,
+      "bottom": 16.2,
+      "confidence": 96.66819,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 508.85999999999996,
+      "top": 5.22,
+      "x1": 523.0799999999999,
+      "bottom": 13.68,
+      "confidence": 96.961617,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 90.53999999999999,
+      "top": 19.08,
+      "x1": 136.26,
+      "bottom": 30.06,
+      "confidence": 96.437416,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "has",
+      "x0": 139.85999999999999,
+      "top": 19.08,
+      "x1": 155.33999999999997,
+      "bottom": 27.54,
+      "confidence": 96.416176,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "stated",
+      "x0": 159.29999999999998,
+      "top": 19.08,
+      "x1": 186.83999999999997,
+      "bottom": 27.54,
+      "confidence": 96.080872,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "this",
+      "x0": 189.72,
+      "top": 19.08,
+      "x1": 206.46,
+      "bottom": 27.54,
+      "confidence": 96.588379,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "quote",
+      "x0": 210.23999999999998,
+      "top": 20.34,
+      "x1": 236.51999999999998,
+      "bottom": 30.06,
+      "confidence": 96.777969,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "in",
+      "x0": 240.12,
+      "top": 19.08,
+      "x1": 248.76,
+      "bottom": 27.54,
+      "confidence": 96.880096,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 251.82,
+      "top": 19.08,
+      "x1": 266.03999999999996,
+      "bottom": 27.54,
+      "confidence": 92.935135,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Semayne’s",
+      "x0": 270.18,
+      "top": 19.259999999999998,
+      "x1": 321.66,
+      "bottom": 30.059999999999995,
+      "confidence": 92.655518,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Case?",
+      "x0": 325.8,
+      "top": 19.259999999999998,
+      "x1": 353.7,
+      "bottom": 27.72,
+      "confidence": 96.513695,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "a)",
+      "x0": 72.53999999999999,
+      "top": 32.76,
+      "x1": 80.82,
+      "bottom": 43.739999999999995,
+      "confidence": 96.468903,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Justice",
+      "x0": 90.36,
+      "top": 32.76,
+      "x1": 122.22,
+      "bottom": 41.4,
+      "confidence": 96.337067,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Rowland.",
+      "x0": 125.82,
+      "top": 32.76,
+      "x1": 170.82,
+      "bottom": 41.22,
+      "confidence": 96.357742,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "b)",
+      "x0": 72.0,
+      "top": 46.8,
+      "x1": 81.36,
+      "bottom": 57.599999999999994,
+      "confidence": 91.758812,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Justice",
+      "x0": 90.36,
+      "top": 46.8,
+      "x1": 122.22,
+      "bottom": 55.26,
+      "confidence": 96.419922,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Holmes.",
+      "x0": 125.82,
+      "top": 46.8,
+      "x1": 164.88,
+      "bottom": 55.26,
+      "confidence": 96.216751,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "c)",
+      "x0": 72.36,
+      "top": 60.48,
+      "x1": 80.82,
+      "bottom": 71.28,
+      "confidence": 92.905739,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Lord",
+      "x0": 90.36,
+      "top": 60.48,
+      "x1": 113.58,
+      "bottom": 68.94,
+      "confidence": 96.284386,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Justice",
+      "x0": 116.82,
+      "top": 60.48,
+      "x1": 148.5,
+      "bottom": 68.94,
+      "confidence": 96.31794,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A.W.",
+      "x0": 152.1,
+      "top": 60.66,
+      "x1": 176.94,
+      "bottom": 68.94,
+      "confidence": 93.19075,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Semens.",
+      "x0": 181.62,
+      "top": 60.66,
+      "x1": 220.32,
+      "bottom": 68.94,
+      "confidence": 91.496727,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "d)",
+      "x0": 72.36,
+      "top": 74.34,
+      "x1": 81.53999999999999,
+      "bottom": 85.14,
+      "confidence": 92.593536,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Justice",
+      "x0": 90.36,
+      "top": 74.34,
+      "x1": 122.22,
+      "bottom": 82.8,
+      "confidence": 96.057808,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Blackburn.",
+      "x0": 125.82,
+      "top": 74.34,
+      "x1": 177.66,
+      "bottom": 82.8,
+      "confidence": 96.057808,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "CORRECT",
+      "x0": 72.53999999999999,
+      "top": 97.02,
+      "x1": 141.29999999999998,
+      "bottom": 106.74,
+      "confidence": 95.758049,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "ANSWER",
+      "x0": 145.62,
+      "top": 97.02,
+      "x1": 206.64,
+      "bottom": 106.74,
+      "confidence": 83.991211,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 211.32,
+      "top": 99.89999999999999,
+      "x1": 213.66,
+      "bottom": 106.55999999999999,
+      "confidence": 76.402275,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "OPTION",
+      "x0": 219.06,
+      "top": 97.02,
+      "x1": 269.64,
+      "bottom": 106.74,
+      "confidence": 93.185356,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "B",
+      "x0": 273.78,
+      "top": 97.2,
+      "x1": 282.05999999999995,
+      "bottom": 106.38,
+      "confidence": 91.439903,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

@@ -1,0 +1,461 @@
+{
+  "pdf_page": 248,
+  "crop_top": 452.38199999999995,
+  "crop_bottom": 551.222,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0248:l0025:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "82. The natural guardian of an adopted child as per Hindu law is",
+      "bbox": [
+        72.72,
+        5.04,
+        382.14,
+        16.02
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "(A) Adoptive father.",
+      "bbox": [
+        100.44,
+        20.34,
+        201.42,
+        31.32
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(B) Adoptive mother.",
+      "bbox": [
+        100.44,
+        36.36,
+        207.0,
+        47.16
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(C) Adoptive father and adoptive mother.",
+      "bbox": [
+        100.44,
+        52.379999999999995,
+        301.86,
+        63.36
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(D) Neither adoptive father nor adoptive mother.",
+      "bbox": [
+        100.44,
+        68.39999999999999,
+        334.8,
+        79.19999999999999
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "CORRECT OPTION: A",
+      "bbox": [
+        72.53999999999999,
+        84.24,
+        197.82,
+        92.52
+      ]
+    }
+  ],
+  "text": "82. The natural guardian of an adopted child as per Hindu law is\n(A) Adoptive father.\n(B) Adoptive mother.\n(C) Adoptive father and adoptive mother.\n(D) Neither adoptive father nor adoptive mother.\nCORRECT OPTION: A",
+  "ocr_words": [
+    {
+      "text": "82.",
+      "x0": 72.72,
+      "top": 5.3999999999999995,
+      "x1": 84.96,
+      "bottom": 13.68,
+      "confidence": 96.003464,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 93.96,
+      "top": 5.04,
+      "x1": 111.96,
+      "bottom": 13.68,
+      "confidence": 96.47171,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "natural",
+      "x0": 115.02,
+      "top": 5.04,
+      "x1": 148.68,
+      "bottom": 13.68,
+      "confidence": 96.084465,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "guardian",
+      "x0": 151.92,
+      "top": 5.04,
+      "x1": 193.32,
+      "bottom": 16.02,
+      "confidence": 96.084465,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 196.73999999999998,
+      "top": 5.04,
+      "x1": 207.71999999999997,
+      "bottom": 13.68,
+      "confidence": 96.6437,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "an",
+      "x0": 210.23999999999998,
+      "top": 7.92,
+      "x1": 221.21999999999997,
+      "bottom": 13.5,
+      "confidence": 96.653069,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "adopted",
+      "x0": 224.64,
+      "top": 5.04,
+      "x1": 262.26,
+      "bottom": 16.02,
+      "confidence": 96.316772,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "child",
+      "x0": 264.59999999999997,
+      "top": 5.04,
+      "x1": 288.17999999999995,
+      "bottom": 13.68,
+      "confidence": 96.04937,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "as",
+      "x0": 291.42,
+      "top": 7.92,
+      "x1": 300.6,
+      "bottom": 13.68,
+      "confidence": 96.04937,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "per",
+      "x0": 303.65999999999997,
+      "top": 7.92,
+      "x1": 319.49999999999994,
+      "bottom": 16.02,
+      "confidence": 96.796478,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Hindu",
+      "x0": 322.2,
+      "top": 5.04,
+      "x1": 352.44,
+      "bottom": 13.68,
+      "confidence": 95.967491,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "law",
+      "x0": 355.14,
+      "top": 5.04,
+      "x1": 371.88,
+      "bottom": 13.68,
+      "confidence": 95.866119,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 374.94,
+      "top": 5.04,
+      "x1": 382.14,
+      "bottom": 13.68,
+      "confidence": 95.339584,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 100.44,
+      "top": 20.34,
+      "x1": 113.39999999999999,
+      "bottom": 31.14,
+      "confidence": 96.421867,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Adoptive",
+      "x0": 121.86,
+      "top": 20.34,
+      "x1": 166.86,
+      "bottom": 31.32,
+      "confidence": 96.628571,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "father.",
+      "x0": 170.45999999999998,
+      "top": 20.34,
+      "x1": 201.42,
+      "bottom": 28.799999999999997,
+      "confidence": 95.743233,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(B)",
+      "x0": 100.44,
+      "top": 36.36,
+      "x1": 112.86,
+      "bottom": 47.16,
+      "confidence": 92.63427,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Adoptive",
+      "x0": 121.86,
+      "top": 36.36,
+      "x1": 166.86,
+      "bottom": 47.16,
+      "confidence": 96.442787,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "mother.",
+      "x0": 170.28,
+      "top": 36.36,
+      "x1": 207.0,
+      "bottom": 44.82,
+      "confidence": 96.624336,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(C)",
+      "x0": 100.44,
+      "top": 52.379999999999995,
+      "x1": 112.86,
+      "bottom": 63.17999999999999,
+      "confidence": 92.642288,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Adoptive",
+      "x0": 121.86,
+      "top": 52.379999999999995,
+      "x1": 166.86,
+      "bottom": 63.36,
+      "confidence": 96.48027,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "father",
+      "x0": 170.45999999999998,
+      "top": 52.379999999999995,
+      "x1": 199.26,
+      "bottom": 60.839999999999996,
+      "confidence": 96.585808,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "and",
+      "x0": 202.14,
+      "top": 52.379999999999995,
+      "x1": 219.05999999999997,
+      "bottom": 60.839999999999996,
+      "confidence": 96.03936,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "adoptive",
+      "x0": 222.29999999999998,
+      "top": 52.379999999999995,
+      "x1": 262.97999999999996,
+      "bottom": 63.36,
+      "confidence": 95.82325,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "mother.",
+      "x0": 265.14,
+      "top": 52.379999999999995,
+      "x1": 301.86,
+      "bottom": 60.839999999999996,
+      "confidence": 95.82325,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(D)",
+      "x0": 100.44,
+      "top": 68.39999999999999,
+      "x1": 113.39999999999999,
+      "bottom": 79.19999999999999,
+      "confidence": 92.634232,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Neither",
+      "x0": 121.5,
+      "top": 68.39999999999999,
+      "x1": 157.68,
+      "bottom": 76.85999999999999,
+      "confidence": 95.834038,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "adoptive",
+      "x0": 160.56,
+      "top": 68.39999999999999,
+      "x1": 201.96,
+      "bottom": 79.19999999999999,
+      "confidence": 96.260033,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "father",
+      "x0": 205.56,
+      "top": 68.39999999999999,
+      "x1": 233.82,
+      "bottom": 76.85999999999999,
+      "confidence": 96.337982,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "nor",
+      "x0": 236.34,
+      "top": 71.1,
+      "x1": 252.9,
+      "bottom": 76.86,
+      "confidence": 96.039597,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "adoptive",
+      "x0": 255.78,
+      "top": 68.39999999999999,
+      "x1": 296.46,
+      "bottom": 79.19999999999999,
+      "confidence": 96.039597,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "mother.",
+      "x0": 298.8,
+      "top": 68.39999999999999,
+      "x1": 334.8,
+      "bottom": 76.85999999999999,
+      "confidence": 96.092003,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "CORRECT",
+      "x0": 72.53999999999999,
+      "top": 84.24,
+      "x1": 131.57999999999998,
+      "bottom": 92.52,
+      "confidence": 96.348373,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "OPTION:",
+      "x0": 135.54,
+      "top": 84.24,
+      "x1": 185.22,
+      "bottom": 92.52,
+      "confidence": 95.959076,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "A",
+      "x0": 189.54,
+      "top": 84.24,
+      "x1": 197.82,
+      "bottom": 92.33999999999999,
+      "confidence": 96.800934,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

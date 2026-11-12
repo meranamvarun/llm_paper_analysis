@@ -1,0 +1,1083 @@
+{
+  "pdf_page": 242,
+  "crop_top": 177.89199999999994,
+  "crop_bottom": 351.76199999999994,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0242:l0007:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "56. Consider the following statements:",
+      "bbox": [
+        72.53999999999999,
+        5.04,
+        260.82,
+        16.02
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "(I) Judges play a vital role at all levels teachers to the entire legal community and the",
+      "bbox": [
+        86.94,
+        19.439999999999998,
+        518.4,
+        31.86
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "as",
+      "bbox": [
+        281.34,
+        23.04,
+        290.7,
+        28.799999999999997
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "public.",
+      "bbox": [
+        108.17999999999999,
+        34.56,
+        140.94,
+        45.540000000000006
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(11) Courts should desist from expressing any gender stereotyped opinion during",
+      "bbox": [
+        86.94,
+        49.68,
+        482.93999999999994,
+        60.66
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "proceedings or in the course of a judicial order.",
+      "bbox": [
+        108.17999999999999,
+        64.25999999999999,
+        333.9,
+        75.24
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "Choose the correct answer from the code given below.",
+      "bbox": [
+        86.94,
+        79.56,
+        347.21999999999997,
+        90.54
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "(A) Both (1) and (ID) are true.",
+      "bbox": [
+        100.44,
+        95.58,
+        240.11999999999998,
+        106.38
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "(B) Both (J) and (ID) are untrue.",
+      "bbox": [
+        100.44,
+        111.42,
+        253.61999999999998,
+        122.39999999999999
+      ]
+    },
+    {
+      "line_id": "l0009",
+      "text": "(C) (J) is true and (II) is untrue.",
+      "bbox": [
+        100.44,
+        127.61999999999999,
+        252.71999999999997,
+        138.42
+      ]
+    },
+    {
+      "line_id": "l0010",
+      "text": "(D) (ID) is true and (J) is untrue.",
+      "bbox": [
+        100.44,
+        142.73999999999998,
+        252.71999999999997,
+        153.72
+      ]
+    },
+    {
+      "line_id": "l0011",
+      "text": "CORRECT OPTION: A",
+      "bbox": [
+        72.53999999999999,
+        159.12,
+        197.82,
+        167.58
+      ]
+    }
+  ],
+  "text": "56. Consider the following statements:\n(I) Judges play a vital role at all levels teachers to the entire legal community and the\nas\npublic.\n(11) Courts should desist from expressing any gender stereotyped opinion during\nproceedings or in the course of a judicial order.\nChoose the correct answer from the code given below.\n(A) Both (1) and (ID) are true.\n(B) Both (J) and (ID) are untrue.\n(C) (J) is true and (II) is untrue.\n(D) (ID) is true and (J) is untrue.\nCORRECT OPTION: A",
+  "ocr_words": [
+    {
+      "text": "56.",
+      "x0": 72.53999999999999,
+      "top": 5.3999999999999995,
+      "x1": 84.96,
+      "bottom": 13.68,
+      "confidence": 96.677704,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Consider",
+      "x0": 94.14,
+      "top": 5.04,
+      "x1": 137.88,
+      "bottom": 13.68,
+      "confidence": 96.364693,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 141.29999999999998,
+      "top": 5.04,
+      "x1": 155.7,
+      "bottom": 13.68,
+      "confidence": 96.799194,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 159.29999999999998,
+      "top": 5.04,
+      "x1": 206.45999999999998,
+      "bottom": 16.02,
+      "confidence": 85.206146,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "statements:",
+      "x0": 208.44,
+      "top": 6.3,
+      "x1": 260.82,
+      "bottom": 13.68,
+      "confidence": 85.206146,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(I)",
+      "x0": 86.94,
+      "top": 20.34,
+      "x1": 95.94,
+      "bottom": 31.14,
+      "confidence": 69.777313,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Judges",
+      "x0": 108.36,
+      "top": 20.16,
+      "x1": 140.76,
+      "bottom": 31.14,
+      "confidence": 94.728981,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "play",
+      "x0": 144.35999999999999,
+      "top": 20.16,
+      "x1": 165.42,
+      "bottom": 31.14,
+      "confidence": 95.094566,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "a",
+      "x0": 166.85999999999999,
+      "top": 19.439999999999998,
+      "x1": 171.17999999999998,
+      "bottom": 31.86,
+      "confidence": 96.513321,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "vital",
+      "x0": 176.94,
+      "top": 20.16,
+      "x1": 198.0,
+      "bottom": 28.8,
+      "confidence": 96.513321,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "role",
+      "x0": 201.42,
+      "top": 20.16,
+      "x1": 219.6,
+      "bottom": 28.8,
+      "confidence": 96.918129,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "at",
+      "x0": 223.38,
+      "top": 21.419999999999998,
+      "x1": 231.66,
+      "bottom": 28.619999999999997,
+      "confidence": 96.854156,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "all",
+      "x0": 235.44,
+      "top": 20.16,
+      "x1": 246.78,
+      "bottom": 28.619999999999997,
+      "confidence": 96.505371,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "levels",
+      "x0": 250.38,
+      "top": 20.16,
+      "x1": 277.56,
+      "bottom": 28.8,
+      "confidence": 96.698563,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "as",
+      "x0": 281.34,
+      "top": 23.04,
+      "x1": 290.7,
+      "bottom": 28.799999999999997,
+      "confidence": 96.907021,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "teachers",
+      "x0": 294.47999999999996,
+      "top": 20.16,
+      "x1": 334.08,
+      "bottom": 28.8,
+      "confidence": 96.635117,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "to",
+      "x0": 337.86,
+      "top": 21.419999999999998,
+      "x1": 346.68,
+      "bottom": 28.799999999999997,
+      "confidence": 96.78183,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 350.28,
+      "top": 20.16,
+      "x1": 364.5,
+      "bottom": 28.8,
+      "confidence": 96.684433,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "entire",
+      "x0": 368.28,
+      "top": 20.16,
+      "x1": 394.91999999999996,
+      "bottom": 28.8,
+      "confidence": 96.379417,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "legal",
+      "x0": 398.52,
+      "top": 20.16,
+      "x1": 421.02,
+      "bottom": 31.14,
+      "confidence": 96.793808,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "community",
+      "x0": 424.97999999999996,
+      "top": 20.16,
+      "x1": 480.41999999999996,
+      "bottom": 31.14,
+      "confidence": 96.274246,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "and",
+      "x0": 484.2,
+      "top": 20.16,
+      "x1": 501.48,
+      "bottom": 28.8,
+      "confidence": 96.274246,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 505.08,
+      "top": 20.16,
+      "x1": 518.4,
+      "bottom": 28.8,
+      "confidence": 96.903908,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "public.",
+      "x0": 108.17999999999999,
+      "top": 34.56,
+      "x1": 140.94,
+      "bottom": 45.540000000000006,
+      "confidence": 96.533302,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(11)",
+      "x0": 86.94,
+      "top": 49.86,
+      "x1": 99.0,
+      "bottom": 60.66,
+      "confidence": 66.420616,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Courts",
+      "x0": 108.53999999999999,
+      "top": 50.04,
+      "x1": 139.68,
+      "bottom": 58.32,
+      "confidence": 96.135376,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "should",
+      "x0": 143.82,
+      "top": 49.68,
+      "x1": 175.85999999999999,
+      "bottom": 58.32,
+      "confidence": 96.135376,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "desist",
+      "x0": 179.45999999999998,
+      "top": 49.68,
+      "x1": 206.99999999999997,
+      "bottom": 58.32,
+      "confidence": 96.792526,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "from",
+      "x0": 210.78,
+      "top": 49.86,
+      "x1": 234.36,
+      "bottom": 58.32,
+      "confidence": 96.723114,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "expressing",
+      "x0": 238.32,
+      "top": 49.68,
+      "x1": 290.34,
+      "bottom": 60.66,
+      "confidence": 96.427498,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "any",
+      "x0": 294.12,
+      "top": 52.559999999999995,
+      "x1": 311.58,
+      "bottom": 60.66,
+      "confidence": 96.673859,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "gender",
+      "x0": 315.36,
+      "top": 49.68,
+      "x1": 348.12,
+      "bottom": 60.66,
+      "confidence": 96.371025,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "stereotyped",
+      "x0": 351.9,
+      "top": 49.68,
+      "x1": 407.34,
+      "bottom": 60.66,
+      "confidence": 96.22303,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "opinion",
+      "x0": 411.12,
+      "top": 49.68,
+      "x1": 448.2,
+      "bottom": 60.66,
+      "confidence": 96.736229,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "during",
+      "x0": 452.15999999999997,
+      "top": 49.68,
+      "x1": 482.93999999999994,
+      "bottom": 60.66,
+      "confidence": 96.652939,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "proceedings",
+      "x0": 108.17999999999999,
+      "top": 64.25999999999999,
+      "x1": 166.5,
+      "bottom": 75.24,
+      "confidence": 95.833839,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "or",
+      "x0": 170.1,
+      "top": 67.14,
+      "x1": 180.0,
+      "bottom": 72.9,
+      "confidence": 96.790405,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "in",
+      "x0": 182.7,
+      "top": 64.25999999999999,
+      "x1": 191.51999999999998,
+      "bottom": 72.71999999999998,
+      "confidence": 96.495186,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "the",
+      "x0": 194.57999999999998,
+      "top": 64.25999999999999,
+      "x1": 208.79999999999998,
+      "bottom": 72.89999999999999,
+      "confidence": 96.925522,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "course",
+      "x0": 212.22,
+      "top": 67.14,
+      "x1": 243.54,
+      "bottom": 72.9,
+      "confidence": 96.536179,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "of",
+      "x0": 247.14,
+      "top": 64.25999999999999,
+      "x1": 258.3,
+      "bottom": 72.89999999999999,
+      "confidence": 93.046951,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "a",
+      "x0": 259.92,
+      "top": 67.14,
+      "x1": 264.78000000000003,
+      "bottom": 72.72,
+      "confidence": 93.046951,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "judicial",
+      "x0": 266.58,
+      "top": 64.25999999999999,
+      "x1": 303.12,
+      "bottom": 75.24,
+      "confidence": 95.481148,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "order.",
+      "x0": 306.18,
+      "top": 64.25999999999999,
+      "x1": 333.9,
+      "bottom": 72.89999999999999,
+      "confidence": 96.555649,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Choose",
+      "x0": 86.94,
+      "top": 79.56,
+      "x1": 122.22,
+      "bottom": 88.02,
+      "confidence": 96.683487,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "the",
+      "x0": 125.64,
+      "top": 79.56,
+      "x1": 139.86,
+      "bottom": 88.02,
+      "confidence": 96.289848,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "correct",
+      "x0": 143.64,
+      "top": 80.82,
+      "x1": 176.39999999999998,
+      "bottom": 88.02,
+      "confidence": 96.286758,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "answer",
+      "x0": 179.82,
+      "top": 82.44,
+      "x1": 213.48,
+      "bottom": 88.02,
+      "confidence": 96.799492,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "from",
+      "x0": 216.9,
+      "top": 79.56,
+      "x1": 239.58,
+      "bottom": 88.02,
+      "confidence": 96.453445,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "the",
+      "x0": 242.82,
+      "top": 79.56,
+      "x1": 257.03999999999996,
+      "bottom": 88.02,
+      "confidence": 96.392082,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "code",
+      "x0": 260.82,
+      "top": 79.56,
+      "x1": 282.59999999999997,
+      "bottom": 88.02,
+      "confidence": 96.862495,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "given",
+      "x0": 286.38,
+      "top": 79.56,
+      "x1": 312.48,
+      "bottom": 90.54,
+      "confidence": 96.042801,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "below.",
+      "x0": 315.71999999999997,
+      "top": 79.56,
+      "x1": 347.21999999999997,
+      "bottom": 88.02,
+      "confidence": 95.523575,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "(A)",
+      "x0": 100.44,
+      "top": 95.58,
+      "x1": 113.39999999999999,
+      "bottom": 106.38,
+      "confidence": 96.32943,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "Both",
+      "x0": 121.86,
+      "top": 95.58,
+      "x1": 144.9,
+      "bottom": 104.03999999999999,
+      "confidence": 96.059906,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "(1)",
+      "x0": 148.5,
+      "top": 95.58,
+      "x1": 159.48,
+      "bottom": 106.38,
+      "confidence": 83.474678,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "and",
+      "x0": 163.26,
+      "top": 95.58,
+      "x1": 180.54,
+      "bottom": 104.03999999999999,
+      "confidence": 96.747055,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "(ID)",
+      "x0": 184.68,
+      "top": 95.58,
+      "x1": 199.44,
+      "bottom": 106.38,
+      "confidence": 69.421646,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "are",
+      "x0": 203.4,
+      "top": 98.28,
+      "x1": 217.44,
+      "bottom": 104.04,
+      "confidence": 51.493717,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "true.",
+      "x0": 219.42,
+      "top": 96.66,
+      "x1": 240.11999999999998,
+      "bottom": 104.03999999999999,
+      "confidence": 51.493717,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "7"
+    },
+    {
+      "text": "(B)",
+      "x0": 100.44,
+      "top": 111.6,
+      "x1": 112.86,
+      "bottom": 122.39999999999999,
+      "confidence": 92.339333,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "Both",
+      "x0": 121.86,
+      "top": 111.42,
+      "x1": 144.9,
+      "bottom": 120.06,
+      "confidence": 96.845535,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "(J)",
+      "x0": 148.5,
+      "top": 111.6,
+      "x1": 159.48,
+      "bottom": 122.39999999999999,
+      "confidence": 77.809486,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "and",
+      "x0": 163.26,
+      "top": 111.42,
+      "x1": 180.54,
+      "bottom": 120.06,
+      "confidence": 95.876572,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "(ID)",
+      "x0": 184.68,
+      "top": 111.6,
+      "x1": 199.44,
+      "bottom": 122.39999999999999,
+      "confidence": 67.317169,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "are",
+      "x0": 203.4,
+      "top": 114.3,
+      "x1": 217.44,
+      "bottom": 120.06,
+      "confidence": 96.673622,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "untrue.",
+      "x0": 219.95999999999998,
+      "top": 112.67999999999999,
+      "x1": 253.61999999999998,
+      "bottom": 120.05999999999999,
+      "confidence": 96.438423,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "8"
+    },
+    {
+      "text": "(C)",
+      "x0": 100.44,
+      "top": 127.61999999999999,
+      "x1": 112.86,
+      "bottom": 138.42,
+      "confidence": 92.922958,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "9"
+    },
+    {
+      "text": "(J)",
+      "x0": 122.22,
+      "top": 127.61999999999999,
+      "x1": 133.2,
+      "bottom": 138.42,
+      "confidence": 58.556679,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "9"
+    },
+    {
+      "text": "is",
+      "x0": 136.98,
+      "top": 127.61999999999999,
+      "x1": 144.17999999999998,
+      "bottom": 136.07999999999998,
+      "confidence": 95.205101,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "9"
+    },
+    {
+      "text": "true",
+      "x0": 147.78,
+      "top": 128.7,
+      "x1": 165.96,
+      "bottom": 136.07999999999998,
+      "confidence": 96.468513,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "9"
+    },
+    {
+      "text": "and",
+      "x0": 169.73999999999998,
+      "top": 127.61999999999999,
+      "x1": 187.01999999999998,
+      "bottom": 136.07999999999998,
+      "confidence": 96.226608,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "9"
+    },
+    {
+      "text": "(II)",
+      "x0": 190.98,
+      "top": 127.61999999999999,
+      "x1": 205.92,
+      "bottom": 138.42,
+      "confidence": 93.493797,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "9"
+    },
+    {
+      "text": "is",
+      "x0": 209.7,
+      "top": 127.61999999999999,
+      "x1": 216.89999999999998,
+      "bottom": 136.07999999999998,
+      "confidence": 90.804489,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "9"
+    },
+    {
+      "text": "untrue.",
+      "x0": 219.23999999999998,
+      "top": 128.7,
+      "x1": 252.71999999999997,
+      "bottom": 136.07999999999998,
+      "confidence": 96.837112,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "9"
+    },
+    {
+      "text": "(D)",
+      "x0": 100.44,
+      "top": 142.92,
+      "x1": 113.39999999999999,
+      "bottom": 153.72,
+      "confidence": 92.514862,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "10"
+    },
+    {
+      "text": "(ID)",
+      "x0": 122.22,
+      "top": 142.92,
+      "x1": 137.16,
+      "bottom": 153.72,
+      "confidence": 69.928497,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "10"
+    },
+    {
+      "text": "is",
+      "x0": 140.94,
+      "top": 142.73999999999998,
+      "x1": 148.14,
+      "bottom": 151.38,
+      "confidence": 96.863976,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "10"
+    },
+    {
+      "text": "true",
+      "x0": 151.73999999999998,
+      "top": 144.0,
+      "x1": 169.92,
+      "bottom": 151.38,
+      "confidence": 96.688301,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "10"
+    },
+    {
+      "text": "and",
+      "x0": 173.7,
+      "top": 142.73999999999998,
+      "x1": 190.98,
+      "bottom": 151.38,
+      "confidence": 96.226517,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "10"
+    },
+    {
+      "text": "(J)",
+      "x0": 194.94,
+      "top": 142.92,
+      "x1": 205.92,
+      "bottom": 153.72,
+      "confidence": 86.466133,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "10"
+    },
+    {
+      "text": "is",
+      "x0": 209.7,
+      "top": 142.73999999999998,
+      "x1": 216.89999999999998,
+      "bottom": 151.38,
+      "confidence": 96.397919,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "10"
+    },
+    {
+      "text": "untrue.",
+      "x0": 219.23999999999998,
+      "top": 144.0,
+      "x1": 252.71999999999997,
+      "bottom": 151.38,
+      "confidence": 96.541473,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "10"
+    },
+    {
+      "text": "CORRECT",
+      "x0": 72.53999999999999,
+      "top": 159.12,
+      "x1": 131.57999999999998,
+      "bottom": 167.58,
+      "confidence": 96.268509,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "11"
+    },
+    {
+      "text": "OPTION:",
+      "x0": 135.54,
+      "top": 159.29999999999998,
+      "x1": 185.22,
+      "bottom": 167.57999999999998,
+      "confidence": 96.363274,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "11"
+    },
+    {
+      "text": "A",
+      "x0": 189.54,
+      "top": 159.29999999999998,
+      "x1": 197.82,
+      "bottom": 167.39999999999998,
+      "confidence": 96.529518,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "11"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

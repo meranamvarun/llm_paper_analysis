@@ -1,0 +1,328 @@
+{
+  "pdf_page": 388,
+  "crop_top": 674.56136,
+  "crop_bottom": 775.44137,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0388:l0042:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.42 What is the correlative of \"Immunity\", according to Hohfeld?",
+      "bbox": [
+        41.903999999999996,
+        4.4639999999999995,
+        251.71199999999996,
+        10.943999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Ans x",
+      "bbox": [
+        43.343999999999994,
+        15.983999999999998,
+        86.544,
+        28.511999999999997
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "1. Duty",
+      "bbox": [
+        88.55999999999999,
+        26.208,
+        109.584,
+        32.256
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "x,",
+      "bbox": [
+        73.008,
+        37.296,
+        93.024,
+        52.416
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "Liability",
+      "bbox": [
+        95.904,
+        46.656,
+        118.65599999999999,
+        54.288
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "a",
+      "bbox": [
+        76.752,
+        63.215999999999994,
+        80.496,
+        71.28
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "3. Disability",
+      "bbox": [
+        88.27199999999999,
+        68.544,
+        122.976,
+        75.024
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "4. Power",
+      "bbox": [
+        88.128,
+        90.288,
+        114.768,
+        95.184
+      ]
+    }
+  ],
+  "text": "Q.42 What is the correlative of \"Immunity\", according to Hohfeld?\nAns x\n1. Duty\nx,\nLiability\na\n3. Disability\n4. Power",
+  "ocr_words": [
+    {
+      "text": "Q.42",
+      "x0": 41.903999999999996,
+      "top": 4.752,
+      "x1": 56.01599999999999,
+      "bottom": 10.512,
+      "confidence": 91.818367,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "What",
+      "x0": 62.495999999999995,
+      "top": 4.4639999999999995,
+      "x1": 79.344,
+      "bottom": 9.648,
+      "confidence": 95.57029,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 81.648,
+      "top": 4.608,
+      "x1": 85.824,
+      "bottom": 9.648,
+      "confidence": 94.324722,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 87.83999999999999,
+      "top": 4.4639999999999995,
+      "x1": 97.77599999999998,
+      "bottom": 9.648,
+      "confidence": 96.663841,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "correlative",
+      "x0": 100.08,
+      "top": 4.4639999999999995,
+      "x1": 133.05599999999998,
+      "bottom": 9.648,
+      "confidence": 95.952003,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 135.35999999999999,
+      "top": 4.4639999999999995,
+      "x1": 141.552,
+      "bottom": 9.648,
+      "confidence": 96.637093,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "\"Immunity\",",
+      "x0": 143.712,
+      "top": 4.4639999999999995,
+      "x1": 181.584,
+      "bottom": 10.943999999999999,
+      "confidence": 96.245316,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "according",
+      "x0": 183.88799999999998,
+      "top": 4.608,
+      "x1": 213.55199999999996,
+      "bottom": 10.943999999999999,
+      "confidence": 96.628181,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 215.56799999999998,
+      "top": 5.183999999999999,
+      "x1": 221.76,
+      "bottom": 9.648,
+      "confidence": 93.30162,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Hohfeld?",
+      "x0": 224.20799999999997,
+      "top": 4.4639999999999995,
+      "x1": 251.71199999999996,
+      "bottom": 9.648,
+      "confidence": 92.139,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.343999999999994,
+      "top": 17.567999999999998,
+      "x1": 54.57599999999999,
+      "bottom": 22.464,
+      "confidence": 96.733505,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "x",
+      "x0": 73.008,
+      "top": 15.983999999999998,
+      "x1": 86.544,
+      "bottom": 28.511999999999997,
+      "confidence": 74.235466,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 88.55999999999999,
+      "top": 26.208,
+      "x1": 93.02399999999999,
+      "bottom": 30.959999999999997,
+      "confidence": 96.585693,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Duty",
+      "x0": 95.904,
+      "top": 26.208,
+      "x1": 109.584,
+      "bottom": 32.256,
+      "confidence": 96.898026,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "x,",
+      "x0": 73.008,
+      "top": 37.296,
+      "x1": 93.024,
+      "bottom": 52.416,
+      "confidence": 62.65266,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Liability",
+      "x0": 95.904,
+      "top": 46.656,
+      "x1": 118.65599999999999,
+      "bottom": 54.288,
+      "confidence": 96.823799,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "a",
+      "x0": 76.752,
+      "top": 63.215999999999994,
+      "x1": 80.496,
+      "bottom": 71.28,
+      "confidence": 9.185242,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "3.",
+      "x0": 88.27199999999999,
+      "top": 68.976,
+      "x1": 93.02399999999999,
+      "bottom": 73.728,
+      "confidence": 96.911522,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Disability",
+      "x0": 95.904,
+      "top": 68.544,
+      "x1": 122.976,
+      "bottom": 75.024,
+      "confidence": 96.383339,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "4.",
+      "x0": 88.128,
+      "top": 90.288,
+      "x1": 93.024,
+      "bottom": 95.03999999999999,
+      "confidence": 92.703308,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Power",
+      "x0": 95.904,
+      "top": 90.288,
+      "x1": 114.768,
+      "bottom": 95.184,
+      "confidence": 95.417511,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

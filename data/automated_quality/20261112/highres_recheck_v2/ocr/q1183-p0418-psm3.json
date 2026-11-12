@@ -1,0 +1,768 @@
+{
+  "pdf_page": 418,
+  "crop_top": 279.2,
+  "crop_bottom": 397.35999999999996,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0418:l0015:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Question Number : 82 Question Id : 461139453 Question Type: MCQ Option Shuffling : Yes Display Question Number : Yes",
+      "bbox": [
+        37.8,
+        3.96,
+        549.1800000000001,
+        12.419999999999998
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Single Line Question Option : No Option Orientation : Vertical",
+      "bbox": [
+        37.98,
+        13.32,
+        293.22,
+        21.78
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "Correct : 1 Wrong : 0.25",
+      "bbox": [
+        37.8,
+        26.64,
+        138.06,
+        34.74
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "‘Self-interest Causes a conflict between individual will and general will’. Who expressed this opinion?",
+      "bbox": [
+        38.339999999999996,
+        39.059999999999995,
+        521.28,
+        49.32
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "Options :",
+      "bbox": [
+        37.8,
+        56.339999999999996,
+        73.8,
+        64.44
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "1. ® Savigny",
+      "bbox": [
+        39.059999999999995,
+        68.75999999999999,
+        101.52000000000001,
+        80.46000000000001
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "2. ® Austin",
+      "bbox": [
+        38.339999999999996,
+        86.75999999999999,
+        95.03999999999999,
+        96.12
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "3. ¥ Puchta",
+      "bbox": [
+        38.339999999999996,
+        104.75999999999999,
+        96.47999999999999,
+        114.12
+      ]
+    }
+  ],
+  "text": "Question Number : 82 Question Id : 461139453 Question Type: MCQ Option Shuffling : Yes Display Question Number : Yes\nSingle Line Question Option : No Option Orientation : Vertical\nCorrect : 1 Wrong : 0.25\n‘Self-interest Causes a conflict between individual will and general will’. Who expressed this opinion?\nOptions :\n1. ® Savigny\n2. ® Austin\n3. ¥ Puchta",
+  "ocr_words": [
+    {
+      "text": "Question",
+      "x0": 37.8,
+      "top": 3.96,
+      "x1": 73.08,
+      "bottom": 12.059999999999999,
+      "confidence": 95.632942,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Number",
+      "x0": 75.96,
+      "top": 4.14,
+      "x1": 109.07999999999998,
+      "bottom": 10.44,
+      "confidence": 93.287254,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 112.5,
+      "top": 5.9399999999999995,
+      "x1": 113.76,
+      "bottom": 10.44,
+      "confidence": 92.580551,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "82",
+      "x0": 117.53999999999999,
+      "top": 3.96,
+      "x1": 125.82,
+      "bottom": 10.44,
+      "confidence": 96.630676,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Question",
+      "x0": 131.76,
+      "top": 3.96,
+      "x1": 166.85999999999999,
+      "bottom": 12.059999999999999,
+      "confidence": 96.537643,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Id",
+      "x0": 169.92,
+      "top": 4.14,
+      "x1": 178.2,
+      "bottom": 10.44,
+      "confidence": 92.734421,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 181.62,
+      "top": 5.9399999999999995,
+      "x1": 182.88,
+      "bottom": 10.44,
+      "confidence": 86.23217,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "461139453",
+      "x0": 186.66,
+      "top": 3.96,
+      "x1": 228.06,
+      "bottom": 10.44,
+      "confidence": 96.209106,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Question",
+      "x0": 233.82,
+      "top": 3.96,
+      "x1": 268.92,
+      "bottom": 12.059999999999999,
+      "confidence": 96.152473,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Type:",
+      "x0": 272.15999999999997,
+      "top": 4.14,
+      "x1": 296.64,
+      "bottom": 12.419999999999998,
+      "confidence": 65.013596,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "MCQ",
+      "x0": 300.24,
+      "top": 3.96,
+      "x1": 322.56,
+      "bottom": 12.059999999999999,
+      "confidence": 91.559998,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Option",
+      "x0": 328.14,
+      "top": 3.96,
+      "x1": 355.5,
+      "bottom": 12.419999999999998,
+      "confidence": 93.300774,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Shuffling",
+      "x0": 358.74,
+      "top": 3.96,
+      "x1": 395.1,
+      "bottom": 12.419999999999998,
+      "confidence": 91.479958,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 399.78,
+      "top": 5.9399999999999995,
+      "x1": 399.96,
+      "bottom": 10.44,
+      "confidence": 92.711594,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Yes",
+      "x0": 403.2,
+      "top": 4.14,
+      "x1": 417.59999999999997,
+      "bottom": 10.44,
+      "confidence": 96.314163,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Display",
+      "x0": 422.64,
+      "top": 3.96,
+      "x1": 452.52,
+      "bottom": 12.419999999999998,
+      "confidence": 96.026085,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Question",
+      "x0": 455.76,
+      "top": 3.96,
+      "x1": 490.86,
+      "bottom": 12.059999999999999,
+      "confidence": 96.684471,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Number",
+      "x0": 493.74,
+      "top": 4.14,
+      "x1": 527.04,
+      "bottom": 10.44,
+      "confidence": 93.228386,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 530.28,
+      "top": 5.9399999999999995,
+      "x1": 531.54,
+      "bottom": 10.44,
+      "confidence": 89.002487,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Yes",
+      "x0": 534.96,
+      "top": 4.14,
+      "x1": 549.1800000000001,
+      "bottom": 10.44,
+      "confidence": 96.854385,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Single",
+      "x0": 37.98,
+      "top": 13.32,
+      "x1": 61.739999999999995,
+      "bottom": 21.78,
+      "confidence": 96.766472,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Line",
+      "x0": 64.44,
+      "top": 13.32,
+      "x1": 82.25999999999999,
+      "bottom": 19.8,
+      "confidence": 96.096924,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Question",
+      "x0": 85.32,
+      "top": 13.32,
+      "x1": 120.6,
+      "bottom": 21.42,
+      "confidence": 95.918999,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Option",
+      "x0": 123.83999999999999,
+      "top": 13.32,
+      "x1": 151.2,
+      "bottom": 21.78,
+      "confidence": 89.619171,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": ":",
+      "x0": 154.79999999999998,
+      "top": 15.299999999999999,
+      "x1": 156.05999999999997,
+      "bottom": 19.799999999999997,
+      "confidence": 89.619171,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "No",
+      "x0": 159.48,
+      "top": 13.5,
+      "x1": 170.45999999999998,
+      "bottom": 19.8,
+      "confidence": 95.887466,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Option",
+      "x0": 176.04,
+      "top": 13.32,
+      "x1": 203.39999999999998,
+      "bottom": 21.78,
+      "confidence": 96.451302,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Orientation",
+      "x0": 206.64,
+      "top": 13.32,
+      "x1": 252.71999999999997,
+      "bottom": 19.8,
+      "confidence": 92.825043,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": ":",
+      "x0": 256.5,
+      "top": 15.299999999999999,
+      "x1": 257.76,
+      "bottom": 19.799999999999997,
+      "confidence": 92.836563,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Vertical",
+      "x0": 261.18,
+      "top": 13.32,
+      "x1": 293.22,
+      "bottom": 19.8,
+      "confidence": 95.846954,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Correct",
+      "x0": 37.8,
+      "top": 26.64,
+      "x1": 68.58,
+      "bottom": 33.12,
+      "confidence": 82.834312,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 72.0,
+      "top": 28.619999999999997,
+      "x1": 73.26,
+      "bottom": 33.12,
+      "confidence": 82.834312,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1",
+      "x0": 79.2,
+      "top": 26.64,
+      "x1": 80.46000000000001,
+      "bottom": 32.94,
+      "confidence": 92.194679,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Wrong",
+      "x0": 86.03999999999999,
+      "top": 26.82,
+      "x1": 113.94,
+      "bottom": 34.74,
+      "confidence": 92.043961,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 117.53999999999999,
+      "top": 28.619999999999997,
+      "x1": 118.8,
+      "bottom": 33.12,
+      "confidence": 91.497711,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "0.25",
+      "x0": 122.39999999999999,
+      "top": 26.64,
+      "x1": 138.06,
+      "bottom": 33.12,
+      "confidence": 96.642929,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "‘Self-interest",
+      "x0": 38.339999999999996,
+      "top": 39.059999999999995,
+      "x1": 99.35999999999999,
+      "bottom": 46.98,
+      "confidence": 69.810814,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Causes",
+      "x0": 102.96,
+      "top": 41.22,
+      "x1": 134.64,
+      "bottom": 46.98,
+      "confidence": 93.095879,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 138.24,
+      "top": 41.22,
+      "x1": 143.28,
+      "bottom": 46.98,
+      "confidence": 95.219818,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "conflict",
+      "x0": 146.88,
+      "top": 39.059999999999995,
+      "x1": 181.98,
+      "bottom": 46.98,
+      "confidence": 95.219818,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "between",
+      "x0": 185.57999999999998,
+      "top": 39.78,
+      "x1": 224.45999999999998,
+      "bottom": 46.980000000000004,
+      "confidence": 94.546829,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "individual",
+      "x0": 228.06,
+      "top": 39.78,
+      "x1": 276.12,
+      "bottom": 46.980000000000004,
+      "confidence": 94.896217,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "will",
+      "x0": 279.71999999999997,
+      "top": 39.78,
+      "x1": 295.55999999999995,
+      "bottom": 46.980000000000004,
+      "confidence": 93.681854,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 299.15999999999997,
+      "top": 39.78,
+      "x1": 317.15999999999997,
+      "bottom": 46.980000000000004,
+      "confidence": 96.552505,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "general",
+      "x0": 320.76,
+      "top": 39.78,
+      "x1": 355.14,
+      "bottom": 49.32,
+      "confidence": 96.356812,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "will’.",
+      "x0": 358.74,
+      "top": 39.78,
+      "x1": 379.62,
+      "bottom": 46.980000000000004,
+      "confidence": 91.419044,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Who",
+      "x0": 383.94,
+      "top": 39.78,
+      "x1": 404.82,
+      "bottom": 46.980000000000004,
+      "confidence": 95.716454,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "expressed",
+      "x0": 408.41999999999996,
+      "top": 39.78,
+      "x1": 455.75999999999993,
+      "bottom": 49.32,
+      "confidence": 95.716454,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "this",
+      "x0": 459.35999999999996,
+      "top": 39.78,
+      "x1": 476.64,
+      "bottom": 46.980000000000004,
+      "confidence": 95.987373,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "opinion?",
+      "x0": 480.24,
+      "top": 39.78,
+      "x1": 521.28,
+      "bottom": 49.32,
+      "confidence": 95.10672,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Options",
+      "x0": 37.8,
+      "top": 56.339999999999996,
+      "x1": 68.94,
+      "bottom": 64.44,
+      "confidence": 87.271988,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": ":",
+      "x0": 72.53999999999999,
+      "top": 58.32,
+      "x1": 73.8,
+      "bottom": 62.82,
+      "confidence": 87.271988,
+      "ocr_block": "2",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 39.059999999999995,
+      "top": 70.92,
+      "x1": 45.53999999999999,
+      "bottom": 78.3,
+      "confidence": 87.567032,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "®",
+      "x0": 52.019999999999996,
+      "top": 68.75999999999999,
+      "x1": 58.49999999999999,
+      "bottom": 75.41999999999999,
+      "confidence": 34.193924,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Savigny",
+      "x0": 64.98,
+      "top": 70.92,
+      "x1": 101.52000000000001,
+      "bottom": 80.46000000000001,
+      "confidence": 89.634712,
+      "ocr_block": "2",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2.",
+      "x0": 38.339999999999996,
+      "top": 88.92,
+      "x1": 45.53999999999999,
+      "bottom": 96.12,
+      "confidence": 77.501968,
+      "ocr_block": "2",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "®",
+      "x0": 52.019999999999996,
+      "top": 86.75999999999999,
+      "x1": 58.49999999999999,
+      "bottom": 93.24,
+      "confidence": 80.022049,
+      "ocr_block": "2",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Austin",
+      "x0": 64.25999999999999,
+      "top": 88.92,
+      "x1": 95.03999999999999,
+      "bottom": 96.12,
+      "confidence": 94.816467,
+      "ocr_block": "2",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "3.",
+      "x0": 38.339999999999996,
+      "top": 106.92,
+      "x1": 45.53999999999999,
+      "bottom": 114.12,
+      "confidence": 88.760559,
+      "ocr_block": "2",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "¥",
+      "x0": 53.64,
+      "top": 104.75999999999999,
+      "x1": 58.5,
+      "bottom": 112.67999999999999,
+      "confidence": 65.055092,
+      "ocr_block": "2",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Puchta",
+      "x0": 64.25999999999999,
+      "top": 106.92,
+      "x1": 96.47999999999999,
+      "bottom": 114.12,
+      "confidence": 88.379814,
+      "ocr_block": "2",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

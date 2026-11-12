@@ -1,0 +1,724 @@
+{
+  "pdf_page": 248,
+  "crop_top": 546.972,
+  "crop_bottom": 646.412,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0248:l0031:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "83. Which of the following is not correct regarding the patriae jurisdiction?",
+      "bbox": [
+        72.72,
+        5.22,
+        474.3,
+        16.2
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "parens",
+      "bbox": [
+        340.38,
+        8.28,
+        374.4,
+        16.2
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(A) It is to secure the welfare ofminor.",
+      "bbox": [
+        100.44,
+        21.24,
+        290.7,
+        32.04
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(B) Welfare of minoris of paramount consideration.",
+      "bbox": [
+        100.44,
+        37.08,
+        353.34000000000003,
+        48.059999999999995
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(C) It is not to secure the welfare of minor.",
+      "bbox": [
+        100.44,
+        52.559999999999995,
+        308.7,
+        63.35999999999999
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "(D) Court is called upon in patriae to decide the best interest of the child.",
+      "bbox": [
+        100.44,
+        68.39999999999999,
+        489.59999999999997,
+        79.38000000000001
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "parens",
+      "bbox": [
+        233.82,
+        71.46,
+        267.84,
+        79.38
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "CORRECT OPTION: C",
+      "bbox": [
+        72.53999999999999,
+        84.78,
+        197.46,
+        93.24
+      ]
+    }
+  ],
+  "text": "83. Which of the following is not correct regarding the patriae jurisdiction?\nparens\n(A) It is to secure the welfare ofminor.\n(B) Welfare of minoris of paramount consideration.\n(C) It is not to secure the welfare of minor.\n(D) Court is called upon in patriae to decide the best interest of the child.\nparens\nCORRECT OPTION: C",
+  "ocr_words": [
+    {
+      "text": "83.",
+      "x0": 72.72,
+      "top": 5.3999999999999995,
+      "x1": 84.96,
+      "bottom": 13.68,
+      "confidence": 76.09285,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Which",
+      "x0": 94.67999999999999,
+      "top": 5.22,
+      "x1": 126.53999999999999,
+      "bottom": 13.68,
+      "confidence": 76.09285,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 129.6,
+      "top": 5.22,
+      "x1": 140.57999999999998,
+      "bottom": 13.68,
+      "confidence": 95.709969,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 142.92,
+      "top": 5.22,
+      "x1": 156.95999999999998,
+      "bottom": 13.68,
+      "confidence": 96.605881,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 160.56,
+      "top": 5.22,
+      "x1": 207.72,
+      "bottom": 16.2,
+      "confidence": 96.242401,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 210.42,
+      "top": 5.22,
+      "x1": 217.79999999999998,
+      "bottom": 13.68,
+      "confidence": 94.744545,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "not",
+      "x0": 221.04,
+      "top": 6.4799999999999995,
+      "x1": 236.51999999999998,
+      "bottom": 13.68,
+      "confidence": 96.107765,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "correct",
+      "x0": 239.57999999999998,
+      "top": 6.4799999999999995,
+      "x1": 273.06,
+      "bottom": 13.68,
+      "confidence": 96.393417,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "regarding",
+      "x0": 275.76,
+      "top": 5.22,
+      "x1": 321.48,
+      "bottom": 16.2,
+      "confidence": 96.295937,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 323.82,
+      "top": 5.22,
+      "x1": 338.03999999999996,
+      "bottom": 13.68,
+      "confidence": 93.298714,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "parens",
+      "x0": 340.38,
+      "top": 8.28,
+      "x1": 374.4,
+      "bottom": 16.2,
+      "confidence": 90.732231,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "patriae",
+      "x0": 376.2,
+      "top": 5.9399999999999995,
+      "x1": 412.56,
+      "bottom": 16.2,
+      "confidence": 92.80407,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "jurisdiction?",
+      "x0": 414.0,
+      "top": 5.22,
+      "x1": 474.3,
+      "bottom": 16.2,
+      "confidence": 95.739426,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 100.44,
+      "top": 21.24,
+      "x1": 113.39999999999999,
+      "bottom": 32.04,
+      "confidence": 95.576813,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "It",
+      "x0": 122.03999999999999,
+      "top": 21.599999999999998,
+      "x1": 128.88,
+      "bottom": 29.519999999999996,
+      "confidence": 43.851189,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "is",
+      "x0": 132.29999999999998,
+      "top": 21.24,
+      "x1": 139.49999999999997,
+      "bottom": 29.699999999999996,
+      "confidence": 43.851189,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "to",
+      "x0": 143.1,
+      "top": 22.32,
+      "x1": 151.92,
+      "bottom": 29.7,
+      "confidence": 95.884598,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "secure",
+      "x0": 155.88,
+      "top": 23.939999999999998,
+      "x1": 186.29999999999998,
+      "bottom": 29.699999999999996,
+      "confidence": 96.612755,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 190.07999999999998,
+      "top": 21.24,
+      "x1": 204.29999999999998,
+      "bottom": 29.699999999999996,
+      "confidence": 96.577538,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "welfare",
+      "x0": 207.72,
+      "top": 21.24,
+      "x1": 244.26,
+      "bottom": 29.699999999999996,
+      "confidence": 93.2995,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "ofminor.",
+      "x0": 248.22,
+      "top": 21.24,
+      "x1": 290.7,
+      "bottom": 29.699999999999996,
+      "confidence": 90.107674,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(B)",
+      "x0": 100.44,
+      "top": 37.26,
+      "x1": 112.86,
+      "bottom": 47.879999999999995,
+      "confidence": 93.061127,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Welfare",
+      "x0": 121.86,
+      "top": 37.08,
+      "x1": 160.56,
+      "bottom": 45.72,
+      "confidence": 96.578094,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 164.51999999999998,
+      "top": 37.08,
+      "x1": 175.49999999999997,
+      "bottom": 45.54,
+      "confidence": 93.201027,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "minoris",
+      "x0": 177.66,
+      "top": 37.08,
+      "x1": 215.45999999999998,
+      "bottom": 45.54,
+      "confidence": 92.86274,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 219.23999999999998,
+      "top": 37.08,
+      "x1": 230.21999999999997,
+      "bottom": 45.54,
+      "confidence": 96.626976,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "paramount",
+      "x0": 232.2,
+      "top": 38.339999999999996,
+      "x1": 283.5,
+      "bottom": 48.059999999999995,
+      "confidence": 96.371696,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "consideration.",
+      "x0": 286.92,
+      "top": 37.08,
+      "x1": 353.34000000000003,
+      "bottom": 45.54,
+      "confidence": 96.051239,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(C)",
+      "x0": 100.44,
+      "top": 52.559999999999995,
+      "x1": 112.86,
+      "bottom": 63.35999999999999,
+      "confidence": 92.432503,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "It",
+      "x0": 122.03999999999999,
+      "top": 52.919999999999995,
+      "x1": 128.88,
+      "bottom": 60.839999999999996,
+      "confidence": 1.434929,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "is",
+      "x0": 132.48,
+      "top": 52.559999999999995,
+      "x1": 139.67999999999998,
+      "bottom": 61.019999999999996,
+      "confidence": 1.434929,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "not",
+      "x0": 143.46,
+      "top": 53.64,
+      "x1": 159.3,
+      "bottom": 61.02,
+      "confidence": 94.651154,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "to",
+      "x0": 161.82,
+      "top": 53.64,
+      "x1": 170.64,
+      "bottom": 61.02,
+      "confidence": 94.651154,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "secure",
+      "x0": 174.42,
+      "top": 55.26,
+      "x1": 204.66,
+      "bottom": 61.019999999999996,
+      "confidence": 95.846329,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "the",
+      "x0": 207.9,
+      "top": 52.559999999999995,
+      "x1": 222.12,
+      "bottom": 61.019999999999996,
+      "confidence": 95.846329,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "welfare",
+      "x0": 225.17999999999998,
+      "top": 52.559999999999995,
+      "x1": 261.53999999999996,
+      "bottom": 61.019999999999996,
+      "confidence": 96.77298,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "of",
+      "x0": 265.14,
+      "top": 52.559999999999995,
+      "x1": 276.12,
+      "bottom": 61.019999999999996,
+      "confidence": 96.743271,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "minor.",
+      "x0": 277.56,
+      "top": 52.559999999999995,
+      "x1": 308.7,
+      "bottom": 61.019999999999996,
+      "confidence": 96.258087,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(D)",
+      "x0": 100.44,
+      "top": 68.58,
+      "x1": 113.39999999999999,
+      "bottom": 79.38,
+      "confidence": 90.206787,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Court",
+      "x0": 122.22,
+      "top": 68.58,
+      "x1": 149.4,
+      "bottom": 77.03999999999999,
+      "confidence": 90.702194,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "is",
+      "x0": 152.28,
+      "top": 68.39999999999999,
+      "x1": 159.48,
+      "bottom": 76.85999999999999,
+      "confidence": 90.702194,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "called",
+      "x0": 163.62,
+      "top": 68.39999999999999,
+      "x1": 191.88,
+      "bottom": 76.85999999999999,
+      "confidence": 95.929993,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "upon",
+      "x0": 194.57999999999998,
+      "top": 71.28,
+      "x1": 219.23999999999998,
+      "bottom": 79.38,
+      "confidence": 95.064636,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "in",
+      "x0": 222.84,
+      "top": 68.39999999999999,
+      "x1": 231.66,
+      "bottom": 76.85999999999999,
+      "confidence": 93.217606,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "parens",
+      "x0": 233.82,
+      "top": 71.46,
+      "x1": 267.84,
+      "bottom": 79.38,
+      "confidence": 91.16526,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "patriae",
+      "x0": 269.64,
+      "top": 69.12,
+      "x1": 306.0,
+      "bottom": 79.38000000000001,
+      "confidence": 90.127525,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "to",
+      "x0": 308.52,
+      "top": 69.66,
+      "x1": 317.34,
+      "bottom": 76.86,
+      "confidence": 96.557777,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "decide",
+      "x0": 320.94,
+      "top": 68.39999999999999,
+      "x1": 352.08,
+      "bottom": 76.85999999999999,
+      "confidence": 96.135223,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "the",
+      "x0": 355.5,
+      "top": 68.39999999999999,
+      "x1": 369.72,
+      "bottom": 76.85999999999999,
+      "confidence": 96.569664,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "best",
+      "x0": 372.78,
+      "top": 68.39999999999999,
+      "x1": 392.03999999999996,
+      "bottom": 76.85999999999999,
+      "confidence": 96.787308,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "interest",
+      "x0": 394.74,
+      "top": 68.39999999999999,
+      "x1": 429.66,
+      "bottom": 76.85999999999999,
+      "confidence": 96.505814,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "of",
+      "x0": 432.35999999999996,
+      "top": 68.39999999999999,
+      "x1": 443.34,
+      "bottom": 76.85999999999999,
+      "confidence": 97.005539,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "the",
+      "x0": 445.5,
+      "top": 68.39999999999999,
+      "x1": 459.72,
+      "bottom": 76.85999999999999,
+      "confidence": 96.695953,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "child.",
+      "x0": 463.32,
+      "top": 68.39999999999999,
+      "x1": 489.59999999999997,
+      "bottom": 76.85999999999999,
+      "confidence": 96.678711,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "CORRECT",
+      "x0": 72.53999999999999,
+      "top": 84.78,
+      "x1": 131.57999999999998,
+      "bottom": 93.24,
+      "confidence": 95.485886,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "OPTION:",
+      "x0": 135.54,
+      "top": 84.96,
+      "x1": 185.22,
+      "bottom": 93.24,
+      "confidence": 93.30471,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "C",
+      "x0": 189.9,
+      "top": 84.78,
+      "x1": 197.46,
+      "bottom": 93.24,
+      "confidence": 91.717613,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

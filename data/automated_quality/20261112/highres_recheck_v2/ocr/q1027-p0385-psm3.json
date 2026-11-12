@@ -1,0 +1,364 @@
+{
+  "pdf_page": 385,
+  "crop_top": 735.76136,
+  "crop_bottom": 793.92137,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0385:l0046:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.26_ In India, which of the following cannot logically be said to be the manifestation of \"VOLKSGEIST\"?",
+      "bbox": [
+        41.94,
+        4.5,
+        365.76,
+        10.98
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Ans ra",
+      "bbox": [
+        43.379999999999995,
+        15.12,
+        86.75999999999999,
+        32.76
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "1. GURUKUL Education",
+      "bbox": [
+        88.56,
+        25.919999999999998,
+        157.14,
+        31.139999999999997
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "x",
+      "bbox": [
+        73.08,
+        37.26,
+        86.75999999999999,
+        49.68
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "2. Community Labour (SHRAMDAN)",
+      "bbox": [
+        88.38,
+        47.339999999999996,
+        196.2,
+        53.81999999999999
+      ]
+    }
+  ],
+  "text": "Q.26_ In India, which of the following cannot logically be said to be the manifestation of \"VOLKSGEIST\"?\nAns ra\n1. GURUKUL Education\nx\n2. Community Labour (SHRAMDAN)",
+  "ocr_words": [
+    {
+      "text": "Q.26_",
+      "x0": 41.94,
+      "top": 4.68,
+      "x1": 56.16,
+      "bottom": 10.44,
+      "confidence": 20.983971,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "In",
+      "x0": 62.82,
+      "top": 4.859999999999999,
+      "x1": 67.86,
+      "bottom": 9.54,
+      "confidence": 95.108673,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "India,",
+      "x0": 70.56,
+      "top": 4.5,
+      "x1": 87.3,
+      "bottom": 10.620000000000001,
+      "confidence": 95.199959,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "which",
+      "x0": 89.46,
+      "top": 4.5,
+      "x1": 107.46,
+      "bottom": 9.719999999999999,
+      "confidence": 96.446243,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 109.8,
+      "top": 4.5,
+      "x1": 116.1,
+      "bottom": 9.719999999999999,
+      "confidence": 96.64782,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 117.72,
+      "top": 4.5,
+      "x1": 127.8,
+      "bottom": 9.719999999999999,
+      "confidence": 96.64782,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 129.96,
+      "top": 4.5,
+      "x1": 158.76,
+      "bottom": 10.98,
+      "confidence": 96.46122,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "cannot",
+      "x0": 160.92,
+      "top": 5.04,
+      "x1": 181.98,
+      "bottom": 9.719999999999999,
+      "confidence": 96.550835,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "logically",
+      "x0": 184.32,
+      "top": 4.5,
+      "x1": 209.16,
+      "bottom": 10.98,
+      "confidence": 96.273598,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "be",
+      "x0": 211.32,
+      "top": 4.5,
+      "x1": 218.51999999999998,
+      "bottom": 9.719999999999999,
+      "confidence": 96.947342,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "said",
+      "x0": 220.67999999999998,
+      "top": 4.5,
+      "x1": 232.55999999999997,
+      "bottom": 9.719999999999999,
+      "confidence": 96.357613,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 234.72,
+      "top": 5.04,
+      "x1": 241.02,
+      "bottom": 9.719999999999999,
+      "confidence": 96.922768,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "be",
+      "x0": 243.35999999999999,
+      "top": 4.5,
+      "x1": 250.55999999999997,
+      "bottom": 9.719999999999999,
+      "confidence": 96.159729,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 252.54,
+      "top": 4.5,
+      "x1": 262.62,
+      "bottom": 9.719999999999999,
+      "confidence": 96.324478,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "manifestation",
+      "x0": 264.96,
+      "top": 4.5,
+      "x1": 307.79999999999995,
+      "bottom": 9.719999999999999,
+      "confidence": 96.559006,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 310.14,
+      "top": 4.5,
+      "x1": 316.44,
+      "bottom": 9.719999999999999,
+      "confidence": 87.749588,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "\"VOLKSGEIST\"?",
+      "x0": 318.42,
+      "top": 4.5,
+      "x1": 365.76,
+      "bottom": 9.719999999999999,
+      "confidence": 75.481201,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.379999999999995,
+      "top": 17.64,
+      "x1": 54.53999999999999,
+      "bottom": 22.5,
+      "confidence": 96.662811,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "ra",
+      "x0": 72.36,
+      "top": 15.12,
+      "x1": 86.75999999999999,
+      "bottom": 32.76,
+      "confidence": 32.391953,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 88.56,
+      "top": 26.279999999999998,
+      "x1": 93.06,
+      "bottom": 30.959999999999997,
+      "confidence": 92.936966,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "GURUKUL",
+      "x0": 95.58,
+      "top": 26.099999999999998,
+      "x1": 125.46,
+      "bottom": 31.139999999999997,
+      "confidence": 92.291534,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Education",
+      "x0": 127.8,
+      "top": 25.919999999999998,
+      "x1": 157.14,
+      "bottom": 31.139999999999997,
+      "confidence": 96.598625,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "x",
+      "x0": 73.08,
+      "top": 37.26,
+      "x1": 86.75999999999999,
+      "bottom": 49.68,
+      "confidence": 84.068367,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2.",
+      "x0": 88.38,
+      "top": 47.519999999999996,
+      "x1": 93.06,
+      "bottom": 52.379999999999995,
+      "confidence": 96.64209,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Community",
+      "x0": 95.58,
+      "top": 47.519999999999996,
+      "x1": 130.5,
+      "bottom": 53.81999999999999,
+      "confidence": 96.55822,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Labour",
+      "x0": 133.01999999999998,
+      "top": 47.339999999999996,
+      "x1": 153.54,
+      "bottom": 52.559999999999995,
+      "confidence": 93.294456,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(SHRAMDAN)",
+      "x0": 155.88,
+      "top": 47.339999999999996,
+      "x1": 196.2,
+      "bottom": 53.63999999999999,
+      "confidence": 89.929871,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

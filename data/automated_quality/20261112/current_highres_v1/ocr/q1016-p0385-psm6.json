@@ -1,0 +1,371 @@
+{
+  "pdf_page": 385,
+  "crop_top": 160.24136,
+  "crop_bottom": 261.12136,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0385:l0008:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.22 Who was the author of \"The Province of Jurisprudence Determined\"?",
+      "bbox": [
+        41.903999999999996,
+        4.4639999999999995,
+        278.06399999999996,
+        10.943999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Ans a",
+      "bbox": [
+        43.343999999999994,
+        15.983999999999998,
+        86.544,
+        28.511999999999997
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "1. Kelsen",
+      "bbox": [
+        88.55999999999999,
+        25.919999999999998,
+        114.624,
+        30.959999999999997
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "x",
+      "bbox": [
+        73.008,
+        37.296,
+        86.544,
+        49.824
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "2. Dias",
+      "bbox": [
+        88.27199999999999,
+        47.519999999999996,
+        107.856,
+        52.416
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "ss",
+      "bbox": [
+        76.17599999999999,
+        62.63999999999999,
+        80.63999999999999,
+        75.744
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "3. Austin",
+      "bbox": [
+        88.27199999999999,
+        68.832,
+        114.04799999999999,
+        73.728
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "rad",
+      "bbox": [
+        72.43199999999999,
+        79.488,
+        87.11999999999999,
+        97.056
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "4. Salmond",
+      "bbox": [
+        88.128,
+        90.0,
+        121.24799999999999,
+        95.04
+      ]
+    }
+  ],
+  "text": "Q.22 Who was the author of \"The Province of Jurisprudence Determined\"?\nAns a\n1. Kelsen\nx\n2. Dias\nss\n3. Austin\nrad\n4. Salmond",
+  "ocr_words": [
+    {
+      "text": "Q.22",
+      "x0": 41.903999999999996,
+      "top": 4.752,
+      "x1": 56.01599999999999,
+      "bottom": 10.367999999999999,
+      "confidence": 91.281487,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Who",
+      "x0": 62.495999999999995,
+      "top": 4.4639999999999995,
+      "x1": 76.89599999999999,
+      "bottom": 9.648,
+      "confidence": 95.727562,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "was",
+      "x0": 79.056,
+      "top": 6.047999999999999,
+      "x1": 91.008,
+      "bottom": 9.648,
+      "confidence": 92.632271,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 93.02399999999999,
+      "top": 4.4639999999999995,
+      "x1": 102.95999999999998,
+      "bottom": 9.648,
+      "confidence": 93.272568,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "author",
+      "x0": 105.264,
+      "top": 4.4639999999999995,
+      "x1": 126.0,
+      "bottom": 9.648,
+      "confidence": 96.732475,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 128.016,
+      "top": 4.4639999999999995,
+      "x1": 134.208,
+      "bottom": 9.648,
+      "confidence": 96.660484,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "\"The",
+      "x0": 136.224,
+      "top": 4.4639999999999995,
+      "x1": 150.33599999999998,
+      "bottom": 9.648,
+      "confidence": 96.493538,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Province",
+      "x0": 152.784,
+      "top": 4.608,
+      "x1": 178.992,
+      "bottom": 9.648,
+      "confidence": 96.183464,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 181.296,
+      "top": 4.4639999999999995,
+      "x1": 187.488,
+      "bottom": 9.648,
+      "confidence": 96.183464,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Jurisprudence",
+      "x0": 189.07199999999997,
+      "top": 4.4639999999999995,
+      "x1": 232.27199999999996,
+      "bottom": 10.943999999999999,
+      "confidence": 96.457794,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Determined\"?",
+      "x0": 234.71999999999997,
+      "top": 4.4639999999999995,
+      "x1": 278.06399999999996,
+      "bottom": 9.648,
+      "confidence": 93.425697,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.343999999999994,
+      "top": 17.567999999999998,
+      "x1": 54.57599999999999,
+      "bottom": 22.319999999999997,
+      "confidence": 96.287682,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "a",
+      "x0": 73.008,
+      "top": 15.983999999999998,
+      "x1": 86.544,
+      "bottom": 28.511999999999997,
+      "confidence": 46.141243,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 88.55999999999999,
+      "top": 26.208,
+      "x1": 93.02399999999999,
+      "bottom": 30.959999999999997,
+      "confidence": 93.241127,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Kelsen",
+      "x0": 95.904,
+      "top": 25.919999999999998,
+      "x1": 114.624,
+      "bottom": 30.959999999999997,
+      "confidence": 91.636093,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "x",
+      "x0": 73.008,
+      "top": 37.296,
+      "x1": 86.544,
+      "bottom": 49.824,
+      "confidence": 75.283707,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "2.",
+      "x0": 88.27199999999999,
+      "top": 47.519999999999996,
+      "x1": 93.02399999999999,
+      "bottom": 52.272,
+      "confidence": 96.143494,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Dias",
+      "x0": 95.904,
+      "top": 47.519999999999996,
+      "x1": 107.856,
+      "bottom": 52.416,
+      "confidence": 96.143494,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "ss",
+      "x0": 76.17599999999999,
+      "top": 62.63999999999999,
+      "x1": 80.63999999999999,
+      "bottom": 75.744,
+      "confidence": 0.0,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "3.",
+      "x0": 88.27199999999999,
+      "top": 68.832,
+      "x1": 93.02399999999999,
+      "bottom": 73.728,
+      "confidence": 96.493164,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Austin",
+      "x0": 95.472,
+      "top": 68.832,
+      "x1": 114.04799999999999,
+      "bottom": 73.728,
+      "confidence": 96.701164,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "rad",
+      "x0": 72.43199999999999,
+      "top": 79.488,
+      "x1": 87.11999999999999,
+      "bottom": 97.056,
+      "confidence": 56.093941,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "4.",
+      "x0": 88.128,
+      "top": 90.288,
+      "x1": 93.024,
+      "bottom": 95.03999999999999,
+      "confidence": 96.488213,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Salmond",
+      "x0": 95.616,
+      "top": 90.0,
+      "x1": 121.24799999999999,
+      "bottom": 95.04,
+      "confidence": 96.488213,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

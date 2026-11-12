@@ -1,0 +1,426 @@
+{
+  "pdf_page": 389,
+  "crop_top": 596.80136,
+  "crop_bottom": 697.68136,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0389:l0037:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.47 That \"Life of Law has not been logic, it has been experience\" was observed by:",
+      "bbox": [
+        41.903999999999996,
+        4.4639999999999995,
+        305.424,
+        10.943999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Ans a",
+      "bbox": [
+        43.343999999999994,
+        15.839999999999998,
+        86.544,
+        28.367999999999995
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "1. Hohfield",
+      "bbox": [
+        88.55999999999999,
+        25.919999999999998,
+        120.672,
+        30.959999999999997
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "7",
+      "bbox": [
+        76.752,
+        41.76,
+        80.496,
+        49.824
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "2. Holmes",
+      "bbox": [
+        88.27199999999999,
+        47.232,
+        117.93599999999999,
+        52.416
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "rd",
+      "bbox": [
+        72.43199999999999,
+        58.032,
+        86.54399999999998,
+        75.744
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "3. Holland",
+      "bbox": [
+        88.27199999999999,
+        68.544,
+        118.22399999999999,
+        73.728
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "x,",
+      "bbox": [
+        73.008,
+        79.91999999999999,
+        93.024,
+        95.03999999999999
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "Henry Maine",
+      "bbox": [
+        95.904,
+        90.14399999999999,
+        134.35199999999998,
+        96.336
+      ]
+    }
+  ],
+  "text": "Q.47 That \"Life of Law has not been logic, it has been experience\" was observed by:\nAns a\n1. Hohfield\n7\n2. Holmes\nrd\n3. Holland\nx,\nHenry Maine",
+  "ocr_words": [
+    {
+      "text": "Q.47",
+      "x0": 41.903999999999996,
+      "top": 4.752,
+      "x1": 56.01599999999999,
+      "bottom": 10.367999999999999,
+      "confidence": 90.827377,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "That",
+      "x0": 62.495999999999995,
+      "top": 4.4639999999999995,
+      "x1": 76.17599999999999,
+      "bottom": 9.648,
+      "confidence": 95.429008,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "\"Life",
+      "x0": 78.624,
+      "top": 4.4639999999999995,
+      "x1": 92.304,
+      "bottom": 9.648,
+      "confidence": 95.429008,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 94.464,
+      "top": 4.4639999999999995,
+      "x1": 100.65599999999999,
+      "bottom": 9.648,
+      "confidence": 96.701706,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Law",
+      "x0": 102.81599999999999,
+      "top": 4.896,
+      "x1": 114.624,
+      "bottom": 9.648,
+      "confidence": 96.745438,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "has",
+      "x0": 116.928,
+      "top": 4.4639999999999995,
+      "x1": 127.008,
+      "bottom": 9.648,
+      "confidence": 96.895264,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "not",
+      "x0": 129.456,
+      "top": 5.183999999999999,
+      "x1": 139.392,
+      "bottom": 9.648,
+      "confidence": 95.796043,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "been",
+      "x0": 141.696,
+      "top": 4.4639999999999995,
+      "x1": 156.384,
+      "bottom": 9.648,
+      "confidence": 95.796043,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "logic,",
+      "x0": 158.976,
+      "top": 4.4639999999999995,
+      "x1": 174.528,
+      "bottom": 10.943999999999999,
+      "confidence": 95.335037,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "it",
+      "x0": 176.976,
+      "top": 4.608,
+      "x1": 180.864,
+      "bottom": 9.648,
+      "confidence": 96.702438,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "has",
+      "x0": 183.16799999999998,
+      "top": 4.4639999999999995,
+      "x1": 193.248,
+      "bottom": 9.648,
+      "confidence": 96.166237,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "been",
+      "x0": 195.696,
+      "top": 4.4639999999999995,
+      "x1": 210.384,
+      "bottom": 9.648,
+      "confidence": 96.378235,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "experience\"",
+      "x0": 212.688,
+      "top": 4.4639999999999995,
+      "x1": 249.408,
+      "bottom": 10.943999999999999,
+      "confidence": 94.987602,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "was",
+      "x0": 251.856,
+      "top": 6.047999999999999,
+      "x1": 263.808,
+      "bottom": 9.648,
+      "confidence": 96.890282,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "observed",
+      "x0": 265.96799999999996,
+      "top": 4.4639999999999995,
+      "x1": 294.04799999999994,
+      "bottom": 9.648,
+      "confidence": 95.973755,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "by:",
+      "x0": 296.64,
+      "top": 4.4639999999999995,
+      "x1": 305.424,
+      "bottom": 10.943999999999999,
+      "confidence": 96.82029,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.343999999999994,
+      "top": 17.567999999999998,
+      "x1": 54.57599999999999,
+      "bottom": 22.464,
+      "confidence": 96.871315,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "a",
+      "x0": 73.008,
+      "top": 15.839999999999998,
+      "x1": 86.544,
+      "bottom": 28.367999999999995,
+      "confidence": 46.141243,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 88.55999999999999,
+      "top": 26.208,
+      "x1": 93.02399999999999,
+      "bottom": 30.959999999999997,
+      "confidence": 93.288475,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Hohfield",
+      "x0": 95.904,
+      "top": 25.919999999999998,
+      "x1": 120.672,
+      "bottom": 30.959999999999997,
+      "confidence": 91.060112,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "7",
+      "x0": 76.752,
+      "top": 41.76,
+      "x1": 80.496,
+      "bottom": 49.824,
+      "confidence": 16.181442,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "2.",
+      "x0": 88.27199999999999,
+      "top": 47.519999999999996,
+      "x1": 93.02399999999999,
+      "bottom": 52.416,
+      "confidence": 96.279037,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Holmes",
+      "x0": 95.904,
+      "top": 47.232,
+      "x1": 117.93599999999999,
+      "bottom": 52.416,
+      "confidence": 96.279037,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "rd",
+      "x0": 72.43199999999999,
+      "top": 58.032,
+      "x1": 86.54399999999998,
+      "bottom": 75.744,
+      "confidence": 64.763062,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "3.",
+      "x0": 88.27199999999999,
+      "top": 68.832,
+      "x1": 93.02399999999999,
+      "bottom": 73.728,
+      "confidence": 96.792549,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Holland",
+      "x0": 95.904,
+      "top": 68.544,
+      "x1": 118.22399999999999,
+      "bottom": 73.728,
+      "confidence": 96.544975,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "x,",
+      "x0": 73.008,
+      "top": 79.91999999999999,
+      "x1": 93.024,
+      "bottom": 95.03999999999999,
+      "confidence": 48.486462,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Henry",
+      "x0": 95.904,
+      "top": 90.288,
+      "x1": 113.472,
+      "bottom": 96.336,
+      "confidence": 96.685234,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Maine",
+      "x0": 115.91999999999999,
+      "top": 90.14399999999999,
+      "x1": 134.35199999999998,
+      "bottom": 95.184,
+      "confidence": 96.170982,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

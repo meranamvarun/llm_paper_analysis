@@ -1,0 +1,327 @@
+{
+  "pdf_page": 382,
+  "crop_top": 653.20136,
+  "crop_bottom": 754.08137,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0382:l0041:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.9 Whosaid that \"Certainty of law is a legal myth\"?",
+      "bbox": [
+        43.739999999999995,
+        4.5,
+        213.48,
+        11.16
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "ans x,",
+      "bbox": [
+        43.379999999999995,
+        16.02,
+        93.06,
+        30.96
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "Kelsen",
+      "bbox": [
+        95.94,
+        25.919999999999998,
+        114.66,
+        31.139999999999997
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        37.44,
+        93.06,
+        52.379999999999995
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "Salmond",
+      "bbox": [
+        95.58,
+        47.339999999999996,
+        121.32,
+        52.559999999999995
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "Vv;",
+      "bbox": [
+        73.08,
+        57.059999999999995,
+        93.06,
+        76.32
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "Jerome Frank",
+      "bbox": [
+        95.22,
+        68.75999999999999,
+        136.26,
+        73.98
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        80.1,
+        93.06,
+        95.03999999999999
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "Holmes",
+      "bbox": [
+        95.94,
+        89.28,
+        117.9,
+        97.38
+      ]
+    }
+  ],
+  "text": "Q.9 Whosaid that \"Certainty of law is a legal myth\"?\nans x,\nKelsen\nx,\nSalmond\nVv;\nJerome Frank\nx,\nHolmes",
+  "ocr_words": [
+    {
+      "text": "Q.9",
+      "x0": 43.739999999999995,
+      "top": 4.859999999999999,
+      "x1": 54.17999999999999,
+      "bottom": 10.62,
+      "confidence": 78.145256,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Whosaid",
+      "x0": 62.64,
+      "top": 4.68,
+      "x1": 91.08,
+      "bottom": 9.899999999999999,
+      "confidence": 78.145256,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "that",
+      "x0": 93.24,
+      "top": 4.68,
+      "x1": 105.83999999999999,
+      "bottom": 9.899999999999999,
+      "confidence": 94.784256,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "\"Certainty",
+      "x0": 108.17999999999999,
+      "top": 4.5,
+      "x1": 139.68,
+      "bottom": 11.16,
+      "confidence": 94.784256,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 141.84,
+      "top": 4.5,
+      "x1": 147.96,
+      "bottom": 9.899999999999999,
+      "confidence": 96.963852,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "law",
+      "x0": 149.94,
+      "top": 4.68,
+      "x1": 160.56,
+      "bottom": 9.899999999999999,
+      "confidence": 96.664688,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 162.72,
+      "top": 4.859999999999999,
+      "x1": 167.04,
+      "bottom": 9.899999999999999,
+      "confidence": 96.796104,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 169.2,
+      "top": 6.12,
+      "x1": 172.26,
+      "bottom": 9.9,
+      "confidence": 95.640266,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "legal",
+      "x0": 174.78,
+      "top": 4.68,
+      "x1": 188.64,
+      "bottom": 11.16,
+      "confidence": 95.640266,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "myth\"?",
+      "x0": 191.16,
+      "top": 4.5,
+      "x1": 213.48,
+      "bottom": 11.16,
+      "confidence": 96.623055,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "ans",
+      "x0": 43.379999999999995,
+      "top": 17.64,
+      "x1": 54.53999999999999,
+      "bottom": 22.5,
+      "confidence": 73.330658,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 16.02,
+      "x1": 93.06,
+      "bottom": 30.96,
+      "confidence": 55.081421,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Kelsen",
+      "x0": 95.94,
+      "top": 25.919999999999998,
+      "x1": 114.66,
+      "bottom": 31.139999999999997,
+      "confidence": 91.736183,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 37.44,
+      "x1": 93.06,
+      "bottom": 52.379999999999995,
+      "confidence": 61.328075,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Salmond",
+      "x0": 95.58,
+      "top": 47.339999999999996,
+      "x1": 121.32,
+      "bottom": 52.559999999999995,
+      "confidence": 96.642258,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Vv;",
+      "x0": 73.08,
+      "top": 57.059999999999995,
+      "x1": 93.06,
+      "bottom": 76.32,
+      "confidence": 18.164154,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Jerome",
+      "x0": 95.22,
+      "top": 69.12,
+      "x1": 117.36,
+      "bottom": 73.98,
+      "confidence": 96.167778,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Frank",
+      "x0": 120.06,
+      "top": 68.75999999999999,
+      "x1": 136.26,
+      "bottom": 73.97999999999999,
+      "confidence": 96.791107,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 80.1,
+      "x1": 93.06,
+      "bottom": 95.03999999999999,
+      "confidence": 38.014835,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Holmes",
+      "x0": 95.94,
+      "top": 89.28,
+      "x1": 117.9,
+      "bottom": 97.38,
+      "confidence": 96.16674,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

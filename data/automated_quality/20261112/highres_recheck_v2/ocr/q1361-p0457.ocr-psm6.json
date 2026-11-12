@@ -1,0 +1,147 @@
+{
+  "pdf_page": 457,
+  "crop_top": 56.84000000000003,
+  "crop_bottom": 76.84000000000003,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0456:l0023:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "D. A.K. Roy v. Union of India, [1982] 1 SCC 271.",
+      "bbox": [
+        144.9,
+        4.859999999999999,
+        383.94,
+        15.299999999999999
+      ]
+    }
+  ],
+  "text": "D. A.K. Roy v. Union of India, [1982] 1 SCC 271.",
+  "ocr_words": [
+    {
+      "text": "D.",
+      "x0": 144.9,
+      "top": 6.12,
+      "x1": 152.82,
+      "bottom": 13.14,
+      "confidence": 81.689224,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A.K.",
+      "x0": 170.64,
+      "top": 5.58,
+      "x1": 189.0,
+      "bottom": 13.14,
+      "confidence": 76.625168,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Roy",
+      "x0": 193.5,
+      "top": 5.58,
+      "x1": 210.96,
+      "bottom": 15.299999999999999,
+      "confidence": 78.495682,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "v.",
+      "x0": 214.01999999999998,
+      "top": 7.56,
+      "x1": 221.39999999999998,
+      "bottom": 13.14,
+      "confidence": 78.495682,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Union",
+      "x0": 225.9,
+      "top": 5.3999999999999995,
+      "x1": 253.08,
+      "bottom": 13.32,
+      "confidence": 96.580833,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 256.86,
+      "top": 4.859999999999999,
+      "x1": 267.3,
+      "bottom": 15.299999999999999,
+      "confidence": 96.461281,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "India,",
+      "x0": 269.64,
+      "top": 5.04,
+      "x1": 295.2,
+      "bottom": 14.759999999999998,
+      "confidence": 96.196335,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "[1982]",
+      "x0": 300.24,
+      "top": 4.859999999999999,
+      "x1": 329.76,
+      "bottom": 14.94,
+      "confidence": 95.786194,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1",
+      "x0": 334.62,
+      "top": 5.58,
+      "x1": 339.12,
+      "bottom": 13.14,
+      "confidence": 94.073212,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "SCC",
+      "x0": 342.9,
+      "top": 5.3999999999999995,
+      "x1": 360.53999999999996,
+      "bottom": 13.32,
+      "confidence": 95.948586,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "271.",
+      "x0": 364.14,
+      "top": 5.3999999999999995,
+      "x1": 383.94,
+      "bottom": 13.139999999999999,
+      "confidence": 95.638962,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

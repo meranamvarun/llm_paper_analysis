@@ -1,0 +1,199 @@
+{
+  "pdf_page": 413,
+  "crop_top": 9.68,
+  "crop_bottom": 81.03999999999999,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0412:l0044:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "1. ® Puchta",
+      "bbox": [
+        39.059999999999995,
+        4.14,
+        96.47999999999999,
+        13.5
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "2. ® Fuller",
+      "bbox": [
+        38.339999999999996,
+        22.14,
+        90.71999999999998,
+        31.5
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "7",
+      "bbox": [
+        54.0,
+        39.24,
+        58.68,
+        48.06
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "3. Savigny",
+      "bbox": [
+        38.339999999999996,
+        42.3,
+        101.52000000000001,
+        51.839999999999996
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "4. *® Salmond",
+      "bbox": [
+        38.339999999999996,
+        57.96,
+        105.84,
+        67.5
+      ]
+    }
+  ],
+  "text": "1. ® Puchta\n2. ® Fuller\n7\n3. Savigny\n4. *® Salmond",
+  "ocr_words": [
+    {
+      "text": "1.",
+      "x0": 39.059999999999995,
+      "top": 6.3,
+      "x1": 45.53999999999999,
+      "bottom": 13.5,
+      "confidence": 88.382843,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "®",
+      "x0": 52.019999999999996,
+      "top": 4.14,
+      "x1": 58.49999999999999,
+      "bottom": 10.62,
+      "confidence": 63.749859,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Puchta",
+      "x0": 64.25999999999999,
+      "top": 6.3,
+      "x1": 96.47999999999999,
+      "bottom": 13.5,
+      "confidence": 92.79129,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2.",
+      "x0": 38.339999999999996,
+      "top": 24.3,
+      "x1": 45.53999999999999,
+      "bottom": 31.5,
+      "confidence": 82.573601,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "®",
+      "x0": 52.019999999999996,
+      "top": 22.14,
+      "x1": 58.49999999999999,
+      "bottom": 28.62,
+      "confidence": 65.028732,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Fuller",
+      "x0": 64.25999999999999,
+      "top": 24.3,
+      "x1": 90.71999999999998,
+      "bottom": 31.5,
+      "confidence": 95.969688,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "3.",
+      "x0": 38.339999999999996,
+      "top": 42.3,
+      "x1": 45.53999999999999,
+      "bottom": 49.5,
+      "confidence": 89.100754,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "7",
+      "x0": 54.0,
+      "top": 39.24,
+      "x1": 58.68,
+      "bottom": 48.06,
+      "confidence": 30.310219,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Savigny",
+      "x0": 64.98,
+      "top": 42.3,
+      "x1": 101.52000000000001,
+      "bottom": 51.839999999999996,
+      "confidence": 90.643646,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "4.",
+      "x0": 38.339999999999996,
+      "top": 60.12,
+      "x1": 45.53999999999999,
+      "bottom": 67.5,
+      "confidence": 62.386494,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "*®",
+      "x0": 52.019999999999996,
+      "top": 57.96,
+      "x1": 58.49999999999999,
+      "bottom": 64.62,
+      "confidence": 38.548019,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Salmond",
+      "x0": 64.98,
+      "top": 60.12,
+      "x1": 105.84,
+      "bottom": 67.5,
+      "confidence": 96.202248,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

@@ -1,0 +1,944 @@
+{
+  "pdf_page": 213,
+  "crop_top": 126.07999999999998,
+  "crop_bottom": 249.52,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0213:l0001:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "78. Consider the given statements:",
+      "bbox": [
+        90.576,
+        4.175999999999999,
+        257.472,
+        14.399999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "(I) On amalgamation, the business of the transferor company does not cease, but is",
+      "bbox": [
+        115.19999999999999,
+        17.279999999999998,
+        513.216,
+        27.647999999999996
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "deemed to continue.",
+      "bbox": [
+        129.744,
+        30.816,
+        225.35999999999999,
+        38.592
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(Il) Under various provisions of the Income Tax Act, transferee is deemed to carry on",
+      "bbox": [
+        112.17599999999999,
+        43.775999999999996,
+        512.928,
+        54.0
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "the enterprise as that of the transferor.",
+      "bbox": [
+        129.456,
+        57.16799999999999,
+        310.46399999999994,
+        67.104
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "Choose the correct answer from the Code given below:",
+      "bbox": [
+        111.312,
+        82.94399999999999,
+        371.08799999999997,
+        93.16799999999999
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "(A) Both (I) and (Il) are true. (B) Only (I) is true.",
+      "bbox": [
+        111.02399999999999,
+        96.192,
+        387.35999999999996,
+        106.27199999999999
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "(C) Only (Il) is true. (D) Both (I) and (II) are untrue.",
+      "bbox": [
+        110.448,
+        109.29599999999999,
+        443.808,
+        119.52
+      ]
+    }
+  ],
+  "text": "78. Consider the given statements:\n(I) On amalgamation, the business of the transferor company does not cease, but is\ndeemed to continue.\n(Il) Under various provisions of the Income Tax Act, transferee is deemed to carry on\nthe enterprise as that of the transferor.\nChoose the correct answer from the Code given below:\n(A) Both (I) and (Il) are true. (B) Only (I) is true.\n(C) Only (Il) is true. (D) Both (I) and (II) are untrue.",
+  "ocr_words": [
+    {
+      "text": "78.",
+      "x0": 90.576,
+      "top": 4.4639999999999995,
+      "x1": 104.112,
+      "bottom": 12.239999999999998,
+      "confidence": 95.866486,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Consider",
+      "x0": 111.312,
+      "top": 4.175999999999999,
+      "x1": 153.648,
+      "bottom": 12.239999999999998,
+      "confidence": 95.866486,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 156.81599999999997,
+      "top": 4.319999999999999,
+      "x1": 171.07199999999997,
+      "bottom": 12.096,
+      "confidence": 96.188225,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "given",
+      "x0": 174.95999999999998,
+      "top": 4.319999999999999,
+      "x1": 199.43999999999997,
+      "bottom": 14.399999999999999,
+      "confidence": 96.263542,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "statements:",
+      "x0": 203.47199999999998,
+      "top": 4.896,
+      "x1": 257.472,
+      "bottom": 12.096,
+      "confidence": 96.264503,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(I)",
+      "x0": 115.19999999999999,
+      "top": 17.424,
+      "x1": 123.83999999999999,
+      "bottom": 27.503999999999998,
+      "confidence": 36.431087,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "On",
+      "x0": 129.744,
+      "top": 17.279999999999998,
+      "x1": 142.992,
+      "bottom": 25.488,
+      "confidence": 95.625748,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "amalgamation,",
+      "x0": 147.16799999999998,
+      "top": 17.567999999999998,
+      "x1": 215.99999999999997,
+      "bottom": 27.647999999999996,
+      "confidence": 96.259956,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 220.176,
+      "top": 17.567999999999998,
+      "x1": 234.576,
+      "bottom": 25.343999999999998,
+      "confidence": 96.259956,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "business",
+      "x0": 238.75199999999998,
+      "top": 17.567999999999998,
+      "x1": 279.936,
+      "bottom": 25.343999999999998,
+      "confidence": 95.887123,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 283.82399999999996,
+      "top": 17.424,
+      "x1": 292.17599999999993,
+      "bottom": 25.343999999999998,
+      "confidence": 95.887123,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 295.632,
+      "top": 17.567999999999998,
+      "x1": 309.888,
+      "bottom": 25.343999999999998,
+      "confidence": 96.181595,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "transferor",
+      "x0": 313.63199999999995,
+      "top": 17.424,
+      "x1": 359.28,
+      "bottom": 25.343999999999998,
+      "confidence": 95.929329,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "company",
+      "x0": 362.736,
+      "top": 19.439999999999998,
+      "x1": 405.64799999999997,
+      "bottom": 27.503999999999998,
+      "confidence": 95.979889,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "does",
+      "x0": 409.248,
+      "top": 17.567999999999998,
+      "x1": 431.712,
+      "bottom": 25.343999999999998,
+      "confidence": 96.485229,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "not",
+      "x0": 435.888,
+      "top": 18.144,
+      "x1": 449.856,
+      "bottom": 25.343999999999998,
+      "confidence": 96.285599,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "cease,",
+      "x0": 453.59999999999997,
+      "top": 19.439999999999998,
+      "x1": 483.84,
+      "bottom": 26.784,
+      "confidence": 96.630203,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "but",
+      "x0": 488.448,
+      "top": 17.567999999999998,
+      "x1": 502.56,
+      "bottom": 25.343999999999998,
+      "confidence": 96.531998,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 506.592,
+      "top": 17.567999999999998,
+      "x1": 513.216,
+      "bottom": 25.343999999999998,
+      "confidence": 95.367683,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "deemed",
+      "x0": 129.744,
+      "top": 30.816,
+      "x1": 167.47199999999998,
+      "bottom": 38.592,
+      "confidence": 96.296974,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "to",
+      "x0": 171.21599999999998,
+      "top": 31.247999999999998,
+      "x1": 179.56799999999998,
+      "bottom": 38.592,
+      "confidence": 96.296974,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "continue.",
+      "x0": 183.16799999999998,
+      "top": 30.816,
+      "x1": 225.35999999999999,
+      "bottom": 38.592,
+      "confidence": 96.949821,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(Il)",
+      "x0": 112.17599999999999,
+      "top": 43.775999999999996,
+      "x1": 123.83999999999999,
+      "bottom": 53.855999999999995,
+      "confidence": 79.195312,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Under",
+      "x0": 130.176,
+      "top": 44.064,
+      "x1": 158.54399999999998,
+      "bottom": 51.84,
+      "confidence": 95.835442,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "various",
+      "x0": 161.56799999999998,
+      "top": 44.064,
+      "x1": 195.55199999999996,
+      "bottom": 51.84,
+      "confidence": 96.268883,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "provisions",
+      "x0": 199.44,
+      "top": 44.064,
+      "x1": 246.672,
+      "bottom": 53.856,
+      "confidence": 96.103218,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 250.272,
+      "top": 43.919999999999995,
+      "x1": 258.768,
+      "bottom": 51.839999999999996,
+      "confidence": 96.103218,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 261.936,
+      "top": 44.064,
+      "x1": 276.19199999999995,
+      "bottom": 51.84,
+      "confidence": 96.628654,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Income",
+      "x0": 280.656,
+      "top": 44.064,
+      "x1": 314.352,
+      "bottom": 51.84,
+      "confidence": 96.378464,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Tax",
+      "x0": 317.808,
+      "top": 44.064,
+      "x1": 335.376,
+      "bottom": 51.84,
+      "confidence": 96.384674,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Act,",
+      "x0": 338.544,
+      "top": 44.064,
+      "x1": 355.96799999999996,
+      "bottom": 53.28,
+      "confidence": 96.59729,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "transferee",
+      "x0": 359.856,
+      "top": 43.919999999999995,
+      "x1": 407.52,
+      "bottom": 51.839999999999996,
+      "confidence": 96.552307,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 411.55199999999996,
+      "top": 44.064,
+      "x1": 418.176,
+      "bottom": 51.84,
+      "confidence": 96.512863,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "deemed",
+      "x0": 421.91999999999996,
+      "top": 44.064,
+      "x1": 459.50399999999996,
+      "bottom": 51.84,
+      "confidence": 96.420181,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 463.248,
+      "top": 44.495999999999995,
+      "x1": 471.74399999999997,
+      "bottom": 51.839999999999996,
+      "confidence": 95.603218,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "carry",
+      "x0": 475.34399999999994,
+      "top": 45.936,
+      "x1": 498.6719999999999,
+      "bottom": 54.0,
+      "confidence": 96.398705,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "on",
+      "x0": 502.128,
+      "top": 45.936,
+      "x1": 512.928,
+      "bottom": 51.84,
+      "confidence": 96.665894,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 129.456,
+      "top": 57.312,
+      "x1": 143.856,
+      "bottom": 65.088,
+      "confidence": 96.302673,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "enterprise",
+      "x0": 147.6,
+      "top": 57.312,
+      "x1": 194.39999999999998,
+      "bottom": 67.104,
+      "confidence": 96.13031,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "as",
+      "x0": 198.14399999999998,
+      "top": 59.184,
+      "x1": 208.65599999999998,
+      "bottom": 65.088,
+      "confidence": 96.13031,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "that",
+      "x0": 212.112,
+      "top": 57.312,
+      "x1": 229.68,
+      "bottom": 65.088,
+      "confidence": 96.377747,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 233.27999999999997,
+      "top": 57.16799999999999,
+      "x1": 241.63199999999998,
+      "bottom": 65.088,
+      "confidence": 96.929138,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 244.944,
+      "top": 57.312,
+      "x1": 259.2,
+      "bottom": 65.088,
+      "confidence": 96.918564,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "transferor.",
+      "x0": 262.79999999999995,
+      "top": 57.16799999999999,
+      "x1": 310.46399999999994,
+      "bottom": 65.088,
+      "confidence": 96.146873,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Choose",
+      "x0": 111.312,
+      "top": 82.94399999999999,
+      "x1": 147.312,
+      "bottom": 91.00799999999998,
+      "confidence": 95.592247,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 150.91199999999998,
+      "top": 83.088,
+      "x1": 165.16799999999998,
+      "bottom": 91.008,
+      "confidence": 95.592247,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "correct",
+      "x0": 168.91199999999998,
+      "top": 83.66399999999999,
+      "x1": 201.02399999999997,
+      "bottom": 91.00799999999998,
+      "confidence": 95.878853,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "answer",
+      "x0": 204.624,
+      "top": 85.104,
+      "x1": 238.752,
+      "bottom": 91.008,
+      "confidence": 95.878853,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "from",
+      "x0": 241.92,
+      "top": 82.94399999999999,
+      "x1": 262.368,
+      "bottom": 91.00799999999998,
+      "confidence": 96.501442,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 266.256,
+      "top": 83.088,
+      "x1": 280.51199999999994,
+      "bottom": 91.008,
+      "confidence": 96.710304,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Code",
+      "x0": 284.4,
+      "top": 82.94399999999999,
+      "x1": 309.024,
+      "bottom": 91.00799999999998,
+      "confidence": 96.139626,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "given",
+      "x0": 312.912,
+      "top": 83.088,
+      "x1": 337.392,
+      "bottom": 93.16799999999999,
+      "confidence": 96.139626,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "below:",
+      "x0": 341.712,
+      "top": 83.088,
+      "x1": 371.08799999999997,
+      "bottom": 91.008,
+      "confidence": 96.227455,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 111.02399999999999,
+      "top": 96.192,
+      "x1": 123.83999999999999,
+      "bottom": 106.27199999999999,
+      "confidence": 96.93251,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Both",
+      "x0": 130.176,
+      "top": 96.336,
+      "x1": 150.624,
+      "bottom": 104.112,
+      "confidence": 96.552032,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(I)",
+      "x0": 155.088,
+      "top": 96.192,
+      "x1": 163.72799999999998,
+      "bottom": 106.27199999999999,
+      "confidence": 53.224411,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 167.76,
+      "top": 96.336,
+      "x1": 184.608,
+      "bottom": 104.112,
+      "confidence": 96.327759,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(Il)",
+      "x0": 188.928,
+      "top": 96.192,
+      "x1": 200.59199999999998,
+      "bottom": 106.27199999999999,
+      "confidence": 76.728638,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "are",
+      "x0": 204.624,
+      "top": 98.208,
+      "x1": 219.31199999999998,
+      "bottom": 104.256,
+      "confidence": 94.97274,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "true.",
+      "x0": 222.91199999999998,
+      "top": 96.91199999999999,
+      "x1": 243.21599999999998,
+      "bottom": 104.112,
+      "confidence": 96.617302,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(B)",
+      "x0": 298.65599999999995,
+      "top": 96.192,
+      "x1": 311.4719999999999,
+      "bottom": 106.27199999999999,
+      "confidence": 91.1847,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Only",
+      "x0": 318.52799999999996,
+      "top": 96.192,
+      "x1": 339.84,
+      "bottom": 106.27199999999999,
+      "confidence": 95.507637,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(I)",
+      "x0": 343.72799999999995,
+      "top": 96.192,
+      "x1": 352.36799999999994,
+      "bottom": 106.27199999999999,
+      "confidence": 74.069748,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 356.832,
+      "top": 96.336,
+      "x1": 363.456,
+      "bottom": 104.256,
+      "confidence": 96.528435,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "true.",
+      "x0": 366.912,
+      "top": 96.91199999999999,
+      "x1": 387.35999999999996,
+      "bottom": 104.112,
+      "confidence": 96.804001,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(C)",
+      "x0": 110.448,
+      "top": 109.29599999999999,
+      "x1": 123.83999999999999,
+      "bottom": 119.52,
+      "confidence": 93.253433,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Only",
+      "x0": 129.744,
+      "top": 109.29599999999999,
+      "x1": 151.2,
+      "bottom": 119.52,
+      "confidence": 84.388985,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(Il)",
+      "x0": 155.088,
+      "top": 109.44,
+      "x1": 166.75199999999998,
+      "bottom": 119.52,
+      "confidence": 88.647575,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 171.07199999999997,
+      "top": 109.58399999999999,
+      "x1": 177.69599999999997,
+      "bottom": 117.35999999999999,
+      "confidence": 96.411942,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "true.",
+      "x0": 181.296,
+      "top": 110.16,
+      "x1": 201.6,
+      "bottom": 117.36,
+      "confidence": 95.794403,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(D)",
+      "x0": 298.08,
+      "top": 109.44,
+      "x1": 311.472,
+      "bottom": 119.52,
+      "confidence": 86.694305,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Both",
+      "x0": 318.816,
+      "top": 109.58399999999999,
+      "x1": 339.40799999999996,
+      "bottom": 117.35999999999999,
+      "confidence": 96.56263,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(I)",
+      "x0": 343.72799999999995,
+      "top": 109.44,
+      "x1": 352.51199999999994,
+      "bottom": 119.52,
+      "confidence": 80.877846,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 356.544,
+      "top": 109.58399999999999,
+      "x1": 373.392,
+      "bottom": 117.35999999999999,
+      "confidence": 96.053299,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(II)",
+      "x0": 377.712,
+      "top": 109.44,
+      "x1": 389.376,
+      "bottom": 119.52,
+      "confidence": 71.945274,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "are",
+      "x0": 393.40799999999996,
+      "top": 111.45599999999999,
+      "x1": 408.09599999999995,
+      "bottom": 117.35999999999999,
+      "confidence": 96.728706,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "untrue.",
+      "x0": 412.128,
+      "top": 110.16,
+      "x1": 443.808,
+      "bottom": 117.36,
+      "confidence": 96.513794,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

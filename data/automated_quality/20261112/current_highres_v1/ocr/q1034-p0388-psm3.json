@@ -1,0 +1,426 @@
+{
+  "pdf_page": 388,
+  "crop_top": 400.72136,
+  "crop_bottom": 501.60136,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0388:l0024:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.40 According to Analytical School, pre-existence of which of the following is necessary for the growth of Positive Law?",
+      "bbox": [
+        41.903999999999996,
+        4.4639999999999995,
+        419.18399999999997,
+        10.943999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Ans a",
+      "bbox": [
+        43.343999999999994,
+        15.839999999999998,
+        86.544,
+        28.367999999999995
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "1. Family",
+      "bbox": [
+        88.55999999999999,
+        25.919999999999998,
+        114.91199999999999,
+        32.256
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "v,",
+      "bbox": [
+        73.728,
+        36.431999999999995,
+        93.024,
+        52.416
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "State",
+      "bbox": [
+        95.616,
+        47.519999999999996,
+        110.736,
+        52.416
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "x,",
+      "bbox": [
+        73.008,
+        58.608,
+        93.024,
+        73.728
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "Tribe",
+      "bbox": [
+        95.32799999999999,
+        68.68799999999999,
+        110.59199999999998,
+        73.728
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "x,",
+      "bbox": [
+        73.008,
+        79.91999999999999,
+        93.024,
+        95.03999999999999
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "Clan",
+      "bbox": [
+        95.616,
+        90.0,
+        108.0,
+        95.184
+      ]
+    }
+  ],
+  "text": "Q.40 According to Analytical School, pre-existence of which of the following is necessary for the growth of Positive Law?\nAns a\n1. Family\nv,\nState\nx,\nTribe\nx,\nClan",
+  "ocr_words": [
+    {
+      "text": "Q.40",
+      "x0": 41.903999999999996,
+      "top": 4.752,
+      "x1": 56.16,
+      "bottom": 10.512,
+      "confidence": 90.82872,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "According",
+      "x0": 62.495999999999995,
+      "top": 4.608,
+      "x1": 93.16799999999999,
+      "bottom": 10.943999999999999,
+      "confidence": 94.785149,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 95.184,
+      "top": 5.183999999999999,
+      "x1": 101.37599999999999,
+      "bottom": 9.648,
+      "confidence": 94.785149,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Analytical",
+      "x0": 103.53599999999999,
+      "top": 4.608,
+      "x1": 133.77599999999998,
+      "bottom": 10.943999999999999,
+      "confidence": 96.00695,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "School,",
+      "x0": 136.07999999999998,
+      "top": 4.608,
+      "x1": 158.112,
+      "bottom": 10.655999999999999,
+      "confidence": 93.283104,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "pre-existence",
+      "x0": 160.55999999999997,
+      "top": 4.608,
+      "x1": 201.88799999999998,
+      "bottom": 10.943999999999999,
+      "confidence": 91.411194,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 204.19199999999998,
+      "top": 4.4639999999999995,
+      "x1": 210.384,
+      "bottom": 9.648,
+      "confidence": 96.953728,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "which",
+      "x0": 212.112,
+      "top": 4.608,
+      "x1": 230.256,
+      "bottom": 9.648,
+      "confidence": 96.647141,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 232.55999999999997,
+      "top": 4.4639999999999995,
+      "x1": 238.75199999999998,
+      "bottom": 9.648,
+      "confidence": 96.520477,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 240.48,
+      "top": 4.608,
+      "x1": 250.56,
+      "bottom": 9.648,
+      "confidence": 96.490517,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 252.576,
+      "top": 4.4639999999999995,
+      "x1": 281.52,
+      "bottom": 10.943999999999999,
+      "confidence": 96.352066,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 283.68,
+      "top": 4.608,
+      "x1": 287.856,
+      "bottom": 9.648,
+      "confidence": 96.097435,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "necessary",
+      "x0": 290.304,
+      "top": 6.047999999999999,
+      "x1": 320.4,
+      "bottom": 10.943999999999999,
+      "confidence": 96.746284,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "for",
+      "x0": 322.272,
+      "top": 4.4639999999999995,
+      "x1": 331.056,
+      "bottom": 9.648,
+      "confidence": 96.367691,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 333.072,
+      "top": 4.608,
+      "x1": 343.008,
+      "bottom": 9.648,
+      "confidence": 96.444603,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "growth",
+      "x0": 345.16799999999995,
+      "top": 4.608,
+      "x1": 367.0559999999999,
+      "bottom": 10.943999999999999,
+      "confidence": 96.111443,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 369.35999999999996,
+      "top": 4.4639999999999995,
+      "x1": 375.55199999999996,
+      "bottom": 9.648,
+      "confidence": 96.240829,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Positive",
+      "x0": 377.712,
+      "top": 4.608,
+      "x1": 401.616,
+      "bottom": 9.648,
+      "confidence": 96.534111,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Law?",
+      "x0": 404.06399999999996,
+      "top": 4.608,
+      "x1": 419.18399999999997,
+      "bottom": 9.648,
+      "confidence": 95.985733,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.343999999999994,
+      "top": 17.567999999999998,
+      "x1": 54.57599999999999,
+      "bottom": 22.464,
+      "confidence": 96.942429,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 73.008,
+      "top": 15.839999999999998,
+      "x1": 86.544,
+      "bottom": 28.367999999999995,
+      "confidence": 48.983654,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1.",
+      "x0": 88.55999999999999,
+      "top": 26.208,
+      "x1": 93.02399999999999,
+      "bottom": 30.959999999999997,
+      "confidence": 96.771736,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Family",
+      "x0": 95.904,
+      "top": 25.919999999999998,
+      "x1": 114.91199999999999,
+      "bottom": 32.256,
+      "confidence": 96.247643,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "v,",
+      "x0": 73.728,
+      "top": 36.431999999999995,
+      "x1": 93.024,
+      "bottom": 52.416,
+      "confidence": 51.150909,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "State",
+      "x0": 95.616,
+      "top": 47.519999999999996,
+      "x1": 110.736,
+      "bottom": 52.416,
+      "confidence": 96.89257,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "x,",
+      "x0": 73.008,
+      "top": 58.608,
+      "x1": 93.024,
+      "bottom": 73.728,
+      "confidence": 37.593422,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Tribe",
+      "x0": 95.32799999999999,
+      "top": 68.68799999999999,
+      "x1": 110.59199999999998,
+      "bottom": 73.728,
+      "confidence": 96.917664,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "x,",
+      "x0": 73.008,
+      "top": 79.91999999999999,
+      "x1": 93.024,
+      "bottom": 95.03999999999999,
+      "confidence": 48.74229,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Clan",
+      "x0": 95.616,
+      "top": 90.0,
+      "x1": 108.0,
+      "bottom": 95.184,
+      "confidence": 95.877365,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

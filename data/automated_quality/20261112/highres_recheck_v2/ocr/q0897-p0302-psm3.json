@@ -1,0 +1,517 @@
+{
+  "pdf_page": 302,
+  "crop_top": 76.53279999999995,
+  "crop_bottom": 140.2127999999999,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0302:l0000:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "ol. Which of the following is not formally considered amendment to the Constitution",
+      "bbox": [
+        46.98,
+        4.68,
+        550.26,
+        15.12
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "one as an",
+      "bbox": [
+        111.6,
+        7.739999999999999,
+        383.03999999999996,
+        13.139999999999999
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "under Article 368?",
+      "bbox": [
+        74.88,
+        18.0,
+        168.3,
+        26.28
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(A) Creation of states (B) Change in the Preamble",
+      "bbox": [
+        75.24,
+        35.1,
+        453.06,
+        45.36
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "new",
+      "bbox": [
+        163.07999999999998,
+        38.16,
+        183.23999999999998,
+        43.379999999999995
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "(C) Change in the Part IVA (D) Change in Part XII",
+      "bbox": [
+        75.24,
+        49.5,
+        427.32,
+        59.76
+      ]
+    }
+  ],
+  "text": "ol. Which of the following is not formally considered amendment to the Constitution\none as an\nunder Article 368?\n(A) Creation of states (B) Change in the Preamble\nnew\n(C) Change in the Part IVA (D) Change in Part XII",
+  "ocr_words": [
+    {
+      "text": "ol.",
+      "x0": 46.98,
+      "top": 5.3999999999999995,
+      "x1": 60.66,
+      "bottom": 13.139999999999999,
+      "confidence": 67.933281,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Which",
+      "x0": 74.7,
+      "top": 4.859999999999999,
+      "x1": 106.92,
+      "bottom": 13.139999999999999,
+      "confidence": 95.912979,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "one",
+      "x0": 111.6,
+      "top": 7.739999999999999,
+      "x1": 128.7,
+      "bottom": 13.139999999999999,
+      "confidence": 95.602783,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 133.38,
+      "top": 4.68,
+      "x1": 142.92,
+      "bottom": 13.139999999999999,
+      "confidence": 96.187904,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 146.51999999999998,
+      "top": 4.859999999999999,
+      "x1": 162.35999999999999,
+      "bottom": 13.139999999999999,
+      "confidence": 96.878563,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 167.04,
+      "top": 4.68,
+      "x1": 212.76,
+      "bottom": 15.12,
+      "confidence": 95.49559,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 217.07999999999998,
+      "top": 4.859999999999999,
+      "x1": 224.99999999999997,
+      "bottom": 13.139999999999999,
+      "confidence": 96.333313,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "not",
+      "x0": 229.85999999999999,
+      "top": 5.76,
+      "x1": 245.88,
+      "bottom": 13.14,
+      "confidence": 96.333313,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "formally",
+      "x0": 250.2,
+      "top": 4.68,
+      "x1": 292.86,
+      "bottom": 15.12,
+      "confidence": 96.384918,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "considered",
+      "x0": 297.18,
+      "top": 4.859999999999999,
+      "x1": 351.0,
+      "bottom": 13.139999999999999,
+      "confidence": 95.942581,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "as",
+      "x0": 355.68,
+      "top": 7.739999999999999,
+      "x1": 365.76,
+      "bottom": 13.139999999999999,
+      "confidence": 95.792923,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "an",
+      "x0": 370.97999999999996,
+      "top": 7.739999999999999,
+      "x1": 383.03999999999996,
+      "bottom": 13.139999999999999,
+      "confidence": 95.792923,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "amendment",
+      "x0": 387.9,
+      "top": 4.859999999999999,
+      "x1": 447.65999999999997,
+      "bottom": 13.139999999999999,
+      "confidence": 96.660599,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 452.15999999999997,
+      "top": 5.76,
+      "x1": 461.34,
+      "bottom": 13.14,
+      "confidence": 96.893417,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 466.02,
+      "top": 4.859999999999999,
+      "x1": 481.85999999999996,
+      "bottom": 13.139999999999999,
+      "confidence": 96.592552,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Constitution",
+      "x0": 487.08,
+      "top": 4.859999999999999,
+      "x1": 550.26,
+      "bottom": 13.139999999999999,
+      "confidence": 96.581734,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "under",
+      "x0": 74.88,
+      "top": 18.0,
+      "x1": 104.58,
+      "bottom": 26.28,
+      "confidence": 96.613113,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Article",
+      "x0": 107.82,
+      "top": 18.0,
+      "x1": 141.83999999999997,
+      "bottom": 26.28,
+      "confidence": 96.571121,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "368?",
+      "x0": 146.16,
+      "top": 18.0,
+      "x1": 168.3,
+      "bottom": 26.28,
+      "confidence": 96.912254,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(A)",
+      "x0": 75.24,
+      "top": 35.1,
+      "x1": 89.1,
+      "bottom": 45.36,
+      "confidence": 88.228699,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Creation",
+      "x0": 103.67999999999999,
+      "top": 35.1,
+      "x1": 147.23999999999998,
+      "bottom": 43.56,
+      "confidence": 87.941666,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 150.84,
+      "top": 35.1,
+      "x1": 160.38,
+      "bottom": 43.38,
+      "confidence": 95.34668,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "new",
+      "x0": 163.07999999999998,
+      "top": 38.16,
+      "x1": 183.23999999999998,
+      "bottom": 43.379999999999995,
+      "confidence": 96.224297,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "states",
+      "x0": 187.01999999999998,
+      "top": 36.18,
+      "x1": 216.35999999999999,
+      "bottom": 43.379999999999995,
+      "confidence": 96.429314,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(B)",
+      "x0": 302.21999999999997,
+      "top": 35.28,
+      "x1": 316.08,
+      "bottom": 45.36,
+      "confidence": 90.405891,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Change",
+      "x0": 330.65999999999997,
+      "top": 35.1,
+      "x1": 368.46,
+      "bottom": 45.36,
+      "confidence": 95.461884,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 372.24,
+      "top": 35.28,
+      "x1": 381.96000000000004,
+      "bottom": 43.2,
+      "confidence": 95.461884,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 385.56,
+      "top": 35.28,
+      "x1": 401.4,
+      "bottom": 43.38,
+      "confidence": 96.502045,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Preamble",
+      "x0": 405.18,
+      "top": 35.28,
+      "x1": 453.06,
+      "bottom": 43.38,
+      "confidence": 96.508469,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(C)",
+      "x0": 75.24,
+      "top": 49.5,
+      "x1": 89.1,
+      "bottom": 59.58,
+      "confidence": 91.177704,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Change",
+      "x0": 103.67999999999999,
+      "top": 49.5,
+      "x1": 141.29999999999998,
+      "bottom": 59.76,
+      "confidence": 92.26815,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "in",
+      "x0": 145.07999999999998,
+      "top": 49.5,
+      "x1": 154.98,
+      "bottom": 57.6,
+      "confidence": 91.623878,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 158.4,
+      "top": 49.5,
+      "x1": 174.42000000000002,
+      "bottom": 57.78,
+      "confidence": 91.623878,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Part",
+      "x0": 178.2,
+      "top": 49.5,
+      "x1": 200.16,
+      "bottom": 57.78,
+      "confidence": 42.97541,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "IVA",
+      "x0": 203.76,
+      "top": 49.5,
+      "x1": 226.79999999999998,
+      "bottom": 57.78,
+      "confidence": 42.97541,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(D)",
+      "x0": 302.21999999999997,
+      "top": 49.5,
+      "x1": 316.61999999999995,
+      "bottom": 59.58,
+      "confidence": 91.328072,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Change",
+      "x0": 330.65999999999997,
+      "top": 49.5,
+      "x1": 368.46,
+      "bottom": 59.76,
+      "confidence": 95.159477,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "in",
+      "x0": 372.24,
+      "top": 49.5,
+      "x1": 381.96000000000004,
+      "bottom": 57.6,
+      "confidence": 95.425476,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Part",
+      "x0": 385.56,
+      "top": 49.5,
+      "x1": 407.7,
+      "bottom": 57.78,
+      "confidence": 96.438957,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "XII",
+      "x0": 411.12,
+      "top": 49.5,
+      "x1": 427.32,
+      "bottom": 57.6,
+      "confidence": 95.999054,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "pdf_page": 399,
+  "crop_top": 44.80146000000002,
+  "crop_bottom": 60.24145999999996,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0398:l0046:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "7",
+      "bbox": [
+        76.67999999999999,
+        0.0,
+        80.82,
+        7.199999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "4. control of master over servant's acts",
+      "bbox": [
+        88.02,
+        4.5,
+        206.1,
+        9.719999999999999
+      ]
+    }
+  ],
+  "text": "7\n4. control of master over servant's acts",
+  "ocr_words": [
+    {
+      "text": "7",
+      "x0": 76.67999999999999,
+      "top": 0.0,
+      "x1": 80.82,
+      "bottom": 7.199999999999999,
+      "confidence": 0.0,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "4.",
+      "x0": 88.02,
+      "top": 4.859999999999999,
+      "x1": 93.06,
+      "bottom": 9.54,
+      "confidence": 95.689102,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "control",
+      "x0": 95.58,
+      "top": 4.5,
+      "x1": 116.64,
+      "bottom": 9.719999999999999,
+      "confidence": 95.689102,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 119.16,
+      "top": 4.5,
+      "x1": 125.1,
+      "bottom": 9.719999999999999,
+      "confidence": 96.843948,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "master",
+      "x0": 127.25999999999999,
+      "top": 5.04,
+      "x1": 147.95999999999998,
+      "bottom": 9.719999999999999,
+      "confidence": 96.669006,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "over",
+      "x0": 150.12,
+      "top": 5.9399999999999995,
+      "x1": 163.44,
+      "bottom": 9.719999999999999,
+      "confidence": 96.398193,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "servant's",
+      "x0": 165.6,
+      "top": 4.5,
+      "x1": 192.24,
+      "bottom": 9.719999999999999,
+      "confidence": 96.425987,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "acts",
+      "x0": 194.57999999999998,
+      "top": 5.04,
+      "x1": 206.1,
+      "bottom": 9.719999999999999,
+      "confidence": 96.425987,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "pdf_page": 393,
+  "crop_top": 44.80146000000002,
+  "crop_bottom": 60.24145999999996,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0392:l0044:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "f\\",
+      "bbox": [
+        72.43199999999999,
+        0.0,
+        84.52799999999999,
+        11.376
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "4. robbery",
+      "bbox": [
+        88.128,
+        4.319999999999999,
+        119.37599999999999,
+        10.799999999999999
+      ]
+    }
+  ],
+  "text": "f\\\n4. robbery",
+  "ocr_words": [
+    {
+      "text": "f\\",
+      "x0": 72.43199999999999,
+      "top": 0.0,
+      "x1": 84.52799999999999,
+      "bottom": 11.376,
+      "confidence": 30.068161,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "4.",
+      "x0": 88.128,
+      "top": 4.752,
+      "x1": 93.024,
+      "bottom": 9.504,
+      "confidence": 96.001266,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "robbery",
+      "x0": 95.904,
+      "top": 4.319999999999999,
+      "x1": 119.37599999999999,
+      "bottom": 10.799999999999999,
+      "confidence": 96.393372,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

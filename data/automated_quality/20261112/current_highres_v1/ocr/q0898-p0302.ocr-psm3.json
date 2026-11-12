@@ -1,0 +1,299 @@
+{
+  "pdf_page": 302,
+  "crop_top": 567.1727999999999,
+  "crop_bottom": 617.6528,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0302:l0025:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "59. Who the Constitutional Advisor to the Constituent Assembly?",
+      "bbox": [
+        46.943999999999996,
+        4.752,
+        411.40799999999996,
+        15.119999999999997
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "was",
+      "bbox": [
+        100.94399999999999,
+        7.776,
+        119.95199999999998,
+        13.104
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(A) BN Rau (B) BR Ambedkar",
+      "bbox": [
+        75.312,
+        22.032,
+        405.072,
+        32.256
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(C) Rajendra Prasad (D) KM Munshi",
+      "bbox": [
+        75.312,
+        36.288,
+        393.984,
+        46.51199999999999
+      ]
+    }
+  ],
+  "text": "59. Who the Constitutional Advisor to the Constituent Assembly?\nwas\n(A) BN Rau (B) BR Ambedkar\n(C) Rajendra Prasad (D) KM Munshi",
+  "ocr_words": [
+    {
+      "text": "59.",
+      "x0": 46.943999999999996,
+      "top": 5.327999999999999,
+      "x1": 60.623999999999995,
+      "bottom": 13.104,
+      "confidence": 94.455627,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Who",
+      "x0": 74.73599999999999,
+      "top": 4.896,
+      "x1": 97.19999999999999,
+      "bottom": 13.247999999999998,
+      "confidence": 94.455627,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "was",
+      "x0": 100.94399999999999,
+      "top": 7.776,
+      "x1": 119.95199999999998,
+      "bottom": 13.104,
+      "confidence": 96.431992,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 123.83999999999999,
+      "top": 4.896,
+      "x1": 139.67999999999998,
+      "bottom": 13.104,
+      "confidence": 96.467072,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Constitutional",
+      "x0": 143.856,
+      "top": 4.896,
+      "x1": 216.432,
+      "bottom": 13.247999999999998,
+      "confidence": 95.992195,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Advisor",
+      "x0": 219.74399999999997,
+      "top": 4.896,
+      "x1": 258.62399999999997,
+      "bottom": 13.104,
+      "confidence": 96.396576,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 262.08,
+      "top": 5.904,
+      "x1": 271.296,
+      "bottom": 13.104,
+      "confidence": 96.396576,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 275.03999999999996,
+      "top": 4.896,
+      "x1": 290.87999999999994,
+      "bottom": 13.104,
+      "confidence": 96.497017,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Constituent",
+      "x0": 295.2,
+      "top": 4.896,
+      "x1": 354.67199999999997,
+      "bottom": 13.247999999999998,
+      "confidence": 95.920036,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Assembly?",
+      "x0": 357.984,
+      "top": 4.752,
+      "x1": 411.40799999999996,
+      "bottom": 15.119999999999997,
+      "confidence": 96.215263,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 75.312,
+      "top": 22.032,
+      "x1": 89.136,
+      "bottom": 32.256,
+      "confidence": 94.929077,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "BN",
+      "x0": 103.392,
+      "top": 22.176,
+      "x1": 122.68799999999999,
+      "bottom": 30.095999999999997,
+      "confidence": 62.982498,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Rau",
+      "x0": 126.288,
+      "top": 22.176,
+      "x1": 146.59199999999998,
+      "bottom": 30.24,
+      "confidence": 62.982498,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(B)",
+      "x0": 302.11199999999997,
+      "top": 22.032,
+      "x1": 316.08,
+      "bottom": 32.256,
+      "confidence": 91.730362,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "BR",
+      "x0": 330.47999999999996,
+      "top": 22.176,
+      "x1": 348.768,
+      "bottom": 30.24,
+      "confidence": 16.534569,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ambedkar",
+      "x0": 351.936,
+      "top": 22.032,
+      "x1": 405.072,
+      "bottom": 30.240000000000002,
+      "confidence": 16.534569,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(C)",
+      "x0": 75.312,
+      "top": 36.288,
+      "x1": 89.136,
+      "bottom": 46.51199999999999,
+      "confidence": 91.664932,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Rajendra",
+      "x0": 103.104,
+      "top": 36.288,
+      "x1": 149.47199999999998,
+      "bottom": 46.51199999999999,
+      "confidence": 96.326729,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Prasad",
+      "x0": 153.35999999999999,
+      "top": 36.431999999999995,
+      "x1": 188.64,
+      "bottom": 44.63999999999999,
+      "confidence": 96.600243,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(D)",
+      "x0": 302.11199999999997,
+      "top": 36.288,
+      "x1": 316.65599999999995,
+      "bottom": 46.51199999999999,
+      "confidence": 91.397186,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "KM",
+      "x0": 330.33599999999996,
+      "top": 36.431999999999995,
+      "x1": 351.64799999999997,
+      "bottom": 44.495999999999995,
+      "confidence": 92.882355,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Munshi",
+      "x0": 355.104,
+      "top": 36.431999999999995,
+      "x1": 393.984,
+      "bottom": 44.63999999999999,
+      "confidence": 95.371841,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

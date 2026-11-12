@@ -1,0 +1,426 @@
+{
+  "pdf_page": 376,
+  "crop_top": 297.28136000000006,
+  "crop_bottom": 398.16136,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0376:l0017:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.24 In which Article of the Constitution the \"Contingency Fund\" of India is defined?",
+      "bbox": [
+        41.94,
+        4.32,
+        307.97999999999996,
+        10.98
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Ans A",
+      "bbox": [
+        43.379999999999995,
+        14.94,
+        87.66,
+        28.439999999999998
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "1. Article 267",
+      "bbox": [
+        88.56,
+        25.919999999999998,
+        127.8,
+        31.139999999999997
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "ra",
+      "bbox": [
+        72.36,
+        36.54,
+        86.75999999999999,
+        54.36
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "2. Article 266",
+      "bbox": [
+        88.38,
+        47.16,
+        127.8,
+        52.379999999999995
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "Xx,",
+      "bbox": [
+        72.36,
+        57.96,
+        93.06,
+        75.96000000000001
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "Article 269",
+      "bbox": [
+        95.39999999999999,
+        68.58,
+        127.8,
+        73.8
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        79.92,
+        93.06,
+        95.04
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "Article 268",
+      "bbox": [
+        95.39999999999999,
+        90.0,
+        127.8,
+        95.22
+      ]
+    }
+  ],
+  "text": "Q.24 In which Article of the Constitution the \"Contingency Fund\" of India is defined?\nAns A\n1. Article 267\nra\n2. Article 266\nXx,\nArticle 269\nx,\nArticle 268",
+  "ocr_words": [
+    {
+      "text": "Q.24",
+      "x0": 41.94,
+      "top": 4.68,
+      "x1": 56.16,
+      "bottom": 10.44,
+      "confidence": 92.692757,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "In",
+      "x0": 62.82,
+      "top": 4.859999999999999,
+      "x1": 68.04,
+      "bottom": 9.54,
+      "confidence": 65.773781,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "which",
+      "x0": 70.2,
+      "top": 4.5,
+      "x1": 88.38,
+      "bottom": 9.719999999999999,
+      "confidence": 65.773781,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Article",
+      "x0": 90.53999999999999,
+      "top": 4.5,
+      "x1": 110.52,
+      "bottom": 9.719999999999999,
+      "confidence": 96.747902,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 112.67999999999999,
+      "top": 4.32,
+      "x1": 118.97999999999999,
+      "bottom": 9.719999999999999,
+      "confidence": 96.819084,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 120.6,
+      "top": 4.5,
+      "x1": 130.68,
+      "bottom": 9.719999999999999,
+      "confidence": 96.934097,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Constitution",
+      "x0": 133.01999999999998,
+      "top": 4.68,
+      "x1": 170.82,
+      "bottom": 9.719999999999999,
+      "confidence": 95.89386,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 172.98,
+      "top": 4.5,
+      "x1": 183.06,
+      "bottom": 9.719999999999999,
+      "confidence": 96.31826,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "\"Contingency",
+      "x0": 185.57999999999998,
+      "top": 4.32,
+      "x1": 226.79999999999998,
+      "bottom": 10.98,
+      "confidence": 96.263107,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Fund\"",
+      "x0": 229.14,
+      "top": 4.32,
+      "x1": 246.77999999999997,
+      "bottom": 9.719999999999999,
+      "confidence": 96.193344,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 249.29999999999998,
+      "top": 4.5,
+      "x1": 255.42,
+      "bottom": 9.719999999999999,
+      "confidence": 95.646317,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "India",
+      "x0": 257.58,
+      "top": 4.5,
+      "x1": 272.34,
+      "bottom": 9.719999999999999,
+      "confidence": 95.178093,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 274.86,
+      "top": 4.68,
+      "x1": 279.0,
+      "bottom": 9.719999999999999,
+      "confidence": 95.178093,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "defined?",
+      "x0": 281.15999999999997,
+      "top": 4.5,
+      "x1": 307.97999999999996,
+      "bottom": 9.719999999999999,
+      "confidence": 96.548332,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.379999999999995,
+      "top": 17.64,
+      "x1": 54.53999999999999,
+      "bottom": 22.5,
+      "confidence": 96.882599,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A",
+      "x0": 73.8,
+      "top": 14.94,
+      "x1": 87.66,
+      "bottom": 28.439999999999998,
+      "confidence": 30.108795,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1.",
+      "x0": 88.56,
+      "top": 26.279999999999998,
+      "x1": 93.06,
+      "bottom": 30.959999999999997,
+      "confidence": 96.799225,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Article",
+      "x0": 95.39999999999999,
+      "top": 25.919999999999998,
+      "x1": 114.66,
+      "bottom": 31.139999999999997,
+      "confidence": 96.787491,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "267",
+      "x0": 117.17999999999999,
+      "top": 26.099999999999998,
+      "x1": 127.8,
+      "bottom": 31.139999999999997,
+      "confidence": 96.915916,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "ra",
+      "x0": 72.36,
+      "top": 36.54,
+      "x1": 86.75999999999999,
+      "bottom": 54.36,
+      "confidence": 41.642242,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "2.",
+      "x0": 88.38,
+      "top": 47.339999999999996,
+      "x1": 93.06,
+      "bottom": 52.199999999999996,
+      "confidence": 96.321846,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Article",
+      "x0": 95.39999999999999,
+      "top": 47.16,
+      "x1": 114.66,
+      "bottom": 52.379999999999995,
+      "confidence": 95.941299,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "266",
+      "x0": 117.17999999999999,
+      "top": 47.339999999999996,
+      "x1": 127.8,
+      "bottom": 52.379999999999995,
+      "confidence": 96.892426,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Xx,",
+      "x0": 72.36,
+      "top": 57.96,
+      "x1": 93.06,
+      "bottom": 75.96000000000001,
+      "confidence": 48.406624,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Article",
+      "x0": 95.39999999999999,
+      "top": 68.58,
+      "x1": 114.66,
+      "bottom": 73.8,
+      "confidence": 95.848778,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "269",
+      "x0": 117.17999999999999,
+      "top": 68.75999999999999,
+      "x1": 127.8,
+      "bottom": 73.8,
+      "confidence": 96.941132,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 79.92,
+      "x1": 93.06,
+      "bottom": 95.04,
+      "confidence": 43.534241,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Article",
+      "x0": 95.39999999999999,
+      "top": 90.0,
+      "x1": 114.66,
+      "bottom": 95.22,
+      "confidence": 96.452362,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "268",
+      "x0": 117.17999999999999,
+      "top": 90.17999999999999,
+      "x1": 127.8,
+      "bottom": 95.22,
+      "confidence": 96.808693,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

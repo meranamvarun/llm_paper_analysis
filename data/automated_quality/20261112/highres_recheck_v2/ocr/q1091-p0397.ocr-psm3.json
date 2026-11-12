@@ -1,0 +1,438 @@
+{
+  "pdf_page": 397,
+  "crop_top": 507.04136,
+  "crop_bottom": 607.92136,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0397:l0031:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.40 An invention under the Patent in India can be protected for a term of",
+      "bbox": [
+        41.94,
+        4.32,
+        277.38,
+        10.98
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "-",
+      "bbox": [
+        279.36,
+        7.38,
+        281.16,
+        8.1
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "Ans XXK",
+      "bbox": [
+        43.379999999999995,
+        15.12,
+        87.66,
+        71.28
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "1. 20 Years",
+      "bbox": [
+        88.56,
+        26.099999999999998,
+        120.77999999999999,
+        31.139999999999997
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "2. 50 Years",
+      "bbox": [
+        88.38,
+        47.519999999999996,
+        120.77999999999999,
+        52.559999999999995
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "3. 10 Years",
+      "bbox": [
+        88.2,
+        68.75999999999999,
+        120.77999999999999,
+        73.8
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "x",
+      "bbox": [
+        73.08,
+        80.1,
+        86.75999999999999,
+        92.69999999999999
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "4. 25 Years",
+      "bbox": [
+        88.02,
+        90.17999999999999,
+        120.77999999999999,
+        95.22
+      ]
+    }
+  ],
+  "text": "Q.40 An invention under the Patent in India can be protected for a term of\n-\nAns XXK\n1. 20 Years\n2. 50 Years\n3. 10 Years\nx\n4. 25 Years",
+  "ocr_words": [
+    {
+      "text": "Q.40",
+      "x0": 41.94,
+      "top": 4.68,
+      "x1": 56.16,
+      "bottom": 10.44,
+      "confidence": 92.061569,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "An",
+      "x0": 62.46,
+      "top": 4.859999999999999,
+      "x1": 70.56,
+      "bottom": 9.54,
+      "confidence": 93.11908,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "invention",
+      "x0": 73.08,
+      "top": 4.68,
+      "x1": 101.88,
+      "bottom": 9.719999999999999,
+      "confidence": 93.11908,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "under",
+      "x0": 104.39999999999999,
+      "top": 4.5,
+      "x1": 122.39999999999999,
+      "bottom": 9.719999999999999,
+      "confidence": 94.958778,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 124.38,
+      "top": 4.5,
+      "x1": 134.46,
+      "bottom": 9.719999999999999,
+      "confidence": 96.956375,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Patent",
+      "x0": 136.79999999999998,
+      "top": 4.859999999999999,
+      "x1": 156.95999999999998,
+      "bottom": 9.719999999999999,
+      "confidence": 96.83741,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 159.12,
+      "top": 4.68,
+      "x1": 164.16,
+      "bottom": 9.54,
+      "confidence": 95.227005,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "India",
+      "x0": 166.85999999999999,
+      "top": 4.5,
+      "x1": 181.44,
+      "bottom": 9.719999999999999,
+      "confidence": 96.865715,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "can",
+      "x0": 183.78,
+      "top": 5.9399999999999995,
+      "x1": 194.04,
+      "bottom": 9.719999999999999,
+      "confidence": 96.583809,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "be",
+      "x0": 196.56,
+      "top": 4.5,
+      "x1": 203.76,
+      "bottom": 9.719999999999999,
+      "confidence": 96.915466,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "protected",
+      "x0": 206.1,
+      "top": 4.5,
+      "x1": 235.79999999999998,
+      "bottom": 10.98,
+      "confidence": 96.326134,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "for",
+      "x0": 238.14,
+      "top": 4.32,
+      "x1": 246.95999999999998,
+      "bottom": 9.719999999999999,
+      "confidence": 96.60495,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 248.94,
+      "top": 5.9399999999999995,
+      "x1": 252.0,
+      "bottom": 9.719999999999999,
+      "confidence": 96.73983,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "term",
+      "x0": 254.16,
+      "top": 5.04,
+      "x1": 268.92,
+      "bottom": 9.719999999999999,
+      "confidence": 96.440689,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 271.26,
+      "top": 4.32,
+      "x1": 277.38,
+      "bottom": 9.719999999999999,
+      "confidence": 93.276909,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "-",
+      "x0": 279.36,
+      "top": 7.38,
+      "x1": 281.16,
+      "bottom": 8.1,
+      "confidence": 93.276909,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.379999999999995,
+      "top": 17.64,
+      "x1": 54.53999999999999,
+      "bottom": 22.5,
+      "confidence": 96.933205,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 88.56,
+      "top": 26.279999999999998,
+      "x1": 93.06,
+      "bottom": 30.959999999999997,
+      "confidence": 92.2005,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "20",
+      "x0": 95.75999999999999,
+      "top": 26.099999999999998,
+      "x1": 102.6,
+      "bottom": 31.139999999999997,
+      "confidence": 92.2005,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Years",
+      "x0": 104.75999999999999,
+      "top": 26.279999999999998,
+      "x1": 120.77999999999999,
+      "bottom": 31.139999999999997,
+      "confidence": 95.986244,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "2.",
+      "x0": 88.38,
+      "top": 47.519999999999996,
+      "x1": 93.06,
+      "bottom": 52.379999999999995,
+      "confidence": 68.377686,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "50",
+      "x0": 95.58,
+      "top": 47.519999999999996,
+      "x1": 102.6,
+      "bottom": 52.559999999999995,
+      "confidence": 68.377686,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Years",
+      "x0": 104.75999999999999,
+      "top": 47.699999999999996,
+      "x1": 120.77999999999999,
+      "bottom": 52.559999999999995,
+      "confidence": 96.291367,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "3.",
+      "x0": 88.2,
+      "top": 68.75999999999999,
+      "x1": 93.06,
+      "bottom": 73.8,
+      "confidence": 86.732376,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "10",
+      "x0": 95.94,
+      "top": 68.75999999999999,
+      "x1": 102.6,
+      "bottom": 73.8,
+      "confidence": 86.732376,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Years",
+      "x0": 104.75999999999999,
+      "top": 68.94,
+      "x1": 120.77999999999999,
+      "bottom": 73.8,
+      "confidence": 96.207268,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "x",
+      "x0": 73.08,
+      "top": 80.1,
+      "x1": 86.75999999999999,
+      "bottom": 92.69999999999999,
+      "confidence": 4.063156,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "XXK",
+      "x0": 73.08,
+      "top": 15.12,
+      "x1": 87.66,
+      "bottom": 71.28,
+      "confidence": 4.063156,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "4.",
+      "x0": 88.02,
+      "top": 90.36,
+      "x1": 93.06,
+      "bottom": 95.03999999999999,
+      "confidence": 94.784821,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "25",
+      "x0": 95.75999999999999,
+      "top": 90.17999999999999,
+      "x1": 102.41999999999999,
+      "bottom": 95.22,
+      "confidence": 94.784821,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Years",
+      "x0": 104.75999999999999,
+      "top": 90.36,
+      "x1": 120.77999999999999,
+      "bottom": 95.22,
+      "confidence": 95.166145,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

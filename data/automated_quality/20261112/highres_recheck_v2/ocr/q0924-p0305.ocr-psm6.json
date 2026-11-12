@@ -1,0 +1,342 @@
+{
+  "pdf_page": 305,
+  "crop_top": 355.20279999999997,
+  "crop_bottom": 409.1828,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0305:l0013:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "78. In Rylands Fletcher, Justice Blackburn used the term(s):",
+      "bbox": [
+        46.98,
+        4.859999999999999,
+        375.12,
+        15.12
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "v.",
+      "bbox": [
+        133.74,
+        7.92,
+        141.48000000000002,
+        13.14
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(A) Strict lability (B) Absolute liability",
+      "bbox": [
+        75.24,
+        22.14,
+        417.42,
+        32.58
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(C) Strict and absolute liability (D) None of the above",
+      "bbox": [
+        75.24,
+        39.78,
+        420.29999999999995,
+        50.04
+      ]
+    }
+  ],
+  "text": "78. In Rylands Fletcher, Justice Blackburn used the term(s):\nv.\n(A) Strict lability (B) Absolute liability\n(C) Strict and absolute liability (D) None of the above",
+  "ocr_words": [
+    {
+      "text": "78.",
+      "x0": 46.98,
+      "top": 5.3999999999999995,
+      "x1": 60.66,
+      "bottom": 13.139999999999999,
+      "confidence": 90.875053,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "In",
+      "x0": 75.06,
+      "top": 5.04,
+      "x1": 85.5,
+      "bottom": 12.96,
+      "confidence": 90.594131,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Rylands",
+      "x0": 89.1,
+      "top": 4.859999999999999,
+      "x1": 129.95999999999998,
+      "bottom": 15.12,
+      "confidence": 86.799377,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "v.",
+      "x0": 133.74,
+      "top": 7.92,
+      "x1": 141.48000000000002,
+      "bottom": 13.14,
+      "confidence": 86.799377,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Fletcher,",
+      "x0": 146.16,
+      "top": 4.859999999999999,
+      "x1": 190.26,
+      "bottom": 14.76,
+      "confidence": 96.564178,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Justice",
+      "x0": 200.7,
+      "top": 4.859999999999999,
+      "x1": 229.85999999999999,
+      "bottom": 13.139999999999999,
+      "confidence": 95.501328,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Blackburn",
+      "x0": 234.0,
+      "top": 4.859999999999999,
+      "x1": 286.56,
+      "bottom": 13.139999999999999,
+      "confidence": 96.435242,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "used",
+      "x0": 290.15999999999997,
+      "top": 4.859999999999999,
+      "x1": 313.2,
+      "bottom": 13.139999999999999,
+      "confidence": 96.362068,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 316.8,
+      "top": 4.859999999999999,
+      "x1": 332.64,
+      "bottom": 13.139999999999999,
+      "confidence": 96.817101,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "term(s):",
+      "x0": 336.42,
+      "top": 4.859999999999999,
+      "x1": 375.12,
+      "bottom": 15.12,
+      "confidence": 96.389175,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 75.24,
+      "top": 22.14,
+      "x1": 89.1,
+      "bottom": 32.4,
+      "confidence": 64.06105,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Strict",
+      "x0": 103.67999999999999,
+      "top": 22.14,
+      "x1": 131.39999999999998,
+      "bottom": 30.42,
+      "confidence": 64.06105,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "lability",
+      "x0": 135.0,
+      "top": 22.32,
+      "x1": 174.42000000000002,
+      "bottom": 32.58,
+      "confidence": 83.459137,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(B)",
+      "x0": 302.21999999999997,
+      "top": 22.32,
+      "x1": 316.08,
+      "bottom": 32.4,
+      "confidence": 92.336571,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Absolute",
+      "x0": 329.76,
+      "top": 22.14,
+      "x1": 374.21999999999997,
+      "bottom": 30.42,
+      "confidence": 94.23407,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "liability",
+      "x0": 378.0,
+      "top": 22.32,
+      "x1": 417.42,
+      "bottom": 32.58,
+      "confidence": 96.342216,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(C)",
+      "x0": 75.24,
+      "top": 39.78,
+      "x1": 89.1,
+      "bottom": 50.04,
+      "confidence": 92.781471,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Strict",
+      "x0": 103.67999999999999,
+      "top": 39.78,
+      "x1": 131.39999999999998,
+      "bottom": 48.06,
+      "confidence": 96.412376,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "and",
+      "x0": 135.35999999999999,
+      "top": 39.78,
+      "x1": 153.71999999999997,
+      "bottom": 48.06,
+      "confidence": 96.172798,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "absolute",
+      "x0": 157.5,
+      "top": 39.78,
+      "x1": 199.44,
+      "bottom": 48.06,
+      "confidence": 96.030441,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "liability",
+      "x0": 203.04,
+      "top": 39.78,
+      "x1": 242.45999999999998,
+      "bottom": 50.04,
+      "confidence": 74.855614,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(D)",
+      "x0": 302.21999999999997,
+      "top": 39.78,
+      "x1": 316.61999999999995,
+      "bottom": 50.04,
+      "confidence": 88.48777,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "None",
+      "x0": 330.3,
+      "top": 39.96,
+      "x1": 356.22,
+      "bottom": 48.06,
+      "confidence": 94.32505,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 360.18,
+      "top": 39.78,
+      "x1": 369.72,
+      "bottom": 48.06,
+      "confidence": 96.432022,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "the",
+      "x0": 372.24,
+      "top": 39.78,
+      "x1": 388.08,
+      "bottom": 48.06,
+      "confidence": 96.393341,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "above",
+      "x0": 392.21999999999997,
+      "top": 39.78,
+      "x1": 420.29999999999995,
+      "bottom": 48.06,
+      "confidence": 96.867836,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0426:l0046:question",
+  "year_label": 2017,
+  "number": "121",
+  "pdf_page": 427,
+  "crop_top": 0,
+  "crop_bottom": 12.399999999999999,
+  "start_anchor": {
+    "pdf_page": 426,
+    "line_id": "l0046",
+    "bbox": [
+      37.68,
+      613.4399999999999,
+      553.68,
+      621.8399999999999
+    ]
+  },
+  "following_anchor": {
+    "pdf_page": 427,
+    "line_id": "l0000",
+    "bbox": [
+      37.68,
+      14.399999999999999,
+      553.68,
+      22.799999999999997
+    ]
+  },
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [],
+  "text": "",
+  "ocr_words": [],
+  "issues": [
+    "ocr_requires_visual_review",
+    "no_ocr_text_blankness_unverified"
+  ]
+}

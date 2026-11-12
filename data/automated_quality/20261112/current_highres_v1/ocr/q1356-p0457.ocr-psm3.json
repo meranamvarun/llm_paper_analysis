@@ -1,0 +1,472 @@
+{
+  "pdf_page": 457,
+  "crop_top": 239.98000000000002,
+  "crop_bottom": 351.21,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0457:l0006:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "15. When a person dies intestate",
+      "bbox": [
+        73.008,
+        4.896,
+        232.272,
+        15.264
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "P He dies in his home in his estate.",
+      "bbox": [
+        144.28799999999998,
+        34.272,
+        329.472,
+        42.480000000000004
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "FP dies without leaving",
+      "bbox": [
+        143.56799999999998,
+        52.12799999999999,
+        284.976,
+        65.232
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "He any property.",
+      "bbox": [
+        172.07999999999998,
+        55.44,
+        352.944,
+        65.232
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "Oo He dies without leaving will.",
+      "bbox": [
+        143.56799999999998,
+        73.29599999999999,
+        319.96799999999996,
+        85.82399999999998
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "a",
+      "bbox": [
+        291.168,
+        77.904,
+        295.92,
+        83.80799999999999
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "9 He dies by committing suicide.",
+      "bbox": [
+        145.00799999999998,
+        96.192,
+        318.816,
+        106.416
+      ]
+    }
+  ],
+  "text": "15. When a person dies intestate\nP He dies in his home in his estate.\nFP dies without leaving\nHe any property.\nOo He dies without leaving will.\na\n9 He dies by committing suicide.",
+  "ocr_words": [
+    {
+      "text": "15.",
+      "x0": 73.008,
+      "top": 5.4719999999999995,
+      "x1": 86.39999999999999,
+      "bottom": 13.248,
+      "confidence": 96.582626,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "When",
+      "x0": 90.43199999999999,
+      "top": 4.896,
+      "x1": 118.51199999999999,
+      "bottom": 13.247999999999998,
+      "confidence": 96.342293,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 122.544,
+      "top": 7.343999999999999,
+      "x1": 126.86399999999999,
+      "bottom": 13.248,
+      "confidence": 95.619408,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "person",
+      "x0": 131.328,
+      "top": 7.343999999999999,
+      "x1": 163.44,
+      "bottom": 15.264,
+      "confidence": 95.619408,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "dies",
+      "x0": 167.61599999999999,
+      "top": 4.896,
+      "x1": 186.19199999999998,
+      "bottom": 13.247999999999998,
+      "confidence": 95.381111,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "intestate",
+      "x0": 190.224,
+      "top": 5.327999999999999,
+      "x1": 232.272,
+      "bottom": 13.247999999999998,
+      "confidence": 95.961174,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "9",
+      "x0": 145.00799999999998,
+      "top": 96.76799999999999,
+      "x1": 153.64799999999997,
+      "bottom": 104.39999999999999,
+      "confidence": 84.17746,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Oo",
+      "x0": 143.56799999999998,
+      "top": 73.29599999999999,
+      "x1": 156.23999999999998,
+      "bottom": 82.8,
+      "confidence": 15.061584,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "FP",
+      "x0": 143.56799999999998,
+      "top": 52.12799999999999,
+      "x1": 156.23999999999998,
+      "bottom": 61.775999999999996,
+      "confidence": 10.524529,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "P",
+      "x0": 144.28799999999998,
+      "top": 34.704,
+      "x1": 153.07199999999997,
+      "bottom": 42.480000000000004,
+      "confidence": 63.464607,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "He",
+      "x0": 172.07999999999998,
+      "top": 34.704,
+      "x1": 183.88799999999998,
+      "bottom": 42.480000000000004,
+      "confidence": 95.927742,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "dies",
+      "x0": 187.77599999999998,
+      "top": 34.272,
+      "x1": 206.49599999999998,
+      "bottom": 42.48,
+      "confidence": 95.927742,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 210.528,
+      "top": 34.559999999999995,
+      "x1": 217.87199999999999,
+      "bottom": 42.48,
+      "confidence": 95.768723,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "his",
+      "x0": 222.33599999999998,
+      "top": 34.272,
+      "x1": 234.71999999999997,
+      "bottom": 42.48,
+      "confidence": 95.945496,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "home",
+      "x0": 238.75199999999998,
+      "top": 34.272,
+      "x1": 265.536,
+      "bottom": 42.48,
+      "confidence": 94.583923,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 269.568,
+      "top": 34.559999999999995,
+      "x1": 276.912,
+      "bottom": 42.48,
+      "confidence": 94.583923,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "his",
+      "x0": 281.376,
+      "top": 34.272,
+      "x1": 293.616,
+      "bottom": 42.48,
+      "confidence": 96.266953,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "estate.",
+      "x0": 297.50399999999996,
+      "top": 35.424,
+      "x1": 329.472,
+      "bottom": 42.48,
+      "confidence": 96.266953,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "He",
+      "x0": 172.07999999999998,
+      "top": 55.44,
+      "x1": 183.88799999999998,
+      "bottom": 63.071999999999996,
+      "confidence": 96.994446,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "dies",
+      "x0": 187.77599999999998,
+      "top": 54.864,
+      "x1": 206.49599999999998,
+      "bottom": 63.071999999999996,
+      "confidence": 96.804848,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "without",
+      "x0": 210.09599999999998,
+      "top": 54.864,
+      "x1": 247.53599999999997,
+      "bottom": 63.071999999999996,
+      "confidence": 96.432571,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "leaving",
+      "x0": 251.56799999999998,
+      "top": 54.864,
+      "x1": 284.976,
+      "bottom": 65.232,
+      "confidence": 95.051613,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "any",
+      "x0": 288.43199999999996,
+      "top": 57.312,
+      "x1": 305.13599999999997,
+      "bottom": 65.232,
+      "confidence": 96.13578,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "property.",
+      "x0": 308.88,
+      "top": 56.016,
+      "x1": 352.944,
+      "bottom": 65.232,
+      "confidence": 96.426567,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "He",
+      "x0": 171.79199999999997,
+      "top": 76.032,
+      "x1": 184.17599999999996,
+      "bottom": 83.80799999999999,
+      "confidence": 96.780487,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "dies",
+      "x0": 187.77599999999998,
+      "top": 75.45599999999999,
+      "x1": 207.21599999999998,
+      "bottom": 83.80799999999999,
+      "confidence": 95.162552,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "without",
+      "x0": 210.528,
+      "top": 75.45599999999999,
+      "x1": 249.552,
+      "bottom": 83.80799999999999,
+      "confidence": 96.698151,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "leaving",
+      "x0": 253.296,
+      "top": 75.45599999999999,
+      "x1": 288.0,
+      "bottom": 85.82399999999998,
+      "confidence": 96.344238,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "a",
+      "x0": 291.168,
+      "top": 77.904,
+      "x1": 295.92,
+      "bottom": 83.80799999999999,
+      "confidence": 96.573532,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "will.",
+      "x0": 299.664,
+      "top": 75.45599999999999,
+      "x1": 319.96799999999996,
+      "bottom": 83.80799999999999,
+      "confidence": 96.025047,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "He",
+      "x0": 172.07999999999998,
+      "top": 96.624,
+      "x1": 183.88799999999998,
+      "bottom": 104.39999999999999,
+      "confidence": 96.672379,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "dies",
+      "x0": 187.77599999999998,
+      "top": 96.192,
+      "x1": 206.49599999999998,
+      "bottom": 104.39999999999999,
+      "confidence": 96.60939,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "by",
+      "x0": 210.528,
+      "top": 96.192,
+      "x1": 221.184,
+      "bottom": 106.416,
+      "confidence": 96.418144,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "committing",
+      "x0": 224.64,
+      "top": 96.47999999999999,
+      "x1": 279.792,
+      "bottom": 106.416,
+      "confidence": 96.001808,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "suicide.",
+      "x0": 283.392,
+      "top": 96.192,
+      "x1": 318.816,
+      "bottom": 104.39999999999999,
+      "confidence": 96.423943,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

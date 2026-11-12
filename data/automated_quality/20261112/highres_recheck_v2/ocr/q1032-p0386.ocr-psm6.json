@@ -1,0 +1,338 @@
+{
+  "pdf_page": 386,
+  "crop_top": 674.56136,
+  "crop_bottom": 775.44137,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0386:l0042:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.31 According to Hohfeld what is the \"jural opposite\" of power?",
+      "bbox": [
+        41.94,
+        4.32,
+        248.94,
+        10.98
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "ans ra",
+      "bbox": [
+        43.379999999999995,
+        15.299999999999999,
+        86.75999999999999,
+        33.12
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "1. Right",
+      "bbox": [
+        88.56,
+        25.919999999999998,
+        110.88,
+        32.4
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        37.26,
+        93.06,
+        52.379999999999995
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "Liability",
+      "bbox": [
+        95.94,
+        46.62,
+        118.62,
+        54.72
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "A",
+      "bbox": [
+        73.8,
+        57.78,
+        93.06,
+        73.8
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "Disability",
+      "bbox": [
+        95.94,
+        67.86,
+        122.94,
+        75.96
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        80.1,
+        93.06,
+        95.03999999999999
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "Duty",
+      "bbox": [
+        95.94,
+        90.36,
+        109.62,
+        96.48
+      ]
+    }
+  ],
+  "text": "Q.31 According to Hohfeld what is the \"jural opposite\" of power?\nans ra\n1. Right\nx,\nLiability\nA\nDisability\nx,\nDuty",
+  "ocr_words": [
+    {
+      "text": "Q.31",
+      "x0": 41.94,
+      "top": 4.68,
+      "x1": 55.98,
+      "bottom": 10.44,
+      "confidence": 92.853531,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "According",
+      "x0": 62.46,
+      "top": 4.5,
+      "x1": 93.24,
+      "bottom": 10.98,
+      "confidence": 92.003113,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 95.03999999999999,
+      "top": 5.04,
+      "x1": 101.33999999999999,
+      "bottom": 9.719999999999999,
+      "confidence": 93.297638,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Hohfeld",
+      "x0": 103.86,
+      "top": 4.32,
+      "x1": 127.62,
+      "bottom": 9.719999999999999,
+      "confidence": 91.643219,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "what",
+      "x0": 129.96,
+      "top": 4.5,
+      "x1": 145.62,
+      "bottom": 9.719999999999999,
+      "confidence": 96.672173,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 147.78,
+      "top": 4.68,
+      "x1": 152.1,
+      "bottom": 9.719999999999999,
+      "confidence": 95.941216,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 154.07999999999998,
+      "top": 4.5,
+      "x1": 164.16,
+      "bottom": 9.719999999999999,
+      "confidence": 93.186394,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "\"jural",
+      "x0": 166.5,
+      "top": 4.32,
+      "x1": 183.06,
+      "bottom": 10.98,
+      "confidence": 90.937553,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "opposite\"",
+      "x0": 185.4,
+      "top": 4.32,
+      "x1": 215.28,
+      "bottom": 10.98,
+      "confidence": 96.340355,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 217.79999999999998,
+      "top": 4.32,
+      "x1": 223.92,
+      "bottom": 9.719999999999999,
+      "confidence": 96.787071,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "power?",
+      "x0": 226.07999999999998,
+      "top": 4.5,
+      "x1": 248.94,
+      "bottom": 10.98,
+      "confidence": 96.224281,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "ans",
+      "x0": 43.379999999999995,
+      "top": 17.64,
+      "x1": 54.53999999999999,
+      "bottom": 22.5,
+      "confidence": 72.54866,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "ra",
+      "x0": 72.36,
+      "top": 15.299999999999999,
+      "x1": 86.75999999999999,
+      "bottom": 33.12,
+      "confidence": 41.642242,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 88.56,
+      "top": 26.279999999999998,
+      "x1": 93.06,
+      "bottom": 30.959999999999997,
+      "confidence": 95.136131,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Right",
+      "x0": 95.94,
+      "top": 25.919999999999998,
+      "x1": 110.88,
+      "bottom": 32.4,
+      "confidence": 95.136131,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 37.26,
+      "x1": 93.06,
+      "bottom": 52.379999999999995,
+      "confidence": 79.885254,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Liability",
+      "x0": 95.94,
+      "top": 46.62,
+      "x1": 118.62,
+      "bottom": 54.72,
+      "confidence": 96.962929,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A",
+      "x0": 73.8,
+      "top": 57.78,
+      "x1": 93.06,
+      "bottom": 73.8,
+      "confidence": 66.819595,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Disability",
+      "x0": 95.94,
+      "top": 67.86,
+      "x1": 122.94,
+      "bottom": 75.96,
+      "confidence": 96.66996,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 80.1,
+      "x1": 93.06,
+      "bottom": 95.03999999999999,
+      "confidence": 34.325554,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Duty",
+      "x0": 95.94,
+      "top": 90.36,
+      "x1": 109.62,
+      "bottom": 96.48,
+      "confidence": 96.596397,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

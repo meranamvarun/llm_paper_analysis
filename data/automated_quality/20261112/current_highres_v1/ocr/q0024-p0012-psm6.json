@@ -1,0 +1,711 @@
+{
+  "pdf_page": 12,
+  "crop_top": 616.4327420000002,
+  "crop_bottom": 768.3112779999999,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0012:l0022:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "25. The President’s power to grant a pardon",
+      "bbox": [
+        57.16799999999999,
+        4.752,
+        289.58399999999995,
+        14.975999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "(A) Can be delegated to the Prime Minister and his Council of Ministers",
+      "bbox": [
+        85.824,
+        27.215999999999998,
+        460.224,
+        37.44
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(B) Cannot be delegated it is essential executive function",
+      "bbox": [
+        85.824,
+        49.68,
+        413.85599999999994,
+        59.903999999999996
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "as an",
+      "bbox": [
+        220.896,
+        52.70399999999999,
+        269.712,
+        58.032
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(C) Cannot be delegated it is expressly conferred the President",
+      "bbox": [
+        85.824,
+        72.14399999999999,
+        442.368,
+        82.512
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "as on",
+      "bbox": [
+        220.896,
+        75.16799999999999,
+        370.79999999999995,
+        80.496
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "(D) Can be delegated to the Vice-president.",
+      "bbox": [
+        85.824,
+        94.752,
+        312.048,
+        104.976
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "PG 2026 12",
+      "bbox": [
+        57.312,
+        135.792,
+        303.408,
+        145.872
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "p",
+      "bbox": [
+        533.808,
+        139.10399999999998,
+        539.712,
+        148.896
+      ]
+    }
+  ],
+  "text": "25. The President’s power to grant a pardon\n(A) Can be delegated to the Prime Minister and his Council of Ministers\n(B) Cannot be delegated it is essential executive function\nas an\n(C) Cannot be delegated it is expressly conferred the President\nas on\n(D) Can be delegated to the Vice-president.\nPG 2026 12\np",
+  "ocr_words": [
+    {
+      "text": "25.",
+      "x0": 57.16799999999999,
+      "top": 5.183999999999999,
+      "x1": 71.136,
+      "bottom": 12.959999999999999,
+      "confidence": 80.722939,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 85.392,
+      "top": 4.752,
+      "x1": 104.256,
+      "bottom": 12.96,
+      "confidence": 80.722939,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "President’s",
+      "x0": 108.14399999999999,
+      "top": 4.752,
+      "x1": 163.584,
+      "bottom": 12.96,
+      "confidence": 92.815323,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "power",
+      "x0": 167.47199999999998,
+      "top": 7.632,
+      "x1": 197.712,
+      "bottom": 14.831999999999999,
+      "confidence": 96.817062,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 201.31199999999998,
+      "top": 5.76,
+      "x1": 210.384,
+      "bottom": 12.959999999999999,
+      "confidence": 96.821907,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "grant",
+      "x0": 214.416,
+      "top": 5.76,
+      "x1": 241.488,
+      "bottom": 14.975999999999999,
+      "confidence": 96.647484,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 245.37599999999998,
+      "top": 7.632,
+      "x1": 250.55999999999997,
+      "bottom": 12.959999999999999,
+      "confidence": 96.336983,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "pardon",
+      "x0": 254.30399999999997,
+      "top": 4.752,
+      "x1": 289.58399999999995,
+      "bottom": 14.832,
+      "confidence": 96.741508,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 85.824,
+      "top": 27.215999999999998,
+      "x1": 99.648,
+      "bottom": 37.44,
+      "confidence": 92.023933,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Can",
+      "x0": 114.192,
+      "top": 27.215999999999998,
+      "x1": 134.064,
+      "bottom": 35.568,
+      "confidence": 91.687935,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "be",
+      "x0": 137.37599999999998,
+      "top": 27.36,
+      "x1": 148.46399999999997,
+      "bottom": 35.424,
+      "confidence": 96.081093,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "delegated",
+      "x0": 152.49599999999998,
+      "top": 27.215999999999998,
+      "x1": 200.736,
+      "bottom": 37.44,
+      "confidence": 96.127991,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "to",
+      "x0": 204.19199999999998,
+      "top": 28.223999999999997,
+      "x1": 213.408,
+      "bottom": 35.42399999999999,
+      "confidence": 95.444733,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 217.00799999999998,
+      "top": 27.215999999999998,
+      "x1": 232.84799999999998,
+      "bottom": 35.424,
+      "confidence": 96.871193,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Prime",
+      "x0": 236.736,
+      "top": 27.215999999999998,
+      "x1": 266.832,
+      "bottom": 35.424,
+      "confidence": 95.553665,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Minister",
+      "x0": 270.57599999999996,
+      "top": 27.215999999999998,
+      "x1": 314.06399999999996,
+      "bottom": 35.424,
+      "confidence": 96.251335,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "and",
+      "x0": 317.808,
+      "top": 27.215999999999998,
+      "x1": 336.24,
+      "bottom": 35.424,
+      "confidence": 96.482384,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "his",
+      "x0": 339.69599999999997,
+      "top": 27.215999999999998,
+      "x1": 354.23999999999995,
+      "bottom": 35.424,
+      "confidence": 96.307335,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Council",
+      "x0": 358.55999999999995,
+      "top": 27.215999999999998,
+      "x1": 396.28799999999995,
+      "bottom": 35.568,
+      "confidence": 95.903763,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 399.888,
+      "top": 27.215999999999998,
+      "x1": 409.536,
+      "bottom": 35.424,
+      "confidence": 95.903763,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Ministers",
+      "x0": 411.984,
+      "top": 27.215999999999998,
+      "x1": 460.224,
+      "bottom": 35.424,
+      "confidence": 96.528473,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(B)",
+      "x0": 85.824,
+      "top": 49.824,
+      "x1": 99.648,
+      "bottom": 59.903999999999996,
+      "confidence": 91.777466,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Cannot",
+      "x0": 114.192,
+      "top": 49.68,
+      "x1": 150.48,
+      "bottom": 58.032,
+      "confidence": 94.321671,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "be",
+      "x0": 153.93599999999998,
+      "top": 49.824,
+      "x1": 165.02399999999997,
+      "bottom": 58.032,
+      "confidence": 96.248718,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "delegated",
+      "x0": 169.05599999999998,
+      "top": 49.824,
+      "x1": 217.152,
+      "bottom": 59.903999999999996,
+      "confidence": 96.079254,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "as",
+      "x0": 220.896,
+      "top": 52.70399999999999,
+      "x1": 231.11999999999998,
+      "bottom": 58.032,
+      "confidence": 95.764015,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "it",
+      "x0": 235.00799999999998,
+      "top": 49.824,
+      "x1": 242.20799999999997,
+      "bottom": 57.888,
+      "confidence": 95.143608,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "is",
+      "x0": 245.808,
+      "top": 49.824,
+      "x1": 253.584,
+      "bottom": 58.032,
+      "confidence": 96.228493,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "an",
+      "x0": 257.616,
+      "top": 52.70399999999999,
+      "x1": 269.712,
+      "bottom": 58.032,
+      "confidence": 96.228493,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "essential",
+      "x0": 273.45599999999996,
+      "top": 49.824,
+      "x1": 317.95199999999994,
+      "bottom": 58.032,
+      "confidence": 96.549232,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "executive",
+      "x0": 321.84,
+      "top": 49.824,
+      "x1": 368.64,
+      "bottom": 58.032,
+      "confidence": 96.150375,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "function",
+      "x0": 372.38399999999996,
+      "top": 49.68,
+      "x1": 413.85599999999994,
+      "bottom": 58.032,
+      "confidence": 96.182762,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(C)",
+      "x0": 85.824,
+      "top": 72.14399999999999,
+      "x1": 99.648,
+      "bottom": 82.368,
+      "confidence": 91.165802,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Cannot",
+      "x0": 114.192,
+      "top": 72.14399999999999,
+      "x1": 150.48,
+      "bottom": 80.496,
+      "confidence": 92.622871,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "be",
+      "x0": 153.93599999999998,
+      "top": 72.288,
+      "x1": 165.02399999999997,
+      "bottom": 80.496,
+      "confidence": 95.697769,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "delegated",
+      "x0": 169.05599999999998,
+      "top": 72.288,
+      "x1": 217.152,
+      "bottom": 82.512,
+      "confidence": 96.291779,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "as",
+      "x0": 220.896,
+      "top": 75.16799999999999,
+      "x1": 231.11999999999998,
+      "bottom": 80.496,
+      "confidence": 96.291779,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "it",
+      "x0": 235.00799999999998,
+      "top": 72.288,
+      "x1": 242.20799999999997,
+      "bottom": 80.352,
+      "confidence": 95.62822,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "is",
+      "x0": 245.808,
+      "top": 72.288,
+      "x1": 253.584,
+      "bottom": 80.496,
+      "confidence": 96.772469,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "expressly",
+      "x0": 257.616,
+      "top": 72.288,
+      "x1": 304.70399999999995,
+      "bottom": 82.512,
+      "confidence": 95.480141,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "conferred",
+      "x0": 308.15999999999997,
+      "top": 72.14399999999999,
+      "x1": 355.53599999999994,
+      "bottom": 80.496,
+      "confidence": 96.201286,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "on",
+      "x0": 359.13599999999997,
+      "top": 75.16799999999999,
+      "x1": 370.79999999999995,
+      "bottom": 80.496,
+      "confidence": 96.527122,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "the",
+      "x0": 374.256,
+      "top": 72.288,
+      "x1": 390.09599999999995,
+      "bottom": 80.496,
+      "confidence": 96.592636,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "President",
+      "x0": 393.984,
+      "top": 72.288,
+      "x1": 442.368,
+      "bottom": 80.496,
+      "confidence": 96.592636,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(D)",
+      "x0": 85.824,
+      "top": 94.752,
+      "x1": 100.22399999999999,
+      "bottom": 104.832,
+      "confidence": 91.718895,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Can",
+      "x0": 114.192,
+      "top": 94.752,
+      "x1": 134.064,
+      "bottom": 102.96,
+      "confidence": 93.762001,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "be",
+      "x0": 137.37599999999998,
+      "top": 94.752,
+      "x1": 148.46399999999997,
+      "bottom": 102.96,
+      "confidence": 94.460419,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "delegated",
+      "x0": 152.49599999999998,
+      "top": 94.752,
+      "x1": 200.736,
+      "bottom": 104.976,
+      "confidence": 96.024345,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "to",
+      "x0": 204.19199999999998,
+      "top": 95.75999999999999,
+      "x1": 213.26399999999998,
+      "bottom": 102.96,
+      "confidence": 96.668526,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "the",
+      "x0": 217.00799999999998,
+      "top": 94.752,
+      "x1": 232.84799999999998,
+      "bottom": 102.96,
+      "confidence": 96.894463,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Vice-president.",
+      "x0": 236.30399999999997,
+      "top": 94.752,
+      "x1": 312.048,
+      "bottom": 104.832,
+      "confidence": 96.247864,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "PG",
+      "x0": 57.312,
+      "top": 137.51999999999998,
+      "x1": 73.872,
+      "bottom": 145.87199999999999,
+      "confidence": 95.474045,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "2026",
+      "x0": 78.04799999999999,
+      "top": 138.096,
+      "x1": 102.23999999999998,
+      "bottom": 145.872,
+      "confidence": 95.474045,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "12",
+      "x0": 292.464,
+      "top": 135.792,
+      "x1": 303.408,
+      "bottom": 143.568,
+      "confidence": 96.964943,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "p",
+      "x0": 533.808,
+      "top": 139.10399999999998,
+      "x1": 539.712,
+      "bottom": 148.896,
+      "confidence": 76.714516,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

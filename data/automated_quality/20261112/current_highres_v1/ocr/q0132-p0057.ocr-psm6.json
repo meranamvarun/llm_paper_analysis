@@ -1,0 +1,702 @@
+{
+  "pdf_page": 57,
+  "crop_top": 252.11860000000001,
+  "crop_bottom": 349.11859999999996,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0057:l0011:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "13. What was Lon Fuller’s main criticism of Hart’s legal positivism?",
+      "bbox": [
+        105.83999999999999,
+        4.608,
+        452.01599999999996,
+        14.832
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "(A) It ignores moral obligations of judge to make decisions ethics",
+      "bbox": [
+        125.42399999999999,
+        20.592,
+        481.248,
+        30.959999999999994
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "a on",
+      "bbox": [
+        304.128,
+        23.616,
+        448.41599999999994,
+        28.944
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(B) It places too much emphasis on legal rules without considering their moral",
+      "bbox": [
+        125.42399999999999,
+        36.72,
+        551.9519999999999,
+        46.943999999999996
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "implication",
+      "bbox": [
+        148.32,
+        50.687999999999995,
+        205.2,
+        60.767999999999994
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "(C) It ignores the role of international law in shaping domestic legal systems",
+      "bbox": [
+        125.42399999999999,
+        66.52799999999999,
+        517.968,
+        76.896
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "(D) All of the above",
+      "bbox": [
+        124.84799999999998,
+        82.65599999999999,
+        226.368,
+        92.88
+      ]
+    }
+  ],
+  "text": "13. What was Lon Fuller’s main criticism of Hart’s legal positivism?\n(A) It ignores moral obligations of judge to make decisions ethics\na on\n(B) It places too much emphasis on legal rules without considering their moral\nimplication\n(C) It ignores the role of international law in shaping domestic legal systems\n(D) All of the above",
+  "ocr_words": [
+    {
+      "text": "13.",
+      "x0": 105.83999999999999,
+      "top": 5.183999999999999,
+      "x1": 119.088,
+      "bottom": 12.959999999999999,
+      "confidence": 94.759483,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "What",
+      "x0": 126.14399999999999,
+      "top": 4.752,
+      "x1": 153.648,
+      "bottom": 12.96,
+      "confidence": 96.550476,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "was",
+      "x0": 157.248,
+      "top": 7.4879999999999995,
+      "x1": 176.256,
+      "bottom": 12.959999999999999,
+      "confidence": 96.831734,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Lon",
+      "x0": 180.14399999999998,
+      "top": 4.752,
+      "x1": 199.152,
+      "bottom": 12.96,
+      "confidence": 93.29821,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Fuller’s",
+      "x0": 203.04,
+      "top": 4.608,
+      "x1": 240.624,
+      "bottom": 12.959999999999997,
+      "confidence": 92.219284,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "main",
+      "x0": 244.65599999999998,
+      "top": 4.752,
+      "x1": 270.0,
+      "bottom": 12.96,
+      "confidence": 96.415169,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "criticism",
+      "x0": 273.59999999999997,
+      "top": 4.752,
+      "x1": 317.08799999999997,
+      "bottom": 12.96,
+      "confidence": 96.439201,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 320.976,
+      "top": 4.608,
+      "x1": 330.48,
+      "bottom": 12.959999999999997,
+      "confidence": 93.280151,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Hart’s",
+      "x0": 333.35999999999996,
+      "top": 4.608,
+      "x1": 364.17599999999993,
+      "bottom": 12.959999999999997,
+      "confidence": 90.690231,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "legal",
+      "x0": 367.91999999999996,
+      "top": 4.752,
+      "x1": 391.82399999999996,
+      "bottom": 14.832,
+      "confidence": 96.274597,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "positivism?",
+      "x0": 395.424,
+      "top": 4.608,
+      "x1": 452.01599999999996,
+      "bottom": 14.831999999999997,
+      "confidence": 86.088455,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 125.42399999999999,
+      "top": 20.592,
+      "x1": 139.248,
+      "bottom": 30.815999999999995,
+      "confidence": 96.430809,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "It",
+      "x0": 148.464,
+      "top": 20.735999999999997,
+      "x1": 156.528,
+      "bottom": 28.799999999999997,
+      "confidence": 91.363953,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "ignores",
+      "x0": 160.128,
+      "top": 20.735999999999997,
+      "x1": 196.416,
+      "bottom": 30.959999999999994,
+      "confidence": 91.363953,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "moral",
+      "x0": 200.44799999999998,
+      "top": 20.735999999999997,
+      "x1": 229.39199999999997,
+      "bottom": 28.943999999999996,
+      "confidence": 96.525108,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "obligations",
+      "x0": 233.136,
+      "top": 20.735999999999997,
+      "x1": 287.856,
+      "bottom": 30.959999999999994,
+      "confidence": 96.565979,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 291.74399999999997,
+      "top": 20.592,
+      "x1": 301.392,
+      "bottom": 28.943999999999996,
+      "confidence": 96.869324,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "a",
+      "x0": 304.128,
+      "top": 23.616,
+      "x1": 309.45599999999996,
+      "bottom": 28.944,
+      "confidence": 96.907623,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "judge",
+      "x0": 312.47999999999996,
+      "top": 20.735999999999997,
+      "x1": 340.12799999999993,
+      "bottom": 30.959999999999994,
+      "confidence": 96.555466,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "to",
+      "x0": 343.87199999999996,
+      "top": 21.599999999999998,
+      "x1": 352.94399999999996,
+      "bottom": 28.943999999999996,
+      "confidence": 96.518921,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "make",
+      "x0": 356.976,
+      "top": 20.735999999999997,
+      "x1": 383.904,
+      "bottom": 28.943999999999996,
+      "confidence": 96.151703,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "decisions",
+      "x0": 387.936,
+      "top": 20.735999999999997,
+      "x1": 433.008,
+      "bottom": 28.943999999999996,
+      "confidence": 96.580963,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "on",
+      "x0": 436.89599999999996,
+      "top": 23.616,
+      "x1": 448.41599999999994,
+      "bottom": 28.944,
+      "confidence": 96.243156,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "ethics",
+      "x0": 452.15999999999997,
+      "top": 20.735999999999997,
+      "x1": 481.248,
+      "bottom": 28.943999999999996,
+      "confidence": 96.381836,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(B)",
+      "x0": 125.42399999999999,
+      "top": 36.72,
+      "x1": 139.248,
+      "bottom": 46.8,
+      "confidence": 92.212814,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "It",
+      "x0": 148.464,
+      "top": 36.864,
+      "x1": 156.672,
+      "bottom": 44.784,
+      "confidence": 96.71405,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "places",
+      "x0": 162.0,
+      "top": 36.72,
+      "x1": 193.10399999999998,
+      "bottom": 46.8,
+      "confidence": 96.649132,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "too",
+      "x0": 198.576,
+      "top": 37.583999999999996,
+      "x1": 213.408,
+      "bottom": 44.928,
+      "confidence": 95.424286,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "much",
+      "x0": 219.02399999999997,
+      "top": 36.72,
+      "x1": 246.67199999999997,
+      "bottom": 44.928,
+      "confidence": 96.128403,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "emphasis",
+      "x0": 252.14399999999998,
+      "top": 36.72,
+      "x1": 300.096,
+      "bottom": 46.8,
+      "confidence": 96.25103,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "on",
+      "x0": 305.712,
+      "top": 39.599999999999994,
+      "x1": 317.376,
+      "bottom": 44.928,
+      "confidence": 96.33596,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "legal",
+      "x0": 322.70399999999995,
+      "top": 36.72,
+      "x1": 347.03999999999996,
+      "bottom": 46.943999999999996,
+      "confidence": 96.837593,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "rules",
+      "x0": 352.224,
+      "top": 36.72,
+      "x1": 377.568,
+      "bottom": 44.928,
+      "confidence": 96.239395,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "without",
+      "x0": 383.18399999999997,
+      "top": 36.72,
+      "x1": 422.784,
+      "bottom": 44.928,
+      "confidence": 96.239395,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "considering",
+      "x0": 428.11199999999997,
+      "top": 36.72,
+      "x1": 487.15199999999993,
+      "bottom": 46.943999999999996,
+      "confidence": 96.481827,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "their",
+      "x0": 492.19199999999995,
+      "top": 36.72,
+      "x1": 517.1039999999999,
+      "bottom": 44.928,
+      "confidence": 96.087379,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "moral",
+      "x0": 522.5759999999999,
+      "top": 36.72,
+      "x1": 551.9519999999999,
+      "bottom": 44.928,
+      "confidence": 96.589172,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "implication",
+      "x0": 148.32,
+      "top": 50.687999999999995,
+      "x1": 205.2,
+      "bottom": 60.767999999999994,
+      "confidence": 96.138481,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(C)",
+      "x0": 125.42399999999999,
+      "top": 66.672,
+      "x1": 139.248,
+      "bottom": 76.896,
+      "confidence": 92.88456,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "It",
+      "x0": 148.464,
+      "top": 66.81599999999999,
+      "x1": 156.528,
+      "bottom": 74.88,
+      "confidence": 90.25338,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "ignores",
+      "x0": 160.128,
+      "top": 66.672,
+      "x1": 196.416,
+      "bottom": 76.896,
+      "confidence": 90.25338,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "the",
+      "x0": 200.16,
+      "top": 66.672,
+      "x1": 216.0,
+      "bottom": 74.88,
+      "confidence": 95.93808,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "role",
+      "x0": 219.74399999999997,
+      "top": 66.672,
+      "x1": 238.46399999999997,
+      "bottom": 74.88,
+      "confidence": 96.347549,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "of",
+      "x0": 242.20799999999997,
+      "top": 66.52799999999999,
+      "x1": 251.85599999999997,
+      "bottom": 74.88,
+      "confidence": 96.417671,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "international",
+      "x0": 254.44799999999998,
+      "top": 66.672,
+      "x1": 321.12,
+      "bottom": 74.88,
+      "confidence": 96.133095,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "law",
+      "x0": 324.71999999999997,
+      "top": 66.672,
+      "x1": 342.28799999999995,
+      "bottom": 74.88,
+      "confidence": 96.690125,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "in",
+      "x0": 345.888,
+      "top": 66.672,
+      "x1": 355.536,
+      "bottom": 74.73599999999999,
+      "confidence": 96.113327,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "shaping",
+      "x0": 359.424,
+      "top": 66.672,
+      "x1": 399.168,
+      "bottom": 76.896,
+      "confidence": 96.513077,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "domestic",
+      "x0": 402.768,
+      "top": 66.672,
+      "x1": 446.688,
+      "bottom": 74.88,
+      "confidence": 96.072952,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "legal",
+      "x0": 450.43199999999996,
+      "top": 66.672,
+      "x1": 474.33599999999996,
+      "bottom": 76.896,
+      "confidence": 95.118851,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "systems",
+      "x0": 478.224,
+      "top": 67.67999999999999,
+      "x1": 517.968,
+      "bottom": 76.89599999999999,
+      "confidence": 95.994629,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "(D)",
+      "x0": 124.84799999999998,
+      "top": 82.65599999999999,
+      "x1": 139.248,
+      "bottom": 92.88,
+      "confidence": 91.717499,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "All",
+      "x0": 147.88799999999998,
+      "top": 82.65599999999999,
+      "x1": 162.57599999999996,
+      "bottom": 90.72,
+      "confidence": 95.503227,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "of",
+      "x0": 166.32,
+      "top": 82.65599999999999,
+      "x1": 175.82399999999998,
+      "bottom": 90.86399999999999,
+      "confidence": 96.384285,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "the",
+      "x0": 178.416,
+      "top": 82.65599999999999,
+      "x1": 194.256,
+      "bottom": 90.86399999999999,
+      "confidence": 95.999191,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "above",
+      "x0": 198.28799999999998,
+      "top": 82.65599999999999,
+      "x1": 226.368,
+      "bottom": 90.86399999999999,
+      "confidence": 96.118851,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

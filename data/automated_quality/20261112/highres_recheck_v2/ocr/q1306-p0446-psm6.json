@@ -1,0 +1,340 @@
+{
+  "pdf_page": 446,
+  "crop_top": 177.94000000000005,
+  "crop_bottom": 292.29,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0446:l0006:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "8. Who authored, “The Indian School of Synthetic Jurisprudence: An Idea Relating to Its",
+      "bbox": [
+        72.53999999999999,
+        4.859999999999999,
+        495.9,
+        15.3
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Purposes”?",
+      "bbox": [
+        86.58,
+        21.779999999999998,
+        140.4,
+        32.22
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "A. Kautilya",
+      "bbox": [
+        95.58,
+        48.78,
+        151.73999999999998,
+        59.04
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "B. Manu",
+      "bbox": [
+        96.47999999999999,
+        66.06,
+        141.12,
+        73.8
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "C. M.J. Sethna",
+      "bbox": [
+        95.94,
+        82.44,
+        173.7,
+        90.72
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "D. UpendraBaxi",
+      "bbox": [
+        96.47999999999999,
+        99.36,
+        175.32,
+        109.62
+      ]
+    }
+  ],
+  "text": "8. Who authored, “The Indian School of Synthetic Jurisprudence: An Idea Relating to Its\nPurposes”?\nA. Kautilya\nB. Manu\nC. M.J. Sethna\nD. UpendraBaxi",
+  "ocr_words": [
+    {
+      "text": "8.",
+      "x0": 72.53999999999999,
+      "top": 5.3999999999999995,
+      "x1": 80.27999999999999,
+      "bottom": 13.139999999999999,
+      "confidence": 96.497681,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Who",
+      "x0": 84.24,
+      "top": 4.859999999999999,
+      "x1": 106.74,
+      "bottom": 13.139999999999999,
+      "confidence": 96.293579,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "authored,",
+      "x0": 110.52,
+      "top": 4.859999999999999,
+      "x1": 157.32,
+      "bottom": 14.76,
+      "confidence": 96.408936,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "“The",
+      "x0": 161.46,
+      "top": 4.859999999999999,
+      "x1": 183.24,
+      "bottom": 13.139999999999999,
+      "confidence": 96.788834,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Indian",
+      "x0": 187.56,
+      "top": 5.04,
+      "x1": 216.0,
+      "bottom": 13.14,
+      "confidence": 96.374413,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "School",
+      "x0": 220.14,
+      "top": 4.859999999999999,
+      "x1": 251.1,
+      "bottom": 13.139999999999999,
+      "confidence": 96.330711,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 255.23999999999998,
+      "top": 4.859999999999999,
+      "x1": 264.78,
+      "bottom": 13.139999999999999,
+      "confidence": 96.719505,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Synthetic",
+      "x0": 267.84,
+      "top": 4.859999999999999,
+      "x1": 312.29999999999995,
+      "bottom": 15.299999999999999,
+      "confidence": 96.249603,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Jurisprudence:",
+      "x0": 315.36,
+      "top": 5.04,
+      "x1": 385.92,
+      "bottom": 15.3,
+      "confidence": 96.249603,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "An",
+      "x0": 389.7,
+      "top": 5.3999999999999995,
+      "x1": 401.76,
+      "bottom": 13.139999999999999,
+      "confidence": 95.287926,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Idea",
+      "x0": 406.44,
+      "top": 5.04,
+      "x1": 425.52,
+      "bottom": 13.14,
+      "confidence": 96.319504,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Relating",
+      "x0": 430.2,
+      "top": 4.859999999999999,
+      "x1": 468.53999999999996,
+      "bottom": 15.299999999999999,
+      "confidence": 95.839577,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 471.78,
+      "top": 6.12,
+      "x1": 481.5,
+      "bottom": 13.14,
+      "confidence": 96.797745,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Its",
+      "x0": 485.64,
+      "top": 5.3999999999999995,
+      "x1": 495.9,
+      "bottom": 13.139999999999999,
+      "confidence": 96.56144,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Purposes”?",
+      "x0": 86.58,
+      "top": 21.779999999999998,
+      "x1": 140.4,
+      "bottom": 32.22,
+      "confidence": 61.647789,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "A.",
+      "x0": 95.58,
+      "top": 49.32,
+      "x1": 104.58,
+      "bottom": 56.88,
+      "confidence": 91.770866,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Kautilya",
+      "x0": 114.47999999999999,
+      "top": 48.78,
+      "x1": 151.73999999999998,
+      "bottom": 59.04,
+      "confidence": 91.770866,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "B.",
+      "x0": 96.47999999999999,
+      "top": 66.06,
+      "x1": 104.03999999999999,
+      "bottom": 73.8,
+      "confidence": 91.272148,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Manu",
+      "x0": 114.47999999999999,
+      "top": 66.06,
+      "x1": 141.12,
+      "bottom": 73.8,
+      "confidence": 96.666603,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "C.",
+      "x0": 95.94,
+      "top": 82.8,
+      "x1": 104.22,
+      "bottom": 90.72,
+      "confidence": 89.375595,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "M.J.",
+      "x0": 114.3,
+      "top": 82.98,
+      "x1": 136.26,
+      "bottom": 90.72,
+      "confidence": 71.756241,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Sethna",
+      "x0": 140.22,
+      "top": 82.44,
+      "x1": 173.7,
+      "bottom": 90.72,
+      "confidence": 71.756241,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "D.",
+      "x0": 96.47999999999999,
+      "top": 99.89999999999999,
+      "x1": 104.93999999999998,
+      "bottom": 107.46,
+      "confidence": 92.50779,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "UpendraBaxi",
+      "x0": 114.47999999999999,
+      "top": 99.36,
+      "x1": 175.32,
+      "bottom": 109.62,
+      "confidence": 92.502121,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

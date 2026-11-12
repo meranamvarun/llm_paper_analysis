@@ -1,0 +1,453 @@
+{
+  "pdf_page": 176,
+  "crop_top": 637.685,
+  "crop_bottom": 708.1853,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0176:l0030:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "86. Who among the following is the author of the work Mare Liberium, and is also",
+      "bbox": [
+        96.336,
+        4.4639999999999995,
+        527.616,
+        14.831999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "often called the ‘Father’ of modern international law?",
+      "bbox": [
+        117.35999999999999,
+        19.008,
+        387.35999999999996,
+        27.36
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(A) Jeremy Bentham (B) Baruch Spinoza",
+      "bbox": [
+        115.48799999999999,
+        37.583999999999996,
+        407.376,
+        47.80799999999999
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(C) Hugo Grotius (D) Mohamed E]Baradei",
+      "bbox": [
+        115.48799999999999,
+        56.016,
+        431.85599999999994,
+        66.384
+      ]
+    }
+  ],
+  "text": "86. Who among the following is the author of the work Mare Liberium, and is also\noften called the ‘Father’ of modern international law?\n(A) Jeremy Bentham (B) Baruch Spinoza\n(C) Hugo Grotius (D) Mohamed E]Baradei",
+  "ocr_words": [
+    {
+      "text": "86.",
+      "x0": 96.336,
+      "top": 5.04,
+      "x1": 110.16,
+      "bottom": 12.815999999999999,
+      "confidence": 96.244865,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Who",
+      "x0": 117.216,
+      "top": 4.608,
+      "x1": 139.68,
+      "bottom": 12.815999999999999,
+      "confidence": 95.016914,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "among",
+      "x0": 144.576,
+      "top": 7.343999999999999,
+      "x1": 177.98399999999998,
+      "bottom": 14.831999999999999,
+      "confidence": 95.920326,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 182.30399999999997,
+      "top": 4.608,
+      "x1": 198.14399999999998,
+      "bottom": 12.815999999999999,
+      "confidence": 95.920326,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 202.75199999999998,
+      "top": 4.4639999999999995,
+      "x1": 248.688,
+      "bottom": 14.831999999999997,
+      "confidence": 96.40181,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 253.00799999999998,
+      "top": 4.608,
+      "x1": 260.784,
+      "bottom": 12.815999999999999,
+      "confidence": 96.387421,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 265.536,
+      "top": 4.608,
+      "x1": 281.376,
+      "bottom": 12.815999999999999,
+      "confidence": 96.673271,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "author",
+      "x0": 286.272,
+      "top": 4.608,
+      "x1": 319.824,
+      "bottom": 12.815999999999999,
+      "confidence": 96.476379,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 324.28799999999995,
+      "top": 4.4639999999999995,
+      "x1": 333.792,
+      "bottom": 12.815999999999999,
+      "confidence": 96.537865,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 337.392,
+      "top": 4.608,
+      "x1": 353.23199999999997,
+      "bottom": 12.815999999999999,
+      "confidence": 96.423248,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "work",
+      "x0": 357.84,
+      "top": 4.608,
+      "x1": 382.75199999999995,
+      "bottom": 12.815999999999999,
+      "confidence": 96.423248,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Mare",
+      "x0": 387.21599999999995,
+      "top": 4.752,
+      "x1": 413.424,
+      "bottom": 12.815999999999999,
+      "confidence": 93.22039,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Liberium,",
+      "x0": 418.176,
+      "top": 4.608,
+      "x1": 467.28,
+      "bottom": 14.544,
+      "confidence": 91.862099,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 472.75199999999995,
+      "top": 4.608,
+      "x1": 491.18399999999997,
+      "bottom": 12.815999999999999,
+      "confidence": 96.352921,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 495.50399999999996,
+      "top": 4.608,
+      "x1": 503.424,
+      "bottom": 12.815999999999999,
+      "confidence": 96.76046,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "also",
+      "x0": 508.31999999999994,
+      "top": 4.608,
+      "x1": 527.616,
+      "bottom": 12.815999999999999,
+      "confidence": 96.817062,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "often",
+      "x0": 117.35999999999999,
+      "top": 19.008,
+      "x1": 142.416,
+      "bottom": 27.36,
+      "confidence": 95.742157,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "called",
+      "x0": 146.016,
+      "top": 19.151999999999997,
+      "x1": 175.248,
+      "bottom": 27.36,
+      "confidence": 95.537064,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 178.84799999999998,
+      "top": 19.151999999999997,
+      "x1": 194.688,
+      "bottom": 27.36,
+      "confidence": 96.25135,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "‘Father’",
+      "x0": 198.432,
+      "top": 19.008,
+      "x1": 237.024,
+      "bottom": 27.36,
+      "confidence": 96.369873,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 240.76799999999997,
+      "top": 19.008,
+      "x1": 250.41599999999997,
+      "bottom": 27.36,
+      "confidence": 96.790649,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "modern",
+      "x0": 253.152,
+      "top": 19.151999999999997,
+      "x1": 291.168,
+      "bottom": 27.36,
+      "confidence": 96.713226,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "international",
+      "x0": 294.768,
+      "top": 19.151999999999997,
+      "x1": 361.43999999999994,
+      "bottom": 27.36,
+      "confidence": 96.464851,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "law?",
+      "x0": 365.03999999999996,
+      "top": 19.008,
+      "x1": 387.35999999999996,
+      "bottom": 27.36,
+      "confidence": 94.818817,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(B)",
+      "x0": 306.43199999999996,
+      "top": 37.583999999999996,
+      "x1": 320.256,
+      "bottom": 47.80799999999999,
+      "confidence": 92.812325,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Baruch",
+      "x0": 327.45599999999996,
+      "top": 37.583999999999996,
+      "x1": 364.032,
+      "bottom": 45.791999999999994,
+      "confidence": 96.438751,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Spinoza",
+      "x0": 368.06399999999996,
+      "top": 37.583999999999996,
+      "x1": 407.376,
+      "bottom": 47.80799999999999,
+      "confidence": 96.863853,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(A)",
+      "x0": 115.48799999999999,
+      "top": 37.583999999999996,
+      "x1": 129.31199999999998,
+      "bottom": 47.80799999999999,
+      "confidence": 96.670883,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Jeremy",
+      "x0": 136.224,
+      "top": 37.727999999999994,
+      "x1": 173.51999999999998,
+      "bottom": 47.80799999999999,
+      "confidence": 95.597778,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Bentham",
+      "x0": 177.26399999999998,
+      "top": 37.583999999999996,
+      "x1": 223.48799999999997,
+      "bottom": 45.791999999999994,
+      "confidence": 96.028877,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(D)",
+      "x0": 305.856,
+      "top": 56.16,
+      "x1": 320.256,
+      "bottom": 66.24,
+      "confidence": 90.773293,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Mohamed",
+      "x0": 327.16799999999995,
+      "top": 56.16,
+      "x1": 377.13599999999997,
+      "bottom": 64.368,
+      "confidence": 93.250877,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "E]Baradei",
+      "x0": 381.02399999999994,
+      "top": 56.16,
+      "x1": 431.85599999999994,
+      "bottom": 64.368,
+      "confidence": 42.574654,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(C)",
+      "x0": 115.48799999999999,
+      "top": 56.016,
+      "x1": 129.31199999999998,
+      "bottom": 66.24,
+      "confidence": 90.58786,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Hugo",
+      "x0": 136.512,
+      "top": 56.16,
+      "x1": 162.864,
+      "bottom": 66.384,
+      "confidence": 93.1577,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Grotius",
+      "x0": 166.896,
+      "top": 56.016,
+      "x1": 204.33599999999998,
+      "bottom": 64.368,
+      "confidence": 91.208099,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

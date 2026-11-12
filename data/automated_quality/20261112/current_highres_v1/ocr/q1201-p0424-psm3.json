@@ -1,0 +1,298 @@
+{
+  "pdf_page": 424,
+  "crop_top": 10.399999999999999,
+  "crop_bottom": 96.39999999999999,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0423:l0052:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Options :",
+      "bbox": [
+        37.872,
+        3.888,
+        73.87199999999999,
+        12.096
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "1.” Verma Committee Report",
+      "bbox": [
+        39.023999999999994,
+        16.416,
+        184.896,
+        28.08
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "2. ® Malimath Committee Report",
+      "bbox": [
+        38.303999999999995,
+        34.416,
+        198.576,
+        46.08
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "3. ® Shah Committee Report",
+      "bbox": [
+        38.303999999999995,
+        52.416,
+        177.696,
+        64.08
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "4. *® Mehta Committee Report",
+      "bbox": [
+        38.303999999999995,
+        70.27199999999999,
+        182.736,
+        81.93599999999999
+      ]
+    }
+  ],
+  "text": "Options :\n1.” Verma Committee Report\n2. ® Malimath Committee Report\n3. ® Shah Committee Report\n4. *® Mehta Committee Report",
+  "ocr_words": [
+    {
+      "text": "Options",
+      "x0": 37.872,
+      "top": 3.888,
+      "x1": 68.832,
+      "bottom": 12.096,
+      "confidence": 93.211594,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 72.43199999999999,
+      "top": 5.76,
+      "x1": 73.87199999999999,
+      "bottom": 10.367999999999999,
+      "confidence": 93.201317,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1.”",
+      "x0": 39.023999999999994,
+      "top": 16.416,
+      "x1": 60.623999999999995,
+      "bottom": 25.92,
+      "confidence": 36.270798,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Verma",
+      "x0": 64.22399999999999,
+      "top": 18.575999999999997,
+      "x1": 95.03999999999999,
+      "bottom": 25.919999999999995,
+      "confidence": 47.816719,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Committee",
+      "x0": 98.63999999999999,
+      "top": 18.575999999999997,
+      "x1": 149.76,
+      "bottom": 25.919999999999995,
+      "confidence": 95.758606,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Report",
+      "x0": 153.21599999999998,
+      "top": 18.575999999999997,
+      "x1": 184.896,
+      "bottom": 28.08,
+      "confidence": 96.372314,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2.",
+      "x0": 38.303999999999995,
+      "top": 36.576,
+      "x1": 45.50399999999999,
+      "bottom": 43.775999999999996,
+      "confidence": 86.563347,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "®",
+      "x0": 51.983999999999995,
+      "top": 34.416,
+      "x1": 58.46399999999999,
+      "bottom": 40.895999999999994,
+      "confidence": 79.293747,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Malimath",
+      "x0": 64.22399999999999,
+      "top": 36.576,
+      "x1": 108.71999999999998,
+      "bottom": 43.775999999999996,
+      "confidence": 89.124924,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Committee",
+      "x0": 112.32,
+      "top": 36.576,
+      "x1": 163.296,
+      "bottom": 43.775999999999996,
+      "confidence": 42.716793,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Report",
+      "x0": 166.896,
+      "top": 36.576,
+      "x1": 198.576,
+      "bottom": 46.08,
+      "confidence": 95.524086,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "3.",
+      "x0": 38.303999999999995,
+      "top": 54.57599999999999,
+      "x1": 45.50399999999999,
+      "bottom": 61.775999999999996,
+      "confidence": 84.512276,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "®",
+      "x0": 51.983999999999995,
+      "top": 52.416,
+      "x1": 58.46399999999999,
+      "bottom": 58.895999999999994,
+      "confidence": 74.678238,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Shah",
+      "x0": 64.94399999999999,
+      "top": 54.57599999999999,
+      "x1": 87.83999999999999,
+      "bottom": 61.775999999999996,
+      "confidence": 95.912155,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Committee",
+      "x0": 91.44,
+      "top": 54.57599999999999,
+      "x1": 142.56,
+      "bottom": 61.775999999999996,
+      "confidence": 95.853897,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Report",
+      "x0": 146.16,
+      "top": 54.57599999999999,
+      "x1": 177.696,
+      "bottom": 64.08,
+      "confidence": 96.59272,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "4.",
+      "x0": 38.303999999999995,
+      "top": 72.43199999999999,
+      "x1": 45.50399999999999,
+      "bottom": 79.77599999999998,
+      "confidence": 67.198647,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "*®",
+      "x0": 51.983999999999995,
+      "top": 70.27199999999999,
+      "x1": 58.46399999999999,
+      "bottom": 76.89599999999999,
+      "confidence": 36.193432,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Mehta",
+      "x0": 64.22399999999999,
+      "top": 72.43199999999999,
+      "x1": 92.88,
+      "bottom": 79.77599999999998,
+      "confidence": 94.859261,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Committee",
+      "x0": 96.47999999999999,
+      "top": 72.43199999999999,
+      "x1": 147.6,
+      "bottom": 79.77599999999998,
+      "confidence": 95.183876,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Report",
+      "x0": 151.05599999999998,
+      "top": 72.43199999999999,
+      "x1": 182.736,
+      "bottom": 81.93599999999999,
+      "confidence": 95.737511,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

@@ -1,0 +1,876 @@
+{
+  "pdf_page": 210,
+  "crop_top": 607.76,
+  "crop_bottom": 745.6,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0210:l0030:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "69. Which of the following is correct regarding a contingent contract?",
+      "bbox": [
+        90.53999999999999,
+        4.14,
+        417.23999999999995,
+        14.4
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "(A) No contract comes into existence until the contingency occurs.",
+      "bbox": [
+        111.06,
+        18.54,
+        424.26,
+        28.799999999999997
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(B) One party cannot assume an immediate unilateral obligation subject to a",
+      "bbox": [
+        111.06,
+        32.94,
+        513.54,
+        43.199999999999996
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "condition.",
+      "bbox": [
+        129.78,
+        47.519999999999996,
+        174.42000000000002,
+        55.44
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(C) The parties cannot enter into an immediately binding contract; and either the",
+      "bbox": [
+        110.33999999999999,
+        61.739999999999995,
+        513.18,
+        72.0
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "operation of the contract is made to depend upon the happening of the specified",
+      "bbox": [
+        129.78,
+        76.14,
+        513.18,
+        86.39999999999999
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "event.",
+      "bbox": [
+        129.78,
+        91.25999999999999,
+        157.68,
+        98.46
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "(D) All contingent contracts are void.",
+      "bbox": [
+        110.33999999999999,
+        104.94,
+        283.14,
+        115.19999999999999
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "21 M",
+      "bbox": [
+        292.5,
+        126.89999999999999,
+        536.4,
+        133.92
+      ]
+    }
+  ],
+  "text": "69. Which of the following is correct regarding a contingent contract?\n(A) No contract comes into existence until the contingency occurs.\n(B) One party cannot assume an immediate unilateral obligation subject to a\ncondition.\n(C) The parties cannot enter into an immediately binding contract; and either the\noperation of the contract is made to depend upon the happening of the specified\nevent.\n(D) All contingent contracts are void.\n21 M",
+  "ocr_words": [
+    {
+      "text": "69.",
+      "x0": 90.53999999999999,
+      "top": 4.5,
+      "x1": 104.22,
+      "bottom": 12.239999999999998,
+      "confidence": 96.561531,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Which",
+      "x0": 111.06,
+      "top": 4.32,
+      "x1": 140.04,
+      "bottom": 12.24,
+      "confidence": 96.130341,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 144.0,
+      "top": 4.14,
+      "x1": 152.46,
+      "bottom": 12.239999999999998,
+      "confidence": 96.130341,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 155.7,
+      "top": 4.32,
+      "x1": 169.92,
+      "bottom": 12.24,
+      "confidence": 96.262817,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "following",
+      "x0": 173.51999999999998,
+      "top": 4.14,
+      "x1": 214.38,
+      "bottom": 14.399999999999999,
+      "confidence": 96.327957,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 218.7,
+      "top": 4.32,
+      "x1": 225.35999999999999,
+      "bottom": 12.24,
+      "confidence": 96.040131,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "correct",
+      "x0": 228.95999999999998,
+      "top": 4.859999999999999,
+      "x1": 261.17999999999995,
+      "bottom": 12.239999999999998,
+      "confidence": 96.567993,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "regarding",
+      "x0": 265.14,
+      "top": 4.32,
+      "x1": 309.06,
+      "bottom": 14.4,
+      "confidence": 96.266541,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 313.02,
+      "top": 6.3,
+      "x1": 318.24,
+      "bottom": 12.239999999999998,
+      "confidence": 96.365547,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "contingent",
+      "x0": 321.84,
+      "top": 4.32,
+      "x1": 370.62,
+      "bottom": 14.4,
+      "confidence": 96.594498,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "contract?",
+      "x0": 374.21999999999997,
+      "top": 4.14,
+      "x1": 417.23999999999995,
+      "bottom": 12.239999999999998,
+      "confidence": 96.450119,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(A)",
+      "x0": 111.06,
+      "top": 18.54,
+      "x1": 123.84,
+      "bottom": 28.619999999999997,
+      "confidence": 96.653282,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "No",
+      "x0": 130.14,
+      "top": 18.72,
+      "x1": 142.73999999999998,
+      "bottom": 26.64,
+      "confidence": 95.428398,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "contract",
+      "x0": 146.34,
+      "top": 19.259999999999998,
+      "x1": 183.96,
+      "bottom": 26.639999999999997,
+      "confidence": 95.428398,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "comes",
+      "x0": 187.38,
+      "top": 20.7,
+      "x1": 218.16,
+      "bottom": 26.64,
+      "confidence": 95.83979,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "into",
+      "x0": 222.29999999999998,
+      "top": 18.72,
+      "x1": 238.49999999999997,
+      "bottom": 26.64,
+      "confidence": 95.481064,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "existence",
+      "x0": 242.28,
+      "top": 18.72,
+      "x1": 286.56,
+      "bottom": 26.64,
+      "confidence": 96.721344,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "until",
+      "x0": 290.7,
+      "top": 18.72,
+      "x1": 308.88,
+      "bottom": 26.64,
+      "confidence": 95.778404,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 312.84,
+      "top": 18.72,
+      "x1": 327.05999999999995,
+      "bottom": 26.64,
+      "confidence": 96.883354,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "contingency",
+      "x0": 330.84,
+      "top": 18.72,
+      "x1": 387.35999999999996,
+      "bottom": 28.799999999999997,
+      "confidence": 96.376137,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "occurs.",
+      "x0": 390.96,
+      "top": 20.7,
+      "x1": 424.26,
+      "bottom": 26.64,
+      "confidence": 95.974792,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(B)",
+      "x0": 111.06,
+      "top": 32.94,
+      "x1": 123.84,
+      "bottom": 43.019999999999996,
+      "confidence": 92.730156,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "One",
+      "x0": 129.78,
+      "top": 32.94,
+      "x1": 149.94,
+      "bottom": 41.04,
+      "confidence": 94.810295,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "party",
+      "x0": 156.23999999999998,
+      "top": 33.66,
+      "x1": 180.71999999999997,
+      "bottom": 43.019999999999996,
+      "confidence": 95.784683,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "cannot",
+      "x0": 186.48,
+      "top": 33.66,
+      "x1": 219.95999999999998,
+      "bottom": 41.04,
+      "confidence": 95.886169,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "assume",
+      "x0": 225.9,
+      "top": 35.1,
+      "x1": 264.42,
+      "bottom": 41.04,
+      "confidence": 95.702171,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "an",
+      "x0": 270.53999999999996,
+      "top": 35.1,
+      "x1": 281.7,
+      "bottom": 41.04,
+      "confidence": 95.702171,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "immediate",
+      "x0": 288.36,
+      "top": 33.12,
+      "x1": 339.66,
+      "bottom": 41.04,
+      "confidence": 96.713989,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "unilateral",
+      "x0": 345.96,
+      "top": 33.12,
+      "x1": 391.5,
+      "bottom": 41.04,
+      "confidence": 96.008255,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "obligation",
+      "x0": 397.8,
+      "top": 33.12,
+      "x1": 445.86,
+      "bottom": 43.199999999999996,
+      "confidence": 96.301674,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "subject",
+      "x0": 452.15999999999997,
+      "top": 33.12,
+      "x1": 487.79999999999995,
+      "bottom": 43.019999999999996,
+      "confidence": 95.76136,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 493.38,
+      "top": 33.66,
+      "x1": 502.2,
+      "bottom": 41.04,
+      "confidence": 96.110725,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 508.14,
+      "top": 35.1,
+      "x1": 513.54,
+      "bottom": 41.04,
+      "confidence": 96.110725,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "1"
+    },
+    {
+      "text": "condition.",
+      "x0": 129.78,
+      "top": 47.519999999999996,
+      "x1": 174.42000000000002,
+      "bottom": 55.44,
+      "confidence": 96.361412,
+      "ocr_block": "1",
+      "ocr_paragraph": "3",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(C)",
+      "x0": 110.33999999999999,
+      "top": 61.739999999999995,
+      "x1": 123.83999999999999,
+      "bottom": 71.82,
+      "confidence": 92.174217,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 129.6,
+      "top": 61.919999999999995,
+      "x1": 147.6,
+      "bottom": 69.83999999999999,
+      "confidence": 96.87986,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "parties",
+      "x0": 153.35999999999999,
+      "top": 61.919999999999995,
+      "x1": 184.85999999999999,
+      "bottom": 71.82,
+      "confidence": 96.140976,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "cannot",
+      "x0": 190.26,
+      "top": 62.46,
+      "x1": 222.29999999999998,
+      "bottom": 69.84,
+      "confidence": 96.564232,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "enter",
+      "x0": 227.51999999999998,
+      "top": 62.46,
+      "x1": 251.99999999999997,
+      "bottom": 69.84,
+      "confidence": 96.190926,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "into",
+      "x0": 257.21999999999997,
+      "top": 61.919999999999995,
+      "x1": 273.78,
+      "bottom": 69.83999999999999,
+      "confidence": 96.190926,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "an",
+      "x0": 279.18,
+      "top": 63.9,
+      "x1": 289.98,
+      "bottom": 69.84,
+      "confidence": 95.457901,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "immediately",
+      "x0": 296.09999999999997,
+      "top": 61.919999999999995,
+      "x1": 353.15999999999997,
+      "bottom": 71.82,
+      "confidence": 96.47261,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "binding",
+      "x0": 358.56,
+      "top": 61.919999999999995,
+      "x1": 392.4,
+      "bottom": 72.0,
+      "confidence": 96.324371,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "contract;",
+      "x0": 397.97999999999996,
+      "top": 62.46,
+      "x1": 438.47999999999996,
+      "bottom": 71.1,
+      "confidence": 96.497009,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 444.41999999999996,
+      "top": 61.919999999999995,
+      "x1": 461.52,
+      "bottom": 69.83999999999999,
+      "confidence": 96.073677,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "either",
+      "x0": 467.09999999999997,
+      "top": 61.919999999999995,
+      "x1": 493.91999999999996,
+      "bottom": 69.83999999999999,
+      "confidence": 96.971848,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 498.78,
+      "top": 61.919999999999995,
+      "x1": 513.18,
+      "bottom": 69.83999999999999,
+      "confidence": 96.820129,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "1"
+    },
+    {
+      "text": "operation",
+      "x0": 129.78,
+      "top": 76.32,
+      "x1": 173.34,
+      "bottom": 86.22,
+      "confidence": 96.491386,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 177.84,
+      "top": 76.14,
+      "x1": 186.12,
+      "bottom": 84.06,
+      "confidence": 96.891083,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 189.9,
+      "top": 76.32,
+      "x1": 204.12,
+      "bottom": 84.05999999999999,
+      "confidence": 96.26358,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "contract",
+      "x0": 208.26,
+      "top": 76.86,
+      "x1": 245.88,
+      "bottom": 84.06,
+      "confidence": 96.26358,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "is",
+      "x0": 250.2,
+      "top": 76.32,
+      "x1": 256.86,
+      "bottom": 84.05999999999999,
+      "confidence": 96.264961,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "made",
+      "x0": 261.18,
+      "top": 76.32,
+      "x1": 286.92,
+      "bottom": 84.05999999999999,
+      "confidence": 96.264961,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "to",
+      "x0": 290.88,
+      "top": 76.86,
+      "x1": 299.15999999999997,
+      "bottom": 84.06,
+      "confidence": 96.664055,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "depend",
+      "x0": 303.3,
+      "top": 76.32,
+      "x1": 338.04,
+      "bottom": 86.22,
+      "confidence": 96.646118,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "upon",
+      "x0": 342.71999999999997,
+      "top": 78.3,
+      "x1": 365.21999999999997,
+      "bottom": 86.22,
+      "confidence": 96.103165,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 369.36,
+      "top": 76.32,
+      "x1": 383.76,
+      "bottom": 84.05999999999999,
+      "confidence": 96.441132,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "happening",
+      "x0": 388.26,
+      "top": 76.32,
+      "x1": 436.86,
+      "bottom": 86.39999999999999,
+      "confidence": 96.676277,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 441.35999999999996,
+      "top": 76.14,
+      "x1": 449.63999999999993,
+      "bottom": 84.06,
+      "confidence": 96.991318,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "the",
+      "x0": 453.41999999999996,
+      "top": 76.32,
+      "x1": 467.64,
+      "bottom": 84.05999999999999,
+      "confidence": 96.07251,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "specified",
+      "x0": 471.78,
+      "top": 76.14,
+      "x1": 513.18,
+      "bottom": 86.22,
+      "confidence": 96.07251,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "2"
+    },
+    {
+      "text": "event.",
+      "x0": 129.78,
+      "top": 91.25999999999999,
+      "x1": 157.68,
+      "bottom": 98.46,
+      "confidence": 96.379303,
+      "ocr_block": "1",
+      "ocr_paragraph": "4",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(D)",
+      "x0": 110.33999999999999,
+      "top": 104.94,
+      "x1": 123.83999999999999,
+      "bottom": 115.02,
+      "confidence": 93.200035,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "All",
+      "x0": 129.6,
+      "top": 105.11999999999999,
+      "x1": 140.57999999999998,
+      "bottom": 112.85999999999999,
+      "confidence": 96.452003,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "contingent",
+      "x0": 144.54,
+      "top": 105.11999999999999,
+      "x1": 193.5,
+      "bottom": 115.19999999999999,
+      "confidence": 96.416473,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "contracts",
+      "x0": 196.92,
+      "top": 105.66,
+      "x1": 239.57999999999998,
+      "bottom": 112.86,
+      "confidence": 96.337967,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "are",
+      "x0": 243.35999999999999,
+      "top": 107.1,
+      "x1": 258.12,
+      "bottom": 112.86,
+      "confidence": 96.549744,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "void.",
+      "x0": 261.53999999999996,
+      "top": 105.11999999999999,
+      "x1": 283.14,
+      "bottom": 112.85999999999999,
+      "confidence": 96.724167,
+      "ocr_block": "1",
+      "ocr_paragraph": "5",
+      "ocr_line": "1"
+    },
+    {
+      "text": "21",
+      "x0": 292.5,
+      "top": 127.08,
+      "x1": 301.14,
+      "bottom": 133.92,
+      "confidence": 95.250816,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    },
+    {
+      "text": "M",
+      "x0": 529.56,
+      "top": 126.89999999999999,
+      "x1": 536.4,
+      "bottom": 133.92,
+      "confidence": 92.744759,
+      "ocr_block": "1",
+      "ocr_paragraph": "6",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

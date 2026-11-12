@@ -1,0 +1,582 @@
+{
+  "pdf_page": 63,
+  "crop_top": 618.7004,
+  "crop_bottom": 700.7004,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0063:l0032:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "3. The judgment emphasized that tax laws must have proper legislative backing to",
+      "bbox": [
+        131.57999999999998,
+        4.68,
+        551.6999999999999,
+        14.76
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "prevent contravention of fundamental rights",
+      "bbox": [
+        148.32,
+        18.54,
+        374.21999999999997,
+        28.8
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "Which of the statements given above correct?",
+      "bbox": [
+        126.17999999999999,
+        35.46,
+        374.76,
+        45.9
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "are",
+      "bbox": [
+        316.44,
+        38.519999999999996,
+        331.92,
+        43.739999999999995
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(A) 1 and 2 only (B) 1 and 3 only",
+      "bbox": [
+        125.46,
+        51.48,
+        397.08,
+        61.739999999999995
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "(C) 2 and 3 only (D) 1, 2 and 3",
+      "bbox": [
+        125.46,
+        67.5,
+        384.3,
+        77.76
+      ]
+    }
+  ],
+  "text": "3. The judgment emphasized that tax laws must have proper legislative backing to\nprevent contravention of fundamental rights\nWhich of the statements given above correct?\nare\n(A) 1 and 2 only (B) 1 and 3 only\n(C) 2 and 3 only (D) 1, 2 and 3",
+  "ocr_words": [
+    {
+      "text": "3.",
+      "x0": 131.57999999999998,
+      "top": 5.04,
+      "x1": 139.14,
+      "bottom": 12.78,
+      "confidence": 95.476364,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "The",
+      "x0": 148.32,
+      "top": 4.68,
+      "x1": 167.22,
+      "bottom": 12.78,
+      "confidence": 90.805809,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "judgment",
+      "x0": 169.92,
+      "top": 4.68,
+      "x1": 218.51999999999998,
+      "bottom": 14.76,
+      "confidence": 90.805809,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "emphasized",
+      "x0": 221.94,
+      "top": 4.68,
+      "x1": 281.34,
+      "bottom": 14.76,
+      "confidence": 95.685921,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "that",
+      "x0": 284.58,
+      "top": 4.68,
+      "x1": 305.46,
+      "bottom": 12.78,
+      "confidence": 96.543846,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "tax",
+      "x0": 308.7,
+      "top": 5.58,
+      "x1": 324.53999999999996,
+      "bottom": 12.78,
+      "confidence": 96.569611,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "laws",
+      "x0": 327.59999999999997,
+      "top": 4.68,
+      "x1": 350.09999999999997,
+      "bottom": 12.78,
+      "confidence": 96.851822,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "must",
+      "x0": 353.88,
+      "top": 5.58,
+      "x1": 378.9,
+      "bottom": 12.78,
+      "confidence": 96.136559,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "have",
+      "x0": 382.14,
+      "top": 4.68,
+      "x1": 405.71999999999997,
+      "bottom": 12.78,
+      "confidence": 96.136559,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "proper",
+      "x0": 409.14,
+      "top": 7.56,
+      "x1": 442.08,
+      "bottom": 14.759999999999998,
+      "confidence": 96.370613,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "legislative",
+      "x0": 445.14,
+      "top": 4.68,
+      "x1": 496.62,
+      "bottom": 14.76,
+      "confidence": 96.318161,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "backing",
+      "x0": 499.85999999999996,
+      "top": 4.68,
+      "x1": 539.4599999999999,
+      "bottom": 14.76,
+      "confidence": 96.50563,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 542.52,
+      "top": 5.58,
+      "x1": 551.6999999999999,
+      "bottom": 12.78,
+      "confidence": 96.50563,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "prevent",
+      "x0": 148.32,
+      "top": 19.62,
+      "x1": 186.83999999999997,
+      "bottom": 28.8,
+      "confidence": 96.437683,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "contravention",
+      "x0": 190.44,
+      "top": 18.54,
+      "x1": 260.46,
+      "bottom": 26.82,
+      "confidence": 96.36364,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 264.06,
+      "top": 18.54,
+      "x1": 273.6,
+      "bottom": 26.82,
+      "confidence": 95.860214,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "fundamental",
+      "x0": 276.12,
+      "top": 18.54,
+      "x1": 341.1,
+      "bottom": 26.82,
+      "confidence": 95.860214,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "rights",
+      "x0": 344.7,
+      "top": 18.54,
+      "x1": 374.21999999999997,
+      "bottom": 28.799999999999997,
+      "confidence": 96.50943,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Which",
+      "x0": 126.17999999999999,
+      "top": 35.64,
+      "x1": 158.39999999999998,
+      "bottom": 43.92,
+      "confidence": 96.020218,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 162.0,
+      "top": 35.46,
+      "x1": 171.54,
+      "bottom": 43.74,
+      "confidence": 96.020218,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "the",
+      "x0": 174.06,
+      "top": 35.64,
+      "x1": 189.9,
+      "bottom": 43.74,
+      "confidence": 96.039459,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "statements",
+      "x0": 194.04,
+      "top": 36.54,
+      "x1": 249.66,
+      "bottom": 43.739999999999995,
+      "confidence": 96.463997,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "given",
+      "x0": 253.62,
+      "top": 35.64,
+      "x1": 280.44,
+      "bottom": 45.9,
+      "confidence": 96.10331,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "above",
+      "x0": 284.21999999999997,
+      "top": 35.64,
+      "x1": 312.47999999999996,
+      "bottom": 43.74,
+      "confidence": 96.644646,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "are",
+      "x0": 316.44,
+      "top": 38.519999999999996,
+      "x1": 331.92,
+      "bottom": 43.739999999999995,
+      "confidence": 96.644646,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "correct?",
+      "x0": 335.7,
+      "top": 35.46,
+      "x1": 374.76,
+      "bottom": 43.74,
+      "confidence": 96.437187,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(A)",
+      "x0": 125.46,
+      "top": 51.48,
+      "x1": 139.32,
+      "bottom": 61.739999999999995,
+      "confidence": 96.314674,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "1",
+      "x0": 149.22,
+      "top": 52.199999999999996,
+      "x1": 153.35999999999999,
+      "bottom": 59.76,
+      "confidence": 66.307632,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "and",
+      "x0": 157.68,
+      "top": 51.66,
+      "x1": 176.22,
+      "bottom": 59.76,
+      "confidence": 66.307632,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "2",
+      "x0": 179.82,
+      "top": 52.019999999999996,
+      "x1": 184.85999999999999,
+      "bottom": 59.76,
+      "confidence": 95.822449,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "only",
+      "x0": 189.0,
+      "top": 51.66,
+      "x1": 210.06,
+      "bottom": 61.739999999999995,
+      "confidence": 96.724869,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(B)",
+      "x0": 315.36,
+      "top": 51.66,
+      "x1": 329.22,
+      "bottom": 61.739999999999995,
+      "confidence": 90.821655,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "1",
+      "x0": 336.24,
+      "top": 52.199999999999996,
+      "x1": 340.2,
+      "bottom": 59.76,
+      "confidence": 96.036751,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "and",
+      "x0": 344.7,
+      "top": 51.66,
+      "x1": 363.24,
+      "bottom": 59.76,
+      "confidence": 95.897179,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "3",
+      "x0": 367.2,
+      "top": 52.019999999999996,
+      "x1": 372.06,
+      "bottom": 59.76,
+      "confidence": 90.283669,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "only",
+      "x0": 375.84,
+      "top": 51.66,
+      "x1": 397.08,
+      "bottom": 61.739999999999995,
+      "confidence": 96.327065,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(C)",
+      "x0": 125.46,
+      "top": 67.5,
+      "x1": 139.32,
+      "bottom": 77.76,
+      "confidence": 93.027374,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "2",
+      "x0": 148.5,
+      "top": 68.03999999999999,
+      "x1": 153.54,
+      "bottom": 75.6,
+      "confidence": 86.215897,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "and",
+      "x0": 157.68,
+      "top": 67.67999999999999,
+      "x1": 176.22,
+      "bottom": 75.77999999999999,
+      "confidence": 86.215897,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "3",
+      "x0": 180.18,
+      "top": 68.03999999999999,
+      "x1": 185.04000000000002,
+      "bottom": 75.77999999999999,
+      "confidence": 95.769966,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "only",
+      "x0": 189.0,
+      "top": 67.67999999999999,
+      "x1": 210.06,
+      "bottom": 77.75999999999999,
+      "confidence": 95.566895,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "(D)",
+      "x0": 314.82,
+      "top": 67.67999999999999,
+      "x1": 329.21999999999997,
+      "bottom": 77.75999999999999,
+      "confidence": 90.795029,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "1,",
+      "x0": 336.24,
+      "top": 68.22,
+      "x1": 343.26,
+      "bottom": 77.4,
+      "confidence": 78.697815,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "2",
+      "x0": 347.76,
+      "top": 68.03999999999999,
+      "x1": 352.8,
+      "bottom": 75.6,
+      "confidence": 78.697815,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "and",
+      "x0": 356.94,
+      "top": 67.67999999999999,
+      "x1": 375.3,
+      "bottom": 75.77999999999999,
+      "confidence": 91.388039,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "3",
+      "x0": 379.44,
+      "top": 68.03999999999999,
+      "x1": 384.3,
+      "bottom": 75.77999999999999,
+      "confidence": 92.209587,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

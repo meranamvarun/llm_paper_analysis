@@ -1,0 +1,221 @@
+{
+  "pdf_page": 416,
+  "crop_top": 10.399999999999999,
+  "crop_bottom": 94.24,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0415:l0041:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Options :",
+      "bbox": [
+        37.872,
+        3.888,
+        73.87199999999999,
+        12.096
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "1. ® Rousseau",
+      "bbox": [
+        39.023999999999994,
+        16.416,
+        110.16,
+        25.919999999999995
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "2. 0 Savigny",
+      "bbox": [
+        38.303999999999995,
+        34.416,
+        101.51999999999998,
+        46.08
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "3. ® Holland",
+      "bbox": [
+        38.303999999999995,
+        52.416,
+        101.51999999999998,
+        61.775999999999996
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "4 * Kelsen",
+      "bbox": [
+        38.303999999999995,
+        70.27199999999999,
+        95.03999999999999,
+        79.77599999999998
+      ]
+    }
+  ],
+  "text": "Options :\n1. ® Rousseau\n2. 0 Savigny\n3. ® Holland\n4 * Kelsen",
+  "ocr_words": [
+    {
+      "text": "Options",
+      "x0": 37.872,
+      "top": 3.888,
+      "x1": 68.832,
+      "bottom": 12.096,
+      "confidence": 93.211594,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": ":",
+      "x0": 72.43199999999999,
+      "top": 5.76,
+      "x1": 73.87199999999999,
+      "bottom": 10.367999999999999,
+      "confidence": 93.201317,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1.",
+      "x0": 39.023999999999994,
+      "top": 18.575999999999997,
+      "x1": 45.50399999999999,
+      "bottom": 25.919999999999995,
+      "confidence": 93.306,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "®",
+      "x0": 51.983999999999995,
+      "top": 16.416,
+      "x1": 58.46399999999999,
+      "bottom": 23.04,
+      "confidence": 87.783089,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Rousseau",
+      "x0": 64.22399999999999,
+      "top": 18.575999999999997,
+      "x1": 110.16,
+      "bottom": 25.919999999999995,
+      "confidence": 95.234543,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2.",
+      "x0": 38.303999999999995,
+      "top": 36.576,
+      "x1": 45.50399999999999,
+      "bottom": 43.775999999999996,
+      "confidence": 67.32785,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "0",
+      "x0": 53.711999999999996,
+      "top": 34.416,
+      "x1": 58.032,
+      "bottom": 42.336,
+      "confidence": 49.500065,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Savigny",
+      "x0": 64.94399999999999,
+      "top": 36.576,
+      "x1": 101.51999999999998,
+      "bottom": 46.08,
+      "confidence": 89.644623,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "2"
+    },
+    {
+      "text": "3.",
+      "x0": 38.303999999999995,
+      "top": 54.57599999999999,
+      "x1": 45.50399999999999,
+      "bottom": 61.775999999999996,
+      "confidence": 87.958473,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "3"
+    },
+    {
+      "text": "®",
+      "x0": 51.983999999999995,
+      "top": 52.416,
+      "x1": 58.46399999999999,
+      "bottom": 58.895999999999994,
+      "confidence": 67.579109,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Holland",
+      "x0": 64.22399999999999,
+      "top": 54.57599999999999,
+      "x1": 101.51999999999998,
+      "bottom": 61.775999999999996,
+      "confidence": 95.519524,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "3"
+    },
+    {
+      "text": "4",
+      "x0": 38.303999999999995,
+      "top": 72.43199999999999,
+      "x1": 45.50399999999999,
+      "bottom": 79.77599999999998,
+      "confidence": 57.653183,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "4"
+    },
+    {
+      "text": "*",
+      "x0": 51.983999999999995,
+      "top": 70.27199999999999,
+      "x1": 58.46399999999999,
+      "bottom": 76.89599999999999,
+      "confidence": 27.028694,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Kelsen",
+      "x0": 64.22399999999999,
+      "top": 72.43199999999999,
+      "x1": 95.03999999999999,
+      "bottom": 79.77599999999998,
+      "confidence": 86.466057,
+      "ocr_block": "1",
+      "ocr_paragraph": "2",
+      "ocr_line": "4"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

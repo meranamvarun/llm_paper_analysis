@@ -1,0 +1,677 @@
+{
+  "pdf_page": 398,
+  "crop_top": 443.44136,
+  "crop_bottom": 553.44136,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0398:l0027:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.45 Which body of the United Nations requested International Court of Justice to give an advisory opinion on the issue of legality of use or threat to use nuclear",
+      "bbox": [
+        41.94,
+        4.5,
+        547.02,
+        10.98
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "weapons on 15 December 1994?",
+      "bbox": [
+        62.46,
+        13.68,
+        163.26,
+        20.16
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "YA",
+      "bbox": [
+        73.08,
+        23.4,
+        87.66,
+        38.339999999999996
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "Ans",
+      "bbox": [
+        43.379999999999995,
+        26.64,
+        54.53999999999999,
+        31.5
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "1. U.N. General Assembly",
+      "bbox": [
+        88.56,
+        34.92,
+        165.06,
+        41.4
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        46.44,
+        93.06,
+        61.379999999999995
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "Security Council",
+      "bbox": [
+        95.58,
+        56.339999999999996,
+        143.46,
+        62.81999999999999
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        67.67999999999999,
+        93.06,
+        82.97999999999999
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "Economic and Social Council",
+      "bbox": [
+        95.94,
+        77.75999999999999,
+        180.89999999999998,
+        82.98
+      ]
+    },
+    {
+      "line_id": "l0009",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        89.1,
+        93.06,
+        104.03999999999999
+      ]
+    },
+    {
+      "line_id": "l0010",
+      "text": "W.H.O.",
+      "bbox": [
+        95.58,
+        99.17999999999999,
+        116.64,
+        104.22
+      ]
+    }
+  ],
+  "text": "Q.45 Which body of the United Nations requested International Court of Justice to give an advisory opinion on the issue of legality of use or threat to use nuclear\nweapons on 15 December 1994?\nYA\nAns\n1. U.N. General Assembly\nx,\nSecurity Council\nx,\nEconomic and Social Council\nx,\nW.H.O.",
+  "ocr_words": [
+    {
+      "text": "Q.45",
+      "x0": 41.94,
+      "top": 4.68,
+      "x1": 55.98,
+      "bottom": 10.44,
+      "confidence": 91.212662,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Which",
+      "x0": 62.64,
+      "top": 4.5,
+      "x1": 81.72,
+      "bottom": 9.719999999999999,
+      "confidence": 96.469086,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "body",
+      "x0": 84.24,
+      "top": 4.5,
+      "x1": 99.36,
+      "bottom": 10.98,
+      "confidence": 96.469086,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 101.52,
+      "top": 4.5,
+      "x1": 107.64,
+      "bottom": 9.719999999999999,
+      "confidence": 96.91674,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 109.44,
+      "top": 4.5,
+      "x1": 119.34,
+      "bottom": 9.719999999999999,
+      "confidence": 96.696014,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "United",
+      "x0": 121.86,
+      "top": 4.5,
+      "x1": 142.02,
+      "bottom": 9.719999999999999,
+      "confidence": 96.090614,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Nations",
+      "x0": 144.72,
+      "top": 4.68,
+      "x1": 168.12,
+      "bottom": 9.719999999999999,
+      "confidence": 96.533936,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "requested",
+      "x0": 170.45999999999998,
+      "top": 4.5,
+      "x1": 201.23999999999998,
+      "bottom": 10.98,
+      "confidence": 95.626022,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "International",
+      "x0": 203.94,
+      "top": 4.5,
+      "x1": 243.9,
+      "bottom": 9.719999999999999,
+      "confidence": 95.626022,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Court",
+      "x0": 246.42,
+      "top": 4.68,
+      "x1": 263.15999999999997,
+      "bottom": 9.719999999999999,
+      "confidence": 96.587502,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 265.32,
+      "top": 4.5,
+      "x1": 271.44,
+      "bottom": 9.719999999999999,
+      "confidence": 96.329842,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Justice",
+      "x0": 273.06,
+      "top": 4.68,
+      "x1": 293.76,
+      "bottom": 9.719999999999999,
+      "confidence": 96.766823,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 295.74,
+      "top": 5.04,
+      "x1": 302.04,
+      "bottom": 9.719999999999999,
+      "confidence": 96.736412,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "give",
+      "x0": 304.02,
+      "top": 4.68,
+      "x1": 316.44,
+      "bottom": 10.98,
+      "confidence": 95.838402,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "an",
+      "x0": 318.59999999999997,
+      "top": 5.9399999999999995,
+      "x1": 325.61999999999995,
+      "bottom": 9.719999999999999,
+      "confidence": 96.933167,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "advisory",
+      "x0": 328.14,
+      "top": 4.5,
+      "x1": 354.24,
+      "bottom": 10.98,
+      "confidence": 95.71389,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "opinion",
+      "x0": 356.21999999999997,
+      "top": 4.68,
+      "x1": 379.26,
+      "bottom": 10.98,
+      "confidence": 96.542328,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "on",
+      "x0": 381.59999999999997,
+      "top": 5.9399999999999995,
+      "x1": 388.97999999999996,
+      "bottom": 9.719999999999999,
+      "confidence": 96.24485,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 391.32,
+      "top": 4.5,
+      "x1": 401.21999999999997,
+      "bottom": 9.719999999999999,
+      "confidence": 96.298752,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "issue",
+      "x0": 403.74,
+      "top": 4.68,
+      "x1": 418.68,
+      "bottom": 9.719999999999999,
+      "confidence": 96.543388,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 420.84,
+      "top": 4.5,
+      "x1": 426.96,
+      "bottom": 9.719999999999999,
+      "confidence": 97.013626,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "legality",
+      "x0": 429.12,
+      "top": 4.5,
+      "x1": 451.44,
+      "bottom": 10.98,
+      "confidence": 96.177437,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 453.41999999999996,
+      "top": 4.5,
+      "x1": 459.53999999999996,
+      "bottom": 9.719999999999999,
+      "confidence": 96.783676,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "use",
+      "x0": 461.7,
+      "top": 5.9399999999999995,
+      "x1": 471.78,
+      "bottom": 9.719999999999999,
+      "confidence": 96.926834,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "or",
+      "x0": 473.94,
+      "top": 5.9399999999999995,
+      "x1": 480.42,
+      "bottom": 9.719999999999999,
+      "confidence": 96.980721,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "threat",
+      "x0": 482.21999999999997,
+      "top": 4.5,
+      "x1": 501.29999999999995,
+      "bottom": 9.719999999999999,
+      "confidence": 96.529099,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 503.28,
+      "top": 5.04,
+      "x1": 509.58,
+      "bottom": 9.719999999999999,
+      "confidence": 95.849586,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "use",
+      "x0": 511.91999999999996,
+      "top": 5.9399999999999995,
+      "x1": 522.0,
+      "bottom": 9.719999999999999,
+      "confidence": 96.179596,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "nuclear",
+      "x0": 524.52,
+      "top": 4.5,
+      "x1": 547.02,
+      "bottom": 9.719999999999999,
+      "confidence": 96.798378,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "weapons",
+      "x0": 62.46,
+      "top": 15.12,
+      "x1": 90.36,
+      "bottom": 20.16,
+      "confidence": 96.124756,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "on",
+      "x0": 92.52,
+      "top": 15.12,
+      "x1": 99.72,
+      "bottom": 18.9,
+      "confidence": 96.038628,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "15",
+      "x0": 102.6,
+      "top": 14.04,
+      "x1": 109.25999999999999,
+      "bottom": 18.9,
+      "confidence": 96.962418,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "December",
+      "x0": 111.78,
+      "top": 13.68,
+      "x1": 143.1,
+      "bottom": 18.9,
+      "confidence": 96.30246,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1994?",
+      "x0": 145.44,
+      "top": 13.68,
+      "x1": 163.26,
+      "bottom": 18.9,
+      "confidence": 96.594353,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.379999999999995,
+      "top": 26.64,
+      "x1": 54.53999999999999,
+      "bottom": 31.5,
+      "confidence": 96.946815,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "YA",
+      "x0": 73.08,
+      "top": 23.4,
+      "x1": 87.66,
+      "bottom": 38.339999999999996,
+      "confidence": 15.682007,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1.",
+      "x0": 88.56,
+      "top": 35.28,
+      "x1": 93.06,
+      "bottom": 39.96,
+      "confidence": 96.001526,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "U.N.",
+      "x0": 95.94,
+      "top": 35.28,
+      "x1": 108.17999999999999,
+      "bottom": 40.14,
+      "confidence": 95.901154,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "General",
+      "x0": 110.7,
+      "top": 34.92,
+      "x1": 133.92000000000002,
+      "bottom": 40.14,
+      "confidence": 96.454666,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Assembly",
+      "x0": 136.26,
+      "top": 34.92,
+      "x1": 165.06,
+      "bottom": 41.4,
+      "confidence": 96.208488,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 46.44,
+      "x1": 93.06,
+      "bottom": 61.379999999999995,
+      "confidence": 57.725319,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Security",
+      "x0": 95.58,
+      "top": 56.519999999999996,
+      "x1": 119.69999999999999,
+      "bottom": 62.81999999999999,
+      "confidence": 96.657463,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Council",
+      "x0": 121.86,
+      "top": 56.339999999999996,
+      "x1": 143.46,
+      "bottom": 61.559999999999995,
+      "confidence": 96.326385,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 67.67999999999999,
+      "x1": 93.06,
+      "bottom": 82.97999999999999,
+      "confidence": 59.663719,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Economic",
+      "x0": 95.94,
+      "top": 77.94,
+      "x1": 124.56,
+      "bottom": 82.98,
+      "confidence": 96.578667,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 126.89999999999999,
+      "top": 77.75999999999999,
+      "x1": 137.51999999999998,
+      "bottom": 82.97999999999999,
+      "confidence": 96.578667,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Social",
+      "x0": 140.04,
+      "top": 77.75999999999999,
+      "x1": 156.78,
+      "bottom": 82.97999999999999,
+      "confidence": 96.618111,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Council",
+      "x0": 159.29999999999998,
+      "top": 77.75999999999999,
+      "x1": 180.89999999999998,
+      "bottom": 82.97999999999999,
+      "confidence": 96.647263,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 89.1,
+      "x1": 93.06,
+      "bottom": 104.03999999999999,
+      "confidence": 38.014835,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "W.H.O.",
+      "x0": 95.58,
+      "top": 99.17999999999999,
+      "x1": 116.64,
+      "bottom": 104.22,
+      "confidence": 92.512314,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

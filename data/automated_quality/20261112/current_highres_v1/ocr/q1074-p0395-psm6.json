@@ -1,0 +1,470 @@
+{
+  "pdf_page": 395,
+  "crop_top": 644.08136,
+  "crop_bottom": 744.96136,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0395:l0040:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.30 Where the principle of \"Common but differentiated responsibilities\" finds a place?",
+      "bbox": [
+        41.903999999999996,
+        4.608,
+        318.96,
+        10.943999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Ans \"4",
+      "bbox": [
+        43.343999999999994,
+        14.543999999999999,
+        87.696,
+        29.087999999999997
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "1. Paris Agreement, 2015",
+      "bbox": [
+        88.55999999999999,
+        26.208,
+        164.16,
+        32.4
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "x,",
+      "bbox": [
+        73.008,
+        37.296,
+        91.29599999999999,
+        52.416
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "Montreal Protocol, 1987",
+      "bbox": [
+        95.904,
+        47.232,
+        169.63199999999998,
+        53.424
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "x,",
+      "bbox": [
+        73.008,
+        58.751999999999995,
+        93.024,
+        73.872
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "U.N. Convention on Biodiversity, 1992",
+      "bbox": [
+        95.904,
+        68.68799999999999,
+        210.81599999999997,
+        75.02399999999999
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "rad",
+      "bbox": [
+        72.43199999999999,
+        79.488,
+        87.26399999999998,
+        97.2
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "4. Warsaw Amendment, 2013",
+      "bbox": [
+        88.128,
+        90.0,
+        178.128,
+        96.192
+      ]
+    }
+  ],
+  "text": "Q.30 Where the principle of \"Common but differentiated responsibilities\" finds a place?\nAns \"4\n1. Paris Agreement, 2015\nx,\nMontreal Protocol, 1987\nx,\nU.N. Convention on Biodiversity, 1992\nrad\n4. Warsaw Amendment, 2013",
+  "ocr_words": [
+    {
+      "text": "Q.30",
+      "x0": 41.903999999999996,
+      "top": 4.896,
+      "x1": 56.16,
+      "bottom": 10.512,
+      "confidence": 90.516304,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Where",
+      "x0": 62.495999999999995,
+      "top": 4.608,
+      "x1": 83.088,
+      "bottom": 9.791999999999998,
+      "confidence": 96.642136,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 85.24799999999999,
+      "top": 4.608,
+      "x1": 95.184,
+      "bottom": 9.791999999999998,
+      "confidence": 92.052284,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "principle",
+      "x0": 97.63199999999999,
+      "top": 4.608,
+      "x1": 124.12799999999999,
+      "bottom": 10.943999999999999,
+      "confidence": 95.048256,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 126.288,
+      "top": 4.608,
+      "x1": 132.48,
+      "bottom": 9.791999999999998,
+      "confidence": 95.768486,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "\"Common",
+      "x0": 134.64,
+      "top": 4.608,
+      "x1": 165.31199999999998,
+      "bottom": 9.791999999999998,
+      "confidence": 95.273216,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "but",
+      "x0": 167.904,
+      "top": 4.608,
+      "x1": 177.84,
+      "bottom": 9.791999999999998,
+      "confidence": 96.83625,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "differentiated",
+      "x0": 180.0,
+      "top": 4.608,
+      "x1": 222.768,
+      "bottom": 9.791999999999998,
+      "confidence": 95.886238,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "responsibilities\"",
+      "x0": 225.35999999999999,
+      "top": 4.608,
+      "x1": 274.75199999999995,
+      "bottom": 10.943999999999999,
+      "confidence": 96.062309,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "finds",
+      "x0": 277.056,
+      "top": 4.608,
+      "x1": 292.032,
+      "bottom": 9.791999999999998,
+      "confidence": 96.451149,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "a",
+      "x0": 294.19199999999995,
+      "top": 6.047999999999999,
+      "x1": 297.21599999999995,
+      "bottom": 9.791999999999998,
+      "confidence": 96.839401,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "place?",
+      "x0": 299.808,
+      "top": 4.608,
+      "x1": 318.96,
+      "bottom": 10.943999999999999,
+      "confidence": 96.589592,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.343999999999994,
+      "top": 14.543999999999999,
+      "x1": 54.57599999999999,
+      "bottom": 24.767999999999997,
+      "confidence": 96.881844,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "\"4",
+      "x0": 73.728,
+      "top": 14.543999999999999,
+      "x1": 87.696,
+      "bottom": 29.087999999999997,
+      "confidence": 15.017235,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 88.55999999999999,
+      "top": 26.208,
+      "x1": 93.02399999999999,
+      "bottom": 31.104,
+      "confidence": 96.565376,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Paris",
+      "x0": 95.904,
+      "top": 26.208,
+      "x1": 109.728,
+      "bottom": 31.104,
+      "confidence": 96.47567,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Agreement,",
+      "x0": 111.88799999999999,
+      "top": 26.208,
+      "x1": 147.16799999999998,
+      "bottom": 32.4,
+      "confidence": 96.279778,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "2015",
+      "x0": 149.76,
+      "top": 26.208,
+      "x1": 164.16,
+      "bottom": 31.104,
+      "confidence": 96.216789,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "x,",
+      "x0": 73.008,
+      "top": 37.296,
+      "x1": 91.29599999999999,
+      "bottom": 52.416,
+      "confidence": 50.988609,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Montreal",
+      "x0": 95.904,
+      "top": 47.232,
+      "x1": 123.264,
+      "bottom": 52.416,
+      "confidence": 96.634537,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Protocol,",
+      "x0": 126.14399999999999,
+      "top": 47.232,
+      "x1": 152.64,
+      "bottom": 53.424,
+      "confidence": 95.383888,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "1987",
+      "x0": 155.37599999999998,
+      "top": 47.519999999999996,
+      "x1": 169.63199999999998,
+      "bottom": 52.416,
+      "confidence": 95.383888,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "x,",
+      "x0": 73.008,
+      "top": 58.751999999999995,
+      "x1": 93.024,
+      "bottom": 73.872,
+      "confidence": 52.400291,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "U.N.",
+      "x0": 95.904,
+      "top": 68.976,
+      "x1": 108.14399999999999,
+      "bottom": 73.872,
+      "confidence": 95.839233,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Convention",
+      "x0": 110.73599999999999,
+      "top": 68.832,
+      "x1": 145.00799999999998,
+      "bottom": 73.872,
+      "confidence": 96.176895,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "on",
+      "x0": 147.6,
+      "top": 70.128,
+      "x1": 154.512,
+      "bottom": 73.872,
+      "confidence": 95.409058,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Biodiversity,",
+      "x0": 157.392,
+      "top": 68.68799999999999,
+      "x1": 193.82399999999998,
+      "bottom": 75.02399999999999,
+      "confidence": 95.409058,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "1992",
+      "x0": 196.70399999999998,
+      "top": 68.976,
+      "x1": 210.81599999999997,
+      "bottom": 73.872,
+      "confidence": 97.007584,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "rad",
+      "x0": 72.43199999999999,
+      "top": 79.488,
+      "x1": 87.26399999999998,
+      "bottom": 97.2,
+      "confidence": 61.195225,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "4.",
+      "x0": 88.128,
+      "top": 90.288,
+      "x1": 93.024,
+      "bottom": 95.184,
+      "confidence": 82.774933,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Warsaw",
+      "x0": 95.472,
+      "top": 90.288,
+      "x1": 119.80799999999999,
+      "bottom": 95.184,
+      "confidence": 82.774933,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Amendment,",
+      "x0": 121.82399999999998,
+      "top": 90.0,
+      "x1": 161.27999999999997,
+      "bottom": 96.192,
+      "confidence": 94.832008,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "2013",
+      "x0": 163.87199999999999,
+      "top": 90.288,
+      "x1": 178.128,
+      "bottom": 95.184,
+      "confidence": 96.944725,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "pdf_page": 382,
+  "crop_top": 790.24137,
+  "crop_bottom": 805.68137,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0382:l0050:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.10 A Right is:",
+      "bbox": [
+        41.903999999999996,
+        4.608,
+        93.024,
+        10.943999999999999
+      ]
+    }
+  ],
+  "text": "Q.10 A Right is:",
+  "ocr_words": [
+    {
+      "text": "Q.10",
+      "x0": 41.903999999999996,
+      "top": 4.896,
+      "x1": 56.16,
+      "bottom": 10.512,
+      "confidence": 89.28389,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A",
+      "x0": 62.495999999999995,
+      "top": 4.896,
+      "x1": 66.81599999999999,
+      "bottom": 9.648,
+      "confidence": 92.314659,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Right",
+      "x0": 69.11999999999999,
+      "top": 4.608,
+      "x1": 84.672,
+      "bottom": 10.943999999999999,
+      "confidence": 92.314659,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is:",
+      "x0": 86.976,
+      "top": 4.752,
+      "x1": 93.024,
+      "bottom": 9.792,
+      "confidence": 96.153358,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review"
+  ]
+}

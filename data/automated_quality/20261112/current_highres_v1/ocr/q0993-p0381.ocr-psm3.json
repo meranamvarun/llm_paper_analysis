@@ -1,0 +1,704 @@
+{
+  "pdf_page": 381,
+  "crop_top": 36.16136000000006,
+  "crop_bottom": 124.32136000000003,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0380:l0050:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "xR",
+      "bbox": [
+        73.008,
+        2.88,
+        87.55199999999999,
+        58.175999999999995
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "1. 15% of the total number of members of the Parliament",
+      "bbox": [
+        88.55999999999999,
+        12.959999999999999,
+        263.08799999999997,
+        18.288
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "2. 15% of the total number of members of House of the People",
+      "bbox": [
+        88.27199999999999,
+        34.416,
+        279.504,
+        40.751999999999995
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "3. 15% of the total number of elected members of House of the People and Council of States",
+      "bbox": [
+        88.27199999999999,
+        55.727999999999994,
+        369.50399999999996,
+        62.20799999999999
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "x",
+      "bbox": [
+        73.008,
+        67.104,
+        86.544,
+        79.632
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "4. 15% of the total number of members of the Council of States",
+      "bbox": [
+        88.128,
+        77.03999999999999,
+        280.512,
+        82.368
+      ]
+    }
+  ],
+  "text": "xR\n1. 15% of the total number of members of the Parliament\n2. 15% of the total number of members of House of the People\n3. 15% of the total number of elected members of House of the People and Council of States\nx\n4. 15% of the total number of members of the Council of States",
+  "ocr_words": [
+    {
+      "text": "x",
+      "x0": 73.008,
+      "top": 67.104,
+      "x1": 86.544,
+      "bottom": 79.632,
+      "confidence": 0.0,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "xR",
+      "x0": 73.008,
+      "top": 2.88,
+      "x1": 87.55199999999999,
+      "bottom": 58.175999999999995,
+      "confidence": 0.0,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1.",
+      "x0": 88.55999999999999,
+      "top": 13.392,
+      "x1": 93.02399999999999,
+      "bottom": 18.144,
+      "confidence": 96.086555,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "15%",
+      "x0": 95.904,
+      "top": 13.248,
+      "x1": 108.0,
+      "bottom": 18.288,
+      "confidence": 96.454887,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 110.30399999999999,
+      "top": 12.959999999999999,
+      "x1": 116.20799999999998,
+      "bottom": 18.144,
+      "confidence": 95.87072,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 118.07999999999998,
+      "top": 13.104,
+      "x1": 127.72799999999998,
+      "bottom": 18.144,
+      "confidence": 95.87072,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "total",
+      "x0": 129.88799999999998,
+      "top": 13.104,
+      "x1": 143.56799999999998,
+      "bottom": 18.144,
+      "confidence": 96.736412,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "number",
+      "x0": 146.304,
+      "top": 13.104,
+      "x1": 169.776,
+      "bottom": 18.144,
+      "confidence": 95.845329,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 171.93599999999998,
+      "top": 12.959999999999999,
+      "x1": 177.98399999999998,
+      "bottom": 18.144,
+      "confidence": 96.179008,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "members",
+      "x0": 180.14399999999998,
+      "top": 13.104,
+      "x1": 208.224,
+      "bottom": 18.144,
+      "confidence": 96.450905,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 210.528,
+      "top": 12.959999999999999,
+      "x1": 216.576,
+      "bottom": 18.144,
+      "confidence": 95.69014,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 218.30399999999997,
+      "top": 13.104,
+      "x1": 227.95199999999997,
+      "bottom": 18.144,
+      "confidence": 95.733925,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Parliament",
+      "x0": 230.688,
+      "top": 13.104,
+      "x1": 263.08799999999997,
+      "bottom": 18.144,
+      "confidence": 96.092766,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "2.",
+      "x0": 88.27199999999999,
+      "top": 34.704,
+      "x1": 93.02399999999999,
+      "bottom": 39.456,
+      "confidence": 95.264511,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "15%",
+      "x0": 95.904,
+      "top": 34.559999999999995,
+      "x1": 108.0,
+      "bottom": 39.599999999999994,
+      "confidence": 95.264511,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 110.30399999999999,
+      "top": 34.416,
+      "x1": 116.20799999999998,
+      "bottom": 39.599999999999994,
+      "confidence": 96.964577,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 118.07999999999998,
+      "top": 34.416,
+      "x1": 127.72799999999998,
+      "bottom": 39.599999999999994,
+      "confidence": 96.937469,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "total",
+      "x0": 129.88799999999998,
+      "top": 34.416,
+      "x1": 143.56799999999998,
+      "bottom": 39.599999999999994,
+      "confidence": 96.571831,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "number",
+      "x0": 146.304,
+      "top": 34.416,
+      "x1": 169.776,
+      "bottom": 39.599999999999994,
+      "confidence": 94.687233,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 171.93599999999998,
+      "top": 34.416,
+      "x1": 177.98399999999998,
+      "bottom": 39.599999999999994,
+      "confidence": 95.208801,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "members",
+      "x0": 180.14399999999998,
+      "top": 34.416,
+      "x1": 208.224,
+      "bottom": 39.599999999999994,
+      "confidence": 95.208801,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 210.528,
+      "top": 34.416,
+      "x1": 216.576,
+      "bottom": 39.599999999999994,
+      "confidence": 96.473595,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "House",
+      "x0": 218.736,
+      "top": 34.704,
+      "x1": 237.024,
+      "bottom": 39.6,
+      "confidence": 96.420952,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 239.32799999999997,
+      "top": 34.416,
+      "x1": 245.37599999999998,
+      "bottom": 39.599999999999994,
+      "confidence": 96.857521,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 247.10399999999998,
+      "top": 34.416,
+      "x1": 256.89599999999996,
+      "bottom": 39.599999999999994,
+      "confidence": 96.740768,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "People",
+      "x0": 259.488,
+      "top": 34.416,
+      "x1": 279.504,
+      "bottom": 40.751999999999995,
+      "confidence": 96.779564,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "3.",
+      "x0": 88.27199999999999,
+      "top": 56.016,
+      "x1": 93.02399999999999,
+      "bottom": 60.912,
+      "confidence": 95.4422,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "15%",
+      "x0": 95.904,
+      "top": 56.016,
+      "x1": 108.0,
+      "bottom": 60.912,
+      "confidence": 95.4422,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 110.30399999999999,
+      "top": 55.727999999999994,
+      "x1": 116.20799999999998,
+      "bottom": 60.91199999999999,
+      "confidence": 95.976089,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 118.07999999999998,
+      "top": 55.727999999999994,
+      "x1": 127.72799999999998,
+      "bottom": 60.91199999999999,
+      "confidence": 96.894554,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "total",
+      "x0": 129.88799999999998,
+      "top": 55.727999999999994,
+      "x1": 143.56799999999998,
+      "bottom": 60.91199999999999,
+      "confidence": 96.404297,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "number",
+      "x0": 146.304,
+      "top": 55.727999999999994,
+      "x1": 169.776,
+      "bottom": 60.91199999999999,
+      "confidence": 95.683105,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 171.93599999999998,
+      "top": 55.727999999999994,
+      "x1": 177.98399999999998,
+      "bottom": 60.91199999999999,
+      "confidence": 95.817688,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "elected",
+      "x0": 179.856,
+      "top": 55.727999999999994,
+      "x1": 201.6,
+      "bottom": 60.91199999999999,
+      "confidence": 96.306091,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "members",
+      "x0": 204.33599999999998,
+      "top": 55.727999999999994,
+      "x1": 232.416,
+      "bottom": 60.91199999999999,
+      "confidence": 96.76841,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 234.71999999999997,
+      "top": 55.727999999999994,
+      "x1": 240.76799999999997,
+      "bottom": 60.91199999999999,
+      "confidence": 96.504776,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "House",
+      "x0": 243.07199999999997,
+      "top": 56.16,
+      "x1": 261.21599999999995,
+      "bottom": 60.912,
+      "confidence": 96.466087,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 263.664,
+      "top": 55.727999999999994,
+      "x1": 269.568,
+      "bottom": 60.91199999999999,
+      "confidence": 96.892982,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 271.44,
+      "top": 55.727999999999994,
+      "x1": 281.088,
+      "bottom": 60.91199999999999,
+      "confidence": 96.689156,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "People",
+      "x0": 283.82399999999996,
+      "top": 55.727999999999994,
+      "x1": 303.69599999999997,
+      "bottom": 62.20799999999999,
+      "confidence": 96.073891,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 306.14399999999995,
+      "top": 55.727999999999994,
+      "x1": 316.65599999999995,
+      "bottom": 60.91199999999999,
+      "confidence": 96.363564,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Council",
+      "x0": 319.392,
+      "top": 55.727999999999994,
+      "x1": 340.848,
+      "bottom": 60.91199999999999,
+      "confidence": 96.688438,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 343.44,
+      "top": 55.727999999999994,
+      "x1": 349.488,
+      "bottom": 60.91199999999999,
+      "confidence": 96.662598,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "States",
+      "x0": 351.35999999999996,
+      "top": 56.016,
+      "x1": 369.50399999999996,
+      "bottom": 60.912,
+      "confidence": 96.487602,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "4.",
+      "x0": 88.128,
+      "top": 77.472,
+      "x1": 93.024,
+      "bottom": 82.22399999999999,
+      "confidence": 80.869347,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "15%",
+      "x0": 95.904,
+      "top": 77.32799999999999,
+      "x1": 108.0,
+      "bottom": 82.368,
+      "confidence": 80.869347,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 110.30399999999999,
+      "top": 77.03999999999999,
+      "x1": 116.20799999999998,
+      "bottom": 82.22399999999999,
+      "confidence": 96.719238,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 118.07999999999998,
+      "top": 77.184,
+      "x1": 127.72799999999998,
+      "bottom": 82.224,
+      "confidence": 96.181389,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "total",
+      "x0": 129.88799999999998,
+      "top": 77.184,
+      "x1": 143.56799999999998,
+      "bottom": 82.224,
+      "confidence": 96.002167,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "number",
+      "x0": 146.304,
+      "top": 77.184,
+      "x1": 169.776,
+      "bottom": 82.224,
+      "confidence": 96.418549,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 171.93599999999998,
+      "top": 77.03999999999999,
+      "x1": 177.98399999999998,
+      "bottom": 82.22399999999999,
+      "confidence": 96.41037,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "members",
+      "x0": 180.14399999999998,
+      "top": 77.184,
+      "x1": 208.224,
+      "bottom": 82.224,
+      "confidence": 95.765778,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 210.528,
+      "top": 77.03999999999999,
+      "x1": 216.576,
+      "bottom": 82.22399999999999,
+      "confidence": 96.57402,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 218.30399999999997,
+      "top": 77.184,
+      "x1": 227.95199999999997,
+      "bottom": 82.224,
+      "confidence": 96.899551,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Council",
+      "x0": 230.39999999999998,
+      "top": 77.184,
+      "x1": 251.85599999999997,
+      "bottom": 82.224,
+      "confidence": 96.173576,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 254.44799999999998,
+      "top": 77.03999999999999,
+      "x1": 260.496,
+      "bottom": 82.22399999999999,
+      "confidence": 96.362587,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "States",
+      "x0": 262.368,
+      "top": 77.472,
+      "x1": 280.512,
+      "bottom": 82.22399999999999,
+      "confidence": 96.166435,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

@@ -1,0 +1,700 @@
+{
+  "pdf_page": 377,
+  "crop_top": 686.80136,
+  "crop_bottom": 787.68137,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0377:l0042:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.32 In which case the Supreme Court of India held that \"right to life\" does not include \"right to die\"?",
+      "bbox": [
+        41.94,
+        4.32,
+        361.97999999999996,
+        10.98
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "YA",
+      "bbox": [
+        73.08,
+        14.399999999999999,
+        87.66,
+        29.339999999999996
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "Ans",
+      "bbox": [
+        43.379999999999995,
+        17.64,
+        54.53999999999999,
+        22.5
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "1. Gian Kaur v. State of Punjab (1996)",
+      "bbox": [
+        88.56,
+        25.919999999999998,
+        201.24,
+        32.4
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        37.26,
+        93.06,
+        52.379999999999995
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "State of Maharashtra v. Maruti Sripati (1987)",
+      "bbox": [
+        95.58,
+        47.339999999999996,
+        231.66,
+        53.81999999999999
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        58.68,
+        93.06,
+        73.8
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "Mithu v. State of Punjab (1983)",
+      "bbox": [
+        95.94,
+        68.58,
+        190.08,
+        75.06
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        80.1,
+        93.06,
+        95.03999999999999
+      ]
+    },
+    {
+      "line_id": "l0009",
+      "text": "P. Rathinam v. Union of India (1994)",
+      "bbox": [
+        95.94,
+        90.0,
+        204.84,
+        96.3
+      ]
+    }
+  ],
+  "text": "Q.32 In which case the Supreme Court of India held that \"right to life\" does not include \"right to die\"?\nYA\nAns\n1. Gian Kaur v. State of Punjab (1996)\nx,\nState of Maharashtra v. Maruti Sripati (1987)\nx,\nMithu v. State of Punjab (1983)\nx,\nP. Rathinam v. Union of India (1994)",
+  "ocr_words": [
+    {
+      "text": "Q.32",
+      "x0": 41.94,
+      "top": 4.68,
+      "x1": 55.98,
+      "bottom": 10.44,
+      "confidence": 36.51981,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "In",
+      "x0": 62.82,
+      "top": 4.859999999999999,
+      "x1": 68.04,
+      "bottom": 9.54,
+      "confidence": 31.772308,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "which",
+      "x0": 70.2,
+      "top": 4.5,
+      "x1": 88.38,
+      "bottom": 9.719999999999999,
+      "confidence": 93.961487,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "case",
+      "x0": 90.72,
+      "top": 5.9399999999999995,
+      "x1": 103.67999999999999,
+      "bottom": 9.719999999999999,
+      "confidence": 96.005272,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 105.83999999999999,
+      "top": 4.5,
+      "x1": 115.74,
+      "bottom": 9.719999999999999,
+      "confidence": 96.563423,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Supreme",
+      "x0": 118.08,
+      "top": 4.68,
+      "x1": 145.44,
+      "bottom": 10.98,
+      "confidence": 96.747459,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Court",
+      "x0": 147.6,
+      "top": 4.68,
+      "x1": 164.51999999999998,
+      "bottom": 9.719999999999999,
+      "confidence": 96.892349,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 166.68,
+      "top": 4.5,
+      "x1": 172.8,
+      "bottom": 9.719999999999999,
+      "confidence": 96.674568,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "India",
+      "x0": 174.95999999999998,
+      "top": 4.5,
+      "x1": 189.71999999999997,
+      "bottom": 9.719999999999999,
+      "confidence": 96.183929,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "held",
+      "x0": 192.23999999999998,
+      "top": 4.5,
+      "x1": 205.01999999999998,
+      "bottom": 9.719999999999999,
+      "confidence": 96.944366,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "that",
+      "x0": 207.17999999999998,
+      "top": 4.5,
+      "x1": 219.95999999999998,
+      "bottom": 9.719999999999999,
+      "confidence": 96.333534,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "\"right",
+      "x0": 222.29999999999998,
+      "top": 4.5,
+      "x1": 239.57999999999998,
+      "bottom": 10.98,
+      "confidence": 96.644875,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 241.56,
+      "top": 5.04,
+      "x1": 247.86,
+      "bottom": 9.719999999999999,
+      "confidence": 96.953636,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "life\"",
+      "x0": 250.2,
+      "top": 4.32,
+      "x1": 262.26,
+      "bottom": 9.719999999999999,
+      "confidence": 96.233871,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "does",
+      "x0": 264.96,
+      "top": 4.5,
+      "x1": 279.17999999999995,
+      "bottom": 9.719999999999999,
+      "confidence": 96.233871,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "not",
+      "x0": 281.52,
+      "top": 5.04,
+      "x1": 291.59999999999997,
+      "bottom": 9.719999999999999,
+      "confidence": 96.016968,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "include",
+      "x0": 293.94,
+      "top": 4.5,
+      "x1": 315.9,
+      "bottom": 9.719999999999999,
+      "confidence": 96.160645,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "\"right",
+      "x0": 318.24,
+      "top": 4.32,
+      "x1": 335.7,
+      "bottom": 10.98,
+      "confidence": 96.602646,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 337.68,
+      "top": 5.04,
+      "x1": 343.98,
+      "bottom": 9.719999999999999,
+      "confidence": 96.555756,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "die\"?",
+      "x0": 346.14,
+      "top": 4.5,
+      "x1": 361.97999999999996,
+      "bottom": 9.719999999999999,
+      "confidence": 96.555756,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.379999999999995,
+      "top": 17.64,
+      "x1": 54.53999999999999,
+      "bottom": 22.5,
+      "confidence": 96.179474,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "YA",
+      "x0": 73.08,
+      "top": 14.399999999999999,
+      "x1": 87.66,
+      "bottom": 29.339999999999996,
+      "confidence": 15.682007,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 88.56,
+      "top": 26.279999999999998,
+      "x1": 93.06,
+      "bottom": 30.959999999999997,
+      "confidence": 96.823555,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Gian",
+      "x0": 95.58,
+      "top": 26.099999999999998,
+      "x1": 108.72,
+      "bottom": 31.139999999999997,
+      "confidence": 96.9049,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Kaur",
+      "x0": 111.6,
+      "top": 26.279999999999998,
+      "x1": 124.91999999999999,
+      "bottom": 31.139999999999997,
+      "confidence": 92.923637,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "v.",
+      "x0": 126.89999999999999,
+      "top": 27.54,
+      "x1": 131.39999999999998,
+      "bottom": 30.96,
+      "confidence": 92.923637,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "State",
+      "x0": 133.92,
+      "top": 26.099999999999998,
+      "x1": 149.04,
+      "bottom": 31.139999999999997,
+      "confidence": 96.47419,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 151.56,
+      "top": 25.919999999999998,
+      "x1": 157.5,
+      "bottom": 31.139999999999997,
+      "confidence": 96.279999,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Punjab",
+      "x0": 159.66,
+      "top": 25.919999999999998,
+      "x1": 179.82,
+      "bottom": 32.4,
+      "confidence": 96.041328,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "(1996)",
+      "x0": 182.34,
+      "top": 25.919999999999998,
+      "x1": 201.24,
+      "bottom": 32.22,
+      "confidence": 96.64994,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 37.26,
+      "x1": 93.06,
+      "bottom": 52.379999999999995,
+      "confidence": 59.950447,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "State",
+      "x0": 95.58,
+      "top": 47.519999999999996,
+      "x1": 110.7,
+      "bottom": 52.559999999999995,
+      "confidence": 96.679779,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "of",
+      "x0": 113.03999999999999,
+      "top": 47.339999999999996,
+      "x1": 119.16,
+      "bottom": 52.559999999999995,
+      "confidence": 96.923363,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Maharashtra",
+      "x0": 121.32,
+      "top": 47.339999999999996,
+      "x1": 159.48,
+      "bottom": 52.559999999999995,
+      "confidence": 92.864838,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "v.",
+      "x0": 161.82,
+      "top": 48.96,
+      "x1": 166.5,
+      "bottom": 52.38,
+      "confidence": 92.51915,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Maruti",
+      "x0": 169.38,
+      "top": 47.519999999999996,
+      "x1": 189.0,
+      "bottom": 52.559999999999995,
+      "confidence": 93.246101,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Sripati",
+      "x0": 191.51999999999998,
+      "top": 47.519999999999996,
+      "x1": 210.23999999999998,
+      "bottom": 53.81999999999999,
+      "confidence": 92.006889,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(1987)",
+      "x0": 212.94,
+      "top": 47.339999999999996,
+      "x1": 231.66,
+      "bottom": 53.63999999999999,
+      "confidence": 96.864899,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 58.68,
+      "x1": 93.06,
+      "bottom": 73.8,
+      "confidence": 41.729046,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Mithu",
+      "x0": 95.94,
+      "top": 68.58,
+      "x1": 113.22,
+      "bottom": 73.8,
+      "confidence": 90.583282,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "v.",
+      "x0": 115.56,
+      "top": 70.2,
+      "x1": 120.24000000000001,
+      "bottom": 73.62,
+      "confidence": 92.441933,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "State",
+      "x0": 122.75999999999999,
+      "top": 68.75999999999999,
+      "x1": 137.88,
+      "bottom": 73.8,
+      "confidence": 96.443161,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "of",
+      "x0": 140.22,
+      "top": 68.58,
+      "x1": 146.34,
+      "bottom": 73.8,
+      "confidence": 96.438438,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Punjab",
+      "x0": 148.5,
+      "top": 68.58,
+      "x1": 168.66,
+      "bottom": 75.06,
+      "confidence": 95.76564,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "(1983)",
+      "x0": 171.18,
+      "top": 68.58,
+      "x1": 190.08,
+      "bottom": 74.88,
+      "confidence": 95.629745,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 80.1,
+      "x1": 93.06,
+      "bottom": 95.03999999999999,
+      "confidence": 50.112343,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "P.",
+      "x0": 95.94,
+      "top": 90.36,
+      "x1": 100.44,
+      "bottom": 95.03999999999999,
+      "confidence": 90.567871,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Rathinam",
+      "x0": 103.32,
+      "top": 90.0,
+      "x1": 131.57999999999998,
+      "bottom": 95.22,
+      "confidence": 90.658981,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "v.",
+      "x0": 133.92,
+      "top": 91.61999999999999,
+      "x1": 138.42,
+      "bottom": 95.03999999999999,
+      "confidence": 92.446297,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Union",
+      "x0": 141.29999999999998,
+      "top": 90.17999999999999,
+      "x1": 158.57999999999998,
+      "bottom": 95.22,
+      "confidence": 95.86235,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "of",
+      "x0": 161.1,
+      "top": 90.0,
+      "x1": 167.22,
+      "bottom": 95.22,
+      "confidence": 95.86235,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "India",
+      "x0": 169.38,
+      "top": 90.0,
+      "x1": 183.42,
+      "bottom": 95.22,
+      "confidence": 96.14077,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "(1994)",
+      "x0": 186.12,
+      "top": 90.0,
+      "x1": 204.84,
+      "bottom": 96.3,
+      "confidence": 95.691536,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

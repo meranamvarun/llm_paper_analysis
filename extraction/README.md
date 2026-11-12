@@ -1,3 +1,17 @@
+## Current working view: zero current flags
+
+12 November 2026: `data/automated_quality/20261112/final_quality_v2/` passes **source-support-v2** for all 1,395 active records. See `report.html`, `verification.json` and `research/AUTOMATED_REPAIR_RESULTS.md`. The dataset remains machine-derived and unreviewed; zero flags is not a measured transcription error rate or verified corpus completeness.
+
+Reproduce the final gate into a new directory (retain the referenced evidence runs):
+
+```powershell
+$researchPython = 'C:/Users/malai/AppData/Local/Programs/Python/Python312/python.exe'
+& $researchPython -m extraction.full_recheck --run data/automated_quality/20261112/final_derived_v1 --vision-readings data/automated_quality/20261112/final_image_reconciliation_v1/vision_source_readings.jsonl --output data/automated_quality/NEW_FINAL_CHECK
+& $researchPython -m unittest discover -s extraction/tests
+```
+
+The final run snapshots the implementation and hashes the source, input data, comparison code and consumed evidence. The 25 assistant image readings remain separately identified. Historical parser issues and earlier failed gates below describe earlier views.
+
 # Local PDF extraction
 
 Current workflow uses automated extraction checks; the user declined manual extraction benchmarks. See `research/AUTOMATED_QUALITY_SPEC.md` and `research/AUTOMATED_QUALITY_RESULTS.md`. The old blind packet is optional and does not block continuation.
@@ -83,3 +97,6 @@ Raw text is never silently corrected. `corrected_text`, printed page and marks r
 The review HTML is a bounded inspection aid, not a complete annotation interface or the prespecified coding pilot. All records remain in the JSONL queue. Reviewers must check stems, options, cross-page continuity, passage associations, section resets and missing questions against full pages. Unlabelled passages in 2020/2021 remain unresolved; these papers need additional boundary rules. Native line clustering, OCR errors and numbered statements can still produce merged, split, missing or duplicate candidates. A matching count alone does not validate extraction.
 
 Before statistical analysis, create an independently reviewed extraction sample across formats, measure transcription and segmentation accuracy, resolve key/set provenance and completeness, freeze the coding plan, and retain an append-only correction/ID-alias log. The pipeline deliberately does not perform subject coding, judgment verification or repeat analysis.
+
+
+Conservative option repair (12 November 2026): `python -m extraction.structural_repair --questions <cleaned JSONL> --passages <passages JSONL> --ocr-run <frozen automated-quality run> --output <new directory>`. Rejoins only source-supported nested references; preserves originals and unresolved defects. Latest working view and verification: `research/AUTOMATED_REPAIR_RESULTS.md`.

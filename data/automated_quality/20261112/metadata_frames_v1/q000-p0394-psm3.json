@@ -1,0 +1,330 @@
+{
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0394:l0044:question",
+  "year_label": 2016,
+  "number": "25",
+  "pdf_page": 394,
+  "crop_top": 708.1613600000001,
+  "crop_bottom": 842.0,
+  "start_anchor": {
+    "pdf_page": 394,
+    "line_id": "l0044",
+    "bbox": [
+      41.64453,
+      712.1613600000001,
+      294.6454519999995,
+      719.60136
+    ]
+  },
+  "following_anchor": {
+    "pdf_page": 395,
+    "line_id": "l0004",
+    "bbox": [
+      41.64453,
+      100.16136000000006,
+      247.6536679999998,
+      107.60136
+    ]
+  },
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.25 India acceded to the International Covenant on Civil and Political Rights in:",
+      "bbox": [
+        41.903999999999996,
+        4.608,
+        294.19199999999995,
+        10.943999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Ans XX",
+      "bbox": [
+        43.343999999999994,
+        15.983999999999998,
+        86.544,
+        49.96799999999999
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "1. 1972",
+      "bbox": [
+        88.55999999999999,
+        26.208,
+        110.01599999999999,
+        31.104
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "2. 1966",
+      "bbox": [
+        88.27199999999999,
+        47.663999999999994,
+        110.16,
+        52.416
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "q",
+      "bbox": [
+        73.728,
+        60.336,
+        87.55199999999999,
+        71.28
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "3.1979",
+      "bbox": [
+        88.27199999999999,
+        68.976,
+        110.16,
+        73.872
+      ]
+    }
+  ],
+  "text": "Q.25 India acceded to the International Covenant on Civil and Political Rights in:\nAns XX\n1. 1972\n2. 1966\nq\n3.1979",
+  "ocr_words": [
+    {
+      "text": "Q.25",
+      "x0": 41.903999999999996,
+      "top": 4.896,
+      "x1": 56.01599999999999,
+      "bottom": 10.512,
+      "confidence": 92.29837,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "India",
+      "x0": 62.928,
+      "top": 4.608,
+      "x1": 77.472,
+      "bottom": 9.791999999999998,
+      "confidence": 94.88028,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "acceded",
+      "x0": 79.91999999999999,
+      "top": 4.608,
+      "x1": 104.832,
+      "bottom": 9.791999999999998,
+      "confidence": 94.88028,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 106.99199999999999,
+      "top": 5.327999999999999,
+      "x1": 113.32799999999999,
+      "bottom": 9.791999999999998,
+      "confidence": 95.634056,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 115.344,
+      "top": 4.608,
+      "x1": 125.42399999999999,
+      "bottom": 9.791999999999998,
+      "confidence": 96.670586,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "International",
+      "x0": 127.87199999999999,
+      "top": 4.608,
+      "x1": 167.76,
+      "bottom": 9.791999999999998,
+      "confidence": 96.107964,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Covenant",
+      "x0": 170.208,
+      "top": 4.896,
+      "x1": 199.44,
+      "bottom": 9.792,
+      "confidence": 96.137764,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "on",
+      "x0": 201.6,
+      "top": 6.047999999999999,
+      "x1": 208.944,
+      "bottom": 9.791999999999998,
+      "confidence": 96.68338,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Civil",
+      "x0": 211.392,
+      "top": 4.608,
+      "x1": 223.632,
+      "bottom": 9.791999999999998,
+      "confidence": 96.065712,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 226.07999999999998,
+      "top": 4.608,
+      "x1": 237.02399999999997,
+      "bottom": 9.791999999999998,
+      "confidence": 96.879173,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Political",
+      "x0": 239.76,
+      "top": 4.608,
+      "x1": 263.664,
+      "bottom": 9.791999999999998,
+      "confidence": 96.558327,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Rights",
+      "x0": 266.256,
+      "top": 4.608,
+      "x1": 284.832,
+      "bottom": 10.943999999999999,
+      "confidence": 96.389603,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in:",
+      "x0": 287.13599999999997,
+      "top": 4.752,
+      "x1": 294.19199999999995,
+      "bottom": 9.648,
+      "confidence": 96.945053,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.343999999999994,
+      "top": 17.567999999999998,
+      "x1": 54.57599999999999,
+      "bottom": 22.464,
+      "confidence": 96.438728,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1.",
+      "x0": 88.55999999999999,
+      "top": 26.208,
+      "x1": 93.02399999999999,
+      "bottom": 31.104,
+      "confidence": 77.198898,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1972",
+      "x0": 95.904,
+      "top": 26.208,
+      "x1": 110.01599999999999,
+      "bottom": 31.104,
+      "confidence": 77.198898,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "2.",
+      "x0": 88.27199999999999,
+      "top": 47.663999999999994,
+      "x1": 93.02399999999999,
+      "bottom": 52.416,
+      "confidence": 84.865189,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1966",
+      "x0": 95.904,
+      "top": 47.663999999999994,
+      "x1": 110.16,
+      "bottom": 52.416,
+      "confidence": 84.865189,
+      "ocr_block": "3",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "q",
+      "x0": 73.728,
+      "top": 60.336,
+      "x1": 87.55199999999999,
+      "bottom": 71.28,
+      "confidence": 83.450264,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "XX",
+      "x0": 73.008,
+      "top": 15.983999999999998,
+      "x1": 86.544,
+      "bottom": 49.96799999999999,
+      "confidence": 33.459038,
+      "ocr_block": "4",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "3.1979",
+      "x0": 88.27199999999999,
+      "top": 68.976,
+      "x1": 110.16,
+      "bottom": 73.872,
+      "confidence": 80.004776,
+      "ocr_block": "5",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

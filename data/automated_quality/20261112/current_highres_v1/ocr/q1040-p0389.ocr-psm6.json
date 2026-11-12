@@ -1,0 +1,359 @@
+{
+  "pdf_page": 389,
+  "crop_top": 459.76135999999997,
+  "crop_bottom": 560.64136,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0389:l0028:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.46 Whois the propounder of \"Bracket theory\" of personality?",
+      "bbox": [
+        41.903999999999996,
+        4.4639999999999995,
+        245.23199999999997,
+        10.943999999999999
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "\"4",
+      "bbox": [
+        73.728,
+        14.543999999999999,
+        87.696,
+        29.087999999999997
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "Ans",
+      "bbox": [
+        43.343999999999994,
+        17.567999999999998,
+        54.57599999999999,
+        22.464
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "1. Ihering",
+      "bbox": [
+        88.55999999999999,
+        25.919999999999998,
+        116.496,
+        32.256
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "rd",
+      "bbox": [
+        72.43199999999999,
+        36.72,
+        86.54399999999998,
+        54.432
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "2. Baker",
+      "bbox": [
+        88.27199999999999,
+        47.232,
+        112.60799999999999,
+        52.416
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "rad",
+      "bbox": [
+        72.43199999999999,
+        58.032,
+        87.11999999999999,
+        75.6
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "3. Savigny",
+      "bbox": [
+        88.27199999999999,
+        68.832,
+        118.08,
+        75.02399999999999
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "rad",
+      "bbox": [
+        72.43199999999999,
+        79.488,
+        87.11999999999999,
+        97.056
+      ]
+    },
+    {
+      "line_id": "l0009",
+      "text": "4. Salmond",
+      "bbox": [
+        88.128,
+        90.0,
+        121.24799999999999,
+        95.184
+      ]
+    }
+  ],
+  "text": "Q.46 Whois the propounder of \"Bracket theory\" of personality?\n\"4\nAns\n1. Ihering\nrd\n2. Baker\nrad\n3. Savigny\nrad\n4. Salmond",
+  "ocr_words": [
+    {
+      "text": "Q.46",
+      "x0": 41.903999999999996,
+      "top": 4.752,
+      "x1": 56.16,
+      "bottom": 10.512,
+      "confidence": 91.618011,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Whois",
+      "x0": 62.495999999999995,
+      "top": 4.608,
+      "x1": 83.52,
+      "bottom": 9.648,
+      "confidence": 83.985291,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 85.53599999999999,
+      "top": 4.608,
+      "x1": 95.61599999999999,
+      "bottom": 9.648,
+      "confidence": 92.974297,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "propounder",
+      "x0": 98.064,
+      "top": 4.608,
+      "x1": 134.784,
+      "bottom": 10.943999999999999,
+      "confidence": 89.69783,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 136.79999999999998,
+      "top": 4.4639999999999995,
+      "x1": 142.992,
+      "bottom": 9.648,
+      "confidence": 95.623146,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "\"Bracket",
+      "x0": 145.00799999999998,
+      "top": 4.4639999999999995,
+      "x1": 171.35999999999999,
+      "bottom": 9.648,
+      "confidence": 95.623146,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "theory\"",
+      "x0": 173.37599999999998,
+      "top": 4.4639999999999995,
+      "x1": 196.55999999999997,
+      "bottom": 10.943999999999999,
+      "confidence": 96.201485,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 199.152,
+      "top": 4.4639999999999995,
+      "x1": 205.344,
+      "bottom": 9.648,
+      "confidence": 96.851784,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "personality?",
+      "x0": 207.504,
+      "top": 4.608,
+      "x1": 245.23199999999997,
+      "bottom": 10.943999999999999,
+      "confidence": 96.194458,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.343999999999994,
+      "top": 17.567999999999998,
+      "x1": 54.57599999999999,
+      "bottom": 22.464,
+      "confidence": 96.257248,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "\"4",
+      "x0": 73.728,
+      "top": 14.543999999999999,
+      "x1": 87.696,
+      "bottom": 29.087999999999997,
+      "confidence": 15.017235,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "1.",
+      "x0": 88.55999999999999,
+      "top": 26.208,
+      "x1": 93.02399999999999,
+      "bottom": 30.959999999999997,
+      "confidence": 96.668312,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Ihering",
+      "x0": 95.904,
+      "top": 25.919999999999998,
+      "x1": 116.496,
+      "bottom": 32.256,
+      "confidence": 84.427826,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "rd",
+      "x0": 72.43199999999999,
+      "top": 36.72,
+      "x1": 86.54399999999998,
+      "bottom": 54.432,
+      "confidence": 64.763062,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "2.",
+      "x0": 88.27199999999999,
+      "top": 47.519999999999996,
+      "x1": 93.02399999999999,
+      "bottom": 52.416,
+      "confidence": 95.807213,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Baker",
+      "x0": 95.904,
+      "top": 47.232,
+      "x1": 112.60799999999999,
+      "bottom": 52.416,
+      "confidence": 96.911308,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "rad",
+      "x0": 72.43199999999999,
+      "top": 58.032,
+      "x1": 87.11999999999999,
+      "bottom": 75.6,
+      "confidence": 36.767387,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "3.",
+      "x0": 88.27199999999999,
+      "top": 68.976,
+      "x1": 93.02399999999999,
+      "bottom": 73.728,
+      "confidence": 91.900574,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Savigny",
+      "x0": 95.616,
+      "top": 68.832,
+      "x1": 118.08,
+      "bottom": 75.02399999999999,
+      "confidence": 91.751923,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "rad",
+      "x0": 72.43199999999999,
+      "top": 79.488,
+      "x1": 87.11999999999999,
+      "bottom": 97.056,
+      "confidence": 56.093941,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "4.",
+      "x0": 88.128,
+      "top": 90.288,
+      "x1": 93.024,
+      "bottom": 95.03999999999999,
+      "confidence": 96.765366,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "Salmond",
+      "x0": 95.616,
+      "top": 90.0,
+      "x1": 121.24799999999999,
+      "bottom": 95.184,
+      "confidence": 96.635193,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "inputs": {
+    "data\\automated_quality\\20261112\\full_recheck_v3\\questions.jsonl": "dbce2c6c31b3401794e490a3df5ed6f8eb229b95385bbc6d3128e0d438d9f798",
+    "data\\automated_quality\\20261112\\full_recheck_v3\\source_readings.jsonl": "802ec0eb4cfe8cc59e02cea6e5ca315484fc5e331c6e96f09cabc2860b7569bc",
+    "data\\automated_quality\\20261112\\full_recheck_v3\\manifest.json": "136f698e46c3018f801b9a8a1af232e85711b14bde0131eaf4810483ca09eb88",
+    "C:\\Users\\malai\\varun_code\\llm_paper_analysis\\data\\automated_quality\\20261112\\apply_final_image_readings.py": "078dda3641a59f0709529ec76f3a2b88d87e2ca181f45ba08d88980597fc36f7",
+    "extraction\\image_repairs.py": "5de53360b2bcc381837cb13777466d776988d9b00f8af476e5064a8c8fcc4ec9",
+    "data\\automated_quality\\20261112\\source_review\\p0045.png": "cc5cbcbc11103c705deabfc3b4c3360f593e637b75a945cb4dc54e3945c05ecd",
+    "data\\automated_quality\\20261112\\final_image_review\\2022-q009.png": "66482fedf87ad861201be0ca5f763ce56a75c8d812ce2ae4205b546fcf14a8b3",
+    "data\\automated_quality\\20261112\\final_image_review\\2022-q028.png": "67a87ad7c9d8463b6d499d22f769af6e4c76b10a243e7ff14a1d5c8844715567",
+    "data\\automated_quality\\20261112\\final_image_review\\2022-q032.png": "f60a73cfa519c8046e8872f20c5b96a917fe28b7ea7d01aa3a3d333f175f70ea",
+    "data\\automated_quality\\20261112\\final_image_review\\2022-q039.png": "2c989e498e825b08976f608071439c46646103494ad21ffacaf946940d16bc88",
+    "data\\automated_quality\\20261112\\final_image_review\\2022-q049.png": "feadf4804f33030b91c9cd22da42da93261e2dc50f77f085c1a365b4981ef462",
+    "data\\automated_quality\\20261112\\final_image_review\\2022-q054.png": "b3cc3dc537c0d96a8e3675c8de8cc2433e1553d5fec75e64088673323fc0cdfe",
+    "data\\automated_quality\\20261112\\final_image_review\\2022-q055.png": "3f8e48ff5916d5b133c44d9479bfa0d6e359960cdb62228f1d54c5ccce2d117f",
+    "data\\automated_quality\\20261112\\final_image_review\\2022-q063.png": "9ebc61483a886264c4c26cb2dbb6cc6146280882ab1cfcd788def12b8e7420f5",
+    "data\\automated_quality\\20261112\\final_image_review\\2022-q066.png": "01f959384dd9e9f5e0644c4920f9c3dc33f42ba37f7864993e267d5085f56ce7",
+    "data\\automated_quality\\20261112\\final_image_review\\2022-q073.png": "4e1d2735706fbe3e7a19d8f72a9a1be3004de641670a7ba26430f28807018037",
+    "data\\automated_quality\\20261112\\final_image_review\\2022-q082.png": "d997fdd15ab98304e2bebddce14421a6bab993c76653e79f2ee49a56174fb2fc",
+    "data\\automated_quality\\20261112\\final_image_review\\2022-q084.png": "03a47864386d53379eaa0d838a1c09ee94b28533dbfce5a1764c4aa9d014037c",
+    "data\\automated_quality\\20261112\\final_image_review\\2022-q116.png": "b6a52057735ed04c76eb532ff7403099d901da525ef11056cba3b1db4c883265",
+    "data\\automated_quality\\20261112\\final_image_review\\2017-q008.png": "50d3f4fe6c712fc5200d9e1366401c76069ddec36fede0e8b4852bdc185e402a",
+    "data\\automated_quality\\20261112\\final_image_review\\2017-q013.png": "bfaf00afcd53a36ee16153796f32b91cf211973a155c9c4221cf12220fcfde0c",
+    "data\\automated_quality\\20261112\\final_image_review\\2017-q018.png": "c6f392df4bd5420edba581a7264bc7e48358d27616b77dce2524929918a9e604",
+    "data\\automated_quality\\20261112\\final_image_review\\2017-q024.png": "4ca135f676c619e9e219b26df72428edabc4c6f86fb0df1e36578d5299d08a14",
+    "data\\automated_quality\\20261112\\final_image_review\\2017-q089.png": "ec5267efcd3fbd40c85893d4cd0348b27d44b6a04e872fdd17620326730ed98c",
+    "data\\automated_quality\\20261112\\final_image_review\\2017-q103.png": "7bd469abd14b5179ef7ee21c843461e648901837403ff6df99c481466b7889e8",
+    "data\\automated_quality\\20261112\\final_image_review\\2017-q117.png": "b1bdbb4c62e97c7061415324e437e3f767a0d9e8e24b4bf5b5f1b926569b9f49",
+    "data\\automated_quality\\20261112\\final_image_review\\2017-q121.png": "4a14461336f079c6883eb1f6ac71589317e96598a37426b20df7e42a9ed09b96",
+    "data\\automated_quality\\20261112\\final_image_review\\2017-q122.png": "fa02a9ea0600bb230f4f3d32ad121938de06bb26ed0d1e83a552c5186a6268d5",
+    "data\\automated_quality\\20261112\\final_image_review\\2017-q126.png": "175043b888198dd57b455939f1223572e9ccd0346483da3f800d6ca30bc8af86",
+    "data\\automated_quality\\20261112\\final_image_review\\2017-q147.png": "d5623c84f78196f1732fe4ac7a9434b3ee0433cb9f89ae3c67a62cd1cc9d7434"
+  },
+  "outputs": {
+    "abstentions.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "passages.jsonl": "96263ad11caeef59d8178f2db9c016b8c5289fb3bffc7a5cfd4638a34a49f053",
+    "questions.jsonl": "eb58791bdb34325630d158ccd30a9f93ee2cc708a12ccf58270937e856190415",
+    "repairs.jsonl": "34b1fbe1c962c8d5ff7f362e9ced002abe9d840cebc0d4fc9b41f432fa353c16",
+    "structural_findings.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "summary.json": "6136fae566698d1573110c2c30beda85b6fb462c66cbcf502ed9229a6c00cb0b",
+    "vision_source_readings.jsonl": "8000b3d05a743f641f10d9107ff4664f5eec7a44aee384d0c5802bc066f75c33"
+  }
+}

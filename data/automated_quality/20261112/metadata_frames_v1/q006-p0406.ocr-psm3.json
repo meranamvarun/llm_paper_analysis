@@ -1,0 +1,212 @@
+{
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0405:l0049:question",
+  "year_label": 2017,
+  "number": "24",
+  "pdf_page": 406,
+  "crop_top": 0,
+  "crop_bottom": 81.28,
+  "start_anchor": {
+    "pdf_page": 405,
+    "line_id": "l0049",
+    "bbox": [
+      37.68,
+      687.6,
+      548.88,
+      696.0
+    ]
+  },
+  "following_anchor": {
+    "pdf_page": 406,
+    "line_id": "l0003",
+    "bbox": [
+      37.68,
+      83.28,
+      548.88,
+      91.68
+    ]
+  },
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "2 *® UK Constitution",
+      "bbox": [
+        38.303999999999995,
+        13.68,
+        140.39999999999998,
+        23.04
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "3. ® US Constitution",
+      "bbox": [
+        38.303999999999995,
+        31.679999999999996,
+        138.95999999999998,
+        41.03999999999999
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "4 *® Constitution of Ireland",
+      "bbox": [
+        38.303999999999995,
+        49.68,
+        173.37599999999998,
+        59.04
+      ]
+    }
+  ],
+  "text": "2 *® UK Constitution\n3. ® US Constitution\n4 *® Constitution of Ireland",
+  "ocr_words": [
+    {
+      "text": "2",
+      "x0": 38.303999999999995,
+      "top": 15.839999999999998,
+      "x1": 45.50399999999999,
+      "bottom": 23.04,
+      "confidence": 66.292648,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "*®",
+      "x0": 51.983999999999995,
+      "top": 13.68,
+      "x1": 58.46399999999999,
+      "bottom": 20.16,
+      "confidence": 46.621422,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "UK",
+      "x0": 64.22399999999999,
+      "top": 15.839999999999998,
+      "x1": 77.75999999999999,
+      "bottom": 23.04,
+      "confidence": 74.0345,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Constitution",
+      "x0": 81.36,
+      "top": 15.839999999999998,
+      "x1": 140.39999999999998,
+      "bottom": 23.04,
+      "confidence": 94.333542,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "3.",
+      "x0": 38.303999999999995,
+      "top": 33.839999999999996,
+      "x1": 45.50399999999999,
+      "bottom": 41.03999999999999,
+      "confidence": 71.100281,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "®",
+      "x0": 51.983999999999995,
+      "top": 31.679999999999996,
+      "x1": 58.46399999999999,
+      "bottom": 38.16,
+      "confidence": 36.207424,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "US",
+      "x0": 64.22399999999999,
+      "top": 33.839999999999996,
+      "x1": 75.6,
+      "bottom": 41.03999999999999,
+      "confidence": 66.890137,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Constitution",
+      "x0": 79.91999999999999,
+      "top": 33.839999999999996,
+      "x1": 138.95999999999998,
+      "bottom": 41.03999999999999,
+      "confidence": 96.108444,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "4",
+      "x0": 38.303999999999995,
+      "top": 51.839999999999996,
+      "x1": 45.50399999999999,
+      "bottom": 59.03999999999999,
+      "confidence": 80.123703,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "*®",
+      "x0": 51.983999999999995,
+      "top": 49.68,
+      "x1": 58.46399999999999,
+      "bottom": 56.16,
+      "confidence": 53.559132,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Constitution",
+      "x0": 64.22399999999999,
+      "top": 51.839999999999996,
+      "x1": 123.11999999999998,
+      "bottom": 59.03999999999999,
+      "confidence": 95.86792,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 126.71999999999998,
+      "top": 51.12,
+      "x1": 136.79999999999998,
+      "bottom": 59.04,
+      "confidence": 96.286491,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ireland",
+      "x0": 139.67999999999998,
+      "top": 51.839999999999996,
+      "x1": 173.37599999999998,
+      "bottom": 59.03999999999999,
+      "confidence": 95.339813,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

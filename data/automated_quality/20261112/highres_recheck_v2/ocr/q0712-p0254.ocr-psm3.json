@@ -1,0 +1,878 @@
+{
+  "pdf_page": 254,
+  "crop_top": 381.102,
+  "crop_bottom": 507.7819999999999,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0254:l0020:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "106. Expression ‘any person accused of offence and in custody’ used in Section 439 of the",
+      "bbox": [
+        73.44,
+        5.04,
+        515.16,
+        16.02
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Code of Criminal Procedure means",
+      "bbox": [
+        94.14,
+        18.72,
+        263.34,
+        27.18
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "(A) A person who has been arrested and remanded to police custody.",
+      "bbox": [
+        100.44,
+        34.74,
+        432.72,
+        45.72
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "(B) A person who has been arrested and remanded to judicial custody.",
+      "bbox": [
+        100.44,
+        50.76,
+        438.48,
+        61.56
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "(C) A person who is accused of bailableoffence and surrenders before the Sessions court",
+      "bbox": [
+        100.61999999999999,
+        65.88,
+        521.64,
+        76.86
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "for the purposes of bail.",
+      "bbox": [
+        122.22,
+        80.28,
+        236.16,
+        91.25999999999999
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "(D) All of these.",
+      "bbox": [
+        100.44,
+        95.58,
+        180.9,
+        106.38
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "CORRECT OPTION: D",
+      "bbox": [
+        72.53999999999999,
+        111.96,
+        197.45999999999998,
+        120.24
+      ]
+    }
+  ],
+  "text": "106. Expression ‘any person accused of offence and in custody’ used in Section 439 of the\nCode of Criminal Procedure means\n(A) A person who has been arrested and remanded to police custody.\n(B) A person who has been arrested and remanded to judicial custody.\n(C) A person who is accused of bailableoffence and surrenders before the Sessions court\nfor the purposes of bail.\n(D) All of these.\nCORRECT OPTION: D",
+  "ocr_words": [
+    {
+      "text": "106.",
+      "x0": 73.44,
+      "top": 5.3999999999999995,
+      "x1": 90.36,
+      "bottom": 13.68,
+      "confidence": 96.139458,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Expression",
+      "x0": 93.96,
+      "top": 5.04,
+      "x1": 147.78,
+      "bottom": 16.02,
+      "confidence": 96.517288,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "‘any",
+      "x0": 152.28,
+      "top": 5.3999999999999995,
+      "x1": 172.8,
+      "bottom": 16.02,
+      "confidence": 95.523666,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "person",
+      "x0": 176.04,
+      "top": 7.92,
+      "x1": 208.62,
+      "bottom": 16.02,
+      "confidence": 96.348785,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "accused",
+      "x0": 212.57999999999998,
+      "top": 5.04,
+      "x1": 251.45999999999998,
+      "bottom": 13.68,
+      "confidence": 96.364464,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 255.42,
+      "top": 5.04,
+      "x1": 266.21999999999997,
+      "bottom": 13.68,
+      "confidence": 96.126549,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "offence",
+      "x0": 268.74,
+      "top": 5.04,
+      "x1": 305.28000000000003,
+      "bottom": 13.68,
+      "confidence": 96.168442,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 309.59999999999997,
+      "top": 5.04,
+      "x1": 326.88,
+      "bottom": 13.68,
+      "confidence": 96.582848,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 330.84,
+      "top": 5.04,
+      "x1": 339.65999999999997,
+      "bottom": 13.5,
+      "confidence": 96.400673,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "custody’",
+      "x0": 343.08,
+      "top": 5.04,
+      "x1": 384.12,
+      "bottom": 16.02,
+      "confidence": 94.868927,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "used",
+      "x0": 388.8,
+      "top": 5.04,
+      "x1": 411.12,
+      "bottom": 13.68,
+      "confidence": 96.639977,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "in",
+      "x0": 414.9,
+      "top": 5.04,
+      "x1": 423.71999999999997,
+      "bottom": 13.5,
+      "confidence": 95.943237,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Section",
+      "x0": 427.5,
+      "top": 5.04,
+      "x1": 462.78,
+      "bottom": 13.68,
+      "confidence": 95.943237,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "439",
+      "x0": 466.2,
+      "top": 5.3999999999999995,
+      "x1": 484.02,
+      "bottom": 13.68,
+      "confidence": 95.823296,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 488.34,
+      "top": 5.04,
+      "x1": 499.32,
+      "bottom": 13.68,
+      "confidence": 95.823296,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "the",
+      "x0": 501.29999999999995,
+      "top": 5.04,
+      "x1": 515.16,
+      "bottom": 13.68,
+      "confidence": 96.652596,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Code",
+      "x0": 94.14,
+      "top": 18.72,
+      "x1": 118.98,
+      "bottom": 27.18,
+      "confidence": 96.844238,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "of",
+      "x0": 122.94,
+      "top": 18.72,
+      "x1": 133.92,
+      "bottom": 27.18,
+      "confidence": 96.210533,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Criminal",
+      "x0": 136.44,
+      "top": 18.72,
+      "x1": 178.38,
+      "bottom": 27.18,
+      "confidence": 95.869873,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Procedure",
+      "x0": 181.98,
+      "top": 18.72,
+      "x1": 230.94,
+      "bottom": 27.18,
+      "confidence": 96.691689,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "means",
+      "x0": 233.28,
+      "top": 21.419999999999998,
+      "x1": 263.34,
+      "bottom": 27.18,
+      "confidence": 96.938362,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(A)",
+      "x0": 100.44,
+      "top": 34.74,
+      "x1": 113.39999999999999,
+      "bottom": 45.54,
+      "confidence": 96.543816,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "A",
+      "x0": 121.86,
+      "top": 34.92,
+      "x1": 130.32,
+      "bottom": 43.02,
+      "confidence": 95.294586,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "person",
+      "x0": 133.74,
+      "top": 37.62,
+      "x1": 166.14000000000001,
+      "bottom": 45.72,
+      "confidence": 95.294586,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "who",
+      "x0": 169.38,
+      "top": 34.74,
+      "x1": 189.72,
+      "bottom": 43.2,
+      "confidence": 95.618698,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "has",
+      "x0": 193.32,
+      "top": 34.74,
+      "x1": 209.16,
+      "bottom": 43.2,
+      "confidence": 95.618698,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "been",
+      "x0": 212.4,
+      "top": 34.74,
+      "x1": 234.9,
+      "bottom": 43.2,
+      "confidence": 96.758652,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "arrested",
+      "x0": 238.14,
+      "top": 34.74,
+      "x1": 275.76,
+      "bottom": 43.2,
+      "confidence": 96.302116,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "and",
+      "x0": 278.09999999999997,
+      "top": 34.74,
+      "x1": 295.55999999999995,
+      "bottom": 43.2,
+      "confidence": 96.827759,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "remanded",
+      "x0": 298.62,
+      "top": 34.74,
+      "x1": 345.78,
+      "bottom": 43.2,
+      "confidence": 96.079773,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "to",
+      "x0": 347.94,
+      "top": 36.0,
+      "x1": 356.76,
+      "bottom": 43.2,
+      "confidence": 96.079773,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "police",
+      "x0": 360.0,
+      "top": 34.74,
+      "x1": 389.52,
+      "bottom": 45.72,
+      "confidence": 96.305611,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "custody.",
+      "x0": 393.12,
+      "top": 34.74,
+      "x1": 432.72,
+      "bottom": 45.72,
+      "confidence": 96.444084,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "(B)",
+      "x0": 100.44,
+      "top": 50.76,
+      "x1": 112.86,
+      "bottom": 61.559999999999995,
+      "confidence": 92.355103,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "A",
+      "x0": 121.86,
+      "top": 50.94,
+      "x1": 130.32,
+      "bottom": 59.04,
+      "confidence": 95.567848,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "person",
+      "x0": 133.74,
+      "top": 53.46,
+      "x1": 166.32,
+      "bottom": 61.56,
+      "confidence": 95.567848,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "who",
+      "x0": 169.38,
+      "top": 50.76,
+      "x1": 189.9,
+      "bottom": 59.22,
+      "confidence": 95.396446,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "has",
+      "x0": 193.32,
+      "top": 50.76,
+      "x1": 209.34,
+      "bottom": 59.22,
+      "confidence": 95.396446,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "been",
+      "x0": 212.4,
+      "top": 50.76,
+      "x1": 234.9,
+      "bottom": 59.22,
+      "confidence": 96.122017,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "arrested",
+      "x0": 238.32,
+      "top": 50.76,
+      "x1": 275.76,
+      "bottom": 59.22,
+      "confidence": 96.100334,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "and",
+      "x0": 278.28,
+      "top": 50.76,
+      "x1": 295.55999999999995,
+      "bottom": 59.22,
+      "confidence": 96.7155,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "remanded",
+      "x0": 298.8,
+      "top": 50.76,
+      "x1": 345.96000000000004,
+      "bottom": 59.22,
+      "confidence": 96.261917,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "to",
+      "x0": 348.12,
+      "top": 51.839999999999996,
+      "x1": 356.94,
+      "bottom": 59.22,
+      "confidence": 96.261917,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "judicial",
+      "x0": 359.28,
+      "top": 50.76,
+      "x1": 396.0,
+      "bottom": 61.559999999999995,
+      "confidence": 96.168404,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "custody.",
+      "x0": 398.88,
+      "top": 50.76,
+      "x1": 438.48,
+      "bottom": 61.559999999999995,
+      "confidence": 96.385124,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "(C)",
+      "x0": 100.61999999999999,
+      "top": 66.06,
+      "x1": 113.03999999999999,
+      "bottom": 76.86,
+      "confidence": 91.610138,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "A",
+      "x0": 121.86,
+      "top": 66.24,
+      "x1": 130.14,
+      "bottom": 74.33999999999999,
+      "confidence": 95.010178,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "person",
+      "x0": 133.01999999999998,
+      "top": 68.75999999999999,
+      "x1": 165.59999999999997,
+      "bottom": 76.85999999999999,
+      "confidence": 95.010178,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "who",
+      "x0": 168.12,
+      "top": 65.88,
+      "x1": 188.64000000000001,
+      "bottom": 74.52,
+      "confidence": 90.273483,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "is",
+      "x0": 191.7,
+      "top": 65.88,
+      "x1": 198.89999999999998,
+      "bottom": 74.52,
+      "confidence": 41.03933,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "accused",
+      "x0": 201.42,
+      "top": 65.88,
+      "x1": 240.29999999999998,
+      "bottom": 74.52,
+      "confidence": 41.03933,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "of",
+      "x0": 243.17999999999998,
+      "top": 65.88,
+      "x1": 253.98,
+      "bottom": 74.52,
+      "confidence": 93.286446,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "bailableoffence",
+      "x0": 255.42,
+      "top": 65.88,
+      "x1": 331.91999999999996,
+      "bottom": 74.52,
+      "confidence": 91.914352,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "and",
+      "x0": 335.15999999999997,
+      "top": 65.88,
+      "x1": 352.43999999999994,
+      "bottom": 74.52,
+      "confidence": 96.87394,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "surrenders",
+      "x0": 354.59999999999997,
+      "top": 65.88,
+      "x1": 403.38,
+      "bottom": 74.52,
+      "confidence": 96.310303,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "before",
+      "x0": 405.53999999999996,
+      "top": 65.88,
+      "x1": 435.96,
+      "bottom": 74.52,
+      "confidence": 96.586449,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "the",
+      "x0": 438.3,
+      "top": 65.88,
+      "x1": 452.52,
+      "bottom": 74.52,
+      "confidence": 96.585976,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Sessions",
+      "x0": 455.76,
+      "top": 65.88,
+      "x1": 496.08,
+      "bottom": 74.52,
+      "confidence": 96.692673,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "court",
+      "x0": 498.59999999999997,
+      "top": 67.14,
+      "x1": 521.64,
+      "bottom": 74.52,
+      "confidence": 96.329948,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "for",
+      "x0": 122.22,
+      "top": 80.28,
+      "x1": 136.44,
+      "bottom": 88.92,
+      "confidence": 96.817505,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "the",
+      "x0": 139.14,
+      "top": 80.28,
+      "x1": 153.35999999999999,
+      "bottom": 88.92,
+      "confidence": 96.714233,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "purposes",
+      "x0": 156.42,
+      "top": 83.16,
+      "x1": 200.15999999999997,
+      "bottom": 91.25999999999999,
+      "confidence": 96.283936,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "of",
+      "x0": 203.76,
+      "top": 80.28,
+      "x1": 214.73999999999998,
+      "bottom": 88.92,
+      "confidence": 96.371452,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "bail.",
+      "x0": 216.0,
+      "top": 80.28,
+      "x1": 236.16,
+      "bottom": 88.92,
+      "confidence": 96.072197,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "(D)",
+      "x0": 100.44,
+      "top": 95.58,
+      "x1": 113.39999999999999,
+      "bottom": 106.38,
+      "confidence": 92.421638,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "All",
+      "x0": 121.86,
+      "top": 95.58,
+      "x1": 136.8,
+      "bottom": 103.86,
+      "confidence": 93.561653,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "of",
+      "x0": 140.4,
+      "top": 95.58,
+      "x1": 151.38,
+      "bottom": 104.03999999999999,
+      "confidence": 95.406105,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "these.",
+      "x0": 153.72,
+      "top": 95.58,
+      "x1": 180.9,
+      "bottom": 104.03999999999999,
+      "confidence": 96.292152,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "CORRECT",
+      "x0": 72.53999999999999,
+      "top": 111.96,
+      "x1": 131.57999999999998,
+      "bottom": 120.24,
+      "confidence": 96.14621,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "OPTION:",
+      "x0": 135.54,
+      "top": 112.14,
+      "x1": 185.22,
+      "bottom": 120.24,
+      "confidence": 90.997345,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    },
+    {
+      "text": "D",
+      "x0": 189.54,
+      "top": 112.14,
+      "x1": 197.45999999999998,
+      "bottom": 120.06,
+      "confidence": 90.997345,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "6"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

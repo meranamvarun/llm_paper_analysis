@@ -1,0 +1,81 @@
+{
+  "pdf_page": 380,
+  "crop_top": 44.80146000000002,
+  "crop_bottom": 60.24145999999996,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0379:l0045:question",
+  "method": "tesseract_eng_psm6",
+  "ocr_psm": 6,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "f\\",
+      "bbox": [
+        72.36,
+        0.0,
+        84.6,
+        11.34
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "4. Article 19",
+      "bbox": [
+        88.02,
+        4.5,
+        124.02,
+        9.719999999999999
+      ]
+    }
+  ],
+  "text": "f\\\n4. Article 19",
+  "ocr_words": [
+    {
+      "text": "f\\",
+      "x0": 72.36,
+      "top": 0.0,
+      "x1": 84.6,
+      "bottom": 11.34,
+      "confidence": 33.884384,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "4.",
+      "x0": 88.02,
+      "top": 4.859999999999999,
+      "x1": 93.06,
+      "bottom": 9.54,
+      "confidence": 95.875061,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Article",
+      "x0": 95.39999999999999,
+      "top": 4.5,
+      "x1": 114.66,
+      "bottom": 9.719999999999999,
+      "confidence": 95.875061,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "19",
+      "x0": 117.36,
+      "top": 4.68,
+      "x1": 124.02,
+      "bottom": 9.719999999999999,
+      "confidence": 96.725685,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}

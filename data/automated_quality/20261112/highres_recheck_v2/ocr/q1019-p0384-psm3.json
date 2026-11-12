@@ -1,0 +1,349 @@
+{
+  "pdf_page": 384,
+  "crop_top": 370.24136,
+  "crop_bottom": 471.12136,
+  "question_id": "d3905f6d3c31af4cdf5d47d3e6380179c5fd2c8f55e489648d140783b06a0d3b:p0384:l0022:question",
+  "method": "tesseract_eng_psm3",
+  "ocr_psm": 3,
+  "lines": [
+    {
+      "line_id": "l0000",
+      "text": "Q.18 Which theory of law is known as \"Vienna School\" of legal thought?",
+      "bbox": [
+        41.94,
+        4.32,
+        270.0,
+        10.98
+      ]
+    },
+    {
+      "line_id": "l0001",
+      "text": "Ans",
+      "bbox": [
+        43.379999999999995,
+        17.64,
+        54.53999999999999,
+        22.5
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "text": "1. Pure",
+      "bbox": [
+        88.56,
+        26.279999999999998,
+        109.08,
+        31.139999999999997
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        37.26,
+        93.06,
+        52.379999999999995
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "text": "Natural",
+      "bbox": [
+        95.94,
+        46.62,
+        117.53999999999999,
+        54.72
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "text": "Xx,",
+      "bbox": [
+        72.36,
+        57.96,
+        93.06,
+        75.96000000000001
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "text": "Historical",
+      "bbox": [
+        95.94,
+        67.86,
+        123.3,
+        75.96
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "text": "x,",
+      "bbox": [
+        73.08,
+        79.92,
+        93.06,
+        95.04
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "text": "Philosophical",
+      "bbox": [
+        95.94,
+        89.28,
+        135.0,
+        97.38
+      ]
+    }
+  ],
+  "text": "Q.18 Which theory of law is known as \"Vienna School\" of legal thought?\nAns\n1. Pure\nx,\nNatural\nXx,\nHistorical\nx,\nPhilosophical",
+  "ocr_words": [
+    {
+      "text": "Q.18",
+      "x0": 41.94,
+      "top": 4.68,
+      "x1": 56.16,
+      "bottom": 10.44,
+      "confidence": 92.238708,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Which",
+      "x0": 62.64,
+      "top": 4.5,
+      "x1": 81.72,
+      "bottom": 9.719999999999999,
+      "confidence": 88.18782,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "theory",
+      "x0": 83.88,
+      "top": 4.5,
+      "x1": 104.39999999999999,
+      "bottom": 10.98,
+      "confidence": 96.449547,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 106.56,
+      "top": 4.32,
+      "x1": 112.68,
+      "bottom": 9.719999999999999,
+      "confidence": 96.513382,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "law",
+      "x0": 114.83999999999999,
+      "top": 4.5,
+      "x1": 125.27999999999999,
+      "bottom": 9.719999999999999,
+      "confidence": 96.836777,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "is",
+      "x0": 127.44,
+      "top": 4.68,
+      "x1": 131.76,
+      "bottom": 9.719999999999999,
+      "confidence": 96.40023,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "known",
+      "x0": 134.1,
+      "top": 4.5,
+      "x1": 154.44,
+      "bottom": 9.719999999999999,
+      "confidence": 96.805473,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "as",
+      "x0": 156.96,
+      "top": 5.9399999999999995,
+      "x1": 163.08,
+      "bottom": 9.719999999999999,
+      "confidence": 96.108421,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "\"Vienna",
+      "x0": 165.42,
+      "top": 4.32,
+      "x1": 189.72,
+      "bottom": 9.719999999999999,
+      "confidence": 96.108421,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "School\"",
+      "x0": 192.06,
+      "top": 4.32,
+      "x1": 215.1,
+      "bottom": 9.719999999999999,
+      "confidence": 95.828934,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "of",
+      "x0": 217.62,
+      "top": 4.5,
+      "x1": 223.74,
+      "bottom": 9.719999999999999,
+      "confidence": 96.982361,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "legal",
+      "x0": 225.9,
+      "top": 4.5,
+      "x1": 239.76,
+      "bottom": 10.98,
+      "confidence": 96.67791,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "thought?",
+      "x0": 241.92,
+      "top": 4.5,
+      "x1": 270.0,
+      "bottom": 10.98,
+      "confidence": 96.643639,
+      "ocr_block": "1",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "Ans",
+      "x0": 43.379999999999995,
+      "top": 17.64,
+      "x1": 54.53999999999999,
+      "bottom": 22.5,
+      "confidence": 96.882599,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "1"
+    },
+    {
+      "text": "1.",
+      "x0": 88.56,
+      "top": 26.279999999999998,
+      "x1": 93.06,
+      "bottom": 30.959999999999997,
+      "confidence": 96.298851,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "Pure",
+      "x0": 95.94,
+      "top": 26.279999999999998,
+      "x1": 109.08,
+      "bottom": 31.139999999999997,
+      "confidence": 96.537994,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "2"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 37.26,
+      "x1": 93.06,
+      "bottom": 52.379999999999995,
+      "confidence": 81.805588,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Natural",
+      "x0": 95.94,
+      "top": 46.62,
+      "x1": 117.53999999999999,
+      "bottom": 54.72,
+      "confidence": 96.848015,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "3"
+    },
+    {
+      "text": "Xx,",
+      "x0": 72.36,
+      "top": 57.96,
+      "x1": 93.06,
+      "bottom": 75.96000000000001,
+      "confidence": 48.406624,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "Historical",
+      "x0": 95.94,
+      "top": 67.86,
+      "x1": 123.3,
+      "bottom": 75.96,
+      "confidence": 96.744804,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "4"
+    },
+    {
+      "text": "x,",
+      "x0": 73.08,
+      "top": 79.92,
+      "x1": 93.06,
+      "bottom": 95.04,
+      "confidence": 73.773705,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    },
+    {
+      "text": "Philosophical",
+      "x0": 95.94,
+      "top": 89.28,
+      "x1": 135.0,
+      "bottom": 97.38,
+      "confidence": 96.901863,
+      "ocr_block": "2",
+      "ocr_paragraph": "1",
+      "ocr_line": "5"
+    }
+  ],
+  "issues": [
+    "ocr_requires_visual_review",
+    "low_confidence_ocr_words"
+  ]
+}
