@@ -1,0 +1,155 @@
+{
+  "methods": [
+    {
+      "id": "retrieval",
+      "title": "Recall before you reveal",
+      "principle": "Producing an answer from memory is a learning activity, not only a way to measure knowledge. Experiments found that repeated retrieval supported delayed retention better than repeatedly studying the same material without retrieval.",
+      "implementation": "Show the card prompt first. Ask the student to say or write a complete answer before revealing it, then compare the attempted answer with the explanation. Keep successfully recalled cards in later reviews.",
+      "limits": "The cited experiments were not CLAT trials. A correct card response does not establish legal understanding or predict an exam score.",
+      "sourceIds": ["learn-retrieval-2007"]
+    },
+    {
+      "id": "spacing",
+      "title": "Return after a gap",
+      "principle": "Revisiting material on different occasions can improve later retention. The useful gap depends on how long the learner needs to retain the material; one interval is not best for every deadline.",
+      "implementation": "Schedule cards across days, with due reviews before optional new cards. An easy-to-understand 1/3/7-day progression is a product heuristic; a forgotten card returns sooner. Never schedule a necessary final review after the exam.",
+      "limits": "The cited fact-learning study does not validate this site's exact intervals, ratings or legal-content scheduler.",
+      "sourceIds": ["learn-spacing-2008"]
+    },
+    {
+      "id": "feedback",
+      "title": "Repair the answer, including lucky guesses",
+      "principle": "Feedback can support learning after errors and after answers that are correct but uncertain. In two general-knowledge experiments, confirming low-confidence correct responses helped their later retention.",
+      "implementation": "After every quiz attempt, show the correct option and a reasoned explanation with its source. Offer uncertain correct answers as well as errors for the repair queue; ask what made the nearest distractor wrong.",
+      "limits": "Immediate feedback is used here for convenient study flow, not claimed to be the optimal timing in every learning situation.",
+      "sourceIds": ["learn-feedback-2008"]
+    },
+    {
+      "id": "interleaving",
+      "title": "Learn a distinction, then mix it",
+      "principle": "Mixed practice can make learners choose which approach fits instead of assuming every item uses the last rule studied. A mathematics experiment found better delayed performance after mixed rather than blocked problem types.",
+      "implementation": "Introduce a topic with its lesson and a few focused questions. Then mix previously studied topics and contrast close alternatives, such as admissibility versus weight or contractual remedies versus tort liability.",
+      "limits": "The cited result concerns mathematics. Transfer to CLAT law preparation is a reasoned design choice, not a demonstrated effect or a reason to mix unfamiliar material indiscriminately.",
+      "sourceIds": ["learn-interleaving-2007"]
+    },
+    {
+      "id": "self-explanation",
+      "title": "Explain why the rule fits",
+      "principle": "Explaining the steps of a worked example can connect its solution to underlying principles. In a small mechanics study, stronger learners generated more useful explanations and monitored gaps in their understanding more accurately.",
+      "implementation": "Before reading a worked answer, complete: issue, applicable rule, decisive fact, exception, and conclusion. Then change one fact and explain whether the conclusion should change. Check the explanation against the supplied material.",
+      "limits": "The cited study is small and observational; it does not prove this exact legal template causes higher exam marks. Explanations still need reliable corrective feedback.",
+      "sourceIds": ["learn-self-explanation-1989"]
+    },
+    {
+      "id": "calibration",
+      "title": "Separate familiarity from knowledge",
+      "principle": "Seeing an answer while studying can create a misleading feeling of competence. Research on paired associates found that judgments made with both cue and answer visible did not simply mirror later recall from the cue alone.",
+      "implementation": "Record confidence before revealing a card or submitting an answer. Review confidence alongside accuracy, especially confident errors. Use later unseen attempts to judge improvement rather than completion counts alone.",
+      "limits": "Confidence is not a calibrated probability by default. A small set of repeated questions cannot establish a student's true exam accuracy or readiness.",
+      "sourceIds": ["learn-calibration-2005"]
+    }
+  ],
+  "sources": [
+    {
+      "id": "learn-retrieval-2007",
+      "title": "Karpicke & Roediger (2007), Repeated retrieval during learning is the key to long-term retention",
+      "url": "https://learninglab.psych.purdue.edu/downloads/2007/2007_Karpicke_Roediger_JML.pdf",
+      "pinpoint": "Journal of Memory and Language 57, 151–162; abstract and Experiments 1–2. DOI: 10.1016/j.jml.2006.09.004.",
+      "accessed": "2026-11-17",
+      "kind": "academic"
+    },
+    {
+      "id": "learn-spacing-2008",
+      "title": "Cepeda, Vul, Rohrer, Wixted & Pashler (2008), Spacing Effects in Learning: A Temporal Ridgeline of Optimal Retention",
+      "url": "https://www.evullab.org/pdf/CepedaVulRohrerWixtedPashler-PS-2008.pdf",
+      "pinpoint": "Psychological Science 19(11), 1095–1102; abstract p. 1095 and current-study methods/results. DOI: 10.1111/j.1467-9280.2008.02209.x.",
+      "accessed": "2026-11-17",
+      "kind": "academic"
+    },
+    {
+      "id": "learn-feedback-2008",
+      "title": "Butler, Karpicke & Roediger (2008), Correcting a Metacognitive Error: Feedback Increases Retention of Low-Confidence Correct Responses",
+      "url": "https://learninglab.psych.purdue.edu/downloads/2008/2008_Butler_Karpicke_Roediger_JEPLMC.pdf",
+      "pinpoint": "Journal of Experimental Psychology: Learning, Memory, and Cognition 34(4), 918–928; abstract p. 918 and Experiments 1–2. DOI: 10.1037/0278-7393.34.4.918.",
+      "accessed": "2026-11-17",
+      "kind": "academic"
+    },
+    {
+      "id": "learn-interleaving-2007",
+      "title": "Rohrer & Taylor (2007), The Shuffling of Mathematics Practice Problems Boosts Learning",
+      "url": "https://digitalcommons.usf.edu/psy_facpub/1767/",
+      "pinpoint": "Author-university article record and abstract; Instructional Science 35(6), 481–498; Experiment 2 mixed versus blocked practice. DOI: 10.1007/s11251-007-9015-8.",
+      "accessed": "2026-11-17",
+      "kind": "academic"
+    },
+    {
+      "id": "learn-self-explanation-1989",
+      "title": "Chi, Bassok, Lewis, Reimann & Glaser (1989), Self-Explanations: How Students Study and Use Examples in Learning to Solve Problems",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog1302_1",
+      "pinpoint": "Cognitive Science 13(2), 145–182; publisher abstract on talk-aloud worked mechanics examples. DOI: 10.1207/s15516709cog1302_1.",
+      "accessed": "2026-11-17",
+      "kind": "academic"
+    },
+    {
+      "id": "learn-calibration-2005",
+      "title": "Koriat & Bjork (2005), Illusions of competence in monitoring one's knowledge during study",
+      "url": "https://cris.haifa.ac.il/en/publications/illusions-of-competence-in-monitoring-ones-knowledge-during-study/",
+      "pinpoint": "Author-university article record and abstract; Journal of Experimental Psychology: Learning, Memory, and Cognition 31(2), 187–194. DOI: 10.1037/0278-7393.31.2.187.",
+      "accessed": "2026-11-17",
+      "kind": "academic"
+    },
+    {
+      "id": "exam-pg-instructions",
+      "title": "Consortium of NLUs, CLAT 2027 PG Instructions",
+      "url": "https://clat2027.consortiumofnlus.ac.in/clat-2027/pg-instructions.html",
+      "pinpoint": "General Instructions: examination date December 6, 2026; 14:00–16:00 IST, subject to revision; eligible PwD candidates 14:00–16:40.",
+      "accessed": "2026-11-17",
+      "kind": "official"
+    },
+    {
+      "id": "exam-pg-format",
+      "title": "Consortium of NLUs, CLAT 2027 PG Question Paper Format",
+      "url": "https://clat2027.consortiumofnlus.ac.in/clat-2027/pg-question-format.html",
+      "pinpoint": "Maximum marks 120; duration 2 hours; 120 MCQs, 1 mark each; 0.25 mark deduction per wrong answer.",
+      "accessed": "2026-11-17",
+      "kind": "official"
+    },
+    {
+      "id": "exam-pg-syllabus",
+      "title": "Consortium of NLUs, CLAT PG 2027 Syllabus",
+      "url": "https://consortiumofnlus.ac.in/clat-2027/pg-syllabus.html",
+      "pinpoint": "Introduction and Overview; Objective Section: legal-material extracts, comprehension, related legal awareness, summarising and application.",
+      "accessed": "2026-11-17",
+      "kind": "official"
+    }
+  ],
+  "exam": {
+    "label": "CLAT PG 2027",
+    "date": "2026-12-06",
+    "timeZone": "Asia/Kolkata",
+    "startTime": "14:00",
+    "durationMinutes": 120,
+    "questionCount": 120,
+    "correctMarks": 1,
+    "wrongMarks": -0.25,
+    "sourceIds": ["exam-pg-instructions", "exam-pg-format", "exam-pg-syllabus"],
+    "note": "Date and standard duration checked November 17, 2026; instructions allow necessary revision and specify additional time for eligible PwD candidates. Recheck official updates and the admit card."
+  },
+  "scheduleAdvice": {
+    "status": "editorial template, not a tested optimum",
+    "startDate": "2026-11-17",
+    "lastStudyDate": "2026-12-05",
+    "studyDays": 19,
+    "dailyMinutesExample": 180,
+    "blocks": [
+      {"title": "Due recall and feedback", "minutes": 30},
+      {"title": "One focused lesson and distinctions", "minutes": 45},
+      {"title": "Timed passage practice", "minutes": 45},
+      {"title": "Mixed questions", "minutes": 30},
+      {"title": "Error repair and delayed redo", "minutes": 20},
+      {"title": "Plan the next review", "minutes": 10}
+    ],
+    "final72Hours": "Prioritise due cards, recurring personal errors and short mixed practice. Avoid filling the final days with unreviewable new material. Keep a sensible stopping time and prepare exam logistics.",
+    "adaptation": "Reduce new material first when time is short. Do not remove feedback or let a large due queue silently crowd out passage practice. No minimum daily time or full-deck completion is guaranteed to produce a particular score."
+  }
+}

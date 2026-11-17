@@ -1,0 +1,102 @@
+{
+  "version": "clat-studio-1",
+  "record_scope": "Local-build snapshot before Git publication; later publication is recorded in Git history.",
+  "date": "2026-11-17",
+  "exam": {
+    "label": "CLAT PG 2027",
+    "date": "2026-12-06",
+    "study_start": "2026-11-17",
+    "study_days": 19,
+    "user_confirmed": true
+  },
+  "content": {
+    "topics": 16,
+    "flashcards": 128,
+    "standalone_questions": 64,
+    "passage_sets": 8,
+    "passage_questions": 24,
+    "references": 37
+  },
+  "review_status": "AI-drafted educational content; qualified legal review pending",
+  "site_sha256": {
+    ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "app.js": "f5d1597b8ad8539dfa466697193fa8b93b2f20ce5686e441cf88b83afd94a7e3",
+    "content-breadth.json": "c9ea6982fcbe124929594e406921cb1e703dee422e9dc893b3eac6919653e7c1",
+    "content-foundations.json": "158648429c0ef7a6f3818a77d87152885113baa347cc21055f21d1933f9904b3",
+    "core.js": "03f63fe86fd627aee945a6c556c5e56897b1a8da3bd1b4cb8f86a2496e77c935",
+    "favicon.svg": "009026c6ff0b676cf91cdb4c60e28ee996e7699ddb44d57a4d379fb219d66180",
+    "index.html": "e0d6a0c3b60acd2ed31b4693baff1dcadf0a123cf0a4f436f41dc2868a7b1738",
+    "learning-evidence.json": "4b2b3adb9ad0979d2971719abf4bf73bb026ff009e8b594ec9d4361d091405f3",
+    "LICENSE": "6cff45f338d2e865a78dcfe595c2f6e6215fcfa80b79eb140a54ad827228d06f",
+    "README.md": "77dbe462d13bdca4f47075bb8acca49870de68bb1718e59b1f108d3a4dc4e014",
+    "styles.css": "e3ff4904aceb216d5f7d675461e3f38ae540cd72797e29ded51c9672dbbee46a"
+  },
+  "archive": {
+    "path": "output/clat-pg-study-studio.zip",
+    "sha256": "b7410d046f82213ce6b5f455f15727eaead901ff9674fa22c58c1f62872a23ee",
+    "bytes": 86707,
+    "allowlist_checked": true,
+    "crc_pass": true
+  },
+  "implementation_sha256": {
+    "analysis/complete_prep_content.py": "195bc152a3fb51d3af390fc21b41f07bd310e0d3b3becb484e7f537f610b2e63",
+    "analysis/tests/test_prep_core.py": "3896fd7284591f97cb58aa58a3186c7934ffc40d1ad195a688571a9e7fd95ad7",
+    "analysis/tests/test_prep_content.py": "2b78027239352eb58d4c8b56e042aed339d34b8d17701000a4c9b2e0579abb63",
+    "analysis/check_prep_browser.py": "2418459098732183f93a6697e76248a89b284dfedf138b866b4067d59663255b",
+    "research/WEB_PREP_SPEC.md": "86c760d64d151dfc09bf5a692c67f59aec0ccdf8653bcd5afa2a3a12c803ad85",
+    ".github/workflows/pages.yml": "20eb266dc139d390e6e9bb53909bc7799ae15de9ddba8d75e91249658e2f1aec",
+    "requirements-prep-test.txt": "fbbbe79c3674a4538108dd46f5a008726a03fe068a6bfef3e7c69fb6da0b2b74"
+  },
+  "verification": {
+    "analysis_tests": 32,
+    "analysis_failures": 0,
+    "harness_tests_run": 16,
+    "harness_shell_skipped": 6,
+    "harness_failures": 0,
+    "harness_check_errors": 0,
+    "harness_check_warnings": 0,
+    "original_input_hashes_unchanged": true,
+    "desktop_and_mobile_screenshots_inspected": true,
+    "browser": {
+      "initial_countdown_19_days": true,
+      "lesson_search_notes_reload_escaped": true,
+      "recall_attempt_gate_rating_due_persistence": true,
+      "quiz_confidence_feedback_skip_scoring": true,
+      "mistake_repair_blind_retest_history_retained": true,
+      "simulation_hides_feedback_reload_resume_expiry_submits": true,
+      "eight_original_passage_sets_render": true,
+      "calendar_19_days_checks_persist": true,
+      "actual_export_invalid_import_preserves_valid_import_restores": true,
+      "storage_denial_visible": true,
+      "keyboard_focus_after_reveal_and_feedback": true,
+      "mobile_390_no_body_overflow": {
+        "today": true,
+        "learn": true,
+        "practice": true,
+        "mistakes": true,
+        "plan": true,
+        "sources": true,
+        "lesson": true,
+        "recall": true,
+        "passage_quiz_and_persistent_collapse": true
+      },
+      "browser_console": [],
+      "project_subpath_asset_loading": true,
+      "browser": "isolated headless Chrome via Selenium"
+    },
+    "harness_consolidation": "C003; recurring lessons already covered; twenty original retros preserved in consolidated archive."
+  },
+  "ai_provenance": {
+    "method": "Interactive Codex drafting with bounded parallel content/evidence tasks and parent integration; deterministic study engine and tests.",
+    "independent_human_review": false,
+    "exact_model_snapshot": "unavailable",
+    "settings": "unavailable",
+    "external_paid_model_calls": 0
+  },
+  "publication": {
+    "committed": false,
+    "pushed": false,
+    "deployed": false,
+    "target": "GitHub Pages; manual workflow provided"
+  }
+}

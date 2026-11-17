@@ -1,0 +1,2122 @@
+{
+  "modules": [
+    {
+      "id": "family",
+      "title": "Family law and succession",
+      "description": "Separate matrimonial remedies, support during litigation and inheritance rights.",
+      "minutes": 20,
+      "prerequisite": "Identify the governing enactment and the date assumed by the question.",
+      "sections": [
+        {
+          "heading": "Start with the legal relationship",
+          "body": "Family questions become easier when you identify the applicable enactment before applying a remembered rule. The Hindu Marriage Act contains its own application provision; it is not a universal marriage code for every person in India. Within that Act, judicial separation and divorce are different remedies. Judicial separation affects the obligation to cohabit while leaving the marital bond intact; divorce dissolves that bond through a decree. Mutual-consent divorce follows a distinct statutory route and should not be confused with a contested ground. In a passage, mark the words identifying the parties, statute, remedy and procedural stage. These four facts usually matter more than a dramatic description of the marital dispute."
+        },
+        {
+          "heading": "Maintenance: ask when and why",
+          "body": "Section 24 of the Hindu Marriage Act concerns support and litigation expenses while proceedings are pending. Its language allows an application by either spouse who lacks independent income sufficient for support and necessary proceeding expenses; it is not restricted to wives. Section 25 concerns permanent alimony and maintenance and operates in a different procedural setting. Do not turn these provisions into a single rule that every claimant automatically receives a fixed amount. The court considers statutory conditions and circumstances. For an examination question, distinguish entitlement to apply from the outcome of that application. Read whether the question asks about an interim order, a post-decree arrangement, or a different maintenance enactment altogether."
+        },
+        {
+          "heading": "Succession is not the same as coparcenary",
+          "body": "The Hindu Succession Act distinguishes intestate inheritance from disposal through a valid testamentary instrument. A person can be intestate in respect of some property even when a will deals effectively with other property. Amended section 6 places a daughter of a Mitakshara coparcener in the same position as a son for coparcenary rights and liabilities, subject to its savings for earlier dispositions and partitions. That is different from saying every relative has a birthright in all property. For male intestate succession, start with section 8 and then the ordering and distribution provisions. Draw a family tree and label the property before calculating shares; do not solve a share problem from gender alone."
+        }
+      ],
+      "distinctions": [
+        {
+          "left": "Judicial separation",
+          "right": "Divorce",
+          "contrast": "Separation does not itself dissolve the marriage; divorce does."
+        },
+        {
+          "left": "Section 24 support",
+          "right": "Section 25 alimony",
+          "contrast": "Pending-proceedings support and permanent alimony occupy different statutory settings."
+        },
+        {
+          "left": "Coparcenary right",
+          "right": "Intestate inheritance",
+          "contrast": "A birth-based coparcenary status differs from succession triggered by death."
+        }
+      ],
+      "pitfalls": [
+        "Do not apply Hindu-law provisions automatically to every family question.",
+        "Either spouse may apply under HMA section 24; an award is not automatic.",
+        "Do not erase the savings and property-type conditions in amended HSA section 6."
+      ],
+      "sourceIds": [
+        "breadth-hma",
+        "breadth-hsa"
+      ]
+    },
+    {
+      "id": "property",
+      "title": "Property: sale, security and possession",
+      "description": "Identify the precise interest transferred before applying a property rule.",
+      "minutes": 20,
+      "prerequisite": "Identify the governing enactment and the date assumed by the question.",
+      "sections": [
+        {
+          "heading": "A sale is not merely a promise to sell",
+          "body": "Section 54 of the Transfer of Property Act distinguishes a completed sale from a contract that a sale will take place later. Sale involves a transfer of ownership for a price; a contract for sale does not by itself create an interest in or charge on the property. Formal requirements and other legislation still need attention. A paid advance and a written promise can matter contractually without automatically making the promisee the owner. In a question, separate the transaction promised, the document executed, the interest claimed and any formalities assumed. Avoid the shortcut that possession, payment and ownership always travel together. Ask what legal event the facts actually establish."
+        },
+        {
+          "heading": "Security and enjoyment are different interests",
+          "body": "A mortgage under section 58(a) transfers an interest in specified immovable property to secure a debt or other specified pecuniary obligation. A lease under section 105 transfers a right to enjoy immovable property for the agreed period and consideration. Neither definition means every such transaction is an outright transfer of ownership. Redemption under section 60 is central to a mortgage: examine the provision and its qualifications rather than treating a security as a permanent sale. A lease problem instead directs attention to duration, consideration and enjoyment. Draw a three-column chart labelled ownership, security and enjoyment. Classifying the interest first prevents confusion between similar-looking documents."
+        },
+        {
+          "heading": "Gifts, expectations and pending litigation",
+          "body": "A gift under section 122 concerns voluntary transfer of existing property without consideration, accepted in the prescribed lifetime setting. A mere chance of future inheritance is different: section 6(a) excludes the chance of an heir-apparent from transferable property. Section 52 addresses transfers during qualifying litigation involving rights to immovable property. The practical examination distinction is that a transfer pendente lite is not automatically described as void; it cannot defeat the eventual rights determined in the proceeding, subject to the statutory rule. Read the litigation conditions carefully. For each problem, identify whether the asserted asset is existing property, a future hope, or property already subject to a pending dispute."
+        }
+      ],
+      "distinctions": [
+        {
+          "left": "Sale",
+          "right": "Contract for sale",
+          "contrast": "Sale transfers ownership; a contract for sale does not itself create an interest or charge."
+        },
+        {
+          "left": "Mortgage",
+          "right": "Lease",
+          "contrast": "Mortgage secures an obligation; lease transfers a right of enjoyment."
+        },
+        {
+          "left": "Existing property",
+          "right": "Expectation of inheritance",
+          "contrast": "Existing transferable property differs from an heir-apparent’s mere chance."
+        }
+      ],
+      "pitfalls": [
+        "A sale agreement is not automatically a conveyance of title.",
+        "A pendente lite transfer is not simply labelled void in every case.",
+        "Classify the transaction before recalling registration or remedy rules."
+      ],
+      "sourceIds": [
+        "breadth-tpa"
+      ]
+    },
+    {
+      "id": "company-securities",
+      "title": "Companies, directors and investor protection",
+      "description": "Separate the company, the people who manage it and the regulator that protects the securities market.",
+      "minutes": 20,
+      "prerequisite": "Read the core distinction before attempting the fact variations. Check the law/version stated in the question.",
+      "sections": [
+        {
+          "heading": "Find the legal person first",
+          "body": "Section 9 of the Companies Act describes the effect of incorporation: the registered company becomes a body corporate with continuing existence and the legal capacities specified there. A shareholder owns shares, not each asset of the company personally. A director manages under legal powers and duties; the director is not identical to the company. For an examination scenario, identify which person entered the transaction, whose duty is alleged and which remedy is requested. Separate legal personality does not mean nobody can ever be personally liable: a statute may impose liability for a particular act. Keep the ordinary starting rule separate from a proved exception or a specific statutory liability."
+        },
+        {
+          "heading": "Duty and disclosure answer different questions",
+          "body": "Section 166 supplies directors’ duties, including good faith, care and attention, independent judgment and avoiding conflicting interests. Do not substitute a profitable outcome for compliance with a duty. Sections 34 and 35 separately address criminal and civil consequences associated with misleading prospectuses, subject to their elements and defences. A statement can therefore raise a disclosure problem even when an option speaks only about internal management. During revision, distinguish the actor, duty, triggering facts, possible defence and remedy. The linked enactment text is a foundation; confirm amendments before relying on a live threshold, filing deadline or penalty."
+        },
+        {
+          "heading": "Regulation is not the same as ownership",
+          "body": "Section 11 of the SEBI Act gives the Board an investor-protection, development and securities-market regulation mandate. This differs from a company’s board of directors and from every private contractual claim between investors. Section 135 of the Companies Act concerns corporate social responsibility for covered companies; it is not a universal obligation imposed identically on every small enterprise. This module deliberately avoids memorising thresholds without a checked current consolidation. In a passage, ask whether the issue concerns incorporation, governance, disclosure or market regulation before selecting a familiar institution. A recurring securities passage is not evidence that the same legal question has repeated."
+        }
+      ],
+      "distinctions": [
+        {
+          "left": "Shareholder",
+          "right": "Company",
+          "contrast": "Owning shares does not make the shareholder the personal owner of every company asset."
+        },
+        {
+          "left": "Board of directors",
+          "right": "SEBI",
+          "contrast": "One is a company-governance organ; the other is a statutory securities-market regulator."
+        }
+      ],
+      "pitfalls": [
+        "Do not equate every company with a listed company.",
+        "A profitable decision can still raise a duty or conflict question.",
+        "Do not apply an old CSR threshold without checking the relevant version."
+      ],
+      "sourceIds": [
+        "b-company",
+        "b-sebi"
+      ]
+    },
+    {
+      "id": "labour",
+      "title": "Labour: coverage, bargaining and transition",
+      "description": "Identify the worker, the governing legal version and the mechanism for resolving the dispute.",
+      "minutes": 20,
+      "prerequisite": "Read the core distinction before attempting the fact variations. Check the law/version stated in the question.",
+      "sections": [
+        {
+          "heading": "Read the label and then the definition",
+          "body": "A labour problem is not solved merely by seeing the word employee. The Industrial Relations Code distinguishes its defined categories and the institutions that act under it. A worker classification, an industrial dispute and an employer’s obligation may each have different conditions. Examine the actual work and the statutory definition rather than assuming every managerial role receives every protection. This module uses the 2020 enactment for basic structural concepts and the official 2026 amendment for transition context. It does not teach live monetary thresholds, coverage limits or procedural deadlines. Those require a checked current provision and any applicable rules."
+        },
+        {
+          "heading": "Negotiating, conciliating and deciding are different",
+          "body": "A negotiating union or council is associated with collective bargaining under section 14. Conciliation seeks a settlement through a statutory process; it is not identical to an adjudicated award. A Tribunal has its own adjudicatory jurisdiction and procedure. In a passage, determine whether parties are discussing terms, attempting a settlement or asking an authority to decide a dispute. The stage changes the relevant legal mechanism. A familiar institutional name is not enough: match the actor to the function described. For a short revision sheet, place bargaining, conciliation and adjudication in separate columns and add one fact example to each."
+        },
+        {
+          "heading": "Historical questions require historical care",
+          "body": "The 2026 amendment to the Industrial Relations Code changes section 104 and addresses continued functioning of older tribunals and statutory authorities until new authorities become functional. Do not assume that an old authority necessarily loses every function merely because a new legal framework appears. Conversely, a historical paper using the Industrial Disputes Act does not prove that its wording governs every later event. Constitutional protections also differ from policy principles: Article 23 addresses trafficking and forced labour, Article 24 addresses specified hazardous child employment, while Article 43A concerns worker participation in management as a Directive Principle. Identify the text and date before importing a rule."
+        }
+      ],
+      "distinctions": [
+        {
+          "left": "Conciliation",
+          "right": "Adjudication",
+          "contrast": "The former seeks a settlement; the latter involves a decision through the relevant adjudicatory mechanism."
+        },
+        {
+          "left": "Article 23",
+          "right": "Article 43A",
+          "contrast": "A fundamental-right protection against trafficking/forced labour differs from a Directive Principle about worker participation."
+        }
+      ],
+      "pitfalls": [
+        "A job title alone does not establish statutory coverage.",
+        "Do not treat a 1947 provision and a Code provision as interchangeable.",
+        "A settlement attempt is not automatically a binding adjudicatory award."
+      ],
+      "sourceIds": [
+        "b-ir",
+        "b-ir-amendment",
+        "f-src-constitution"
+      ]
+    },
+    {
+      "id": "international",
+      "title": "International law: court, actor and jurisdiction",
+      "description": "Keep inter-State dispute settlement separate from individual criminal responsibility.",
+      "minutes": 20,
+      "prerequisite": "Read the core distinction before attempting the fact variations. Check the law/version stated in the question.",
+      "sections": [
+        {
+          "heading": "First identify the court and the legal actor",
+          "body": "The International Court of Justice and International Criminal Court are different institutions. Under Article 34 of the ICJ Statute, States are the parties in contentious cases; an individual cannot simply bring an ordinary personal complaint as a party in that jurisdiction. Jurisdiction still needs a legal basis, including the arrangements considered in Article 36. The Rome Statute’s ICC addresses individual criminal responsibility within its jurisdictional and admissibility limits. A common location in The Hague or a shared reference to international law does not make the institutions interchangeable. Ask who is being sued or prosecuted and what consequence is sought."
+        },
+        {
+          "heading": "Sources, decisions and advice have different roles",
+          "body": "Article 38 of the ICJ Statute identifies the sources and subsidiary means used in deciding disputes. A judgment’s binding force is qualified by Article 59: it is not automatically a universally binding legislative code for every State. Advisory opinions under Article 65 are a separate procedure involving a request by an authorised body, not an individual filing the equivalent of a contentious case. For revision, separate access, jurisdiction, applicable law and the effect of a decision. A question about a source of law is not necessarily asking whether a particular court has authority over the parties."
+        },
+        {
+          "heading": "Do not collapse the crime categories",
+          "body": "The Rome Statute lists genocide, crimes against humanity, war crimes and aggression, with distinct definitions and jurisdictional rules. Genocide requires the specified intent directed at a protected group; crimes against humanity involve a widespread or systematic attack on civilians with the required knowledge and listed conduct. The categories can overlap factually but are not synonyms. Complementarity in Articles 1 and 17 concerns the relationship with genuine national proceedings and admissibility. The linked historical 1998 text is not a complete account of later aggression amendments; this lesson deliberately avoids teaching their current jurisdictional details. Read the applicable source and precise allegation."
+        }
+      ],
+      "distinctions": [
+        {
+          "left": "ICJ",
+          "right": "ICC",
+          "contrast": "Inter-State contentious disputes differ from proceedings concerning individual criminal responsibility."
+        },
+        {
+          "left": "Genocide",
+          "right": "Crimes against humanity",
+          "contrast": "The specified group-destruction intent differs from the widespread/systematic civilian-attack framework; additional elements apply."
+        }
+      ],
+      "pitfalls": [
+        "The ICC is not an appellate court for every national conviction.",
+        "A grave wrong is not automatically genocide.",
+        "The existence of a treaty does not by itself settle every jurisdiction question."
+      ],
+      "sourceIds": [
+        "b-icj",
+        "b-rome"
+      ]
+    },
+    {
+      "id": "environment",
+      "title": "Environment: principles, forum and remedy",
+      "description": "Connect the environmental principle to the problem and the legal power that can supply relief.",
+      "minutes": 20,
+      "prerequisite": "Read the core distinction before attempting the fact variations. Check the law/version stated in the question.",
+      "sections": [
+        {
+          "heading": "A principle is a method of reasoning",
+          "body": "Sustainable development, precaution and polluter pays are not three interchangeable slogans. Sustainable development requires attention to environmental protection together with development considerations; precaution addresses protective action in the face of relevant uncertainty; polluter pays concerns responsibility for environmental harm and restoration rather than permission to pollute for a fee. Section 20 of the National Green Tribunal Act expressly requires the Tribunal to apply these three principles when making its decisions, orders or awards. A short extract may supply the exact formulation for the question. Use that formulation rather than assuming a broad slogan settles every factual issue."
+        },
+        {
+          "heading": "Jurisdiction comes before a preferred remedy",
+          "body": "The Tribunal’s powers arise from the NGT Act, including its statutory jurisdiction and relief provisions. Section 14 concerns the specified civil environmental disputes, while section 15 addresses relief, compensation and restitution within its conditions. Section 19 distinguishes its procedure from being bound by the Civil Procedure Code, while preserving natural-justice guidance and specified powers. Therefore, an environmental concern alone does not make every forum or remedy interchangeable. Ask which statutory condition gives the forum authority, who seeks relief and what harm is alleged. This module does not supply a universal filing deadline or jurisdiction for every environmental dispute."
+        },
+        {
+          "heading": "Constitutional duties are not identical to rights",
+          "body": "Article 48A speaks to the State’s environmental responsibility as a Directive Principle. Article 51A(g) describes an environmental duty of citizens. Their constitutional locations differ from an independently enforceable Part III right and from the statutory jurisdiction of a Tribunal. This does not make them irrelevant; it means their legal role must be identified accurately. In revision, build a four-column matrix: constitutional provision, statutory power, environmental principle and requested remedy. Then change the facts from prevention of risk to restoration after harm. Explain why the emphasis changes without claiming one principle excludes all others."
+        }
+      ],
+      "distinctions": [
+        {
+          "left": "Precaution",
+          "right": "Polluter pays",
+          "contrast": "Anticipatory risk management differs from assigning responsibility for environmental harm and restoration."
+        },
+        {
+          "left": "Article 48A",
+          "right": "Article 51A(g)",
+          "contrast": "The former is a Directive Principle directed to the State; the latter is a citizen duty."
+        }
+      ],
+      "pitfalls": [
+        "Polluter pays is not a licence to buy permission for unlawful pollution.",
+        "A principle does not itself prove every jurisdictional condition.",
+        "Do not classify a Directive Principle as Part III merely because it is important."
+      ],
+      "sourceIds": [
+        "b-ngt",
+        "f-src-constitution"
+      ]
+    },
+    {
+      "id": "ip",
+      "title": "Intellectual property: identify the protected interest",
+      "description": "Distinguish technical inventions, expression and the limits on exclusionary rights.",
+      "minutes": 20,
+      "prerequisite": "Read the core distinction before attempting the fact variations. Check the law/version stated in the question.",
+      "sections": [
+        {
+          "heading": "Start with what the claimant wants to protect",
+          "body": "A patent claim concerns an invention meeting the legal requirements, not every useful idea or discovery. Section 3 of the Patents Act lists exclusions: a mere discovery of a scientific principle is different from a qualifying invention; a new form of a known substance raises the particular section 3(d) condition; a computer program per se raises its own statutory exclusion. Do not convert one exclusion into a ban on every related technological improvement. Read the exact clause and the facts about what is claimed. This lesson is a foundation, not a patentability opinion on a real product or software implementation."
+        },
+        {
+          "heading": "Exclusion is not unrestricted permission to exploit",
+          "body": "Section 48 describes the patentee’s exclusionary rights for product and process patents, subject to the Act. A right to stop specified unauthorised acts does not itself establish that every other regulatory approval or another person’s intellectual property is irrelevant. Section 53 sets the filing-based twenty-year term, subject to the statutory conditions; it does not say twenty years from every later commercial launch. Learn the starting date together with the duration. Do not answer a term question by recognising a number alone while ignoring whether the option measures from filing, grant or first sale."
+        },
+        {
+          "heading": "Copyright protects expression, not every underlying idea",
+          "body": "Copyright is a different form of protection. WIPO’s introductory explanation distinguishes protection of expression from underlying ideas, methods and concepts. A technical idea described in a written guide and the guide’s expressive text can therefore raise different legal questions. Protection, infringement and exceptions must be analysed separately. This module supplies general orientation from WIPO and Indian patent provisions; it does not claim an Indian copyright infringement result from facts that omit the applicable work category or exception. In a passage, identify the claimed subject matter, the exclusive act alleged and any limit before choosing a familiar IP label."
+        }
+      ],
+      "distinctions": [
+        {
+          "left": "Patent",
+          "right": "Copyright",
+          "contrast": "A qualifying invention differs from the protected expression of a work; neither protects every idea without conditions."
+        },
+        {
+          "left": "Filing date",
+          "right": "Grant date",
+          "contrast": "Patent term under section 53 is measured from the specified filing date, not simply from grant."
+        }
+      ],
+      "pitfalls": [
+        "A new label does not establish a new patentable invention.",
+        "Do not treat the patent term as beginning at first sale.",
+        "A right of exclusion is not unlimited regulatory permission."
+      ],
+      "sourceIds": [
+        "b-patent3",
+        "b-patent48",
+        "b-patent53",
+        "b-copyright"
+      ]
+    },
+    {
+      "id": "tax",
+      "title": "Tax foundations: authority, competence and supply",
+      "description": "Learn the structure of a tax question before memorising changing rates and exemptions.",
+      "minutes": 20,
+      "prerequisite": "Read the core distinction before attempting the fact variations. Check the law/version stated in the question.",
+      "sections": [
+        {
+          "heading": "Authority and legislative competence are separate",
+          "body": "Article 265 states the constitutional requirement of legal authority for the levy and collection of tax. A desired public purpose does not replace that requirement. Legislative competence is a different inquiry: ask which legislature can make the relevant law and under what constitutional provision. Article 246A contains the special GST arrangement, including Parliament’s exclusive power for the inter-State supply setting identified there. A question can therefore distinguish the existence of a valid charging law from the allocation of law-making power. During revision, keep authority, competence, taxable event and assessment machinery as separate headings rather than treating tax as one undifferentiated calculation."
+        },
+        {
+          "heading": "GST does not turn every transfer into the same supply",
+          "body": "Section 7 of the CGST Act addresses supply through specified inclusions and exclusions. The familiar business-and-consideration formulation is important, but it is not the only branch: specified Schedule I activities can be included without consideration, and Schedule III identifies matters treated neither as supplies of goods nor services. Section 8 separately addresses the tax treatment of composite and mixed supplies under its conditions. Do not conclude that absence of payment alone ends every GST inquiry. This module teaches structure, not a current rate, registration threshold or exemption entitlement; live numerical rules require checked legislation and notifications."
+        },
+        {
+          "heading": "A constitutional body is not the charging provision",
+          "body": "Article 279A establishes the GST Council and its recommendation framework. Article 269A concerns inter-State GST arrangements and related allocation matters. These constitutional functions do not replace identification of the applicable charging legislation, taxable event or the facts needed for a transaction-specific result. A useful exam method is to underline the exact question: authority to levy, competence, supply classification, rate or remedy. Only then inspect the options. Avoid importing a memorised rate into a problem that asks a constitutional question, and avoid presenting an older statutory consolidation as a complete account of every current notification."
+        }
+      ],
+      "distinctions": [
+        {
+          "left": "Article 265",
+          "right": "Article 246A",
+          "contrast": "Legal authority to levy/collect differs from the constitutional allocation of GST legislative competence."
+        },
+        {
+          "left": "Supply classification",
+          "right": "Tax rate",
+          "contrast": "Determining the legal category is different from selecting the current rate and checking an exemption."
+        }
+      ],
+      "pitfalls": [
+        "No consideration does not automatically mean no possible GST supply.",
+        "A GST Council reference is not a substitute for identifying the charging law.",
+        "Do not learn a live tax rate from an undated historical paper."
+      ],
+      "sourceIds": [
+        "f-src-constitution",
+        "b-gst-constitution",
+        "b-gst"
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc-family-1",
+      "topicId": "family",
+      "prompt": "Does judicial separation under HMA section 10 itself dissolve the marriage?",
+      "answer": "No. The marriage remains; the decree changes the obligation to cohabit. Dissolution requires the appropriate divorce decree.",
+      "why": "A remedy can change marital obligations without ending marital status.",
+      "sourceIds": [
+        "breadth-hma"
+      ]
+    },
+    {
+      "id": "fc-family-2",
+      "topicId": "family",
+      "prompt": "Who may seek support under HMA section 24?",
+      "answer": "Either wife or husband may apply when independent income is insufficient for support and necessary litigation expenses. The statutory conditions and judicial determination still matter.",
+      "why": "Do not equate the ability to apply with an automatic award.",
+      "sourceIds": [
+        "breadth-hma"
+      ]
+    },
+    {
+      "id": "fc-family-3",
+      "topicId": "family",
+      "prompt": "What is the essential section 24/section 25 distinction?",
+      "answer": "Section 24 addresses support and proceeding expenses during litigation. Section 25 deals with permanent alimony and maintenance in its specified decree-related setting.",
+      "why": "Spot the procedural stage before selecting the remedy.",
+      "sourceIds": [
+        "breadth-hma"
+      ]
+    },
+    {
+      "id": "fc-family-4",
+      "topicId": "family",
+      "prompt": "Is mutual-consent divorce simply another name for judicial separation?",
+      "answer": "No. HMA section 13B provides a route to dissolution by mutual consent subject to statutory requirements. Judicial separation does not itself dissolve the marriage.",
+      "why": "The requested legal effect identifies the remedy.",
+      "sourceIds": [
+        "breadth-hma"
+      ]
+    },
+    {
+      "id": "fc-family-5",
+      "topicId": "family",
+      "prompt": "What does dying intestate mean under HSA section 3?",
+      "answer": "It concerns property for which no testamentary disposition capable of taking effect has been made. Intestacy can therefore be partial rather than covering the entire estate.",
+      "why": "A will covering one asset does not necessarily govern every asset.",
+      "sourceIds": [
+        "breadth-hsa"
+      ]
+    },
+    {
+      "id": "fc-family-6",
+      "topicId": "family",
+      "prompt": "What is the core effect of amended HSA section 6 for a daughter?",
+      "answer": "In a Mitakshara joint Hindu family, a daughter of a coparcener becomes a coparcener by birth with the corresponding rights and liabilities of a son. Statutory savings for earlier transactions and partitions must still be checked.",
+      "why": "Equality of status is not permission to ignore the provisos.",
+      "sourceIds": [
+        "breadth-hsa"
+      ]
+    },
+    {
+      "id": "fc-family-7",
+      "topicId": "family",
+      "prompt": "How do agnates and cognates differ under the HSA?",
+      "answer": "Agnate relationships run wholly through males by blood or adoption. Cognate relationships are by blood or adoption but not wholly through males.",
+      "why": "The connecting chain, not simply the sex of the claimant, controls.",
+      "sourceIds": [
+        "breadth-hsa"
+      ]
+    },
+    {
+      "id": "fc-family-8",
+      "topicId": "family",
+      "prompt": "For a male Hindu dying intestate, what should precede share arithmetic?",
+      "answer": "Identify the property and apply section 8 to determine the relevant succession class. Then use sections 9 and 10, where applicable, to order heirs and distribute shares.",
+      "why": "First identify the governing category; only then count shares.",
+      "sourceIds": [
+        "breadth-hsa"
+      ]
+    },
+    {
+      "id": "fc-property-1",
+      "topicId": "property",
+      "prompt": "Does a contract for sale itself create an interest or charge under TPA section 54?",
+      "answer": "No. It records an agreement for a future sale on settled terms. Ownership and formal completion must be analysed separately.",
+      "why": "Do not confuse a contractual entitlement with title.",
+      "sourceIds": [
+        "breadth-tpa"
+      ]
+    },
+    {
+      "id": "fc-property-2",
+      "topicId": "property",
+      "prompt": "What is transferred in a sale under TPA section 54?",
+      "answer": "Ownership is transferred in exchange for a price paid, promised, or partly paid and partly promised. The statutory formalities must also be satisfied.",
+      "why": "Full prior payment is not the only permitted payment pattern.",
+      "sourceIds": [
+        "breadth-tpa"
+      ]
+    },
+    {
+      "id": "fc-property-3",
+      "topicId": "property",
+      "prompt": "What is the defining purpose of a mortgage under TPA section 58(a)?",
+      "answer": "An interest in specified immovable property is transferred to secure the stated debt or pecuniary obligation. Security, not ordinary enjoyment alone, is the key purpose.",
+      "why": "Identify why the interest was transferred.",
+      "sourceIds": [
+        "breadth-tpa"
+      ]
+    },
+    {
+      "id": "fc-property-4",
+      "topicId": "property",
+      "prompt": "What does a lease under TPA section 105 transfer?",
+      "answer": "It transfers a right to enjoy immovable property for the specified period or in perpetuity, for the stipulated consideration. It is not defined as an outright sale of ownership.",
+      "why": "Enjoyment and ownership are different legal interests.",
+      "sourceIds": [
+        "breadth-tpa"
+      ]
+    },
+    {
+      "id": "fc-property-5",
+      "topicId": "property",
+      "prompt": "What is the mortgage principle associated with TPA section 60?",
+      "answer": "The mortgagor has the statutory right to redeem on the specified conditions. Check qualifications, including whether the right has been extinguished as recognised by law.",
+      "why": "Do not treat a security as irredeemable by assumption.",
+      "sourceIds": [
+        "breadth-tpa"
+      ]
+    },
+    {
+      "id": "fc-property-6",
+      "topicId": "property",
+      "prompt": "Can an heir-apparent transfer a mere chance of inheriting an estate?",
+      "answer": "Section 6(a) excludes that mere possibility from transferable property. An expectation is different from an existing vested interest.",
+      "why": "A future hope is not necessarily a presently transferable asset.",
+      "sourceIds": [
+        "breadth-tpa"
+      ]
+    },
+    {
+      "id": "fc-property-7",
+      "topicId": "property",
+      "prompt": "What distinguishes a gift under TPA section 122?",
+      "answer": "It is a voluntary transfer of existing property without consideration, with the required acceptance. Acceptance must occur during the donor’s lifetime while the donor is capable of giving.",
+      "why": "A gift needs more than an unaccepted intention.",
+      "sourceIds": [
+        "breadth-tpa"
+      ]
+    },
+    {
+      "id": "fc-property-8",
+      "topicId": "property",
+      "prompt": "Does lis pendens simply mean every pending-litigation transfer is void?",
+      "answer": "No. Section 52 limits dealing with property so that rights determined by the litigation are not defeated. Apply the statutory litigation and property conditions.",
+      "why": "Subordination to the eventual result differs from automatic nullity.",
+      "sourceIds": [
+        "breadth-tpa"
+      ]
+    },
+    {
+      "id": "fc-company-securities-1",
+      "topicId": "company-securities",
+      "prompt": "What changes on incorporation under Companies Act section 9?",
+      "answer": "The company becomes a body corporate with the legal capacities and continuing existence specified by the statute. It is distinct from its members.",
+      "why": "The first task is to identify the correct legal actor.",
+      "sourceIds": [
+        "b-company",
+        "b-sebi"
+      ]
+    },
+    {
+      "id": "fc-company-securities-2",
+      "topicId": "company-securities",
+      "prompt": "Does a shareholder personally own each company asset?",
+      "answer": "No. Shares represent the shareholder’s interest; company assets belong to the separate company. Specific exceptions and statutory liabilities require their own basis.",
+      "why": "Separate the investment from ownership of underlying assets.",
+      "sourceIds": [
+        "b-company",
+        "b-sebi"
+      ]
+    },
+    {
+      "id": "fc-company-securities-3",
+      "topicId": "company-securities",
+      "prompt": "What is the core section 166 director-duty checklist?",
+      "answer": "Check good faith, care and diligence, independent judgment and conflicts of interest against the statutory language. A favourable result alone does not answer those questions.",
+      "why": "Outcome and compliance are different inquiries.",
+      "sourceIds": [
+        "b-company",
+        "b-sebi"
+      ]
+    },
+    {
+      "id": "fc-company-securities-4",
+      "topicId": "company-securities",
+      "prompt": "What distinction matters between sections 34 and 35?",
+      "answer": "They separately address criminal and civil consequences relating to misleading prospectuses. Identify the elements and defences rather than assuming one consequence automatically proves the other.",
+      "why": "A common disclosure topic contains different legal tasks.",
+      "sourceIds": [
+        "b-company",
+        "b-sebi"
+      ]
+    },
+    {
+      "id": "fc-company-securities-5",
+      "topicId": "company-securities",
+      "prompt": "What does SEBI Act section 11(1) principally concern?",
+      "answer": "Investor protection together with development and regulation of the securities market, subject to the Act. It is not the board of directors of a particular company.",
+      "why": "Match the institution to its statutory function.",
+      "sourceIds": [
+        "b-company",
+        "b-sebi"
+      ]
+    },
+    {
+      "id": "fc-company-securities-6",
+      "topicId": "company-securities",
+      "prompt": "Is CSR identical for every company?",
+      "answer": "No. Section 135 applies through its statutory coverage conditions and associated requirements. Check the applicable consolidated provision before learning numerical thresholds.",
+      "why": "Avoid an absolute statement about every company.",
+      "sourceIds": [
+        "b-company",
+        "b-sebi"
+      ]
+    },
+    {
+      "id": "fc-company-securities-7",
+      "topicId": "company-securities",
+      "prompt": "Is every company necessarily listed on a stock exchange?",
+      "answer": "No. Incorporation and stock-exchange listing are different legal statuses. A question must supply the relevant status.",
+      "why": "Listing-specific rules cannot be applied merely because an entity is a company.",
+      "sourceIds": [
+        "b-company",
+        "b-sebi"
+      ]
+    },
+    {
+      "id": "fc-company-securities-8",
+      "topicId": "company-securities",
+      "prompt": "What is a useful four-part company-law passage map?",
+      "answer": "Identify the actor, source of duty, facts triggering the duty and requested consequence. Then check any statutory exception or defence.",
+      "why": "This prevents a regulator, director and shareholder from being conflated.",
+      "sourceIds": [
+        "b-company",
+        "b-sebi"
+      ]
+    },
+    {
+      "id": "fc-labour-1",
+      "topicId": "labour",
+      "prompt": "What should be checked before applying a labour protection?",
+      "answer": "Identify the governing enactment and its defined person or establishment category. A job title alone is insufficient.",
+      "why": "Coverage comes before a remedy.",
+      "sourceIds": [
+        "b-ir",
+        "b-ir-amendment",
+        "f-src-constitution"
+      ]
+    },
+    {
+      "id": "fc-labour-2",
+      "topicId": "labour",
+      "prompt": "What is the basic purpose of collective bargaining?",
+      "answer": "Workers’ representatives and the employer negotiate employment terms. The Code’s negotiating union or council mechanism is distinct from a Tribunal deciding a dispute.",
+      "why": "Negotiating is not adjudicating.",
+      "sourceIds": [
+        "b-ir",
+        "b-ir-amendment",
+        "f-src-constitution"
+      ]
+    },
+    {
+      "id": "fc-labour-3",
+      "topicId": "labour",
+      "prompt": "How does conciliation differ from adjudication?",
+      "answer": "Conciliation works toward settlement through the statutory process. Adjudication involves the legally empowered forum deciding the dispute.",
+      "why": "Choose the mechanism that matches the facts.",
+      "sourceIds": [
+        "b-ir",
+        "b-ir-amendment",
+        "f-src-constitution"
+      ]
+    },
+    {
+      "id": "fc-labour-4",
+      "topicId": "labour",
+      "prompt": "What is the section 104 transition trap after the 2026 amendment?",
+      "answer": "Do not assume older authorities instantly stop functioning. The amendment expressly addresses their continuation until corresponding Code authorities become functional.",
+      "why": "A change in enactment and institutional continuity can coexist.",
+      "sourceIds": [
+        "b-ir",
+        "b-ir-amendment",
+        "f-src-constitution"
+      ]
+    },
+    {
+      "id": "fc-labour-5",
+      "topicId": "labour",
+      "prompt": "What does Article 23 principally address?",
+      "answer": "It prohibits trafficking and forced labour, subject to its text including the compulsory-service qualification. It is a Part III protection.",
+      "why": "Do not substitute a policy provision for the relevant right.",
+      "sourceIds": [
+        "b-ir",
+        "b-ir-amendment",
+        "f-src-constitution"
+      ]
+    },
+    {
+      "id": "fc-labour-6",
+      "topicId": "labour",
+      "prompt": "What is the core Article 24 protection?",
+      "answer": "It concerns employment of children below fourteen in factories, mines or other hazardous employment. Do not expand the text into an unqualified statement about every activity.",
+      "why": "The age and employment setting are both important.",
+      "sourceIds": [
+        "b-ir",
+        "b-ir-amendment",
+        "f-src-constitution"
+      ]
+    },
+    {
+      "id": "fc-labour-7",
+      "topicId": "labour",
+      "prompt": "Where does worker participation in management appear constitutionally?",
+      "answer": "Article 43A addresses it as a Directive Principle. It should not be described as a separately enforceable Part III right merely because it concerns workers.",
+      "why": "Constitutional location changes the legal character.",
+      "sourceIds": [
+        "b-ir",
+        "b-ir-amendment",
+        "f-src-constitution"
+      ]
+    },
+    {
+      "id": "fc-labour-8",
+      "topicId": "labour",
+      "prompt": "How should an old paper’s labour-law reference be revised for a new exam?",
+      "answer": "Learn what the historical question actually states, then separately check the current statute, commencement, amendments and savings. Do not silently replace section numbers.",
+      "why": "Preserve the difference between a historical question and current law.",
+      "sourceIds": [
+        "b-ir",
+        "b-ir-amendment",
+        "f-src-constitution"
+      ]
+    },
+    {
+      "id": "fc-international-1",
+      "topicId": "international",
+      "prompt": "Who can be parties in ICJ contentious cases under Article 34?",
+      "answer": "States. This is distinct from an individual’s criminal responsibility before the ICC or an advisory request by an authorised body.",
+      "why": "Identify the legal actor before the forum.",
+      "sourceIds": [
+        "b-icj",
+        "b-rome"
+      ]
+    },
+    {
+      "id": "fc-international-2",
+      "topicId": "international",
+      "prompt": "What is the ICC’s basic personal focus?",
+      "answer": "The Rome Statute provides for individual criminal responsibility within the Court’s jurisdiction and admissibility requirements. It is not an ordinary civil forum for every dispute between States.",
+      "why": "Institution names can sound similar while their tasks differ.",
+      "sourceIds": [
+        "b-icj",
+        "b-rome"
+      ]
+    },
+    {
+      "id": "fc-international-3",
+      "topicId": "international",
+      "prompt": "What does ICJ Article 59 limit?",
+      "answer": "The binding force of a decision is between the parties and for that particular case. Do not describe every ICJ judgment as a statute binding all States in all later disputes.",
+      "why": "Binding effect is a separate question from persuasive or subsidiary use.",
+      "sourceIds": [
+        "b-icj",
+        "b-rome"
+      ]
+    },
+    {
+      "id": "fc-international-4",
+      "topicId": "international",
+      "prompt": "What is the purpose of ICJ Article 38 in revision?",
+      "answer": "It identifies the law and subsidiary means the Court uses in deciding disputes. It does not by itself supply a State’s consent to every case.",
+      "why": "Applicable law and jurisdiction are different inquiries.",
+      "sourceIds": [
+        "b-icj",
+        "b-rome"
+      ]
+    },
+    {
+      "id": "fc-international-5",
+      "topicId": "international",
+      "prompt": "What distinctive intent matters to genocide?",
+      "answer": "The intent to destroy, wholly or partly, a protected national, ethnic, racial or religious group as such, together with the specified acts. Serious violence alone does not establish every element.",
+      "why": "Do not infer a precise international offence from severity alone.",
+      "sourceIds": [
+        "b-icj",
+        "b-rome"
+      ]
+    },
+    {
+      "id": "fc-international-6",
+      "topicId": "international",
+      "prompt": "What contextual requirement matters for crimes against humanity?",
+      "answer": "The specified acts must be part of a widespread or systematic attack directed against a civilian population, with the required knowledge. Check the full definition and conduct element.",
+      "why": "A single label must be tested against its contextual elements.",
+      "sourceIds": [
+        "b-icj",
+        "b-rome"
+      ]
+    },
+    {
+      "id": "fc-international-7",
+      "topicId": "international",
+      "prompt": "What does complementarity broadly concern?",
+      "answer": "The ICC’s relationship with national criminal proceedings and admissibility, including whether relevant national proceedings are genuine under the Statute. It is not universal automatic appellate review.",
+      "why": "The international court is not a substitute for every domestic trial.",
+      "sourceIds": [
+        "b-icj",
+        "b-rome"
+      ]
+    },
+    {
+      "id": "fc-international-8",
+      "topicId": "international",
+      "prompt": "Why is the original 1998 aggression clause a version warning?",
+      "answer": "Later amendments and conditions affect aggression jurisdiction. Do not teach the original future-amendment clause as the whole current position.",
+      "why": "A primary historical text can still require later amendments.",
+      "sourceIds": [
+        "b-icj",
+        "b-rome"
+      ]
+    },
+    {
+      "id": "fc-environment-1",
+      "topicId": "environment",
+      "prompt": "Which three principles does NGT Act section 20 name?",
+      "answer": "Sustainable development, the precautionary principle and polluter pays. The Tribunal must apply them within its statutory work.",
+      "why": "A precise statutory trio is more useful than a vague slogan.",
+      "sourceIds": [
+        "b-ngt",
+        "f-src-constitution"
+      ]
+    },
+    {
+      "id": "fc-environment-2",
+      "topicId": "environment",
+      "prompt": "What is the basic precautionary distinction?",
+      "answer": "It concerns protective reasoning about relevant environmental risk and uncertainty, rather than waiting for every harm to become certain. Its application still depends on the governing law and facts.",
+      "why": "Risk prevention and post-harm compensation are different tasks.",
+      "sourceIds": [
+        "b-ngt",
+        "f-src-constitution"
+      ]
+    },
+    {
+      "id": "fc-environment-3",
+      "topicId": "environment",
+      "prompt": "Does polluter pays authorise pollution after payment?",
+      "answer": "No. It concerns responsibility for environmental harm and restoration, not a general permission to pollute unlawfully.",
+      "why": "Avoid converting a responsibility principle into a licence.",
+      "sourceIds": [
+        "b-ngt",
+        "f-src-constitution"
+      ]
+    },
+    {
+      "id": "fc-environment-4",
+      "topicId": "environment",
+      "prompt": "Where is the State’s constitutional environment provision?",
+      "answer": "Article 48A, among the Directive Principles. Its constitutional role differs from the citizen duty in Article 51A(g).",
+      "why": "Identify the addressee and constitutional location.",
+      "sourceIds": [
+        "b-ngt",
+        "f-src-constitution"
+      ]
+    },
+    {
+      "id": "fc-environment-5",
+      "topicId": "environment",
+      "prompt": "What does Article 51A(g) identify?",
+      "answer": "A citizen’s duty concerning the natural environment and compassion for living creatures. It is a Fundamental Duty, not itself a Part III article.",
+      "why": "Similar policy concerns appear in different constitutional categories.",
+      "sourceIds": [
+        "b-ngt",
+        "f-src-constitution"
+      ]
+    },
+    {
+      "id": "fc-environment-6",
+      "topicId": "environment",
+      "prompt": "What distinction matters between NGT Act sections 14 and 15?",
+      "answer": "Section 14 concerns the specified jurisdictional dispute setting; section 15 addresses relief, compensation and restitution under its conditions. A desirable remedy does not establish jurisdiction automatically.",
+      "why": "Forum power and remedy should be tested separately.",
+      "sourceIds": [
+        "b-ngt",
+        "f-src-constitution"
+      ]
+    },
+    {
+      "id": "fc-environment-7",
+      "topicId": "environment",
+      "prompt": "Does NGT section 19 simply exclude fair procedure?",
+      "answer": "No. The Act distinguishes its procedure from being bound by the CPC while guiding it by natural justice and conferring specified procedural powers.",
+      "why": "Procedural flexibility is not absence of fairness.",
+      "sourceIds": [
+        "b-ngt",
+        "f-src-constitution"
+      ]
+    },
+    {
+      "id": "fc-environment-8",
+      "topicId": "environment",
+      "prompt": "What is a useful environment-passage checklist?",
+      "answer": "Identify the risk or harm, applicable statutory forum, principle and remedy. Check each link rather than selecting a principle solely because its name is familiar.",
+      "why": "A four-part map prevents a slogan-based answer.",
+      "sourceIds": [
+        "b-ngt",
+        "f-src-constitution"
+      ]
+    },
+    {
+      "id": "fc-ip-1",
+      "topicId": "ip",
+      "prompt": "Does discovering a scientific principle automatically create a patentable invention?",
+      "answer": "No. Section 3(c) excludes the mere discovery of a scientific principle or formulation of an abstract theory, among other specified matters. Check the claimed invention.",
+      "why": "Discovery and invention should not be collapsed.",
+      "sourceIds": [
+        "b-patent3",
+        "b-patent48",
+        "b-patent53",
+        "b-copyright"
+      ]
+    },
+    {
+      "id": "fc-ip-2",
+      "topicId": "ip",
+      "prompt": "What is the section 3(d) known-substance warning?",
+      "answer": "A mere new form of a known substance without the required enhancement of known efficacy meets the stated exclusion. The precise text and facts matter.",
+      "why": "Do not describe every new form as automatically patentable or automatically forbidden.",
+      "sourceIds": [
+        "b-patent3",
+        "b-patent48",
+        "b-patent53",
+        "b-copyright"
+      ]
+    },
+    {
+      "id": "fc-ip-3",
+      "topicId": "ip",
+      "prompt": "What kind of right does section 48 describe?",
+      "answer": "Specified exclusionary rights for a patentee, depending on product or process, subject to the Act. It is not unlimited permission to disregard other laws.",
+      "why": "Exclusionary entitlement and regulatory permission are different.",
+      "sourceIds": [
+        "b-patent3",
+        "b-patent48",
+        "b-patent53",
+        "b-copyright"
+      ]
+    },
+    {
+      "id": "fc-ip-4",
+      "topicId": "ip",
+      "prompt": "From which event is the ordinary section 53 twenty-year term measured?",
+      "answer": "The relevant filing date, with the specified international-application rule where applicable. Statutory conditions, including renewal-related issues, still matter.",
+      "why": "The number is insufficient without its starting event.",
+      "sourceIds": [
+        "b-patent3",
+        "b-patent48",
+        "b-patent53",
+        "b-copyright"
+      ]
+    },
+    {
+      "id": "fc-ip-5",
+      "topicId": "ip",
+      "prompt": "Does copyright generally protect an underlying idea as such?",
+      "answer": "No. The basic distinction is between an idea and its protected expression. Applicable work categories, rights and exceptions still need separate analysis.",
+      "why": "A broad idea does not become privately owned merely because someone wrote about it.",
+      "sourceIds": [
+        "b-patent3",
+        "b-patent48",
+        "b-patent53",
+        "b-copyright"
+      ]
+    },
+    {
+      "id": "fc-ip-6",
+      "topicId": "ip",
+      "prompt": "Can a guide’s text and its described invention raise different IP issues?",
+      "answer": "Yes. Expressive text can raise copyright questions; the claimed technical invention raises patent-law requirements. One label does not answer both.",
+      "why": "Identify the protected interest before the remedy.",
+      "sourceIds": [
+        "b-patent3",
+        "b-patent48",
+        "b-patent53",
+        "b-copyright"
+      ]
+    },
+    {
+      "id": "fc-ip-7",
+      "topicId": "ip",
+      "prompt": "What is unsafe about saying all computer-related inventions are excluded?",
+      "answer": "Section 3(k) uses a specified formulation including a computer program per se. A blanket statement about every computer-related invention exceeds that wording.",
+      "why": "Absolute distractors often erase statutory qualifications.",
+      "sourceIds": [
+        "b-patent3",
+        "b-patent48",
+        "b-patent53",
+        "b-copyright"
+      ]
+    },
+    {
+      "id": "fc-ip-8",
+      "topicId": "ip",
+      "prompt": "What is an IP question’s three-part starting map?",
+      "answer": "Identify the subject matter, the claimed exclusive act or right, and the applicable limitation. Then check the jurisdiction and statute version.",
+      "why": "Naming the IP field alone is not a complete legal answer.",
+      "sourceIds": [
+        "b-patent3",
+        "b-patent48",
+        "b-patent53",
+        "b-copyright"
+      ]
+    },
+    {
+      "id": "fc-tax-1",
+      "topicId": "tax",
+      "prompt": "What is the Article 265 starting rule?",
+      "answer": "Tax levy and collection require authority of law. A good public purpose alone is not that legal authority.",
+      "why": "Public finance objectives do not replace the constitutional requirement.",
+      "sourceIds": [
+        "f-src-constitution",
+        "b-gst-constitution",
+        "b-gst"
+      ]
+    },
+    {
+      "id": "fc-tax-2",
+      "topicId": "tax",
+      "prompt": "What does Article 246A principally allocate?",
+      "answer": "Legislative power concerning GST, including the specified exclusive parliamentary inter-State setting. It is a competence provision.",
+      "why": "Distinguish who can legislate from the transaction’s tax computation.",
+      "sourceIds": [
+        "f-src-constitution",
+        "b-gst-constitution",
+        "b-gst"
+      ]
+    },
+    {
+      "id": "fc-tax-3",
+      "topicId": "tax",
+      "prompt": "Which provision creates the GST Council?",
+      "answer": "Article 279A. Its recommendation framework differs from the existence of a particular charging provision.",
+      "why": "Match the constitutional body to its article.",
+      "sourceIds": [
+        "f-src-constitution",
+        "b-gst-constitution",
+        "b-gst"
+      ]
+    },
+    {
+      "id": "fc-tax-4",
+      "topicId": "tax",
+      "prompt": "Does lack of consideration always end the supply inquiry?",
+      "answer": "No. Section 7 includes specified activities without consideration through Schedule I; other inclusions and exclusions must also be checked.",
+      "why": "A general branch is not the whole statutory definition.",
+      "sourceIds": [
+        "f-src-constitution",
+        "b-gst-constitution",
+        "b-gst"
+      ]
+    },
+    {
+      "id": "fc-tax-5",
+      "topicId": "tax",
+      "prompt": "What is the significance of Schedule III in the supply analysis?",
+      "answer": "It identifies specified activities or transactions treated neither as a supply of goods nor a supply of services under the statutory framework.",
+      "why": "An express exclusion cannot be ignored because the transaction sounds commercial.",
+      "sourceIds": [
+        "f-src-constitution",
+        "b-gst-constitution",
+        "b-gst"
+      ]
+    },
+    {
+      "id": "fc-tax-6",
+      "topicId": "tax",
+      "prompt": "What does CGST section 8 distinguish?",
+      "answer": "Composite and mixed supplies for their statutory tax-treatment rules. Check their conditions rather than assuming every bundle is identical.",
+      "why": "Similar commercial packaging can produce different statutory classifications.",
+      "sourceIds": [
+        "f-src-constitution",
+        "b-gst-constitution",
+        "b-gst"
+      ]
+    },
+    {
+      "id": "fc-tax-7",
+      "topicId": "tax",
+      "prompt": "What is unsafe about memorising an old-paper GST rate as current?",
+      "answer": "Rates, exemptions and notifications can change. Check the relevant date and authoritative current material before applying a number.",
+      "why": "Historical question text is not a live rate schedule.",
+      "sourceIds": [
+        "f-src-constitution",
+        "b-gst-constitution",
+        "b-gst"
+      ]
+    },
+    {
+      "id": "fc-tax-8",
+      "topicId": "tax",
+      "prompt": "What is a four-step tax-question reading order?",
+      "answer": "Identify the question asked, legislative authority/competence, taxable event or classification, and any applicable rate or exception. Keep the inquiries distinct.",
+      "why": "This avoids answering a constitutional question with a tax calculation.",
+      "sourceIds": [
+        "f-src-constitution",
+        "b-gst-constitution",
+        "b-gst"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q-family-1",
+      "topicId": "family",
+      "stem": "Under the Hindu Marriage Act, which proposition about section 24 is correct?",
+      "options": [
+        "An application automatically fixes a lifelong pension.",
+        "It transfers ownership of every matrimonial asset.",
+        "Either spouse may apply if the statutory income condition is met.",
+        "Only the wife can ever apply."
+      ],
+      "correctIndex": 2,
+      "explanation": "Section 24 covers either wife or husband and deals with support and litigation expenses while proceedings are pending. The court must decide whether its conditions are satisfied.",
+      "trap": "Do not substitute a stereotype about maintenance for the provision.",
+      "sourceIds": [
+        "breadth-hma"
+      ],
+      "type": "recall"
+    },
+    {
+      "id": "q-family-2",
+      "topicId": "family",
+      "stem": "A decree relieves spouses of the obligation to cohabit but leaves their marriage subsisting. Which remedy best matches that description?",
+      "options": [
+        "A coparcenary partition",
+        "Judicial separation",
+        "Dissolution by divorce",
+        "A testamentary disposition"
+      ],
+      "correctIndex": 1,
+      "explanation": "Judicial separation changes the cohabitation obligation without itself ending the marital bond. The facts expressly rule out dissolution.",
+      "trap": "Read the stated legal effect rather than assuming all separation is divorce.",
+      "sourceIds": [
+        "breadth-hma"
+      ],
+      "type": "distinction"
+    },
+    {
+      "id": "q-family-3",
+      "topicId": "family",
+      "stem": "A valid will disposes of one asset, but another asset has no effective testamentary disposition. What follows under the HSA definition of intestacy?",
+      "options": [
+        "The second asset can be subject to intestate succession.",
+        "There can be no intestacy anywhere because a will exists.",
+        "Every will transfers all assets whether mentioned or not.",
+        "The existence of a will abolishes coparcenary law."
+      ],
+      "correctIndex": 0,
+      "explanation": "The statutory definition is property-specific: intestacy concerns property lacking a testamentary disposition capable of taking effect.",
+      "trap": "A partial will is not necessarily a complete estate plan.",
+      "sourceIds": [
+        "breadth-hsa"
+      ],
+      "type": "application"
+    },
+    {
+      "id": "q-family-4",
+      "topicId": "family",
+      "stem": "Which statement is NOT an accurate summary of amended HSA section 6?",
+      "options": [
+        "The provision concerns a Mitakshara joint Hindu family.",
+        "It recognises the daughter of a coparcener as a coparcener by birth.",
+        "Its savings for earlier dispositions and partitions require attention.",
+        "A daughter has no coparcenary status merely because she is female."
+      ],
+      "correctIndex": 3,
+      "explanation": "The incorrect statement denies the daughter the status that amended section 6 expressly recognises. The remaining statements preserve the provision and qualifications.",
+      "trap": "The negative stem asks for the inaccurate proposition.",
+      "sourceIds": [
+        "breadth-hsa"
+      ],
+      "type": "negative"
+    },
+    {
+      "id": "q-property-1",
+      "topicId": "property",
+      "stem": "A signs an agreement promising to sell land to B later. The only established document is that agreement. Under TPA section 54, which claim is justified?",
+      "options": [
+        "The transaction must already be a mortgage.",
+        "The agreement can never create contractual obligations.",
+        "The agreement does not of itself create an interest in or charge on the land.",
+        "B necessarily becomes full owner immediately."
+      ],
+      "correctIndex": 2,
+      "explanation": "Section 54 distinguishes the contract for sale from the sale itself. The question establishes no completed conveyance.",
+      "trap": "Do not turn the absence of title into the absence of all contractual rights.",
+      "sourceIds": [
+        "breadth-tpa"
+      ],
+      "type": "application"
+    },
+    {
+      "id": "q-property-2",
+      "topicId": "property",
+      "stem": "Which transaction most directly fits a mortgage as defined in TPA section 58(a)?",
+      "options": [
+        "Permission to enter a cinema",
+        "Transfer of an interest in specified land to secure repayment of a loan",
+        "An unconditional gift of a watch",
+        "A mere expectation of future inheritance"
+      ],
+      "correctIndex": 1,
+      "explanation": "The security purpose and specified immovable property are central to the mortgage definition.",
+      "trap": "Classify the interest and purpose, not merely the presence of money.",
+      "sourceIds": [
+        "breadth-tpa"
+      ],
+      "type": "recall"
+    },
+    {
+      "id": "q-property-3",
+      "topicId": "property",
+      "stem": "Which proposition about lis pendens is NOT accurate?",
+      "options": [
+        "Every transfer during any litigation is automatically void.",
+        "Section 52 concerns qualifying litigation over rights to immovable property.",
+        "The eventual adjudicated rights cannot be defeated by the dealing described in the section.",
+        "The conditions of the provision must be checked."
+      ],
+      "correctIndex": 0,
+      "explanation": "The section does not announce automatic voidness for every transfer during every case. Its conditions and effect on adjudicated rights matter.",
+      "trap": "Reject absolute wording that removes statutory conditions.",
+      "sourceIds": [
+        "breadth-tpa"
+      ],
+      "type": "negative"
+    },
+    {
+      "id": "q-property-4",
+      "topicId": "property",
+      "stem": "Which pair correctly identifies the interests ordinarily defined by the TPA?",
+      "options": [
+        "Sale: only custody; lease: necessarily ownership",
+        "Mortgage: future inheritance; gift: compulsory consideration",
+        "Lease: criminal jurisdiction; sale: a right to vote",
+        "Sale: ownership; lease: right to enjoy"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sections 54 and 105 distinguish ownership in a sale from the right of enjoyment in a lease.",
+      "trap": "Legal interests are not interchangeable because both concern land.",
+      "sourceIds": [
+        "breadth-tpa"
+      ],
+      "type": "distinction"
+    },
+    {
+      "id": "q-company-securities-1",
+      "topicId": "company-securities",
+      "stem": "A shareholder claims personal ownership of a warehouse bought by the incorporated company. What is the sound starting point?",
+      "options": [
+        "Every asset belongs personally to each shareholder.",
+        "The company is a separate legal person holding its assets.",
+        "Only the managing director can own property.",
+        "Incorporation eliminates all property rights."
+      ],
+      "correctIndex": 1,
+      "explanation": "Section 9 supplies the separate corporate starting point. A shareholder’s shares do not themselves transfer title to each company asset.",
+      "trap": "Do not confuse share ownership with ownership of the company’s property.",
+      "type": "application",
+      "sourceIds": [
+        "b-company",
+        "b-sebi"
+      ]
+    },
+    {
+      "id": "q-company-securities-2",
+      "topicId": "company-securities",
+      "stem": "Which institution has the statutory securities-market investor-protection mandate in SEBI Act section 11?",
+      "options": [
+        "A particular company’s board",
+        "Every shareholder individually",
+        "SEBI",
+        "The company’s auditor alone"
+      ],
+      "correctIndex": 2,
+      "explanation": "Section 11 concerns the Securities and Exchange Board of India, not the board of directors of a private company.",
+      "trap": "Two uses of “board” need not identify the same institution.",
+      "type": "distinction",
+      "sourceIds": [
+        "b-company",
+        "b-sebi"
+      ]
+    },
+    {
+      "id": "q-company-securities-3",
+      "topicId": "company-securities",
+      "stem": "Which statement about directors’ duties is NOT sound?",
+      "options": [
+        "A potential conflict requires legal attention.",
+        "Care and diligence matter.",
+        "Independent judgment is relevant.",
+        "A profitable outcome automatically cures every conflict of interest."
+      ],
+      "correctIndex": 3,
+      "explanation": "Section 166 duties are not displaced merely by a favourable commercial outcome. The facts and statutory duty still need examination.",
+      "trap": "Result and legal compliance must be assessed separately.",
+      "type": "negative",
+      "sourceIds": [
+        "b-company",
+        "b-sebi"
+      ]
+    },
+    {
+      "id": "q-company-securities-4",
+      "topicId": "company-securities",
+      "stem": "A prospectus problem distinguishes criminal liability from civil compensation. Which statutory pair should be examined?",
+      "options": [
+        "Sections 34 and 35",
+        "Articles 32 and 226",
+        "Only section 9",
+        "Only the definition of a shareholder"
+      ],
+      "correctIndex": 0,
+      "explanation": "Companies Act sections 34 and 35 separately address criminal and civil consequences relating to prospectus misstatements, subject to their conditions.",
+      "trap": "A common document can engage more than one kind of liability.",
+      "type": "recall",
+      "sourceIds": [
+        "b-company",
+        "b-sebi"
+      ]
+    },
+    {
+      "id": "q-labour-1",
+      "topicId": "labour",
+      "stem": "An officer helps parties seek a settlement rather than deciding the merits through an award. Which description best fits?",
+      "options": [
+        "Conciliation",
+        "Automatic criminal conviction",
+        "Constitutional amendment",
+        "Company incorporation"
+      ],
+      "correctIndex": 0,
+      "explanation": "Conciliation is the settlement-seeking mechanism; it is distinct from adjudication of a dispute by the competent forum.",
+      "trap": "Do not turn every statutory intervention into an adjudicatory decision.",
+      "type": "distinction",
+      "sourceIds": [
+        "b-ir",
+        "b-ir-amendment",
+        "f-src-constitution"
+      ]
+    },
+    {
+      "id": "q-labour-2",
+      "topicId": "labour",
+      "stem": "Which constitutional provision concerns worker participation in management as a Directive Principle?",
+      "options": [
+        "Article 20",
+        "Article 43A",
+        "Article 32",
+        "Article 300A"
+      ],
+      "correctIndex": 1,
+      "explanation": "Article 43A addresses participation of workers in management. Its location as a Directive Principle matters.",
+      "trap": "A labour-related provision is not automatically a fundamental right.",
+      "type": "recall",
+      "sourceIds": [
+        "b-ir",
+        "b-ir-amendment",
+        "f-src-constitution"
+      ]
+    },
+    {
+      "id": "q-labour-3",
+      "topicId": "labour",
+      "stem": "Which inference about the 2026 Industrial Relations Code amendment is NOT safe?",
+      "options": [
+        "Transition provisions should be read.",
+        "The relevant authority’s legal function should be checked.",
+        "Every older authority necessarily stopped functioning immediately.",
+        "Historical and current provisions should be distinguished."
+      ],
+      "correctIndex": 2,
+      "explanation": "The amendment expressly addresses continuation of older tribunals and statutory authorities until the corresponding new institutions become functional.",
+      "trap": "An absolute institutional-disappearance claim ignores the transition provision.",
+      "type": "negative",
+      "sourceIds": [
+        "b-ir",
+        "b-ir-amendment",
+        "f-src-constitution"
+      ]
+    },
+    {
+      "id": "q-labour-4",
+      "topicId": "labour",
+      "stem": "A person is called an employee in a problem. What should be checked first before applying a worker-specific Code rule?",
+      "options": [
+        "Their preferred job title alone",
+        "Whether the employer is popular",
+        "Whether the dispute appears in an old paper",
+        "The statutory definition and actual role"
+      ],
+      "correctIndex": 3,
+      "explanation": "The statutory category and actual functions determine the starting coverage inquiry. A broad everyday label is not enough.",
+      "trap": "Everyday language can be broader than a legal definition.",
+      "type": "application",
+      "sourceIds": [
+        "b-ir",
+        "b-ir-amendment",
+        "f-src-constitution"
+      ]
+    },
+    {
+      "id": "q-international-1",
+      "topicId": "international",
+      "stem": "An individual wants to be the applicant party in an ordinary ICJ contentious case. What is the Article 34 obstacle?",
+      "options": [
+        "Only States may be parties in that jurisdiction.",
+        "The ICC must approve all ICJ applications.",
+        "Individuals automatically acquire standing through citizenship.",
+        "The ICJ hears only domestic contract claims."
+      ],
+      "correctIndex": 0,
+      "explanation": "Article 34 limits parties in contentious cases to States. Other international procedures do not erase that condition.",
+      "trap": "Do not confuse an individual’s interest with contentious-party standing.",
+      "type": "application",
+      "sourceIds": [
+        "b-icj",
+        "b-rome"
+      ]
+    },
+    {
+      "id": "q-international-2",
+      "topicId": "international",
+      "stem": "Which feature is particularly associated with the Rome Statute genocide definition?",
+      "options": [
+        "Any commercial loss",
+        "Intent to destroy a protected group as such",
+        "Every breach of a treaty",
+        "A disagreement between two companies"
+      ],
+      "correctIndex": 1,
+      "explanation": "The specified group-destruction intent is a defining requirement alongside the enumerated acts. Violence alone does not prove that intent.",
+      "trap": "Severity does not make every wrong the same crime category.",
+      "type": "distinction",
+      "sourceIds": [
+        "b-icj",
+        "b-rome"
+      ]
+    },
+    {
+      "id": "q-international-3",
+      "topicId": "international",
+      "stem": "Which statement about ICJ decisions is NOT supported by Article 59?",
+      "options": [
+        "They bind the parties in the particular case.",
+        "Their legal reasoning can be studied.",
+        "Each decision automatically legislates for every State in all disputes.",
+        "Binding effect and other uses should be distinguished."
+      ],
+      "correctIndex": 2,
+      "explanation": "Article 59 limits binding force between the parties and in that case; it does not turn a judgment into universal legislation.",
+      "trap": "Do not conflate binding effect with broader persuasive use.",
+      "type": "negative",
+      "sourceIds": [
+        "b-icj",
+        "b-rome"
+      ]
+    },
+    {
+      "id": "q-international-4",
+      "topicId": "international",
+      "stem": "Which institution is associated with individual criminal responsibility under the Rome Statute?",
+      "options": [
+        "A national company registrar",
+        "The UN General Assembly acting as a trial court",
+        "The ICJ in every private complaint",
+        "The ICC"
+      ],
+      "correctIndex": 3,
+      "explanation": "The ICC is the institution established by the Rome Statute for individual criminal responsibility subject to its conditions.",
+      "trap": "Match the actor, institution and legal instrument.",
+      "type": "recall",
+      "sourceIds": [
+        "b-icj",
+        "b-rome"
+      ]
+    },
+    {
+      "id": "q-environment-1",
+      "topicId": "environment",
+      "stem": "Which is NOT one of the three principles expressly listed in NGT Act section 20?",
+      "options": [
+        "Sustainable development",
+        "Precautionary principle",
+        "Polluter pays",
+        "Unlimited permission to pollute after payment"
+      ],
+      "correctIndex": 3,
+      "explanation": "Section 20 names sustainable development, precaution and polluter pays. It does not create the proposed permission.",
+      "trap": "Polluter pays assigns responsibility; it is not a pollution licence.",
+      "type": "negative",
+      "sourceIds": [
+        "b-ngt",
+        "f-src-constitution"
+      ]
+    },
+    {
+      "id": "q-environment-2",
+      "topicId": "environment",
+      "stem": "A passage focuses on protective action before uncertain environmental harm fully materialises. Which principle is most closely engaged?",
+      "options": [
+        "Precaution",
+        "Separate corporate personality",
+        "Double jeopardy",
+        "Privity of contract"
+      ],
+      "correctIndex": 0,
+      "explanation": "The precautionary principle concerns protective reasoning about environmental risk and uncertainty, within the applicable legal framework.",
+      "trap": "Do not confuse prevention with only post-harm compensation.",
+      "type": "application",
+      "sourceIds": [
+        "b-ngt",
+        "f-src-constitution"
+      ]
+    },
+    {
+      "id": "q-environment-3",
+      "topicId": "environment",
+      "stem": "Which pairing correctly distinguishes the Constitution’s environmental provisions?",
+      "options": [
+        "48A: Part III right; 51A(g): company duty",
+        "48A: State Directive Principle; 51A(g): citizen duty",
+        "48A: a tax schedule; 51A(g): an offence definition",
+        "Both are identical statutory damages provisions"
+      ],
+      "correctIndex": 1,
+      "explanation": "Article 48A is a Directive Principle and Article 51A(g) is a Fundamental Duty of citizens. Their legal positions differ.",
+      "trap": "Subject similarity does not erase constitutional categories.",
+      "type": "distinction",
+      "sourceIds": [
+        "b-ngt",
+        "f-src-constitution"
+      ]
+    },
+    {
+      "id": "q-environment-4",
+      "topicId": "environment",
+      "stem": "A claimant has identified a desirable environmental remedy. What separate question remains necessary?",
+      "options": [
+        "Whether the slogan is memorable",
+        "Whether a company has shares",
+        "Whether the statutory forum has jurisdiction and the remedy’s conditions are met",
+        "Whether all statutes have the same procedure"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jurisdiction and the statutory conditions of relief remain separate inquiries. A desired result does not create forum power.",
+      "trap": "Do not reason backward from a preferred remedy to assumed jurisdiction.",
+      "type": "application",
+      "sourceIds": [
+        "b-ngt",
+        "f-src-constitution"
+      ]
+    },
+    {
+      "id": "q-ip-1",
+      "topicId": "ip",
+      "stem": "Under section 53, which starting point is relevant to the ordinary twenty-year patent term?",
+      "options": [
+        "The first advertising campaign",
+        "The relevant filing date",
+        "The first profitable year",
+        "Every new resale"
+      ],
+      "correctIndex": 1,
+      "explanation": "Section 53 links the term to the relevant filing date, including its specified international-application rule. Conditions remain relevant.",
+      "trap": "Do not confuse filing, grant and commercial launch.",
+      "type": "recall",
+      "sourceIds": [
+        "b-patent3",
+        "b-patent48",
+        "b-patent53",
+        "b-copyright"
+      ]
+    },
+    {
+      "id": "q-ip-2",
+      "topicId": "ip",
+      "stem": "A writer claims copyright ownership of the abstract idea of organising notes by colour, without identifying copied expression. What is the main conceptual problem?",
+      "options": [
+        "Copyright never covers written works.",
+        "Ideas are always patented automatically.",
+        "Copyright generally protects expression rather than the underlying idea as such.",
+        "Every useful idea is a registered trade mark."
+      ],
+      "correctIndex": 2,
+      "explanation": "The idea–expression distinction prevents a claim to every use of an underlying idea merely because it has been described.",
+      "trap": "Identify expression before assuming an exclusive right over an idea.",
+      "type": "application",
+      "sourceIds": [
+        "b-patent3",
+        "b-patent48",
+        "b-patent53",
+        "b-copyright"
+      ]
+    },
+    {
+      "id": "q-ip-3",
+      "topicId": "ip",
+      "stem": "Which proposition is NOT a safe description of a patent right?",
+      "options": [
+        "Section 48 describes exclusionary rights.",
+        "The Act contains limitations.",
+        "Product and process claims require attention.",
+        "A patent automatically removes all other regulatory requirements."
+      ],
+      "correctIndex": 3,
+      "explanation": "A patentee’s exclusionary rights do not themselves erase other applicable legal restrictions or permissions.",
+      "trap": "A right to exclude others is not an unrestricted permission to exploit.",
+      "type": "negative",
+      "sourceIds": [
+        "b-patent3",
+        "b-patent48",
+        "b-patent53",
+        "b-copyright"
+      ]
+    },
+    {
+      "id": "q-ip-4",
+      "topicId": "ip",
+      "stem": "A claim is only the discovery of a scientific principle. Which provision is the immediate statutory starting point?",
+      "options": [
+        "Patents Act section 3(c)",
+        "Article 79",
+        "ICJ Article 59",
+        "Companies Act section 135"
+      ],
+      "correctIndex": 0,
+      "explanation": "Section 3(c) addresses the mere discovery of a scientific principle and the other matters specified there.",
+      "trap": "Match the precise exclusion to the claimed subject matter.",
+      "type": "distinction",
+      "sourceIds": [
+        "b-patent3",
+        "b-patent48",
+        "b-patent53",
+        "b-copyright"
+      ]
+    },
+    {
+      "id": "q-tax-1",
+      "topicId": "tax",
+      "stem": "Which constitutional requirement most directly addresses authority for levy and collection of tax?",
+      "options": [
+        "Article 265",
+        "Article 51A(g)",
+        "Article 79",
+        "Article 123 alone"
+      ],
+      "correctIndex": 0,
+      "explanation": "Article 265 supplies the authority-of-law requirement. This differs from competence allocations and other constitutional functions.",
+      "trap": "Do not substitute a public-purpose argument for legal authority.",
+      "type": "recall",
+      "sourceIds": [
+        "f-src-constitution",
+        "b-gst-constitution",
+        "b-gst"
+      ]
+    },
+    {
+      "id": "q-tax-2",
+      "topicId": "tax",
+      "stem": "A student says no consideration means no activity can ever be a GST supply. What is the best correction?",
+      "options": [
+        "All unpaid activity is taxable.",
+        "The student is always correct.",
+        "Section 7 includes specified Schedule I cases without consideration.",
+        "Only the number of parties matters."
+      ],
+      "correctIndex": 2,
+      "explanation": "The statute contains specified no-consideration inclusions. That does not mean all unpaid activity is taxable; conditions and exclusions remain.",
+      "trap": "Both absolute alternatives overstate the rule.",
+      "type": "application",
+      "sourceIds": [
+        "f-src-constitution",
+        "b-gst-constitution",
+        "b-gst"
+      ]
+    },
+    {
+      "id": "q-tax-3",
+      "topicId": "tax",
+      "stem": "Which pairing is correct?",
+      "options": [
+        "Article 279A: GST Council; Article 246A: GST competence",
+        "Article 279A: copyright; Article 246A: divorce",
+        "Article 265: company incorporation; Article 279A: bail",
+        "Article 246A: every current tax rate"
+      ],
+      "correctIndex": 0,
+      "explanation": "Article 279A establishes the Council framework; Article 246A concerns GST legislative power. Neither is a complete live rate schedule.",
+      "trap": "Constitutional functions and transaction-level calculations are different.",
+      "type": "distinction",
+      "sourceIds": [
+        "f-src-constitution",
+        "b-gst-constitution",
+        "b-gst"
+      ]
+    },
+    {
+      "id": "q-tax-4",
+      "topicId": "tax",
+      "stem": "Which revision practice is NOT reliable?",
+      "options": [
+        "Checking the relevant date",
+        "Separating supply classification from rate",
+        "Reading the applicable statutory exclusion",
+        "Treating an undated old-paper rate as permanently current"
+      ],
+      "correctIndex": 3,
+      "explanation": "Historical rates and legal provisions must be checked against the relevant current law or the date specified by the question.",
+      "trap": "Do not silently convert a historical fact into current advice.",
+      "type": "negative",
+      "sourceIds": [
+        "f-src-constitution",
+        "b-gst-constitution",
+        "b-gst"
+      ]
+    }
+  ],
+  "passages": [
+    {
+      "id": "property-desk",
+      "title": "A sale promise, a lease and a security",
+      "topicId": "property",
+      "passage": "A fictional revision group compares three transactions under the Transfer of Property Act. In the first, a landowner signs a contract promising a later sale. A student immediately treats the contract itself as an ownership transfer. The tutor asks the group to read section 54 and distinguish the sale from a contract for sale. In the second transaction, an owner grants a right to enjoy property for the agreed term and consideration. The class should identify the lease concept under section 105 rather than assume every grant conveys ownership. In the third transaction, an interest in specified immovable property is transferred as security for a debt, raising the mortgage definition in section 58. The problem does not ask students to decide registration, stamp duty or every remedy from these short facts. Those issues have their own legal requirements. Instead it asks what kind of interest the transaction purports to create. The tutor also warns that an expected inheritance from a living relative should not automatically be treated as present transferable ownership. To revise efficiently, students draw a different arrow for an ownership transfer, a right of enjoyment, and a security interest, then add the relevant statutory conditions.",
+      "sourceIds": [
+        "breadth-tpa"
+      ],
+      "provenance": "original_fictional_learning_scenario",
+      "questions": [
+        {
+          "id": "pq-property-desk-1",
+          "topicId": "property",
+          "stem": "What distinction is central to the first transaction?",
+          "options": [
+            "A contract for sale and a completed sale are not identical.",
+            "A promise automatically transfers every ownership interest.",
+            "A lease always transfers ownership.",
+            "A mortgage is an inheritance."
+          ],
+          "correctIndex": 0,
+          "explanation": "Section 54 distinguishes a sale from a contract for sale. The contract alone does not itself create the same interest as a completed transfer.",
+          "trap": "Do not confuse an obligation to transfer with the completed proprietary transfer.",
+          "type": "distinction",
+          "sourceIds": [
+            "breadth-tpa"
+          ]
+        },
+        {
+          "id": "pq-property-desk-2",
+          "topicId": "property",
+          "stem": "Which transaction most closely fits the mortgage definition supplied?",
+          "options": [
+            "A general study promise",
+            "The transfer of an interest as security for a debt",
+            "The naming of a company",
+            "Every expected inheritance"
+          ],
+          "correctIndex": 1,
+          "explanation": "Section 58 concerns the transfer of an interest in specified immovable property for the stated security purposes.",
+          "trap": "Security and ordinary enjoyment are different interests.",
+          "type": "application",
+          "sourceIds": [
+            "breadth-tpa"
+          ]
+        },
+        {
+          "id": "pq-property-desk-3",
+          "topicId": "property",
+          "stem": "Which conclusion is NOT justified by the passage?",
+          "options": [
+            "A lease may involve a right of enjoyment.",
+            "Further formal requirements may matter.",
+            "The short classification automatically resolves every registration and remedy question.",
+            "Different arrows can represent different interests."
+          ],
+          "correctIndex": 2,
+          "explanation": "The exercise expressly leaves formal requirements and remedies for separate analysis. Classification is only the starting point.",
+          "trap": "Do not make an initial category answer stand in for every legal condition.",
+          "type": "negative",
+          "sourceIds": [
+            "breadth-tpa"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "company-desk",
+      "title": "The board, the investor and the regulator",
+      "topicId": "company-securities",
+      "passage": "A fictional company-law workshop follows a proposed investment in an incorporated enterprise. An investor reads a promotional document and asks who is responsible for its statements. Another participant assumes that becoming a shareholder would make her the personal owner of every machine the company has bought. The tutor separates the company’s legal personality from its members’ share interests. She then asks students to identify any disclosure issue in the relevant document and to distinguish the criminal and civil statutory inquiries rather than assume they have identical conditions. A director explains that the proposed transaction may produce a profit. The tutor responds that directors’ good-faith, care and conflict duties still require examination; a predicted profit is not a universal cure for a conflict. Finally, a student confuses the board of directors with the Securities and Exchange Board of India because both names contain the word board. The tutor asks which institution has the statutory securities-market investor-protection mandate under section 11 of the SEBI Act. The exercise supplies no listing status, current CSR threshold or penalty amount. Those facts and applicable legal versions must be checked separately if a later question requires them.",
+      "sourceIds": [
+        "b-company",
+        "b-sebi"
+      ],
+      "provenance": "original_fictional_learning_scenario",
+      "questions": [
+        {
+          "id": "pq-company-desk-1",
+          "topicId": "company-securities",
+          "stem": "What is the shareholder’s ownership shortcut?",
+          "options": [
+            "Separating actors before analysing duties",
+            "Treating share ownership as personal title to every company machine",
+            "Checking the document’s legal role",
+            "Asking about listing status"
+          ],
+          "correctIndex": 1,
+          "explanation": "A shareholder’s shares do not themselves make that person the personal owner of each asset held by the separate company.",
+          "trap": "Distinguish a share interest from the company’s title to assets.",
+          "type": "application",
+          "sourceIds": [
+            "b-company",
+            "b-sebi"
+          ]
+        },
+        {
+          "id": "pq-company-desk-2",
+          "topicId": "company-securities",
+          "stem": "Which is NOT a sound director-duty inference?",
+          "options": [
+            "A conflict needs examination.",
+            "Care and good faith matter.",
+            "Predicted profit automatically cures every conflict.",
+            "The statutory provision should be read."
+          ],
+          "correctIndex": 2,
+          "explanation": "Section 166 duties are not universally displaced by anticipated profit. The relevant duty and facts still matter.",
+          "trap": "A favourable commercial outcome is not a complete legal defence.",
+          "type": "negative",
+          "sourceIds": [
+            "b-company",
+            "b-sebi"
+          ]
+        },
+        {
+          "id": "pq-company-desk-3",
+          "topicId": "company-securities",
+          "stem": "Which body has the section 11 SEBI Act mandate described?",
+          "options": [
+            "Every shareholder’s private club",
+            "Only the company’s board",
+            "The registrar acting as a civil jury",
+            "SEBI"
+          ],
+          "correctIndex": 3,
+          "explanation": "The Securities and Exchange Board of India has the specified market-regulation and investor-protection role. It is not the board of a particular company.",
+          "trap": "Match the statutory institution, not a shared word in its name.",
+          "type": "distinction",
+          "sourceIds": [
+            "b-company",
+            "b-sebi"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "international-desk",
+      "title": "Two courts in a seminar note",
+      "topicId": "international",
+      "passage": "A fictional international-law seminar receives a note using ICJ and ICC as though the abbreviations were interchangeable. The first hypothetical is a contentious dispute between two States. The second concerns alleged individual responsibility under the Rome Statute. The seminar leader asks students to identify the institution, legal actor, source of jurisdiction and requested consequence before arguing about the merits. She explains that ICJ Article 34 limits parties in contentious cases to States and that its jurisdiction still needs a legal basis. She also distinguishes the Court’s applicable-law provision from the separate question of binding effect between parties in a particular case. The ICC material raises a different set of questions, including the elements of specific international crimes and the relationship with genuine national proceedings. The leader rejects the claim that every grave act is necessarily genocide: the protected-group intent and specified conduct require attention. She also rejects the idea that an individual automatically becomes a contentious party before the ICJ merely because the dispute affects that individual. The exercise does not ask for the current details of aggression jurisdiction from the original 1998 text. It asks for careful institutional and element-based reasoning from the supplied rules.",
+      "sourceIds": [
+        "b-icj",
+        "b-rome"
+      ],
+      "provenance": "original_fictional_learning_scenario",
+      "questions": [
+        {
+          "id": "pq-international-desk-1",
+          "topicId": "international",
+          "stem": "Which pairing best follows the seminar’s starting distinction?",
+          "options": [
+            "ICJ: inter-State contentious dispute; ICC: individual criminal responsibility",
+            "ICJ: every private complaint; ICC: company registration",
+            "Both: identical functions in every proceeding",
+            "Neither court needs jurisdiction"
+          ],
+          "correctIndex": 0,
+          "explanation": "The institutions have different actors and functions. Their jurisdictional conditions remain separate questions.",
+          "trap": "Similar abbreviations do not establish identical jurisdiction.",
+          "type": "distinction",
+          "sourceIds": [
+            "b-icj",
+            "b-rome"
+          ]
+        },
+        {
+          "id": "pq-international-desk-2",
+          "topicId": "international",
+          "stem": "What is missing from the claim that every grave act is genocide?",
+          "options": [
+            "A company’s share count",
+            "The protected-group intent and other statutory elements",
+            "A domestic tax rate",
+            "A compulsory conclusion in every case"
+          ],
+          "correctIndex": 1,
+          "explanation": "The genocide definition requires the specified intent and conduct; seriousness alone does not establish every element.",
+          "trap": "Avoid substituting moral severity for a precise offence definition.",
+          "type": "application",
+          "sourceIds": [
+            "b-icj",
+            "b-rome"
+          ]
+        },
+        {
+          "id": "pq-international-desk-3",
+          "topicId": "international",
+          "stem": "Which claim is NOT supported?",
+          "options": [
+            "The legal actor matters.",
+            "Jurisdiction should be checked.",
+            "Any affected individual automatically becomes an ICJ contentious party.",
+            "Applicable law and binding effect are different inquiries."
+          ],
+          "correctIndex": 2,
+          "explanation": "ICJ Article 34 limits contentious parties to States. Being affected does not itself create party standing in that procedure.",
+          "trap": "Keep personal interest separate from the standing rule.",
+          "type": "negative",
+          "sourceIds": [
+            "b-icj",
+            "b-rome"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "environment-desk",
+      "title": "The river-risk and restoration exercise",
+      "topicId": "environment",
+      "passage": "In an original fictional seminar, residents are worried about a proposed activity near a river. The problem supplies uncertainty about the environmental risk and asks students to identify the precautionary reasoning that might become relevant under the governing law. A second stage assumes that environmental harm has occurred and asks about responsibility for restoration. One student calls polluter pays a permission to cause unlawful harm if money is later paid. The tutor rejects that description. She explains that NGT Act section 20 names sustainable development, precaution and polluter pays, but a principle does not itself establish every jurisdictional condition or the amount and form of a remedy. The class must also identify the statutory forum and the legal conditions of relief. The tutor then adds a constitutional comparison: Article 48A addresses the State as a Directive Principle, while Article 51A(g) identifies a citizen duty. The students must not turn either description into an unqualified claim that every environmental dispute is automatically resolved under a Part III provision. The exercise keeps prevention, responsibility, jurisdiction and constitutional location separate, while allowing more than one principle to be relevant to a carefully specified legal problem.",
+      "sourceIds": [
+        "b-ngt",
+        "f-src-constitution"
+      ],
+      "provenance": "original_fictional_learning_scenario",
+      "questions": [
+        {
+          "id": "pq-environment-desk-1",
+          "topicId": "environment",
+          "stem": "Which principle is most directly associated with the first risk-and-uncertainty stage?",
+          "options": [
+            "Separate personality",
+            "Precaution",
+            "Contract acceptance",
+            "Double jeopardy"
+          ],
+          "correctIndex": 1,
+          "explanation": "The supplied facts focus on precautionary reasoning about environmental risk and uncertainty, subject to the governing law.",
+          "trap": "Do not answer a preventive question only with a compensation label.",
+          "type": "application",
+          "sourceIds": [
+            "b-ngt",
+            "f-src-constitution"
+          ]
+        },
+        {
+          "id": "pq-environment-desk-2",
+          "topicId": "environment",
+          "stem": "Which statement is NOT supported by the tutor?",
+          "options": [
+            "Statutory jurisdiction matters.",
+            "Restoration can raise responsibility questions.",
+            "Polluter pays permits unlawful pollution whenever payment follows.",
+            "More than one principle may be relevant."
+          ],
+          "correctIndex": 2,
+          "explanation": "Polluter pays concerns responsibility for harm and restoration, not a general purchased permission for unlawful pollution.",
+          "trap": "Do not invert a responsibility principle into a licence.",
+          "type": "negative",
+          "sourceIds": [
+            "b-ngt",
+            "f-src-constitution"
+          ]
+        },
+        {
+          "id": "pq-environment-desk-3",
+          "topicId": "environment",
+          "stem": "Which constitutional distinction is stated?",
+          "options": [
+            "48A and 51A(g) are identical tax rules.",
+            "Both are company incorporation provisions.",
+            "Both eliminate the need to check statutory relief.",
+            "48A: State Directive Principle; 51A(g): citizen duty"
+          ],
+          "correctIndex": 3,
+          "explanation": "The two constitutional provisions have different addressees and locations. They should not be collapsed into an identical Part III right.",
+          "trap": "Similar subject matter does not erase constitutional structure.",
+          "type": "distinction",
+          "sourceIds": [
+            "b-ngt",
+            "f-src-constitution"
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "breadth-hma",
+      "title": "Hindu Marriage Act, 1955 — India Code",
+      "url": "https://www.indiacode.nic.in/bitstream/123456789/1560/1/A1955-25Eng.pdf",
+      "pinpoint": "Sections 2, 10, 13B, 24 and 25; official indexed edition as on 15 April 2026",
+      "accessed": "2026-11-17",
+      "kind": "statute"
+    },
+    {
+      "id": "breadth-hsa",
+      "title": "Hindu Succession Act, 1956 — India Code",
+      "url": "https://indiacode.gov.in/server/api/core/bitstreams/08b1e3ba-8e9d-4022-8cb7-b0b2ac577f3e/content",
+      "pinpoint": "Sections 3(1)(a),(c),(g), 6, 8–10 and 30; edition as on 1 June 2026",
+      "accessed": "2026-11-17",
+      "kind": "statute"
+    },
+    {
+      "id": "breadth-tpa",
+      "title": "Transfer of Property Act, 1882 — India Code",
+      "url": "https://www.indiacode.nic.in/bitstream/123456789/2338/1/A1882-04.pdf",
+      "pinpoint": "Sections 5, 6(a), 52, 54, 58(a), 60, 105 and 122",
+      "accessed": "2026-11-17",
+      "kind": "statute"
+    },
+    {
+      "id": "b-company",
+      "title": "Companies Act, 2013: official enactment reproduced by WIPO Lex",
+      "url": "https://www.wipo.int/wipolex/en/legislation/details/15873",
+      "pinpoint": "Sections 9, 34–35, 135 and 166. This is an enactment text, not a claim that every subsequent amendment is consolidated.",
+      "kind": "statute",
+      "accessed": "2026-11-17",
+      "verification": "Relevant primary provisions inspected; summaries remain AI-drafted, not qualified legal review."
+    },
+    {
+      "id": "b-sebi",
+      "title": "SEBI Act: statutory functions of the Board",
+      "url": "https://www.sebi.gov.in/acts/act15ac.html",
+      "pinpoint": "Section 11(1) and the listed securities-market functions. Avoid reliance on this legacy page for live procedural limits.",
+      "kind": "statute",
+      "accessed": "2026-11-17",
+      "verification": "Relevant primary provisions inspected; summaries remain AI-drafted, not qualified legal review."
+    },
+    {
+      "id": "b-ir",
+      "title": "Industrial Relations Code, 2020: government-hosted enactment",
+      "url": "https://labour.tn.gov.in/pdf/archives/The-Industrial-act-2020.pdf",
+      "pinpoint": "Sections 2 (definitions), 14 (negotiating union/council), 43 (conciliation) and 44 (Tribunal). Original enactment; use with the 2026 amendment.",
+      "kind": "statute",
+      "accessed": "2026-11-17",
+      "verification": "Relevant primary provisions inspected; summaries remain AI-drafted, not qualified legal review."
+    },
+    {
+      "id": "b-ir-amendment",
+      "title": "Industrial Relations Code (Amendment) Act, 2026",
+      "url": "https://www.labour.gov.in/static/uploads/2026/02/91ef39e2096112f8b798e6c45c732e2f.pdf",
+      "pinpoint": "Sections 1–2: retrospective commencement statement, substituted section 104(1), and continuing old authorities under 104(1A).",
+      "kind": "statute",
+      "accessed": "2026-11-17",
+      "verification": "Relevant primary provisions inspected; summaries remain AI-drafted, not qualified legal review."
+    },
+    {
+      "id": "b-icj",
+      "title": "ICJ Statute: United Nations official text",
+      "url": "https://www.un.org/en/about-us/un-charter/statute-of-the-international-court-of-justice",
+      "pinpoint": "Articles 34, 36, 38, 59 and 65.",
+      "kind": "statute",
+      "accessed": "2026-11-17",
+      "verification": "Relevant provisions visible in official indexed text; direct full-page access returned HTTP 403 in this run. No full-text retrieval claimed."
+    },
+    {
+      "id": "b-rome",
+      "title": "Rome Statute: United Nations primary text",
+      "url": "https://legal.un.org/icc/statute/99_corr/cstatute.htm",
+      "pinpoint": "Articles 1, 5–8, 17 and 25. Historical 1998 text; do not use its original aggression clause as a current complete jurisdiction statement.",
+      "kind": "statute",
+      "accessed": "2026-11-17",
+      "verification": "Relevant primary provisions inspected; summaries remain AI-drafted, not qualified legal review."
+    },
+    {
+      "id": "b-ngt",
+      "title": "National Green Tribunal Act: government-hosted Gazette text",
+      "url": "https://parivesh.nic.in/publicdocument/UPLOAD_OM_NOTIFICATION/IA_DOCS/1005_10082025092442.pdf",
+      "pinpoint": "Sections 14–15, 19–20: jurisdiction/relief, procedure and three environmental principles.",
+      "kind": "statute",
+      "accessed": "2026-11-17",
+      "verification": "Relevant primary provisions inspected; summaries remain AI-drafted, not qualified legal review."
+    },
+    {
+      "id": "b-patent3",
+      "title": "Patents Act: exclusions from inventions",
+      "url": "https://www.ipindia.gov.in/acts/patent-act-1970/section-3",
+      "pinpoint": "Section 3(c), (d), (k) and other exclusions. Read the exact clause, not a general ban on all improvements.",
+      "kind": "statute",
+      "accessed": "2026-11-17",
+      "verification": "Relevant primary provisions inspected; summaries remain AI-drafted, not qualified legal review."
+    },
+    {
+      "id": "b-patent48",
+      "title": "Patents Act: rights of patentees",
+      "url": "https://www.ipindia.gov.in/acts/patent-act-1970/section-48",
+      "pinpoint": "Section 48: product/process exclusionary rights, subject to the Act.",
+      "kind": "statute",
+      "accessed": "2026-11-17",
+      "verification": "Relevant primary provisions inspected; summaries remain AI-drafted, not qualified legal review."
+    },
+    {
+      "id": "b-patent53",
+      "title": "Patents Act: term",
+      "url": "https://www.ipindia.gov.in/acts/patent-act-1970/section-53",
+      "pinpoint": "Section 53: twenty-year filing-based term, including the specified international-application rule; renewal conditions remain relevant.",
+      "kind": "statute",
+      "accessed": "2026-11-17",
+      "verification": "Relevant primary provisions inspected; summaries remain AI-drafted, not qualified legal review."
+    },
+    {
+      "id": "b-copyright",
+      "title": "WIPO: copyright fundamentals",
+      "url": "https://www.wipo.int/en/web/copyright",
+      "pinpoint": "What copyright protects; expression versus ideas; rights and limitations. General orientation, not an Indian infringement ruling.",
+      "kind": "official",
+      "accessed": "2026-11-17",
+      "verification": "Relevant primary provisions inspected; summaries remain AI-drafted, not qualified legal review."
+    },
+    {
+      "id": "b-gst-constitution",
+      "title": "Constitution (101st Amendment): official CBIC text",
+      "url": "https://cbic-gst.gov.in/hindi/constitution-amendment-act.html",
+      "pinpoint": "Insertion of Articles 246A, 269A and 279A. Use with the Constitution, not as a tax-rate schedule.",
+      "kind": "statute",
+      "accessed": "2026-11-17",
+      "verification": "Relevant primary provisions inspected; summaries remain AI-drafted, not qualified legal review."
+    },
+    {
+      "id": "b-gst",
+      "title": "Central Goods and Services Tax Act: official text",
+      "url": "https://www.indiacode.nic.in/indiacode/bitstream/123456789/15689/1/A2017-12.pdf",
+      "pinpoint": "Sections 7–8: supply, specified inclusions/exclusions, composite/mixed supplies. No current rate or exemption entitlement is taught.",
+      "kind": "statute",
+      "accessed": "2026-11-17",
+      "verification": "Section 7 text inspected through the official indexed extract; direct PDF download timed out. Current rates and notifications not verified."
+    }
+  ],
+  "metadata": {
+    "version": "clat-studio-1",
+    "date": "2026-11-17",
+    "reviewStatus": "ai_drafted_qualified_review_pending",
+    "questionProvenance": "original_educational_questions_not_historical_exam_items",
+    "sourceBoundary": "Per-source retrieval/version qualifications apply; source references are not legal adjudication.",
+    "rightsBoundary": "Original teaching material only; linked source documents and restricted examination texts are not redistributed."
+  }
+}

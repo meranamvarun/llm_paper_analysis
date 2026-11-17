@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="A focused CLAT PG preparation studio: original lessons, spaced flashcards, legal passage practice and a plan for 6 December 2026.">
+  <meta name="theme-color" content="#103e3a">
+  <title>CLAT PG · Study Studio</title>
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./styles.css">
+  <script type="module" src="./app.js"></script>
+</head>
+<body>
+  <a href="#main" class="skip">Skip to study material</a>
+  <div class="app-shell">
+    <aside class="sidebar">
+      <a class="brand" href="#today" aria-label="Study Studio home"><span class="brand-mark" aria-hidden="true">§</span><span>Study Studio<small>CLAT PG · THE FINAL STRETCH</small></span></a>
+      <div class="nav-label">YOUR WORKSPACE</div>
+      <nav aria-label="Main navigation" id="navigation">
+        <a href="#today" data-route="today"><span aria-hidden="true">◷</span> Today</a>
+        <a href="#learn" data-route="learn"><span aria-hidden="true">▤</span> Topic library</a>
+        <a href="#recall" data-route="recall"><span aria-hidden="true">▱</span> Flashcards <b id="nav-due">0</b></a>
+        <a href="#practice" data-route="practice"><span aria-hidden="true">✎</span> Practice lab</a>
+        <a href="#mistakes" data-route="mistakes"><span aria-hidden="true">↺</span> Mistake notebook</a>
+        <a href="#plan" data-route="plan"><span aria-hidden="true">▦</span> Your study plan</a>
+        <a href="#sources" data-route="sources"><span aria-hidden="true">⌑</span> Sources & methods</a>
+      </nav>
+      <div class="sidebar-bottom"><p class="small-label">THE STUDY LOOP</p><p>Learn a rule.<br>Retrieve it.<br>Use it. Revisit it.</p><button class="text-button" data-action="settings">Plan & backup settings ↗</button><small>Private progress on this browser.</small></div>
+    </aside>
+    <div class="workspace"><header class="topbar"><span id="top-context">A little more deliberate, every day.</span><div><span class="save-status" id="save-status">Saved on this browser</span><button class="icon-button" data-action="settings" aria-label="Open settings">⚙</button></div></header><main id="main" tabindex="-1"><div class="loading"><span class="eyebrow">GETTING YOUR DESK READY</span><h1>A focused place to prepare.</h1><p>Loading the lesson library and your progress…</p></div></main><footer>Original practice, not past-paper questions. <a href="#sources">Sources & content status</a> · No sign-in. No analytics.</footer></div>
+  </div>
+  <div id="toast" role="status" aria-live="polite"></div>
+  <div id="announcer" class="sr-only" role="status" aria-live="polite"></div>
+  <dialog id="settings-dialog" aria-labelledby="settings-heading"></dialog>
+  <noscript><p class="noscript">Enable JavaScript to use the flashcards and practice tools. No account is required.</p></noscript>
+</body>
+</html>

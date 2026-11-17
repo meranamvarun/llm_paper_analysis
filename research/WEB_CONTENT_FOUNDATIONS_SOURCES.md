@@ -1,0 +1,11 @@
+# Foundation teaching-content provenance
+
+17 November 2026. `site/content-foundations.json` contains eight original teaching modules, 64 flashcards, 32 standalone questions and four fictional passage sets. All are AI-drafted educational material with qualified legal review pending. The JSON source registry retains the exact URLs and article/section/paragraph pinpoints; those references do not turn historical AI coding proposals into reviewed data.
+
+Source groups: Legislative Department Constitution text; India Code Contract Act, Specific Relief Act reference and Consumer Protection Act; official NCRB BNS/BSA chapter texts and comparison portal; Supreme Court procedural-fairness texts; Bentham's primary historical text and Hart's original article. Statute/version qualifications remain in the content. The bibliography does not claim that every linked text is a fully current consolidation.
+
+The foundation draft initially nominated a much longer Vinod Dua text for a basic negligence proposition. During integration, the primary court-hosted *Post Graduate Institute of Medical Education and Research, Chandigarh v Jaspal Singh*, Civil Appeal 7950 of 2002, was retrieved directly from `https://api.sci.gov.in/jonew/judis/34847.pdf`. Its paras 11–13 explicitly provide the relevant duty/breach/consequential-damage framework and civil/criminal distinction. The final registry uses that narrower source; no historical exam–judgment link or answer was adjudicated.
+
+Private retrieval evidence is under `data/student_strategy/20261117/web_sources/`; it is excluded from the deployable folder and ZIP. Primary text is linked, not bundled. No extracted exam text, question scans, raw corpus labels or original answer keys are in the public site.
+
+The first drafting pass supplied the eight lessons/cards/standalone questions. The integrating assistant completed four original passages, source integration, encoding clean-up and tests. This is collaborative AI drafting, not independent qualified coding or legal validation. `analysis/complete_prep_content.py` preserves the integration pass; the final JSON is the release content. No paid model/API invocation was made; exact model snapshot/settings were unavailable.
