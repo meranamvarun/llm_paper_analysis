@@ -1,0 +1,29 @@
+# Harness session retro (schema 1), written by `harness.py retro`. See harness/README.md.
+schema: 1
+primary_researcher: "TO CONFIRM"
+session_id: "spgupta20261117"
+tool: "codex"
+date: "2026-11-17"
+branch: "main"
+task_type: "citation-check"
+task: "Locate and record the 2020 Q57 S.P. Gupta passage in an open-data SCR volume copy"
+outcome: "partial"
+urgent: false
+metrics:
+  source: "none"
+  total: null
+quality:
+  self_score: 4
+  user_score: null
+  user_note: ""
+  corrections: 0
+  rework: 1
+  checks: "PDF metadata and SHA-256; scanned full volume; visually inspected printed pp.968-969; handoff cross-check; harness check 0 errors/warnings; git diff --check"
+waste: "First extraction scan emitted excessive/unicode-unsafe output; reran concise scan with UTF-8."
+lessons:
+  - tag: "quality"
+    rule: "Store third-party source classification and page-level visual evidence alongside source hash"
+    evidence: "Q57 passage located at printed p.968 in Tulpazapurkar J. opinion; direct Court-hosted copy and qualified review remain open"
+rules_helped: ["T1", "Q1", "Q3", "C2"]
+rules_missed: ["T2"]
+handoff: "research/NEXT_STEPS.md and research/JUDGMENT_SOURCE_SEARCH_SP_GUPTA.md updated; direct Court-hosted retrieval and qualified review remain open"
